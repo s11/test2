@@ -1,0 +1,88 @@
+// question: 24011  name: HAQ0705 
+::HAQ0705::[html]In small 2-stroke gasoline engines, this is done by ports that are opened and closed by the piston skirt during the engine cycle, or by pressure-operated .............................. valves.{
+	=%100%reed#
+}
+
+
+// question: 24012  name: HAQ0706 
+::HAQ0706::[html]Almost all 4-stroke gasoline and diesel engines use valves, which are located in the cylinder ...............................{
+	=%100%head#
+}
+
+
+// question: 24013  name: HAQ0707 
+::HAQ0707::[html]In a 4-cylinder car driven at around 90 kph, each valve opens and closes about 30 times a second. .............................. valves withstand huge temperatures and they can become red-hot.{
+	=%100%exhaust#
+}
+
+
+// question: 24014  name: HAQ0708 
+::HAQ0708::[html]Various surface treatments are used to help the valve resist wear, burning and ...............................{
+	=%100%corrosion#
+}
+
+
+// question: 24015  name: HAQ0709 
+::HAQ0709::[html]Exhaust valves are made of nickel-based alloys. Some high performance applications use especially hard-wearing .............................. alloys.{
+	=%100%titanium#
+}
+
+
+// question: 24016  name: HAQ0710 
+::HAQ0710::[html]A poppet or mushroom valve has 2 main parts, a .............................. and a head.{
+	=%100%stem#
+}
+
+
+// question: 24017  name: HAQ0711 
+::HAQ0711::[html]During operation, the head near the face of the valve transfers heat to the ...............................{
+	=%100%seat#
+}
+
+
+// question: 24018  name: HAQ0712 
+::HAQ0712::[html]The valve seat and guide are also cooled by .............................. in passages around the valve ports.{
+	=%100%coolant#
+}
+
+
+// question: 24019  name: HAQ0713 
+::HAQ0713::[html]The width of the valve seat is important. A .............................. seat is desirable because a thin circular contact with the valve face forms an efficient seal.{
+	=%100%narrow#
+}
+
+
+// question: 24020  name: HAQ0714 
+::HAQ0714::[html]A common compromise is for the inlet valve to have a .............................. seat than the exhaust valve.{
+	=%100%narrower#
+}
+
+
+// question: 24021  name: HAQ0727 
+::HAQ0727::[html]In a pushrod system the valves are in the cylinder head, but the camshaft is in the block near the crankshaft. A valve lifter or tappet rides on the cam. As the cam lobe reaches the lifter, it rises, transfers the motion to the ...............................{
+	=%100%pushrod#
+}
+
+
+// question: 24022  name: HAQ0728 
+::HAQ0728::[html]There are different kinds of lifters. A solid lifter is usually a hollow, cast iron cylinder mounted in a bore in the ...............................{
+	=%100%crankcase#
+}
+
+
+// question: 24023  name: HAQ0729 
+::HAQ0729::[html]The gap between the valve tip and the valve train is called valve .............................. or valve lash.{
+	=%100%clearance#
+}
+
+
+// question: 24024  name: HAQ0730 
+::HAQ0730::[html]Many engines now use .............................. valve lifters.{
+	=%100%hydraulic#
+}
+
+
+// question: 24025  name: HAQ0731 
+::HAQ0731::[html]Rocker arms transfer motion to the valves. The rocker arm rocks up and down using a .............................. mechanism.{
+	=%100%pivot#
+}

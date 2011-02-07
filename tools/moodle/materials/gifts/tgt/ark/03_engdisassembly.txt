@@ -1,0 +1,135 @@
+//name:TQ1544
+::TQ1544::Technician A says that the blower motor switch controls the thermostatic expansion valve or orifice tube. Technician B says that the thermostatic expansion valve or orifice tube converts high pressure liquid refrigerant into low pressure liquid refrigerant. Who is correct?{
+	~Technician A.#Technician B is correct as the blower motor switch controls blower speed. The thermostatic expansion valve, or orifice tube, creates a pressure differential that converts high pressure liquid refrigerant into low pressure liquid refrigerant.
+	=Technician B.#Technician B is correct as the blower motor switch controls blower speed. The thermostatic expansion valve, or orifice tube, creates a pressure differential that converts high pressure liquid refrigerant into low pressure liquid refrigerant.
+	~Both Technician A & Technician B.#Technician B is correct as the blower motor switch controls blower speed. The thermostatic expansion valve, or orifice tube, creates a pressure differential that converts high pressure liquid refrigerant into low pressure liquid refrigerant.
+	~Neither Technician A or Technician B.#Technician B is correct as the blower motor switch controls blower speed. The thermostatic expansion valve, or orifice tube, creates a pressure differential that converts high pressure liquid refrigerant into low pressure liquid refrigerant.
+}
+
+
+//name:TQ1545
+::TQ1545::The flywheel or flexplate is connected to the:{
+	=rear of the crankshaft.#The centerbolt is usually tightened to a very high torque setting, so you need to stop the crank from moving while you apply pressure to loosen it. Insert a large flathead screwdriver between two of the teeth of the flexplate or flywheel.
+	~front of the crankshaft.#The centerbolt is usually tightened to a very high torque setting, so you need to stop the crank from moving while you apply pressure to loosen it. Insert a large flathead screwdriver between two of the teeth of the flexplate or flywheel.
+	~harmonic balancer.#The centerbolt is usually tightened to a very high torque setting, so you need to stop the crank from moving while you apply pressure to loosen it. Insert a large flathead screwdriver between two of the teeth of the flexplate or flywheel.
+	~front of the camshaft.#The centerbolt is usually tightened to a very high torque setting, so you need to stop the crank from moving while you apply pressure to loosen it. Insert a large flathead screwdriver between two of the teeth of the flexplate or flywheel.
+}
+
+
+//name:TQ1546
+::TQ1546::How many different types of fluid have to be drained from the engine block?{
+	=Two.#When you undo the drain plug, make sure that you drain into a container that will hold nothing but oil. Although the radiator was drained to remove the engine from the vehicle, there will still be coolant in the block, so use a separate container for that.
+	~One.#When you undo the drain plug, make sure that you drain into a container that will hold nothing but oil. Although the radiator was drained to remove the engine from the vehicle, there will still be coolant in the block, so use a separate container for that.
+	~Three.#When you undo the drain plug, make sure that you drain into a container that will hold nothing but oil. Although the radiator was drained to remove the engine from the vehicle, there will still be coolant in the block, so use a separate container for that.
+	~Four.#When you undo the drain plug, make sure that you drain into a container that will hold nothing but oil. Although the radiator was drained to remove the engine from the vehicle, there will still be coolant in the block, so use a separate container for that.
+}
+
+
+//name:TQ1547
+::TQ1547::How would you remove a damper that is connected to the nose of the crankshaft?{
+	=Use a harmonic balancer removal tool.#The damper on many engines is pressed on to the nose of the crankshaft and can't be pulled off by hand. Use a harmonic balancer removal tool that will thread into the same holes the pulley was held by, using the same bolts.
+	~Unscrew it with a wrench.#The damper on many engines is pressed on to the nose of the crankshaft and can't be pulled off by hand. Use a harmonic balancer removal tool that will thread into the same holes the pulley was held by, using the same bolts.
+	~Lever it off with a pry bar.#The damper on many engines is pressed on to the nose of the crankshaft and can't be pulled off by hand. Use a harmonic balancer removal tool that will thread into the same holes the pulley was held by, using the same bolts.
+	~Cut it off with a hacksaw.#The damper on many engines is pressed on to the nose of the crankshaft and can't be pulled off by hand. Use a harmonic balancer removal tool that will thread into the same holes the pulley was held by, using the same bolts.
+}
+
+
+//name:TQ1548
+::TQ1548::How would you minimize the risk of stripping the heads of bolts that are hard to remove?{
+	=Use a six-point socket rather than a twelve point socket or an open-ended wrench.#Keep notes and label parts to keep them in their correct order, especially parts like spark plugs as they can be used to assist in diagnosing engine problems.
+	~Apply some lubricating oil around the base of the bolthead.#Keep notes and label parts to keep them in their correct order, especially parts like spark plugs as they can be used to assist in diagnosing engine problems.
+	~Use a long-handled box-wrench, or ring-spanner.#Keep notes and label parts to keep them in their correct order, especially parts like spark plugs as they can be used to assist in diagnosing engine problems.
+	~Engage the wrench and then hit it with a hammer to loosen the bolt.#Keep notes and label parts to keep them in their correct order, especially parts like spark plugs as they can be used to assist in diagnosing engine problems.
+}
+
+
+//name:TQ1549
+::TQ1549::What is the name of the small component that is under the rocker nut?{
+	=Pivot ball.#If the engine has rocker shafts that the rocker arms are mounted on, the entire shaft is usually unbolted and lifted off as one piece. As the rocker arms come off, make sure the pivot ball that is under the rocker nut stays with its respective rocker arm.
+	~Rocker ball.#If the engine has rocker shafts that the rocker arms are mounted on, the entire shaft is usually unbolted and lifted off as one piece. As the rocker arms come off, make sure the pivot ball that is under the rocker nut stays with its respective rocker arm.
+	~Rocker seal.#If the engine has rocker shafts that the rocker arms are mounted on, the entire shaft is usually unbolted and lifted off as one piece. As the rocker arms come off, make sure the pivot ball that is under the rocker nut stays with its respective rocker arm.
+	~Pivot seal.#If the engine has rocker shafts that the rocker arms are mounted on, the entire shaft is usually unbolted and lifted off as one piece. As the rocker arms come off, make sure the pivot ball that is under the rocker nut stays with its respective rocker arm.
+}
+
+
+//name:TQ1550
+::TQ1550::If you find crusty flakes of burned oil in the combustion chamber when you remove the cylinder head, what would that most probably indicate?{
+	=Worn valve guides.#Engine symptoms can often be diagnosed by looking at the sealing surfaces of the old gaskets, which sometimes stick to the head, sometimes to the block.
+	~Worn engine cylinder sleeve.#Engine symptoms can often be diagnosed by looking at the sealing surfaces of the old gaskets, which sometimes stick to the head, sometimes to the block.
+	~Contaminated fuel.#Engine symptoms can often be diagnosed by looking at the sealing surfaces of the old gaskets, which sometimes stick to the head, sometimes to the block.
+	~Incorrect lubricating oil.#Engine symptoms can often be diagnosed by looking at the sealing surfaces of the old gaskets, which sometimes stick to the head, sometimes to the block.
+}
+
+
+//name:TQ1551
+::TQ1551::When separating the sump from the block:{
+	=insert a sharp tool such as a putty knife between the sump and block to loosen the sump.#Then insert a putty knife of gasket scraper between the block and the pan and start to pry it loose. 
+	~drive a cold chisel in the sump and block to loosen the sump.#Then insert a putty knife or gasket scraper between the block and the pan and start to pry it loose. 
+	~hit the sump in several locations to loosen the sump from the block.#Then insert a putty knife or gasket scraper between the block and the pan and start to pry it loose. 
+	~drive a screwdriver in between the sump and block and lever it down.#Then insert a putty knife or gasket scraper between the block and the pan and start to pry it loose. 
+}
+
+
+//name:TQ1552
+::TQ1552::Before you remove the timing chain, how would you check whether it has stretched beyond its specification?{
+	=Refer to the workshop manual for the timing chain specifications on wear limits.#The manual will tell you the maximum stretch allowed, which is expressed as the amount of flex that acceptable. Measure the flex with a small ruler, and replace the chain if it is beyond specification. Some chains are so worn it will be obvious they cannot be reused.
+	~Put a new chain up against the one still attached to the engine.#The manual will tell you the maximum stretch allowed, which is expressed as the amount of flex that acceptable. Measure the flex with a small ruler, and replace the chain if it is beyond specification. Some chains are so worn it will be obvious they cannot be reused.
+	~Inspect the chain links for signs of wear.#The manual will tell you the maximum stretch allowed, which is expressed as the amount of flex that acceptable. Measure the flex with a small ruler, and replace the chain if it is beyond specification. Some chains are so worn it will be obvious they cannot be reused.
+	~Visually inspect the chain for serviceability.#The manual will tell you the maximum stretch allowed, which is expressed as the amount of flex that acceptable. Measure the flex with a small ruler, and replace the chain if it is beyond specification. Some chains are so worn it will be obvious they cannot be reused.
+}
+
+
+//name:TQ1553
+::TQ1553::Technicians are repairing an engine that has failed. They are working on disassembling the engine: Technician A says that a connecting rod caps do not need to be marked prior to disassembly as the connecting rods are to be resized. Technician B says that a connecting rod caps must to be marked prior to disassembly to ensure that they go back in the correct position. Who is right?{
+	~Technician A.#Technician B is correct. Always mark the connecting rods before you remove them. The best way to do this is with a number punch set, but you could use a regular center punch.
+	=Technician B.#Technician B is correct. Always mark the connecting rods before you remove them. The best way to do this is with a number punch set, but you could use a regular center punch.
+	~Both Technician A and Technician B.#Technician B is correct. Always mark the connecting rods before you remove them. The best way to do this is with a number punch set, but you could use a regular center punch.
+	~Neither Technician A and Technician B.#Technician B is correct. Always mark the connecting rods before you remove them. The best way to do this is with a number punch set, but you could use a regular center punch.
+}
+
+
+//name:TQ1554
+::TQ1554::Technicians are repairing an engine that has failed. They are working on disassembling the engine: Technician A says that a connecting rod cap bolts need a protective sleeve over them before removing the pistion. Technician B says that a connecting rod cap bolts could scratch the cylinder walls during disassembly. Who is right?{
+	~Technician A.#Both technicians are correct. Put some protecting sleeves onto the rod bolts so they cannot scratch the crankshaft or cylinder walls as the pistons are pushed out.
+	~Technician B.#Both technicians are correct. Put some protecting sleeves onto the rod bolts so they cannot scratch the crankshaft or cylinder walls as the pistons are pushed out.
+	=Both Technician A and Technician B.#Both technicians are correct. Put some protecting sleeves onto the rod bolts so they cannot scratch the crankshaft or cylinder walls as the pistons are pushed out.
+	~Neither Technician A and Technician B.#Both technicians are correct. Put some protecting sleeves onto the rod bolts so they cannot scratch the crankshaft or cylinder walls as the pistons are pushed out.
+}
+
+
+//name:TQ1555
+::TQ1555::After removing the crankshaft, inspect the main bearings:{
+	=for visible signs of wear and tear.#When there are visible wear patterns on the bearings, especially if the copper core is showing through in some areas, they will not be reusable and should be replaced. If you are not sure of their reusability, take them to a machine shop specialist for advice. 
+	~and mark their location so that they can be reassembled in the correct location.#When there are visible wear patterns on the bearings, especially if the copper core is showing through in some areas, they will not be reusable and should be replaced. If you are not sure of their reusability, take them to a machine shop specialist for advice. 
+	~and discard as they are to be replaced.#When there are visible wear patterns on the bearings, especially if the copper core is showing through in some areas, they will not be reusable and should be replaced. If you are not sure of their reusability, take them to a machine shop specialist for advice. 
+	~wash them and spray a protective coating over them.#When there are visible wear patterns on the bearings, especially if the copper core is showing through in some areas, they will not be reusable and should be replaced. If you are not sure of their reusability, take them to a machine shop specialist for advice. 
+}
+
+
+//name:TQ1556
+::TQ1556::When removing the camshaft, ensure:{
+	=the lifters are pushed out of the way the cams.#Before removing the camshaft, make sure that the lifters are all pushed out of the way of the camshaft. With the block inverted, gravity should help keep them there.
+	~you mark the direction of removal for the camshaft so that it cannot be put back incorrectly.#Before removing the camshaft, make sure that the lifters are all pushed out of the way of the camshaft. With the block inverted, gravity should help keep them there.
+	~that the valves have been released and are not applying pressure to the camshaft.#Before removing the camshaft, make sure that the lifters are all pushed out of the way of the camshaft. With the block inverted, gravity should help keep them there.
+	~that the bearings don't fall out.#Before removing the camshaft, make sure that the lifters are all pushed out of the way of the camshaft. With the block inverted, gravity should help keep them there.
+}
+
+
+//name:TQ1557
+::TQ1557::Technicians are repairing an engine that has failed. They are working on disassembling the engine: Technician A says that it is not necessary to remove all the access expandable plugs from the engine. Technician B says that only the cooling system expandable plugs need to be removed. Who is right?{
+	~Technician A.#Neither technician is correct. Check the service manual to locate all of these. Go round the block taking notes as you remove any plug or adapter or fitting that would hinder the cleaning process.
+	~Technician B.#Neither technician is correct. Check the service manual to locate all of these. Go round the block taking notes as you remove any plug or adapter or fitting that would hinder the cleaning process.
+	~Both Technician A and Technician B.#Neither technician is correct. Check the service manual to locate all of these. Go round the block taking notes as you remove any plug or adapter or fitting that would hinder the cleaning process.
+	=Neither Technician A and Technician B.#Neither technician is correct. Check the service manual to locate all of these. Go round the block taking notes as you remove any plug or adapter or fitting that would hinder the cleaning process.
+}
+
+
+//name:TQ1558
+::TQ1558::When removing the valve assemblies, what is the correct procedure for the disassembled parts?{
+	=They must be kept in order in relation to the valves and cylinders position.#Place all the valves from the heads in their proper place in an organizer tray with all the other components of the valve train.
+	~Keeping them in order does not matter during disassembly as they will be reconditioned.#Place all the valves from the heads in their proper place in an organizer tray with all the other components of the valve train.
+	~Keeping them in order does not matter during disassembly as they will be replaced#Place all the valves from the heads in their proper place in an organizer tray with all the other components of the valve train.
+	~The components need to be kept in groups for cleaning and inspection.#Place all the valves from the heads in their proper place in an organizer tray with all the other components of the valve train.
+}
+
+

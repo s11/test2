@@ -1,0 +1,106 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/sortable
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+b045e367eac64c5d6fe60e59032ef43e
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+
+README.rdoc
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+aae29aec1cbe51589d0871608adc1e4a
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+305c2abac373004dd57ca97b323f426f
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+67fdaa037d99fea1b0b6404df8595c35
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+
+MIT-LICENSE
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+602d9b865704c1bc9a9ce1d32f20439c
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+
+sortable.gemspec
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+cc31f0c1327682ff4c5d94b222f02e19
+2009-10-23T22:11:47.353749Z
+3543
+johnm
+

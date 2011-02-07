@@ -1,0 +1,30 @@
+#message-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  = render :partial => "messages/tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    #message
+      .fright{:style => "padding: 0.5em"}
+        = link_to_function "Reply to Message",      "$('#reply').toggle(); $('#cancel-button').toggle(); $('#reply-button').toggle()",  :id => "reply-button",  :class => "ui-button"
+        = link_to_function "Cancel Message Reply",  "$('#reply').toggle(); $('#cancel-button').toggle(); $('#reply-button').toggle()",  :id => "cancel-button", :class => "ui-button", :style => "display: none"
+
+      %table.header
+        %tbody
+          %tr
+            %th.right{ :width => "10%" } From:
+            %td&= resource.sender.fullname
+          %tr
+            %th.right Subject:
+            %td&= resource.subject
+          %tr
+            %th.right Date:
+            %td= resource.created_at.to_s(:db)
+      
+
+      .body{ :colspan => 2 }
+        = resource.body.andand.gsub(/\n/, "<br/>")
+
+      #reply.ui-helper-hidden
+        - form_for(resource_reply, :url => reply_message_recipient_path(resource)) do |f|
+          = f.label :body, "Your reply:"
+          = f.text_area :body
+          = create_button_tag "Send Reply"

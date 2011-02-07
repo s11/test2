@@ -1,0 +1,318 @@
+menu,cdx_menu_name,map,shortname,category,test_type,test_type_abbr,quiz,qn_category
+mito,MITO (NZ),CDX MITO 5.1 Quizzes & Tests,introskills,Introductory Skills,Topic Group Test,TGT,Personal & property safety,perspropsafety
+,,,,,,,Hazards & emergencies ,hazemerg
+,,,,,,,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Power tools,powertools
+,,,,,,,Lifting equipment,liftingequip
+,,,,,,,Units of measure,unitsofmeasure
+,,,,,,,Diagnostic equipment,diagnosticequip
+,,,,,,,Automotive tools,automotivetools
+,,,,,,,Additional tools,additionaltools
+,,,,,Find-The-Missing Word,FTMW,Personal & property safety,perspropsafety
+,,,,,,,Hazards & emergencies ,hazemerg
+,,,,,,,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Power tools,powertools
+,,,,,,,Use electric power tools,useelecpowertools
+,,,,,,,Use air power tools,useairpowertools
+,,,,,,,Lifting equipment,liftingequip
+,,,,,,,Use workshop equipment,useworkshopequip
+,,,,,,,Units of measure,unitsofmeasure
+,,,,,,,Use measuring tools,usemeasuretools
+,,,,,,,Diagnostic equipment,diagnosticequip
+,,,,,,,Automotive tools,automotivetools
+,,,,,,,Additional tools,additionaltools
+,,,,,,,Use non-powered tools,usenonpoweredtools
+,,,,,Practice Exam,PE,MITO Introductory Skills,51MITOintroskillsPE
+,,,coreskills,Core Skills,Topic Group Test,TGT,People skills,peopleskills
+,,,,,,,Active listening,activelisten
+,,,,,,,Effective reading,effectiveread
+,,,,,,,Researching,researching
+,,,,,Find-The-Missing Word,FTMW,Communication,communication
+,,,,,Practice Exam,PE,MITO Core Skills,51MITOcoreskillsPE
+,,,autoadmin,Automotive Administration,Topic Group Test,TGT,Information procedures,infoproc
+,,,,,Find-The-Missing Word,FTMW,Information procedures,infoproc
+,,,,,,,Workplace scenario,workscenario
+,,,workshop,Workshop Engineering,Topic Group Test,TGT,Information & tools,infotools
+,,,,,Find-The-Missing Word,FTMW,Information & tools,infotools
+,,,inspectcertify,Inspection & Certification,Find-The-Missing Word,FTMW,Vehicle inspection procedures,vehinspectproc
+,,,prevent,Preventive Maintenance,Topic Group Test,TGT,Oil,oil
+,,,,,Find-The-Missing Word,FTMW,Oil,oil
+,,,,,,,Lubrication procedures,lubeproc
+,,,Engines,Engines,Topic Group Test,TGT,Engine layouts,enginelayouts
+,,,,,,,Engine components,enginecomp
+,,,,,,,Engine cycles,enginecycles
+,,,,,,,Motive power fundamental principles,motivepowerfundas
+,,,,,,,Engines,engines
+,,,,,,,4-stroke spark-ignition engines,4stroke
+,,,,,,,2-stroke spark-ignition engines,2stroke
+,,,,,,,Spark-ignition engine components,sparkignitioncomp
+,,,,,,,Compression-ignition engines,compressionignition
+,,,,,,,Compression-ignition engine components,compressionignitioncomp
+,,,,,,,Rotary spark-ignition engine & components,rotarycomp
+,,,,,,,Alternative engine cycles ,altenginecyles
+,,,,,,,Engine characteristics,enginecharacteristics
+,,,,,,,Cylinder heads,cylinderheads
+,,,,,,,Valves & valve trains,valvetrains
+,,,,,,,Camshafts & drives,camshafts
+,,,,,,,Cylinder blocks,cylinderblocks
+,,,,,,,Pistons,pistons
+,,,,,,,Crankshaft assemblies ,crankshaftassemblies
+,,,,,,,Lubrication systems,lubesys
+,,,,,,,Lubrication system components ,lubesyscomp
+,,,,,,,Cooling fundamentals,coolingfundamentals
+,,,,,,,Engine cooling ,enginecooling
+,,,,,,,Cooling systems,coolingsys
+,,,,,,,Cooling system components ,coolingsyscomp
+,,,,,Find-The-Missing Word,FTMW,Engine layouts,enginelayouts
+,,,,,,,Engine components,enginecomp
+,,,,,,,Engine cycles,enginecycles
+,,,,,,,Motive power fundamental principles,motivepowerfundas
+,,,,,,,Engines,engines
+,,,,,,,4-stroke spark-ignition engines,4stroke
+,,,,,,,2-stroke spark-ignition engines,2stroke
+,,,,,,,Spark-ignition engine components,sparkignitioncomp
+,,,,,,,Compression-ignition engines,compressionignition
+,,,,,,,Compression-ignition engine components,compressionignitioncomp
+,,,,,,,Rotary spark-ignition engine & components,rotarycomp
+,,,,,,,Alternative engine cycles ,altenginecyles
+,,,,,,,Engine characteristics,enginecharacteristics
+,,,,,,,Cylinder heads,cylinderheads
+,,,,,,,Valves & valve trains,valvetrains
+,,,,,,,Camshafts & drives,camshafts
+,,,,,,,Cylinder blocks,cylinderblocks
+,,,,,,,Pistons,pistons
+,,,,,,,Crankshaft assemblies ,crankshaftassemblies
+,,,,,,,Engine component procedures,enginecompproc
+,,,,,,,Lubrication systems,lubesys
+,,,,,,,Lubrication system components ,lubesyscomp
+,,,,,,,Cooling fundamentals,coolingfundamentals
+,,,,,,,Engine cooling ,enginecooling
+,,,,,,,Cooling systems,coolingsys
+,,,,,,,Cooling system components ,coolingsyscomp
+,,,,,,,Cooling system procedures,coolingsysproc
+,,,,,,,Introduction to engine rebuilding,introrebuild
+,,,,,,,Removing the engine,removeengine
+,,,,,,,Engine disassembly,enginedisassembly
+,,,,,,,Engine machining,enginemachining
+,,,,,,,Engine pre-assembly,enginepreassembly
+,,,,,,,Engine final assembly,enginefinalassembly
+,,,,,,,Engine re-installing,enginereinstalling
+,,,,,,,Engine start-up,enginestartup
+,,,,,Practice Exam,PE,MITO Engines,51MITOenginesPE
+,,,fuelsys,Fuel Systems & Exhaust,Topic Group Test,TGT,Gasoline fuel system principles,gasfuelsysprinc
+,,,,,,,Carburetor operation,carbop
+,,,,,,,Carbureted system components,carbsyscomp
+,,,,,,,EFI fuel supply system - principles,efiprinciples
+,,,,,,,EFI fuel supply system - components,eficomp
+,,,,,,,EFI operation,efioperation
+,,,,,,,Intake & exhaust systems,intakeexhaustsys
+,,,,,,,Exhaust system components,exhaustsyscomp
+,,,,,,,Diesel fuel systems,dieselfuelsys
+,,,,,,,Diesel fuel system components ,dieselfuelsyscomp
+,,,,,,,Creation of emissions,creationemissions
+,,,,,,,Types of emissions,typesemissions
+,,,,,,,Emission control,emissioncontrol
+,,,,,,,Fuel systems,fuelsystems
+,,,,,,,Electronic control unit – ECU,ecu
+,,,,,,,EFI sensors,efisensors
+,,,,,,,Diesel electronic control,dieseleleccontrol
+,,,,,,,On-board diagnostics,obd
+,,,,,,,Alternate fuels introduction,altfuelsintro
+,,,,,,,Biodiesel ,biodiesel
+,,,,,,,Gaseous fuels,gaseousfuels
+,,,,,,,Alternate fuels developments,altfuelsdev
+,,,,,Find-The-Missing Word,FTMW,Gasoline fuel system principles,gasfuelsysprinc
+,,,,,,,Carburetor operation,carbop
+,,,,,,,Carbureted system components,carbsyscomp
+,,,,,,,EFI fuel supply system - principles,efiprinciples
+,,,,,,,EFI fuel supply system - components,eficomp
+,,,,,,,EFI operation,efioperation
+,,,,,,,Intake & exhaust systems,intakeexhaustsys
+,,,,,,,Exhaust system components,exhaustsyscomp
+,,,,,,,Diesel fuel systems,dieselfuelsys
+,,,,,,,Diesel fuel system components ,dieselfuelsyscomp
+,,,,,,,Intake system procedure,intakesysproc
+,,,,,,,Fuel system procedures,fuelsysproc
+,,,,,,,Creation of emissions,creationemissions
+,,,,,,,Types of emissions,typesemissions
+,,,,,,,Emission control,emissioncontrol
+,,,,,,,Fuel systems,fuelsystems
+,,,,,,,Emissions procedures,emissionsproc
+,,,,,,,Electronic control unit – ECU,ecu
+,,,,,,,EFI sensors,efisensors
+,,,,,,,Diesel electronic control,dieseleleccontrol
+,,,,,,,On-board diagnostics,obd
+,,,,,,,Alternate fuels introduction,altfuelsintro
+,,,,,,,Biodiesel ,biodiesel
+,,,,,,,Gaseous fuels,gaseousfuels
+,,,,,,,Alternate fuels developments,altfuelsdev
+,,,,,Practice Exam,PE,MITO Fuel Systems & Exhaust,51MITOfuelsysPE
+,,,Transmissions,Transmission Systems,Topic Group Test,TGT,Drive configurations ,driveconfig
+,,,,,,,Manual transmissions,manualtrans
+,,,,,,,Gearbox layout & operation ,gearboxlayoutop
+,,,,,,,Clutches,clutches
+,,,,,,,Clutch components,clutchcomp
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Front-wheel drive,frontwheeldrive
+,,,,,,,Rear-wheel drive,rearwheeldrive
+,,,,,,,Four-wheel drive (part-time),fourwheeldrive
+,,,,,,,All-wheel drive,allwheeldrive
+,,,,,,,Torque converters,torqueconverters
+,,,,,,,Planetary gearing,planetarygearing
+,,,,,,,Layout & operation,layoutop
+,,,,,,,Servos & clutches,servosclutches
+,,,,,,,Hydraulic system & controls,hydraulicsyscontrols
+,,,,,,,Valve types & functions,valvetypes
+,,,,,,,Pressure regulation,pressureregulation
+,,,,,,,Flow control,flowcontrol
+,,,,,,,Electronic control transmission,eleccontroltrans
+,,,,,,,Continuously variable transmission (C.V.T.),cvt
+,,,,,Find-The-Missing Word,FTMW,Drive configurations ,driveconfig
+,,,,,,,Manual transmissions,manualtrans
+,,,,,,,Gearbox layout & operation ,gearboxlayoutop
+,,,,,,,Clutches,clutches
+,,,,,,,Clutch components,clutchcomp
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Front-wheel drive,frontwheeldrive
+,,,,,,,Rear-wheel drive,rearwheeldrive
+,,,,,,,Four-wheel drive (part-time),fourwheeldrive
+,,,,,,,All-wheel drive,allwheeldrive
+,,,,,,,Torque converters,torqueconverters
+,,,,,,,Planetary gearing,planetarygearing
+,,,,,,,Layout & operation,layoutop
+,,,,,,,Servos & clutches,servosclutches
+,,,,,,,Hydraulic system & controls,hydraulicsyscontrols
+,,,,,,,Valve types & functions,valvetypes
+,,,,,,,Pressure regulation,pressureregulation
+,,,,,,,Flow control,flowcontrol
+,,,,,,,Electronic control transmission,eleccontroltrans
+,,,,,,,Continuously variable transmission (C.V.T.),cvt
+,,,,,,,Clutches & manual transmission procedures,clutchesmanualtransproc
+,,,,,,,Final drives procedures,finaldriveproc
+,,,,,,,Automatic transmission procedures,autotransproc
+,,,,,Practice Exam,PE,MITO Transmission Systems,51MITOtranssysPE
+,,,Brakes,Braking Systems,Topic Group Test,TGT,Braking fundamentals ,brakingfundas
+,,,,,,,Braking systems ,brakingsys
+,,,,,,,Braking system components,brakingsyscomp
+,,,,,,,Drum brakes & components ,drumbrakes
+,,,,,,,Disc brakes & components ,discbrakes
+,,,,,,,Antilock braking system & components,antilockbrakes
+,,,,,Find-The-Missing Word,FTMW,Braking fundamentals ,brakingfundas
+,,,,,,,Braking systems ,brakingsys
+,,,,,,,Braking system components,brakingsyscomp
+,,,,,,,Drum brakes & components ,drumbrakes
+,,,,,,,Disc brakes & components ,discbrakes
+,,,,,,,Brakes procedures,brakesproc
+,,,,,,,Antilock braking system & components,antilockbrakes
+,,,,,Practice Exam,PE,MITO Braking Systems,51MITObrakesysPE
+,,,steersusp,Steering & Suspension,Topic Group Test,TGT,Steering principles,steeringprinc
+,,,,,,,Steering boxes & columns,steeringboxes
+,,,,,,,Steering arms & components,steeringarms
+,,,,,,,Suspension fundamental principles,suspfundas
+,,,,,,,Types of suspension,typesofsusp
+,,,,,,,Types of springs,typesofsprings
+,,,,,,,Shock absorber types ,shocktypes
+,,,,,,,Front suspension types & components,frontsusptypes
+,,,,,,,Rear suspension types & components,rearsusptypes
+,,,,,,,Suspension system layouts,suspsyslayouts
+,,,,,,,Wheel alignment fundamentals,wheelalignfundas
+,,,,,Find-The-Missing Word,FTMW,Steering principles,steeringprinc
+,,,,,,,Steering boxes & columns,steeringboxes
+,,,,,,,Steering arms & components,steeringarms
+,,,,,,,Suspension fundamental principles,suspfundas
+,,,,,,,Types of suspension,typesofsusp
+,,,,,,,Types of springs,typesofsprings
+,,,,,,,Shock absorber types ,shocktypes
+,,,,,,,Front suspension types & components,frontsusptypes
+,,,,,,,Rear suspension types & components,rearsusptypes
+,,,,,,,Suspension system layouts,suspsyslayouts
+,,,,,,,Wheel alignment fundamentals,wheelalignfundas
+,,,,,,,Steering system procedures,steersysproc
+,,,,,,,Suspension system procedures,suspsysproc
+,,,,,Practice Exam,PE,MITO Steering & Suspension,51MITOsteersuspPE
+,,,tyres,Tyres,Topic Group Test,TGT,Wheel types & sizes ,wheeltypes
+,,,,,,,Tire types & characteristics ,tiretypes
+,,,,,,,Tire construction,tireconstruction
+,,,,,Find-The-Missing Word,FTMW,Wheel types & sizes ,wheeltypes
+,,,,,,,Tire types & characteristics ,tiretypes
+,,,,,,,Tire construction,tireconstruction
+,,,,,,,Wheels & tires procedures,wheelstiresproc
+,,,elec,Electrical & Electronics,Topic Group Test,TGT,Electrical fundamentals,elecfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Electrics,electrics
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Electrical components,electricalcomp
+,,,,,,,Electronic components,electroniccomp
+,,,,,,,Batteries,batteries
+,,,,,,,Charging,charging
+,,,,,,,Alternator construction,alternatorconst
+,,,,,,,Starting,starting
+,,,,,,,Lighting,lighting
+,,,,,,,Types of lights,typeslight
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Ignition systems,ignitionsys
+,,,,,,,Contact breaker ignition,contactbreakerignition
+,,,,,,,Contact breaker components,contactbreakcomp
+,,,,,,,Electronic systems & components,electronicsyscomp
+,,,,,,,Distributorless systems ,distributorless
+,,,,,,,Electronics,electronics
+,,,,,,,Security systems,securitysys
+,,,,,,,Entertainment & peripheral systems,entertainment
+,,,,,,,Satellite assisted systems,satellitesys
+,,,,,,,Hybrid drive systems,hybridsystems
+,,,,,Find-The-Missing Word,FTMW,Electrical fundamentals,elecfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Electrics,electrics
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Wires & connectors procedures ,wires
+,,,,,,,Electrical components,electricalcomp
+,,,,,,,Electronic components,electroniccomp
+,,,,,,,Batteries,batteries
+,,,,,,,Battery maintenance procedures,batteryproc
+,,,,,,,Charging,charging
+,,,,,,,Alternator construction,alternatorconst
+,,,,,,,Charging procedures ,chargingproc
+,,,,,,,Starting,starting
+,,,,,,,Starting procedures ,startingproc
+,,,,,,,Lighting,lighting
+,,,,,,,Types of lights,typeslight
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Lighting procedures,lightingproc
+,,,,,,,Electrical testing procedures ,electestproc
+,,,,,,,Ignition systems,ignitionsys
+,,,,,,,Contact breaker ignition,contactbreakerignition
+,,,,,,,Contact breaker components,contactbreakcomp
+,,,,,,,Electronic systems & components,electronicsyscomp
+,,,,,,,Distributorless systems ,distributorless
+,,,,,,,Ignition procedures,ignitionproc
+,,,,,,,Electronics,electronics
+,,,,,,,Security systems,securitysys
+,,,,,,,Entertainment & peripheral systems,entertainment
+,,,,,,,Satellite assisted systems,satellitesys
+,,,,,,,Hybrid drive systems,hybridsystems
+,,,,,Practice Exam,PE,MITO Electrical & Electronics,51MITOelecPE
+,,,hvac,HVAC,Topic Group Test,TGT,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Fixed orifice tube air-conditioning system ,fixedorifice
+,,,,,,,Thermal expansion valve air-conditioning system,thermalexpansion
+,,,,,,,Air-conditioning components,airconcomp
+,,,,,,,Climate control,climatecontrol
+,,,,,Find-The-Missing Word,FTMW,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Fixed orifice tube air-conditioning system ,fixedorifice
+,,,,,,,Thermal expansion valve air-conditioning system,thermalexpansion
+,,,,,,,Air-conditioning components,airconcomp
+,,,,,,,Climate control,climatecontrol
+,,,,,,,HVAC procedures,hvacproc
+,,,,,Practice Exam,PE,MITO HVAC,51MITOhvacPE
+,,,bodywork,Vehicle Bodywork,Topic Group Test,TGT,Chassis,chassis
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Safety systems,safetysys
+,,,,,Find-The-Missing Word,FTMW,Chassis,chassis
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Safety systems,safetysys
+,,,,,Practice Exam,PE,MITO Vehicle Bodywork,51MITObodyworkPE

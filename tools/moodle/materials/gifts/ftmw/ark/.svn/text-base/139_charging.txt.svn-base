@@ -1,0 +1,206 @@
+// question: 32341  name: HAQ2815 
+::HAQ2815::[html]The battery provides the electrical energy for starting. Then, once the engine is running, the ................. supplies all electrical components of the vehicle.{
+	=%100%alternator#
+}
+
+
+// question: 32342  name: HAQ2816 
+::HAQ2816::[html]A switched-mode power supply, or SMPS, is an electronic power supply unit (PSU) that incorporates a switching regulator - an internal control circuit that switches the load current rapidly on and off in order to stabilize the output .................{
+	=%100%voltage#
+}
+
+
+// question: 32344  name: HAQ2818 
+::HAQ2818::[html]AC and DC are abbreviations for alternating current and ................. current.{
+	=%100%direct#
+}
+
+
+// question: 32345  name: HAQ2819 
+::HAQ2819::[html]One simple method of DC to DC conversion is a circuit known as a voltage divider. This technique involves inserting a resistor in ................. with the voltage supply to lower the voltage.{
+	=%100%series#
+}
+
+
+// question: 32346  name: HAQ2820 
+::HAQ2820::[html]The alternator is universally used in automotive applications. It converts mechanical energy into ................. energy, by electro-magnetic induction.{
+	=%100%electrical#
+}
+
+
+// question: 32347  name: HAQ2821 
+::HAQ2821::[html]Current that changes direction is called ................. current, or AC. The change in direction occurs once for every complete revolution of the magnet.{
+	=%100%alternating#
+}
+
+
+// question: 32348  name: HAQ2822 
+::HAQ2822::[html]The stator contains windings of conductors and the ................. contains a moving magnetic field.{
+	=%100%rotor#
+}
+
+
+// question: 32349  name: HAQ2823 
+::HAQ2823::[html]The value of the electromotive force (EMF) induced by an alternator depends on the strength of the magnetic field. Increasing the strength of the magnetic field, ................. the value of the induced EMF.{
+	=%100%increases#
+}
+
+
+// question: 32350  name: HAQ2824 
+::HAQ2824::[html]The value of the electromotive force also depends on the ................. at which the magnet rotates, and on the number of turns of wire on the stationary coil.{
+	=%100%speed#
+}
+
+
+// question: 32351  name: HAQ2825 
+::HAQ2825::[html]A single phase model has only 1 stationary coil. In a real automobile alternator, 3 separate coils of wire, or ................. windings are common.{
+	=%100%phase#
+}
+
+
+// question: 32352  name: HAQ2826 
+::HAQ2826::[html]Alternators are used in automobiles to charge the ................. and to power all the car's electric systems when its engine is running.{
+	=%100%battery#
+}
+
+
+// question: 32353  name: HAQ2827 
+::HAQ2827::[html]To provide direct current with low ripple, automotive alternators have a ................. winding.{
+	=%100%three-phase#
+	=%100%three phase#
+	=%100%3 phase#
+}
+
+
+// question: 32354  name: HAQ2828 
+::HAQ2828::[html]The voltage regulator operates by modulating the small field current in order to produce a constant voltage at the ................. output.{
+	=%100%stator#
+}
+
+
+// question: 32355  name: HAQ2829 
+::HAQ2829::[html]Rectification is a process whereby alternating current (AC) is converted into ................. current (DC).{
+	=%100%direct#
+}
+
+
+// question: 32356  name: HAQ2830 
+::HAQ2830::[html]Half wave ................. eliminates one half of the wave, and so is very inefficient.{
+	=%100%rectification#
+}
+
+
+// question: 32358  name: HAQ2832 
+::HAQ2832::[html]Automotive alternators use ................. in the rectifier assembly.{
+	=%100%diodes#
+}
+
+
+// question: 32359  name: HAQ2833 
+::HAQ2833::[html]In each revolution of the magnet, the ................. of each phase winding changes, and as a result, the current changes direction.{
+	=%100%polarity#
+}
+
+
+// question: 32360  name: HAQ2834 
+::HAQ2834::[html]Two methods of connection can be used for the stator or phase windings - ................. (or Wye connection); and Delta connection.{
+	=%100%Star#
+}
+
+
+// question: 32361  name: HAQ2835 
+::HAQ2835::[html]In the Star method of connection, 1 end of each phase winding is taken to a central point where they are connected together. This is known as the star or ................. point.{
+	=%100%neutral#
+}
+
+
+// question: 32362  name: HAQ2836 
+::HAQ2836::[html]In the ................. method, the windings are connected in the shape of a triangle. Connections are then taken from each point of the triangle, to the bridge circuit.{
+	=%100%Delta#
+}
+
+
+// question: 32363  name: HAQ2837 
+::HAQ2837::[html]In the alternator the moving coil, called the ................., uses current supplied through slip rings to generate a moving field. Power is extracted from the stationary field coils.{
+	=%100%rotor#
+}
+
+
+// question: 32364  name: HAQ2838 
+::HAQ2838::[html]Current is provided to the rotor by means of the slip rings and .................{
+	=%100%brushes#
+}
+
+
+// question: 32365  name: HAQ2839 
+::HAQ2839::[html]When the engine is running, most alternators supply the field current directly by means of three extra ................. connected to the bridge rectifier circuit.{
+	=%100%diodes#
+}
+
+
+// question: 32366  name: HAQ2840 
+::HAQ2840::[html]When the ignition switch is closed, current can flow from the battery positive terminal through the ignition switch and charge indicator lamp to the L terminal of the .................{
+	=%100%alternator#
+}
+
+
+// question: 32367  name: HAQ2841 
+::HAQ2841::[html]When the rotor is driven by the engine crankshaft, the rotating magnetic field induces a voltage in the phase windings. This voltage is also impressed on the exciter diodes and current can now flow directly to the field ................., restricted only by the resistance of the field winding.{
+	=%100%circuit#
+}
+
+
+// question: 32368  name: HAQ2842 
+::HAQ2842::[html]When the maximum allowable ................. has been reached, the control circuits switch the rotor field circuit off and the magnetic field at the pole shoes reduces in size, or 'decays'.{
+	=%100%voltage#
+}
+
+
+// question: 32369  name: HAQ2843 
+::HAQ2843::[html]The decaying magnetic field reduces the magnitude of the voltage induced in the stator windings and ................. the alternator output voltage.{
+	=%100%lowers#
+}
+
+
+// question: 32370  name: HAQ2844 
+::HAQ2844::[html]An electronic ................. provides continuous and instantaneous adjustment of rotor current by sampling the alternator output voltage and by comparing it against an internal standard reference.{
+	=%100%regulator#
+}
+
+
+// question: 32371  name: HAQ2845 
+::HAQ2845::[html]As lights and other accessories are turned on and the load on the system increases, the current output to the circuits must be increased and the output ................. must be maintained.{
+	=%100%voltage#
+}
+
+
+// question: 32372  name: HAQ2846 
+::HAQ2846::[html]As lights and other accessories are turned on, the ................. adjusts the rotor field circuit, but this time increases the current flow and therefore the magnetic field strength.{
+	=%100%regulator#
+}
+
+
+// question: 32373  name: HAQ2847 
+::HAQ2847::[html]The induced voltage in the stator rises to maintain system voltage and increase ................. output.{
+	=%100%current#
+}
+
+
+// question: 32374  name: HAQ2848 
+::HAQ2848::[html]As the number of electrical components increase, vehicles require increasing amounts of available .................{
+	=%100%electricity#
+}
+
+
+// question: 32375  name: HAQ2849 
+::HAQ2849::[html]Different types of ................. systems can produce high power output.{
+	=%100%generation#
+}
+
+
+// question: 32376  name: HAQ2850 
+::HAQ2850::[html]One method is to combine the vehicle starter motor and charging system into a single unit. A number of 'Hybrid' gasoline-electric vehicles use this system and mount the starter/generator on the flywheel between the engine and .................{
+	=%100%transmission#
+}
+
+

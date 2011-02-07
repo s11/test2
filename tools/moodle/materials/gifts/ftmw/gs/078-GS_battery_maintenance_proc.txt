@@ -1,0 +1,68 @@
+// question: 30675  name: HAQ2690 
+::HAQ2690::[html]Switch on the ignition. The charge light on the dash should light up, and go out when you start the engine. This indicates that the .............................. is charging the battery.{
+	=%100%alternator#
+}
+
+
+// question: 30676  name: HAQ2691 
+::HAQ2691::[html]If the battery is not a sealed unit, it will have removable caps or bars on top. Remove them, and look inside to check the level of the battery fluid, which is called the ..............................{
+	=%100%electrolyte#
+}
+
+
+// question: 30677  name: HAQ2692 
+::HAQ2692::[html]Test the specific gravity of each of the cells by using a .............................. designed for battery testing.{
+	=%100%hydrometer#
+}
+
+
+// question: 30678  name: HAQ2693 
+::HAQ2693::[html]Select the Volts DC position on your DVOM and attach the probes to the battery terminals (red to positive and black to ..............................).{
+	=%100%negative#
+	=%100%-ve#
+}
+
+
+// question: 30679  name: HAQ2694 
+::HAQ2694::[html]A battery is rated in ampere hours, which means that it can supply a certain number of .............................. for a specified length of time under continuous load.{
+	=%100%amperes#
+}
+
+
+// question: 30680  name: HAQ2695 
+::HAQ2695::[html]Always remove the cable clamp from the .............................. terminal first.{
+	=%100%negative#
+	=%100%-ve#
+}
+
+
+// question: 30681  name: HAQ2696 
+::HAQ2696::[html]Then remove the positive terminal, the one with the plus sign. You will later replace them in reverse order, .............................. cable first and then the negative cable.{
+	=%100%positive#
+	=%100%+ve#
+}
+
+
+// question: 30682  name: HAQ2697 
+::HAQ2697::[html]Carefully wipe the battery with a clean cloth. It is best to wear rubber gloves while doing this in case any corrosive .............................. has leaked from the battery.{
+	=%100%electrolyte#
+}
+
+
+// question: 30683  name: HAQ2698 
+::HAQ2698::[html]Before charging - Check the charger is unplugged from the wall and turned ..............................{
+	=%100%off#
+}
+
+
+// question: 30684  name: HAQ2699 
+::HAQ2699::[html]Connect the black lead from the charger to the .............................. battery terminal.{
+	=%100%negative#
+	=%100%-ve#
+}
+
+
+// question: 30685  name: HAQ2700 
+::HAQ2700::[html]Allow the battery to stand for at least 5 minutes before testing the battery. Using a load tester or .............................., test the charged state of the battery.{
+	=%100%hydrometer#
+}

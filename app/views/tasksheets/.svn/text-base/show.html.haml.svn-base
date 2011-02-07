@@ -1,0 +1,25 @@
+- previous_item = category_item.previous_item
+- next_item     = category_item.next_item
+
+%table{ :cellspacing => 0, :cellpadding => "10px", :width => "100%" }
+  %tr
+    %td.left
+      - if previous_item
+        - if previous_item.item.class == Topic
+          = link_to image_tag("off/previous.gif"), category_topic_path(previous_item.category, previous_item.item), :alt => "Previous Content Item", :title => "Previous Content Item", :class => "rollover"
+        - else previous_item.item.class == Tasksheet
+          = link_to image_tag("off/previous.gif"), category_tasksheet_path(previous_item.category, previous_item.item), :alt => "Previous Content Item", :title => "Previous Content Item", :class => "rollover"
+      - else
+        = image_tag("inactive/previous.gif")
+
+    %td.right
+      - if next_item
+        - if next_item.item.class == Topic
+          = link_to image_tag("off/next.gif"), category_topic_path(next_item.category, next_item.item), :alt => "Next Content Item", :title => "Next Content Item", :class => "rollover"
+        - else next_item.item.class == Tasksheet
+          = link_to image_tag("off/next.gif"), category_tasksheet_path(next_item.category, next_item.item), :alt => "Next Content Item", :title => "Next Content Item", :class => "rollover"
+      - else
+        = image_tag("inactive/next.gif")
+
+- cache(resource) do
+  %iframe{ :frameborder => '0', :align => 'left', :width => '100%', :height => '800px', :src => "#{controller.relative_url_root}/assets/TS/#{resource.number}.pdf" }

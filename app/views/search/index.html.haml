@@ -1,0 +1,16 @@
+#search-results
+  %h2 CDX+ Search Engine
+
+  - if params[:query].present?
+    - if @search.size > 0
+      .summary== #{page_entries_info(@search)} for the query '<em>#{params[:query]}</em>'
+      = render :partial => "list"
+      .centre= will_paginate(@search)
+
+    - else
+      - information_box do
+        %p== There were no results for your query of `#{params[:query]}`
+
+  - else
+    - information_box do
+      %p No search terms specified.

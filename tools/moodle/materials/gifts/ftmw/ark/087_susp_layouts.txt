@@ -1,0 +1,62 @@
+// question: 29529  name: HAQ1769 
+::HAQ1769::[html]A driven or '.................' rear axle arrangement consists of: shock absorbers; u-bolts; fixed shackle; rebound clips and swinging shackles.{
+	=%100%live#
+}
+
+
+// question: 29530  name: HAQ1770 
+::HAQ1770::[html]A non-driven or '.................' axle rear suspension arrangement consists of: coil springs; flexible bushes; panhard rod; forward control arm and rearward control arm.{
+	=%100%dead#
+}
+
+
+// question: 29531  name: HAQ1771 
+::HAQ1771::[html]An independent driven or 'live' rear axle arrangement consists of: coil springs; flexible bushes; CV joints; ................. drive-shafts and semi-trailing arms.{
+	=%100%external#
+}
+
+
+// question: 29532  name: HAQ1772 
+::HAQ1772::[html]An independent driven or 'live' axle front suspension arrangement consists of: coil spring; lower wishbone and ................. strut.{
+	=%100%McPherson#
+	=%100%mcpherson#
+}
+
+
+// question: 29533  name: HAQ1773 
+::HAQ1773::[html]A non-driven or '.................' axle front suspension arrangement consists of: coil springs; lower wishbone and upper wishbone.{
+	=%100%dead#
+}
+
+
+// question: 29534  name: HAQ1774 
+::HAQ1774::[html]In commercial vehicles, metallic bushes are commonly used as shackle bushes for leaf springs. Any force applied to the bush acts through it to the body of the vehicle, which results in a ................. ride.{
+	=%100%harsher#
+}
+
+
+// question: 29535  name: HAQ1775 
+::HAQ1775::[html]Rubber requires no .................{
+	=%100%lubrication#
+}
+
+
+// question: 29536  name: HAQ1776 
+::HAQ1776::[html]Control arms must be strong enough to withstand the forces due to normal operation, but light enough to minimize the vehicle's ................. mass.{
+	=%100%unsprung#
+}
+
+
+// question: 29537  name: HAQ1777 
+::HAQ1777::[html]A ................. rod may be used to restrict lateral movement of the rear axle during cornering. It has bushes or  mountings at each end, where it locates on the axle and frame.{
+	=%100%panhard#
+}
+
+
+// question: 29538  name: HAQ1778 
+::HAQ1778::[html]The axle may also be located by a ................. linkage. A lever, mounted on a pivot near the center of the axle housing, is connected by rods to the frame, on each side of the vehicle.{
+	=%100%watts#
+}
+
+
+

@@ -1,0 +1,153 @@
+//name:TQ0349
+::TQ0349::What does the sedimentor do?{
+	=It separates water from the diesel fuel and allows it to be drained from the system thereby preventing damage.#The most efficient filtering system uses the first filter to remove larger particles and subsequent filters to remove smaller particles.  Water traps and sedimenters trap water and larger dirt particles. 
+	~It mixes water with the fuel to aid vaporization and combustion.#The most efficient filtering system uses the first filter to remove larger particles and subsequent filters to remove smaller particles.  Water traps and sedimenters trap water and larger dirt particles. 
+	~It allows the driver to see when there is water in the fuel system.#The most efficient filtering system uses the first filter to remove larger particles and subsequent filters to remove smaller particles.  Water traps and sedimenters trap water and larger dirt particles. 
+}
+
+
+//name:TQ0350
+::TQ0350::How many holes can a diesel fuel injector have in a direct injection arrangement?{
+	=Many, in some cases up to ten.#Hole-type nozzles are commonly used in direct injection engines. They can be single-hole or multi-hole, and they operate at very high pressures of up to 200 atmospheres. They give a hard spray which is necessary to penetrate the highly compressed air. The fuel has a high velocity and good atomization which is desirable in open combustion chamber engines.
+	~One.#Hole-type nozzles are commonly used in direct injection engines. They can be single-hole or multi-hole, and they operate at very high pressures of up to 200 atmospheres. They give a hard spray which is necessary to penetrate the highly compressed air. The fuel has a high velocity and good atomization which is desirable in open combustion chamber engines.
+	~Two.#Hole-type nozzles are commonly used in direct injection engines. They can be single-hole or multi-hole, and they operate at very high pressures of up to 200 atmospheres. They give a hard spray which is necessary to penetrate the highly compressed air. The fuel has a high velocity and good atomization which is desirable in open combustion chamber engines.
+	~Six.#Hole-type nozzles are commonly used in direct injection engines. They can be single-hole or multi-hole, and they operate at very high pressures of up to 200 atmospheres. They give a hard spray which is necessary to penetrate the highly compressed air. The fuel has a high velocity and good atomization which is desirable in open combustion chamber engines.
+	~Four.#Hole-type nozzles are commonly used in direct injection engines. They can be single-hole or multi-hole, and they operate at very high pressures of up to 200 atmospheres. They give a hard spray which is necessary to penetrate the highly compressed air. The fuel has a high velocity and good atomization which is desirable in open combustion chamber engines.
+}
+
+
+//name:TQ0351
+::TQ0351::Pintle-type diesel fuel injectors spray fuel into:{
+	=the pre-combustion chamber.#In pintle-type nozzles, a pin or pintle protrudes through a spray hole. The shape of the pintle determines the shape of the spray and the atomization of the spray pattern. Pintle nozzles open at lower pressures than hole-type nozzles. They are used in indirect injection engines where the fuel has a comparatively short distance to travel and the air is not as compressed as in the main chamber.
+	~the inlet manifold.#In pintle-type nozzles, a pin or pintle protrudes through a spray hole. The shape of the pintle determines the shape of the spray and the atomization of the spray pattern. Pintle nozzles open at lower pressures than hole-type nozzles. They are used in indirect injection engines where the fuel has a comparatively short distance to travel and the air is not as compressed as in the main chamber.
+	~an open combustion chamber.#In pintle-type nozzles, a pin or pintle protrudes through a spray hole. The shape of the pintle determines the shape of the spray and the atomization of the spray pattern. Pintle nozzles open at lower pressures than hole-type nozzles. They are used in indirect injection engines where the fuel has a comparatively short distance to travel and the air is not as compressed as in the main chamber.
+	~onto the spark plug.#In pintle-type nozzles, a pin or pintle protrudes through a spray hole. The shape of the pintle determines the shape of the spray and the atomization of the spray pattern. Pintle nozzles open at lower pressures than hole-type nozzles. They are used in indirect injection engines where the fuel has a comparatively short distance to travel and the air is not as compressed as in the main chamber.
+}
+
+
+//name:TQ0352
+::TQ0352::Diesel fuel injectors usually have:{
+	=single or multiple injection holes depending on the system and manufacturer.#Single or multiple injection holes provide desired fuel spray and delivery characteristics.
+	~multiple injection holes.#Single or multiple injection holes provide desired fuel spray and delivery characteristics.
+	~three injection holes.#Single or multiple injection holes provide desired fuel spray and delivery characteristics.
+	~a single injection hole.#Single or multiple injection holes provide desired fuel spray and delivery characteristics.
+}
+
+
+//name:TQ0353
+::TQ0353::In a diesel fuel system there are normally two fuel lines from the tank to the system components. Why?{
+	=One is a feed line and one is a return line. Any excess fuel that has been used for lubrication is returned to the tank via the return line.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+	~One is a feed line and one is a lubrication line.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+	~When more fuel is required the second line supplies it.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+	~The second line is used to vent the system.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+}
+
+
+//name:TQ0354
+::TQ0354::What causes the plunger to reciprocate in a VE type injection pump?{
+	=Cam disc lobes on the pump drive shaft.#The cam disc is rigidly attached to the plunger. The drive shaft rotates the cam disc.
+	~Fuel pressure.#The cam disc is rigidly attached to the plunger. The drive shaft rotates the cam disc.
+	~The pump barrel.#The cam disc is rigidly attached to the plunger. The drive shaft rotates the cam disc.
+	~The governor unit.#The cam disc is rigidly attached to the plunger. The drive shaft rotates the cam disc.
+}
+
+
+//name:TQ0355
+::TQ0355::In a diesel fuel system, glow plugs are used in some engines and they are normally located in the:{
+	=combustion chamber, to raise the air temperature.#Glow plugs are heating elements that are used to heat up the combustion chamber to aid in igniting fuel in a cold engine.
+	~exhaust manifold, to promote cleaner burning.#Glow plugs are heating elements that are used to heat up the combustion chamber to aid in igniting fuel in a cold engine.
+	~intake manifold, to vaporize the air/fuel mixture.#Glow plugs are heating elements that are used to heat up the combustion chamber to aid in igniting fuel in a cold engine.
+	~fuel filters, to vaporize the fuel.#Glow plugs are heating elements that are used to heat up the combustion chamber to aid in igniting fuel in a cold engine.
+}
+
+
+//name:TQ0356
+::TQ0356::In a diesel fuel system, when glow plugs are used in some engines they are normally associated with what type of injection system?{
+	=Indirect injection system.#Indirect-injection diesel engines are less thermally efficient due to the greater surface area of their combustion chambers and so suffer more from cold-start problems. They require longer pre-heating times than direct-injection engines, which often do not need glow plugs at all in temperate or hot climates even for a cold start.
+	~Direct injection systems.#Indirect-injection diesel engines are less thermally efficient due to the greater surface area of their combustion chambers and so suffer more from cold-start problems. They require longer pre-heating times than direct-injection engines, which often do not need glow plugs at all in temperate or hot climates even for a cold start.
+	~Pressure time injection systems.#Indirect-injection diesel engines are less thermally efficient due to the greater surface area of their combustion chambers and so suffer more from cold-start problems. They require longer pre-heating times than direct-injection engines, which often do not need glow plugs at all in temperate or hot climates even for a cold start.
+	~Detroit Diesel systems.#Indirect-injection diesel engines are less thermally efficient due to the greater surface area of their combustion chambers and so suffer more from cold-start problems. They require longer pre-heating times than direct-injection engines, which often do not need glow plugs at all in temperate or hot climates even for a cold start.
+}
+
+
+//name:TQ0357
+::TQ0357::In-line fuel injection pumps in a diesel fuel system are also known as:{
+	=jerk type injection pumps.#The injection pump in the jerk pump system is used to time, meter and pressurize the fuel. This is the most common system. The plungers are driven by a camshaft that is designed to control the injection characteristics of the engine. The spray duration in crank degrees still increases with speed and fuel quantity, but not to the extent of the common rail system, therefore the jerk system can be used on low, medium, and high speed engines.
+	~DPA type injection pumps.#The injection pump in the jerk pump system is used to time, meter and pressurize the fuel. This is the most common system. The plungers are driven by a camshaft that is designed to control the injection characteristics of the engine. The spray duration in crank degrees still increases with speed and fuel quantity, but not to the extent of the common rail system, therefore the jerk system can be used on low, medium, and high speed engines.
+	~rotary type injection pumps.#The injection pump in the jerk pump system is used to time, meter and pressurize the fuel. This is the most common system. The plungers are driven by a camshaft that is designed to control the injection characteristics of the engine. The spray duration in crank degrees still increases with speed and fuel quantity, but not to the extent of the common rail system, therefore the jerk system can be used on low, medium, and high speed engines.
+	~CP type injection pumps.#The injection pump in the jerk pump system is used to time, meter and pressurize the fuel. This is the most common system. The plungers are driven by a camshaft that is designed to control the injection characteristics of the engine. The spray duration in crank degrees still increases with speed and fuel quantity, but not to the extent of the common rail system, therefore the jerk system can be used on low, medium, and high speed engines.
+}
+
+
+//name:TQ0358
+::TQ0358::In-line fuel injection pumps in a diesel fuel system:{
+	=have one pumping element per cylinder.#Inside the pump is a pumping element and a delivery valve for each cylinder of the engine. The element has a barrel and a plunger that fits inside it.
+	~have one pumping element for all cylinders.#Inside the pump is a pumping element and a delivery valve for each cylinder of the engine. The element has a barrel and a plunger that fits inside it.
+	~are connected to a throttle butterfly by a cable linkage.#Inside the pump is a pumping element and a delivery valve for each cylinder of the engine. The element has a barrel and a plunger that fits inside it.
+	~have a vane pump to raise fuel injection pressure.#Inside the pump is a pumping element and a delivery valve for each cylinder of the engine. The element has a barrel and a plunger that fits inside it.
+}
+
+
+//name:TQ0359
+::TQ0359::Diesel engine governors control engine speed by varying the:{
+	=fuel quantity injected.#Depressing the accelerator allows more air to enter the engine, but decreases the air velocity through the auxiliary venturi. Pressure in the sealed chamber rises and allows the spring to move the diaphragm and control rack against atmospheric pressure, to increase the fuel delivered. The diaphragm position at any given time is determined by the air velocity through the auxiliary venturi in accordance with engine speed and load. This provides a rack setting which allows the correct quantity of fuel to be injected to match the operating condition.
+	~throttle position.#Depressing the accelerator allows more air to enter the engine, but decreases the air velocity through the auxiliary venturi. Pressure in the sealed chamber rises and allows the spring to move the diaphragm and control rack against atmospheric pressure, to increase the fuel delivered. The diaphragm position at any given time is determined by the air velocity through the auxiliary venturi in accordance with engine speed and load. This provides a rack setting which allows the correct quantity of fuel to be injected to match the operating condition.
+	~injection sequence.#Depressing the accelerator allows more air to enter the engine, but decreases the air velocity through the auxiliary venturi. Pressure in the sealed chamber rises and allows the spring to move the diaphragm and control rack against atmospheric pressure, to increase the fuel delivered. The diaphragm position at any given time is determined by the air velocity through the auxiliary venturi in accordance with engine speed and load. This provides a rack setting which allows the correct quantity of fuel to be injected to match the operating condition.
+	~injection timing.#Depressing the accelerator allows more air to enter the engine, but decreases the air velocity through the auxiliary venturi. Pressure in the sealed chamber rises and allows the spring to move the diaphragm and control rack against atmospheric pressure, to increase the fuel delivered. The diaphragm position at any given time is determined by the air velocity through the auxiliary venturi in accordance with engine speed and load. This provides a rack setting which allows the correct quantity of fuel to be injected to match the operating condition.
+}
+
+
+//name:TQ0360
+::TQ0360::Diesel engines are fitted with governors to control engine speed. Why is this?{
+	=The engine could over rev and cause damage to both the internal and external components.#For any governor position the fuel control rack determines the volume of fuel delivered, and therefore engine speed. During idling, the governor prevents the engine from stalling. It also stops it from over-speeding.
+	~The engine could over rev and cause damage to the external components.#For any governor position the fuel control rack determines the volume of fuel delivered, and therefore engine speed. During idling, the governor prevents the engine from stalling. It also stops it from over-speeding.
+	~The vehicle could go too fast.#For any governor position the fuel control rack determines the volume of fuel delivered, and therefore engine speed. During idling, the governor prevents the engine from stalling. It also stops it from over-speeding.
+	~The engine could over rev and cause damage to the internal components.#For any governor position the fuel control rack determines the volume of fuel delivered, and therefore engine speed. During idling, the governor prevents the engine from stalling. It also stops it from over-speeding.
+}
+
+
+//name:TQ0361
+::TQ0361::What controls the governor in a mechanical governor arrangement?{
+	=Centrifugal force.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+	~Hydraulic pressure.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+	~Engine speed.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+	~Fuel flow.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+}
+
+
+//name:TQ0362
+::TQ0362::What drives the plunger type lift pump?{
+	=A cam inside the injection pump.#The diaphragm-type pump can be mounted on the engine or on the injection pump. It is fitted with inlet and outlet valves. An eccentric on a camshaft acts on a 2-piece rocker arm connected to a diaphragm. Rotating the eccentric causes the rocker arm to pivot on its pin and pull the diaphragm down. This compresses the diaphragm return spring and increases the volume in the pumping chamber above the diaphragm.
+	~A gear on the engine camshaft.#The diaphragm-type pump can be mounted on the engine or on the injection pump. It is fitted with inlet and outlet valves. An eccentric on a camshaft acts on a 2-piece rocker arm connected to a diaphragm. Rotating the eccentric causes the rocker arm to pivot on its pin and pull the diaphragm down. This compresses the diaphragm return spring and increases the volume in the pumping chamber above the diaphragm.
+	~A timing belt.#The diaphragm-type pump can be mounted on the engine or on the injection pump. It is fitted with inlet and outlet valves. An eccentric on a camshaft acts on a 2-piece rocker arm connected to a diaphragm. Rotating the eccentric causes the rocker arm to pivot on its pin and pull the diaphragm down. This compresses the diaphragm return spring and increases the volume in the pumping chamber above the diaphragm.
+	~An eccentric on the engine camshaft.#The diaphragm-type pump can be mounted on the engine or on the injection pump. It is fitted with inlet and outlet valves. An eccentric on a camshaft acts on a 2-piece rocker arm connected to a diaphragm. Rotating the eccentric causes the rocker arm to pivot on its pin and pull the diaphragm down. This compresses the diaphragm return spring and increases the volume in the pumping chamber above the diaphragm.
+}
+
+
+//name:TQ0363
+::TQ0363::A hand-priming pump is fitted to diesel engine fuel systems to:{
+	=bleed air from the system.#All diesel engines in light vehicle applications have a priming lever on the lift pump, or a separate priming pump to allow for removing air from the fuel system. This is called bleeding or priming.
+	~clear fuel blockages in the return line.#All diesel engines in light vehicle applications have a priming lever on the lift pump, or a separate priming pump to allow for removing air from the fuel system. This is called bleeding or priming.
+	~check injector operation.#All diesel engines in light vehicle applications have a priming lever on the lift pump, or a separate priming pump to allow for removing air from the fuel system. This is called bleeding or priming.
+	~prime the fuel for cold-starting.#All diesel engines in light vehicle applications have a priming lever on the lift pump, or a separate priming pump to allow for removing air from the fuel system. This is called bleeding or priming.
+}
+
+
+//name:TQ0364
+::TQ0364::3 types of lift pump are commonly used on light vehicle diesel engines. They are:{
+	=diaphragm, vane and plunger types.#The lift pump lifts fuel from the fuel tank and delivers it to the fuel pump ready for high pressure generation.
+	~rotary, in line and scroll types.#The lift pump lifts fuel from the fuel tank and delivers it to the fuel pump ready for high pressure generation.
+	~diaphragm, vane and scroll types.#The lift pump lifts fuel from the fuel tank and delivers it to the fuel pump ready for high pressure generation.
+	~vane, plunger and rotary types.#The lift pump lifts fuel from the fuel tank and delivers it to the fuel pump ready for high pressure generation.
+}
+
+
+//name:TQ0365
+::TQ0365::On a 4 cylinder, 8 valve SOHC diesel engine fitted with unit injectors, how many lobes would be on the camshaft?{
+	=12#Actuation of unit injectors is by means of an additional lobe on the camshaft for each cylinder/injector.
+	~8#Actuation of unit injectors is by means of an additional lobe on the camshaft for each cylinder/injector.
+	~10#Actuation of unit injectors is by means of an additional lobe on the camshaft for each cylinder/injector.
+	~16#Actuation of unit injectors is by means of an additional lobe on the camshaft for each cylinder/injector.
+}
+
+

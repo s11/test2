@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/views/message_recipients
+svn://curfew.jbpub.com/online
+
+
+
+2009-09-11T18:08:34.810695Z
+3365
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+show.html.haml
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+05bc4fef600fd4f4114e54c3766f64a4
+2009-08-24T02:10:14.691346Z
+3175
+johnm
+
+index.html.haml
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+c0874e8dc523e0f477b577f2516b82b4
+2009-09-11T18:08:34.810695Z
+3365
+johnm
+

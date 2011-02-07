@@ -1,0 +1,71 @@
+// question: 28857  name: HAQ2070 
+::HAQ2070::[html]A typical ABS is composed of a central ............................... unit, four speed sensors (one for each wheel), and two or more  hydraulic valves on the brake circuit.{
+	=%100%electronic#
+}
+
+
+// question: 28858  name: HAQ2071 
+::HAQ2071::[html]The antilock braking system prevents wheels locking or skidding, no matter how hard brakes are applied, or how slippery the road surface. Steering stays under control and ............................... distances are generally reduced.{
+	=%100%stopping#
+}
+
+
+// question: 28859  name: HAQ2072 
+::HAQ2072::[html]In a 3-channel system, the hydraulic control unit uses 3  solenoid valves to control brake pressure and prevent them locking. The valves are in ............................... with the brake master cylinder and the brake circuits.{
+	=%100%series#
+}
+
+
+// question: 28860  name: HAQ2073 
+::HAQ2073::[html]When activated, the ABS causes the brake pedal to ............................... noticeably.{
+	=%100%pulse#
+}
+
+
+// question: 28861  name: HAQ2074 
+::HAQ2074::[html]It is worth noting that the ............................... a vehicle is, the more it will benefit from ABS.{
+	=%100%heavier#
+}
+
+
+// question: 28863  name: HAQ2076 
+::HAQ2076::[html]Brake force is affected by - ............................... Coeffiecient - road surface condition.{
+	=%100%Friction#
+	=%100%friction#
+}
+
+
+// question: 28864  name: HAQ2077 
+::HAQ2077::[html]However, even though the ABS is passive during normal braking, its control module is  constantly monitoring for rapid ............................... of any of the wheels.{
+	=%100%deceleration#
+}
+
+
+// question: 28865  name: HAQ2078 
+::HAQ2078::[html]It is normal in an ABS for the valves in the hydraulic control unit to keep changing position as they change the brake pressure that's being applied. These changes in position may cause rapid ............................... to be felt through the brake pedal.{
+	=%100%pulsations#
+}
+
+
+// question: 28853  name: HAQ3772 
+::HAQ3772::[html]The antilock braking system is designed to prevent wheels locking or ..............................., no matter how hard brakes are applied, or how slippery the road surface.{
+	=%100%skidding#
+}
+
+
+// question: 28854  name: HAQ3773 
+::HAQ3773::[html]The primary components of the ABS braking system are: Electronic control unit (ECU); Hydraulic control unit or ...............................; Power booster & master cylinder assembly; Wheel sensor unit.{
+	=%100%modulator#
+}
+
+
+// question: 28855  name: HAQ3774 
+::HAQ3774::[html]The power booster and master cylinder assembly is mounted on the ............................... and is activated when the driver pushes down on the brake pedal.{
+	=%100%firewall#
+}
+
+
+// question: 28856  name: HAQ3775 
+::HAQ3775::[html]The wheel sensor unit consists of a tooth rotor that rotates with the road wheels and a pick-up that is located in the wheel ................................{
+	=%100%hub#
+}

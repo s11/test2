@@ -1,0 +1,117 @@
+//name:TQ0797
+::TQ0797::The oil flow that occurs in a torque converter during torque multiplication is known as:{
+	=vortex flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+	~direct flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+	~spiral flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+	~rotary flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+}
+
+
+//name:TQ0798
+::TQ0798::The oil flow through a torque converter during acceleration is from:{
+	=impeller to turbine to stator.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+	~impeller to stator to turbine.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+	~stator to turbine to impeller.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+	~turbine to impeller to stator.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+}
+
+
+//name:TQ0799
+::TQ0799::Engaging the lock-up clutch in a lock-up torque converter locks the:{
+	=turbine to the impeller.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+	~turbine to the input shaft.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+	~turbine to the stator.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+	~stator to the impeller.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+}
+
+
+//name:TQ0800
+::TQ0800::Fluid velocity is increased in a torque converter by:{
+	=the shape of the turbine blades.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~decreasing fluid pressure.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~the action of the stator.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~increasing fluid pressure.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+}
+
+
+//name:TQ0801
+::TQ0801::The torque converter has three components. They are:{
+	=turbine, impeller and stator.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbine, propeller and clutch.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbo, impeller and clutch.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbo, propeller and stator.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+}
+
+
+//name:TQ0802
+::TQ0802::The torque converter impeller turns:{
+	=with the engine.#The impeller is driven by the engine and turns at crankshaft speed.
+	~with the gearbox.#The impeller is driven by the engine and turns at crankshaft speed.
+	~the gearbox.#The impeller is driven by the engine and turns at crankshaft speed.
+	~the engine.#The impeller is driven by the engine and turns at crankshaft speed.
+}
+
+
+//name:TQ0803
+::TQ0803::The torque converter stator sits on a central hub that is attached to a:{
+	=one way clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~two way clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~reversing clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~reversible clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+}
+
+
+//name:TQ0804
+::TQ0804::The torque converter turbine turns:{
+	=the gearbox.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~with the gearbox.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~with the engine.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~the engine.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+}
+
+
+//name:TQ0805
+::TQ0805::A vehicle starting from rest needs a lot of torque. Once it is moving it needs:{
+	=less torque.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+	~more power.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+	~more torque.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+	~less power.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+}
+
+
+//name:TQ0806
+::TQ0806::At what point does torque multiplication reach its zero multiplication point or coupling point?{
+	=When the turbine speed reaches approximately 90% of impeller speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+	~When the impeller speed reaches approximately 90% of turbine speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+	~When the turbine speed reaches 50% of impeller speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+	~When the impeller speed reaches 50% of turbine speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+}
+
+
+//name:TQ0807
+::TQ0807::Torque multiplication occurs because the stator directs fluid onto the:{
+	=impeller blades in the same direction as impeller rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+	~turbine blades in the same direction as impeller rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+	~impeller blades in the opposite direction to impeller rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+	~impeller blades in the opposite direction to turbine rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+}
+
+
+//name:TQ0808
+::TQ0808::The order of fluid flow through the transmission heat exchanger is from the:{
+	=pump, converter, heat exchanger, transmission.#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+	~pump, heat exchanger, converter, transmission.#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+	~pump, transmission, converter, heat exchanger .#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+	~pump, heat exchanger, transmission, converter.#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+}
+
+
+//name:TQ0809
+::TQ0809::Technician A says the torque converter stator uses a sprag type one-way-clutch to prevent it from turning against converter rotation.  Technician B says the roller type one-way clutch uses the wedging action of rollers and wedges to allow the stator to lock with converter rotation.  Who is correct? {
+	=Technician A.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+	~Technician B.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+	~Both Technician A and Technician B.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+	~Neither Technician A or Technician B.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+}
+
+

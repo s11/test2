@@ -1,0 +1,54 @@
+//name:TQ1216
+::TQ1216::The sensing bulb on the TX valve:{
+	=senses refrigerant temperature at the evaporator outlet. #The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+	~senses refrigerant temperature at the condenser outlet.#The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+	~senses the refrigerant temperature at the compressor high pressure side.#The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+	~senses the refrigerant temperature at the receiver drier.#The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+}
+
+
+//name:TQ1217
+::TQ1217::The TX valve controls refrigerant flow by a:{
+	=spring-loaded valve which is controlled by different pressures on each side of a connecting diaphragm. #The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+	~fixed orifice which is controlled by different pressures on each side of a connecting diaphragm.#The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+	~swash plate inside the compressor.#The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+	~refrigerant pressure switch mounted on the receiver drier.#The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+}
+
+
+//name:TQ1218
+::TQ1218::Technician A says that the thermostatic expansion valve regulates the flow of liquid refrigerant to the condenser. Technician B says that the thermostatic expansion valve regulates the flow of vaporized refrigerant to the evaporator. Who is correct?{
+	~Technician A.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+	~Technician B.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+	~Both Technician A & Technician B.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+	=Neither Technician A or Technician B.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+}
+
+
+//name:TQ1219
+::TQ1219::One purpose of the thermostatic expansion valve is to:{
+	=change high pressure liquid to a low pressure liquid.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~assist in cooling the compressor.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~allow air bubbles to expand in the receiver drier.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~reduce pressure in the condenser.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+}
+
+
+//name:TQ1220
+::TQ1220::The thermostatic expansion valve is located at:{
+	=the entry to the evaporator.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+	~the inlet of the compressor.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+	~the inlet of the condenser.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+	~the outlet of the compressor.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+}
+
+
+//name:TQ1221
+::TQ1221::The primary purpose of the thermostatic expansion valve is:{
+	=to control the quantity of refrigerant entering the evaporator.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+	~to control the quantity of refrigerant entering the condenser.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+	~to cycle the compressor clutch.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+	~to prevent over expansion of the refrigerant.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+}
+
+

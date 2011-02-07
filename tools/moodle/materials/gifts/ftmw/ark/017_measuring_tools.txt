@@ -1,0 +1,133 @@
+// question: 23899  name: HAQ0183 
+::HAQ0183::[html]If replacing a fastener, make sure it has the correct ................. value for the task it has to perform.{
+	=%100%tensile#
+}
+
+
+// question: 23900  name: HAQ0184 
+::HAQ0184::[html]................. the head of the torque wrench during its use.{
+	=%100%support#
+}
+
+
+// question: 23901  name: HAQ0185 
+::HAQ0185::[html]When tightened, torque-to-yield fasteners are stretched beyond their ................. limit. So when they are removed, they must be discarded and replaced with new ones.{
+	=%100%elastic#
+}
+
+
+// question: 23902  name: HAQ0186 
+::HAQ0186::[html]Determine the correct torque value for the bolt or fastener you're using. This will be in Foot-Pounds or ................. Meters.{
+	=%100%Newton#
+}
+
+
+// question: 23903  name: HAQ0187 
+::HAQ0187::[html]Bolts can be identified by thread .................{
+	=%100%pitch#
+}
+
+
+// question: 23905  name: HAQ0189 
+::HAQ0189::[html]A bolt's length is the distance from ................. the head of the bolt to the far end of the thread.{
+	=%100%under#
+}
+
+
+// question: 23906  name: HAQ0190 
+::HAQ0190::[html]Coarse bolt threads are used in ................. materials because they have a greater grip on the material.{
+	=%100%soft#
+}
+
+
+// question: 23907  name: HAQ0191 
+::HAQ0191::[html]If a bolt with too high tensile strength is used and not tightened to its designed value, it may fail. That is because high tensile bolts have less resistance to ................. than bolts with a lower tensile value.{
+	=%100%fatigue#
+}
+
+
+// question: 23908  name: HAQ0192 
+::HAQ0192::[html]A vacuum gauge is used to measure the ................. pressure.{
+	=%100%manifold#
+}
+
+
+// question: 23910  name: HAQ0194 
+::HAQ0194::[html]0 in Hg is equal to ................. pressure.{
+	=%100%atmospheric#
+}
+
+
+// question: 23911  name: HAQ0195 
+::HAQ0195::[html]Select the gauge type, size, attachment and bracket, which fit the part you're measuring. Mount the dial indicator on a firm surface to keep it .................{
+	=%100%still#
+}
+
+
+// question: 23913  name: HAQ0197 
+::HAQ0197::[html]When measuring run-out, find the point of maximum movement to the left and move the dial indicator so that ................. is over this point. Continue to rotate the brake rotor.{
+	=%100%zero#
+	=%100%0#
+}
+
+
+// question: 23914  name: HAQ0198 
+::HAQ0198::[html]Never use feeler gauges on ................. machinery.{
+	=%100%operating#
+}
+
+
+// question: 23915  name: HAQ0199 
+::HAQ0199::[html]Some sets contain feelers made of ................. These are to take measurements between magnetic components.{
+	=%100%brass#
+}
+
+
+// question: 23916  name: HAQ0200 
+::HAQ0200::[html]When using a feeler gauge, select the part you wish to check, and make sure it's .................{
+	=%100%clean#
+}
+
+
+// question: 23917  name: HAQ0201 
+::HAQ0201::[html]When using a feeler gauge, the ................. film on the blade helps to minimize friction.{
+	=%100%oily#
+}
+
+
+// question: 23918  name: HAQ0202 
+::HAQ0202::[html]The spindle and anvil of the micrometer should just touch the component with a slight amount of ................. when the micrometer is removed from the measured piece.{
+	=%100%drag#
+}
+
+
+// question: 23919  name: HAQ0203 
+::HAQ0203::[html]When using a micrometer, use the ................. on the end of the thimble until you learn the correct feel for tightness.{
+	=%100%ratchet#
+}
+
+
+// question: 23920  name: HAQ0204 
+::HAQ0204::[html]When measuring with a micrometer, place the ................. against the object, then tighten the thimble gently until it has nearly touched the component.{
+	=%100%anvil#
+}
+
+
+// question: 23921  name: HAQ0205 
+::HAQ0205::[html]To take a reading, use the thimble ................. to keep the reading constant, and gently withdraw the micrometer.{
+	=%100%lock#
+}
+
+
+// question: 23922  name: HAQ0206 
+::HAQ0206::[html]Pocket type tire pressure gauges are inexpensive and more ................. than the gauges provided by service stations.{
+	=%100%accurate#
+}
+
+
+// question: 23923  name: HAQ0207 
+::HAQ0207::[html]The recommended maximum tire pressure is located on the tire .................{
+	=%100%sidewall#
+}
+
+

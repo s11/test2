@@ -1,0 +1,96 @@
+// question: 33648  name: HAQ3889 
+::HAQ3889::[html]There are three steps to effective business correspondence writing. The first step is to think. The second step is to ................. The third step is to finalize.{
+	=%100%draft#
+}
+
+
+// question: 33649  name: HAQ3890 
+::HAQ3890::[html]We've learned that we need to ................. before we speak.{
+	=%100%think#
+}
+
+
+// question: 33650  name: HAQ3891 
+::HAQ3891::[html]Be courteous and ................. with the readers; especially when writing a complaint letter or delivering bad news.{
+	=%100%empathise#
+	=%100%empathize#
+}
+
+
+// question: 33651  name: HAQ3892 
+::HAQ3892::[html]In this topic, we have learned that business correspondence writing can be divided into three steps. The first step is to think about what to write and what we want to achieve. The second step is to draft our rough ideas in point form. The third step is to ................. the document by organizing the content and putting it into the right format, which can then be sent by letter, facsimilie or email.{
+	=%100%finalize#
+}
+
+
+// question: 33652  name: HAQ3893 
+::HAQ3893::[html]A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal ................. between us as the service provider, and our customer.{
+	=%100%contract#
+}
+
+
+// question: 33653  name: HAQ3894 
+::HAQ3894::[html]Some service invoices or work orders also contain ................. information so they can be used as invoices.{
+	=%100%accounting#
+}
+
+
+// question: 33654  name: HAQ3895 
+::HAQ3895::[html]To work out the total cost of the service we need to know: a ................. cost, which in this case is the sum of line 1; the cost of spare parts, which in this case is the sum of lines 4, 5 and 6; the tax amounts, and; the cost of gas and consumables we used to service the car.{
+	=%100%labour#
+	=%100%labor#
+}
+
+
+// question: 33655  name: HAQ3896 
+::HAQ3896::[html]When we inspect a vehicle, we need to check that all components and systems are operational, secured, and safe in accordance with the vehicle ................. recommendations.{
+	=%100%manufacturer#
+}
+
+
+// question: 33656  name: HAQ3897 
+::HAQ3897::[html]An inspection report is a useful guide when conducting a vehicle inspection. By following the checklist in the report, we can test all the components in a ................. way and ensure that they are operational or serviceable.{
+	=%100%systematic#
+}
+
+
+// question: 33657  name: HAQ3898 
+::HAQ3898::[html]In this topic, we have learned that we can use an inspection report as a ................. for a vehicle inspection.{
+	=%100%guideline#
+}
+
+
+// question: 33658  name: HAQ3899 
+::HAQ3899::[html]One way to ensure safety in our workshop is to conduct weekly or monthly equipment .............{
+	=%100%inspections#
+}
+
+
+// question: 33659  name: HAQ3900 
+::HAQ3900::[html]Whenever we come across any defective equipment, we should: ................. the defective items and put them in a secured area so no one else can use them by mistake.{
+	=%100%tag#
+}
+
+
+// question: 33660  name: HAQ3901 
+::HAQ3901::[html]Firstly we need to record the date when the defect is detected, the location of the defective equipment, the name of the equipment and if possible the serial number, the description of the defect, and the action we have taken. Then we need to sign our names as reporters. Finally, we need to notify our .................{
+	=%100%supervisor#
+}
+
+
+// question: 33661  name: HAQ3902 
+::HAQ3902::[html]................. is the most important issue in the workplace. We must make a conscious decision to work safely and act responsibly to protect others and ourselves.{
+	=%100%safety#
+}
+
+
+// question: 33662  name: HAQ3903 
+::HAQ3903::[html]To make sure that the information is ................. the accident report should be completed as soon as practically possible while we still remember the facts of the accident.{
+	=%100%accurate#
+}
+
+
+// question: 33663  name: HAQ3904 
+::HAQ3904::[html]We also need to note if the accident will be subject to, or covered by, any ................. claims.{
+	=%100%insurance#
+}

@@ -1,0 +1,301 @@
+!colour_activity   = #483293
+!colour_assessment = #a32b79
+!colour_procedure  = #c7312b
+!colour_theory     = #008845
+
+@import generic_html.sass
+@import navigation.sass
+@import sidebar.sass
+@import class_group.sass
+@import pagination.sass
+@import report.sass
+
+#selectable
+  :list-style-type none
+  :margin 0
+  :padding 0
+  :width 60%
+
+  .ui-selecting
+    :background #FECA40
+    
+  .ui-selected
+    :background #F39814
+    :color white
+
+  li
+    :margin 3px
+    :padding 0.4em
+    :font-weight bold
+    :height 18px
+
+
+#content-wrapper
+  :float left
+  :width 100%
+
+  #content
+    :padding 1em
+    :margin-left 210px
+    :min-width 600px
+
+
+#select-links
+  :padding 0.5em 0
+  a
+    :color blue
+
+table#listing
+  :background-color #fff
+
+  .title-column
+    :background-color #eee
+
+  tr
+    &.unread
+      :font-weight bold
+
+    th, td
+      :border 1px solid #ccc
+      :padding 0.25em
+
+  thead
+    tr
+      :vertical-align bottom
+
+  tbody
+    a
+      :color blue
+
+    tr:hover
+      :background-color #fdb
+      &.title-color
+        :background-color #fc9
+
+table#partitioned
+  :border-collapse collapse
+  :width 99%
+
+  .topic-areas
+    :font-size 16px
+  .topic-groups
+    :font-size 14px
+  .topics
+    :line-height 1.1em
+  .topic-description, .description
+    :line-height 1.25em
+    :font-weight bold
+
+  .top-border
+    :border-top 1px solid #000
+
+  a
+    :color = !colour_activity
+    :font-weight bold
+    &.activity
+      :color = !colour_activity
+    &.assessment
+      :color = !colour_assessment
+    &.theory
+      :color = !colour_theory
+    &.procedure
+      :color = !colour_procedure
+    
+
+  td, th
+    :padding 0.5em
+    :width 33%
+  
+  thead
+    :border-bottom 1px solid #000
+    th
+      :font-size 11px
+      :text-align left
+
+  tbody
+    :line-height 23px
+
+    tr
+      :vertical-align top
+
+      th
+        :text-align left
+
+        .info
+          :margin 1em
+
+#tabs
+  li
+    :line-height 16px
+    img
+      :vertical-align middle
+
+  #tabcontent
+    :padding 1em
+
+#topic
+  ul.topic-navigation
+    :margin 0
+    :padding 0
+    :list-style-type none
+    :text-align center
+    li
+      :display inline
+  
+
+  h1
+    :font-size 16px
+
+  .summary
+    :border 1px solid #ccc
+    :padding 1em
+    :margin 1em
+
+    .sumtitle
+      :font-weight bold
+  
+    .summarytxt
+      :font-size normal
+
+    .summarytxtz
+      :font-size 250%
+  
+  .contentHeading
+    :font-weight bold
+
+  .partoneandtwo
+    :font-weight bold
+    :font-size 14px
+
+  .imageLeft
+    :float left
+    img
+      :margin 0.5em
+
+  .imageRight
+    :float right
+    img
+      :margin 0.5em
+
+  .contentHeading
+    :clear left
+
+  li
+    :margin-top 0.5em
+
+#popup-search-box
+  :width 100%
+  :background #eee
+  :border-bottom 1px solid #ddd
+  :font-size 14pt
+  :font-weight bold
+
+#popup-search-criteria
+  :padding 6px
+
+#popup-search-results
+  :padding 10px
+
+#search-results
+  .summary
+    :background-color rgb(238, 221, 170)
+    :margin 1em 0
+    :padding 0.5em
+
+  .result
+    :margin-bottom 1em
+
+    a
+      :color = !colour_activity
+      &.activity
+        :color = !colour_activity
+      &.assessment
+        :color = !colour_assessment
+      &.theory
+        :color = !colour_theory
+      &.procedure
+        :color = !colour_procedure
+  
+    .title
+      :font-weight bold
+
+    .category
+      :font-size 11px
+      :font-weight bold
+
+    .description
+      :margin 0.5em
+
+#summary
+  .sumtitle
+    :font-size larger
+  .clicktozoom
+    :float right
+    
+.ui-tabs
+  img
+    :vertical-align text-bottom
+
+  .ui-tabs-hide
+    :display none
+
+#message
+  .header
+    :background-color #eee
+    :border 1px solid #ddd
+    th, td
+      :padding 0.25em
+    th
+      :color #888
+
+  .body
+    :border 1px solid #ddd
+    :border-width 0 1px 1px
+    :background-color #fff
+    :padding 1em
+
+  #reply
+    :padding 1em
+    textarea
+      :width 100%
+
+
+.selected
+  :border 1px solid transparent
+  :background-color #fdb
+  &:hover
+    :background-color #fed
+    :border 1px solid #f90
+    :cursor pointer
+
+#filter
+  :padding 0.25em 0.5em
+  th, td
+    :white-space nowrap
+  strong
+    :display block
+
+.ui-state-highlight
+  a
+    :color blue !important
+    :text-decoration underline
+
+
+.box
+  p
+    :margin 0
+    :padding 0
+    & + p
+      :margin-top 1em
+  
+  &.information
+    :padding 5px 10px
+    :margin 0 0 10px 0
+    :border 1px solid #cc0
+    :background #ffc
+    :color #363636
+    a
+      :font-weight bold
+
+  & + .box
+    :margin-top 10px

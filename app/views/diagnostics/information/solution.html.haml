@@ -1,0 +1,28 @@
+- unless current_user.student?
+  #solution
+    %h2
+      Problem
+    %p= @scenario.problem.description
+  
+    %h2
+      Symptoms
+    %ul
+      - @scenario.symptoms.each do |symptom|
+        %li= symptom.description
+    
+    %h2
+      Fault
+    %p= @scenario.fault.description
+    
+    %h2
+      Verify
+    %p=@scenario.scenarios_verifications.find_by_rating(1).verification.description
+  
+    %h2
+      Identify
+    %p=@scenario.scenarios_identifications.find_by_rating(1).identification.description
+    
+    %h2
+      Rectify
+    %p=@scenario.scenarios_rectifications.find_by_rating(1).rectification.description
+    

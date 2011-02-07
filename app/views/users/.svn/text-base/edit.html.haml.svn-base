@@ -1,0 +1,29 @@
+#tabs
+  %ul
+    %li= link_to "#{resource.role.titleize}: #{resource.fullname}", '#tab-edit'
+
+  #tab-edit
+    - form_for(resource) do |f|
+      = f.error_messages
+
+      = f.hidden_field(:role_shortname)
+
+      %table{:cellspacing => 0}
+        %tbody
+          = render :partial => "form", :locals => { :f => f, :user => resource }
+
+      .centre
+        = reset_button_tag "Undo Changes"
+
+        - if (resource == current_user)
+          = update_button_tag "Update your details"
+        - else
+          = update_button_tag "Update '#{resource.fullname}'"
+
+    - if (current_user == resource)
+      = error_messages_for :cdx_user, :header_message => "There were errors which prevented your details from being saved"
+    - else
+      = error_messages_for :cdx_user, :header_message => "There were errors which prevented this #{resource.role} from being saved"
+
+- content_for(:onload) do
+  $('#tabs').tabs();

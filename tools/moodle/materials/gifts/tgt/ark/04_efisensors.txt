@@ -1,0 +1,104 @@
+//name:TQ0394
+::TQ0394::What does the air vortex sensor use to measure the volume of air entering the engine?{
+	=Whirlpools or 'vortices'.#The vortex is measured by ultrasonic sensors and electrical pulses are sent to the ECU.
+	~Air mass.#The vortex is measured by ultrasonic sensors and electrical pulses are sent to the ECU.
+	~Air density.#The vortex is measured by ultrasonic sensors and electrical pulses are sent to the ECU.
+	~Oxygen.#The vortex is measured by ultrasonic sensors and electrical pulses are sent to the ECU.
+}
+
+
+//name:TQ0395
+::TQ0395::Inductive-type crankshaft position sensors provide a signal output voltage when the:{
+	=magnetic field strength changes.#There must be movement of the magnetic flux in relation to the coil of wire for voltage to be induced in the coil.
+	~magnetic field strength does not change.#There must be movement of the magnetic flux in relation to the coil of wire for voltage to be induced in the coil.
+	~Hall effect falls to zero.#There must be movement of the magnetic flux in relation to the coil of wire for voltage to be induced in the coil.
+	~photo diode is in focus.#There must be movement of the magnetic flux in relation to the coil of wire for voltage to be induced in the coil.
+}
+
+
+//name:TQ0396
+::TQ0396::What is another name for the lambda sensor?{
+	=Exhaust gas oxygen sensor.#The oxygen sensor provides feedback to the ECU on the air/fuel mixture.
+	~MAP sensor.#The oxygen sensor provides feedback to the ECU on the air/fuel mixture.
+	~Temperature sensor.#The oxygen sensor provides feedback to the ECU on the air/fuel mixture.
+	~Crank angle sensor.#The oxygen sensor provides feedback to the ECU on the air/fuel mixture.
+}
+
+
+//name:TQ0397
+::TQ0397::Technician A says that the heated oxygen sensor (HO2S) is a variable voltage producing device. Technician B says the HO2S sensor is located in the intake manifold. Who is correct?{
+	=Technician A.#Technician A is correct as the heated oxygen sensors (HO2S) ensure the efficient operation by supplying information to the powertrain control module (PCM) to control the air fuel ratio. These signals are in the form of a variable voltage. The sensor is located in the exhaust system.
+	~Technician B.#Technician A is correct as the heated oxygen sensors (HO2S) ensure the efficient operation by supplying information to the powertrain control module (PCM) to control the air fuel ratio. These signals are in the form of a variable voltage. The sensor is located in the exhaust system.
+	~Both Technician A & Technician B.#Technician A is correct as the heated oxygen sensors (HO2S) ensure the efficient operation by supplying information to the powertrain control module (PCM) to control the air fuel ratio. These signals are in the form of a variable voltage. The sensor is located in the exhaust system.
+	~Neither Technician A or Technician.#Technician A is correct as the heated oxygen sensors (HO2S) ensure the efficient operation by supplying information to the powertrain control module (PCM) to control the air fuel ratio. These signals are in the form of a variable voltage. The sensor is located in the exhaust system.
+}
+
+
+//name:TQ0398
+::TQ0398::The Lambda sensor monitors:{
+	=oxygen content of the exhaust gas.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. The Lambda or oxygen sensor monitors this.
+	~exhaust gas recirculation.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. The Lambda or oxygen sensor monitors this.
+	~the volume of intake air.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. The Lambda or oxygen sensor monitors this.
+	~fuel pressure and flow.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. The Lambda or oxygen sensor monitors this.
+}
+
+
+//name:TQ0399
+::TQ0399::A Manifold Absolute Pressure or MAP sensor connected to an intake manifold at wide-open throttle will give a:{
+	=high reading.#The Manifold Absolute Pressure (MAP) sensor measures the absolute pressure in the intake manifold.
+	~low reading.#The Manifold Absolute Pressure (MAP) sensor measures the absolute pressure in the intake manifold.
+}
+
+
+//name:TQ0400
+::TQ0400::Continuous monitoring of the intake manifold air pressure can be provided by a:{
+	=MAP sensor.#The air/fuel ratio, ignition timing and the idle speed can all be adjusted by the ECU as a result of the MAP sensor signal.
+	~potentiometer-type sensor.#The air/fuel ratio, ignition timing and the idle speed can all be adjusted by the ECU as a result of the MAP sensor signal.
+	~crank-angle sensor.#The air/fuel ratio, ignition timing and the idle speed can all be adjusted by the ECU as a result of the MAP sensor signal.
+	~RPM sensor.#The air/fuel ratio, ignition timing and the idle speed can all be adjusted by the ECU as a result of the MAP sensor signal.
+}
+
+
+//name:TQ0401
+::TQ0401::The resistance of a temperature sensor:{
+	=falls as temperature rises.#This is known as a negative temperature coefficient (NTC) resistor.
+	~remains constant as temperature rises.#This is known as a negative temperature coefficient (NTC) resistor.
+	~increases as temperature rises.#This is known as a negative temperature coefficient (NTC) resistor.
+	~falls as temperature falls.#This is known as a negative temperature coefficient (NTC) resistor.
+}
+
+
+//name:TQ0402
+::TQ0402::Monitoring of the throttle position can be provided by a:{
+	=potentiometer-type sensor.#A potentiometer is a type of variable resistor. In a throttle position sensor it provides an electrical output signal that is relative to the position of the throttle.
+	~MAP sensor.#A potentiometer is a type of variable resistor. In a throttle position sensor it provides an electrical output signal that is relative to the position of the throttle.
+	~crank-angle sensor.#A potentiometer is a type of variable resistor. In a throttle position sensor it provides an electrical output signal that is relative to the position of the throttle.
+	~RPM sensor.#A potentiometer is a type of variable resistor. In a throttle position sensor it provides an electrical output signal that is relative to the position of the throttle.
+}
+
+
+//name:TQ0403
+::TQ0403::The principle of operation of the mass air flow sensor is to keep the wire at a constant temperature. This is done by varying the:{
+	=current.#The mass airflow meter uses a heated/hot wire to calculate the mass of air flowing into the intake system.
+	~voltage.#The mass airflow meter uses a heated/hot wire to calculate the mass of air flowing into the intake system.
+	~resistance.#The mass airflow meter uses a heated/hot wire to calculate the mass of air flowing into the intake system.
+	~length.#The mass airflow meter uses a heated/hot wire to calculate the mass of air flowing into the intake system.
+}
+
+
+//name:TQ0404
+::TQ0404::The coolant temperature sensor has what characteristic?{
+	=NTC - negative temperature coefficient.#In the case of NTC, as the temperature rises, resistance decreases. In the case of PTC, as the temperature rises, resistance rises.
+	~PTC - positive temperature coefficient.#In the case of NTC, as the temperature rises, resistance decreases. In the case of PTC, as the temperature rises, resistance rises.
+}
+
+
+//name:TQ0405
+::TQ0405::A Hall effect sensor needs which of the following to operate?{
+	=Interrupter ring.#A Hall effect sensor requires an interrupter ring, sometimes referred to as a chopper plate to operate and generate its square wave voltage signal.
+	~Potentiometer.#A Hall effect sensor requires an interrupter ring, sometimes referred to as a chopper plate to operate and generate its square wave voltage signal.
+	~Variable resistor.#A Hall effect sensor requires an interrupter ring, sometimes referred to as a chopper plate to operate and generate its square wave voltage signal.
+	~Hot wire.#A Hall effect sensor requires an interrupter ring, sometimes referred to as a chopper plate to operate and generate its square wave voltage signal.
+}
+
+

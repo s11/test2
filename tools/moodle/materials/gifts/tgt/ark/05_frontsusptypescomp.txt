@@ -1,0 +1,66 @@
+//name:TQ0552
+::TQ0552::When turning, the steering knuckle pivots on rubber bushings.{
+	=FALSE#Steering knuckles pivot on ball joints. 
+	~TRUE#Steering knuckles pivot on ball joints. 
+}
+
+
+//name:TQ0553
+::TQ0553::In a short/long arm type front suspension system how is suspension movement accommodated while still maintaining steering geometry?{
+	=The lower control arm is longer than the upper control arm.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+	~The lower control arm is shorter than the upper control arm.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+	~It moves up and down in parallel to accommodate movement in the suspension.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+	~It moves up and down independently to accommodate movement in the suspension.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+}
+
+
+//name:TQ0554
+::TQ0554::In short/long arm suspension the lower control arm pivots on bushes that twist on the:{
+	=lower control arm pin.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+	~upper control arm pin.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+	~cross-member bushes.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+	~upper control arm bushes.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+}
+
+
+//name:TQ0555
+::TQ0555::A strut type suspension system has the shock absorbers contained inside them.  {
+	=TRUE#In a strut type suspension system, a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower.
+	~FALSE#In a strut type suspension system, a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower.
+}
+
+
+//name:TQ0556
+::TQ0556::Strut type suspensions are only used on front suspensions.{
+	=FALSE#A strut type suspension system can be used on the front or rear of a vehicle, or both.
+	~TRUE#A strut type suspension system can be used on the front or rear of a vehicle, or both.
+}
+
+
+//name:TQ0557
+::TQ0557::In strut suspension how is the control arm fixed in place?{
+	=It is fixed in place with bushes.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+	~It is held in place by the drive shafts.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+	~It is held in place by the coil spring.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+	~It is bearing-mounted.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+}
+
+
+//name:TQ0558
+::TQ0558::How does a torsion bar spring operate and what determines the strength of the spring?{
+	=The torsion bar supports the vehicle load and twists around its center to provide the springing action. The spring rate depends upon the length of the bar. The shorter and thicker the bar, the stiffer its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+	~The torsion bar supports the vehicle load and twists around its center to provide the springing action. The spring rate depends upon the length of the bar. The shorter and thicker the bar, the lighter its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+	~The torsion bar moves up and down. The spring rate depends upon the length of the bar. The shorter and thicker the bar, the stiffer its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+	~The torsion bar supports the vehicle load and twists around its center to provide the springing action. The spring rate depends upon the length of the bar. The longer the bar, the stiffer its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+}
+
+
+//name:TQ0559
+::TQ0559::In torsion bar suspension the lower control arm moves up and down to accommodate movement in the suspension. What is this particular design sometimes called?{
+	=A 'Wishbone Control Arm'.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+	~A 'Torsion Bar Control Arm'.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+	~A 'V' shaped control arm.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+	~A 'Front Suspension Control Arm.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+}
+
+

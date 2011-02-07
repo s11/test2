@@ -1,0 +1,48 @@
+// question: 32729  name: HAQ3001 
+::HAQ3001::[html]The thermostatic expansion valve, also called a ................., is located at the entry to the evaporator and provides a throttling or restricting function to control the quantity of refrigerant entering the evaporator.{
+	=%100%TX valve#
+	=%100%tx valve#
+}
+
+
+// question: 32730  name: HAQ3002 
+::HAQ3002::[html]When the air-conditioning system is switched on, an electro-magnetic clutch is energized on the compressor drive plate and the compressor is driven by the engine .................{
+	=%100%crankshaft#
+}
+
+
+// question: 32731  name: HAQ3003 
+::HAQ3003::[html]Vaporized refrigerant is drawn from the low pressure side of the system by the ................. side of the compressor.{
+	=%100%intake#
+}
+
+
+// question: 32732  name: HAQ3004 
+::HAQ3004::[html]The reduction in temperature causes the refrigerant vapor to ................. and turn into a liquid which flows to the receiver drier.{
+	=%100%condense#
+}
+
+
+// question: 32733  name: HAQ3005 
+::HAQ3005::[html]The liquid refrigerant must pass through the filter and desiccant to reach the ................. tube where the refrigerant can flow on to the TX valve.{
+	=%100%pick-up#
+	=%100%pickup#
+	=%100%pick up#
+}
+
+
+// question: 32734  name: HAQ3006 
+::HAQ3006::[html]The temperature of the refrigerant leaving the evaporator is between 2&deg;C to 9&deg;C higher than the boiling point of the refrigerant at the current operating pressure. This difference in temperature is called '.................' and it ensures that all liquid refrigerant which enters the evaporator is vaporized before it leaves.{
+	=%100%super-heat#
+	=%100%superheat#
+}
+
+
+// question: 32735  name: HAQ3008 
+::HAQ3008::[html]The liquid expands into the larger volume of the evaporator causing a reduction in its pressure and this, together with heat from the air passing over the evaporator fins, causes it to .................{
+	=%100%vaporise#
+	=%100%vaporize#
+}
+
+
+

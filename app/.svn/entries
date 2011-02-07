@@ -1,0 +1,49 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app
+svn://curfew.jbpub.com/online
+
+
+
+2010-02-09T13:37:39.179269Z
+3757
+paulm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+
+mailers
+dir
+
+stylesheets
+dir
+
+views
+dir
+
+reports
+dir
+

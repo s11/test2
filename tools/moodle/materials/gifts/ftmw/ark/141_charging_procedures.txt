@@ -1,0 +1,101 @@
+// question: 32447  name: HAQ2868 
+::HAQ2868::[html]Prepare the Digital volt ohm meter or DVOM for testing for voltage by inserting the black probe lead into the '.................' input port, and the red probe lead into the 'Volt/Ohms' input port.{
+	=%100%common#
+}
+
+
+// question: 32448  name: HAQ2869 
+::HAQ2869::[html]Check meter function - Turn the rotary dial until you have selected the mode for 'Volts DC'. The reading on the meter should now be at .................{
+	=%100%Zero#
+	=%100%0#
+}
+
+
+// question: 32449  name: HAQ2870 
+::HAQ2870::[html]Check battery voltage - Place the Black probe onto the Negative terminal of the battery, which will be marked with a Minus sign, and place the Red probe onto the ................. terminal of the battery.{
+	=%100%Positive#
+}
+
+
+// question: 32450  name: HAQ2871 
+::HAQ2871::[html]Check and replace an alternator - Disconnect the battery terminal. Locate the battery and its ................. terminal. Loosen the terminal clamp and remove the terminal from the battery post.{
+	=%100%negative#
+}
+
+
+// question: 32451  name: HAQ2872 
+::HAQ2872::[html]Fit fender covers to the vehicle. Loosen the ................. and remove it from the alternator pulley. Check the condition of the belt to see if it is still serviceable.{
+	=%100%drive belt#
+	=%100%drive-belt#
+	=%100%drivebelt#
+}
+
+
+// question: 32452  name: HAQ2873 
+::HAQ2873::[html]Test alternator output - Start the engine and with a DVOM set to read ................., place the positive probe onto the battery positive and the negative probe to the battery negative.{
+	=%100%DC voltage#
+}
+
+
+// question: 32453  name: HAQ2874 
+::HAQ2874::[html]Never try to inspect drive belts with the engine .................{
+	=%100%running#
+}
+
+
+// question: 32454  name: HAQ2875 
+::HAQ2875::[html]A V-type belt has a profile that looks like the photo below, and sits inside a deep v-shaped groove in the ................. wheel.{
+	=%100%pulley#
+}
+
+
+// question: 32455  name: HAQ2876 
+::HAQ2876::[html]When a V-type belt becomes very worn, the bottom of the V-shape may contact the ................. of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove.{
+	=%100%bottom#
+}
+
+
+// question: 32456  name: HAQ2877 
+::HAQ2877::[html]Check the belt ................. by attaching the tension gauge to the longest belt span, and pulling it to measure the tension. Compare your reading to the specifications in the vehicle workshop manual.{
+	=%100%tension#
+}
+
+
+// question: 32457  name: HAQ2878 
+::HAQ2878::[html]Select the correct wrench to loosen the tension adjustment fastener. This is usually on the ................. mounting or on a separate idler pulley wheel.{
+	=%100%Alternator#
+	=%100%alternator#
+}
+
+
+// question: 32458  name: HAQ2879 
+::HAQ2879::[html]The grooves on a serpentine belt are the exact reverse of the grooves in the outer edge of the ................. wheels; they increase the contact surface area, as well as prevent the belt from slipping off the wheel as it rotates.{
+	=%100%pulley#
+}
+
+
+// question: 32460  name: HAQ2880 
+::HAQ2880::[html]Replacing an engine belt - Locate the ................. fastener and loosen it. This is usually on the alternator mounting or on a separate pulley wheel.{
+	=%100%adjustment#
+}
+
+
+// question: 32461  name: HAQ2881 
+::HAQ2881::[html]Tension the belt using a wrench and a pry bar, then check it with a ................. With automatic tension systems, gently allow this to apply the tension to the belt.{
+	=%100%tension gauge#
+}
+
+
+// question: 32462  name: HAQ2882 
+::HAQ2882::[html]Start the engine, and observe the belt to make sure that it is properly seated and operating correctly. Stop the engine again, and recheck the .................{
+	=%100%tension#
+}
+
+
+// question: 32459  name: HAQ3828 
+::HAQ3828::[html]Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic ................. tensioning system.{
+	=%100%spring#
+}
+
+
+

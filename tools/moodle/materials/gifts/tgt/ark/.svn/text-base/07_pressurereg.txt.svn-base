@@ -1,0 +1,59 @@
+//name:TQ0864
+::TQ0864::The governor pressure acts on the end of the transmission 1-2 shift valve and as road speed increases it can become high enough to overcome the opposing forces of spring and throttle pressure.{
+	=TRUE#When vehicle speed is low, governor pressure is low.  When vehicle speed is high, governor pressure is high. That pressure is directed to the end of the shift valve, which produces upshifts relative to vehicle speed.
+	~FALSE#When vehicle speed is low, governor pressure is low.  When vehicle speed is high, governor pressure is high. That pressure is directed to the end of the shift valve, which produces upshifts relative to vehicle speed.
+}
+
+
+//name:TQ0865
+::TQ0865::Under what conditions does the transmission 'kick-down' function operate?{
+	=Kick-down pressure is supplied to the spring end of the 1-2 shift valve to force a 2-1 downshift under 'kick-down' conditions.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+	~Kick-down pressure is supplied to the spring end of the 2-3 shift valve to force a 2-3 downshift under 'kick-down' conditions.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+	~Kick-down only operates under light load conditions.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+	~New transmissions do not have a 'kick-down' function fitted.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+}
+
+
+//name:TQ0866
+::TQ0866::The modulator valve in an automatic transmission assembly consists of a modulator valve and a modulator plug and spring.{
+	=TRUE#The modulator valve is operated by throttle pressure but is also subjected to governor pressure, so that its output is sensitive both to accelerator position and to vehicle speed.
+	~FALSE#The modulator valve is operated by throttle pressure but is also subjected to governor pressure, so that its output is sensitive both to accelerator position and to vehicle speed.
+}
+
+
+//name:TQ0867
+::TQ0867::How does the governor operate?{
+	=It operates by centrifugal force in two stages. #The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+	~It operates by centrifugal force in three stages.#The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+	~It operates by hydraulic pressure in three stages.#The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+	~It operates by hydraulic pressure in two stages.#The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+}
+
+
+//name:TQ0868
+::TQ0868::In a primary regulating valve what does the larger land provide?{
+	=A differential area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+	~A regulating area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+	~A modulating area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+	~A line pressure area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+}
+
+
+//name:TQ0869
+::TQ0869::The primary regulator valve maintains an idle speed pressure of:{
+	=450kPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+	~45kPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+	~450MPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+	~45MPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+}
+
+
+//name:TQ0870
+::TQ0870::Technician A says that applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Technician B says that applying modulator pressure to the opposite end reduces it. Who is correct?{
+	=Technician A.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+	~Technician B.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+}
+
+

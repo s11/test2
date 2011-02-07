@@ -1,0 +1,17 @@
+%ul
+  %li= link_to "Subscription Information", "#tabs-subscription"
+
+  - if Rails.env.staging?
+    %li= link_to "Default Menu Setup", "#tabs-menu"
+  - else
+    - if current_menu.is_custom? || current_menu.is_client_locked?
+      - if current_client.menu_version.has_later_version?
+        %li= link_to "Default Menu Setup", "#tabs-menu"
+    - else
+      %li= link_to "Default Menu Setup", "#tabs-menu"
+
+  -# FIXME: Hardcoded menu! Arghhh!
+  - if current_menu.name =~ /ASE/
+    %li= link_to "NATEF Task Area Setup", "#tabs-natef"
+
+  %li= link_to "Video Setup", "#tabs-video"

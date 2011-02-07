@@ -1,0 +1,59 @@
+//name:TQ0469
+::TQ0469::Power steering systems normally have a flow control valve fitted to them. Where is it located?{
+	=At the outlet fitting of the power steering pump.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the steering rack or steering box.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the high pressure lines of the system.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the low pressure side of the system.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+}
+
+
+//name:TQ0470
+::TQ0470::What is the purpose of the power steering pressure relief valve?{
+	=To prevent excessive pressures developing when the steering is on full-lock.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To prevent excessive pressures developing when minimal force is applied to the steering system.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To eliminate pressure drop.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To maintain high pressure during steering.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+}
+
+
+//name:TQ0471
+::TQ0471::Power steering assistance is provided by:{
+	=hydraulic and/or electrical methods.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~vacuum.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~compressed air.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~electrical solenoids.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+}
+
+
+//name:TQ0472
+::TQ0472::Types of power steering pump designs include the:{
+	=vane, roller, and slipper.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~vane, gear, and roller.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~roller, slipper, and gear.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~slipper, vane, and gear.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+}
+
+
+//name:TQ0473
+::TQ0473::Technician A says that power steering can only be fitted to vehicles designed for forward control layouts. Technician B says that power steering can be fitted to both rack and pinion and steering box arrangements. Who is correct?{
+	~Technician A.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	=Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	~Both Technician A and Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	~Neither Technician A nor Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+}
+
+
+//name:TQ0474
+::TQ0474::In a 'rack and pinion' system, the smaller the pinion gear, the heavier the steering.{
+	=FALSE#Smaller size does not match with more rugged construction. Light vehicles use small pinion arrangements.
+	~TRUE#Smaller size does not match with more rugged construction. Light vehicles use small pinion arrangements.
+}
+
+
+//name:TQ0475
+::TQ0475::Technician A says that the rack and pinion operates by moving the rack with the pinion gear. Technician B says that the rack and pinion operates by moving the rack with the sector shaft. Who is correct?{
+	=Technician A.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Both Technician A & Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Neither Technician A or Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+}

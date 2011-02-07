@@ -1,0 +1,79 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/acts_as_state_machine/test
+svn://curfew.jbpub.com/online
+
+
+
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+test_helper.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+301c853c8eda52dd1ec6619cfbf91be0
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+acts_as_state_machine_test.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+663f06569208f92084d0bcbadddc0319
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+schema.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+d9765963286b92c8c480a4a2ec0a1468
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+database.yml
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+cee681e7379cf5e6855b1b236dd90fd7
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+fixtures
+dir
+

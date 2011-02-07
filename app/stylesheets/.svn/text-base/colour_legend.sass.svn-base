@@ -1,0 +1,20 @@
+#colour-legend
+  :margin-top 1em
+  :padding 0.5em
+  legend
+    :font-color #06346d
+    :font-weight bold
+    :text-align center
+  th
+    :width 10px
+    &.activity
+      :background-color = !colour_activity
+    &.assessment
+      :background-color = !colour_assessment
+    &.theory
+      :background-color = !colour_theory
+    &.procedure
+      :background-color = !colour_procedure
+    
+  td
+    :padding-left 10px

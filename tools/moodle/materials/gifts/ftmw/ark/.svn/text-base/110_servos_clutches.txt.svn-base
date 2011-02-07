@@ -1,0 +1,136 @@
+// question: 30575  name: HAQ2287 
+::HAQ2287::[html]Servos are used in automatic transmissions to convert the hydraulic pressure acting on a ................. to a mechanical force which is then applied to a brake band.{
+	=%100%piston#
+}
+
+
+// question: 30576  name: HAQ2288 
+::HAQ2288::[html]A heavy lever type spiral ................. returns the servo and the band to the Off position when the fluid is dumped.{
+	=%100%spring#
+}
+
+
+// question: 30577  name: HAQ2289 
+::HAQ2289::[html]The fluid supplied to the servo at line pressure is converted to an apply force by the piston and this acts on the longer end of the .................{
+	=%100%rocker arm#
+}
+
+
+// question: 30578  name: HAQ2290 
+::HAQ2290::[html]The front servo is engaged together with the front clutch to provide second gear and acts on a lined spring steel band to lock the secondary ................. gear to the casing.{
+	=%100%sun#
+}
+
+
+// question: 30579  name: HAQ2291 
+::HAQ2291::[html]The apply force from the ................. is transferred through its' central stem and is multiplied by the rocker arm, which has a leverage ratio of approximately 3:1.{
+	=%100%piston#
+}
+
+
+// question: 30580  name: HAQ2292 
+::HAQ2292::[html]If road speed is reduced, the 1-2 shift valve will move to the first gear position and this apply fluid will be exhausted at the 1-2 shift valve allowing the ................. to return the band to the off position.{
+	=%100%spring#
+}
+
+
+// question: 30581  name: HAQ2293 
+::HAQ2293::[html]The apply fluid is retained and when the 2-3 shift valve moves to supply fluid to the ................. clutch, the same fluid is supplied to the release side of the front servo.{
+	=%100%rear#
+}
+
+
+// question: 30582  name: HAQ2294 
+::HAQ2294::[html]Retaining the apply fluid has the advantage of providing a 'snap' band application to reengage second gear if the accelerator is depressed for '.................' or when road speed drops off.{
+	=%100%kickdown#
+	=%100%kick down#
+	=%100%kick-down#
+}
+
+
+// question: 30583  name: HAQ2295 
+::HAQ2295::[html]In a Borg Warner 35 transmission there are ................. clutches.{
+	=%100%three#
+	=%100%3#
+}
+
+
+// question: 30584  name: HAQ2296 
+::HAQ2296::[html]The one-way clutch is a sprag type which locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the ................. input shaft.{
+	=%100%transmission#
+}
+
+
+// question: 30585  name: HAQ2297 
+::HAQ2297::[html]The equally spaced sprags are held together by a spring-loaded ................. which maintains them in the correct position and attitude before fitting.{
+	=%100%cage#
+}
+
+
+// question: 30586  name: HAQ2298 
+::HAQ2298::[html]The clutch operating ................. moves within quite a short cylinder machined in the clutch drum.{
+	=%100%piston#
+}
+
+
+// question: 30587  name: HAQ2299 
+::HAQ2299::[html]A diaphragm type spring contacts a ................. ring on the piston at its' inner circumference while its' outer circumference rests against a snap ring located in a groove in the drum.{
+	=%100%fulcrum#
+}
+
+
+// question: 30588  name: HAQ2300 
+::HAQ2300::[html]When fluid at line pressure is admitted to the clutch ................., the piston apply force is multiplied by the leverage provided by the diaphragm, as it pivots against the pressure plate.{
+	=%100%cylinder#
+}
+
+
+// question: 30589  name: HAQ2301 
+::HAQ2301::[html]Two sets of plates make up the clutch pack. These are driving plates and ................. plates.{
+	=%100%driven#
+}
+
+
+// question: 30590  name: HAQ2302 
+::HAQ2302::[html]The inner driven plates have a friction material bonded to them and their splines mate with splines on the outside of a central hub, which is itself splined to the primary ..........  gear.{
+	=%100%sun#
+}
+
+
+// question: 30591  name: HAQ2303 
+::HAQ2303::[html]The central ................. is installed to engage the inner plates and thrust washers are placed in position prior to installing the input shaft.{
+	=%100%hub#
+}
+
+
+// question: 30592  name: HAQ2304 
+::HAQ2304::[html]The large face of the input shaft acts as the final plate in the pack while the splines at its' outer edge transmit the input torque to the clutch ................. and the driving plates.{
+	=%100%drum#
+}
+
+
+// question: 30593  name: HAQ2305 
+::HAQ2305::[html]The number of plates installed determines the ................. capacity of the clutch.{
+	=%100%torque#
+}
+
+
+// question: 30594  name: HAQ2306 
+::HAQ2306::[html]The outer plates in the rear clutch are the ................. plates and are splined to engage with the splines in the clutch drum.{
+	=%100%driven#
+}
+
+
+// question: 30595  name: HAQ2307 
+::HAQ2307::[html]The inner clutch plates are ................. to mate with splines on an extension on the front clutch drum.{
+	=%100%splined#
+}
+
+
+// question: 30596  name: HAQ2308 
+::HAQ2308::[html]The inner plates transmit the drive from the input shaft to the outer plates when the ................. is engaged.{
+	=%100%clutch#
+}
+
+
+

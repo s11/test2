@@ -1,0 +1,298 @@
+// question: 31933  name: HAQ2637 
+::HAQ2637::[html]A semiconductor diode has a single p-n .................{
+	=%100%junction#
+}
+
+
+// question: 31934  name: HAQ2638 
+::HAQ2638::[html]If it is connected to a current source, with the p region connected to a negative pole, and the n-region to a positive pole, the holes will be attracted towards the ................. pole, and the electrons to the positive pole.{
+	=%100%negative#
+}
+
+
+// question: 31935  name: HAQ2639 
+::HAQ2639::[html]A Zener diode is designed to block current flow through it, but if the voltage of the current source is large enough, it can force current to flow through the diode. This is called .................{
+	=%100%breakdown#
+}
+
+
+// question: 31936  name: HAQ2640 
+::HAQ2640::[html]Zener diode - Diodes that can be made to conduct .................{
+	=%100%backwards#
+}
+
+
+// question: 31937  name: HAQ2641 
+::HAQ2641::[html]Avalanche diodes - Diodes that conduct in the reverse direction when the reverse bias ................. exceeds the breakdown voltage.{
+	=%100%voltage#
+}
+
+
+// question: 31938  name: HAQ2642 
+::HAQ2642::[html]Light emitting diodes - As the electrons cross the junction they emit .................{
+	=%100%photons#
+}
+
+
+// question: 31940  name: HAQ2644 
+::HAQ2644::[html]In a p-n diode, conventional current can flow from the p-type side (the .................) to the n-type side (the cathode), but not in the opposite direction.{
+	=%100%anode#
+}
+
+
+// question: 31941  name: HAQ2645 
+::HAQ2645::[html]Modern vehicles use many different kinds and sizes of lamps. They all consist of 1 or more ................. which heat up until they glow.{
+	=%100%filaments#
+}
+
+
+// question: 31942  name: HAQ2646 
+::HAQ2646::[html]The power in watts being consumed by the lamp is found by multiplying the voltage to the lamp, by the ................. flowing through it.{
+	=%100%current#
+}
+
+
+// question: 31943  name: HAQ2647 
+::HAQ2647::[html]The incandescent light bulb (archaically known as the electric lamp) uses a glowing wire filament heated to white-hot by electrical ................., to generate light (a process known as thermal radiation or incandescence).{
+	=%100%resistance#
+}
+
+
+// question: 31944  name: HAQ2648 
+::HAQ2648::[html]Putting a resistor in a circuit causes a drop in ................. across the resistor, so resistors are commonly used to control the voltage that reaches various components.{
+	=%100%voltage#
+}
+
+
+// question: 31945  name: HAQ2649 
+::HAQ2649::[html]Resistors have a ................. rating.{
+	=%100%wattage#
+}
+
+
+// question: 31946  name: HAQ2650 
+::HAQ2650::[html]The ratio of potential difference (also called voltage) to current is known as its electrical ................. (or simply resistance).{
+	=%100%resistance#
+}
+
+
+// question: 31947  name: HAQ2651 
+::HAQ2651::[html]An ................. is a network of two or more resistors (a voltage divider) used to reduce the voltage of a signal.{
+	=%100%attenuator#
+}
+
+
+// question: 31948  name: HAQ2652 
+::HAQ2652::[html]In an ideal resistor, the resistance remains constant regardless of the applied voltage or ................. flowing through the device or the rate of change of the current.{
+	=%100%current#
+}
+
+
+// question: 31958  name: HAQ2653 
+::HAQ2653::[html]Thermistors are semiconductor resistors. Their electrical resistance varies according to .................{
+	=%100%temperature#
+}
+
+
+// question: 31959  name: HAQ2654 
+::HAQ2654::[html]Negative temperature coefficient resistors, also called ................. resistors, conduct current more readily when they are hot than when they are cold.{
+	=%100%ntc#
+}
+
+
+// question: 31960  name: HAQ2655 
+::HAQ2655::[html]A thermistor is a type of resistor used to measure temperature changes, relying on the change in its ................. with changing temperature.{
+	=%100%resistance#
+}
+
+
+// question: 31961  name: HAQ2656 
+::HAQ2656::[html]The current is measured using an .................{
+	=%100%ammeter#
+}
+
+
+// question: 31963  name: HAQ2657 
+::HAQ2657::[html]Transistors and power transistors are ................. devices used as switches, and to amplify currents.{
+	=%100%semiconductor#
+}
+
+
+// question: 31964  name: HAQ2658 
+::HAQ2658::[html]A pnp transistor has an n-type, between 2 p-types. Each of the 3 regions has a .................{
+	=%100%terminal#
+}
+
+
+// question: 31965  name: HAQ2659 
+::HAQ2659::[html]In a circuit, an npn transistor can act as a .................{
+	=%100%switch#
+}
+
+
+// question: 31966  name: HAQ2660 
+::HAQ2660::[html]An avalanche diode is a silicon diode that is designed to break down and conduct at a specified ................. bias voltage.{
+	=%100%reverse#
+}
+
+
+// question: 31967  name: HAQ2661 
+::HAQ2661::[html]A common application is protecting electronic circuits against damaging high .................{
+	=%100%voltages#
+}
+
+
+// question: 31968  name: HAQ2662 
+::HAQ2662::[html]The avalanche diode is connected to the circuit so that it is reverse-biased. In other words, its cathode is positive with respect to its anode. In this configuration, the ................. is non-conducting and does not interfere with the circuit.{
+	=%100%diode#
+}
+
+
+// question: 31969  name: HAQ2663 
+::HAQ2663::[html]Transient means passing with time. For example, a damped oscillator needs some time after a temporary disturbance to reach the ................. again, and after a permanent change in system variables, to reach the new equilibrium.{
+	=%100%equilibrium#
+}
+
+
+// question: 31970  name: HAQ2664 
+::HAQ2664::[html]Engineers use ................. regulators and surge suppressors to prevent transients in electricity from affecting delicate equipment.{
+	=%100%voltage#
+}
+
+
+// question: 31971  name: HAQ2665 
+::HAQ2665::[html]By exceeding the breakdown ................. a conventional diode is destroyed in the breakdown due to excess current and overheating.{
+	=%100%voltage#
+}
+
+
+// question: 31972  name: HAQ2666 
+::HAQ2666::[html]Zener dioides - The ................. voltage can be controlled quite accurately in the doping process.{
+	=%100%breakdown#
+}
+
+
+// question: 31973  name: HAQ2667 
+::HAQ2667::[html]Zener diodes are widely used in electronic circuits. Their most common function is to regulate the voltage across a .................{
+	=%100%circuit#
+}
+
+
+// question: 31974  name: HAQ2668 
+::HAQ2668::[html]A p-n junction is formed by combining N-type and P-type ................. together in very close contact.{
+	=%100%semiconductors#
+}
+
+
+// question: 31975  name: HAQ2669 
+::HAQ2669::[html]P-doped semiconductor is relatively .................{
+	=%100%conductive#
+}
+
+
+// question: 31976  name: HAQ2670 
+::HAQ2670::[html]The nonconducting layer, called the ................. zone, occurs because the electrical charge carriers in doped n-type and p-type silicon (electrons and holes, respectively) attract and eliminate each other in a process called recombination.{
+	=%100%depletion#
+}
+
+
+// question: 31977  name: HAQ2671 
+::HAQ2671::[html]Superconductivity is a phenomenon occurring in certain materials at low temperatures, characterized by the complete absence of electrical ................. and the damping of the interior magnetic field (the Meissner effect).{
+	=%100%resistance#
+}
+
+
+// question: 31978  name: HAQ2672 
+::HAQ2672::[html]In conventional superconductors, superconductivity is caused by a force of attraction between certain conduction electrons arising from the exchange of ................., which causes the conduction electrons to exhibit a superfluid phase composed of correlated pairs of electrons.{
+	=%100%photons#
+}
+
+
+// question: 31979  name: HAQ2673 
+::HAQ2673::[html]Certain ceramic compounds containing planes of copper and oxygen atoms are known as ................., and are high-temperature superconductors.{
+	=%100%cuprates#
+	=%100%cuprites#
+}
+
+
+// question: 31980  name: HAQ2674 
+::HAQ2674::[html]The thyristor is a solid-state ................. device similar to a diode, with an extra terminal which is used to turn it on.{
+	=%100%semiconductor#
+	=%100%semi-conductor#
+}
+
+
+// question: 31981  name: HAQ2675 
+::HAQ2675::[html]The main terminals, labeled anode and ................., are across the full four layers, and the control terminal, called the gate, is attached to one of the middle layers.{
+	=%100%cathode#
+}
+
+
+// question: 31982  name: HAQ2676 
+::HAQ2676::[html]Thyristor's are mainly used where high currents and ................. are involved, and are often used to control alternating currents, where the change of sign of the current causes the device to automatically switch off.{
+	=%100%voltages#
+}
+
+
+// question: 31949  name: HAQ3799 
+::HAQ3799::[html]Resistors are used to control current flow in a circuit, and are rated by their resistance value and their ................. rating.{
+	=%100%power#
+}
+
+
+// question: 31950  name: HAQ3800 
+::HAQ3800::[html]The resistor's power rating is determined by its .................{
+	=%100%size#
+}
+
+
+// question: 31951  name: HAQ3801 
+::HAQ3801::[html]To identify its value, each resistor is marked with four or five colored bands. The color bands are placed so that they are set close to each other and biased to the left. The last, or ................. band, is spaced further apart.{
+	=%100%tolerance#
+}
+
+
+// question: 31952  name: HAQ3802 
+::HAQ3802::[html]If a resistor has four color bands, the first two bands indicate the first two numbers of the resistor's value. The third band represents the ................. value and the fourth band indicates the tolerance.{
+	=%100%multiplier#
+}
+
+
+// question: 31953  name: HAQ3803 
+::HAQ3803::[html]Resistors found on circuit boards are normally ................. in value.{
+	=%100%fixed#
+}
+
+
+// question: 31954  name: HAQ3804 
+::HAQ3804::[html]Variable resistors can be .................; meaning that their resistance value varies proportionally with movement or temperature change.{
+	=%100%linear#
+}
+
+
+// question: 31955  name: HAQ3805 
+::HAQ3805::[html]Variable resistors can be .................; where the resistance change is not proportional with movement.{
+	=%100%non-linear#
+	=%100%nonlinear#
+	=%100%non linear#
+}
+
+
+// question: 31956  name: HAQ3806 
+::HAQ3806::[html]Potentiometers are mechanical variable resistors with three connections, two fixed and one moveable. They act as voltage ................. and as such alter the voltage in a circuit.{
+	=%100%dividers#
+}
+
+
+// question: 31957  name: HAQ3807 
+::HAQ3807::[html]Thermistors are conductors whose resistance value is affected by .................{
+	=%100%temperature#
+}
+
+
+// question: 31962  name: HAQ3808 
+::HAQ3808::[html]NTC thermistors can be used as inrush-current limiting devices in power supply circuits. They present a higher resistance initially which prevents large currents from flowing at turn-on, and then heat up and become much ................. resistance to allow higher current flow during normal operation.{
+	=%100%lower#
+}
+
+

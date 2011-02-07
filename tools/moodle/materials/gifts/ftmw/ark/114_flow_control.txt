@@ -1,0 +1,93 @@
+// question: 30819  name: HAQ2363 
+::HAQ2363::[html]Governor pressure cannot force an upshift, regardless of its' value and the ................. remains in 1st gear until the lever is moved to 2 or to D, when an upshift can occur.{
+	=%100%transmission#
+}
+
+
+// question: 30820  name: HAQ2364 
+::HAQ2364::[html]Once the transmission has upshifted into 2nd gear, the rear band circuit is then open to ................. at the shift valve.{
+	=%100%exhaust#
+}
+
+
+// question: 30821  name: HAQ2365 
+::HAQ2365::[html]Even though the ................. moves upwards under the influence of governor pressure, it is not controlling any fluid flow and no changes can occur.{
+	=%100%valve#
+}
+
+
+// question: 30822  name: HAQ2366 
+::HAQ2366::[html]When 'D' range is selected, the manual valve allows fluid at line pressure to be directed to the ................. clutch, which will remain applied in all forward gears.{
+	=%100%front#
+}
+
+
+// question: 30823  name: HAQ2367 
+::HAQ2367::[html]As soon as the accelerator is depressed, ................. pressure will be directed to assist in holding the valves in the downshifted position and thus ensuring that their movement will be influenced by accelerator position.{
+	=%100%throttle#
+}
+
+
+// question: 30824  name: HAQ2368 
+::HAQ2368::[html]The line pressure supplied to the governor will be re-regulated by the governor to governor pressure when the vehicle is in motion and this ................. pressure will be directed to the large land areas at the bottom end of the 1-2 and 2-3 shift valves.{
+	=%100%governor#
+}
+
+
+// question: 30825  name: HAQ2369 
+::HAQ2369::[html]In D range, line pressure is supplied from the manual valve onto a ................. area and this assists the spring in holding the valve down against governor pressure.{
+	=%100%differential#
+}
+
+
+// question: 30826  name: HAQ2370 
+::HAQ2370::[html]Since the only forces opposing ................. pressure are the spring, and the line pressure acting on the differential area land, a 2-3 upshift will take place at a relatively low vehicle speed.{
+	=%100%governor#
+}
+
+
+// question: 30827  name: HAQ2371 
+::HAQ2371::[html]As soon as governor pressure becomes high enough to overcome the combined opposing forces, the ................. upshifts into the top gear position and fluid at line pressure can flow across to apply the rear clutch.{
+	=%100%valve#
+}
+
+
+// question: 30828  name: HAQ2372 
+::HAQ2372::[html]The servo orifice control ................. is a shuttle valve which can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.{
+	=%100%valve#
+}
+
+
+// question: 30829  name: HAQ2373 
+::HAQ2373::[html]With wider throttle openings, vehicle speeds will be higher before an upshift occurs and ................. pressure will have built up sufficiently to move the valve, so that the fluid must now pass through the orifice.{
+	=%100%governor#
+}
+
+
+// question: 30830  name: HAQ2374 
+::HAQ2374::[html]When pressure is such that fluid must pass through the orifice, it slows up the release of the front band and thus ensures the rear clutch is fully applied and able to transmit ................. as the band comes off.{
+	=%100%torque#
+}
+
+
+// question: 30831  name: HAQ2375 
+::HAQ2375::[html]When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle ................. from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.{
+	=%100%valve#
+}
+
+
+// question: 30832  name: HAQ2376 
+::HAQ2376::[html]Fluid at line pressure passes through the ................. valve and acts on the top land of the 2-3 shift valve.{
+	=%100%kickdown#
+	=%100%kick down#
+	=%100%kick-down#
+}
+
+
+// question: 30833  name: HAQ2377 
+::HAQ2377::[html]If a gear change does take place, then as road speed increases, governor pressure will eventually overcome the opposing forces and move the ................. valve upwards, even if the accelerator remains fully depressed.{
+	=%100%shift#
+}
+
+
+

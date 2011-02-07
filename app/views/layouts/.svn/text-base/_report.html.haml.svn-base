@@ -1,0 +1,36 @@
+!!! XML
+!!! Strict
+%html{html_attrs('en-AU')}
+  %head
+    %title= yield(:title)
+    
+    = javascript_include_tag 'packer/protoculous-effects', 'min/fastinit', 'min/datepicker', 'min/tooltip'
+    
+    = stylesheet_link_tag 'blueprint/screen', :media => 'screen, projection'
+    = stylesheet_link_tag 'blueprint/print', :media => 'print'
+    /[if IE]
+      = stylesheet_link_tag 'blueprint/ie', :media => 'screen, projection'
+      
+    = stylesheet_link_tag 'ui.tabs.css', 'tablesorter', 'datepicker', 'report_filter', 'report', 'master', :media => 'screen, projection'
+
+  %body
+    #menutabs
+      %h3.title= yield(:title)
+      %ul.ui-tabs-nav
+        - if params[:action] == 'tasksheets'
+          %li.ui-tabs-selected= link_to("<span>ASE (USA)</span>", '#')
+        - else
+          - if current_user.student?
+            %li.ui-tabs-selected= link_to("<span>#{current_user.menu.name}</span>", '#')
+          - else
+            - current_client.menus.each do |menu|
+              - if menu == current_menu
+                %li.ui-tabs-selected= link_to("<span>#{menu.name}</span>", '#')
+              - else
+                %li= link_to("<span>#{menu.name}</span>", {:action => params[:action], :menu => menu.menu_id, :content_version => params[:content_version]})
+
+    .ui-tabs-panel= yield
+
+    %script{:type => "text/javascript", :charset => "utf-8"}
+      :plain
+        Event.observe(window, 'load', function() {window.parent.scroll(0,0)});

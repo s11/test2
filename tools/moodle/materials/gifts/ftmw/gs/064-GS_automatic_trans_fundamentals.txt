@@ -1,0 +1,118 @@
+// question: 29257  name: HAQ2194 
+::HAQ2194::[html]The purpose of a light vehicle transmission is to transmit engine .............................. to the driving wheels.{
+	=%100%torque#
+}
+
+
+// question: 29258  name: HAQ2195 
+::HAQ2195::[html]The torque converter is a fluid coupling, with the fluid acting as the .............................. medium, since none of the converter components are physically connected to the others.{
+	=%100%driving#
+}
+
+
+// question: 29259  name: HAQ2196 
+::HAQ2196::[html]In its simplest form, a single-stage torque converter has three elements: The Impeller, the Turbine and ..............................{
+	=%100%stator#
+}
+
+
+// question: 29260  name: HAQ2197 
+::HAQ2197::[html]Both the impeller and the turbine are fitted with a torus or .............................. ring.{
+	=%100%guide#
+}
+
+
+// question: 29261  name: HAQ2198 
+::HAQ2198::[html]The stator has a small set of curved blades attached to a central .............................. and is positioned between the impeller and the turbine.{
+	=%100%hub#
+}
+
+
+// question: 29262  name: HAQ2219 
+::HAQ2219::[html]A basic planetary gearset has a sun gear, which meshes with .............................. gears, also called planet pinions.{
+	=%100%planet#
+}
+
+
+// question: 29263  name: HAQ2220 
+::HAQ2220::[html]The planet pinions, in sets of three or more, rotate on bearings, on hardened steel pins, on a planet carrier, which spaces the pinions equally around the .............................. gear.{
+	=%100%sun#
+}
+
+
+// question: 29264  name: HAQ2221 
+::HAQ2221::[html]'Walking' means that if either the sun gear, or the ring gear, is held stationary, the alternative .............................. member rotates the planet gears on their pins.{
+	=%100%driving#
+}
+
+
+// question: 29265  name: HAQ2222 
+::HAQ2222::[html]'Idling' refers to the rotation of the planet gears on their pins whenever the planet .............................. is stationary.{
+	=%100%carrier#
+}
+
+
+// question: 29266  name: HAQ2223 
+::HAQ2223::[html]To provide the ratios available from the gearset, one or more of the components must be held - or released. This is normally done by .............................. servos, operated by transmission fluid under pressure, acting on lined bands or clutches.{
+	=%100%hydraulic#
+}
+
+
+// question: 29267  name: HAQ2224 
+::HAQ2224::[html]On a simple planetary gearset, the planet carrier is attached to the output shaft. The sun gear is attached to the .............................. shaft from the turbine.{
+	=%100%input#
+}
+
+
+// question: 29268  name: HAQ2225 
+::HAQ2225::[html]For low gear, a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the .............................. gear stationary.{
+	=%100%ring#
+}
+
+
+// question: 29269  name: HAQ2226 
+::HAQ2226::[html]The planet carrier must move with the the planet gears in the same direction as engine rotation, but at a slower speed with an increase in ..............................{
+	=%100%torque#
+}
+
+
+// question: 29270  name: HAQ2227 
+::HAQ2227::[html]The outer drum and outer plates are attached to the ring gear. The inner plates and inner drum are attached to the planet ..............................{
+	=%100%carrier#
+}
+
+
+// question: 29271  name: HAQ2228 
+::HAQ2228::[html]Rotating the .............................. gear causes the planet gears to idle on their stationary pins. This turns the ring gear, and its output shaft, in the opposite direction to engine rotation.{
+	=%100%sun#
+}
+
+
+// question: 29272  name: HAQ2229 
+::HAQ2229::[html]The simple gearset illustrates basic principles, but it can't obtain all the ratios required. In practice .............................. planetary gearsets are used.{
+	=%100%compound#
+}
+
+
+// question: 29273  name: HAQ2230 
+::HAQ2230::[html]All gears are always in mesh, just as in a simple gearset. A primary sun gear meshes with short primary .............................. A secondary sun gear meshes with long secondary pinions.{
+	=%100%pinions#
+}
+
+
+// question: 29274  name: HAQ2231 
+::HAQ2231::[html]On a Simpson gearset, the sun gear is free to rotate on the .............................. shaft.{
+	=%100%output#
+}
+
+
+// question: 29275  name: HAQ2232 
+::HAQ2232::[html]Both sets are also connected by each having a part splined to the output shaft - the ring gear of the rear set, and the .............................. carrier of the front set.{
+	=%100%planet#
+}
+
+
+// question: 29276  name: HAQ2233 
+::HAQ2233::[html]The input shaft is separate from the gearset. The drive is transmitted through one, or more .............................., depending on the gear and range engaged.{
+	=%100%clutches#
+}

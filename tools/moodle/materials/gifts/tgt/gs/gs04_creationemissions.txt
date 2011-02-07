@@ -1,0 +1,34 @@
+//name:TQ0406
+::TQ0406::As result of combustion of the fuel and the air in an uncontrolled engine, what would be the approximate % of emissions that would come from the exhaust?{
+	=0.6#The term 'emission' normally refers to the pollution produced by a vehicle during normal use. Emission control systems are designed to limit the pollution caused by the harmful products of storing and burning fuel. 
+	~0.4#The term 'emission' normally refers to the pollution produced by a vehicle during normal use. Emission control systems are designed to limit the pollution caused by the harmful products of storing and burning fuel. 
+	~0.55#The term 'emission' normally refers to the pollution produced by a vehicle during normal use. Emission control systems are designed to limit the pollution caused by the harmful products of storing and burning fuel. 
+	~0.7#The term 'emission' normally refers to the pollution produced by a vehicle during normal use. Emission control systems are designed to limit the pollution caused by the harmful products of storing and burning fuel. 
+}
+
+
+//name:TQ0407
+::TQ0407::What happens to the air/fuel mixture if a manifold is too cold?{
+	=It creates a lean mixture.#A lean mixture may cause incomplete combustion. Carbon monoxide and hydrocarbon emissions are highest from a cold engine.
+	~It creates a rich mixture.#A lean mixture may cause incomplete combustion. Carbon monoxide and hydrocarbon emissions are highest from a cold engine.
+}
+
+
+//name:TQ0409
+::TQ0409::Where in a vehicle do evaporative emissions emanate from?{
+	=The fuel tank and carburetor.#The fuel tank and carburetor allow fuel to evaporate and escape to the atmosphere. These are called evaporative emissions.
+	~The exhaust system.#The fuel tank and carburetor allow fuel to evaporate and escape to the atmosphere. These are called evaporative emissions.
+	~The fuel injection system.#The fuel tank and carburetor allow fuel to evaporate and escape to the atmosphere. These are called evaporative emissions.
+	~The crankcase.#The fuel tank and carburetor allow fuel to evaporate and escape to the atmosphere. These are called evaporative emissions.
+}
+
+
+//name:TQ0410
+::TQ0410::The crankcase and the exhaust system emit pollutants into the atmosphere directly from the:{
+	=engine#These emissions are caused when hydrocarbons, lead compounds, and oxygen and nitrogen from the air, are burned in the combustion chamber.
+	~fuel tank#These emissions are caused when hydrocarbons, lead compounds, and oxygen and nitrogen from the air, are burned in the combustion chamber.
+	~carburetor#These emissions are caused when hydrocarbons, lead compounds, and oxygen and nitrogen from the air, are burned in the combustion chamber.
+	~fuel injection system#These emissions are caused when hydrocarbons, lead compounds, and oxygen and nitrogen from the air, are burned in the combustion chamber.
+}
+
+

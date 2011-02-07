@@ -1,0 +1,139 @@
+// question: 32129  name: HAQ2717 
+::HAQ2717::[html]When these components are connected together in a contact breaker system, they form two distinct circuits, Primary and .................{
+	=%100%secondary#
+}
+
+
+// question: 32130  name: HAQ2718 
+::HAQ2718::[html]In the primary circuit, the positive terminal of the battery is connected to the ignition switch, then to the positive terminal of the ignition coil. A connection is then made from the ................. terminal to the contact breaker moving contact point.{
+	=%100%negative#
+}
+
+
+// question: 32131  name: HAQ2719 
+::HAQ2719::[html]The central coil terminal is then connected by a high tension lead or cable to the center terminal of the distributor cap. A spring loaded carbon brush connects the terminal to the center of the ................. or button.{
+	=%100%rotor arm#
+}
+
+
+// question: 32132  name: HAQ2720 
+::HAQ2720::[html]A contact breaker (or 'points') is a type of electrical switch, and the term typically refers to the switching device found in the ................. of the ignition systems of non diesel-powered internal combustion engines.{
+	=%100%distributor#
+}
+
+
+// question: 32133  name: HAQ2721 
+::HAQ2721::[html]The contact breaker is operated by an engine-driven ................., and the position of the contact breaker is set so that they open (and hence generate a spark) at the exactly correct moment needed to ignite the fuel at the top of the piston's compression stroke.{
+	=%100%cam#
+}
+
+
+// question: 32134  name: HAQ2722 
+::HAQ2722::[html]With the ignition switched on and the contact breaker ................., current flows from the positive battery terminal, through the ignition switch, the primary winding, and the contact breaker to ground, then back to the negative battery terminal.{
+	=%100%closed#
+}
+
+
+// question: 32135  name: HAQ2723 
+::HAQ2723::[html]The current flow establishes a magnetic field around the ................. The field is intensified by the rod-shaped laminated iron core.{
+	=%100%windings#
+}
+
+
+// question: 32136  name: HAQ2724 
+::HAQ2724::[html]The sudden interruption of current flow at the instant of ignition, returns the stored energy to the coil terminals by cutting across the coil windings. This induces a ................. in the primary and secondary winding.{
+	=%100%voltage#
+}
+
+
+// question: 32137  name: HAQ2725 
+::HAQ2725::[html]As the high tension voltage builds up across the ends of the ................. winding, a voltage level is reached where the spark plug gap suddenly becomes conductive.{
+	=%100%secondary#
+}
+
+
+// question: 32138  name: HAQ2726 
+::HAQ2726::[html]The secondary circuit is from its connecting point at the primary winding, to the spark plug, and across its electrodes to .................{
+	=%100%ground#
+}
+
+
+// question: 32139  name: HAQ2727 
+::HAQ2727::[html]The ballast resistor is inserted in series in the primary circuit between the ignition switch and the ................. terminal of the ignition coil.{
+	=%100%positive#
+}
+
+
+// question: 32140  name: HAQ2728 
+::HAQ2728::[html]When the engine is running, its resistance provides a voltage drop in the ................. circuit, which lowers the voltage applied to the coil.{
+	=%100%primary#
+}
+
+
+// question: 32141  name: HAQ2729 
+::HAQ2729::[html]During cranking, a parallel connection from the starting circuit by-passes the ballast resistor. The voltage available at the battery terminals at this time, will now be applied to the positive terminal of the ignition coil. This voltage will give a boost to the ................. flowing in the primary circuit.{
+	=%100%current#
+}
+
+
+// question: 32142  name: HAQ2730 
+::HAQ2730::[html]The dwell angle is the number of degrees of rotation of the cam/distributor during which the points are .................{
+	=%100%closed#
+}
+
+
+// question: 32143  name: HAQ2731 
+::HAQ2731::[html]During each rotation of the cam/distributor, the points must open and close once for each .................{
+	=%100%cylinder#
+}
+
+
+// question: 32144  name: HAQ2732 
+::HAQ2732::[html]Each cylinder's spark must occur at a precise time during the rotation of the engine. The ................. is driven off a gear on a camshaft or an idler pulley in the timing chain, such that it rotates at half the speed of the crankshaft.{
+	=%100%distributor#
+}
+
+
+// question: 32145  name: HAQ2733 
+::HAQ2733::[html]A large gap gives a ................. dwell angle.{
+	=%100%small#
+}
+
+
+// question: 32146  name: HAQ2734 
+::HAQ2734::[html]A small gap gives a ................. dwell angle.{
+	=%100%large#
+}
+
+
+// question: 32147  name: HAQ2735 
+::HAQ2735::[html]Timing of the spark is normally set at idle speeds by positioning the ................. body in relation to its rotating cam.{
+	=%100%distributor#
+}
+
+
+// question: 32148  name: HAQ2736 
+::HAQ2736::[html]As engine speed increases there is less and less time for the mixture to be ignited and for this maximum pressure to be developed. So the ignition point has to be .................{
+	=%100%advanced#
+}
+
+
+// question: 32149  name: HAQ2737 
+::HAQ2737::[html]The speed sensitive mechanism is a centrifugal type which is located beneath the distributor base plate and rotates with the distributor .................{
+	=%100%cam#
+}
+
+
+// question: 32150  name: HAQ2738 
+::HAQ2738::[html]Since the cam is able to pivot on the distributor shaft, the weights act against their springs and move the cam forward. Under these conditions, the quantity of mixture entering the cylinder is ................. and the air-fuel ratio is set for maximum economy, on a lean setting.{
+	=%100%reduced#
+}
+
+
+// question: 32151  name: HAQ2739 
+::HAQ2739::[html]As the throttle is opened wider, there is less vacuum effect in the manifold and consequently ................. vacuum advance.{
+	=%100%less#
+}
+
+
+

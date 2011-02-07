@@ -1,0 +1,87 @@
+#filter.ui-widget.ui-widget-content.ui-corner-all{ :style => "padding: 0.5em" }
+  - form_tag(reports_path, :method => :get, :id => "report_filter") do
+    = hidden_field_tag(:owner_ids, params[:owner_ids]) if params[:owner_ids].present?
+    = hidden_field_tag :type, params[:type]
+    - if params[:assessment_type]
+      = hidden_field_tag :assessment_type, params[:assessment_type]
+
+    .chain-selector
+      = label_tag :report_hierarchy_id, "Category:"
+      - case params[:type]
+        - when 'activity'
+          = category_select_chain("report[hierarchy_id]", :menu_version_id => resource.menu_version_id, :category_id => resource.hierarchy_id)
+        - when 'assessment'
+          = assessment_view_select_chain("report[hierarchy_id]", :menu_version_id => resource.menu_version_id, :category_id => resource.hierarchy_id, :type => resource.preferred_assessment_type)
+        - when 'tasksheet'
+          - if resource.menu.has_natef_selection?
+            = select_tag "report[hierarchy_id]", "<option value=''>All</option>" + options_from_collection_for_select(current_client.natef_certified_areas.all(:order => "description"), :id, :description, resource.hierarchy_id)
+        - when 'diagnostics'
+          = diagnostics_select_chain("report[hierarchy_id]", "report[preferred_scenario]", :system_id => resource.hierarchy_id, :scenario => resource.preferred_scenario)
+
+    %table{ :width => :auto }
+      %tbody
+        %tr
+          %td{ :width => '25%' }
+            - unless params[:owner_ids].present?
+              = label_tag :report_class_group_id, "Class / Group:"
+              = select_tag "report[class_group_id]", "<option value=''>All</option>" + options_from_collection_for_select(current_client.class_groups, :id, :name, resource.class_group_id)
+            
+          %td{ :width => '25%' }
+            = label_tag :report_date_range_start, "Start Date:"
+            = text_field_tag "report[date_range_start]", resource.date_range_start.to_s(:us), :class => "centre daterangepicker", :size => 11, :maxlength => 10
+
+          %td{ :width => '25%' }
+            - if params[:type].eql?('tasksheet')
+              = label_tag :report_preferred_minimum_grade, "Grade:"
+              = select_tag "report[preferred_minimum_grade]", options_for_select([[">= 0 - No Exposure", 0], [">= 1 - Exposure Only", 1], [">= 2 - Limited Practice", 2], [">= 3 - Moderately Skilled", 3], [">= 4 - Skilled", 4]], resource.preferred_minimum_grade.to_i)
+
+            - elsif ['assessment', 'diagnostics'].include?(params[:type])
+              = label_tag :report_preferred_aggregation_method, "Grade Type:"
+              = select_tag "report[preferred_aggregation_method]", options_for_select( [['Highest', 'maximum'], ['Average', 'average'], ['Lowest', 'minimum']], resource.preferred_aggregation_method )
+
+          %td
+            - unless params[:owner_ids].present?
+              = label_tag :report_role, "User Role:"
+              = select_tag "report[role]", options_for_select([['All Users', nil], ['Only Students', 'student'], ['Only Instructors', 'instructor'], ['Supervisor', 'supervisor']], resource.role)
+            
+
+        %tr
+          %td
+            - if resource.prefers_menu_version_selection?
+              = label_tag :report_menu_version_id, "CDX Online Menu:"
+              - if params[:type].eql?('assessment') and params[:assessment_type].eql?('find_the_missing_word_quizzes')
+                = select_tag "report[menu_version_id]", options_from_collection_for_select(current_client.assigned_menu_versions.map{|mv| mv unless mv.version.eql?(41)}.compact, :id, :to_s, resource.menu_version_id), :onchange => "$('#chained_selector_0_placeholder').text(''); $('#chained_selector_0').val('')"
+              - else
+                = select_tag "report[menu_version_id]", options_from_collection_for_select(current_client.assigned_menu_versions, :id, :to_s, resource.menu_version_id), :onchange => "$('#chained_selector_0_placeholder').text(''); $('#chained_selector_0').val('')"
+              - content_for(:onload) do
+                :plain
+                  $('#report_menu_version_id').change(function() { $('#report-filter-button').click() });
+
+          %td
+            = label_tag :report_date_range_end, "End Date:"
+            = text_field_tag "report[date_range_end]", resource.date_range_end.to_s(:us), :class => "centre daterangepicker", :size => 11, :maxlength => 10
+
+          %td.middle.check_box_button
+            - if params[:owner_ids].blank?
+              - unless current_user.role.student?
+                = hidden_field_tag "report[include_all_users]", 0, :id => :hidden_report_include_all_users
+                = check_box_tag "report[include_all_users]", 1, resource.include_all_users?
+                = label_tag :report_include_all_users, "All users"
+                %br
+              = hidden_field_tag "report[include_all_columns]", 0, :id => :hidden_report_include_all_columns
+              = check_box_tag "report[include_all_columns]", 1, resource.include_all_columns?
+              = label_tag :report_include_all_columns, "All columns"
+
+          %td
+            %button#report-filter-button.ui-button{:type => "submit", :style => "padding: 0.25em"} Filter Results
+
+- content_for(:head) do
+  = javascript_include_tag 'daterangepicker'
+  = stylesheet_link_tag 'daterangepicker'
+
+- content_for(:onload) do
+  :plain
+    $('.daterangepicker').daterangepicker({rangeSplitter:'to'});
+    $('#report_menu_version_id').change(function() {
+      $('#report_filter').submit();
+    });

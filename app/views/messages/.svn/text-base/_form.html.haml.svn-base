@@ -1,0 +1,34 @@
+%table
+  %tbody
+    - if current_user.role.student?
+      %tr
+        %th.right{ :width => "10%" }= label_tag :recipient_ids, "Recipients:"
+        %td= select_tag "message[recipient_ids][]", options_from_collection_for_select(current_client.not_students, :id, :fullname), { :id => :student_message_recipient_ids }
+    - else
+      %tr
+        %th.right{ :width => "10%" }= label_tag :recipient_ids, "To:"
+        %td= f.select :recipient_ids, resource.recipients.users.all(:include => :receiver).map(&:receiver).map {|r| "<option value='#{r.id}' class='selected'>#{r.fullname}</option>" }.join
+
+      - unless current_user.role.student?
+        %tr
+          %th.right{ :width => "10%" }= label_tag :class_group_ids, "Recipient Groups:"
+          %td
+            - recipient_class_group_ids = resource.recipients.class_groups.map(&:receiver_id)
+            - (current_user.role.supervisor? ? current_client : current_user).class_groups.each do |class_group|
+              .check_box_button
+                = check_box_tag "class_group_ids[]", class_group.id, recipient_class_group_ids.include?(class_group.id), :id => "class_group_ids_#{class_group.id}"
+                = label_tag "class_group_ids_#{class_group.id}", class_group.name
+    
+    %tr
+      %th.right= f.label :subject, "Subject:"
+      %td= f.text_field :subject, :class => "token-input-input-token-facebook"
+
+    %tr{ :style => "vertical-align: top"}
+      %th.right= f.label :body, "Body:"
+      %td= f.text_area :body, :style => "width: 100%"
+
+    %tr
+      %th &nbsp;
+      %td
+        = save_button_tag "Save as Draft"
+        = send_button_tag "Send Message"

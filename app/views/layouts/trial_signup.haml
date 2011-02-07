@@ -1,0 +1,13 @@
+!!! XML
+!!! Strict
+%html{html_attrs('en-AU')}
+  %head
+    %title CDX Online - Pearson Trial Request Form
+
+    = stylesheet_link_tag 'yui/reset-fonts-grids', 'yui/base', 'trial_signup.css'
+    = javascript_include_tag :defaults
+
+  %body
+    #doc3
+      #hd= image_tag('trial_signup/pearson_header.gif')
+      #bd= yield

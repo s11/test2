@@ -1,0 +1,133 @@
+//name:TQ0746
+::TQ0746::Drive, in a light vehicle, is transmitted from the engine to a manual transmission by a:{
+	=friction clutch.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+	~multi-plate wet clutch.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+	~torque converter.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+	~drive shaft with joints.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+}
+
+
+//name:TQ0747
+::TQ0747::Increasing the diameter of a single-plate clutch increases the maximum:{
+	=torque the clutch can transmit.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+	~centrifugal force the clutch can withstand.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+	~power the clutch can transmit.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+	~engine speed before clutch slip.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+}
+
+
+//name:TQ0748
+::TQ0748::The purpose of the clutch is to:{
+	=transmit torque from the engine to the transmission.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+	~transmit power from the transmission input shaft to the engine.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+	~transmit power from the engine to the transmission.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+	~transmit torque from the transmission input shaft to the engine.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+}
+
+
+//name:TQ0749
+::TQ0749::The driving force path is:{
+	=flywheel, friction disc, central hub, transmission input.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+	~friction disc, flywheel, transmission input, central hub.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+	~flywheel, friction disc, transmission input, central hub.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+	~friction disc, flywheel, central hub, transmission input.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+}
+
+
+//name:TQ0750
+::TQ0750::Adding plates to form a multi-plate clutch will:{
+	=increase its torque capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+	~increase its power capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+	~decrease its speed capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+	~decrease its torque capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+}
+
+
+//name:TQ0751
+::TQ0751::In a multi-plate clutch assembly the clutch plates are separated by a:{
+	=cast-iron separator plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+	~cast-aluminum spacer plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+	~cast-aluminum separator plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+	~cast-iron spacer plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+}
+
+
+//name:TQ0752
+::TQ0752::A clutch safety switch is fitted to some vehicles to prevent:{
+	=the vehicle being started in gear with the clutch engaged.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+	~erratic clutch disengagement.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+	~erratic clutch engagement.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+	~the driver from selecting the wrong gear.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+}
+
+
+//name:TQ0753
+::TQ0753::The clutch pedal operates the master cylinder in an hydraulic system. This in turn operates the:{
+	=slave cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+	~clutch cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+	~wheel cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+	~pushrod cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+}
+
+
+//name:TQ0754
+::TQ0754::The purpose of an adjuster in the clutch operating mechanism (when one is provided) is to ensure:{
+	=a clearance can be set in the operating mechanism.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+	~the release bearing engages the release levers at all times.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+	~the release fork contacts the release bearing at all times.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+	~pedal height can be varied to suit the driver.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+}
+
+
+//name:TQ0755
+::TQ0755::The three common types of clutch operating systems are:{
+	=cable, linkage and hydraulic.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+	~cable, hydraulic and electric.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+	~cable, linkage and electric.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+	~electric, linkage and hydraulic.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+}
+
+
+//name:TQ0756
+::TQ0756::The center spline on the clutch disc is attached to the:{
+	=transmission input shaft.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+	~flywheel.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+	~pressure plate.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+	~throw out bearing.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+}
+
+
+//name:TQ0757
+::TQ0757::The driving member of a clutch assembly is the:{
+	=face of the flywheel.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+	~pressure plate cover.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+	~clutch disc.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+	~transmission input shaft.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+}
+
+
+//name:TQ0758
+::TQ0758::The transmission input shaft is disconnected from the engine when the:{
+	=clutch pressure plate is moved towards the flywheel.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+	~pressure plate is moved away from the flywheel.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+	~diaphragm segments are released.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+	~driver's foot is removed from the clutch pedal.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+}
+
+
+//name:TQ0759
+::TQ0759::When the clutch is disengaged the diaphragm spring is made to:{
+	=flatten.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+	~expand.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+	~contract.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+	~dish inwards.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+}
+
+
+//name:TQ0760
+::TQ0760::Technician A says that the splines on the forward end of the input shaft connect to the pressure plate. Technician B says that the splines on the forward end of the input shaft connect to the center plate when the clutch pedal is depressed. Who is correct?{
+	=Technician A.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+	~Technician B.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+	~Both Technician A & Technician B.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+	~Neither Technician A or Technician B.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+}

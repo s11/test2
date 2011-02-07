@@ -1,0 +1,70 @@
+//name:TQ1648
+::TQ1648::Removing the radiator cap of a hot engine may cause:{
+	=immediate boiling of the coolant.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. Typically a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. As a radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap, the removal of the radiator cap from the radiator of a hot engine may cause immediate boiling of the coolant.
+	~the bottom hose to collapse.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. Typically a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. As a radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap, the removal of the radiator cap from the radiator of a hot engine may cause immediate boiling of the coolant.
+	~the engine to seize due to a sudden rise in temperature.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. Typically a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. As a radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap, the removal of the radiator cap from the radiator of a hot engine may cause immediate boiling of the coolant.
+	~damage to the radiator core.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. Typically a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. As a radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap, the removal of the radiator cap from the radiator of a hot engine may cause immediate boiling of the coolant.
+}
+
+
+//name:TQ1649
+::TQ1649::Which of the following statements is correct?{
+	=Never drain and refill the cooling system of a hot engine. Wait for it to cool first.#Beware when draining cooling systems as coolant temperature can exceeed 100 degrees Centigrade. Ensure that waste coolant is disposed of in accordance with local authority regulations.
+	~The cooling system should be at operating temperature prior to draining.#Beware when draining cooling systems as coolant temperature can exceeed 100 degrees Centigrade. Ensure that waste coolant is disposed of in accordance with local authority regulations.
+	~Always ensure that the cooling system is hot prior to draining the system.#Beware when draining cooling systems as coolant temperature can exceeed 100 degrees Centigrade. Ensure that waste coolant is disposed of in accordance with local authority regulations.
+	~Run the engine for 30 minutes before draining the cooling system.#Beware when draining cooling systems as coolant temperature can exceeed 100 degrees Centigrade. Ensure that waste coolant is disposed of in accordance with local authority regulations.
+}
+
+
+//name:TQ1650
+::TQ1650::What should you ensure prior to assessing the condition of coolant hoses? {
+	=The engine is cool and turned off.#Damaged coolant hoses can be very unpredictable and can burst when disturbed. Be careful to ensure that there is no hot coolant under pressure contained in the coolant hose being examined.
+	~The engine is hot and turned off.#Damaged coolant hoses can be very unpredictable and can burst when disturbed. Be careful to ensure that there is no hot coolant under pressure contained in the coolant hose being examined.
+	~The engine is cold and running.#Damaged coolant hoses can be very unpredictable and can burst when disturbed. Be careful to ensure that there is no hot coolant under pressure contained in the coolant hose being examined.
+	~The engine is running with AC switched on.#Damaged coolant hoses can be very unpredictable and can burst when disturbed. Be careful to ensure that there is no hot coolant under pressure contained in the coolant hose being examined.
+}
+
+
+//name:TQ1651
+::TQ1651::The cooling system pressure tester cannot be used to test for:{
+	=AC system leaks.#Always adhere to the pressure tester manufacturer's instructions and never exceed the vehicle manufacturer's recommended system pressure.
+	~cooling system internal leaks.#Always adhere to the pressure tester manufacturer's instructions and never exceed the vehicle manufacturer's recommended system pressure.
+	~cooling system external leaks.#Always adhere to the pressure tester manufacturer's instructions and never exceed the vehicle manufacturer's recommended system pressure.
+	~cooling system pressure cap.#Always adhere to the pressure tester manufacturer's instructions and never exceed the vehicle manufacturer's recommended system pressure.
+}
+
+
+//name:TQ1652
+::TQ1652::How should the radiator fins be cleaned if they are blocked?{
+	=Using a dry brush.#Pay attention to the condition of the radiator upon removal. It is not uncommon for the core to be corroded and beyond repair or cleaning.
+	~Using a screwdriver.#Pay attention to the condition of the radiator upon removal. It is not uncommon for the core to be corroded and beyond repair or cleaning.
+	~Using a pressure washer.#Pay attention to the condition of the radiator upon removal. It is not uncommon for the core to be corroded and beyond repair or cleaning.
+	~Using long nose pliers.#Pay attention to the condition of the radiator upon removal. It is not uncommon for the core to be corroded and beyond repair or cleaning.
+}
+
+
+//name:TQ1653
+::TQ1653::Which of the following is not applicable when installing a new thermostat?{
+	=Ensure the thermostat housing bolts are replaced.#Pay attention to manufacturer-specific instructions when replacing a thermostat, particularly tightening torques and bleeding procedure.
+	~Ensure the identification number on the new thermostat is the same as the one being replaced.#Pay attention to manufacturer-specific instructions when replacing a thermostat, particularly tightening torques and bleeding procedure.
+	~Ensure the air bleed hole is in the correct position.#Pay attention to manufacturer-specific instructions when replacing a thermostat, particularly tightening torques and bleeding procedure.
+	~Ensure the thermostat is correctly seated in its groove.#Pay attention to manufacturer-specific instructions when replacing a thermostat, particularly tightening torques and bleeding procedure.
+}
+
+
+//name:TQ1654
+::TQ1654::Two commonly used types of engine drive belt are:{
+	=V and Serpentine type.#Engine drive belts are commonly used to drive the many auxiliaries fitted to the modern vehicle such as PAS, A/C, Air pump, Alternator etc.
+	~V and Terpentine type.#Engine drive belts are commonly used to drive the many auxiliaries fitted to the modern vehicle such as PAS, A/C, Air pump, Alternator etc.
+	~W and Serpentine type.#Engine drive belts are commonly used to drive the many auxiliaries fitted to the modern vehicle such as PAS, A/C, Air pump, Alternator etc.
+	~V and W type.#Engine drive belts are commonly used to drive the many auxiliaries fitted to the modern vehicle such as PAS, A/C, Air pump, Alternator etc.
+}
+
+
+//name:TQ1655
+::TQ1655::What should be done when the drive belt(s) are removed?{
+	=Inspect drive and driven pulleys.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings.
+	~Start the engine.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings.
+}
+
+

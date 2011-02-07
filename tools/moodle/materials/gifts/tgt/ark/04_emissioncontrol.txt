@@ -1,0 +1,118 @@
+//name:TQ0421
+::TQ0421::What does the term activated charcoal mean?{
+	=The term 'activated' charcoal means that the charcoal material is porous and has a large surface area and can store large quantities of fuel vapor.#Activated charcoal is charcoal that has been treated with oxygen to open up millions of tiny pores between the carbon atoms.  Therefore, these particles are able to remove and store vapors (HC) found within the evaporative emission system. Additionally, the activated charcoal easily releases the vapors when fresh air is passed through the carbon canister on its way to the intake manifold.
+	~The term 'activated' charcoal means that the charcoal material is non-porous and has a large surface area and can store large quantities of fuel vapor.#Activated charcoal is charcoal that has been treated with oxygen to open up millions of tiny pores between the carbon atoms.  Therefore, these particles are able to remove and store vapors (HC) found within the evaporative emission system. Additionally, the activated charcoal easily releases the vapors when fresh air is passed through the carbon canister on its way to the intake manifold.
+	~The term 'activated' charcoal means that the charcoal material is porous and has a large surface area and can store small quantities of fuel vapor.#Activated charcoal is charcoal that has been treated with oxygen to open up millions of tiny pores between the carbon atoms.  Therefore, these particles are able to remove and store vapors (HC) found within the evaporative emission system. Additionally, the activated charcoal easily releases the vapors when fresh air is passed through the carbon canister on its way to the intake manifold.
+}
+
+
+//name:TQ0422
+::TQ0422::A closed loop system is theoretical and cannot be used in vehicle systems.{
+	=FALSE#Closed loop is a common term to describe how a system may self regulate or self monitor its function through a feedback source.
+	~TRUE#Closed loop is a common term to describe how a system may self regulate or self monitor its function through a feedback source.
+}
+
+
+//name:TQ0423
+::TQ0423::An air pump which directs air to the exhaust manifold is used to:{
+	=promote combustion of Hydrocarbons (HC) and Carbon Monoxide (CO) in the manifold.#In a complete combustion reaction, a compound reacts with an oxidizing element and the products are compounds of each element in the fuel with the oxidizing element. 
+	~improve operation of the EGR system. #In a complete combustion reaction, a compound reacts with an oxidizing element and the products are compounds of each element in the fuel with the oxidizing element. 
+	~smooth out exhaust pulses to give quieter operation.#In a complete combustion reaction, a compound reacts with an oxidizing element and the products are compounds of each element in the fuel with the oxidizing element. 
+	~mix exhaust gas emissions with extra air.#In a complete combustion reaction, a compound reacts with an oxidizing element and the products are compounds of each element in the fuel with the oxidizing element. 
+}
+
+
+//name:TQ0424
+::TQ0424::Feedback from the ECU sensor indicates a lean mixture. What is the ECU likely to do to the pulse width of the injector if all other factors stay constant? {
+	=Increase pulse width.#Increasing the pulse width increases the amount of fuel injected.
+	~Not change pulse width.#Increasing the pulse width increases the amount of fuel injected.
+	~Decrease pulse width.#Increasing the pulse width increases the amount of fuel injected.
+}
+
+
+//name:TQ0425
+::TQ0425::The pulse air method for reducing hydrocarbon emissions is only suitable for larger engines of 6 cylinders or more.{
+	=FALSE#Pulse air systems rely on large volumes of exhaust gas and a resulting negative pressure pulse with the exhaust stream to scavenge fresh air through the pulse valve.
+	~TRUE#Pulse air systems rely on large volumes of exhaust gas and a resulting negative pressure pulse with the exhaust stream to scavenge fresh air through the pulse valve.
+}
+
+
+//name:TQ0426
+::TQ0426::Blow-by gases in the crankcase are removed by the:{
+	=PCV system.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+	~EGR system.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+	~catalytic converter.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+	~evaporation control system.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+}
+
+
+//name:TQ0427
+::TQ0427::The direction of vapor flow through a PCV valve is:{
+	=internal from the engine crankcase back into the engine via the inlet manifold.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+	~from the inlet manifold back into the top cover of the engine.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+	~from the back of the carburetor to the air cleaner.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+	~from the top cover of the engine back into the exhaust manifold.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+}
+
+
+//name:TQ0428
+::TQ0428::An EGR valve may be used to control:{
+	=oxides of nitrogen.#EGR valves have been around for a long time. They were used in an attempt to reduce emissions of oxides of nitrogen (NOx) which are a major cause of air pollution known mainly as photochemical smog. There are many different types of EGR valves. Some work on vacuum only and some work on a combination of vacuum and pressure. Some have electronic controls while others even have mechanical controls.
+	~unburned hydrocarbons.#EGR valves have been around for a long time. They were used in an attempt to reduce emissions of oxides of nitrogen (NOx) which are a major cause of air pollution known mainly as photochemical smog. There are many different types of EGR valves. Some work on vacuum only and some work on a combination of vacuum and pressure. Some have electronic controls while others even have mechanical controls.
+	~carbon dioxide.#EGR valves have been around for a long time. They were used in an attempt to reduce emissions of oxides of nitrogen (NOx) which are a major cause of air pollution known mainly as photochemical smog. There are many different types of EGR valves. Some work on vacuum only and some work on a combination of vacuum and pressure. Some have electronic controls while others even have mechanical controls.
+	~carbon monoxide.#EGR valves have been around for a long time. They were used in an attempt to reduce emissions of oxides of nitrogen (NOx) which are a major cause of air pollution known mainly as photochemical smog. There are many different types of EGR valves. Some work on vacuum only and some work on a combination of vacuum and pressure. Some have electronic controls while others even have mechanical controls.
+}
+
+
+//name:TQ0429
+::TQ0429::Exhaust gas recirculation valves bleed exhaust gas into the inlet air/fuel mixture:{
+	=to limit combustion temperatures.#During periods of high engine efficiency (steady state cruise) the combustion temperatures promote NOx development.  Bleeding some inert gas (exhaust gases) into the intake stream will limit the combustion temperature and as a result, the NOx emission.
+	~to reduce exhaust back-pressure.#During periods of high engine efficiency (steady state cruise) the combustion temperatures promote NOx development.  Bleeding some inert gas (exhaust gases) into the intake stream will limit the combustion temperature and as a result, the NOx emission.
+	~to burn unused fuel.#During periods of high engine efficiency (steady state cruise) the combustion temperatures promote NOx development.  Bleeding some inert gas (exhaust gases) into the intake stream will limit the combustion temperature and as a result, the NOx emission.
+	~at all engine speeds.#During periods of high engine efficiency (steady state cruise) the combustion temperatures promote NOx development.  Bleeding some inert gas (exhaust gases) into the intake stream will limit the combustion temperature and as a result, the NOx emission.
+}
+
+
+//name:TQ0430
+::TQ0430::The EGR Valve is normally closed at normal engine operating temperature.{
+	=FALSE#EGR gas insertion into the engine is necessary during periods of high NOx emission output.  This generally occurs during lean cruise engine conditions while at operating temperature.
+	~TRUE#EGR gas insertion into the engine is necessary during periods of high NOx emission output.  This generally occurs during lean cruise engine conditions while at operating temperature.
+}
+
+
+//name:TQ0431
+::TQ0431::The primary purpose of an EGR Valve is to:{
+	=limit combustion temperatures.#EGR injects inert gas displacing oxygen in the intake stream which results in a lower overall combustion temperature thus reducing NOx emission.
+	~reduce exhaust back-pressure.#EGR injects inert gas displacing oxygen in the intake stream which results in a lower overall combustion temperature thus reducing NOx emission.
+	~burn unused fuel.#EGR injects inert gas displacing oxygen in the intake stream which results in a lower overall combustion temperature thus reducing NOx emission.
+	~Monitor all engine speeds.#EGR injects inert gas displacing oxygen in the intake stream which results in a lower overall combustion temperature thus reducing NOx emission.
+}
+
+
+//name:TQ0432
+::TQ0432::When a fuel tank is completely filled fuel expansion is allowed for by:{
+	=an expansion space above the maximum fuel level.#The expansion space above the fuel tank allows for fuel expansion.
+	~vent lines to the atmosphere.#The expansion space above the fuel tank allows for fuel expansion.
+	~a fuel dump valve.#The expansion space above the fuel tank allows for fuel expansion.
+	~an overflow pipe fitted to the filler spout.#The expansion space above the fuel tank allows for fuel expansion.
+}
+
+
+//name:TQ0433
+::TQ0433::The 3 way catalytic converter is so called due to:{
+	=its ability to reduce the 3 common harmful emissions from the petrol engine.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+	~the fact that it is constructed from 3 components.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+	~the fact that it is seperated into 3 parts within the exhaust pipe.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+	~its ability to make the vehicle 3 times more efficient.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+}
+
+
+//name:TQ0434
+::TQ0434::Air contaminants can be divided into gasses and:{
+	=particulates.#Particulate matter (PM) are particles of solid or liquid suspended in the air around us.
+	~primaries.#Particulate matter (PM) are particles of solid or liquid suspended in the air around us.
+	~pollutants.#Particulate matter (PM) are particles of solid or liquid suspended in the air around us.
+	~protocols.#Particulate matter (PM) are particles of solid or liquid suspended in the air around us.
+}
+
+

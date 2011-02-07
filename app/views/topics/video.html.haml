@@ -1,0 +1,15 @@
+#topic
+  = render :partial => "navigation"
+  = render :partial => "video_size_selector"
+
+  - if current_client.prefers_flash_video?
+    = swf_tag "cdxplayback", :width => "760", :height => "520", :parameters => { :allowFullScreen => "true", :allowScriptAccess => "always" }, :flashvars => "size_lan=http://websrvr83il.audiovideoweb.com/il83web25000/FLVlan/#{resource.flash_video_name}_lan.flv&size_cable=http://websrvr83il.audiovideoweb.com/il83web25000/FLVcable/#{resource.flash_video_name}_cable.flv&size_dialup=http://websrvr83il.audiovideoweb.com/il83web25000/FLVdialup/#{resource.flash_video_name}_dialup.flv&captiontext=none"
+
+  - else
+    - case current_user.video_size.to_i
+    - when 1
+      %iframe{ :frameborder => 0, :align => :left, :width => "100%", :height => "600px", :src => "#{controller.relative_url_root}/assets/largev/#{resource.video_name}_lan.html"}
+    - when 2
+      %iframe{ :frameborder => 0, :align => :left, :width => "100%", :height => "500px", :src => "#{controller.relative_url_root}/assets/mediumv/#{resource.video_name}_cable.html"}
+    - when 3
+      %iframe{ :frameborder => 0, :align => :left, :width => "100%", :height => "400px", :src => "#{controller.relative_url_root}/assets/smallv/#{resource.video_name}_dialup.html"}

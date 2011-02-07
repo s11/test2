@@ -1,0 +1,83 @@
+// question: 24459  name: HAQ0918 
+::HAQ0918::[html]One function of a lubrication system is to reduce friction. Friction occurs between all surfaces in ..............................{
+	=%100%contact#
+}
+
+
+// question: 24460  name: HAQ0919 
+::HAQ0919::[html]It helps .............................. an engine. It collects heat from the engine, then returns to the sump, where it cools.{
+	=%100%cool#
+}
+
+
+// question: 24461  name: HAQ0920 
+::HAQ0920::[html]Oil is also a .............................. agent. It collects particles of metal and carbon and carries them back to the sump.{
+	=%100%cleaning#
+}
+
+
+// question: 24462  name: HAQ0921 
+::HAQ0921::[html]Low-viscosity liquid is .............................. and flows easily.{
+	=%100%thin#
+}
+
+
+// question: 24463  name: HAQ0922 
+::HAQ0922::[html]High-viscosity liquid is .............................. and flows slowly.{
+	=%100%thick#
+}
+
+
+// question: 24464  name: HAQ0923 
+::HAQ0923::[html]Modern oils however are blends of oils which combine these properties. The oils are blended with .............................., called viscosity index improvers.{
+	=%100%additives#
+}
+
+
+// question: 24465  name: HAQ0924 
+::HAQ0924::[html]Special chemicals called .............................. are added to the base oil by the oil companies.{
+	=%100%additives#
+}
+
+
+// question: 24466  name: HAQ0925 
+::HAQ0925::[html]Oxidation-inhibitors stop very hot oil combining with oxygen in air to produce a sticky material like tar, which clogs ..............................{
+	=%100%galleries#
+}
+
+
+// question: 24467  name: HAQ0926 
+::HAQ0926::[html]Detergents reduce carbon deposits on parts like piston rings and ..............................{
+	=%100%valves#
+}
+
+
+// question: 24468  name: HAQ0927 
+::HAQ0927::[html]Crude oil is constructed from a wide variety of long chain hydrocarbon molecules which allow oxygen to attack gaps in the molecular structure when the oil gets ..............................{
+	=%100%hot#
+}
+
+
+// question: 24469  name: HAQ0928 
+::HAQ0928::[html]Hydrotreating is a process of adding .............................. to the base oil at elevated temperatures in the presence of catalyst.{
+	=%100%hydrogen#
+	=%100%H#
+}
+
+
+// question: 24470  name: HAQ0929 
+::HAQ0929::[html]Lubricants are designed so their .............................. is low enough for good cold weather starting, yet high enough to provide adequate film thickness and lubricity at high engine temperatures.{
+	=%100%viscosity#
+}
+
+
+// question: 24471  name: HAQ0930 
+::HAQ0930::[html]Synthetic base oil can also be made by .............................. molecules from Ethylene gas, that accompanies crude as it comes from the ground, and reconstructing them to produce high quality base oil.{
+	=%100%removing#
+}
+
+
+// question: 24472  name: HAQ0931 
+::HAQ0931::[html]Better base oil stability means better .............................. stability and longer life with longer drain intervals.{
+	=%100%additive#
+}

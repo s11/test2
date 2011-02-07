@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 64
+content svn://curfew.jbpub.com/online/content/trunk/diagnostics
+
+END

@@ -1,0 +1,206 @@
+// question: 31865  name: HAQ2615 
+::HAQ2615::[html]When the capacitor is charged, one surface is positively charged, the other is .................{
+	=%100%negative#
+}
+
+
+// question: 31866  name: HAQ2616 
+::HAQ2616::[html]A typical capacitor stores the charge on thin sheets of foil, with sheets of ................. between them.{
+	=%100%insulation#
+}
+
+
+// question: 31867  name: HAQ2617 
+::HAQ2617::[html]Another figure of merit for capacitors is stability with respect to time and temperature, sometimes called .................{
+	=%100%drift#
+}
+
+
+// question: 31868  name: HAQ2618 
+::HAQ2618::[html]Every substance, even air, will conduct an electrical current if enough voltage is applied to it, but the word 'conductor' normally is used for materials that allow current flow with little .................{
+	=%100%resistance#
+}
+
+
+// question: 31869  name: HAQ2619 
+::HAQ2619::[html]The most common conductor is .................{
+	=%100%copper#
+}
+
+
+// question: 31870  name: HAQ2620 
+::HAQ2620::[html]Materials that don't conduct current easily are .................{
+	=%100%insulators#
+}
+
+
+// question: 31871  name: HAQ2621 
+::HAQ2621::[html]Under normal conditions, all materials offer some resistance to flowing charges, which generates .................{
+	=%100%heat#
+}
+
+
+// question: 31872  name: HAQ2622 
+::HAQ2622::[html]An Insulator is a material or object which resists the flow of heat (thermal insulators) or ................. charge (electrical insulators).{
+	=%100%electric#
+}
+
+
+// question: 31885  name: HAQ2623 
+::HAQ2623::[html]Fuses and circuit-breakers are designed to break the circuit if ................. flow is excessive.{
+	=%100%current#
+}
+
+
+// question: 31886  name: HAQ2624 
+::HAQ2624::[html]The most common kinds are fuses, fusible links, and circuit breakers. They are all rated in ............ Their ratings are usually marked on them.{
+	=%100%amperes#
+}
+
+
+// question: 31887  name: HAQ2625 
+::HAQ2625::[html]In electronics and electrical engineering a fuse, short for '.................', is a type of overcurrent protection device.{
+	=%100%fusible link#
+}
+
+
+// question: 31888  name: HAQ2626 
+::HAQ2626::[html]Circuit breakers are often implemented with a ................. (electromagnet) whose strength increases as the current increases and eventually trips the circuit breaker.{
+	=%100%solenoid#
+}
+
+
+// question: 31889  name: HAQ2627 
+::HAQ2627::[html]A relay is an electrical switch that opens and closes under control of another electrical circuit. In the original form, the switch is operated by an ................. to open or close one or many sets of contacts.{
+	=%100%electromagnet#
+}
+
+
+// question: 31890  name: HAQ2628 
+::HAQ2628::[html]Normally-open contacts connect the circuit when the relay is activated; the circuit is ................. when the relay is inactive.{
+	=%100%disconnected#
+}
+
+
+// question: 31891  name: HAQ2629 
+::HAQ2629::[html]Normally-closed contacts disconnect the circuit when the relay is activated; the circuit is ................. when the relay is inactive.{
+	=%100%connected#
+}
+
+
+// question: 31892  name: HAQ2630 
+::HAQ2630::[html]When a current flows through the coil, the resulting magnetic field attracts an armature that is mechanically linked to a moving contact. The movement either makes or breaks a connection with a fixed contact. When the current is switched off, the armature is usually returned by a ................. to its resting position.{
+	=%100%spring#
+}
+
+
+// question: 31893  name: HAQ2631 
+::HAQ2631::[html]By analogy with the functions of the original electromagnetic device, a solid-state relay operates a thyristor or other solid-state switching device with a ................. or light-emitting diode to trigger it.{
+	=%100%transformer#
+}
+
+
+// question: 31894  name: HAQ2632 
+::HAQ2632::[html]Modern vehicles use many different kinds and sizes of lamps. They all consist of 1 or more ................. which heat up until they glow.{
+	=%100%filaments#
+}
+
+
+// question: 31895  name: HAQ2633 
+::HAQ2633::[html]The power in watts being consumed by the lamp is found by multiplying the voltage to the lamp, by the ................. flowing through it.{
+	=%100%current#
+}
+
+
+// question: 31896  name: HAQ2634 
+::HAQ2634::[html]The incandescent light bulb (archaically known as the electric lamp) uses a glowing wire filament heated to white-hot by electrical ................., to generate light (a process known as thermal radiation or incandescence).{
+	=%100%resistance#
+}
+
+
+// question: 31897  name: HAQ2635 
+::HAQ2635::[html]A ballast resistor primarily refers to an engine component that lowers the voltage after starting the engine, since the voltage required by the engine drops significantly after starting. It is an electrical resistor that affects the ................. supplied to the ignition coil.{
+	=%100%voltage#
+}
+
+
+// question: 31898  name: HAQ2636 
+::HAQ2636::[html]The ballast resistor makes the engine much easier to start by also doubling the voltage provided to the ignition coil when the ................. is being cranked.{
+	=%100%engine#
+}
+
+
+// question: 31873  name: HAQ3787 
+::HAQ3787::[html]Electric wires are used to conduct electric ................. around the motor vehicle.{
+	=%100%current#
+}
+
+
+// question: 31874  name: HAQ3788 
+::HAQ3788::[html]The electric wire is commonly ................. multi-stranded copper core wrapped with plastic insulation.{
+	=%100%braided#
+}
+
+
+// question: 31875  name: HAQ3789 
+::HAQ3789::[html]................. cable is found inside computers and other electronic components. It is used for connecting between printed circuits.{
+	=%100%ribbon#
+}
+
+
+// question: 31876  name: HAQ3790 
+::HAQ3790::[html]In certain locations within a vehicle and in environments where strong ................. interference is present, wiring harnesses are subject to a situation where unwanted electromagnetic induction occurs.{
+	=%100%electromagnetic#
+}
+
+
+// question: 31877  name: HAQ3791 
+::HAQ3791::[html]Twisted pair uses two wires delivering signals to a common component. The wires are uniformly twisted through the entire length of the harness. The twist has the effect of cancelling any ................. that occurs in the wires.{
+	=%100%noise#
+}
+
+
+// question: 31878  name: HAQ3792 
+::HAQ3792::[html]A Drain line is a ................. wire that is wrapped within a wiring harness.{
+	=%100%non-insulated#
+}
+
+
+// question: 31879  name: HAQ3793 
+::HAQ3793::[html]There are two scales used to measure the sizes of wires: ................. and AWG (American Wire Gauge).{
+	=%100%metric#
+}
+
+
+// question: 31880  name: HAQ3794 
+::HAQ3794::[html]The AWG system uses a rating number; the ................. the rating number, the smaller the wire and the lower its current carrying capability.{
+	=%100%larger#
+}
+
+
+// question: 31881  name: HAQ3795 
+::HAQ3795::[html]There are ................. different methods of describing a conductor within metric and AWG standards.{
+	=%100%two#
+	=%100%2#
+}
+
+
+// question: 31882  name: HAQ3796 
+::HAQ3796::[html]Copper is used to conduct electric current because of its ................. resistance value.{
+	=%100%low#
+}
+
+
+// question: 31883  name: HAQ3797 
+::HAQ3797::[html]Copper does offer some resistance, and as the ................. of the wire increases, so too does the resistance within the wire.{
+	=%100%length#
+}
+
+
+// question: 31884  name: HAQ3798 
+::HAQ3798::[html]To overcome the effect of resistance, the greater the length of the wire, the ................. the cross-sectional area needs to be.{
+	=%100%larger#
+}
+
+
+

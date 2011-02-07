@@ -1,0 +1,5 @@
+#message-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  = render :partial => "users/tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    = render :partial => 'new'

@@ -1,0 +1,124 @@
+//name:TQ1131
+::TQ1131::The motor effect is at its strongest when the magnetic field and the conductor are at:{
+	=90 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+	~180 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+	~270 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+	~360 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+}
+
+
+//name:TQ1132
+::TQ1132::Series-wound starter motors produce maximum torque:{
+	=at stall.#They also draw maximum current at stall.
+	~at high speed.#They also draw maximum current at stall.
+	~just when the engine starts.#They also draw maximum current at stall.
+	~at all speeds.#They also draw maximum current at stall.
+}
+
+
+//name:TQ1133
+::TQ1133::Starter motors with electromagnetic field windings for light vehicles are classified as:{
+	=series-wound motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+	~parallel motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+	~shunt motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+	~non-polarized motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+}
+
+
+//name:TQ1134
+::TQ1134::The field coils of a starter motor are wound around the:{
+	=pole shoes.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+	~frame.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+	~carcass.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+	~armature.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+}
+
+
+//name:TQ1135
+::TQ1135::The main characteristic of a series-wound starter motor is:{
+	=high torque at low speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~low current at low speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~high torque at high speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~high current flow at high speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+}
+
+
+//name:TQ1136
+::TQ1136::When the starter motor starts under load:{
+	=it draws high current and produces high torque.#The starter motor draws maximum current and produces maximum torque at stall.
+	~it draws low current and produces high torque.#The starter motor draws maximum current and produces maximum torque at stall.
+	~it draws high current and produces low torque.#The starter motor draws maximum current and produces maximum torque at stall.
+	~it draws low current and produces low torque.#The starter motor draws maximum current and produces maximum torque at stall.
+}
+
+
+//name:TQ1137
+::TQ1137::The starter armature is rubbing on the field coils. Technician A says the bushings need to be replaced. Technician B says the brush springs are weak. Who is correct?{
+	=Technician A.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+	~Technician B.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+	~Both Technician A & Technician B.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+	~Neither Technician A or Technician B.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+}
+
+
+//name:TQ1138
+::TQ1138::During cranking the starter motor pinion gear meshes with the:{
+	=ring gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+	~cluster gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+	~idler gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+	~timing gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+}
+
+
+//name:TQ1139
+::TQ1139::The starter motor pinion engages the:{
+	=ring gear.#If the pinion fails to engage then the engine will not turn over.
+	~torque converter.#If the pinion fails to engage then the engine will not turn over.
+	~pressure plate assembly.#If the pinion fails to engage then the engine will not turn over.
+	~clutch plate assembly.#If the pinion fails to engage then the engine will not turn over.
+}
+
+
+//name:TQ1140
+::TQ1140::When operated, the starter motor solenoid moves the pinion to engage with a:{
+	=ring gear.#If the pinion fails to engage then the engine will not turnover.
+	~torque converter.#If the pinion fails to engage then the engine will not turnover.
+	~pressure plate assembly.#If the pinion fails to engage then the engine will not turnover.
+	~clutch plate assembly.#If the pinion fails to engage then the engine will not turnover.
+}
+
+
+//name:TQ1141
+::TQ1141::The starter motor converts:{
+	=electrical energy into mechanical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~electrical energy into chemical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~mechanical energy into chemical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~mechanical energy into electrical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+}
+
+
+//name:TQ1142
+::TQ1142::It is desirable for a starter motor to produce:{
+	=high turning effort at low speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~low turning effort at low speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~low turning effort at high speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~high turning effort at high speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+}
+
+
+//name:TQ1143
+::TQ1143::In the starter motor switching mechanism, there are two windings with different resistance values. Which of the two has a low resistance value?{
+	=The pull-in winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+	~The hold-in winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+	~The armature winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+	~The field winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+}
+
+
+//name:TQ1144
+::TQ1144::When activated the starter solenoid:{
+	=engages the pinion and switches current to the motor.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+	~engages the pinion.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+	~switches current to the motor.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+	~none of these actions.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+}

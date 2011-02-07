@@ -1,0 +1,103 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/views
+svn://curfew.jbpub.com/online
+
+
+
+2010-02-09T13:37:39.179269Z
+3757
+paulm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+accounts
+dir
+
+access_packs
+dir
+
+profiles
+dir
+
+information
+dir
+
+categories
+dir
+
+dashboard
+dir
+
+print_support
+dir
+
+tasksheet_submissions
+dir
+
+application_mailer
+dir
+
+reports
+dir
+
+terms_and_conditions_acceptances
+dir
+
+layouts
+dir
+
+trial_signup
+dir
+
+topics
+dir
+
+users
+dir
+
+assessment_views
+dir
+
+class_groups
+dir
+
+user_sessions
+dir
+
+search
+dir
+
+messages
+dir
+
+diagnostics
+dir
+
+message_recipients
+dir
+
+api
+dir
+
+csv_files
+dir
+
+tasksheets
+dir
+

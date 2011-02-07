@@ -1,0 +1,166 @@
+//name:TQ1577
+::TQ1577::When re-fitting the threaded oil gallery plugs, it is recommended that:{
+	=the thread of the plug needs to be coated with a non-hardening liquid sealer.#Any threaded plugs like these rear oil gallery plugs should be coated with a sealer, preferably a liquid teflon or a similar non-hardening sealer. Don't use teflon tape; pieces can break off inside and cause an oil system clog.
+	~the thread of the plug be coated with a hardening liquid sealer.#Any threaded plugs like these rear oil gallery plugs should be coated with a sealer, preferably a liquid teflon or a similar non-hardening sealer. Don't use teflon tape; pieces can break off inside and cause an oil system clog.
+	~the thread of the plug be coated with a thread tape.#Any threaded plugs like these rear oil gallery plugs should be coated with a sealer, preferably a liquid teflon or a similar non-hardening sealer. Don't use teflon tape; pieces can break off inside and cause an oil system clog.
+	~the plug should be installed without any compound on the plug threaded area.#Any threaded plugs like these rear oil gallery plugs should be coated with a sealer, preferably a liquid teflon or a similar non-hardening sealer. Don't use teflon tape; pieces can break off inside and cause an oil system clog.
+}
+
+
+//name:TQ1578
+::TQ1578::Technicians are assembling an engine that has undergone extensive machining and parts replacement. Technician A says that when installing the camshaft, the lobes and bearing surfaces must be well lubricated as the camshaft in installed. Technician B says that when installing the camshaft the technicians should wear gloves to protect their hands from the sharp edges.{
+	~Technician A.#Both technicians are correct. Spread assembly lubricant all over the distributor drive gear and all of the lobes of a new camshaft making sure each lobe is fully coated, with oil on the next journal, and carefully pass it in.  Wear gloves to protect your hands.
+	~Technician B.#Both technicians are correct. Spread assembly lubricant all over the distributor drive gear and all of the lobes of a new camshaft making sure each lobe is fully coated, with oil on the next journal, and carefully pass it in.  Wear gloves to protect your hands.
+	=Both Technician A and Technician B.#Both technicians are correct. Spread assembly lubricant all over the distributor drive gear and all of the lobes of a new camshaft making sure each lobe is fully coated, with oil on the next journal, and carefully pass it in.  Wear gloves to protect your hands.
+	~Neither Technician A or Technician B.#Both technicians are correct. Spread assembly lubricant all over the distributor drive gear and all of the lobes of a new camshaft making sure each lobe is fully coated, with oil on the next journal, and carefully pass it in.  Wear gloves to protect your hands.
+}
+
+
+//name:TQ1579
+::TQ1579::After installing the crankshaft, align the main bearing caps and screw in the bolts. The bolts now need to be torqued. This is done:{
+	=in three steps - a third of the torque setting in each step.#Carry out the final torquing of the main caps in three increments. Whatever the torque specification, tighten the bolts first to one third that amount, then two thirds, then again to final specification.
+	~in two steps - half of the torque setting in each step.#Carry out the final torquing of the main caps in three increments. Whatever the torque specification, tighten the bolts first to one third that amount, then two thirds, then again to final specification.
+	~in one step - final torque setting.#Carry out the final torquing of the main caps in three increments. Whatever the torque specification, tighten the bolts first to one third that amount, then two thirds, then again to final specification.
+	~by torquing with a dry thread.#Carry out the final torquing of the main caps in three increments. Whatever the torque specification, tighten the bolts first to one third that amount, then two thirds, then again to final specification.
+}
+
+
+//name:TQ1580
+::TQ1580::When installing the timing gear bolts, they are secured with locking tabs to ensure that:{
+	=the timing marks have been identified and clearly marked and aligned.#Some cam kits come with a cam bolt plate that must be put on just before the cam bolts. When you have one or two bolts in, double check that your alignment is correct. If you can't see the timing marks very well, paint them to make them more visible.
+	~the timing marks have been identified and clearly marked.#Some cam kits come with a cam bolt plate that must be put on just before the cam bolts. When you have one or two bolts in, double check that your alignment is correct. If you can't see the timing marks very well, paint them to make them more visible.
+	~the timing chain or timing belt is correctly located on the gears.#Some cam kits come with a cam bolt plate that must be put on just before the cam bolts. When you have one or two bolts in, double check that your alignment is correct. If you can't see the timing marks very well, paint them to make them more visible.
+	~the gears are free to slide on their shafts.#Some cam kits come with a cam bolt plate that must be put on just before the cam bolts. When you have one or two bolts in, double check that your alignment is correct. If you can't see the timing marks very well, paint them to make them more visible.
+}
+
+
+//name:TQ1581
+::TQ1581::When installing the piston rings on the piston, we start with the oil rings. What precaution must be observed when fitting these rings?{
+	=Ensure the scrapper rings are sitting in their grooves on the expander ring and that the expander ring gap is not overlapped.#Double check that the expander ring gap is not overlapped. If it is, use two paper clips or picks to pull them apart until they click into alignment with the rails. It's important to rotate the rings now and make sure that nothing is stuck or crooked.
+	~Ensure the scrapper rings are sitting in their grooves on the expander ring. #Double check that the expander ring gap is not overlapped. If it is, use two paper clips or picks to pull them apart until they click into alignment with the rails. It's important to rotate the rings now and make sure that nothing is stuck or crooked.
+	~Ensure the scrapper rings ends are aligned. #Double check that the expander ring gap is not overlapped. If it is, use two paper clips or picks to pull them apart until they click into alignment with the rails. It's important to rotate the rings now and make sure that nothing is stuck or crooked.
+	~Ensure the scrapper rings are sitting on their grooves on the expander ring. #Double check that the expander ring gap is not overlapped. If it is, use two paper clips or picks to pull them apart until they click into alignment with the rails. It's important to rotate the rings now and make sure that nothing is stuck or crooked.
+}
+
+
+//name:TQ1582
+::TQ1582::When installing the pistons into the cylinders,what precaution should be observed with the piston rings?{
+	=The piston ring end gaps need to staggered.#All the ring gaps should be oriented the same way. The top compression ring gap should be here. The 2nd ring gap is located opposite the top ring at this position. In the oil ring groove, the point where the wavy expander ring butts together should line up with the gap in the top ring. Then hold the expander ring with a thumb and finger tip and slide the oil scraper rings so that one is in this position and the other is in this position. Each should be about 45 degrees to the left or right of the 2nd ring gap.
+	~The piston ring end gaps must have the absolute minimum gap.#All the ring gaps should be oriented the same way. The top compression ring gap should be here. The 2nd ring gap is located opposite the top ring at this position. In the oil ring groove, the point where the wavy expander ring butts together should line up with the gap in the top ring. Then hold the expander ring with a thumb and finger tip and slide the oil scraper rings so that one is in this position and the other is in this position. Each should be about 45 degrees to the left or right of the 2nd ring gap.
+	~The piston ring end gaps need to aligned.#All the ring gaps should be oriented the same way. The top compression ring gap should be here. The 2nd ring gap is located opposite the top ring at this position. In the oil ring groove, the point where the wavy expander ring butts together should line up with the gap in the top ring. Then hold the expander ring with a thumb and finger tip and slide the oil scraper rings so that one is in this position and the other is in this position. Each should be about 45 degrees to the left or right of the 2nd ring gap.
+	~The pistion ring end gaps must be set at 0.001' per 1 inch of bore diameter.#All the ring gaps should be oriented the same way. The top compression ring gap should be here. The 2nd ring gap is located opposite the top ring at this position. In the oil ring groove, the point where the wavy expander ring butts together should line up with the gap in the top ring. Then hold the expander ring with a thumb and finger tip and slide the oil scraper rings so that one is in this position and the other is in this position. Each should be about 45 degrees to the left or right of the 2nd ring gap.
+}
+
+
+//name:TQ1583
+::TQ1583::When fitting the new timing cover oil seal into the timing cover, it is recommended that:{
+	=the outer side of the seal be coated with a non-hardening liquid sealer.#The timing cover seal keeps oil from leaking past the harmonic balancer. Some seals have a coating painted on them already, some are bare metal. Put a thin bead of non-hardening sealant around the outer edge of the seal.
+	~the outer side of the seal be coated with a hardening type liquid sealer.#The timing cover seal keeps oil from leaking past the harmonic balancer. Some seals have a coating painted on them already, some are bare metal. Put a thin bead of non-hardening sealant around the outer edge of the seal.
+	~the outer side of the seal not be coated with any type of sealer.#The timing cover seal keeps oil from leaking past the harmonic balancer. Some seals have a coating painted on them already, some are bare metal. Put a thin bead of non-hardening sealant around the outer edge of the seal.
+	~no additional sealer be used as the outer side of the seal comes with a pre-sealing compound applied.#The timing cover seal keeps oil from leaking past the harmonic balancer. Some seals have a coating painted on them already, some are bare metal. Put a thin bead of non-hardening sealant around the outer edge of the seal.
+}
+
+
+//name:TQ1584
+::TQ1584::When installing a one-piece crankshaft rear main seal if the technician is utilizing an engine stand adaptor, they may need to:{
+	=remove the engine from the stand to fit the seal assembly.#If you can't get the seal adaptor past the engine stand adaptor, remove the block from the stand and lower it to the ground.
+	~wait and fit the seal just before the engine is re-installed into vehicle.#If you can't get the seal adaptor past the engine stand adaptor, remove the block from the stand and lower it to the ground.
+	~discard the one-piece seal and source a two-piece seal.#If you can't get the seal adaptor past the engine stand adaptor, remove the block from the stand and lower it to the ground.
+	~wait until the rest of the engine has been re-assembled.#If you can't get the seal adaptor past the engine stand adaptor, remove the block from the stand and lower it to the ground.
+}
+
+
+//name:TQ1585
+::TQ1585::When installing the engine oil pan, it is a good practice to:{
+	=let the pan sit for a minute after you torque the final setting. Then go back through all the bolts again.#When the bolts are all seated hand tight, switch to a torque wrench. These bolts will also have a low torque rating, so make sure your wrench is accurate at low settings. Work around the pan from the center bolts in a spiral outward to the front and rear bolts. With almost all oil pan gaskets, it's a good idea to let the pan sit for a minute after you torque the final setting.
+	~let the pan sit for a minute after you torque the final setting to let the gasket cement set.#When the bolts are all seated hand tight, switch to a torque wrench. These bolts will also have a low torque rating, so make sure your wrench is accurate at low settings. Work around the pan from the center bolts in a spiral outward to the front and rear bolts. With almost all oil pan gaskets, it's a good idea to let the pan sit for a minute after you torque the final setting.
+	~smear the pan gasket with a hardening-type sealant.#When the bolts are all seated hand tight, switch to a torque wrench. These bolts will also have a low torque rating, so make sure your wrench is accurate at low settings. Work around the pan from the center bolts in a spiral outward to the front and rear bolts. With almost all oil pan gaskets, it's a good idea to let the pan sit for a minute after you torque the final setting.
+	~tighten the pan securing bolts down a tight as possible using a diagonal tightening pattern.#When the bolts are all seated hand tight, switch to a torque wrench. These bolts will also have a low torque rating, so make sure your wrench is accurate at low settings. Work around the pan from the center bolts in a spiral outward to the front and rear bolts. With almost all oil pan gaskets, it's a good idea to let the pan sit for a minute after you torque the final setting.
+}
+
+
+//name:TQ1586
+::TQ1586::When re-assembling an engine head: Technician A says that it does not matter if the valve springs and components are not re-assembled in their original location. Technician B says that you need to keep the components in order and when re-assembling put the springs and components back in their original location.{
+	~Technician A.#Technician B is correct. Be sure to keep the valves and the springs and retainers in the right order, and double check to make sure that the valves are going into the correct head.
+	=Technician B.#Technician B is correct. Be sure to keep the valves and the springs and retainers in the right order, and double check to make sure that the valves are going into the correct head.
+	~Both Technician A and Technician B.#Technician B is correct. Be sure to keep the valves and the springs and retainers in the right order, and double check to make sure that the valves are going into the correct head.
+	~Neither Technician A or Technician B.#Technician B is correct. Be sure to keep the valves and the springs and retainers in the right order, and double check to make sure that the valves are going into the correct head.
+}
+
+
+//name:TQ1587
+::TQ1587::After locating the heads on the location dowels, the head studs are screwed in then:{
+	=the studs that screw into the coolant passages are coated with a non-hardening sealant and the head studs are torqued in a very specific sequence.#Any of the head bolts go into holes that extend into the water jacket, it is essential to put some non-hardening sealer on to the threads of the bolts to keep the coolant from leaking past the threads. Cylinder heads require that you torque the bolts in a certain sequence. Start from somewhere in the center and tighten in a spiral pattern towards the outer bolts. 
+
+	~the studs that screw into the coolant passages are coated with a hardening sealant and the head studs are torqued in a very specific sequence.#Any of the head bolts go into holes that extend into the water jacket, it is essential to put some non-hardening sealer on to the threads of the bolts to keep the coolant from leaking past the threads. Cylinder heads require that you torque the bolts in a certain sequence. Start from somewhere in the center and tighten in a spiral pattern towards the outer bolts. 
+
+	~the studs are installed dry and are torqued in a very specific sequence.#Any of the head bolts go into holes that extend into the water jacket, it is essential to put some non-hardening sealer on to the threads of the bolts to keep the coolant from leaking past the threads. Cylinder heads require that you torque the bolts in a certain sequence. Start from somewhere in the center and tighten in a spiral pattern towards the outer bolts. 
+
+	~the studs are installed dry and the technician will start at one end of the head and work towards the other end, tensioning the studs as they go.#Any of the head bolts go into holes that extend into the water jacket, it is essential to put some non-hardening sealer on to the threads of the bolts to keep the coolant from leaking past the threads. Cylinder heads require that you torque the bolts in a certain sequence. Start from somewhere in the center and tighten in a spiral pattern towards the outer bolts. 
+
+}
+
+
+//name:TQ1588
+::TQ1588::During an engine rebuild, it is a good practice to:{
+	=fit new lifters and prime them with engine oil before fitting.#In almost every rebuild the lifters are replaced and can go in any order in the block.
+	~fit new lifters.#In almost every rebuild the lifters are replaced and can go in any order in the block.
+	~re-use the old lifters.#In almost every rebuild the lifters are replaced and can go in any order in the block.
+	~not to disturb the old lifter mechanism, but just to re-use the old lifters in their original order.#In almost every rebuild the lifters are replaced and can go in any order in the block.
+}
+
+
+//name:TQ1589
+::TQ1589::What is the first step in adjusting valve lash?{
+	=Adjust to zero lash so that all the slack is taken out, then tighten the nuts down another half-turn.#With hydraulic lifters, you need to adjust to zero lash so that all the slack is taken out. Then, tighten the nuts down another half-turn.
+	~Adjust the lash so that there is a nominal clearance then tighten the nuts down by half-turn.#With hydraulic lifters, you need to adjust to zero lash so that all the slack is taken out. Then, tighten the nuts down another half-turn.
+	~Adjust the lash so that there is a nominal clearance, then re-adjust the clearance after the engine has been started and warmed up.#With hydraulic lifters, you need to adjust to zero lash so that all the slack is taken out. Then, tighten the nuts down another half-turn.
+	~Adjust the lash so that there is a nominal clearance to ensure the valves are not riding.#With hydraulic lifters, you need to adjust to zero lash so that all the slack is taken out. Then, tighten the nuts down another half-turn.
+}
+
+
+//name:TQ1590
+::TQ1590::After locating the intake manifold onto its locating dowels:{
+	=treat the threads of the studs with a non-hardening sealant; screw in and the torque the studs in a specific tightening sequence.#On most engines, the intake manifold bolts lead directly into the oil-soaked area under the valve covers. Treat the threads of these bolts with non-hardening sealer to avoid oil leaks. Torque the intake manifold studs in the same way as for the cylinder head.
+	~treat the threads of the studs with a hardening sealant; screw in and the torque the studs in a specific tightening sequence.#On most engines, the intake manifold bolts lead directly into the oil-soaked area under the valve covers. Treat the threads of these bolts with non-hardening sealer to avoid oil leaks. Torque the intake manifold studs in the same way as for the cylinder head.
+	~install the studs dry and torque them in a very specific sequence.#On most engines, the intake manifold bolts lead directly into the oil-soaked area under the valve covers. Treat the threads of these bolts with non-hardening sealer to avoid oil leaks. Torque the intake manifold studs in the same way as for the cylinder head.
+	~install the studs dry and starting on one side, work around the manifold.#On most engines, the intake manifold bolts lead directly into the oil-soaked area under the valve covers. Treat the threads of these bolts with non-hardening sealer to avoid oil leaks. Torque the intake manifold studs in the same way as for the cylinder head.
+}
+
+
+//name:TQ1591
+::TQ1591::After positioning the exhaust manifold, the exhaust manifold studs should be:{
+	=treated with an anti-seize lubricant; screw in and then torque the studs in a specific tightening sequence.#Prepare the threads of the exhaust manifold bolts with plenty of anti-seize lubricant. It is messy but it's absolutely necessary to keep these bolts from seizing up, given the constant amount of heat stress they have to endure.
+	~treated with a non-hardening sealant; screw in and then torque the studs in a specific tightening sequence.#Prepare the threads of the exhaust manifold bolts with plenty of anti-seize lubricant. It is messy but it's absolutely necessary to keep these bolts from seizing up, given the constant amount of heat stress they have to endure.
+	~installed dry and torqued in a very specific sequence.#Prepare the threads of the exhaust manifold bolts with plenty of anti-seize lubricant. It is messy but it's absolutely necessary to keep these bolts from seizing up, given the constant amount of heat stress they have to endure.
+	~installed with no specific treatment required.#Prepare the threads of the exhaust manifold bolts with plenty of anti-seize lubricant. It is messy but it's absolutely necessary to keep these bolts from seizing up, given the constant amount of heat stress they have to endure.
+}
+
+
+//name:TQ1592
+::TQ1592::When filling the engine with oil: Technician A says that it does not matter what type of oil is used initially as it will be changed after a run-in period. Technician B says that you need  a detergent based oil to flush an swarf from the engine.{
+	~Technician A.#Niether technician is correct. Fill up the block with the type and quantity of engine oil recommended in the repair manual. Don't use an oil with a detergent additive as it s is not ideal for breaking in bearings and seating the new piston rings. 
+	~Technician B.#Niether technician is correct. Fill up the block with the type and quantity of engine oil recommended in the repair manual. Don't use an oil with a detergent additive as it s is not ideal for breaking in bearings and seating the new piston rings. 
+	~Both Technician A and Technician B.#Niether technician is correct. Fill up the block with the type and quantity of engine oil recommended in the repair manual. Don't use an oil with a detergent additive as it s is not ideal for breaking in bearings and seating the new piston rings. 
+	=Neither Technician A or Technician B#Niether technician is correct. Fill up the block with the type and quantity of engine oil recommended in the repair manual. Don't use an oil with a detergent additive as it s is not ideal for breaking in bearings and seating the new piston rings. 
+}
+
+
+//name:TQ1593
+::TQ1593::When installing the distributor, it is essential that:{
+	=the slot in the distributor gear engages in the slot in the oil pump.#The slot in the distributor gear has to engage the slot in the oil pump drive shaft which is already fitted onto the oil pump. Often this won't happen on the first try which will mean the distributor may not seat all the way down flush with the block. This is because the oil pump drive rod may not be in the right position to perfectly line up with the bottom of the distributor gear.
+	~the slot in the distributor gear engages in the slot in the camshaft.#The slot in the distributor gear has to engage the slot in the oil pump drive shaft which is already fitted onto the oil pump. Often this won't happen on the first try which will mean the distributor may not seat all the way down flush with the block. This is because the oil pump drive rod may not be in the right position to perfectly line up with the bottom of the distributor gear.
+	~the distributor gear engages in the slot in the oil pump.#The slot in the distributor gear has to engage the slot in the oil pump drive shaft which is already fitted onto the oil pump. Often this won't happen on the first try which will mean the distributor may not seat all the way down flush with the block. This is because the oil pump drive rod may not be in the right position to perfectly line up with the bottom of the distributor gear.
+	~the distributor gear engages in the camshaft.#The slot in the distributor gear has to engage the slot in the oil pump drive shaft which is already fitted onto the oil pump. Often this won't happen on the first try which will mean the distributor may not seat all the way down flush with the block. This is because the oil pump drive rod may not be in the right position to perfectly line up with the bottom of the distributor gear.
+}
+
+
+//name:TQ1594
+::TQ1594::When refitting an engine, it has to be brought back to the same operational state it was in when it came out of the chassis. This will require:{
+	=re-connecting and/or replacing all of these.#Replace any sensors, plugs, or brackets. You might even go as far as reinstalling your fuel injection system or your carburetor.
+	~re-connecting and/or replacing all sensors.#Replace any sensors, plugs, or brackets. You might even go as far as reinstalling your fuel injection system or your carburetor.
+	~re-installing the drive belts.#Replace any sensors, plugs, or brackets. You might even go as far as reinstalling your fuel injection system or your carburetor.
+	~replacing/renewing the fuel injection system or carburetor.#Replace any sensors, plugs, or brackets. You might even go as far as reinstalling your fuel injection system or your carburetor.
+}
+
+

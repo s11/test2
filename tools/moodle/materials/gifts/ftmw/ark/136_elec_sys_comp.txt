@@ -1,0 +1,114 @@
+// question: 32260  name: HAQ2775 
+::HAQ2775::[html]A revolving magnetic pulse generator incorporates .................-current pulses to trigger the high voltage needed for ignition by means of an amplifier electronic circuit replaced the breaker point.{
+	=%100%alternating#
+}
+
+
+// question: 32262  name: HAQ2777 
+::HAQ2777::[html]Since the ignition coil switch off point has a reference value of 0V, the spark timing remains fixed with increasing engine speed, however the start point of the '................. period' occurs earlier due to the higher signal voltage.{
+	=%100%dwell#
+}
+
+
+// question: 32263  name: HAQ2778 
+::HAQ2778::[html]In induction type systems, the pulse generator has a stator mounted on the distributor body and a rotor unit, called a reluctor, attached to the distributor .................{
+	=%100%shaft#
+}
+
+
+// question: 32264  name: HAQ2779 
+::HAQ2779::[html]After the positive pulse is received, a dwell control section of the control circuit determines when the primary circuit will be switched on, and how long current will flow in the ................. winding.{
+	=%100%primary#
+}
+
+
+// question: 32265  name: HAQ2780 
+::HAQ2780::[html]The dwell period can thus be varied according to engine speed, improving coil efficiency. At low engine speeds, the dwell period is short. As engine speed rises the dwell period .................{
+	=%100%increases#
+}
+
+
+// question: 32266  name: HAQ2781 
+::HAQ2781::[html]Ignition coils employed with electronic systems are referred to as ................. inductance coils, because their primary winding resistance and number of turns is low.{
+	=%100%low#
+}
+
+
+// question: 32267  name: HAQ2782 
+::HAQ2782::[html]With the ignition switched on and the engine stationary, battery voltage is applied to terminal and to the ................. coil terminal.{
+	=%100%positive#
+}
+
+
+// question: 32268  name: HAQ2783 
+::HAQ2783::[html]With engine rotation, the reluctor teeth on the distributor shaft approach the stator teeth and a voltage of positive polarity is induced in the winding. This ................. signals the control circuit to turn the primary current on and a voltage is applied to the base/emitter of the switching transistor.{
+	=%100%voltage#
+}
+
+
+// question: 32269  name: HAQ2784 
+::HAQ2784::[html]After the control circuit turns the primary current on, current can flow through the ignition coil primary winding, and through the collector/emitter of the switching transistor to .................{
+	=%100%ground#
+}
+
+
+// question: 32270  name: HAQ2785 
+::HAQ2785::[html]In electronic ignition systems, the contact breaker is eliminated and switching and triggering of the primary circuit is carried out .................{
+	=%100%electronically#
+}
+
+
+// question: 32271  name: HAQ2786 
+::HAQ2786::[html]The stronger the magnetic field, the higher the .................{
+	=%100%voltage#
+}
+
+
+// question: 32272  name: HAQ2787 
+::HAQ2787::[html]An interrupter ring, which has the same number of blades and windows as engine ................., is rotated by the distributor shaft, moving the blades through the air gap.{
+	=%100%cylinders#
+}
+
+
+// question: 32273  name: HAQ2788 
+::HAQ2788::[html]When a blade is in position in the air gap, the Hall generator and the IC are shielded from the ................. field.{
+	=%100%magnetic#
+}
+
+
+// question: 32274  name: HAQ2789 
+::HAQ2789::[html]Current flows through the ignition coil primary winding and through the collector/emitter of T.2. to ground. This completes the ................. circuit and establishes the magnetic field in the ignition coil.{
+	=%100%primary#
+}
+
+
+// question: 32275  name: HAQ2790 
+::HAQ2790::[html]Since T.2. cannot function without the action of T.1., T.2. switches off. This breaks the primary circuit, generating a self-induced ................. in the primary winding, a mutually induced voltage in the secondary winding, and creating a spark at the spark plug.{
+	=%100%voltage#
+}
+
+
+// question: 32276  name: HAQ2791 
+::HAQ2791::[html]Optical sensors inside the distributor can be used to sense the crank angle position and an appropriate ................. signal is then sent to an engine management electronic control module.{
+	=%100%voltage#
+}
+
+
+// question: 32277  name: HAQ2792 
+::HAQ2792::[html]As the rotor plate turns, it passes between two sets of ................. positioned in line with the slits.{
+	=%100%diodes#
+}
+
+
+// question: 32278  name: HAQ2793 
+::HAQ2793::[html]After computing data from the various input ................. against the optimum settings for each operating condition recorded in its memory, the control unit determines ignition timing.{
+	=%100%sensors#
+}
+
+
+// question: 32279  name: HAQ2794 
+::HAQ2794::[html]The power transistor has it's emitter connected to ................. The collector is connected to the coil negative terminal and the base is connected to the control module.{
+	=%100%ground#
+}
+
+

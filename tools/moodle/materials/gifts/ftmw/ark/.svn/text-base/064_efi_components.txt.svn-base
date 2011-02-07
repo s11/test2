@@ -1,0 +1,309 @@
+// question: 27774  name: HAQ1241 
+::HAQ1241::[html]An an electronic fuel-injected engine, the fuel for the injectors must be ................. before the engine can be started, so an electric fuel pump is necessary.{
+	=%100%pressurised#
+	=%100%pressurized#
+}
+
+
+// question: 27775  name: HAQ1242 
+::HAQ1242::[html]Gasoline enters at one end and leaves at the other, so it is always full. This ................. the pump motor and keeps it cool.{
+	=%100%lubricates#
+}
+
+
+// question: 27776  name: HAQ1243 
+::HAQ1243::[html]The fuel pump can also be an ................. type, which is less noisy.{
+	=%100%impeller#
+}
+
+
+// question: 27777  name: HAQ1244 
+::HAQ1244::[html]If a fuel blockage occurs further along the fuel line, it can overload the pump motor, and make it overheat. So a high-pressure ................. valve inside the pump lets fuel keep circulating.{
+	=%100%relief#
+}
+
+
+// question: 27778  name: HAQ1245 
+::HAQ1245::[html]Small particles of dirt can block an injection nozzle and cause an ................. spray pattern.{
+	=%100%irregular#
+}
+
+
+// question: 27779  name: HAQ1246 
+::HAQ1246::[html]Any ................. in the fuel will corrode the inside of the injector -  especially if the engine stands unused for long periods.{
+	=%100%water#
+}
+
+
+// question: 27780  name: HAQ1247 
+::HAQ1247::[html]The first filtering occurs with a strainer or fine ................. in the fuel tank.{
+	=%100%gauze#
+}
+
+
+// question: 27781  name: HAQ1248 
+::HAQ1248::[html]The next time filtering occurs at the in-line filter, on the .................-pressure side of the pump.{
+	=%100%high#
+}
+
+
+// question: 27782  name: HAQ1250 
+::HAQ1250::[html]Safety demands that the fuel tank is positioned ................. the passenger compartment.{
+	=%100%outside#
+}
+
+
+// question: 27783  name: HAQ1251 
+::HAQ1251::[html]Most fuel tanks are made of tinned sheet steel that has been ................. into shape.{
+	=%100%pressed#
+}
+
+
+// question: 27784  name: HAQ1252 
+::HAQ1252::[html]Fuel expands and contracts as temperature rises and falls. So fuel tanks are ................. to let them breathe.{
+	=%100%vented#
+}
+
+
+// question: 27785  name: HAQ1253 
+::HAQ1253::[html]Some systems have a small container, called a liquid-vapor ................., above the fuel tank.{
+	=%100%separator#
+}
+
+
+// question: 27786  name: HAQ1254 
+::HAQ1254::[html]A return line may also be provided to allow excess fuel to return to the tank. This helps prevent the formation of ................. that can occur in the fuel supply during hot conditions.{
+	=%100%vapour#
+	=%100%vapor#
+}
+
+
+// question: 27787  name: HAQ1255 
+::HAQ1255::[html]The cap on the gasoline tank is important as it stops vapor escaping. This is important for gasoline which is very volatile and vaporises easily, especially in ................. climates.{
+	=%100%warmer#
+}
+
+
+// question: 27788  name: HAQ1256 
+::HAQ1256::[html]Some gasoline caps have a low ................. valve built-in.{
+	=%100%pressure#
+}
+
+
+// question: 27789  name: HAQ1257 
+::HAQ1257::[html]The fuel gauge shows how much fuel is still in the tank. It has a gauge unit on the dash, and a ................. unit in the tank.{
+	=%100%sender#
+}
+
+
+// question: 27790  name: HAQ1258 
+::HAQ1258::[html]The fuel rail is a large section pipe with an inlet connection from the fuel .................{
+	=%100%filter#
+}
+
+
+// question: 27791  name: HAQ1259 
+::HAQ1259::[html]Each injector on the engine is attached to the fuel rail for it's supply and are each subject to the same injection system line .................{
+	=%100%pressure#
+}
+
+
+// question: 27793  name: HAQ1261 
+::HAQ1261::[html]Fuel circulates continuously, but the fuel pressure regulator controls the quantity of fuel returning to the .................{
+	=%100%tank#
+}
+
+
+// question: 27794  name: HAQ1262 
+::HAQ1262::[html]The action of the pressure regulator in turn controls the pressure in the fuel .................{
+	=%100%rail#
+}
+
+
+// question: 27795  name: HAQ1263 
+::HAQ1263::[html]Fuel pressure has to stay at a constant value ................. manifold pressure.{
+	=%100%above#
+}
+
+
+// question: 27796  name: HAQ1264 
+::HAQ1264::[html]The quantity of fuel injected into the engine is set solely by the ................. of the electrical pulse from the control unit.{
+	=%100%duration#
+}
+
+
+// question: 27797  name: HAQ1265 
+::HAQ1265::[html]The injection valve, or nozzle valve, is held against the valve seat by a ................. compression spring.{
+	=%100%helical#
+}
+
+
+// question: 27798  name: HAQ1266 
+::HAQ1266::[html]Rubber moldings or 'O' rings seal the injector in the manifold and at the fuel rail. This helps prevent the transfer of heat to the injector, and the formation of fuel vapor bubbles under ................. soak conditions.{
+	=%100%heat#
+}
+
+
+// question: 27799  name: HAQ1267 
+::HAQ1267::[html]4 minute holes for fuel delivery direct jets of fuel toward each other, so that they collide and break up into a .................-shaped spray.{
+	=%100%cone#
+}
+
+
+// question: 27800  name: HAQ1268 
+::HAQ1268::[html]The tachometric relay is normally connected to the ................. terminal of the ignition coil.{
+	=%100%negative#
+}
+
+
+// question: 27801  name: HAQ1269 
+::HAQ1269::[html]At idle speed, the frequency of the pulse from the ignition coil is .................{
+	=%100%steady#
+}
+
+
+// question: 27802  name: HAQ1270 
+::HAQ1270::[html]As the engine speed rises, the frequency of the pulse from the ignition coil ................., as the tachometer indicates.{
+	=%100%increases#
+}
+
+
+// question: 27803  name: HAQ1271 
+::HAQ1271::[html]As a safety measure, the tachometric relay uses an input (from the negative side of the ignition coil) to ensure the relay operates only when engine speed is above a specified ................., say, 350 RPM.{
+	=%100%minimum#
+}
+
+
+// question: 27804  name: HAQ1272 
+::HAQ1272::[html]The thermotime switch controls the operation of the ................. start injector.{
+	=%100%cold#
+}
+
+
+// question: 27805  name: HAQ1273 
+::HAQ1273::[html]Heating and cooling of the bimetallic strip in the thermotime switch opens and closes a set of .................{
+	=%100%contacts#
+}
+
+
+// question: 27806  name: HAQ1274 
+::HAQ1274::[html]If coolant temperature exceeds the rated value of the switch, the bimetallic strip bends, and opens the contacts. That means that when the engine is ................. a certain temperature, the cold start injector won't operate, and this prevents  excessive wetting of the spark plugs, and a rich mixture on start-up.{
+	=%100%above#
+}
+
+
+// question: 27807  name: HAQ1275 
+::HAQ1275::[html]The heater coil is ................. during cranking, and if the engine fails to start within the specified time, the bimetallic strip bends under heating action and opens the circuit.{
+	=%100%energised#
+	=%100%energized#
+}
+
+
+// question: 27808  name: HAQ1276 
+::HAQ1276::[html]Wide band oxygen sensor systems are ideal for optimum emissions for car petrol engines diesel engines, particularly where the  incoming air is ................. and not restricted by a throttle butterfly lean running direct injection petrol engines.{
+	=%100%unthrottled#
+}
+
+
+// question: 27809  name: HAQ1277 
+::HAQ1277::[html]Engine misfire can be caused by a variety of faults, however the result is always the same. There is the potential for unacceptable levels of ................. to be produced.{
+	=%100%pollution#
+}
+
+
+// question: 27810  name: HAQ1278 
+::HAQ1278::[html]Switches are used to inform the ECU when the power ................. pump pressure is high.{
+	=%100%steering#
+}
+
+
+// question: 27812  name: HAQ1280 
+::HAQ1280::[html]A potentiometer is a ................. variable resistor which, in EFI applications, is normally a film-type.{
+	=%100%mechanically#
+}
+
+
+// question: 27813  name: HAQ1281 
+::HAQ1281::[html]The Potentiometer has 3 electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the .................{
+	=%100%resistor#
+}
+
+
+// question: 27814  name: HAQ1282 
+::HAQ1282::[html]In automotive applications, the circular form of potentiometer is commonly used as a throttle ................. sensor, with the center contact attached to the throttle plate.{
+	=%100%position#
+}
+
+
+// question: 27815  name: HAQ1283 
+::HAQ1283::[html]Auxiliary air valves are part of the ................. start system.{
+	=%100%cold#
+}
+
+
+// question: 27816  name: HAQ1284 
+::HAQ1284::[html]The auxiliary air device has a connecting hose from the intake air side of the throttle plate, to its controlling passageway. A return hose then connects from the passageway to the ................. chamber.{
+	=%100%plenum#
+}
+
+
+// question: 27817  name: HAQ1285 
+::HAQ1285::[html]The controlling passageway of an auxiliary air valve is covered or uncovered by a blocking plate or disc, which is acted on by a ................. strip.{
+	=%100%bimetallic#
+}
+
+
+// question: 27819  name: HAQ1287 
+::HAQ1287::[html]The ON and OFF time on an idle speed control device is called the duty cycle, and it's generally expressed as a .................{
+	=%100%percentage#
+}
+
+
+// question: 27820  name: HAQ1288 
+::HAQ1288::[html]A variation in pulse width, at the set frequency, is called pulse width .................{
+	=%100%modulation#
+}
+
+
+// question: 27821  name: HAQ1289 
+::HAQ1289::[html]The stepper motor type of idle control positions its tapered pintle, using a screw and nut assembly. The nut is part of a centrally located, permanent magnet .................{
+	=%100%armature#
+}
+
+
+// question: 27822  name: HAQ1290 
+::HAQ1290::[html]Solenoid valves can also be used to bypass a pre-determined amount of air around the throttle plate. These may come into operation for specific load .................{
+	=%100%compensation#
+}
+
+
+// question: 27823  name: HAQ1291 
+::HAQ1291::[html]Solenoid valves can also be used to bypass a pre-determined amount of air around the throttle plate. They open up a passageway of ................. dimension, and do not vary the opening.{
+	=%100%fixed#
+}
+
+
+// question: 27824  name: HAQ1292 
+::HAQ1292::[html]The purpose of an inertia sensor is to shut off the ................. pump(s) in case of an accident, preventing fuel from being continually pumped and spilled over the vehicle if there is a leak in the system.{
+	=%100%fuel#
+}
+
+
+// question: 27825  name: HAQ1293 
+::HAQ1293::[html]The fuel cut off switch, is designed to instantly stop fuel flow is very similar to a .................{
+	=%100%relay#
+}
+
+
+// question: 27826  name: HAQ1294 
+::HAQ1294::[html]The fuel cut off switch is different in that instead of a solenoid coil or thermal expansion device that a conventional relay uses to break the circuit, this switch uses a ................. device consisting of a steel ball in a funnel.{
+	=%100%mechanical#
+}
+
+
+// question: 27827  name: HAQ1295 
+::HAQ1295::[html]On a  fuel cut off switch, when the ball pushes against the bottom of the ................. arm, it moves it up, and the linkage in the switch 'opens' the electrical circuit and cuts off power to the pump(s).{
+	=%100%actuating#
+}
+
+

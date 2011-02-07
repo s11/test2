@@ -1,0 +1,15 @@
+%h2 Points Deductions
+
+%table.points{:border => 1}
+  %tr
+    %th Points
+    %th Result
+  %tr
+    %td.point{:width => '60px'} 0
+    %td Best choice (or one of several 'best choices')
+  %tr
+    %td.point 1
+    %td Not correct, but still a relevant choice
+  %tr
+    %td.point 1
+    %td Took a Hint

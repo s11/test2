@@ -1,0 +1,127 @@
+// question: 32915  name: HAQ3084 
+::HAQ3084::[html]Automobile airbags are supplemental ................., and operate best when the occupant is also using a seat belt.{
+	=%100%restraints#
+}
+
+
+// question: 32916  name: HAQ3085 
+::HAQ3085::[html]The crash sensors are located either in the ................. of the vehicle and/or in the passenger compartment.{
+	=%100%front#
+}
+
+
+// question: 32917  name: HAQ3086 
+::HAQ3086::[html]On American vehicles airbags are often marked SRS, which stands for ................. Restraint System, suggesting it should only be used in conjunction with a seatbelt and never alone.{
+	=%100%Supplemental#
+	=%100%supplemental#
+}
+
+
+// question: 32918  name: HAQ3087 
+::HAQ3087::[html]A seat belt, sometimes called a ................. is a harness designed to hold the occupant of an automobile or other vehicle in place if a collision occurs.{
+	=%100%safety belt#
+}
+
+
+// question: 32919  name: HAQ3088 
+::HAQ3088::[html]Shoulder belts, or ................. belts, include a lap belt and a second belt going from one anchor point on the lap belt to a point over and behind the occupant's shoulder.{
+	=%100%three-point#
+	=%100%three point#
+	=%100%3 point#
+}
+
+
+// question: 32920  name: HAQ3089 
+::HAQ3089::[html]Many seat belts are equipped with devices known as safety belt ................. (of either 'web' or 'pendulum' mechanism) that tighten the belt when pulled hard (in the event of a crash) but do not tighten when pulled slowly.{
+	=%100%pretensioners#
+	=%100%pre-tensioners#
+}
+
+
+// question: 32921  name: HAQ3090 
+::HAQ3090::[html]Vehicle safety systems are designed to protect occupants during accidents, and can be classified as primary, or passive systems and secondary, or ................. systems.{
+	=%100%active#
+}
+
+
+// question: 32922  name: HAQ3091 
+::HAQ3091::[html]A secondary system has to be activated to work and is only necessary in severe accidents. The two most popular types of secondary systems are supplemental restraint system air bags, and seatbelt .................{
+	=%100%pre-tensioners#
+	=%100%pretensioners#
+	=%100%pre-tensioners#
+}
+
+
+// question: 32923  name: HAQ3092 
+::HAQ3092::[html]Air bags provide cushioning against the effects of .................{
+	=%100%inertia#
+}
+
+
+// question: 32924  name: HAQ3093 
+::HAQ3093::[html]Crash sensors can be fitted in various positions throughout the vehicle. Their location depends upon the direction of ................. they are designed to detect.{
+	=%100%deceleration#
+}
+
+
+// question: 32925  name: HAQ3094 
+::HAQ3094::[html]If the collision is from the ................., the driver and passenger air bags will deploy.{
+	=%100%front#
+}
+
+
+// question: 32926  name: HAQ3095 
+::HAQ3095::[html]If the collision is from the ................., the sensor determines whether the seat mounted air bag, or curtain air bags for one side of the vehicle will deploy.{
+	=%100%side#
+}
+
+
+// question: 32927  name: HAQ3096 
+::HAQ3096::[html]Both mechanical and electronic control systems are available for seatbelt pre-tensioners. The most common type relies upon an explosive charge that is detonated electronically by a ................. within the seatbelt tensioning mechanism.{
+	=%100%sensor#
+}
+
+
+// question: 32928  name: HAQ3097 
+::HAQ3097::[html]Once the pre-tensioner has triggered, a ................. prevents the seatbelt from loosening.{
+	=%100%ratchet#
+}
+
+
+// question: 32929  name: HAQ3098 
+::HAQ3098::[html]................. stitching is used on seat belts in conjunction with an air bag and seat belt pre-tensioners.{
+	=%100%Rip#
+}
+
+
+// question: 32930  name: HAQ3099 
+::HAQ3099::[html]Automated Tire Pressure Monitoring Systems or ................. provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.{
+	=%100%TPMS#
+}
+
+
+// question: 32931  name: HAQ3100 
+::HAQ3100::[html]There are two types of tire pressure monitoring; direct and .................{
+	=%100%indirect#
+}
+
+
+// question: 32932  name: HAQ3101 
+::HAQ3101::[html]The indirect system uses the vehicles wheel ................. sensors to determine if a tire is underinflated when compared to each of the other tires.{
+	=%100%speed#
+}
+
+
+// question: 32933  name: HAQ3102 
+::HAQ3102::[html]The tire is used to enclose the unit as protection from the outside environment. An on-board computer receives the radio messages from the ................., which are coded for individual wheel identification.{
+	=%100%sensors#
+}
+
+
+// question: 32934  name: HAQ3103 
+::HAQ3103::[html]The TPMS sensors are activated by a ................. switch and transmit only when the vehicle is in motion.{
+	=%100%centrifugal#
+}
+
+
+

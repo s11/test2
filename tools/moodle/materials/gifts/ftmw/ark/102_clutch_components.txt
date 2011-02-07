@@ -1,0 +1,56 @@
+// question: 30071  name: HAQ2142 
+::HAQ2142::[html]In light vehicle applications the pressure plate is normally a ................. type and is serviced as an assembly.{
+	=%100%diaphragm#
+}
+
+
+// question: 30072  name: HAQ2143 
+::HAQ2143::[html]The pressure plate consists of a pressed steel cover, a pressure plate with a machined flat surface, a number of spring steel drive straps, and the diaphragm .................{
+	=%100%springs#
+}
+
+
+// question: 30073  name: HAQ2144 
+::HAQ2144::[html]................. hold the pressure plate in contact with the outer edge of the diaphragm. During clutch operation, they move the plate away from the flywheel.{
+	=%100%Retraction clips#
+	=%100%retraction clips#
+}
+
+
+// question: 30074  name: HAQ2145 
+::HAQ2145::[html]The driven center-plate is also called a clutch disc or ................. disc.{
+	=%100%friction#
+}
+
+
+// question: 30075  name: HAQ2146 
+::HAQ2146::[html]The central alloy-steel splined hub is separate. Drive is transmitted from the disc to the ................. through heavy torsional coil springs or rubber blocks.{
+	=%100%hub#
+}
+
+
+// question: 30076  name: HAQ2147 
+::HAQ2147::[html]Stops limit the ................. movement of the hub against the spring force. A molded friction washer between the hub and spring retaining plate also acts as a dampener.{
+	=%100%radial#
+}
+
+
+// question: 30077  name: HAQ2148 
+::HAQ2148::[html]The clutch release bearing can be a thrust-type angular contact ball bearing, supported on a carrier. It slides on a hub or ................. extending from the front of the transmission.{
+	=%100%sleeve#
+}
+
+
+// question: 30078  name: HAQ2149 
+::HAQ2149::[html]The bearing carrier locates on the clutch release fork. Moving the fork brings the bearing thrust face into contact with the ................. plate fingers.{
+	=%100%pressure#
+}
+
+
+// question: 30079  name: HAQ2150 
+::HAQ2150::[html]The bearing is packed with ................. during manufacture and requires no periodic maintenance during its service life.{
+	=%100%lubricant#
+}
+
+
+

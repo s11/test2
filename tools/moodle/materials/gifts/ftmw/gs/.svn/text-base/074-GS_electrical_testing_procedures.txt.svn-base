@@ -1,0 +1,64 @@
+// question: 30293  name: HAQ2604 
+::HAQ2604::[html]Using a non-powered test light - Connect the end of the light with the clip on it to the battery .............................. terminal.{
+	=%100%negative#
+}
+
+
+// question: 30294  name: HAQ2605 
+::HAQ2605::[html]Using a non-powered test light - Connect the clip to any known good .............................. close to the area to be tested.{
+	=%100%ground#
+}
+
+
+// question: 30295  name: HAQ2606 
+::HAQ2606::[html]Using a non-powered test light - Locate the device to be tested and place the probe so that the test light circuit is in .............................. to it.{
+	=%100%parallel#
+}
+
+
+// question: 30296  name: HAQ2607 
+::HAQ2607::[html]Using a lead light - Always .............................. the power supply before plugging or unplugging an electrical connection.{
+	=%100%disconnect#
+}
+
+
+// question: 30297  name: HAQ2608 
+::HAQ2608::[html]The fluorescent light normally receives power from a ..............................{
+	=%100%transformer#
+}
+
+
+// question: 30298  name: HAQ2609 
+::HAQ2609::[html]Using a DVOM to measure continuity - Prepare the DVOM for testing .............................. by inserting the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.{
+	=%100%voltage#
+}
+
+
+// question: 30299  name: HAQ2610 
+::HAQ2610::[html]Using a DVOM to measure continuity - Turn the rotary dial of the DVOM to the mode that includes the term 'Continuity'. Touch the probe ends together. The display should now give a zero reading, which indicates no ..............................{
+	=%100%resistance#
+}
+
+
+// question: 30300  name: HAQ2611 
+::HAQ2611::[html]If the fuse has been overloaded and 'blown', then it will no longer complete a circuit when a DVOM is used to test it. If the fuse is functioning correctly then the reading will be zero, indicating a complete, or closed, ..............................{
+	=%100%circuit#
+}
+
+
+// question: 30301  name: HAQ2612 
+::HAQ2612::[html]Using a DVOM to measure voltage - Prepare the DVOM for testing voltage by inserting the black probe lead into the '..............................' input port, and the red probe lead into the 'Volt/Ohms' input port.{
+	=%100%common#
+}
+
+
+// question: 30302  name: HAQ2613 
+::HAQ2613::[html]To check the meter function - turn the rotary dial until you have selected the mode for 'Volts DC'. The reading on the meter should now be at ..............................{
+	=%100%zero#
+}
+
+
+// question: 30303  name: HAQ2614 
+::HAQ2614::[html]Place the Black probe onto the .............................. terminal of the battery, which will be marked with a Minus sign, and place the Red probe onto the Positive terminal of the battery, which is marked with a Plus sign.{
+	=%100%negative#
+}

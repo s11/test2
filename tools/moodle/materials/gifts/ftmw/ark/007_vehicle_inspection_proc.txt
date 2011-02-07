@@ -1,0 +1,249 @@
+// question: 22709  name: HAQ0335 
+::HAQ0335::[html]Once a month or prior to any long trip, a vehicle should be checked for overall .................{
+	=%100%roadworthiness#
+}
+
+
+// question: 22710  name: HAQ0336 
+::HAQ0336::[html]When inspecting a vehicle, open and close ................. to check that they are operating correctly.{
+	=%100%doors#
+}
+
+
+// question: 22711  name: HAQ0337 
+::HAQ0337::[html]When inspecting a vehicle, push and pull on the bumpers or fenders and ensure they are .................{
+	=%100%secure#
+}
+
+
+// question: 22712  name: HAQ0338 
+::HAQ0338::[html]The steering area inspection includes tie-rods, tire and wheel assembly, suspension bushes, shock ................. and brake hoses.{
+	=%100%absorbers#
+}
+
+
+// question: 22713  name: HAQ0339 
+::HAQ0339::[html]If the transmission is ................. controlled, check any wiring for obvious damage.{
+	=%100%electronically#
+}
+
+
+// question: 22714  name: HAQ0340 
+::HAQ0340::[html]When checking the exhaust system, examine the ................. converter, muffler and resonator for any signs of corrosion or deterioration.{
+	=%100%catalytic#
+}
+
+
+// question: 22715  name: HAQ0341 
+::HAQ0341::[html]On any rear wheel drive vehicles, including pick-ups and SUV's, inspect the drive shaft ................. joints for signs of excess movement or rust.{
+	=%100%universal#
+}
+
+
+// question: 22716  name: HAQ0342 
+::HAQ0342::[html]Inspect the ................. shaft oil seal for any obvious signs of leakage.{
+	=%100%pinion#
+}
+
+
+// question: 22717  name: HAQ0343 
+::HAQ0343::[html]The ................. is the distance between the center of the front wheel and the center of the rear wheel and is normally the same on both sides of the vehicle.{
+	=%100%wheelbase#
+}
+
+
+// question: 22718  name: HAQ0344 
+::HAQ0344::[html]The ................. is the measurement between the center of the left wheel tread and the center of the right wheel tread.{
+	=%100%track#
+}
+
+
+// question: 22719  name: HAQ0345 
+::HAQ0345::[html]When measuring a wheel base, engage the ................. brake and place the transmission in neutral or park, then turn off the ignition.{
+	=%100%emergency#
+}
+
+
+// question: 22720  name: HAQ0346 
+::HAQ0346::[html]When comparing the distances between axles, align the two pointers to the centers of the front and rear axles. Tighten the pointers to the position of the ................. centers.{
+	=%100%axle#
+}
+
+
+// question: 22721  name: HAQ0347 
+::HAQ0347::[html]Locate the windshield wiper fluid container. This is normally found under the ................. and is usually a plastic bottle or bag.{
+	=%100%hood#
+}
+
+
+// question: 22722  name: HAQ0348 
+::HAQ0348::[html]Some vehicles have ................. sensors incorporated into the reservoir, and an indicator lamp on the inside of the vehicle will show the driver when the system needs to be filled.{
+	=%100%electrical#
+}
+
+
+// question: 22723  name: HAQ0349 
+::HAQ0349::[html]Choose an appropriate washer fluid. Some fluids are ................. and need to be mixed with water.{
+	=%100%concentrated#
+}
+
+
+// question: 22724  name: HAQ0350 
+::HAQ0350::[html]Never operate the wipers when they are ................. because this may damage the blades or scratch the surface of the windshield.{
+	=%100%dry#
+}
+
+
+// question: 22725  name: HAQ0351 
+::HAQ0351::[html]Never bend the arms to make better contact with the windshield. The arms are ................. by the manufacturer and damage could result.{
+	=%100%pre-tensioned#
+}
+
+
+// question: 22726  name: HAQ0352 
+::HAQ0352::[html]Feed the new inserts into the wiper arm, and make sure the ................. fit snugly and engage properly.{
+	=%100%clips#
+}
+
+
+// question: 22728  name: HAQ0354 
+::HAQ0354::[html]A transponder can suffer from electronic ................. and may work better in some locations than others.{
+	=%100%interference#
+}
+
+
+// question: 22729  name: HAQ0355 
+::HAQ0355::[html]If the transponder is not working properly you might need to replace its .................{
+	=%100%battery#
+	=%100%batteries#
+}
+
+
+// question: 22730  name: HAQ0356 
+::HAQ0356::[html]On vehicles with heavy doors, such as some older vehicles and convertibles, the door latch contains a locating ................. or pin.{
+	=%100%wedge#
+}
+
+
+// question: 22731  name: HAQ0357 
+::HAQ0357::[html]Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door is worn and has '.................'.{
+	=%100%dropped#
+}
+
+
+// question: 22732  name: HAQ0358 
+::HAQ0358::[html]Generally, lower hinges have a door check roller, cam and spring incorporated into the assembly. You should also lubricate the ................. part of the assembly.{
+	=%100%roller#
+}
+
+
+// question: 22733  name: HAQ0359 
+::HAQ0359::[html]Pull the seatbelt out slowly to check for ................. action.{
+	=%100%smooth#
+}
+
+
+// question: 22734  name: HAQ0360 
+::HAQ0360::[html]When checking a seatbelt,  there should not be any sticking, which might indicate a faulty .................{
+	=%100%retractor#
+}
+
+
+// question: 22735  name: HAQ0361 
+::HAQ0361::[html]The seat belt should ................. when pulled suddenly, which is vital during emergency braking or collisions.{
+	=%100%lock#
+}
+
+
+// question: 22736  name: HAQ0362 
+::HAQ0362::[html]Many cars have electric ................. winder mechanisms with activation switches on the trim panels.{
+	=%100%window#
+}
+
+
+// question: 22737  name: HAQ0363 
+::HAQ0363::[html]When checking interior trim, remove any external ................. on the panel, such as armrests or window winders, and place them in a safe clean place.{
+	=%100%fixtures#
+}
+
+
+// question: 22738  name: HAQ0364 
+::HAQ0364::[html]Many interior panels are held in place with clips in what look like keyholes. These clips are normally made out of ................. and they can easily be broken during removal.{
+	=%100%plastic#
+}
+
+
+// question: 22739  name: HAQ0365 
+::HAQ0365::[html]Poor seat condition can be the subject of a safety defect, making the vehicle .................{
+	=%100%unroadworthy#
+}
+
+
+// question: 22740  name: HAQ0366 
+::HAQ0366::[html]Inspect the seat for overall condition. The important thing to note is if the ................. or frame inside the seat are visible through the fabric.{
+	=%100%springs#
+}
+
+
+// question: 22741  name: HAQ0367 
+::HAQ0367::[html]When checking seat security, check the seats are mounted according to the manufacturer's recommendations, and that the mounting points are free from corrosion or .................{
+	=%100%rust#
+}
+
+
+// question: 22742  name: HAQ0368 
+::HAQ0368::[html]When storing chemicals, there may be a limit on the amount of materials that may be kept a container/cupboard of a particular size, or there may be ................. requirements.{
+	=%100%ventilation#
+}
+
+
+// question: 22743  name: HAQ0369 
+::HAQ0369::[html]Make sure that the area used for washing and detailing a vehicle meets all local ................. regulations, particularly in regard to preventing contaminants from flowing into storm water drainage systems.{
+	=%100%environmental#
+}
+
+
+// question: 22744  name: HAQ0370 
+::HAQ0370::[html]Cleaning chemicals and detergents are a potential environmental hazard. Ideally, waste run-off should be collected in underground grease traps and ................. before disposal.{
+	=%100%treated#
+}
+
+
+// question: 22745  name: HAQ0371 
+::HAQ0371::[html]Dashboards and instrument panel covers can be severely affected by ................. rays and extreme cold and it is common to use protective agents on them.{
+	=%100%ultra violet#
+	=%100%ultraviolet#
+	=%100%ultra-violet#
+}
+
+
+// question: 22746  name: HAQ0372 
+::HAQ0372::[html]Remove the floor mats and always clean them outside the vehicle. ................. the mats to remove loose dust and grit.{
+	=%100%vacuum#
+}
+
+
+// question: 22747  name: HAQ3450 
+::HAQ3450::[html]There are four manufacturer-recommended scheduled service types. They are: Pre-delivery Service, Distance-based Service, Time-based Service, ................. Service.{
+	=%100%first#
+}
+
+
+// question: 22748  name: HAQ3451 
+::HAQ3451::[html]At a service, lubricants can be changed, items such as spark plugs and filters replaced and adjustments and checks performed on components that wear out, such as ................. and tires.{
+	=%100%brake pads#
+}
+
+
+// question: 22749  name: HAQ3452 
+::HAQ3452::[html]Time based services are also performed on a ................. basis, to prepare the vehicle for the onset of summer or winter.{
+	=%100%seasonal#
+}
+
+
+// question: 22750  name: HAQ3453 
+::HAQ3453::[html]Out of ................. services are performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.{
+	=%100%phase#
+}
+
+

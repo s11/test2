@@ -1,0 +1,35 @@
+// question: 24219  name: HAQ0833 
+::HAQ0833::[html]Air-cooling is common on smaller internal combustion engines. That's useful on an engine where .............................. is important, and it works best on the engine that's exposed to a high airflow.{
+	=%100%weight#
+}
+
+
+// question: 24220  name: HAQ0834 
+::HAQ0834::[html]Cooling fan design makes the exposed surface area as large as possible, which allows more heat energy to radiate away, and be carried off in .............................. currents in the air.{
+	=%100%convection#
+}
+
+
+// question: 24221  name: HAQ0835 
+::HAQ0835::[html]One way to remove heat is to use a .............................., with shrouds and ducts to direct air to the cylinders.{
+	=%100%fan#
+}
+
+
+// question: 24222  name: HAQ0836 
+::HAQ0836::[html]As the engine heats up, a natural circulation starts, as coolant rises through the engine block by ...............................{
+	=%100%convection#
+}
+
+
+// question: 24223  name: HAQ0837 
+::HAQ0837::[html]In modern cars, the engines are more powerful, and radiators are low and wide, and a thermo-siphon process couldn't move the coolant quickly enough. Instead, a .............................. forces it through passages called waterjackets in the engine block.{
+	=%100%water-pump#
+	=%100%water pump#
+}
+
+
+// question: 24224  name: HAQ0838 
+::HAQ0838::[html]One function of the .............................. is to shorten the warming-up period.{
+	=%100%thermostat#
+}

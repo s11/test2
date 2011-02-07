@@ -1,0 +1,166 @@
+// question: 27042  name: HAQ2093 
+::HAQ2093::[html]Brake fluid has a ................. nature; it will absorb moisture rapidly.{
+	=%100%hygroscopic#
+}
+
+
+// question: 27043  name: HAQ2094 
+::HAQ2094::[html]As glycol-based brake fluid absorbs moisture its boiling point is lowered. This can cause the phenomenon known as 'brake .................'{
+	=%100%fade#
+}
+
+
+// question: 27044  name: HAQ2095 
+::HAQ2095::[html]Brake fluid is stored in the ................. cylinder. If you are unsure of its location, consult the vehicle's shop manual or the owner's manual.{
+	=%100%master#
+}
+
+
+// question: 27045  name: HAQ2096 
+::HAQ2096::[html]Check for any leaks around the master cylinder with a flashlight. ................. any brake fluid that may have been spilt with fresh clean water. Do not rub the fluid with a cloth.{
+	=%100%dilute#
+}
+
+
+// question: 27046  name: HAQ2097 
+::HAQ2097::[html]The more moisture in brake fluid, the higher the galvanic reading and the greater the ................. it causes.{
+	=%100%corrosion#
+}
+
+
+// question: 27047  name: HAQ2098 
+::HAQ2098::[html]Brake assemblies, either disc or drum, are often referred to as braking .................{
+	=%100%stations#
+}
+
+
+// question: 27049  name: HAQ2099 
+::HAQ2099::[html]Most vehicles have .................-wheel disc brakes.{
+	=%100%four#
+	=%100%4#
+}
+
+
+// question: 27050  name: HAQ2100 
+::HAQ2100::[html]After checking the brake pads, replace the road wheel but don't put lug nuts into the socket of the impact wrench and power the lug nuts on; this practice can lead to the wheel nuts going on .................{
+	=%100%cross-threaded#
+	=%100%crossthreaded#
+	=%100%cross threaded#
+}
+
+
+// question: 27051  name: HAQ2101 
+::HAQ2101::[html]If the linings have worn so much that they are running on the pads backing plates, have your supervisor inspect the  system, as the ................. may have to be reground.{
+	=%100%disc#
+}
+
+
+// question: 27052  name: HAQ2102 
+::HAQ2102::[html]During inspection, the flexible brake hose will need to be supported because it is still attached to the caliper. The easiest way to do this is by fastening a length of wire around the caliper and attaching it to a ................. component.{
+	=%100%suspension#
+}
+
+
+// question: 27053  name: HAQ2103 
+::HAQ2103::[html]Using a ................., remove enough fluid so that the reservoir level is well below the fill mark.{
+	=%100%siphon#
+}
+
+
+// question: 27054  name: HAQ2104 
+::HAQ2104::[html]It is good practice to lightly skim the rotors when new pads are to be installed, so arrange with your supervisor to have the rotor .................{
+	=%100%machined#
+}
+
+
+// question: 27055  name: HAQ2105 
+::HAQ2105::[html]Check/remove brake system air and refit wheels. Using the correct procedure ................. the brakes and refit the wheel assemblies.{
+	=%100%bleed#
+}
+
+
+// question: 27056  name: HAQ2106 
+::HAQ2106::[html]Do not allow the disc calliper to hang by the brake hose. Support it with a piece of .................{
+	=%100%wire#
+}
+
+
+// question: 27057  name: HAQ2107 
+::HAQ2107::[html]Before working on a vehicle's brakes, attach an appropriate ................. to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.{
+	=%100%label#
+}
+
+
+// question: 27058  name: HAQ2108 
+::HAQ2108::[html]Before installing the new rotor, clean it thoroughly in a component washer to remove any storage preservative agents. Clean any dirt, rust and debris from the hub ................. surface.{
+	=%100%mating#
+}
+
+
+// question: 27059  name: HAQ2109 
+::HAQ2109::[html]Inspect the ................. portion of the wheel cylinder. If the backing plate is covered with an oily substance you will need to determine if it is brake fluid or grease.{
+	=%100%external#
+}
+
+
+// question: 27060  name: HAQ2110 
+::HAQ2110::[html]Visually inspect the drum-braking surface for scoring. Any large score marks mean that the drum will have to be ................. or replaced.{
+	=%100%machined#
+}
+
+
+// question: 27061  name: HAQ2111 
+::HAQ2111::[html]Measure the inner diameter of the brake drum at several points around the .................{
+	=%100%circumference#
+}
+
+
+// question: 27062  name: HAQ2112 
+::HAQ2112::[html]Oil or grease contaminants on the lining can have an adverse effect on the co-efficient of ................. of the linings.{
+	=%100%friction#
+}
+
+
+// question: 27063  name: HAQ2113 
+::HAQ2113::[html]Before you raise the vehicle you will need to remove some of the brake fluid from the master cylinder. Using a ................., remove enough fluid to cause the reservoir level to be below the fill mark.{
+	=%100%siphon#
+}
+
+
+// question: 27064  name: HAQ2114 
+::HAQ2114::[html]Install a brake cylinder ................. onto the wheel cylinder. This will prevent the piston coming out when you release the brake shoes.{
+	=%100%clamp#
+}
+
+
+// question: 27065  name: HAQ2115 
+::HAQ2115::[html]As the return spring ................. takes effect, the wheel cylinder piston should move back into the cylinder.{
+	=%100%tension#
+}
+
+
+// question: 27066  name: HAQ2116 
+::HAQ2116::[html]The park brake can operate off the front or rear brakes. In some applications it operates off the back of the ................. output shaft.{
+	=%100%transmission#
+}
+
+
+// question: 27067  name: HAQ2117 
+::HAQ2117::[html]The park brake is also known as the ................. brake.{
+	=%100%emergency#
+}
+
+
+// question: 27068  name: HAQ2118 
+::HAQ2118::[html]Lower the car, and then test it by parking on an ................. to make sure the brake holds the vehicle properly.{
+	=%100%incline#
+}
+
+
+// question: 27048  name: HAQ3776 
+::HAQ3776::[html]Place one of the DVOM probes into the brake fluid, and the other against the body of the master cylinder. The voltage should be no greater than 0.3 volts. If the voltage is higher, this indicates a ................. reaction, and means that there is an unacceptable level of moisture in the brake fluid.{
+	=%100%galvanic#
+}
+
+
+

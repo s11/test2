@@ -1,0 +1,23 @@
+defaults: &defaults
+  time_zone: Brisbane
+
+  moodle:
+    instances_root_directory: /data/opt/deploy/cdx-online/moodle
+    database:
+      hostname: certain.jbpub.com
+      username: cdxenterprise
+      password: pR1s3CDX!
+
+  netsuite:
+    soap:
+      email:    mxenterprise@cdxglobal.com
+      password: webservices1
+      account:  879296
+
+  session:
+      timeout: <%= 1.hour %>
+
+  time_zone: Brisbane
+
+production: &production
+  <<: *defaults

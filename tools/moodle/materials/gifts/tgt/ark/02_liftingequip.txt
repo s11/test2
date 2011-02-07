@@ -1,0 +1,39 @@
+//name:TQ0188
+::TQ0188::The further the arms and legs of an engine hoist are extended the lower the lifting capacity of the hoist.{
+	=TRUE#The safe lifting capacity at various extensions is marked on the arm. It is important never to exceed the rated weight of the hoist.
+	~FALSE#The safe lifting capacity at various extensions is marked on the arm. It is important never to exceed the rated weight of the hoist.
+}
+
+
+//name:TQ0189
+::TQ0189::All jacks should be regarded as a lifting tool and NOT a supporting tool.{
+	=TRUE#A jack must NOT be used to support the weight of the vehicle during any task which requires the technician to get underneath any part of the vehicle.
+	~FALSE#A jack must NOT be used to support the weight of the vehicle during any task which requires the technician to get underneath any part of the vehicle.
+}
+
+
+//name:TQ0190
+::TQ0190::Which of the following is not a type of vehicle jack?{
+	=Bullet jack#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+	~Trolley jack.#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+	~Farm jack.#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+	~Bottle jack.#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+}
+
+
+//name:TQ0191
+::TQ0191::Jack or axle stands are adjustable supports that are used with vehicle jacks and are designed:{
+	=to take the weight of the vehicle after the vehicle has been raised by a jack.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+	~to share the weight of the vehicle with the vehicle jack.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+	~to raise the vehicle enough to allow the jack under the vehicle.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+	~to be used instead of a vehicle jack to raise a vehicle off the ground.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+}
+
+
+//name:TQ0192
+::TQ0192::In most countries, there are regulations that require hoists to be periodically inspected and certified as fit for use. These inspections usually occur every two years.{
+	=FALSE#Regulations usually require that these inspections occur annually.
+	~TRUE#Regulations usually require that these inspections occur annually.
+}
+
+

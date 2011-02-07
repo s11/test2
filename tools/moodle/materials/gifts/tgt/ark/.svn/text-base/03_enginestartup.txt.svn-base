@@ -1,0 +1,54 @@
+//name:TQ1600
+::TQ1600::Technicians are repairing an engine that has failed. They are working on assembling the engine: Technician A says that a properly overhauled engine should start easily. Technician B says that there is no need to prime the engine to ensure it has fuel in the injectors. Who is right?{
+	=Technician A.#Technician A is correct as most engines should start within 20 seconds if all correct procedures have been followed. It is good practice to cycle the key a number of times to prime the fuel system.
+	~Technician B.#Technician A is correct as most engines should start within 20 seconds if all correct procedures have been followed. It is good practice to cycle the key a number of times to prime the fuel system.
+	~Both Technician A & Technician B.#Technician A is correct as most engines should start within 20 seconds if all correct procedures have been followed. It is good practice to cycle the key a number of times to prime the fuel system.
+	~Neither Technician A or Technician B.#Technician A is correct as most engines should start within 20 seconds if all correct procedures have been followed. It is good practice to cycle the key a number of times to prime the fuel system.
+}
+
+
+//name:TQ1601
+::TQ1601::Before the engine is started, check that:{
+	=all the gauge connections, linkages and hoses ensuring all the hose clamps are on straight and tight.#Double check all the gauge connections, linkages and hoses. Make sure all the hose clamps are on straight and tight.
+	~there is a full tank of gas.#Double check all the gauge connections, linkages and hoses. Make sure all the hose clamps are on straight and tight.
+	~the exhaust pipe is clear and will not interfer with other technicians working close by.#Double check all the gauge connections, linkages and hoses. Make sure all the hose clamps are on straight and tight.
+	~there is at least a half a tank of gas.#Double check all the gauge connections, linkages and hoses. Make sure all the hose clamps are on straight and tight.
+}
+
+
+//name:TQ1602
+::TQ1602::If the engine has a distributor, what is the sequence for checking the high tension leads are correctly connected?{
+	=1. Wind the engine over by hand and set the valve timing to number 1. 2. Check direction of rotation. 3. Check the position of number 1 plug lead. 4. Following the firing order, check that each HT lead is connected to the appropriate spark plug.#If your engine has a distributor, double check the wiring sequence of the plug wires. This particular distributor rotates clockwise, so starting from the number one tower that we labeled earlier, we count the firing order in a clockwise direction and then follow each of the wires to the corresponding spark plug to make sure everything is in order.
+	~1. Wind the engine over by hand and set the valve timing to number 1. 2. Check direction of rotation. 3. Start the engine and check the timing. appropriate spark plug. #If your engine has a distributor, double check the wiring sequence of the plug wires. This particular distributor rotates clockwise, so starting from the number one tower that we labeled earlier, we count the firing order in a clockwise direction and then follow each of the wires to the corresponding spark plug to make sure everything is in order.
+	~1. Check the position of number 1 plug lead. 2. Following the firing order check that each HT lead is connected to the appropriate spark plug. 3. Start the engine.#If your engine has a distributor, double check the wiring sequence of the plug wires. This particular distributor rotates clockwise, so starting from the number one tower that we labeled earlier, we count the firing order in a clockwise direction and then follow each of the wires to the corresponding spark plug to make sure everything is in order.
+	~Refer to the owner's handbook.#If your engine has a distributor, double check the wiring sequence of the plug wires. This particular distributor rotates clockwise, so starting from the number one tower that we labeled earlier, we count the firing order in a clockwise direction and then follow each of the wires to the corresponding spark plug to make sure everything is in order.
+}
+
+
+//name:TQ1603
+::TQ1603::When checking engine timing on a vacuum controlled distributor:{
+	=Connect the timing lamp to number one cylinder and disconnect the vacuum advance hose and check timing marks.#Hook up a timing gun and connect the ignition lead to the number one spark plug wire. If you have a vacuum advance distributor, also plug the suction side of the vacuum line where it goes into the carburetor or the intake manifold.
+	~Connect the timing lamp to number one cylinder and check timing marks.#Hook up a timing gun and connect the ignition lead to the number one spark plug wire. If you have a vacuum advance distributor, also plug the suction side of the vacuum line where it goes into the carburetor or the intake manifold.
+	~Connect the timing lamp and check timing marks.#Hook up a timing gun and connect the ignition lead to the number one spark plug wire. If you have a vacuum advance distributor, also plug the suction side of the vacuum line where it goes into the carburetor or the intake manifold.
+	~Connect the timing lamp and disconnect the vacuum advance hose and check timing marks.#Hook up a timing gun and connect the ignition lead to the number one spark plug wire. If you have a vacuum advance distributor, also plug the suction side of the vacuum line where it goes into the carburetor or the intake manifold.
+}
+
+
+//name:TQ1604
+::TQ1604::What is the correct way of breaking a camshaft in?{
+	=Run the engine at approximately 2000 rpm for about 20 minutes and do not idle the engine.#Run the engine for twenty minutes at two thousand revs per minute. The rule is that the engine must be running above fifteen hundred rpm. Do not let it idle, even for a few seconds.
+	~Run the engine at approximately 1500 rpm for about 15 minutes and do not idle the engine.#Run the engine for twenty minutes at two thousand revs per minute. The rule is that the engine must be running above fifteen hundred rpm. Do not let it idle, even for a few seconds.
+	~Run the engine at approximately 1000 rpm for about 10 minutes and do not idle the engine.#Run the engine for twenty minutes at two thousand revs per minute. The rule is that the engine must be running above fifteen hundred rpm. Do not let it idle, even for a few seconds.
+	~Run the engine at approximately 1500 rpm for about 5 minutes and do not idle the engine.#Run the engine for twenty minutes at two thousand revs per minute. The rule is that the engine must be running above fifteen hundred rpm. Do not let it idle, even for a few seconds.
+}
+
+
+//name:TQ1605
+::TQ1605::How is the timing adjusted?{
+	=With the engine at idle and the timing light aimed at the timing marks on the pulley, loosen the distributor and rotate the distributor.#If the timing is a few degrees off, change the setting by loosening the clamp and physically rotating the distributor as the engine is running.
+	~With the engine at high idle and the timing light aimed at the timing marks on the pulley, loosen the distributor and rotate the distributor.#If the timing is a few degrees off, change the setting by loosening the clamp and physically rotating the distributor as the engine is running.
+	~With the engine at high idle and the timing light aimed at the timing marks on the pulley, rotate the distributor.#If the timing is a few degrees off, change the setting by loosening the clamp and physically rotating the distributor as the engine is running.
+	~The timing is automatically adjusted by the engine management control system.#If the timing is a few degrees off, change the setting by loosening the clamp and physically rotating the distributor as the engine is running.
+}
+
+

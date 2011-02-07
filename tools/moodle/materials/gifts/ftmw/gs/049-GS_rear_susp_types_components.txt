@@ -1,0 +1,54 @@
+// question: 27691  name: HAQ1760 
+::HAQ1760::[html]Leaf springs are usually made of tempered steel. They hold the axle in position, both laterally and ...............................{
+	=%100%longitudinally#
+}
+
+
+// question: 27692  name: HAQ1761 
+::HAQ1761::[html]The leaf spring is usually made up of a number of leaves of different length. The ..............................., or longest leaf, is normally referred to as the main leaf.{
+	=%100%top#
+}
+
+
+// question: 27693  name: HAQ1762 
+::HAQ1762::[html]On a Watts Link suspension, the lower trailing arm assists in maintaining the ............................... position of the housing.{
+	=%100%longitudinal#
+}
+
+
+// question: 27694  name: HAQ1763 
+::HAQ1763::[html]The axle housing is rigid between each road wheel. This means that any deflection to one side is transmitted to the other side. These control rods are the additional parts for the 'Watts Link'. Their function is to assist in stabilizing the vehicle against ............................... movements.{
+	=%100%lateral#
+}
+
+
+// question: 27695  name: HAQ1764 
+::HAQ1764::[html]The control rods are the additional parts for the 'Watts Link'. Their function is to assist in stabilizing the vehicle against lateral movements. In other coil-spring rear suspension designs, this is achieved with an angled ............................... rod.{
+	=%100%panhard#
+}
+
+
+// question: 27696  name: HAQ1765 
+::HAQ1765::[html]Independent type suspension - The trailing arm is attached to the chassis at a rigid  cross-member pivot point. This pivot point is fitted with ............................... bushes.{
+	=%100%rubber#
+}
+
+
+// question: 27697  name: HAQ1766 
+::HAQ1766::[html]Independent type suspension - The fixing frame is attached to the vehicle body. The frame supports the ............................... unit and its housing.{
+	=%100%differential#
+}
+
+
+// question: 27698  name: HAQ1767 
+::HAQ1767::[html]Rigid non-drive suspension - The ............................... rods function is to assist in stabilizing the vehicle from lateral movements.{
+	=%100%panhard#
+}
+
+
+// question: 27699  name: HAQ1768 
+::HAQ1768::[html]Rigid non-drive suspension - The struts have an upper mounting point in the suspension tower. This is a ............................... strut, and as such, does not require an upper bearing.{
+	=%100%non-steerable#
+	=%100%nonsteerable#
+	=%100%non steerable#
+}

@@ -1,0 +1,20 @@
+.box.ui-widget.ui-widget-content.ui-corner-all.centre
+  %h1 My Dashboard
+
+= render :partial => 'customer_communication'
+= render :partial => 'disclaimer'
+
+%br
+%table#dashboard
+  %tr
+    %td#left-column
+      = render :partial => 'subcription'
+      = render :partial => 'tasksheet_submissions'
+      = render :partial => 'random_summary' unless @random_category_item.nil?
+
+    %td#right-column
+      = render :partial => 'messaging'
+      = render :partial => 'recently_viewed_content'
+
+- content_for(:head) do
+  = stylesheet_link_tag 'dashboard'

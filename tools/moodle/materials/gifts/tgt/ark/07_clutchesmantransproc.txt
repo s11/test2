@@ -1,0 +1,45 @@
+//name:TQ0792
+::TQ0792::A worn clutch is more likely to slip when the vehicle is:{
+	=under load and acceleration.#Slipping will be most noticeable when the engine is under load such as when the vehicle is lugging at low speed in a high gear; when driving up a hill; when accelerating to pass another vehicle or when towing a trailer.
+	~idle.#Slipping will be most noticeable when the engine is under load, as when the vehicle is lugging at low speed in a high gear, when driving up a hill, when accelerating to pass another vehicle or when towing a trailer.
+	~changing gears.#Slipping will be most noticeable when the engine is under load, as when the vehicle is lugging at low speed in a high gear, when driving up a hill, when accelerating to pass another vehicle or when towing a trailer.
+	~traveling down hills.#Slipping will be most noticeable when the engine is under load, as when the vehicle is lugging at low speed in a high gear, when driving up a hill, when accelerating to pass another vehicle or when towing a trailer.
+}
+
+
+//name:TQ0793
+::TQ0793::In the absence of a manufacturer's specification for clutch pedal free play, you should lightly push down on the pedal until resistance is felt. Correctly adjusted, this distance is about:{
+	=25 mm or 1 inch.#Average clutch pedal free play is about 25 mm or 1 inch.
+	~13 mm or 1/2 inch.#Average clutch pedal free play is about 25 mm or 1 inch.
+	~32 mm or 1 1/4 inches.#Average clutch pedal free play is about 25 mm or 1 inch.
+	~50 mm or 2 inches.#Average clutch pedal free play is about 25 mm or 1 inch.
+}
+
+
+//name:TQ0794
+::TQ0794::The oil level in a manual transmission without a dipstick is correct when:{
+	=fluid leaks slowly from the filler plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+	~the oil flows freely from the filler plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+	~the oil flows freely from the drain plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+	~fluid leaks slowly from the drain plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+}
+
+
+//name:TQ0795
+::TQ0795::When replacing the filler plug it should be tightened:{
+	=to manufacturer's specifications.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+	~as tight as possible.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+	~finger tight.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+	~with an adjustable wrench.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+}
+
+
+//name:TQ0796
+::TQ0796::What will be the adverse effect of a transmission oil level that is too high?{
+	=The fluid will churn and aerate.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+	~There will be no adverse effect.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+	~There will be improved lubrication.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+	~The oil seals will last longer.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+}
+
+

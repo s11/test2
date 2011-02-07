@@ -1,0 +1,13 @@
+#information
+  %h1 Information
+  
+  - if params[:choice_quality].eql?('poor')
+    %p If you have lost one or more points you have not selected the best procedure to Identify the cause of the problem.  Use the Identify button to return and make another choice.
+    
+    %p Hints: If you make a poor choice you will be offered the chance to receive a hint upon returning to the Identify step.
+    
+    %p If you are unsure with identification test is appropriate, consult with your instructor.
+
+  - else
+    %p Congratulations, you have selected the correct test to Identify the cause of the problem - now select "Move On" to Rectify the cause of the problem.
+      

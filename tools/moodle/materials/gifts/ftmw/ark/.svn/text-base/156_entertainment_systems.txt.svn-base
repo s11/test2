@@ -1,0 +1,74 @@
+// question: 32973  name: HAQ3113 
+::HAQ3113::[html]Communication between components uses a combination of hard wiring and .................{
+	=%100%data buses#
+}
+
+
+// question: 32974  name: HAQ3114 
+::HAQ3114::[html]The information is decoded or processed by the ................. unit and outputted to drive speakers located throughout the vehicle.{
+	=%100%control#
+}
+
+
+// question: 32975  name: HAQ3115 
+::HAQ3115::[html]Another function provided by the body control unit is that of speed dependant volume. The control unit has an input from the vehicle speed sensor, which allows it to gradually ................. audio system volume proportionally with road speed.{
+	=%100%increase#
+}
+
+
+// question: 32976  name: HAQ3116 
+::HAQ3116::[html]Automatic 'dipping' headlights use a ................. located at the front of the vehicle to detect light from oncoming vehicles. If the headlights are on, low beam is selected automatically.{
+	=%100%sensor#
+}
+
+
+// question: 32977  name: HAQ3117 
+::HAQ3117::[html]Delayed 'off' allows the headlights to be left on after the engine has stopped and the doors .................{
+	=%100%locked#
+}
+
+
+// question: 32978  name: HAQ3118 
+::HAQ3118::[html]On other vehicles headlight warning alarms sound if the headlights are left on after the engine has been turned off and a door is opened. This reduces the risk of the headlights draining the .................{
+	=%100%battery#
+}
+
+
+// question: 32979  name: HAQ3119 
+::HAQ3119::[html]To allow for safer parking, proximity sensors can be mounted in the front or rear .................{
+	=%100%bumpers#
+}
+
+
+// question: 32980  name: HAQ3120 
+::HAQ3120::[html]Proximity sensors are piezo sensors that are used to transmit and receive coded ................. waves.{
+	=%100%sound#
+}
+
+
+// question: 32981  name: HAQ3121 
+::HAQ3121::[html]Normally ................. sensors are used to allow for full coverage across the width of the vehicle.{
+	=%100%4#
+	=%100%four#
+}
+
+
+// question: 32982  name: HAQ3122 
+::HAQ3122::[html]Conventional instrument panels require the driver to change the line of sight and their visual focal ................. to read information on the instrument cluster.{
+	=%100%length#
+}
+
+
+// question: 32983  name: HAQ3123 
+::HAQ3123::[html]Reflective displays are mounted within the dash panel. They use a ................. embedded in the dash, forward of the driver, to reflect an image of the instrument cluster.{
+	=%100%mirror#
+}
+
+
+// question: 32984  name: HAQ3124 
+::HAQ3124::[html]The benefit of the reflective display system is that the driver's focal point changes ................. when looking from the road to the instruments and back.{
+	=%100%less#
+}
+
+
+

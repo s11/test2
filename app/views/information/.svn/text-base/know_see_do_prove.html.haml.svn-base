@@ -1,0 +1,66 @@
+.h1
+  %h1
+    CDX Instructional Model - Know-See-Do-Prove
+.pagecontent
+  %p{ :style => "background-color:#008845; padding-left:5px; padding-top:5px; padding-bottom:5px; color: #ffffff; font-weight:bold; font-size:14px;" }
+    KNOW
+  %div{ :style => "float:left; margin-right:15px" }
+    %img{ :src => "#{controller.relative_url_root}/assets/images/ksdp_know.gif", :height => "170", :alt => "CDX Instructional Model - Know", :width => "170" }
+  %p
+    PC-based and/or Online web-delivered content segments, deliver the underpinning 'Theory' component of the course so you understand
+  %ul{ :style => "list-style-position:inside; font-size:12px" }
+    %li
+      The principles of how cars work
+    %li
+      What their components are and how they interact
+    %li
+      How the various vehicle systems function
+      %br
+  %p
+    The primary communication mode is visual, and sophisticated video and 3-D animations used in the videos provide exceptional clarity of explanation.
+    %br
+    %br
+    Interactive formative 'Knowledge Check' test activities are interspersed throughout the programs. They allow you to confirm your understanding and lay a foundation for lifelong learning.
+  %p{ :style => "clear:both" }
+    &nbsp;
+  %br
+  %p{ :style => "background-color: #c7312b; padding-left:5px; padding-top:5px; padding-bottom:5px; color: #ffffff; font-weight:bold; font-size:14px;" }
+    SEE
+  %div{ :style => "float:left; margin-right:15px" }
+    %img{ :src => "#{controller.relative_url_root}/assets/images/ksdp_see.gif", :height => "170", :alt => "CDX Instructional Model - See", :width => "170" }
+  %p
+    Step-by-step video demonstrations of procedures show a wide range of tasks being performed, in most cases recorded from the point of view of the technician - as if it was the learner actually doing it.
+  %p
+    These video demonstrations of how to perform tasks are like being in the workshop alongside a skilled technician.&nbsp; Learners can watch them as many times as they need, without the need for instructor involvement or supervision.
+  %p
+    They help to make the connection between the theory and the practical skills that need to be developed, as well as teaching good workshop practice.
+  %p{ :style => "clear:both" }
+    &nbsp;
+  %br
+  %p{ :style => "background-color: #483293; padding-left:5px; padding-top:5px; padding-bottom:5px; color: #ffffff; font-weight:bold; font-size:14px;" }
+    DO
+  %div{ :style => "float:left; margin-right:15px" }
+    %img{ :src => "#{controller.relative_url_root}/assets/images/ksdp_do.gif", :height => "170", :alt => "CDX Instructional Model - Do", :width => "170" }
+  %p
+    There are lots of practical skill-building exercises, and web-delivered simulations of real world procedures built in to CDX learning materials.
+  %p
+    Extensively illustrated printed worksheets remind learners of the correct procedures as thy perform real workshop exercises, and hundreds of assignment tasksheets guide them through a comprehensive set of challenging practical tasks.
+  %p
+    These simulations and practical workshop aids help student s to rapidly and safely develop skills that are applicable in the real world.
+  %p{ :style => "clear:both" }
+    \&nbsp;
+  %br
+  %p{ :style => "background-color: #a32b79; padding-left:5px; padding-top:5px; padding-bottom:5px; color: #ffffff; font-weight:bold; font-size:14px;" }
+    PROVE
+  %div{ :style => "float:left; margin-right:15px" }
+    %img{ :src => "#{controller.relative_url_root}/assets/images/ksdp_prove.gif", :height => "170", :alt => "CDX Instructional Model - Prove", :width => "170" }
+  %p
+    Learners are able to assess their own progress and take ownership of their learning through the interactive exercises included throughout the courseware. These allow students to confirm to themselves that they have fully understood the content presented.
+  %p
+    Short practice quizzes are built in to the Online versions of each product, and these can be taken an unlimited number of times.&nbsp; These quizzes draw multiple-choice questions from a relevant question bank and randomize both the order of questions and the order of answers and distracters, so every quiz is different.&nbsp;
+    %br
+    Final tests contain a more challenging set of questions, and the number of attempts allowed for each student is preset.&nbsp; All these tests are scored automatically and the results are stored for later reporting
+    %br
+    Completed Handout Activity Sheets provide either a paper or an online record of understanding for each of the more than 1000 automotive topics.
+  %p
+    Assignment Tasksheets and Assessment Checklists provide a paper record of practical tasks completed, and these confirmations of competence and understanding become part of the learners portfolio of evidence.

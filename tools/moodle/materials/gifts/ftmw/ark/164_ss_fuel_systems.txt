@@ -1,0 +1,259 @@
+// question: 33519  name: HAQ3390 
+::HAQ3390::[html]Bernoulli's principle states that in fluid flow, an increase in ................. occurs simultaneously with decrease in pressure.{
+	=%100%velocity#
+}
+
+
+// question: 33520  name: HAQ3391 
+::HAQ3391::[html]In a carburetor, air is passed through a Venturi tube to increase its speed and therefore decrease its .................{
+	=%100%pressure#
+}
+
+
+// question: 33521  name: HAQ3392 
+::HAQ3392::[html]In a fluid flow with no viscosity, and therefore one in which a pressure difference is the only ................. force, it is equivalent to Newton's laws of motion.{
+	=%100%accelerating#
+}
+
+
+// question: 33523  name: HAQ3394 
+::HAQ3394::[html]It is produced during combustion when there are not enough ................. molecules around the hydrocarbon molecules.  This can be caused by an incorrect air-fuel ratio.{
+	=%100%oxygen#
+}
+
+
+// question: 33524  name: HAQ3395 
+::HAQ3395::[html]In modern vehicles, carbon monoxide emissions have been reduced by better ................. designs.{
+	=%100%engine#
+}
+
+
+// question: 33525  name: HAQ3396 
+::HAQ3396::[html]In modern vehicles, carbon monoxide emissions have been reduced by ................. treating the exhaust gas.{
+	=%100%chemically#
+}
+
+
+// question: 33526  name: HAQ3397 
+::HAQ3397::[html]O2 itself has two energetic forms: the low-energy, predominant single-bonded  diradical triplet oxygen and the high-energy double-bonded ................. singlet oxygen.{
+	=%100%molecule#
+}
+
+
+// question: 33527  name: HAQ3398 
+::HAQ3398::[html]Oxygen is a major component of air, produced by plants during .................{
+	=%100%photosynthesis#
+}
+
+
+// question: 33529  name: HAQ3400 
+::HAQ3400::[html]Liquid O2 is usually obtained by the fractional ................. of liquid air.{
+	=%100%distillation#
+}
+
+
+// question: 33530  name: HAQ3401 
+::HAQ3401::[html]A fluid passing through smoothly varying constrictions experience changes in ................. and pressure, as described by Bernoulli's principle.{
+	=%100%velocity#
+}
+
+
+// question: 33531  name: HAQ3402 
+::HAQ3402::[html]A Venturi is a system for speeding the flow of the fluid, by constricting it in a ................. -shaped tube.{
+	=%100%cone#
+}
+
+
+// question: 33532  name: HAQ3403 
+::HAQ3403::[html]Placing a liquid in a U-shaped tube and connecting the ends of the tubes to both ends of a venturi is all that is needed. When the fluid flows though the venturi the pressure in the two ends of the tube will differ,  forcing the liquid to the '................. pressure' side.{
+	=%100%low#
+}
+
+
+// question: 33533  name: HAQ3404 
+::HAQ3404::[html]Volumetric efficiency compares the volume of air entering a cylinder during ................., to the internal volume of the cylinder when the piston is at bottom dead center.{
+	=%100%intake#
+}
+
+
+// question: 33534  name: HAQ3405 
+::HAQ3405::[html]In a naturally aspirated engine, one without ................. induction, volumetric efficiency can never be 100%.{
+	=%100%forced#
+}
+
+
+// question: 33535  name: HAQ3406 
+::HAQ3406::[html]With forced induction, the incoming air is ................., so that a greater volume and mass of air is forced into the cylinder during the intake stroke.{
+	=%100%compressed#
+}
+
+
+// question: 33536  name: HAQ3407 
+::HAQ3407::[html]Thermal expansion refers to the way some materials ................. when they're heated.{
+	=%100%expand#
+}
+
+
+// question: 33537  name: HAQ3408 
+::HAQ3408::[html]An engine exhaust system is subjected to very hot ............ gases so its components expand and contract as they heat and cool.{
+	=%100%exhaust#
+}
+
+
+// question: 33539  name: HAQ3410 
+::HAQ3410::[html]Sound travels through the air by producing pressure waves - areas of high pressure and areas of low pressure. The rate at which these waves reach our ears is called .................{
+	=%100%frequency#
+}
+
+
+// question: 33540  name: HAQ3411 
+::HAQ3411::[html]The range of human hearing is approximately from 20 cycles per second, to 20,000 cycles per second. An engine produces sounds across a wide range of frequencies. The mufflers and resonators in the engine ................. system reduce these sounds to an acceptable level.{
+	=%100%exhaust#
+}
+
+
+// question: 33541  name: HAQ3412 
+::HAQ3412::[html]Back-pressure in an exhaust system refers to a build-up of ................. in the system that interferes with the outward flow of exhaust gases.{
+	=%100%pressure#
+}
+
+
+// question: 33542  name: HAQ3413 
+::HAQ3413::[html]This area of high pressure acts as a kind of wall to stop gas flow. It can be caused by a blockage in a ................. or a similar restriction.{
+	=%100%muffler#
+}
+
+
+// question: 33543  name: HAQ3414 
+::HAQ3414::[html]The term stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete ................. of the fuel.{
+	=%100%combustion#
+}
+
+
+// question: 33544  name: HAQ3415 
+::HAQ3415::[html]If the actual mixture fed to the engine contains more air (a leaner ratio), then some oxygen is left in the .................{
+	=%100%exhaust#
+}
+
+
+// question: 33545  name: HAQ3416 
+::HAQ3416::[html]To combat this modern petrol engines are fitted with ................. converters in the exhaust that remove this CO along with any hydrocarbons left over due to poor combustion, and in addition any other polutants such as nitrogen   oxides (NOx).{
+	=%100%catalytic#
+}
+
+
+// question: 33546  name: HAQ3417 
+::HAQ3417::[html]These devices, however, only work correctly when the mixture is very close to the stoichiometric ratio. In practice the system must ................. so the average value of 'lambda' is be between about 0.996 and 1.003 at all times.{
+	=%100%regulated#
+}
+
+
+// question: 33547  name: HAQ3418 
+::HAQ3418::[html]In a gasoline engine, the position of the .................-plate controls the volume of air, or air-fuel mixture, entering the manifold.{
+	=%100%throttle#
+}
+
+
+// question: 33548  name: HAQ3419 
+::HAQ3419::[html]At idle speed, the pistons draw air away from the manifold at a faster rate than it can pass the  throttle-plate into the manifold. A high vacuum, or a ................., exists.{
+	=%100%depression#
+}
+
+
+// question: 33549  name: HAQ3420 
+::HAQ3420::[html]Some engine management systems signal changes in atmospheric pressure by using a ................. pressure sensor in the ECU.{
+	=%100%barometric#
+}
+
+
+// question: 33550  name: HAQ3421 
+::HAQ3421::[html]This is because, above sea level, air pressure is .................{
+	=%100%reduced#
+}
+
+
+// question: 33551  name: HAQ3422 
+::HAQ3422::[html]The density of air is its mass per unit .................{
+	=%100%volume#
+}
+
+
+// question: 33552  name: HAQ3423 
+::HAQ3423::[html]This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain ................. more oxygen.{
+	=%100%proportionally#
+}
+
+
+// question: 33553  name: HAQ3424 
+::HAQ3424::[html]The density of air in the atmosphere changes at different ................., and altitudes.{
+	=%100%temperatures#
+}
+
+
+// question: 33554  name: HAQ3425 
+::HAQ3425::[html]The amount of oxygen in air directly affects how well it  supports ................., so it can be important in determining an air-fuel ratio for an engine.{
+	=%100%combustion#
+}
+
+
+// question: 33555  name: HAQ3426 
+::HAQ3426::[html]A tachometer is used to indicate engine RPM. It is normally connected to the ................. terminal of the ignition coil. The pulses from the ignition primary circuit are then used as an input to operate the tachometer.{
+	=%100%negative#
+}
+
+
+// question: 33556  name: HAQ3427 
+::HAQ3427::[html]At idle speed, the frequency of the pulse is .................{
+	=%100%steady#
+}
+
+
+// question: 33557  name: HAQ3428 
+::HAQ3428::[html]As the   engine speed rises, the frequency of the pulse ................., as the tachometer indicates.{
+	=%100%increases#
+}
+
+
+// question: 33558  name: HAQ3429 
+::HAQ3429::[html]As a safety measure, the tachometric relay uses an input (from the negative side of the ignition coil) to ensure the relay operates only when engine speed is above a specified ................., say, 350 RPM.{
+	=%100%minimum#
+}
+
+
+// question: 33559  name: HAQ3430 
+::HAQ3430::[html]A potentiometer is a ................. variable resistor which, in EFI applications, is normally a film-type.{
+	=%100%mechanically#
+}
+
+
+// question: 33560  name: HAQ3431 
+::HAQ3431::[html]It can be linear, or circular, in construction, and has 3 electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the .................{
+	=%100%resistor#
+}
+
+
+// question: 33561  name: HAQ3432 
+::HAQ3432::[html]In automotive applications, the circular form is commonly used as a throttle ................. sensor, with the center contact attached to the throttle plate.{
+	=%100%position#
+}
+
+
+// question: 33562  name: HAQ3433 
+::HAQ3433::[html]A closed loop is usually part of what is called a ................. system.{
+	=%100%feedback#
+}
+
+
+// question: 33563  name: HAQ3434 
+::HAQ3434::[html]This vehicle has a ................. control unit to help it maintain a set speed. When it falls below it, a computer sends a signal that moves the throttle linkage and increases the fuel reaching the engine, and speed.{
+	=%100%cruise#
+}
+
+
+// question: 33564  name: HAQ3435 
+::HAQ3435::[html]A closed loop system in an engine exhaust system can monitor the amount of ................. in exhaust gases, to maintain a constant air-fuel ratio.{
+	=%100%oxygen#
+	=%100%O2#
+}
+
+

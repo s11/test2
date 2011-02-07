@@ -1,0 +1,121 @@
+//name:TQ1003
+::TQ1003::How is a capacitor discharged?{
+	=When the circuit is closed between its terminals.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When the circuit is opened between its terminals.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When both surfaces are positively charged.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When both surfaces are negatively charged.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+}
+
+
+//name:TQ1004
+::TQ1004::The term 'insulator' refers to a material that:{
+	=will not readily allow current to flow through it.#A good insulator has no free electrons. The electrons are strongly bound to the atom and do not stray from the electron rings.
+	~Has a low resistance factor.#A good insulator has no free electrons. The electrons are strongly bound to the atom and do not stray from the electron rings.
+}
+
+
+//name:TQ1005
+::TQ1005::Fuses prevent circuit damage by:{
+	=stopping excessive current flow.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~reducing wiring length.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~limiting voltage increases.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~decreasing circuit resistance.#The heating effect of excessive current flow through a fuse causes it to blow.
+}
+
+
+//name:TQ1006
+::TQ1006::By switching a small current in the relay, a set of contacts controls:{
+	=a larger current.#Transistors can also be used to perform this function.
+	~a smaller current.#Transistors can also be used to perform this function.
+	~no current.#Transistors can also be used to perform this function.
+	~temperature.#Transistors can also be used to perform this function.
+}
+
+
+//name:TQ1007
+::TQ1007::What is the most common automotive conductor material?{
+	=Copper.#Copper is a better conductor then aluminum.
+	~Aluminum.#Copper is a better conductor then aluminum.
+	~Carbon impregnated fiberglass or linen.#Copper is a better conductor then aluminum.
+}
+
+
+//name:TQ1008
+::TQ1008::Interference is often referred to as:{
+	=noise.#Shielding is used in wiring that is susceptible to interference.
+	~slip.#Shielding is used in wiring that is susceptible to interference.
+	~crackle.#Shielding is used in wiring that is susceptible to interference.
+	~pop.#Shielding is used in wiring that is susceptible to interference.
+}
+
+
+//name:TQ1009
+::TQ1009::If a wire is described as being metric size of 8.0 it is:{
+	=8.0mm cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~8.0cm cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~1/4 inch cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~0.8 inches cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+}
+
+
+//name:TQ1010
+::TQ1010::What AWG wire will be required to carry 20 Amperes for 6 metres?{
+	=12#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~14#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~10#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~16#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+}
+
+
+//name:TQ1018
+::TQ1018::What is the number value of a green band in the first position on a resistor?{
+	=5#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+	~2#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+	~7#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+	~1#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+}
+
+
+//name:TQ1019
+::TQ1019::Which of these is NOT a type of resistor?{
+	=Stationary resistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+	~Thermistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+	~Variable resistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+	~Metal Oxide Varistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+}
+
+
+//name:TQ1022
+::TQ1022::A resistor that decreases its resistance as temperature increases is known as a:{
+	=NTC resistor.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+	~PTC resistor.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+	~MAP sensor.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+	~potentiometer.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+}
+
+
+//name:TQ1023
+::TQ1023::A positive temperature coefficient (PTC) resistor's resistance:{
+	=increases as temperature increases.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+	~decreases as temperature increases.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+	~remains the same as temperature changes.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+	~changes as voltage changes.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+}
+
+
+//name:TQ1024
+::TQ1024::A small current in the transistor base allows ____________ through the emitter-collector junction.{
+	=a larger current to flow#Using a small current to control a larger current can be called amplification.
+	~a smaller current to flow#Using a small current to control a larger current can be called amplification.
+	~no current to flow#Using a small current to control a larger current can be called amplification.
+	~a decreasing current#Using a small current to control a larger current can be called amplification.
+}
+
+
+//name:TQ1025
+::TQ1025::A variable resistor with three contact points that can increase or decrease its resistance in an electrical circuit is known as a:{
+	=potentiometer.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+	~vane-type sensor.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+	~MAP sensor.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+	~thermistor.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+}

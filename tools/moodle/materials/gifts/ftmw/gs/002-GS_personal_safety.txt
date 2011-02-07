@@ -1,0 +1,91 @@
+// question: 22999  name: HAQ0417 
+::HAQ0417::[html]The soles of safety shoes must be acid and .............................. resistant, the uppers made from a puncture proof material such as leather and the toes protected by a steel cap.{
+	=%100%slip#
+}
+
+
+// question: 23000  name: HAQ0418 
+::HAQ0418::[html]Heavy-duty impervious gloves should always be worn when using solvents and cleaners. They should also be worn when working on a ...............................{
+	=%100%battery#
+}
+
+
+// question: 23001  name: HAQ0419 
+::HAQ0419::[html]The light from a welding arc is very bright and contains high levels of .............................. radiation.{
+	=%100%ultra-violet#
+	=%100%ultra violet#
+	=%100%ultraviolet#
+}
+
+
+// question: 23002  name: HAQ0420 
+::HAQ0420::[html]Gas welding goggles can be worn instead of a welding mask when using, or assisting a person using, an oxyacetylene welder. The eyepieces are heavily .............................., but not as much as those in an electric welding mask.{
+	=%100%tinted#
+}
+
+
+// question: 23003  name: HAQ0421 
+::HAQ0421::[html].............................. clothing could also get caught in machinery, so wear coveralls or an approved work uniform.{
+	=%100%loose#
+}
+
+
+// question: 23004  name: HAQ0422 
+::HAQ0422::[html]Prevent back injuries when lifting heavy objects. Crouch with your legs slightly apart, stand close to the object and position yourself so that the center of gravity is between your ...............................{
+	=%100%feet#
+}
+
+
+// question: 23005  name: HAQ0423 
+::HAQ0423::[html]Prevent back injuries when lifting heavy objects. Keep your back straight, and use your .............................. to lift the object.{
+	=%100%legs#
+}
+
+
+// question: 23006  name: HAQ0425 
+::HAQ0425::[html]A goal of first aid is to: Prevent the injury from ..............................{
+	=%100%worsening#
+}
+
+
+// question: 23007  name: HAQ0426 
+::HAQ0426::[html]When attending to an injured person always send for assistance. Make sure the person who stays with the injured is .............................. experienced in first aid than the messenger.{
+	=%100%more#
+}
+
+
+// question: 23008  name: HAQ0427 
+::HAQ0427::[html]If the casualty is unconscious, they should be placed on their ..............................{
+	=%100%side#
+}
+
+
+// question: 23009  name: HAQ0428 
+::HAQ0428::[html]Apply direct .............................. to the site of the bleeding and make sure there are no foreign particles in the wound.{
+	=%100%pressure#
+}
+
+
+// question: 23011  name: HAQ0429 
+::HAQ0429::[html]Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any .............................. to the paintwork, note them on your job sheet.{
+	=%100%damage#
+}
+
+
+// question: 23012  name: HAQ0430 
+::HAQ0430::[html]Find out what procedures your employer has in place regarding the .............................. for spare parts and consumables like oils and sealants.{
+	=%100%accounting#
+}
+
+
+// question: 23013  name: HAQ0431 
+::HAQ0431::[html]Lock doors and windows when you leave the workshop, and always be aware of any .............................. people in the workshop and report them to your supervisor.{
+	=%100%unauthorised#
+	=%100%unauthorized#
+}
+
+
+// question: 23010  name: HAQ0432 
+::HAQ0432::[html]A dislocation is the displacement of a joint from its normal position and is caused by an external force   stretching the ligaments beyond their .............................. limit.{
+	=%100%elastic#
+}

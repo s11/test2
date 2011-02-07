@@ -1,0 +1,133 @@
+//name:TQ1240
+::TQ1240::Most temperature sensors used in climate control systems are:{
+	=thermistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~thermo couplers.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~thermo-conductors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~thermo-resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+}
+
+
+//name:TQ1241
+::TQ1241::If the ECU detects a change in condition it:{
+	=controls actuators to move dampers and valves.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~turns the air-conditioner on.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~changes the fan speed.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~Turns the air-conditioner off.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1242
+::TQ1242::Most climate controlled air-conditioning systems have the ability to display diagnostic codes. These can indicate:{
+	=all of these answers.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the signal may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the component may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the circuits whose signals may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+}
+
+
+//name:TQ1243
+::TQ1243::On a fully automatic climate controlled system, the fan speed is:{
+	=controlled by the ECU.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~fixed.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~set by the driver.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~controlled by the actuators.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1244
+::TQ1244::The function of the climate control system is to maintain cabin:{
+	=temperature to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~humidity to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~heat to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~coolness to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1245
+::TQ1245::If the climate control ECU detects a change in cabin condition it:{
+	=automatically changes the position of flaps, actuators, air-conditioner unit and fans to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically turns the air-conditioner on to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically turns the air-conditioner off to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically changes the fan speed to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+}
+
+
+//name:TQ1246
+::TQ1246::In a vehicle with climate control the functional temperature is set by:{
+	=the driver or a passenger.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the body control module.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the ambient sensor.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the manufacturer as a preset.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+}
+
+
+//name:TQ1247
+::TQ1247::What effect does 'ambient temperature' have on a vehicle's climate controlled system?{
+	=It influences the climate control system sensors to maintain the desired system temperature set by the driver.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~It is controlled by the engine coolant temperature.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~It is influenced by the ECU.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~It influences the sun load sensor.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1248
+::TQ1248::If the temperature of the air flow over the ambient air temperature sensor falls the resistance will:{
+	=become higher.#This is called negative temperature coefficient (NTC). As the temperature increase the resistance decreases; as the temperature decreases the resistance increases.
+	~become lower.#This is called negative temperature coefficient (NTC). As the temperature increase the resistance decreases; as the temperature decreases the resistance increases.
+}
+
+
+//name:TQ1249
+::TQ1249::In many automatic climate controlled air-conditioning systems, the temperature sensors are referred to as:{
+	=thermistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~PTC resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~vari-rate resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+}
+
+
+//name:TQ1250
+::TQ1250::The fan speed in a climate control system is:{
+	=controlled by the ECU.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~controlled by the actuators.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~fixed.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~set by the driver.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1251
+::TQ1251::The sensor mounted on the dash of a climate control air-conditioning system measures:{
+	=sun load.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+	~cabin air temperature.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+	~vent temperature.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+	~ambient air temperature.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+}
+
+
+//name:TQ1252
+::TQ1252::What do the servo motors in the HVAC system do?{
+	=They control the position of flaps and valves.#By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+	~They provide additional power to the condenser unit.#By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+	~They maintain the gaseous refrigerant pressure in the system#By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+	~They supply compensating vacuum to the evaporator valves. #By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+}
+
+
+//name:TQ1253
+::TQ1253::What happens when an electric servo motor driven flap or door has reached the end of its travel?{
+	=Limit switches open circuit the motor.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+	~Rubber stops prevent the flap or door from moving further.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+	~A warning light comes on in the dashboard.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+	~The flap or door is retained with a magnetic catch.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+}
+
+
+//name:TQ1254
+::TQ1254::What is the primary purpose of the ventilation system?{
+	=Occupant comfort.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Engine compartment cooling.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Windshield demisting.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Occupant safety.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+}
+
+

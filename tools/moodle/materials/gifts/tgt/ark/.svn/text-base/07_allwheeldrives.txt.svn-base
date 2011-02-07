@@ -1,0 +1,54 @@
+//name:TQ0932
+::TQ0932::In an all-wheel drive vehicle, the differences in the rotational speeds of the front and rear propeller shafts is catered for by using:{
+	=a third differential in the transfer case.  #The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+	~a viscous coupling in the transfer case.#The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+	~special high/low gearsets in the transfer case.#The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+	~special rubber transfer belts in the transfer case.#The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+}
+
+
+//name:TQ0933
+::TQ0933::What does the viscous coupling do?{
+	=Torque is transferred through the coupling by the high viscosity of the silicone fluid sealed in the unit.  #The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+	~Torque is transferred through the coupling by locking the gears inside the coupling together.#The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+	~Torque is transferred through the coupling by the low viscosity of the silicone fluid sealed in the unit. #The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+	~Torque is transferred through the coupling by locking the transfer belts inside the coupling together.#The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+}
+
+
+//name:TQ0934
+::TQ0934::In a vehicle with full-time 4-wheel drive, drive is transmitted to:{
+	=all four wheels, all the time.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+	~the front wheels all the time, the rear wheels part time.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+	~the rear wheels all the time, the front wheels part time.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+	~the rear wheels only.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+}
+
+
+//name:TQ0935
+::TQ0935::The final drive gears in a full-time 4-wheel-drive vehicle are:{
+	=hypoid bevel crown wheel and pinion type.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+	~hypoid bevel worm and gear type.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+	~double hypoid herringbone type.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+	~straight cut bevel gears.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+}
+
+
+//name:TQ0936
+::TQ0936::A full-time 4-wheel-drive transfer case is different from a part-time four-wheel-drive transfer case in that it includes a: {
+	=center differential.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+	~High range.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+	~Power take-off.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+	~Low range.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+}
+
+
+//name:TQ0937
+::TQ0937::In a full-time 4-wheel-drive transfer case, engaging low range also:{
+	=locks out all center differential action.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+	~engages the power take-off.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+	~engages the free-wheeling hubs.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+	~lowers the vehicle ride height.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+}
+
+

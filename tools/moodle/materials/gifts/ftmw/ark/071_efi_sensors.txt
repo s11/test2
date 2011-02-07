@@ -1,0 +1,284 @@
+// question: 28415  name: HAQ1451 
+::HAQ1451::[html]By measuring the mass of the air, the mass type airflow sensor prevents changes in air ................. affecting the air-fuel mixture.{
+	=%100%density#
+}
+
+
+// question: 28416  name: HAQ1452 
+::HAQ1452::[html]The airflow meter can have a ................. function that burns dust and other contaminants from the hot wire.{
+	=%100%self-cleaning#
+	=%100%self cleaning#
+}
+
+
+// question: 28417  name: HAQ1453 
+::HAQ1453::[html]The hot wire may be sealed in a ................. envelope. This protects the wire, and eliminates the need for burn-off.{
+	=%100%glass#
+}
+
+
+// question: 28418  name: HAQ1454 
+::HAQ1454::[html]In some types of sensors, the hot wire is mounted in a sub passage connected to the main passage. In others, the heating element is a ................. plate.{
+	=%100%ceramic#
+}
+
+
+// question: 28419  name: HAQ1455 
+::HAQ1455::[html]Changes in engine speed, and load, cause changes in ................. manifold pressure.{
+	=%100%intake#
+}
+
+
+// question: 28420  name: HAQ1456 
+::HAQ1456::[html]A sensor that measures changes in the intake manifold pressure and converts them into an electrical signal is called a manifold absolute pressure, or ................., sensor.{
+	=%100%MAP#
+}
+
+
+// question: 28421  name: HAQ1457 
+::HAQ1457::[html]The signal from a manifold absolute pressure sensor may be an output voltage, or a .................{
+	=%100%frequency#
+}
+
+
+// question: 28422  name: HAQ1458 
+::HAQ1458::[html]A Map sensor can use a ................. crystal.{
+	=%100%piezoelectric#
+}
+
+
+// question: 28423  name: HAQ1459 
+::HAQ1459::[html]The Map sensor is connected to the intake manifold by a small-  diameter, flexible .................{
+	=%100%tube#
+}
+
+
+// question: 28424  name: HAQ1460 
+::HAQ1460::[html]The air vortex sensor uses ................. of air, or vortices, to measure the volume of air entering the engine.{
+	=%100%whirlpools#
+}
+
+
+// question: 28425  name: HAQ1461 
+::HAQ1461::[html]A ................., vortex-generating rod disturbs the airflow and causes  whirlpools of air to form in the body of the sensor.{
+	=%100%triangular#
+}
+
+
+// question: 28426  name: HAQ1462 
+::HAQ1462::[html]The vortices from the vortext generating rod alternate from clockwise to anticlockwise rotation, and they are staggered as they pass through a  transmitter-receiver area. When there is no airflow, this  transmitter emits a constant signal of ................. waves to the receiver.{
+	=%100%ultrasonic#
+}
+
+
+// question: 28427  name: HAQ1463 
+::HAQ1463::[html]The modulated wave reaching the reciever of the air vortext sensor is converted to an electrical pulse signal which is directly ................. to the airflow.{
+	=%100%proportional#
+}
+
+
+// question: 28428  name: HAQ1464 
+::HAQ1464::[html]An air regulator or ................. is located at the entry to the sensor. It reduces turbulence in the airflow passing the  vortex generator.{
+	=%100%rectifier#
+}
+
+
+// question: 28429  name: HAQ1465 
+::HAQ1465::[html]An air flow meter varies its signal by the ................. of a vane as air enters the engine.{
+	=%100%deflection#
+}
+
+
+// question: 28430  name: HAQ1466 
+::HAQ1466::[html]Deflecting the vane on the air flow meter moves contacts across a ................., to signal its position, and thus, the amount of air entering the system.{
+	=%100%potentiometer#
+}
+
+
+// question: 28431  name: HAQ1467 
+::HAQ1467::[html]The temperature sensor uses material with a negative  temperature ................. of resistance.{
+	=%100%coefficient#
+}
+
+
+// question: 28432  name: HAQ1468 
+::HAQ1468::[html]Its resistance is high when it's cold, but it falls as its temperature rises. It is called a ................. This is the opposite of a normal resistor, which increases its resistance as temperature rises.{
+	=%100%thermistor#
+}
+
+
+// question: 28433  name: HAQ1469 
+::HAQ1469::[html]Engine speed can be detected by a connection from the ignition system primary circuit, or by a pulse generator-type sensor, on the .................{
+	=%100%crankshaft#
+}
+
+
+// question: 28434  name: HAQ1470 
+::HAQ1470::[html]To maintain the air-fuel ratio within an optimum range, the control unit must take account of coolant temperature and air temperature. Extra fuel is needed when the engine is cold, and when the air is colder, and therefore .................{
+	=%100%denser#
+}
+
+
+// question: 28435  name: HAQ1471 
+::HAQ1471::[html]The coolant temperature sensor is immersed in coolant in the cylinder .................{
+	=%100%head#
+}
+
+
+// question: 28436  name: HAQ1472 
+::HAQ1472::[html]The coolant temperature sensor consists of a hollow threaded pin which has a resistor sealed inside it. The resistor is made of a ................. material whose electrical resistance falls as temperature rises.{
+	=%100%semiconductor#
+}
+
+
+// question: 28437  name: HAQ1473 
+::HAQ1473::[html]The signal from the coolant temperature sensor is used to control the mixture enrichment when the engine is ................. and is processed in the control unit.{
+	=%100%cold#
+}
+
+
+// question: 28438  name: HAQ1474 
+::HAQ1474::[html]Enrichment occurs during engine cranking, then slowly  reduces as the engine warms up. This ensures a steady engine response immediately after releasing the starter. The control unit continually monitors ................. temperature during engine operation.{
+	=%100%coolant#
+}
+
+
+// question: 28439  name: HAQ1475 
+::HAQ1475::[html]The throttle position sensor gathers information on throttle positions, to allow the control unit to make adjustments according to operating conditions. It is located on the ................. body.{
+	=%100%throttle#
+}
+
+
+// question: 28440  name: HAQ1476 
+::HAQ1476::[html]The throttle position sensor is operated by ................. of the throttle spindle or shaft.{
+	=%100%rotation#
+}
+
+
+// question: 28441  name: HAQ1477 
+::HAQ1477::[html]At idling speeds, the full load contacts are ................. The idle contacts are closed and the signal to the computer provides for a mixture to maintain idle quality, and stability.{
+	=%100%open#
+}
+
+
+// question: 28442  name: HAQ1478 
+::HAQ1478::[html]The 'idle contacts closed' signal can also be used, with the engine RPM signal to the control unit, to stop fuel delivery on engine over-run. This can be done, for example, if engine speed is above 2500 RPM on .................{
+	=%100%deceleration#
+}
+
+
+// question: 28443  name: HAQ1479 
+::HAQ1479::[html]The oxygen sensor, also called a ................. sensor, is mounted in the exhaust manifold, or the engine pipe.{
+	=%100%lambda#
+}
+
+
+// question: 28444  name: HAQ1480 
+::HAQ1480::[html]The control unit uses the oxygen sensor to fine-tune the ................. it sends to the fuel injectors.{
+	=%100%pulse#
+}
+
+
+// question: 28445  name: HAQ1481 
+::HAQ1481::[html]The oxygen sensor consists of a tube, closed at one end, and made of Zirconia ceramic, or Titanium ceramic. Its inner and outer  surfaces are coated with .................{
+	=%100%platinum#
+}
+
+
+// question: 28446  name: HAQ1482 
+::HAQ1482::[html]The Exhaust gas oxygen sensor, with the ceramic tube and platinum electrodes is a porous, solid .................{
+	=%100%electrolyte#
+}
+
+
+// question: 28447  name: HAQ1483 
+::HAQ1483::[html]The position sensor may be mounted externally on the  crankcase wall, or it may be inside the housing of the ignition .................{
+	=%100%distributor#
+}
+
+
+// question: 28448  name: HAQ1484 
+::HAQ1484::[html].................-type sensors sense the movement of the ring gear teeth on the flywheel, or a toothed disc on the crank pulley.{
+	=%100%inductive#
+}
+
+
+// question: 28449  name: HAQ1485 
+::HAQ1485::[html]As the tooth on the flywheel approaches the stator, the strength of the magnetic field is increasing. This induces a voltage, and  current flow, in the winding. The polarity of the voltage is said to be ................., as it produces a current flow in the winding in a certain direction.{
+	=%100%positive#
+}
+
+
+// question: 28450  name: HAQ1486 
+::HAQ1486::[html]As the flywheel tooth moves away from the stator, the strength of the magnetic field changes again, and once again voltage and current flow is induced in the winding. This time, current flow is in the opposite direction, and the polarity of the voltage is now said to be .................{
+	=%100%negative#
+}
+
+
+// question: 28451  name: HAQ1487 
+::HAQ1487::[html]Hall-effect sensors can also provide a voltage signal, and like the inductive-type, can be mounted on the crankcase wall, or inside the housing of the distributor. The sensor has a ................. magnet, and a Hall switch, as part of its assembly, and an air-gap between the magnet's North and South poles.{
+	=%100%permanent#
+}
+
+
+// question: 28452  name: HAQ1488 
+::HAQ1488::[html]The Hall switch is on 1 pole of the magnet, and an ................. ring, with a number of square-shaped blades or segments, rotates through the gap formed by the poles.{
+	=%100%interrupter#
+}
+
+
+// question: 28453  name: HAQ1489 
+::HAQ1489::[html]With continuous rotation of the interruptor ring, the blades repeatedly move in and out of the air gap, and the signal voltage will appear to turn on and off repeatedly. The control unit uses this on-off signal to detect engine RPM, and to control ................. timing.{
+	=%100%ignition#
+}
+
+
+// question: 28454  name: HAQ1490 
+::HAQ1490::[html]If a sequential injection mode is used, the position of the ................. also must be signalled to the control unit.{
+	=%100%camshaft#
+}
+
+
+// question: 28455  name: HAQ1491 
+::HAQ1491::[html]The blade of the interrupter ring that is shorter than the others is called a ................. blade.{
+	=%100%signature#
+}
+
+
+// question: 28456  name: HAQ1492 
+::HAQ1492::[html]The regulatory intent of OBD is to force the auto manufacturers to design reliable ................. control systems that remain effective for the vehicle's 'useful life'.{
+	=%100%emission#
+}
+
+
+// question: 28457  name: HAQ1493 
+::HAQ1493::[html]The most sophisticated features of an OBD-II system determine if the vehicle's emission performance has  deteriorated below a ................. level of performance; if so, the MIL will illuminate.{
+	=%100%regulated#
+}
+
+
+// question: 28458  name: HAQ1494 
+::HAQ1494::[html]OBD-II is a ................. interface to the on-board computer of a vehicle.{
+	=%100%standardized#
+}
+
+
+// question: 28459  name: HAQ1495 
+::HAQ1495::[html]The advantages of PC-based scan tools are: Low ................. (compared to stand-alone scan tools with similar functionality).{
+	=%100%cost#
+}
+
+
+// question: 28460  name: HAQ1496 
+::HAQ1496::[html]The advantages of PC-based scan tools are: Virtually unlimited ................. capacity for data logging and other functions.{
+	=%100%storage#
+}
+
+
+// question: 28461  name: HAQ1497 
+::HAQ1497::[html]The advantages of PC-based scan tools are: Some are capable of .................{
+	=%100%reprogramming#
+}
+
+
+

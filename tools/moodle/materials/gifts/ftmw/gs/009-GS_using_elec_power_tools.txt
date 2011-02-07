@@ -1,0 +1,71 @@
+// question: 23307  name: HAQ0046 
+::HAQ0046::[html]When using an angle grinder, make sure there are no obvious .............................. or damage to the disc before you install it.{
+	=%100%defects#
+}
+
+
+// question: 23308  name: HAQ0047 
+::HAQ0047::[html]The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a .............................. that is provided with the grinder when purchased.{
+	=%100%spanner#
+}
+
+
+// question: 23311  name: HAQ0048 
+::HAQ0048::[html]When using a bench grinder, stand to the .............................. of the grinder when starting the electric motor.{
+	=%100%side#
+}
+
+
+// question: 23312  name: HAQ0049 
+::HAQ0049::[html]The face of the abrasive wheel on the bench grinder must be kept ...............................{
+	=%100%square#
+}
+
+
+// question: 23314  name: HAQ0051 
+::HAQ0051::[html]When grinding metal, it must not overheat. This will affect its ............................... If the metal becomes too hot and is allowed to cool slowly, it may become soft. If it is cooled quickly (quenched), it may become brittle.{
+	=%100%hardness#
+}
+
+
+// question: 23316  name: HAQ0052 
+::HAQ0052::[html]When using a component washer, a .............................. air blower is normally provided to remove the fluid from the component into the tray area and then back to the tank by gravity.{
+	=%100%low-pressure#
+	=%100%low pressure#
+}
+
+
+// question: 23317  name: HAQ0053 
+::HAQ0053::[html]Never use .............................. as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell.{
+	=%100%kerosene#
+}
+
+
+// question: 23318  name: HAQ0054 
+::HAQ0054::[html]Whenever using a pressure washer or tank type cleaner with solvents and cleaners make sure there is adequate exhaust ...............................{
+	=%100%ventilation#
+}
+
+
+// question: 23309  name: HAQ0060 
+::HAQ0060::[html]When using an angle grinder, hold the face of the disc against the work, not the ...............................{
+	=%100%edge#
+}
+
+
+// question: 23310  name: HAQ0061 
+::HAQ0061::[html]When using an angle grinder, be careful that the motor's .............................. does not cause the grinder to slip out of your hand.{
+	=%100%torque#
+}
+
+
+// question: 23319  name: HAQ0063 
+::HAQ0063::[html]Make sure that all the washing fluid is contained within the cleaning tray and returns to the reservoir. Washing solvents must not enter the ...............................{
+	=%100%environment#
+}
+
+
+// question: 23320  name: HAQ0064 
+::HAQ0064::[html]Pull the trigger and using a .............................. motion direct the high-pressure water onto the area to be cleaned to remove the contaminants.{
+	=%100%circular#
+}

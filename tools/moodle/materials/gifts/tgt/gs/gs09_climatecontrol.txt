@@ -1,0 +1,63 @@
+//name:TQ1241
+::TQ1241::If the ECU detects a change in condition it:{
+	=controls actuators to move dampers and valves.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~turns the air-conditioner on.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~changes the fan speed.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~Turns the air-conditioner off.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1242
+::TQ1242::Most climate controlled air-conditioning systems have the ability to display diagnostic codes. These can indicate:{
+	=all of these answers.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the signal may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the component may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the circuits whose signals may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+}
+
+
+//name:TQ1243
+::TQ1243::On a fully automatic climate controlled system, the fan speed is:{
+	=controlled by the ECU.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~fixed.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~set by the driver.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~controlled by the actuators.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1244
+::TQ1244::The function of the climate control system is to maintain cabin:{
+	=temperature to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~humidity to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~heat to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~coolness to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1245
+::TQ1245::If the climate control ECU detects a change in cabin condition it:{
+	=automatically changes the position of flaps, actuators, air-conditioner unit and fans to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically turns the air-conditioner on to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically turns the air-conditioner off to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically changes the fan speed to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+}
+
+
+//name:TQ1246
+::TQ1246::In a vehicle with climate control the functional temperature is set by:{
+	=the driver or a passenger.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the body control module.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the ambient sensor.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the manufacturer as a preset.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+}
+
+
+//name:TQ1254
+::TQ1254::What is the primary purpose of the ventilation system?{
+	=Occupant comfort.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Engine compartment cooling.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Windshield demisting.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Occupant safety.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+}
+
+

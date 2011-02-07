@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/mailers
+svn://curfew.jbpub.com/online
+
+
+
+2008-08-28T05:38:53.784513Z
+1197
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+application_mailer.rb
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+007cbe38c7c053ccd23d6a3ff15d9844
+2008-08-28T05:38:53.784513Z
+1197
+johnm
+

@@ -1,0 +1,81 @@
+//name:TQ1519
+::TQ1519::The main purpose of the harmonic balancer on the crankshaft is to:{
+	=reduce the effects of crankshaft torsional vibration.#The harmonic balancer, or vibration damper, is a device connected to the crankshaft to lessen the torsional vibration.
+	~balance crankshaft harmonics.#The harmonic balancer, or vibration damper, is a device connected to the crankshaft to lessen the torsional vibration.
+	~drive the alternator and fan.#The harmonic balancer, or vibration damper, is a device connected to the crankshaft to lessen the torsional vibration.
+	~balance the reciprocating masses.#The harmonic balancer, or vibration damper, is a device connected to the crankshaft to lessen the torsional vibration.
+}
+
+
+//name:TQ1520
+::TQ1520::What assists in controlling lateral movement of the crankshaft?{
+	=Crankshaft thrust bearing flanges.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+	~Main bearing shells.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+	~Big end bearings.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+	~Crankshaft lateral bearings.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+}
+
+
+//name:TQ1521
+::TQ1521::Passageways may be drilled in the crankshaft between the main bearing journals and the rod journals to:{
+	=maintain oil wedge between the shaft and the bearing.#Oil flow maintains the oil wedge between the shaft and bearing, and carries away particles that could cause wear.
+	~eliminate stress.#Oil flow maintains the oil wedge between the shaft and bearing, and carries away particles that could cause wear.
+	~assist crankshaft cooling.#Oil flow maintains the oil wedge between the shaft and bearing, and carries away particles that could cause wear.
+	~reduce torsional vibration.#Oil flow maintains the oil wedge between the shaft and bearing, and carries away particles that could cause wear.
+}
+
+
+//name:TQ1522
+::TQ1522::How is the soft bearing surface of engine slipper or shell bearings protected from damage by the hardened crankshaft?{
+	=The crankshaft runs on a thin wedge of oil.#The soft bearing surface also allows any hard abrasive particles to become embedded in the surface. They can become so deeply embedded, they are prevented from touching the rotating shaft by the film of oil.
+	~The bearing work-hardens.#The soft bearing surface also allows any hard abrasive particles to become embedded in the surface. They can become so deeply embedded, they are prevented from touching the rotating shaft by the film of oil.
+	~Anti-wear additives protect the bearings.#The soft bearing surface also allows any hard abrasive particles to become embedded in the surface. They can become so deeply embedded, they are prevented from touching the rotating shaft by the film of oil.
+	~Small particles prevent metal to metal contact.#The soft bearing surface also allows any hard abrasive particles to become embedded in the surface. They can become so deeply embedded, they are prevented from touching the rotating shaft by the film of oil.
+}
+
+
+//name:TQ1523
+::TQ1523::Main bearings:{
+	=support the crankshaft in the cylinder block.#The crankshaft rotates in the engine on journals which run in bearings called the main bearings.
+	~join the connecting rod to the crankshaft.#The crankshaft rotates in the engine on journals which run in bearings called the main bearings.
+	~support the camshaft in the cylinder block.#The crankshaft rotates in the engine on journals which run in bearings called the main bearings.
+	~join the connecting rod to the piston.#The crankshaft rotates in the engine on journals which run in bearings called the main bearings.
+}
+
+
+//name:TQ1524
+::TQ1524::Shell bearings designed for light duty are normally made of white metal on a steel backing. What does white metal consist of?{
+	=An alloy of tin and lead, with small amounts of copper and antimony.#It is the mix of metals, tin, lead, copper and others, into an alloy that makes this combination of hardness and softness.
+	~An alloy of tin and copper, with small amounts of lead and antimony.#It is the mix of metals, tin, lead, copper and others, into an alloy that makes this combination of hardness and softness.
+	~An alloy of lead and zinc, with small amounts of copper and antimony.#It is the mix of metals, tin, lead, copper and others, into an alloy that makes this combination of hardness and softness.
+	~An alloy of copper and zinc, with small amounts of lead and antimony.#It is the mix of metals, tin, lead, copper and others, into an alloy that makes this combination of hardness and softness.
+}
+
+
+//name:TQ1525
+::TQ1525::Why does a vehicle with automatic transmission use a light drive plate instead of a flywheel?{
+	=The torque converter adds extra weight needed.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+	~Automatic transmissions absorb engine vibration.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+	~Automatic transmission engines idle faster.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+	~Automatics are not as powerful.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+}
+
+
+//name:TQ1526
+::TQ1526::The purpose of the crankshaft is to:{
+	=convert reciprocating motion into rotary motion.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns that reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications, large and small.
+	~join the connecting rods to the pistons.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns that reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications, large and small.
+	~allow continuous movement of the pistons.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns that reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications, large and small.
+	~hold the connecting rods together.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns that reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications, large and small.
+}
+
+
+//name:TQ1527
+::TQ1527::What holds the spring-loaded valve stems in place?{
+	=Valve guides.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+	~Valve sleeves.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+	~Stem seats.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+	~Stem tubes.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+}
+
+

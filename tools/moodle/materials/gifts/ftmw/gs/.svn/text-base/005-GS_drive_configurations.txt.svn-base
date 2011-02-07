@@ -1,0 +1,118 @@
+// question: 23137  name: HAQ0309 
+::HAQ0309::[html]The engine can be .............................., and drive either the front wheels only, or, in 4-wheel-drive applications, the front and rear wheels.{
+	=%100%transverse#
+}
+
+
+// question: 23138  name: HAQ0310 
+::HAQ0310::[html]The engine can be transverse or longitudinal, and usually drives the .............................. wheels only.{
+	=%100%rear#
+}
+
+
+// question: 23139  name: HAQ0311 
+::HAQ0311::[html]The drive .............................. transfers turning effort from the engine to the driving wheels.{
+	=%100%train#
+}
+
+
+// question: 23140  name: HAQ0312 
+::HAQ0312::[html]A transaxle can also be used on front-engine, rear-wheel-drive vehicles, connected to the engine by a .............................. shaft.{
+	=%100%propeller#
+}
+
+
+// question: 23141  name: HAQ0320 
+::HAQ0320::[html]A vehicle with a manual transmission uses a .............................. to engage and disengage the engine from the drive train.{
+	=%100%clutch#
+}
+
+
+// question: 23142  name: HAQ0321 
+::HAQ0321::[html]The final drive provides a final gear .............................., to multiply the torque before applying it to the driving axles.{
+	=%100%reduction#
+}
+
+
+// question: 23143  name: HAQ0322 
+::HAQ0322::[html]High range is used for higher speeds, and light loads. .............................. shafts transmit the torque to the driving wheels.{
+	=%100%axle#
+}
+
+
+// question: 23144  name: HAQ0323 
+::HAQ0323::[html]For a front-wheel-drive vehicle, the drive shaft has .............................. joints to allow for suspension and steering movement.{
+	=%100%universal#
+}
+
+
+// question: 23145  name: HAQ0324 
+::HAQ0324::[html]The automatic transmission uses a torque .............................., which acts as a hydraulic coupling to transfer the drive.{
+	=%100%converter#
+}
+
+
+// question: 23146  name: HAQ0332 
+::HAQ0332::[html]When changing gears in a manual transmission, a .............................. shift and selectors are utilized.{
+	=%100%stick#
+}
+
+
+// question: 23147  name: HAQ0333 
+::HAQ0333::[html]In other vehicles, the stick shift can be attached to the steering column, they can be connected to the transmission by means of selector .............................. or cables.{
+	=%100%rods#
+}
+
+
+// question: 23148  name: HAQ0334 
+::HAQ0334::[html]The gear selector can be located beside the driver on the floor, often referred to as a 'T Bar' automatic. In other vehicles the gear selector is located on the .............................. column.{
+	=%100%steering#
+}
+
+
+// question: 23152  name: HAQ3436 
+::HAQ3436::[html]Multi-cylinder engines are produced in four common configurations. They are: Inline; "Vee"; Rotary; .............................. Opposed.{
+	=%100%horizontally#
+}
+
+
+// question: 23153  name: HAQ3437 
+::HAQ3437::[html]Inline engines can be mounted longitudinally (lengthwise) or transversely (sideways) in the engine bay. However, it is uncommon to find a longer 6-cylinder engine mounted ..............................{
+	=%100%transversely#
+}
+
+
+// question: 23154  name: HAQ3438 
+::HAQ3438::[html]"Vee" engines can be found in 2, 4, 6, 8, 10 and 12 cylinder configurations and consist of two banks of cylinders arranged in a Vee that is joined at the ..............................{
+	=%100%bottom#
+}
+
+
+// question: 23155  name: HAQ3439 
+::HAQ3439::[html]A Horizontally Opposed engine is only fitted ..............................{
+	=%100%longitudinally#
+}
+
+
+// question: 23156  name: HAQ3440 
+::HAQ3440::[html]A rotary engine uses a rotor which has three convex sides, attached to an .............................. shaft inside a specially shaped housing.{
+	=%100%eccentric#
+}
+
+
+// question: 23149  name: HAQ3447 
+::HAQ3447::[html]The location of the .............................. axle determines whether the vehicle is classified as: rear-wheel drive, front-wheel drive, 4-wheel drive, or all-wheel drive.{
+	=%100%driving#
+}
+
+
+// question: 23150  name: HAQ3448 
+::HAQ3448::[html]The torque from the engine is transmitted to the rear-mounted driving axle by .............................., or drive shaft.{
+	=%100%propeller#
+}
+
+
+// question: 23151  name: HAQ3449 
+::HAQ3449::[html]Moving the engine to the rear allows a lower hood profile, which improves ...............................{
+	=%100%aerodynamics#
+}

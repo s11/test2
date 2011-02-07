@@ -1,0 +1,4 @@
+- if access_agent.eql?(:browser)
+  = link_to image_tag('icons/information.png'), diagnostics_information_url(abbr(@attempt.classification)), :popup => ['diagnostics_information', 'height=500,width=350,location=no,status=no']
+- else
+  = link_to image_tag('icons/information.png'), diagnostics_information_url(abbr(@attempt.classification))

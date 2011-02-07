@@ -1,0 +1,99 @@
+//name:TQ1026
+::TQ1026::In a charged lead acid cell the electrolyte acid/water mixture is:{
+	=stronger.#Charge can be measured by using a hydrometer.
+	~weaker.#Charge can be measured by using a hydrometer.
+	~all acid.#Charge can be measured by using a hydrometer.
+	~all water.#Charge can be measured by using a hydrometer.
+}
+
+
+//name:TQ1027
+::TQ1027::In a discharged lead acid cell the active material of both plates is:{
+	=lead sulfate.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+	~lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+	~sponge lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+	~electrolyte.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+}
+
+
+//name:TQ1028
+::TQ1028::The active material on the positive plate in a fully charged lead-acid battery is:{
+	=lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+	~lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+	~lead oxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+	~lead sulfate.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+}
+
+
+//name:TQ1029
+::TQ1029::When charging a lead acid cell the active material of the positive plate changes from lead sulfate to:{
+	=lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~sponge lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~electrolyte.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+}
+
+
+//name:TQ1030
+::TQ1030::In an automotive lead acid battery, the negative plate when the battery is charged consists of:{
+	=sponge lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead sulfate.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead hydroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+}
+
+
+//name:TQ1031
+::TQ1031::The potentially explosive gas given off when charging a battery is:{
+	=hydrogen.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+	~oxygen.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+	~helium.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+	~nitrogen.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+}
+
+
+//name:TQ1032
+::TQ1032::Technician A says that the electrolyte allows the escape of hydrogen gas. Technician B says that the electrolyte allows transfer of heat away from the battery. Who is correct?{
+	=Technician A.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+	~Technician B.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+	~Both Technician A & Technician B.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+	~Neither Technician A or Technician B.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+}
+
+
+//name:TQ1033
+::TQ1033::An assembly consisting of a parallel group of negative plates, a parallel group of positive plates, separators and electrolyte is referred to as a:{
+	=battery.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+	~series accumulator.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+	~unit.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+	~battery.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+}
+
+
+//name:TQ1034
+::TQ1034::The electrolyte in an automotive lead acid battery is:{
+	=dilute sulfuric acid.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+	~hydrochloric acid.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+	~sulfur dioxide.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+	~nitric acid.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+}
+
+
+//name:TQ1035
+::TQ1035::Technician A says that the negative plates of the battery are immersed in distilled water. Technician B says that the positive plates of the battery are immersed in dilute hydrochloric acid. Who is correct?{
+	=Technician A.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+	~Technician B.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+	~Both Technician A & Technician B.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+	~Neither Technician A or Technician B.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+}
+
+
+//name:TQ1036
+::TQ1036::Technician A says that there are two types of battery cells, primary (non-rechargable) and secondary.  Technician B says there are two types of secondary cells, wet and dry.  Who is correct?{
+	=Technician A.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+	~Technician B.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+	~Both Technician A & Technician B.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+	~Neither Technician A or Technician B.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+}
+
+

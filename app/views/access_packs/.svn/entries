@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/views/access_packs
+svn://curfew.jbpub.com/online
+
+
+
+2010-01-19T14:06:37.987777Z
+3710
+paulm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+new.html.haml
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+9ebe1c2d7fb10cc3f418806162573b41
+2010-01-19T14:06:37.987777Z
+3710
+paulm
+

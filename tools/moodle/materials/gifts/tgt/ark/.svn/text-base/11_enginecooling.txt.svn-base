@@ -1,0 +1,45 @@
+//name:TQ1329
+::TQ1329::If water is put under higher than atmospheric pressure:{
+	=it boils at a higher temperature.#Changing water pressure changes the temperature at which it boils.
+	~it boils at a lower temperature.#Changing water pressure changes the temperature at which it boils.
+	~it boils at standard 'boiling point'.#Changing water pressure changes the temperature at which it boils.
+	~it doesn't boil.#Changing water pressure changes the temperature at which it boils.
+}
+
+
+//name:TQ1330
+::TQ1330::When can centrifugal force be useful?{
+	=When coolant enters a coolant pump moving the liquid outward.#Centrifugal force is a force pulling outward on a rotating body.
+	~When a flywheel is out of balance.#Centrifugal force is a force pulling outward on a rotating body.
+	~When a vehicle is turning a corner.#Centrifugal force is a force pulling outward on a rotating body.
+	~When a vehicle is moving in a straight line.#Centrifugal force is a force pulling outward on a rotating body.
+}
+
+
+//name:TQ1331
+::TQ1331::What is a positive use for electrolysis?{
+	=Manufacturing chemicals.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+	~Renovating corroded components.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+	~Cleaning dirty tools.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+	~Polishing camshafts.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+}
+
+
+//name:TQ1332
+::TQ1332::Thermo-switches can be:{
+	=mechanical or electrical.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+	~electronic or magnetic.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+	~mechanical or magnetic.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+	~electrical or chemical.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+}
+
+
+//name:TQ1333
+::TQ1333::How do you make the thermo-switch break the circuit?{
+	=By cooling it.#Cooling the thermo-switch produces the opposite effect of heating it, breaking the circuit.
+	~By reversing the current.#Cooling the thermo-switch produces the opposite effect. Breaking the circuit, and closing the passage.
+	~By turning off the current.#Cooling the thermo-switch produces the opposite effect. Breaking the circuit, and closing the passage.
+	~By reducing the voltage.#Cooling the thermo-switch produces the opposite effect. Breaking the circuit, and closing the passage.
+}
+
+

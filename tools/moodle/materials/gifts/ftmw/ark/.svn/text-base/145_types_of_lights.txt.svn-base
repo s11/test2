@@ -1,0 +1,128 @@
+// question: 32567  name: HAQ2925 
+::HAQ2925::[html]Stop lights are red lights fitted to the ................. of the vehicle.{
+	=%100%rear#
+}
+
+
+// question: 32568  name: HAQ2926 
+::HAQ2926::[html]When the operator of the vehicle depresses the brake pedal, a switch mounted on the pedal support is .................{
+	=%100%closed#
+}
+
+
+// question: 32569  name: HAQ2927 
+::HAQ2927::[html]When the driver releases the ................., it returns to the rest position and open circuits the stoplight circuit.{
+	=%100%pedal#
+	=%100%brake pedal#
+}
+
+
+// question: 32570  name: HAQ2928 
+::HAQ2928::[html]The reversing lights are white lights fitted to the rear of a vehicle. They provide the driver with vision behind the vehicle at night, and also alert other drivers to the fact that the vehicle is to be .................{
+	=%100%reversed#
+}
+
+
+// question: 32571  name: HAQ2929 
+::HAQ2929::[html]When the ignition switch is on and the vehicle is placed in reverse gear current flows from the battery, through the ignition switch, to the closed reversing light switch on the .................{
+	=%100%transmission#
+}
+
+
+// question: 32572  name: HAQ2930 
+::HAQ2930::[html]A column mounted switch, operated by the driver, directs a pulsing ................. to the indicator lights on one side of the vehicle or the other.{
+	=%100%current#
+}
+
+
+// question: 32573  name: HAQ2931 
+::HAQ2931::[html]Once activated, indicators continue until the switch is cancelled either by the operator or by a cancelling mechanism in the .................{
+	=%100%switch#
+}
+
+
+// question: 32574  name: HAQ2932 
+::HAQ2932::[html]If the indicator switch is turned on, the flasher unit uses a timing ................. to pulse the current flowing out of the flasher unit 60 to 120 times per minute.{
+	=%100%circuit#
+}
+
+
+// question: 32575  name: HAQ2933 
+::HAQ2933::[html]Modern headlights are electrically operated, positioned in pairs, one or two on each side of the ................. of a moving vehicle.{
+	=%100%front#
+}
+
+
+// question: 32576  name: HAQ2934 
+::HAQ2934::[html]A headlamp system is required to produce a low and a ................. beam, which may be achieved either by an individual lamp for each function or by a single multifunction lamp.{
+	=%100%high#
+}
+
+
+// question: 32577  name: HAQ2935 
+::HAQ2935::[html]HID lights produce light by striking an electrical arc across tungsten electrodes housed inside a specially designed inner fused quartz or fused alumina tube. This tube is filled with both ................. and metals.{
+	=%100%gas#
+}
+
+
+// question: 32578  name: HAQ2936 
+::HAQ2936::[html]HID headlights systems do not use a ................. in the bulb.{
+	=%100%filament#
+}
+
+
+// question: 32579  name: HAQ2937 
+::HAQ2937::[html]They have the inert gas Xenon inside the bulb, with two electrodes that have an air gap between them in a glass tube. A high voltage is applied between the ................. This causes an arc to form, which vaporizes the gases and solids so they emit a bright light.{
+	=%100%electrodes#
+}
+
+
+// question: 32580  name: HAQ2938 
+::HAQ2938::[html]The driving lights are fitted to the ................. of the vehicle and provide higher intensity illumination over longer distances than standard headlight systems.{
+	=%100%front#
+}
+
+
+// question: 32581  name: HAQ2939 
+::HAQ2939::[html]Driving lights are wired so that they only operate when ................. beam is operating.{
+	=%100%high#
+}
+
+
+// question: 32582  name: HAQ2940 
+::HAQ2940::[html]Fog lights can help drivers see further ahead and illuminate the road's edges at reasonable speeds and are used with 'park' lights instead of .................{
+	=%100%headlights#
+}
+
+
+// question: 32583  name: HAQ2941 
+::HAQ2941::[html]Fog lights will normally be wired with a relay and circuit breaker. The method of connection of fog lights will depend on local regulations. They may be wired to work only with park lights and to turn ................. when headlights are used.{
+	=%100%off#
+}
+
+
+// question: 32584  name: HAQ2942 
+::HAQ2942::[html]Cornering lights are white colored lights usually fitted into the bumper bar and are designed to provide side light when the ................. is turning corners.{
+	=%100%vehicle#
+}
+
+
+// question: 32585  name: HAQ2943 
+::HAQ2943::[html]Cornering lights turn on only when the headlights and turn signal switches are on, so they only come on when the vehicle is turning the corner, and turn off automatically when the turn signal turns .................{
+	=%100%off#
+}
+
+
+// question: 32586  name: HAQ2944 
+::HAQ2944::[html]Auto leveling headlights use a ................. to monitor the angle of the vehicle to the road.{
+	=%100%sensor#
+}
+
+
+// question: 32587  name: HAQ2945 
+::HAQ2945::[html]Some types of headlights can improve forward lighting while cornering. In this system sensors from the ................. provide information to a control module that operates servo motors fitted to the headlights, causing them to swivel.{
+	=%100%steering wheel#
+}
+
+
+

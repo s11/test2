@@ -1,0 +1,55 @@
+// question: 31205  name: HAQ2480 
+::HAQ2480::[html]Check free play - With the vehicle raised and the wheels in a condition where they can be rotated by hand, mark a point on the axle casing and also make a corresponding mark on the .................{
+	=%100%flange#
+}
+
+
+// question: 31206  name: HAQ2481 
+::HAQ2481::[html]Mount a ................. onto the axle casing and clip a metal tag onto the pinion flange. Different manufacturers have ways of doing this, so follow the vehicle service manual procedures for the vehicle you are working on.{
+	=%100%dial indicator#
+}
+
+
+// question: 31207  name: HAQ2482 
+::HAQ2482::[html]Hold the road wheel by putting one hand on it, and then put your other hand around the drive shaft, so you can twist it back and forth. Feel and note the amount of ................. before the road wheel begins to turn.{
+	=%100%movement#
+}
+
+
+// question: 31208  name: HAQ2483 
+::HAQ2483::[html]Check drive shaft joints - On any rear wheel drive vehicles, including pick-ups and SUVs, inspect the drive shaft universal joints for signs of excess movement or .................{
+	=%100%rust#
+}
+
+
+// question: 31209  name: HAQ2484 
+::HAQ2484::[html]With the vehicle driving wheels in a raised condition where they can be rotated, turn the steering wheel to ................. lock, and rotate the road wheel.{
+	=%100%maximum#
+}
+
+
+// question: 31210  name: HAQ2485 
+::HAQ2485::[html]If noise increases and decreases in intensity in relation to the rotational ................., the joint needs replacing, and you should report your findings to your supervisor.{
+	=%100%speed#
+}
+
+
+// question: 31211  name: HAQ2486 
+::HAQ2486::[html]Check gearbox/differential oil - Raise the vehicle on a hoist and make sure it is level. Find the ................. plug, referring to the shop manual if necessary.{
+	=%100%filler#
+}
+
+
+// question: 31212  name: HAQ2487 
+::HAQ2487::[html]Check the plug for damage to the thread, and sealing gasket if it exists. Install a new .................{
+	=%100%gasket#
+}
+
+
+// question: 31213  name: HAQ2488 
+::HAQ2488::[html]Check final drive oil level - On four wheel drive vehicles; repeat this procedure on the front final ................. unit.{
+	=%100%drive#
+}
+
+
+

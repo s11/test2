@@ -1,0 +1,11 @@
+- if ['identify', 'rectify'].include?(abbr(@attempt.classification))
+  %h1{:id => 'resultverify'}
+    &nbsp;
+  %p
+    = @exam.attempts.verification.successful.first.result
+
+- if ['rectify'].include?(abbr(@attempt.classification))
+  %h1{:id => 'resultidentify'}
+    &nbsp;
+  %p
+    = @exam.attempts.identification.successful.first.result

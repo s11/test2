@@ -1,0 +1,195 @@
+// question: 27920  name: HAQ1300 
+::HAQ1300::[html]The amount of fuel injected is varied to suit the ................. on the engine, and to control engine speed. Intake air volume does not change.{
+	=%100%load#
+}
+
+
+// question: 27921  name: HAQ1301 
+::HAQ1301::[html]A ................. pump takes fuel from the tank.{
+	=%100%lift#
+}
+
+
+// question: 27922  name: HAQ1302 
+::HAQ1302::[html]A ................. removes any water, and larger particles in the fuel.{
+	=%100%sedimenter#
+}
+
+
+// question: 27923  name: HAQ1303 
+::HAQ1303::[html]Dirt and water will damage a diesel fuel injection system. The highly polished components need a very efficient ................. system to ensure all traces of dirt and water are removed.{
+	=%100%filtration#
+}
+
+
+// question: 27924  name: HAQ1304 
+::HAQ1304::[html]The highly-polished finish is achieved by lapping 2 components together to form a matched set. Matched components must not be interchanged after ................. is completed.{
+	=%100%lapping#
+}
+
+
+// question: 27925  name: HAQ1305 
+::HAQ1305::[html]A light-automotive diesel engine typically has a higher ................. ratio than a comparable gasoline engine.{
+	=%100%compression#
+}
+
+
+// question: 27926  name: HAQ1306 
+::HAQ1306::[html]The injector pump can be an in-line type, and it is driven by the engine. Or it can be a ................. type, also driven by the engine.{
+	=%100%rotary#
+}
+
+
+// question: 27927  name: HAQ1307 
+::HAQ1307::[html]A characteristic of all diesel engines is that at a fixed fuel setting, the amount of fuel delivered to the engine will increase as engine speed, and pump speed increases. This is called the ................. characteristic of the fuel injection system, and unless it is controlled, over-speeding of the engine will result.{
+	=%100%rising#
+}
+
+
+// question: 27928  name: HAQ1308 
+::HAQ1308::[html]There are several types of governors. Some operate mechanically, some are ................., and some are hydraulic.{
+	=%100%pneumatic#
+}
+
+
+// question: 27929  name: HAQ1309 
+::HAQ1309::[html]Indirect injection engines may also use heater plugs, or glow plugs, which usually screw directly into the   combustion chamber. They only heat the ................., and do not begin the combustion.{
+	=%100%air#
+}
+
+
+// question: 27930  name: HAQ1310 
+::HAQ1310::[html]What is commonly sold in a service station is highly ................., and is suitable for use in high-speed diesel engines, including those in light automotive use.{
+	=%100%refined#
+}
+
+
+// question: 27931  name: HAQ1311 
+::HAQ1311::[html]Diesel knock can also be caused by poor ................. of the fuel, which can take too long to reach combustion temperature.{
+	=%100%atomisation#
+	=%100%atomization#
+}
+
+
+// question: 27932  name: HAQ1312 
+::HAQ1312::[html]Diesel engines are also required to operate in low temperatures. During low temperatures, the fuel becomes thicker. If the temperature is too low, ................. in the fuel begin to solidify, and form waxes.{
+	=%100%paraffins#
+}
+
+
+// question: 27933  name: HAQ1313 
+::HAQ1313::[html]Diesel fuel also acts as a ................. for the fuel system components - provided it is free of water, and abrasive particles.{
+	=%100%lubricant#
+}
+
+
+// question: 27934  name: HAQ1314 
+::HAQ1314::[html]One of the main factors that affect the performance of diesel fuel is the ................. rating of the fuel.{
+	=%100%cetane#
+}
+
+
+// question: 27935  name: HAQ1315 
+::HAQ1315::[html]One of the main factors that affect the performance of diesel fuel is the extent to which the fuel is .................{
+	=%100%contaminated#
+}
+
+
+// question: 27936  name: HAQ1316 
+::HAQ1316::[html]When the fuel temperature drops to the fuel's cloud point, paraffin waxes that occur naturally in diesel fuel ................. and cling together, making the fuel appear cloudy.{
+	=%100%crystallise#
+	=%100%crystallize#
+}
+
+
+// question: 27937  name: HAQ1317 
+::HAQ1317::[html]Clouding can be combated by using fuels with a lower cloud point, providing ................. to the tanks, or including a cloud point improver to the fuel.{
+	=%100%heat#
+}
+
+
+// question: 27938  name: HAQ1318 
+::HAQ1318::[html]Water traps or ................. are very important in diesel fuel systems.{
+	=%100%separators#
+}
+
+
+// question: 27939  name: HAQ1319 
+::HAQ1319::[html]Cetane number or CN is to diesel fuel what octane rating is to gasoline. It is a measure of the fuel's ................. quality.{
+	=%100%combustion#
+}
+
+
+// question: 27940  name: HAQ1320 
+::HAQ1320::[html]Since there are hundreds of components in diesel fuel, with each having a different cetane quality, the overall  cetane number of the diesel is the ................. cetane quality of all the components.{
+	=%100%average#
+}
+
+
+// question: 27941  name: HAQ1321 
+::HAQ1321::[html]For most practical purposes, people control quality using the Cetane Index, which is a calculated number based on the density and ................. range of the oil.{
+	=%100%distillation#
+}
+
+
+// question: 27942  name: HAQ1322 
+::HAQ1322::[html]There is no performance or ................. advantage when the CN is raised past 50; after this point, the fuel's performance hits a plateau.{
+	=%100%emission#
+}
+
+
+// question: 27943  name: HAQ1323 
+::HAQ1323::[html]Premium diesel has additives to improve CN and lubricity, detergents to clean the fuel injectors and minimize ................. deposits, water dispersants, and other additives depending on geographical and seasonal needs.{
+	=%100%carbon#
+}
+
+
+// question: 27945  name: HAQ1325 
+::HAQ1325::[html]Smooth up-down piston transition requires  precise timing of the delivery rate, for differing ................. and load conditions.{
+	=%100%speed#
+}
+
+
+// question: 27946  name: HAQ1326 
+::HAQ1326::[html]Smooth up-down piston transition requires ................. timing of fuel injection.{
+	=%100%precise#
+}
+
+
+// question: 27947  name: HAQ1327 
+::HAQ1327::[html]Both in-line and rotary pumps use individual high-pressure (injection) lines to deliver fuel to nozzleholder-assemblies (NHA) on the cylinder head, but such long injection lines radiate undesired noise and add to injection lag, and parts sometimes suffered from ................. erosion.{
+	=%100%cavitation#
+}
+
+
+// question: 27948  name: HAQ1328 
+::HAQ1328::[html]Helping to make today's diesels even more clean and quiet while offering 20 percent better mileage are new '.................' style injectors which no longer rely on mechanical or solenoid actuation.{
+	=%100%piezo#
+	=%100%Piezo#
+}
+
+
+// question: 27949  name: HAQ1329 
+::HAQ1329::[html]Fuel injection is now done under much ................. pressures for complete atomization of fuel sprayed directly into the superheated air of the combustion chamber.{
+	=%100%higher#
+}
+
+
+// question: 27950  name: HAQ1330 
+::HAQ1330::[html]To reduce ignition clatter at idle, a smaller '.................' spray initiates the combustion cycle, with greater amounts of fuel following ignition.{
+	=%100%pilot#
+}
+
+
+// question: 27951  name: HAQ1331 
+::HAQ1331::[html]The fuel injection industry is moving away from mechanically governed in-line and distributor-type injection pumps to common rail systems (CRS), ................. electronically controlled unit injectors (HEUI) and much more.{
+	=%100%hydraulic#
+}
+
+
+// question: 27952  name: HAQ1332 
+::HAQ1332::[html]Turbocharging (for improved swirl and greater air volume) and airto-air intake ................. (to cool down the compressed intake air) increase volumetric efficiency and reduce NOx.{
+	=%100%intercoolers#
+}
+
+

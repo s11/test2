@@ -1,0 +1,45 @@
+//name:TQ1539
+::TQ1539::What should you do before disconnecting any cables from any engine components?{
+	=Attach a numbered label to them.#Put a piece of masking tape or insulating tape as a label around every single wire, cable, hose, or linkage, and write a number on it. Put each number into a notebook, and using the repair manual as a reference to help you identify it exactly, write down the name of the component and what it was connected to.
+	~Test them with a volt meter to make sure they are not live.#Put a piece of masking tape or insulating tape as a label around every single wire, cable, hose, or linkage, and write a number on it. Put each number into a notebook, and using the repair manual as a reference to help you identify it exactly, write down the name of the component and what it was connected to.
+	~Coil them up and secure them with a cable tie.#Put a piece of masking tape or insulating tape as a label around every single wire, cable, hose, or linkage, and write a number on it. Put each number into a notebook, and using the repair manual as a reference to help you identify it exactly, write down the name of the component and what it was connected to.
+	~Attach an earth lead to the other end of the cable.#Put a piece of masking tape or insulating tape as a label around every single wire, cable, hose, or linkage, and write a number on it. Put each number into a notebook, and using the repair manual as a reference to help you identify it exactly, write down the name of the component and what it was connected to.
+}
+
+
+//name:TQ1540
+::TQ1540::How are radiator mounting brackets usually held in place?{
+	=Bolts.#Most radiator brackets are held in place with only a few bolts. Remove these and lift the radiator up and out, but make sure that your coolant container is back underneath the vehicle, because there may still be some coolant leakage from the bottom.
+	~Bracket clips.#Most radiator brackets are held in place with only a few bolts. Remove these and lift the radiator up and out, but make sure that your coolant container is back underneath the vehicle, because there may still be some coolant leakage from the bottom.
+	~They slide into grooves and are held with clips.#Most radiator brackets are held in place with only a few bolts. Remove these and lift the radiator up and out, but make sure that your coolant container is back underneath the vehicle, because there may still be some coolant leakage from the bottom.
+	~Wing nuts.#Most radiator brackets are held in place with only a few bolts. Remove these and lift the radiator up and out, but make sure that your coolant container is back underneath the vehicle, because there may still be some coolant leakage from the bottom.
+}
+
+
+//name:TQ1541
+::TQ1541::With automatic transmissions, the disc that connects the crankshaft and transmission is called the:{
+	=flexplate.#On a manual transmission the disc is called a flywheel and has other parts of the clutch assembly connected to it. An automatic transmission has a torque converter instead of the clutch assembly.
+	~clutch disc.#On a manual transmission the disc is called a flywheel and has other parts of the clutch assembly connected to it. An automatic transmission has a torque converter instead of the clutch assembly.
+	~flywheel.#On a manual transmission the disc is called a flywheel and has other parts of the clutch assembly connected to it. An automatic transmission has a torque converter instead of the clutch assembly.
+	~torque plate.#On a manual transmission the disc is called a flywheel and has other parts of the clutch assembly connected to it. An automatic transmission has a torque converter instead of the clutch assembly.
+}
+
+
+//name:TQ1542
+::TQ1542::To connect a lifting chain or plate to an engine, you should use:{
+	=high strength alloy bolts.#Use a chain that is rated to hold at least fifteen hundred pounds or about three quarters of a metric ton. Connect it diagonally from one bolt hole in the back of head to the same bolt hole in the front of the head.
+	~tempered cast iron bolts.#Use a chain that is rated to hold at least fifteen hundred pounds or about three quarters of a metric ton. Connect it diagonally from one bolt hole in the back of head to the same bolt hole in the front of the head.
+	~lifting bolts.#Use a chain that is rated to hold at least fifteen hundred pounds or about three quarters of a metric ton. Connect it diagonally from one bolt hole in the back of head to the same bolt hole in the front of the head.
+	~cable ties.#Use a chain that is rated to hold at least fifteen hundred pounds or about three quarters of a metric ton. Connect it diagonally from one bolt hole in the back of head to the same bolt hole in the front of the head.
+}
+
+
+//name:TQ1543
+::TQ1543::When removing the exhaust flange nuts, it is advisable to:{
+	=use a six-point socket.#Exhaust bolts can often be corroded and sometimes they are completely seized. One way to minimize the risk of stripping a bolt or nut is to make sure you use six point tools instead of twelve point.
+	~use a twelve-point socket.#Exhaust bolts can often be corroded and sometimes they are completely seized. One way to minimize the risk of stripping a bolt or nut is to make sure you use six point tools instead of twelve point.
+	~use an impact socket.#Exhaust bolts can often be corroded and sometimes they are completely seized. One way to minimize the risk of stripping a bolt or nut is to make sure you use six point tools instead of twelve point.
+	~use a nut splitting tool.#Exhaust bolts can often be corroded and sometimes they are completely seized. One way to minimize the risk of stripping a bolt or nut is to make sure you use six point tools instead of twelve point.
+}
+
+

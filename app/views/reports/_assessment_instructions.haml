@@ -1,0 +1,62 @@
+- case params[:type]
+- when 'activity'
+  - information_box do
+    %p The Student Activity Report records the time students spend learning in the CDX content. It does not record time spent in quizzes, tests or diagnostics.
+    %p Students must remain active in the content. If they cease to move through the content then they will be deemed to have abandoned the session and the time will be recorded as a nominal 5 minutes.
+    %p You can use the filters to select and manage the display of your data, and you can sort on any column by clicking on the column heading.
+    %p Data can be saved or exported as a printable PDF file or as a .csv file for import into excel or other programs.
+
+- when 'assessment'
+  - case params[:assessment_type]
+  - when 'final_exams'
+    - information_box do
+      %p The Final Exam reporting allows you to keep track of progress in the Final Exams. You can review the results at a high level or you can drill down to see more detailed results by selecting a specific category and a specific topic.
+      %p The Grade Type filter allows you to display the highest, lowest or average result.
+      %p You can sort the table by clicking on a column heading. You can use the date filter to limit your view to a day or a week, so you can check to see what students have done, and then you can use the CDX messaging system to follow up as necessary.
+      %p Data can be saved or exported as a printable PDF file or as a .csv file for import into excel or other programs.
+      %p Instructors can view submitted exams and review an analysis of results from the menu by selecting Assessments - Quizzes and Tests and then selecting a specific exam.
+      %p All exam results are standardized out of 10.
+
+  - when 'practice_exams'
+    - information_box do
+      %p The Practice Exam reporting allows you to keep track of progress in the Practice Exams. You can review the results at a high level or you can drill down to see more detailed results by selecting a specific category and a specific topic.
+      %p The Grade Type filter allows you to display the highest, lowest or average result.
+      %p You can sort the table by clicking on a column heading. You can use the date filter to limit your view to a day or a week, so you can check to see what students have done, and then you can use the CDX messaging system to follow up as necessary.
+      %p Data can be saved or exported as a printable PDF file or as a .csv file for import into excel or other programs.
+      %p Instructors can view submitted exams and review an analysis of results from the menu by selecting Assessments - Quizzes and Tests and then selecting a specific exam.
+      %p All exam results are standardized out of 10.
+
+  - when 'find_the_missing_word_quizzes'
+    - information_box do
+      %p Find the Missing Word reporting allows you to keep track of progress in the hundreds of Find the Missing Word Activities. You can review the results at a high level or you can drill down to see more detailed results by selecting a specific category and a specific topic.
+      %p The Grade Type filter allows you to display the highest, lowest or average result.
+      %p You can sort the table by clicking on a column heading. You can use the date filter to limit your view to a day or a week, so you can check to see what students have done, and then you can use the CDX messaging system to follow up as necessary.
+      %p Data can be saved or exported as a printable PDF file or as a .csv file for import into excel or other programs
+
+  - when 'topic_group_tests'
+    - information_box do
+      %p Topic Group Test Assessment reporting allows you to keep track of progress in the in the hundreds of topic tests. You can review all tests at a high level or you can drill down to see more detailed results by selecting a specific category and a specific topic.
+      %p The Grade Type filter allows you to display the highest, lowest or average result.
+      %p You can sort the table by clicking on a column heading. You can use the date filter to limit your view to a day or a week, so you can check to see what students have done, and then you can use the CDX messaging system to follow up as necessary.
+      %p Data can be saved or exported as a printable PDF file or as a .csv file for import into excel or other programs.
+      %p All exam results are standardized out of 10.
+
+- when 'diagnostics'
+  - information_box do
+    %p Diagnostic Assessment reporting allows you to keep track of progress in the in the CDX Diagnostics. You can review the results for All Systems or you can drill down to a specific Category to see the results across all scenarios in that category.
+    %p The Grade Type filter allows you to display the highest, lowest or average result.
+    %p You can sort the table by clicking on a column heading. You can use the date filter to limit your view to a day or a week.
+    %p Data can be saved or exported as a printable PDF file or as a .csv file for subsequent import into Excel or other programs.
+
+- when 'tasksheet'
+  - information_box do
+    %p Tasksheet reporting allows you to keep track of progress in the workshop using the CDX Tasksheets. Teachers and students can review and print reports on student completion of workshop tasks, documenting dates and outcomes, task-by-task. Instructors can see, print and export class reports and students can generate their individual reports.
+    
+    - if current_menu.has_natef_selection?
+      %p The reports are mapped to the ASE areas and measured against the NATEF targets of 95% Priority 1 tasks (P1s), 80% Priority 2 tasks (P2s) and 50% Priority 3 tasks (P3s). The colored bars provide a visual representation of the students’ progress against these targets.
+    - else
+      %p The number of CDX Tasksheets competed is shown as a percentage of the total number of tasksheets available in that CDX Topic Area.
+
+    %p There are additional filters that allow you to filter by grade level. >= means greater than or equal to, so >= 2 Limited Practice will show students with a grade of 2, 3 or 4.
+    %p Filter your data and select PDF to print a report, or CSV to export data that can then be used by Excel or other admin programs.
+    %p Please note that the data contained in the CSV export is in seconds.

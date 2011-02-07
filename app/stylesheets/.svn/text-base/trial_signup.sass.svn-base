@@ -1,0 +1,155 @@
+.center, .centre
+  :text-align center
+
+.success, .error
+  :border-width 1px
+  :border-style solid
+  :font-weight bold
+  :padding 0.5em 1em
+  :margin-bottom 1em
+
+.success
+  :background-color #dfd
+  :border-color #090
+
+.error
+  :background-color #fdd
+  :border-color #900
+
+#doc3
+  :margin 0
+  :padding 0
+
+  #hd
+    :background-color rgb(33, 54, 139)
+    :padding 1em
+  
+  #bd
+    .fieldWithErrors
+      :margin 0
+      :padding 0
+      :display inline
+
+    :padding 1em
+
+    fieldset div
+      :margin 0.3em 0
+      :clear both
+
+    form
+      :line-height 1.75em
+      :margin 0 auto
+      :width 512px
+      .required
+        .help
+          :background-color rgb(113, 134, 219)
+          :color #fff
+          :display none
+          :float right
+          :font-weight bold
+          :margin 0
+          :padding 0 0.5em
+          :-moz-border-radius 0.4em
+          :-khtml-border-radius 0.4em
+          :-webkit-border-radius 0.4em
+          &:hover
+            :background-color rgb(33, 54, 139)
+
+        input, select
+          :background-color #fee
+
+    label
+      :float left
+      :line-height 1.75em
+      :width 33%
+      :text-align right
+      :margin-right 1em
+
+    legend
+      :color #0b77b7
+      :font-size 108%
+      :padding 0 1em
+
+    legend span
+      :width 10em
+      :text-align right
+
+    input, select
+      :color #444
+      :padding 0.25em
+      :width 50%
+      :border 1px solid #ddd
+      :background #fafafa
+      :font-weight bold
+      :-moz-border-radius 0.4em
+      :-khtml-border-radius 0.4em
+      :-webkit-border-radius 0.4em
+
+    input:hover, input:focus
+      :border-color #c5c5c5
+      :background #f6f6f6
+
+    fieldset
+      :border 1px solid #ddd
+      :padding 0 0.5em 0.5em
+
+    .date
+      input
+        :background-image url(../gfx/calendar-small.gif)
+        :background-repeat no-repeat
+        :background-position 100% 50%
+
+      fieldset label
+        :float none
+        :display block
+        :text-align left
+        :width auto
+
+      fieldset div
+        :float left
+        :clear none
+        :margin-right 0.2em
+
+    .radio, .date
+      :position relative
+
+    .radio fieldset, .date fieldset
+      :border none
+      :width auto
+      :padding 1px 0 0 11em
+
+    .radio legend, .date legend
+      :font-size 1em
+      :color #000
+
+    .radio legend span, .date legend span
+      :position absolute
+      :left 0
+      :top 0.3em
+      :width 10em
+      :display block
+
+    .radio
+      label, input
+        :vertical-align middle
+        :display inline
+        :float none
+        :width auto
+        :background none
+        :border none
+
+      div
+        :float left
+        :white-space nowrap
+        :clear none
+
+    .email
+      :width 14em
+
+    input.default
+      :color #bbb
+
+    input.submit
+      &:hover
+        :background-color  #dfd
+        :border 1px solid #9f9

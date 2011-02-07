@@ -1,0 +1,14 @@
+- information_box do
+  %p The default video format is Windows Media Video. Selecting Flash Video can deliver higher quality video and audio, typically with smaller file sizes.
+  %p To enable the new flash video format your IT department must permit users to access .flv files from the CDX servers.
+
+.radio-button
+  = f.radio_button :prefers_flash_video, "true"
+  = f.label :prefers_flash_video_true, "Flash Video"
+
+.radio-button
+  = f.radio_button :prefers_flash_video, "false"
+  = f.label :prefers_flash_video_false, "Windows Media Video"
+
+%br
+.centre= update_button_tag

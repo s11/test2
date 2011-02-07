@@ -1,0 +1,36 @@
+//name:TQ1162
+::TQ1162::The main beam of a vehicle's head lights provides a:{
+	=bright light for highway driving.#Headlights can be supported by the use of other lights like driving lights.
+	~spot light for highway driving.#Headlights can be supported by the use of other lights like driving lights.
+	~spot light for higher speed driving.#Headlights can be supported by the use of other lights like driving lights.
+	~bright light for urban driving.#Headlights can be supported by the use of other lights like driving lights.
+}
+
+
+//name:TQ1164
+::TQ1164::Indicators or turn lights are used to let other road users know that:{
+	=the driver is about to change the direction of their travel depending on what side the lights are activated.#A flasher unit connected in series with the lights causes them to flash.
+	~the driver is about to make a right hand turn.#A flasher unit connected in series with the lights causes them to flash.
+	~the vehicle is about to make a left hand turn.#A flasher unit connected in series with the lights causes them to flash.
+	~the driver is intending to reverse the vehicle.#A flasher unit connected in series with the lights causes them to flash.
+}
+
+
+//name:TQ1166
+::TQ1166::How are the stop lamp bulbs connected in relation to each other?{
+	=In parallel.#Most lighting systems on the vehicle are connected in parallel.
+	~In series.#Most lighting systems on the vehicle are connected in parallel.
+	~In series/parallel.#Most lighting systems on the vehicle are connected in parallel.
+	~None of these answers.#Most lighting systems on the vehicle are connected in parallel.
+}
+
+
+//name:TQ1167
+::TQ1167::Which of the following is not a part of the reverse light circuit?{
+	=Brake light switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Reverse light switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Ignition switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Vehicle battery.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+}
+
+

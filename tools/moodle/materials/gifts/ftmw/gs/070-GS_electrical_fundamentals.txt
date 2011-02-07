@@ -1,0 +1,149 @@
+// question: 29874  name: HAQ2489 
+::HAQ2489::[html]All questions about the nature of electricity lead to the composition of matter. All matter is made up of ..............................{
+	=%100%atoms#
+}
+
+
+// question: 29875  name: HAQ2490 
+::HAQ2490::[html]Every atom has a nucleus, with positively - charged protons, and .............................. with no charge.{
+	=%100%neutrons#
+}
+
+
+// question: 29876  name: HAQ2491 
+::HAQ2491::[html]Moving around the nucleus are .............................. -charged electrons.{
+	=%100%negatively#
+}
+
+
+// question: 29877  name: HAQ2492 
+::HAQ2492::[html]In some materials, there are electrons called free electrons, only loosely held by the ..............................{
+	=%100%nucleus#
+}
+
+
+// question: 29878  name: HAQ2493 
+::HAQ2493::[html]In .............................., electrons are bound much more tightly to the nucleus.{
+	=%100%insulators#
+}
+
+
+// question: 29879  name: HAQ2494 
+::HAQ2494::[html]Unlike charges attract, so the electrons are also attracted towards the positive terminal. They flow in one direction only. This is called direct current or ..............................{
+	=%100%DC#
+}
+
+
+// question: 29880  name: HAQ2495 
+::HAQ2495::[html]The attraction of free electrons to the positive terminal acts as a force driving the electrons along. The force is called electromotive force or EMF. It's also known as '..............................'.{
+	=%100%voltage#
+}
+
+
+// question: 29881  name: HAQ2496 
+::HAQ2496::[html]Also affecting the current flow in a circuit is electrical resistance, measured in .............................. All materials have resistance - even good conductors.{
+	=%100%ohms#
+	=%100%Ohms#
+}
+
+
+// question: 29882  name: HAQ2497 
+::HAQ2497::[html]The higher the temperature, the harder it is for electrons to pass through the conductor and the higher the ..............................{
+	=%100%resistance#
+	=%100%R#
+}
+
+
+// question: 29883  name: HAQ2498 
+::HAQ2498::[html]Current said to flow from positive to negative, is called conventional current. Current said to flow from negative to positive, is called .............................. current.{
+	=%100%electron#
+}
+
+
+// question: 29884  name: HAQ2499 
+::HAQ2499::[html]Automotive applications mostly use .............................. such as diodes, transistors, and power transistors.{
+	=%100%semi-conductors#
+	=%100%semiconductors#
+}
+
+
+// question: 29885  name: HAQ2500 
+::HAQ2500::[html]A semiconductor's conducting ability depends on two kinds of charge carriers: The first is familiar - the .............................. electron. This kind of semiconductor contains an excess of free electrons.{
+	=%100%negative#
+	=%100%-ve#
+}
+
+
+// question: 29886  name: HAQ2501 
+::HAQ2501::[html]Since negative electrons have been lost, they are called positive holes. And because they are .............................., a voltage can make them move, towards the negative pole.{
+	=%100%positive#
+	=%100%+ve#
+}
+
+
+// question: 29887  name: HAQ2502 
+::HAQ2502::[html]Most electronic components combine p-type and n-type semi-conductors. Where they join is called the p-n .............................., an area where some electrons and holes cancel each other out.{
+	=%100%junction#
+}
+
+
+// question: 29888  name: HAQ2503 
+::HAQ2503::[html]A semiconductor diode has a single p-n junction. If it is connected to a current source, so that the p region is connected to a negative pole, and the n-region to a .............................. pole, the negative pole attracts the holes, and the positive pole, the electrons.{
+	=%100%positive#
+	=%100%+ve#
+}
+
+
+// question: 29889  name: HAQ2504 
+::HAQ2504::[html]The p-n junction floods with charge carriers, the depletion layer disappears, and with it, the .............................. effect.{
+	=%100%insulator#
+}
+
+
+// question: 29890  name: HAQ2505 
+::HAQ2505::[html]It is an important distinction between conductors and semiconductors that, in semiconductors, movement of charge (current) is facilitated by both .............................. and holes.{
+	=%100%electrons#
+}
+
+
+// question: 29891  name: HAQ2506 
+::HAQ2506::[html]The current-carrying electrons in the conduction band are known as '..............................' although they are often simply called 'electrons' if context allows this usage to be clear.{
+	=%100%free electrons#
+}
+
+
+// question: 29892  name: HAQ3777 
+::HAQ3777::[html]Using the rules of Ohm's Law gives an accurate method of determining values in an electrical ...............................{
+	=%100%explosions#
+}
+
+
+// question: 29893  name: HAQ3778 
+::HAQ3778::[html]If I and R are known, then E is found by multiplying I by ...............................{
+	=%100%solvents#
+}
+
+
+// question: 29894  name: HAQ3779 
+::HAQ3779::[html]Electrical power is a measurement of output, or the rate of ...............................{
+	=%100%document#
+}
+
+
+// question: 29895  name: HAQ3780 
+::HAQ3780::[html]Unlike EMF, current flow and resistance, electrical power is not a direct measurement. Nor is it a measure of power produced; rather it is a measure of the amount of power ...............................{
+	=%100%consumed#
+}
+
+
+// question: 29896  name: HAQ3781 
+::HAQ3781::[html]The symbol for power is P and its unit of measurement is Watts (W). To calculate power, the .............................. flow in the circuit is multiplied by the EMF.{
+	=%100%current#
+}
+
+
+// question: 29897  name: HAQ3782 
+::HAQ3782::[html]If the values of EMF or current flow are not known, then .............................. Law can be used to determine their value.{
+	=%100%Ohm's#
+	=%100%Ohms#
+}

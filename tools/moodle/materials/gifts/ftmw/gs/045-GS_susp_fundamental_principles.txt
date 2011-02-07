@@ -1,0 +1,79 @@
+// question: 27342  name: HAQ1679 
+::HAQ1679::[html]When a tire hits an obstruction, there is a reaction force. The size of this reaction force depends on the ............................... mass at each wheel assembly.{
+	=%100%unsprung#
+}
+
+
+// question: 27343  name: HAQ1680 
+::HAQ1680::[html]Vehicle ride and handling can be improved by keeping unsprung mass as ............................... as possible.{
+	=%100%low#
+}
+
+
+// question: 27344  name: HAQ1688 
+::HAQ1688::[html]Wheel units must be located longitudinally, and laterally, while still having the freedom to move ..............................., to allow for suspension travel.{
+	=%100%vertically#
+}
+
+
+// question: 27345  name: HAQ1689 
+::HAQ1689::[html]During braking, the ............................... tries to twist the axle housing around its center, but it's held firmly, clamped to the spring, and any twisting effect is resisted by the relatively stiff spring.{
+	=%100%torque#
+}
+
+
+// question: 27346  name: HAQ1690 
+::HAQ1690::[html]During cornering, ............................... movement of the axle housing is prevented by its location on the spring center bolts, and by the spring shackles.{
+	=%100%lateral#
+}
+
+
+// question: 27347  name: HAQ1691 
+::HAQ1691::[html]The axle housing is usually located longitudinally, by upper and lower control arms, and laterally, either by the angle of the control arms, or by a separate ............................... rod, or Watts linkage.{
+	=%100%Panhard#
+	=%100%panhard#
+}
+
+
+// question: 27348  name: HAQ1733 
+::HAQ1733::[html]The most widely-used hydraulic shock absorber is the direct-acting ............................... type.{
+	=%100%telescopic#
+}
+
+
+// question: 27349  name: HAQ1734 
+::HAQ1734::[html]The hydraulic shock absorber provides its dampening action by transferring oil, under pressure, through ............................... which restrict the oil flow.{
+	=%100%valves#
+}
+
+
+// question: 27350  name: HAQ1735 
+::HAQ1735::[html]A seal above the bearing prevents oil leakage, and keeps out dirt and moisture. A ............................... protects the rod from damage.{
+	=%100%shroud#
+}
+
+
+// question: 27351  name: HAQ1736 
+::HAQ1736::[html]Aerated oil has a certain amount of compressibility, so it is unable to provide the dampening force previously achieved in the non-aerated condition. This effect is called shock absorber '...............................'.{
+	=%100%Dissolve#
+	=%100%dissolve#
+}
+
+
+// question: 27352  name: HAQ1776 
+::HAQ1776::[html]Control arms must be strong enough to withstand the forces due to normal operation, but light enough to minimize the vehicle's ............................... mass.{
+	=%100%unsprung#
+}
+
+
+// question: 27353  name: HAQ1777 
+::HAQ1777::[html]A ............................... rod may be used to restrict lateral movement of the rear axle during cornering. It has bushes or  mountings at each end, where it locates on the axle and frame.{
+	=%100%panhard#
+	=%100%Panhard#
+}
+
+
+// question: 27354  name: HAQ1778 
+::HAQ1778::[html]The axle may also be located by a ............................... linkage. A lever, mounted on a pivot near the center of the axle housing, is connected by rods to the frame, on each side of the vehicle.{
+	=%100%watts#
+}

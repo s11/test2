@@ -1,0 +1,57 @@
+// question: 26334  name: HAQ0833 
+::HAQ0833::[html]Air-cooling is common on smaller internal combustion engines. That's useful on an engine where ................. is important, and it works best on the engine that's exposed to a high airflow.{
+	=%100%weight#
+}
+
+
+// question: 26335  name: HAQ0834 
+::HAQ0834::[html]Cooling fan design makes the exposed surface area as large as possible, which allows more heat energy to radiate away, and be carried off in ................. currents in the air.{
+	=%100%convection#
+}
+
+
+// question: 26336  name: HAQ0835 
+::HAQ0835::[html]One way to remove heat is to use a ................., with shrouds and ducts to direct air to the cylinders.{
+	=%100%fan#
+}
+
+
+// question: 26337  name: HAQ0836 
+::HAQ0836::[html]As the engine heats up, a natural circulation starts, as coolant rises through the engine block by .................{
+	=%100%convection#
+}
+
+
+// question: 26338  name: HAQ0837 
+::HAQ0837::[html]In modern cars, the engines are more powerful, and radiators are low and wide, and a thermo-siphon process couldn't move the coolant quickly enough. Instead, a ................. forces it through passages called waterjackets in the engine block.{
+	=%100%water pump#
+}
+
+
+// question: 26339  name: HAQ0838 
+::HAQ0838::[html]One function of the ................. is to shorten the warming-up period.{
+	=%100%thermostat#
+}
+
+
+// question: 26340  name: HAQ0839 
+::HAQ0839::[html]The water pump takes coolant from a bottom radiator tank and pushes it through ................. in the housings, towards the rear of the engine.{
+	=%100%waterjackets#
+	=%100%water jackets#
+	=%100%water-jackets#
+}
+
+
+// question: 26341  name: HAQ0840 
+::HAQ0840::[html]A ................. on the end of the eccentric shaft drives the water pump and fan.{
+	=%100%pulley#
+}
+
+
+// question: 26342  name: HAQ0841 
+::HAQ0841::[html]The rotary engine has an ................. system much like that of a piston engine.{
+	=%100%overflow#
+}
+
+
+

@@ -1,0 +1,54 @@
+%table#listing{ :style => "width: auto; margin: auto", :width => "auto" }
+  %thead.ui-widget-header
+    %tr
+      - @report_table.column_names[1..3].each do |name|
+        %th{ :width => "*", :nowrap => :nowrap, :rowspan => (@report_table.column_names.select { |c| c =~ /\|/ }.present? ? 2 : 1) }= order_by_link(name)
+
+      - if @report_table.column_names.select { |c| c =~ /\|/ }.present?
+        - @report_table.column_names.map { |n| n.split('|')[0] }.uniq[4..-1].each do |name|
+          %th.centre{ :width => "75px", :style => "font-size: smaller; width: 75px", :colspan => @report_table.column_names.select {|n| n =~ /^#{name}/}.size }= name
+      - else
+        - @report_table.column_names[4..-1].each do |name|
+          %th{ :width => "75px", :style => "font-size: smaller; width: 75px" }= order_by_link(name)
+
+      - @report_table.column_names[1..3].reverse_each do |name|
+        %th{ :width => "*", :nowrap => :nowrap, :rowspan => (@report_table.column_names.select { |c| c =~ /\|/ }.present? ? 2 : 1) }= order_by_link(name)
+
+    - if @report_table.column_names.select { |c| c =~ /\|/ }.present?
+      %tr
+        / - @report_table.column_names.map { |n| n.split('|')[1] }[4..-1].each do |name|
+        - @report_table.column_names[4..-1].each do |name|
+          %th{ :width => "75px", :style => "font-size: smaller; width: 75px" }= order_by_link(name.split('|')[1])
+        
+
+  %tbody
+    - @report_table.data.each do |record|
+      %tr{ :class => cycle(:odd, :even) }
+        %td.title-column.left{ :nowrap => :nowrap }= link_to_if resource.prefers_individual_report?, record[1], url_for(params.reverse_merge(:owner_ids => record[0]))
+        %td.title-column.left{ :nowrap => :nowrap }= link_to_if resource.prefers_individual_report?, record[2], url_for(params.reverse_merge(:owner_ids => record[0]))
+        %td.title-column.left{ :nowrap => :nowrap }= record[3]
+
+        - record.to_a[4..-1].each do |element|
+          %td{ :style => "font-size: 11px; width: 75px", :width => "75px", :nowrap => :nowrap }= resource.format_cell(element)
+
+        %td.title-column.left{ :nowrap => :nowrap }= record[3]
+        %td.title-column.left{ :nowrap => :nowrap }= link_to_if resource.prefers_individual_report?, record[2], url_for(params.reverse_merge(:owner_ids => record[0]))
+        %td.title-column.left{ :nowrap => :nowrap }= link_to_if resource.prefers_individual_report?, record[1], url_for(params.reverse_merge(:owner_ids => record[0]))
+          
+  - unless @report_table.size == 1
+    - if resource.prefers_totals_row?
+      %tbody.ui-widget-header
+        %tr
+          %th.right{ :colspan => 3 } Totals:
+          - @report_table.column_names[4..-1].each do |name|
+            %th= resource.format_cell(@report_table.sigma(name))
+          %th.left{ :colspan => 3 }
+    - elsif resource.prefers_averages_row?
+      %tbody.ui-widget-header
+        %tr
+          %th.right{ :colspan => 3 } Averages:
+          - @report_table.column_names[4..-1].each do |name|
+            %th.left= resource.format_footer_cell(name)
+          %th.left{ :colspan => 3 }
+
+.centre= will_paginate(@report_table.data)

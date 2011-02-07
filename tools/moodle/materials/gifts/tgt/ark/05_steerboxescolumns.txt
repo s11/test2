@@ -1,0 +1,140 @@
+//name:TQ0467
+::TQ0467::There is a steering sensor located on the input shaft in an Electric Power Steering System. What does it do?{
+	=The sensor performs two functions: it's a torque sensor and a rotation sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+	~The sensor performs two functions: it's a turning sensor and a rotation sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+	~The sensor performs two functions: it's a torque sensor, and an 'in and out' movement sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+	~The sensor performs two functions: it's a turning sensor, and an in-and-out movement sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+}
+
+
+//name:TQ0468
+::TQ0468::The power steering pump is always engine driven.{
+	=False, some are driven by an electric motor.#High pressure pumps may be either engine driven or electric.
+	~True, all pumps are driven by a drive belt.#High pressure pumps may be either engine driven or electric.
+}
+
+
+//name:TQ0469
+::TQ0469::Power steering systems normally have a flow control valve fitted to them. Where is it located?{
+	=At the outlet fitting of the power steering pump.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the steering rack or steering box.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the high pressure lines of the system.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the low pressure side of the system.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+}
+
+
+//name:TQ0470
+::TQ0470::What is the purpose of the power steering pressure relief valve?{
+	=To prevent excessive pressures developing when the steering is on full-lock.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To prevent excessive pressures developing when minimal force is applied to the steering system.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To eliminate pressure drop.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To maintain high pressure during steering.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+}
+
+
+//name:TQ0471
+::TQ0471::Power steering assistance is provided by:{
+	=hydraulic and/or electrical methods.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~vacuum.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~compressed air.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~electrical solenoids.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+}
+
+
+//name:TQ0472
+::TQ0472::Types of power steering pump designs include the:{
+	=vane, roller, and slipper.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~vane, gear, and roller.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~roller, slipper, and gear.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~slipper, vane, and gear.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+}
+
+
+//name:TQ0473
+::TQ0473::Technician A says that power steering can only be fitted to vehicles designed for forward control layouts. Technician B says that power steering can be fitted to both rack and pinion and steering box arrangements. Who is correct?{
+	~Technician A.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	=Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	~Both Technician A and Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	~Neither Technician A nor Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+}
+
+
+//name:TQ0474
+::TQ0474::In a 'rack and pinion' system, the smaller the pinion gear, the heavier the steering.{
+	=FALSE#Smaller size does not match with more rugged construction. Light vehicles use small pinion arrangements.
+	~TRUE#Smaller size does not match with more rugged construction. Light vehicles use small pinion arrangements.
+}
+
+
+//name:TQ0475
+::TQ0475::Technician A says that the rack and pinion operates by moving the rack with the pinion gear. Technician B says that the rack and pinion operates by moving the rack with the sector shaft. Who is correct?{
+	=Technician A.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Both Technician A & Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Neither Technician A or Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+}
+
+
+//name:TQ0476
+::TQ0476::When power assistance is used with a rack and pinion, it is used to assist the movement of the:{
+	=rack.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+	~pinion.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+	~ball nut.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+	~worm shaft.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+}
+
+
+//name:TQ0477
+::TQ0477::Technician A says that when power assist is used with a rack and pinion, it is used to assist the movement of the rack. Technician B says that when power assist is used with a rack and pinion, it is used to assist the movement of the worm shaft. Who is correct?{
+	=Technician A.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+	~Technician B.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+	~Both Technician A & Technician B.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+	~Neither Technician A or Technician B.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+}
+
+
+//name:TQ0478
+::TQ0478::As a variable ratio rack and pinion system comes towards the end of the travel, its:{
+	=ratio changes.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+	~ratio remains the same.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+	~steering effort is increased.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+	~steering angles are varied.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+}
+
+
+//name:TQ0479
+::TQ0479::The Pitman arm is splined to the:{
+	=sector shaft.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+	~worm shaft.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+	~center link.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+	~none of these.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+}
+
+
+//name:TQ0480
+::TQ0480::With power steering, temporary increases in effort required by the driver when turning the steering wheel in either direction may be caused by:{
+	=air in the system or the engine idle is too slow.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+	~air in the system.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+	~the engine idle is too slow.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+	~none of these.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+}
+
+
+//name:TQ0481
+::TQ0481::Technician A says the steering column contains roll pins that allow the inner and outer steering shafts to move over each other in a collision.  Technician B says a flexible joint is attached to the steering shaft to allow for misalignment.  Who is correct?{
+	~Technician A.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+	~Technician B.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+	=Both Technician A & Technician B.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+	~Neither Technician A or Technician B.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+}
+
+
+//name:TQ0482
+::TQ0482::The pitch of a helix is equivalent to the:{
+	=distance a point on the helix moves in one revolution.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+	~distance a point on the helix moves in two revolutions.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+	~distance a point on the helix moves in one half of a revolution.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+	~circumference of the shaft.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+}
+
+

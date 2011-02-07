@@ -1,0 +1,17 @@
+-# Active tab classes: .ui-tabs-selected.ui-state-active.ui-state-processing
+%ul.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all
+  %li{:class => "ui-state-default ui-corner-top#{' ui-tabs-selected ui-state-active ui-state-processing' if params[:controller] == "message_recipients" && ["index", "show"].include?(params[:action])}"}
+    - link_to inbox_path do
+      %span== #{icon('email')} Inbox
+
+  %li{:class => "ui-state-default ui-corner-top#{' ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:controller => "messages", :action => "new")}"}
+    - link_to new_message_path do
+      %span== #{icon('email_add')} New
+
+  %li{:class => "ui-state-default ui-corner-top#{' ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:controller => "messages", :action => "index", :by_state => "unsent")}"}
+    - link_to draft_messages_path do
+      %span== #{icon('email_edit')} Drafts
+
+  %li{:class => "ui-state-default ui-corner-top#{' ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:controller => "messages", :action => "index", :by_state => "sent")}"}
+    - link_to sent_messages_path do
+      %span== #{icon('email_go')} Sent

@@ -1,0 +1,9 @@
+%ul.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all
+  %li{:class => "ui-state-default ui-corner-top#{' ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:controller => "users", :action => "index", :role => current_role)}"}
+    - link_to url_for(:action => "index", :role => current_role) do
+      %span== #{ current_role.titleize } Details
+
+  - if current_client.remaining_users(current_role) > 0
+    %li{:class => "ui-state-default ui-corner-top#{' ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:controller => "users", :action => "new", :role => current_role)}"}
+      - link_to url_for(:action => "new", :role => current_role) do
+        %span== Add New #{current_role.titleize}

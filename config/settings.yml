@@ -1,0 +1,5 @@
+development:
+  moodle_root_directory: /var/www/legacy/butters/moodle_instances
+
+production:
+  moodle_root_directory: /var/www/legacy/butters/moodle_instances

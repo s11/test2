@@ -1,0 +1,124 @@
+// question: 23092  name: HAQ0285 
+::HAQ0285::[html]There are soft-top versions of the sedan body design, except for having 2 doors, and these are commonly referred to as ..............................{
+	=%100%convertibles#
+}
+
+
+// question: 23093  name: HAQ0287 
+::HAQ0287::[html]A station wagon has increased luggage capacity, and a large .............................. door for access.{
+	=%100%rear#
+}
+
+
+// question: 23094  name: HAQ0288 
+::HAQ0288::[html]The rear seats on a station wagon can usually be .............................. to increase luggage capacity even further.{
+	=%100%folded#
+}
+
+
+// question: 23095  name: HAQ0289 
+::HAQ0289::[html]The roof on a station wagon is usually ...............................{
+	=%100%fixed#
+}
+
+
+// question: 23096  name: HAQ0290 
+::HAQ0290::[html]A coupe has just 2 doors. Reducing the number of doors to the passenger compartment makes the vehicle structure more ...............................{
+	=%100%rigid#
+}
+
+
+// question: 23097  name: HAQ0291 
+::HAQ0291::[html]A close-coupled 4-seater coupe can be made in a .............................. head or drop-head configuration.{
+	=%100%fixed#
+}
+
+
+// question: 23098  name: HAQ0292 
+::HAQ0292::[html]Usually a pick-up has .............................. chassis components and suspension than a sedan.{
+	=%100%stronger#
+}
+
+
+// question: 23099  name: HAQ0293 
+::HAQ0293::[html]A hatch-back's rear seats usually .............................. down to increase luggage area.{
+	=%100%fold#
+}
+
+
+// question: 23100  name: HAQ0294 
+::HAQ0294::[html]Hatch-backs combine the benefits of sedans and .............................. wagons, to make more versatile vehicles.{
+	=%100%station#
+}
+
+
+// question: 23101  name: HAQ0295 
+::HAQ0295::[html]The pick-up, or .............................., carries goods.{
+	=%100%utility#
+}
+
+
+// question: 23102  name: HAQ0296 
+::HAQ0296::[html]Usually a pick-up has stronger chassis components and suspension than a sedan, to support greater Gross Vehicle ...............................{
+	=%100%mass#
+}
+
+
+// question: 23103  name: HAQ0297 
+::HAQ0297::[html]Light vehicle vans can be based on common .............................. designs.{
+	=%100%sedan#
+}
+
+
+// question: 23104  name: HAQ0298 
+::HAQ0298::[html]Light vehicle vans can be redesigned so that maximum .............................. space is available.{
+	=%100%cargo#
+}
+
+
+// question: 23105  name: HAQ0299 
+::HAQ0299::[html]Tankers transport ..............................{
+	=%100%fluids#
+}
+
+
+// question: 23106  name: HAQ0300 
+::HAQ0300::[html].............................. carry earth, or bulk grains.{
+	=%100%tippers#
+}
+
+
+// question: 23107  name: HAQ0301 
+::HAQ0301::[html]A goods transport vehicle can be a rigid vehicle, a rigid vehicle with a trailer, or an .............................. vehicle.{
+	=%100%articulated#
+}
+
+
+// question: 23109  name: HAQ0304 
+::HAQ0304::[html]Sometimes .............................. buses are used to increase capacity.{
+	=%100%articulated#
+}
+
+
+// question: 23110  name: HAQ0305 
+::HAQ0305::[html]Buses are commonly used in cities as commuter transport, while coaches are more luxurious, and used for .............................. distances.{
+	=%100%long#
+}
+
+
+// question: 23111  name: HAQ3444 
+::HAQ3444::[html]A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and .............................. openings, fuel doors, and battery access covers.{
+	=%100%tailgate#
+}
+
+
+// question: 23112  name: HAQ3445 
+::HAQ3445::[html]All vehicle openings have to be secured and may require a remote switch or lever to be activated. In some cases the activation is by cable, others may use electric or vacuum ..............................{
+	=%100%solenoids#
+}
+
+
+// question: 23113  name: HAQ3446 
+::HAQ3446::[html]Some manufacturers are no longer fitting an engine compartment release to their vehicles. Before opening the engine hood on these vehicles, check the owner's manual, or the manufacturers manual, as unauthorized access may void any vehicle ..............................{
+	=%100%warranty#
+}

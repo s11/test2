@@ -1,0 +1,13 @@
+K 13
+svn:externals
+V 64
+net_suite svn://curfew.jbpub.com/online/rails_plugins/net_suite
+
+K 10
+svn:ignore
+V 28
+query-analyzer
+query_trace
+
+
+END

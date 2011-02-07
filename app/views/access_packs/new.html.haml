@@ -1,0 +1,85 @@
+%h1
+  Registration Code Redemption
+  
+- if flash[:notice].present?
+  .ui-widget
+    .ui-state-highlight.ui-corner-all{ :style => "padding: 0.5em 1em;" }      
+      = flash[:notice]
+
+- form_tag access_pack_url do
+  
+  %table
+    %tr
+      %td{:width => '400px'}
+        Registration Code:
+      %td
+        = text_field_tag "user[jbp_access_code]", params[:user].andand[:jbp_access_code]
+        %small
+          (Required)
+
+    %tr
+      %td
+        Access Code (School Code):
+        %br 
+        NOTE: You must obtain the 4-digit Access Code from your instructor.
+      %td
+        = text_field_tag "client[client_prefix]", params[:client].andand[:client_prefix], :limit => 4
+        %small
+          (Required)
+
+    %tr
+      %td
+        First Name:
+      %td
+        = text_field_tag "user[firstname]", params[:user].andand[:firstname]
+        %small
+          (Required)
+
+    %tr
+      %td
+        Last Name:
+      %td
+        = text_field_tag "user[lastname]", params[:user].andand[:lastname]
+        %small
+          (Required)
+
+    %tr
+      %td
+        Email:
+      %td
+        = text_field_tag "user[email]", params[:user].andand[:email]
+        %small
+          (Required)
+
+    %tr
+      %td
+        Preferred User Name: 
+      %td
+        = text_field_tag "user[username]", params[:user].andand[:username]
+        %small
+          (Required)
+
+    %tr
+      %td
+        Password:
+      %td
+        = password_field_tag "user[password]", params[:user].andand[:password]
+        %small
+          (Required)
+
+    %tr
+      %td
+        Password Confirmation:
+      %td
+        = password_field_tag "user[password_confirmation]", params[:user].andand[:password_confirmation]
+        %small
+          (Required)    
+    %tr
+      %td{:colspan => 2}
+        NOTE: Your user name and password must be at least 4 characters and may contain letters, numbers, or special characters, but no spaces.
+    %tr
+      %td{:colspan => 2}
+        %button.centre.ui-button{:type => "submit"} Submit
+
+- content_for(:onload) do
+  $('input#user_jbp_access_code').focus();

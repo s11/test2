@@ -1,0 +1,50 @@
+%div.allcontent
+  %div.topheading#rectify
+    %table{:width=>"100%", :border=>"0", :cellspacing=>"0", :cellpadding=>"0"}
+      %tr
+        %td{:width=>"5px"}= image_tag('diagnostics/title_bg.png', :size => '5x50', :alt => '')
+        %td.categorytitle= @system.name
+        - cache 'diagnostics_rectify_header' do
+          %td{:width=>"44px"}= image_tag('diagnostics/diagnostics_mockuplayout_03.png', :size => '44x50', :alt => '')
+          %td{:width=>"90px"}= image_tag('diagnostics/diagnostics_mockuplayout_04.png', :size => '90x50', :alt => '')
+          %td{:width=>"44px"}= image_tag('diagnostics/diagnostics_mockuplayout_05.png', :size => '44x50', :alt => '')
+          %td{:width=>"91px"}= image_tag('diagnostics/diagnostics_mockuplayout_06.png', :size => '91x50', :alt => '')
+          %td{:width=>"44px"}= image_tag('diagnostics/diagnostics_mockuplayout_07.png', :size => '44x50', :alt => '')
+          %td{:width=>"91px"}= image_tag('diagnostics/diagnostics_mockuplayout_08.png', :size => '91x50', :alt => '')
+          %td{:width=>"45px"}= image_tag('diagnostics/diagnostics_mockuplayout_09.png', :size => '45x50', :alt => '')
+        %td.scoretitle
+          = "Score: #{@exam.marks_remaining}/10"
+        %td.endcap
+          = render :partial => 'information_button'
+
+  = render :partial => 'history'
+
+  %div.content
+    %div.problem
+      %h1
+        &nbsp;
+      %p
+        = @scenario.problem.description
+        
+      - unless current_user.student?
+        = render :partial => 'instructor_guide'
+
+      - unless @scenario.symptoms.empty?
+        = render :partial => 'symptoms'
+        
+    %div.optionchoices
+      = render :partial => 'results_history'
+      
+      %h1#rectify
+        &nbsp;
+      %ol
+        - @exam.choices.rectification.each do |rid|
+          - @attempt = @exam.attempts.build
+          - form_for :attempt, :url => diagnostics_exam_attempts_path(@exam), :html => {:id => "rectify_#{rid.choice_id}"} do |f|
+            = f.hidden_field :rectification_id, {:value => rid.choice_id}
+            = f.hidden_field :classification, {:value => 'rectification'}
+            %li
+              - if not @exam.attempts.rectification.empty? and @exam.attempts.rectification.map(&:rectification_id).include?(rid.choice_id)
+                = Diagnostics::Rectification.find(rid.choice_id).description
+              - else
+                = link_to_function Diagnostics::Rectification.find(rid.choice_id).description, "document.getElementById('rectify_#{rid.choice_id}').submit()"

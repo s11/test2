@@ -1,0 +1,190 @@
+// question: 30044  name: HAQ30044 
+::HAQ30044::[html]Hydrogen fuel cells are used to generate electricity to power an ................. motor, which in turn powers the vehicle.{
+	=%100%electric#
+}
+
+
+// question: 30045  name: HAQ30045 
+::HAQ30045::[html]A fuel cell consists of two electrodes sandwiched around an electrolyte. ................. passes over one electrode and hydrogen over the other, generating electricity, water and heat.{
+	=%100%oxygen#
+}
+
+
+// question: 30046  name: HAQ30046 
+::HAQ30046::[html]Hydrogen is fed into the '.................' of the hydrogen fuel cell.{
+	=%100%anode#
+}
+
+
+// question: 30047  name: HAQ30047 
+::HAQ30047::[html]Oxygen (or air) enters the hydrogen fuel cell through the .................. {
+	=%100%cathode#
+}
+
+
+// question: 30048  name: HAQ30048 
+::HAQ30048::[html]................. is the 'exhaust' from the hydrogen fuel cell.{
+	=%100%water#
+}
+
+
+// question: 30049  name: HAQ30049 
+::HAQ30049::[html]A typical fuel cell-powered vehicle would have a fuel cell stack; an air compressor; a radiator with circulating coolant; a hydrogen recirculating system to optimize efficiency; hydrogen storage tanks; a .................;   and an electric motor.{
+	=%100%battery#
+}
+
+
+// question: 30050  name: HAQ30050 
+::HAQ30050::[html]The .................-ion battery in a fuel cell vehicle is used to provide supplemental power for the vehicle and to store energy generated during braking.{
+	=%100%lithium#
+}
+
+
+// question: 30051  name: HAQ30051 
+::HAQ30051::[html]The byproducts from the hydrogen fuel cell process are water vapor and .................. {
+	=%100%heat#
+}
+
+
+// question: 30052  name: HAQ30052 
+::HAQ30052::[html]When a hydrogen fuel tank refill is required it is dispensed in ................. rather than liters or gallons.{
+	=%100%kilograms#
+	=%100%kg#
+	=%100%Kg#
+	=%100%kilos#
+	=%100%Kilos#
+}
+
+
+// question: 30053  name: HAQ30053 
+::HAQ30053::[html]A hydrogen generator could be powered by the conventional domestic supply of ................., so  your fuel cell vehicle could be economically refueled overnight in your own garage, rather than at a commercial filling station.{
+	=%100%Natural Gas#
+	=%100%natural gas#
+}
+
+
+// question: 30054  name: HAQ30054 
+::HAQ30054::[html]Anti-freeze is circulated through the fuel cell system as a ..................{
+	=%100%coolant#
+}
+
+
+// question: 30055  name: HAQ30055 
+::HAQ30055::[html]Fuel cell systems consist of a number of fuel cells in a  ..................{
+	=%100%stack#
+}
+
+
+// question: 30056  name: HAQ30056 
+::HAQ30056::[html]The electro-chemical reaction that creates the electrical power takes place inside the individual fuel cells. These consist of a Membrane ................. Assembly between two bipolar plates.{
+	=%100%electrode#
+}
+
+
+// question: 30057  name: HAQ30057 
+::HAQ30057::[html]Tiny flow channels in the plates of a fuel cell diffuse the hydrogen and oxygen gases onto each surface of the membrane, where a catalytic reaction splits off  hydrogen ................. to produce electricity.{
+	=%100%electrons#
+}
+
+
+// question: 30058  name: HAQ30058 
+::HAQ30058::[html]Coolant is circulated from a radiator between the fuel cells or through the plates without making direct contact with the ..................{
+	=%100%membrane#
+}
+
+
+// question: 30059  name: HAQ30059 
+::HAQ30059::[html]In a diesel-electric hybrid vehicle, the ................. generates electricity for the electric motor that is used to drive the wheels of the vehicle.{
+	=%100%engine#
+}
+
+
+// question: 30060  name: HAQ30060 
+::HAQ30060::[html]In a ................. hybrid vehicle arrangement, the diesel engine is not directly linked to the transmission to drive the wheels.{
+	=%100%series#
+}
+
+
+// question: 30061  name: HAQ30061
+::HAQ30061::[html]In a ................. hybrid vehicle arrangement the diesel engine and the electric motor both have direct and independent connection the vehicle transmission.{
+	=%100%parallel#
+}
+
+
+// question: 30062  name: HAQ30062 
+::HAQ30062::[html]................. energy is recovered when the diesel-electric hybrid vehicle is going downhill as well as when braking.{
+	=%100%electrical#
+}
+
+
+// question: 30063  name: HAQ30063 
+::HAQ30063::[html]With some modifications, modern diesel engines can run on 100% pure ................. fuel further reducing their emissions, compared to gasoline/petrol vehicles.{
+	=%100%biodiesel#
+}
+
+
+// question: 30064  name: HAQ30064 
+::HAQ30064::[html]Diesel-electric hybrid vehicles are able to offset efficiency losses in several ways, through ................. engine size, regenerative braking, power on demand, and constant speeds and output.{
+	=%100%smaller#
+}
+
+
+// question: 30065  name: HAQ30065 
+::HAQ30065::[html]In a diesel-electric hybrid vehicle, the ................. motor delivers either partial or complete power during acceleration.{
+	=%100%electric#
+}
+
+
+// question: 30066  name: HAQ30066 
+::HAQ30066::[html]Diesel-electric hybrids are able to recover energy that is normally lost as heat during braking, and store it as electricity in the ................. for later use by the electric motor.{
+	=%100%batteries#
+	=%100%battery#
+}
+
+
+// question: 30067  name: HAQ30067 
+::HAQ30067::[html]In a diesel-electric hybrid, the use of the diesel engine can be limited to ensure that only operates at its optimum ................. output and engine speed range.{
+	=%100%power#
+}
+
+
+// question: 30068  name: HAQ30068 
+::HAQ30068::[html]Allowing the engine in a diesel-electric hybrid to operate closer to its optimum condition increases fuel efficiency and reduces ..................{
+	=%100%emissions#
+}
+
+
+// question: 30069  name: HAQ30069 
+::HAQ30069::[html]Electric cars can use AC or DC motors. DC installations tend to be simpler and ................. expensive than an AC system.{
+	=%100%less#
+}
+
+
+// question: 30070  name: HAQ30070 
+::HAQ30070::[html]DC motors have the ability to be ................. for short periods of time, up to a factor of 10 to 1.{
+	=%100%overdriven#
+	=%100%over driven#
+	=%100%over-driven#
+}
+
+
+// question: 30071  name: HAQ30071 
+::HAQ30071::[html]Too much overdriving and the DC motor could heat up to the point where it could ..................{
+	=%100%self destruct#
+	=%100%self-destruct#
+}
+
+
+// question: 30072  name: HAQ30072 
+::HAQ30072::[html]AC vehicle installations allow the use of a ................. AC motor, and that can make finding a motor suitable for a specific application, shape, or power rating easier.{
+	=%100%three phase#
+	=%100%three-phase#
+	=%100%3 phase#
+	=%100%3-phase#
+}
+
+
+// question: 30073  name: HAQ30073 
+::HAQ30073::[html]In a simple DC electric vehicle, a DC ................. is connected between the batteries and the DC motor.{
+	=%100%controller#
+}

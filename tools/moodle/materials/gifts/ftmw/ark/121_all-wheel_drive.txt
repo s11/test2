@@ -1,0 +1,67 @@
+// question: 31183  name: HAQ2469 
+::HAQ2469::[html]In full-time four wheel drive vehicles, drive is transmitted through the rear ................. drive to the rear wheels, and through the front final drive to the front wheels at all times.{
+	=%100%final#
+}
+
+
+// question: 31184  name: HAQ2470 
+::HAQ2470::[html]The final drive gears are normally a ................. bevel crown wheel and pinion type.{
+	=%100%hypoid#
+}
+
+
+// question: 31185  name: HAQ2471 
+::HAQ2471::[html]The same gear ratio is used for both front and ................. units.{
+	=%100%rear#
+}
+
+
+// question: 31186  name: HAQ2472 
+::HAQ2472::[html]In this application, the transfer case is bolted to the rear of the transmission. Drive is transferred from the ................. output shaft to an internally splined helical gear on the transfer case input shaft.{
+	=%100%transmission#
+}
+
+
+// question: 31187  name: HAQ2473 
+::HAQ2473::[html]The internally splined helical gear is constantly meshed with the larger of two idler gear pinions. They are constantly meshed with the high and low output ................. on the transfer output.{
+	=%100%pinions#
+}
+
+
+// question: 31188  name: HAQ2474 
+::HAQ2474::[html]A common selector fork links a splined engagement sleeve on the idler, and a similar sleeve on the ................. Moving the fork to engage high-range, locks the high output pinion to the differential case.{
+	=%100%output#
+}
+
+
+// question: 31189  name: HAQ2475 
+::HAQ2475::[html]Drive is transmitted at a 1-to-1 ratio, through the larger pinion of the idler gear. and the locked output pinion, to the differential case. It is then transmitted through the differential ................. to the front and rear output shafts.{
+	=%100%gears#
+}
+
+
+// question: 31190  name: HAQ2476 
+::HAQ2476::[html]When low range is selected, a geared electric motor automatically operates an engagement sleeve splined to the front output shaft. It engages mating splines on the ................. case.{
+	=%100%differential#
+}
+
+
+// question: 31191  name: HAQ2477 
+::HAQ2477::[html]To reduce the action of the third differential operation when on a slippery surface, a viscous coupling unit between the differential case and the rear output shaft acts as a ................. slip differential.{
+	=%100%limited#
+}
+
+
+// question: 31192  name: HAQ2478 
+::HAQ2478::[html]The outer plates are separated by spacer rings. The inner plates are free to move axially and are not mechanically centered between the outer plates. In normal driving conditions, the third differential operates to provide the small degree of ................. action necessary.{
+	=%100%differential#
+}
+
+
+// question: 31193  name: HAQ2479 
+::HAQ2479::[html]The degree of locking achieved depends on the severity of the wheel ................. occurring.{
+	=%100%slippage#
+}
+
+
+

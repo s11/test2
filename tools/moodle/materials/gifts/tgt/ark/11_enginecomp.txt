@@ -1,0 +1,41 @@
+//name:TQ1324
+::TQ1324::The higher the engine's compression ratio the more powerful the engine.{
+	=TRUE#Compression ratio compares swept volume plus clearance volume.
+	~FALSE#Compression ratio compares swept volume plus clearance volume.
+}
+
+
+//name:TQ1325
+::TQ1325::Which of the following statements about grey iron is true?{
+	=It is brittle and cannot absorb shocks.#Grey iron resists heat and corrosion and is used for many automotive components.
+	~It is brittle and absorbs shocks.#Grey iron resists heat and corrosion and is used for many automotive components.
+	~Grey iron contains no carbon.#Grey iron resists heat and corrosion and is used for many automotive components.
+	~It is ductile and absorbs shocks.#Grey iron resists heat and corrosion and is used for many automotive components.
+}
+
+
+//name:TQ1326
+::TQ1326::Turbulence helps make sure the combustion process occurs more:{
+	=efficiently.#Turbulence refers to the swirling motion of a liquid or a gas.
+	~quickly.#Turbulence refers to the swirling motion of a liquid or a gas.
+	~precisely.#Turbulence refers to the swirling motion of a liquid or a gas.
+	~slowly.#Turbulence refers to the swirling motion of a liquid or a gas.
+}
+
+
+//name:TQ1327
+::TQ1327::When an intake valve closes after bottom dead center, and the exhaust valve closes after top dead center, it's called:{
+	=lag.#Different engines use different timings. Manufacturer specifications contain the exact information.
+	~valve overlap.#Different engines use different timings. Manufacturer specifications contain the exact information.
+	~lead.#Different engines use different timings. Manufacturer specifications contain the exact information.
+	~intake overlap.#Different engines use different timings. Manufacturer specifications contain the exact information.
+}
+
+
+//name:TQ1328
+::TQ1328::In practice, the intake valve usually opens later than top dead center, and stays open a little past bottom dead center.{
+	=FALSE#The intake valve usually opens earlier than top dead center, and stays open a little past bottom dead center.
+	~TRUE#The intake valve usually opens earlier than top dead center, and stays open a little past bottom dead center.
+}
+
+

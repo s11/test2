@@ -1,0 +1,25 @@
+//name:TQ1516
+::TQ1516::What is the purpose of the long horizontal slots in the vicinity of the oil control ring found on many pistons?{
+	=To allow oil to return to the sump.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+	~To allow oil into the combustion chamber.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+	~To improve lubrication to the small end.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+	~To improve the cooling of the piston crown and to allow oil to return to the sump.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+}
+
+
+//name:TQ1517
+::TQ1517::Many pistons are oval-ground to:{
+	=allow for more metal expanding around the gudgeon pin.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+	~stop the pistons hitting the valves.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+	~stop the pistons hitting the counterweights.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+	~prevent expansion.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+}
+
+
+//name:TQ1518
+::TQ1518::Components that are subject to heating do not have to allow for expansion in their design.{
+	=FALSE#All components by design must consider clearance changes relative to heat since expansion and contraction are always at work within automotive systems.
+	~TRUE#All components by design must consider clearance changes relative to heat since expansion and contraction are always at work within automotive systems.
+}
+
+

@@ -1,0 +1,92 @@
+#tasksheet-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  %ul.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all
+    = render :partial => "tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - information_box do
+      %p If your instructor has asked you to record the grade of a CDX Tasksheet you have completed:
+
+      %ol
+        %li Enter the CDX Tasksheet number (e.g. 001)
+        %li Select the Class Group it was completed for 
+        %li Select the Grade you were awarded 
+        %li Select the Date it was completed
+        %li Press the Submit Tasksheet button to send the Tasksheet to your instructor(s) for approval.
+
+      %p
+        %strong Note: 
+        %ul
+          %li
+            You can only submit tasksheets for class groups you are a member of, which also have an assigned instructor.
+            == #{link_to 'Click here to update your class groups', profile_path}. If you still cannot see the required class group, |
+            contact your instructor.
+          %li You can enter the same tasksheets multiple times, but not on the same day.
+          
+          - if current_menu.name =~ /ASE/
+            %li Only Tasksheets in the task areas assigned by your institution's CDX Online supervisor will be available.
+
+    - if current_user.class_groups_with_supervisor_or_instructors.present?
+      - form_for(resource) do |f|
+        = error_messages_for 'tasksheet_submission'
+
+        %p
+          = label_tag :tasksheet_number
+          %br
+          %strong C
+          = text_field_tag :tasksheet_number, params[:tasksheet_number], :maxlength => 4, :size => 5
+
+        %p
+          = f.label   :class_group_id, "Class / Group"
+          = f.collection_select  :class_group_id, current_user.class_groups_with_supervisor_or_instructors, :id, :name
+
+        %p
+          = f.label :grade, "Grade Awarded"
+          %br
+          = f.hidden_field :grade
+          %table{ :style => "width: 33%"}
+            %tr{ :style => "vertical-align: bottom; text-align: center; z-level: 0"}
+              %td No<br/>exposure
+              %td Exposure<br/>only
+              %td Limited<br/>practice
+              %td Moderately<br/>skilled
+              %td Skilled
+            %tr
+              %td{:colspan => 5}
+                #slider{ :style => "margin: 0 3em"}
+
+        %p
+          = f.label :completed_on
+          %br
+          = f.text_field :completed_on, :size => 10
+
+        = create_button_tag("Submit Tasksheet")
+
+      - content_for(:head) do
+        :javascript
+          $(function() {
+            // Date picker
+            $("#tasksheet_submission_completed_on").datepicker({
+              buttonImage: '#{ image_path('icons/calendar.png') }',
+              buttonImageOnly: true,
+              changeMonth: true,
+              changeYear: true,
+              showOn: 'both',
+              dateFormat: 'mm/dd/yy',
+              minDate: '-1y',
+              maxDate: '+0d',
+              defaultDate: '+0d'
+            });
+
+            // Funky slider
+            $("#slider").slider({
+              value:0,
+              min: 0,
+              max: 4,
+              step: 1,
+              range: "min",
+              slide: function(event, ui) {
+                $("#tasksheet_submission_grade").val(ui.value);
+              }
+            });
+            $("#tasksheet_submission_grade").val($("#slider").slider("value"));
+          });

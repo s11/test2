@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/validates_timeliness/lib/validates_timeliness/action_view
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+instance_tag.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+bb2b69fe83426f4a14b215827eb0b68b
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+

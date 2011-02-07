@@ -1,0 +1,59 @@
+- information_box do
+  %p
+    Select the default content menu for all instructors and students that is best suited to your national standards or curriculum. |
+    You can change this setting at any time. You can assign different menus to individual students or instructors via the Student |
+    Details or Instructor Details menu options under User Management.
+
+  %p
+    If you have an earlier version of CDX Plus you can choose when to migrate to the newest version. This will allow you to access |
+    the new CDX Online content and features. Your students won't lose their test results when you upgrade them, but the tests in |
+    the new version are different, so the data cannot be combined into one single report.
+
+%table#listing{ :style => "width: auto; margin: 0 auto" }
+  %thead.ui-widget-header
+    %th Content Menu
+    - if current_menu.has_version?(41) && resource.menu_version.version == 41
+      %th{ :width => '75px' } v4.1
+
+    - if current_menu.has_version?(50) && 50 >= resource.menu_version.version
+      %th{ :width => '75px' } v5.0
+      
+    - if current_menu.has_version?(51) && 51 >= resource.menu_version.version
+      %th{ :width => '75px' } v5.1
+
+    - if Rails.env.staging?
+      %th{ :width => '75px' } Global
+      %th{ :width => '75px' } Locked
+      %th{ :width => '75px' } Custom Dashboard
+
+  %tbody
+    - resource.valid_instance_menus.each do |menu|
+      - menu_versions = menu.versions.group_by(&:version)
+      %tr.centre{ :class => cycle(:odd, :even) }
+        %th.right= menu.name
+        - if current_menu.has_version?(41) && resource.menu_version.version == 41
+          %td{ :class => "#{'selected' if menu_versions.has_key?(41) && (resource.menu_version_id == menu_versions[41].first.id) }" }
+            - if menu_versions.has_key?(41)
+              = f.radio_button :menu_version_id, menu_versions[41].first.id
+
+        - if current_menu.has_version?(50) && 50 >= resource.menu_version.version
+          %td{ :class => "#{'selected' if menu_versions.has_key?(50) && (resource.menu_version_id == menu_versions[50].first.id) }" }
+            - if menu_versions.has_key?(50)
+              = f.radio_button :menu_version_id, menu_versions[50].first.id
+
+        - if current_menu.has_version?(51) && 51 >= resource.menu_version.version
+          %td{ :class => "#{'selected' if menu_versions.has_key?(51) && (resource.menu_version_id == menu_versions[51].first.id) }" }
+            - if menu_versions.has_key?(51)
+              = f.radio_button :menu_version_id, menu_versions[51].first.id
+
+        - if Rails.env.staging?
+          %td= menu.is_custom?            ? icon('cross') : nil
+          %td= menu.is_client_locked?     ? icon('lock')  : nil
+          %td= menu.has_custom_dashboard? ? icon('tick')  : nil
+%br
+.centre= update_button_tag
+
+-# = debug (current_menu.is_custom? || current_menu.is_client_locked?)
+-# = debug resource.menu_version.has_later_version?
+-# = debug (current_menu.is_custom? || current_menu.is_client_locked?) && resource.menu_version.has_later_version?
+-# = debug resource.valid_instance_menus

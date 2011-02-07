@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/validates_timeliness/spec/active_record
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+attribute_methods_spec.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+47c73b7f17d4871f6fb2c0635389efa1
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+multiparameter_attributes_spec.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+ab82b1c4f0165d1b1381cd0c5e8d213b
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+

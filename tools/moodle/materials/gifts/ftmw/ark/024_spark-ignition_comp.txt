@@ -1,0 +1,190 @@
+// question: 25029  name: HAQ0507 
+::HAQ0507::[html]Both 2 and 4-stroke engine blocks both operate under working conditions of very high pressures and ................., and new designs and materials to make them work more efficiently are always being tested.{
+	=%100%temperatures#
+}
+
+
+// question: 25030  name: HAQ0508 
+::HAQ0508::[html]Many vehicles still use cast ................., but some have aluminium alloy blocks.{
+	=%100%iron#
+}
+
+
+// question: 25031  name: HAQ0510 
+::HAQ0510::[html]To help hold in the extreme heat and pressure of combustion a seal is made between the block and cylinder head by a head .................{
+	=%100%gasket#
+}
+
+
+// question: 25032  name: HAQ0511 
+::HAQ0511::[html]The 4-stroke petrol/gasoline engine has other passages cast into the head to carry ................. for lubrication and coolant for cooling.{
+	=%100%oil#
+}
+
+
+// question: 25033  name: HAQ0512 
+::HAQ0512::[html]In a 2-stroke petrol/gasoline engine, lubrication occurs by mixing oil with the petrol/gasoline, so oil ................. are not needed.{
+	=%100%passages#
+}
+
+
+// question: 25034  name: HAQ0513 
+::HAQ0513::[html]And if, like many 2-strokes, air-cooling is used instead of liquid-cooling, there is no need for coolant passages in the .................{
+	=%100%cylinder head#
+}
+
+
+// question: 25035  name: HAQ0514 
+::HAQ0514::[html]In a 2-stroke petro/gasoline engine, separate passages called ports let air-fuel mixture into the crankcase and cylinder, and exhaust gases out. They are covered and uncovered by the ................. as it moves up and down the cylinder.{
+	=%100%piston#
+}
+
+
+// question: 25036  name: HAQ0515 
+::HAQ0515::[html]In the 4-stroke petrol/gasoline engine, the inlet and exhaust ports are opened and closed by valves. The valve is held in place by a valve guide, with a ................. on its stem.{
+	=%100%spring#
+}
+
+
+// question: 25037  name: HAQ0516 
+::HAQ0516::[html]Valves need a system to control how they work. This is done by using .................{
+	=%100%cams#
+}
+
+
+// question: 25038  name: HAQ0517 
+::HAQ0517::[html]Cams are attached to a .................{
+	=%100%camshaft#
+}
+
+
+// question: 25039  name: HAQ0518 
+::HAQ0518::[html]In modern vehicles the camshaft usually mounted over the cylinder head and is called an ................. camshaft.{
+	=%100%overhead#
+}
+
+
+// question: 25040  name: HAQ0519 
+::HAQ0519::[html]As the camshaft rotates motion is ................. through the pushrod to the rocker arm. It pivots and opens the valve.{
+	=%100%transferred#
+}
+
+
+// question: 25041  name: HAQ0520 
+::HAQ0520::[html]The ................. keeps all of the valves working in sequence.{
+	=%100%camshaft#
+}
+
+
+// question: 25042  name: HAQ0521 
+::HAQ0521::[html]Air-fuel mixture must enter at the right time in the cycle and the ................. must be in the right place when the exhaust valve opens.{
+	=%100%piston#
+}
+
+
+// question: 25043  name: HAQ0522 
+::HAQ0522::[html]So, in each cycle, the crankshaft turns twice, and the camshaft only once. So the camshaft must turn at ................. the speed of the crankshaft.{
+	=%100%half#
+}
+
+
+// question: 25044  name: HAQ0523 
+::HAQ0523::[html]In 2-stroke engines, the crankcase is sealed and fuel circulates through it as part of the fuel ................. system.{
+	=%100%intake#
+}
+
+
+// question: 25045  name: HAQ0524 
+::HAQ0524::[html]To get the mixture to the combustion chamber, a third passageway called the ................. port is used.{
+	=%100%transfer#
+}
+
+
+// question: 25046  name: HAQ0525 
+::HAQ0525::[html]Removing exhaust gases is called ................. If they aren't fully removed, it reduces engine efficiency.{
+	=%100%scavenging#
+}
+
+
+// question: 25047  name: HAQ0526 
+::HAQ0526::[html]How scavenging occurs depends on the design of the cylinder and ports. ................. scavenging occurs when mixture enters on one side of the cylinder, and exhaust gases exit on the other side.{
+	=%100%crossflow#
+	=%100%cross flow#
+	=%100%cross-flow#
+}
+
+
+// question: 25048  name: HAQ0527 
+::HAQ0527::[html]................. scavenging means scavenge mixture enters the cylinder across the top of the piston and it is caused to flow upwards in a loop before moving in the direction of the exhaust port.{
+	=%100%loop#
+}
+
+
+// question: 25049  name: HAQ0528 
+::HAQ0528::[html]Oil, air and fuel enter the crankcase. The high temperatures vaporize the fuel and the oil ................. the moving parts.{
+	=%100%lubricates#
+}
+
+
+// question: 25050  name: HAQ0529 
+::HAQ0529::[html]With its weight evenly balanced, this top spins properly. By adding a magnet it now becomes unbalanced. Put an identical magnet on the other side. Then the weight is balanced again. The second magnet acts as a .................{
+	=%100%counterweight#
+}
+
+
+// question: 25051  name: HAQ0530 
+::HAQ0530::[html]The Crankshaft is held in place in the engine block by main bearings at points called .................{
+	=%100%journals#
+}
+
+
+// question: 25052  name: HAQ0531 
+::HAQ0531::[html]The crankshaft also needs to be located to stop lateral movement. This is done by using .................{
+	=%100%flanges#
+}
+
+
+// question: 25053  name: HAQ0532 
+::HAQ0532::[html]On the rear of the crankshaft is a heavy .................{
+	=%100%flywheel#
+}
+
+
+// question: 25054  name: HAQ0533 
+::HAQ0533::[html]Modern pistons are made of .................{
+	=%100%aluminium alloy#
+	=%100%aluminum alloy#
+}
+
+
+// question: 25055  name: HAQ0534 
+::HAQ0534::[html]When the piston is fitted to the cylinder, there must not be too much clearance. It has to seal in huge pressures and temperatures generated by .................{
+	=%100%combustion#
+}
+
+
+// question: 25056  name: HAQ0535 
+::HAQ0535::[html]The top 2 piston rings are called compression rings. The lower ring is an ................. control ring.{
+	=%100%oil#
+}
+
+
+// question: 25057  name: HAQ0536 
+::HAQ0536::[html]An alloy is a combination of materials to make a substance that has properties that are ................. from the original materials.{
+	=%100%different#
+}
+
+
+// question: 25058  name: HAQ0537 
+::HAQ0537::[html]Aluminum by itself is too ................. to stand up to the pressures a piston copes with.{
+	=%100%soft#
+}
+
+
+// question: 25059  name: HAQ0538 
+::HAQ0538::[html]In the same way, different ................. can be made with a huge range of properties, by changing levels of carbon in iron.{
+	=%100%steels#
+}
+
+
+

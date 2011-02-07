@@ -1,0 +1,43 @@
+%p
+  = label_tag :client_prefix, "Client Prefix / FLA"
+  &= resource.prefix
+
+%p
+  = label_tag :client_name, "Account Name"
+  &= resource.name
+
+- if resource.emergency_number.present?
+  %p
+    = label_tag :emergency_number, "Contact Telephone Number"
+    &= resource.emergency_number
+
+%p
+  = label_tag :expiry_date, "Subscription Expiry"
+  &= resource.expires_on.to_s(:db)
+
+%p
+  = label_tag :_count, "No of Student Logins Issued"
+  = resource.students.count
+
+%p
+  = label_tag :_count, "No of Student Logins Unallocated"
+  = resource.remaining_students
+
+%p
+  = label_tag :_count, "No of Supervisor/Instructors"
+  1
+
+%p
+  = label_tag :_count, "No of Additional Instructor Logins Issued"
+  = resource.instructors.count
+
+%p
+  = label_tag :_count, "No of Additional Instructor Logins Unallocated"
+  = resource.remaining_instructors
+
+%p
+  = f.label :time_zone, "Time Zone"
+  = f.time_zone_select :time_zone, ActiveSupport::TimeZone.us_zones + ActiveSupport::TimeZone.non_us_zones, :default => "Eastern Time (US & Canada)" 
+
+%br
+  .centre= update_button_tag

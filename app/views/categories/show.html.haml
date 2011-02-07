@@ -1,0 +1,54 @@
+-# FIXME: This seems very long winded. Must be a more elegant solution
+- cache(resource) do
+  %table#partitioned
+    - if resource.level == (0 + (current_menu_version.has_heirarchical_root? ? 1 : 0))
+      %thead
+        %tr
+          %th Topic Area
+          %th Topic Group
+          %th Topic
+
+      - resource.children.each do |category|
+        - children = category.children
+        %tbody
+          %tr.top-border
+            %th.ie6-top-border.topic-areas{ :rowspan => children.count }= link_to category.name, category, :class => category.kind
+            %td.ie6-top-border.topic-groups= link_to children[0].name, children[0], :class => children[0].kind
+            %td.ie6-top-border.topics= children[0].items.map { |item| link_to(item.name, [children[0], item], :class => item.kind) }.join(" + ")
+
+          - children[1..-1].each do |child_category|
+            %tr
+              %td.topic-groups= link_to child_category.name, child_category, :class => child_category.kind
+              %td.topics= child_category.items.map { |item| link_to(item.name, [child_category, item], :class => item.kind) }.join(" + ")
+
+    - if resource.level == (1 + (current_menu_version.has_heirarchical_root? ? 1 : 0))
+      ? ? 1 : 0))
+      %thead
+        %tr
+          %th Topic Group
+          %th Topic
+          %th Description
+
+      - resource.children.each do |child|
+        %tbody
+          %tr.top-border
+            %td.ie6-top-border.topic-groups{ :rowspan => child.items.count }= link_to child.name, child, :class => child.kind
+            %td.ie6-top-border.topics= link_to child.items[0].name, [child, child.items[0]], :class => child.items[0].kind
+            %td.ie6-top-border.topic-description= child.items[0].try(:description)
+      
+          - child.items[1..-1].each do |item|
+            %tr
+              %td.topics= link_to item.name, [child, item], :class => item.kind
+              %td.topic-description= item.try(:description)
+      
+    - if resource.level == (2 + (current_menu_version.has_heirarchical_root? ? 1 : 0))
+      %thead
+        %tr
+          %th{ :style => "width: 33%" } Topic
+          %th{ :style => "width: 66%" } Description
+
+      %tbody
+        - resource.items.each do |item|
+          %tr
+            %td.topics= link_to item.name, [resource, item], :class => item.kind
+            %td.topic-description= item.try(:description)

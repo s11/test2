@@ -1,0 +1,35 @@
+%h1 Login
+
+.ui-widget
+  .ui-state-highlight.ui-corner-all{ :style => "padding: 0.5em 1em;" }
+    %span.ui-icon.ui-icon-info{ :style => "float: left; margin-right: .3em;" }
+    Your session has expired. This is because it has either timed out or your login credentials have been used on another computer. Please login again.
+
+%br
+%br
+- form_for(@user_session, :url => user_session_path) do |f|
+  = f.error_messages
+
+  = label_tag :client_prefix, "Access Code (School Code)"
+  %br
+  = text_field_tag :client_prefix, params[:client_prefix], :size => 5, :maxlength => 4
+  %br
+  %br
+  = f.label :username
+  %br
+  = f.text_field :username
+  %br
+  %br
+  = f.label :password
+  %br
+  = f.password_field :password
+  %br
+  %br
+  %button.centre.ui-button{:type => "submit"} Login
+  %br
+  %br
+  %div
+    <b>OR</b> download the launcher application <a href='http://www.cdxglobal.com/launcher/'>here</a> to access CDX Online.
+
+- content_for(:onload) do
+  $('input#client_prefix').focus();

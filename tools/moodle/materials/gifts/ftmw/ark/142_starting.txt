@@ -1,0 +1,164 @@
+// question: 32479  name: HAQ2883 
+::HAQ2883::[html]The self-starter (commonly referred to as the starter .................) is a necessity for internal-combustion engines, because the Otto cycle requires the pistons already to be in motion before the ignition phase of the cycle.{
+	=%100%motor#
+}
+
+
+// question: 32480  name: HAQ2884 
+::HAQ2884::[html]The modern starter motor is an electric motor with a ................. switch, similar to a relay, bolted to its side.{
+	=%100%solenoid#
+}
+
+
+// question: 32481  name: HAQ2885 
+::HAQ2885::[html]The solenoid also closes high-current ................. (powered through the thick red cable in the image) for the starter motor and it starts to run. If the engine starts the key switch is released, the solenoid pulls the small gear back off the starter gear and the starter motor stops running.{
+	=%100%contacts#
+}
+
+
+// question: 32482  name: HAQ2886 
+::HAQ2886::[html]During starting, two actions occur. The pinion of the starter motor engages with the ................. ring gear, and the starter motor then operates to 'crank' the engine.{
+	=%100%flywheel#
+}
+
+
+// question: 32483  name: HAQ2887 
+::HAQ2887::[html]The starter motor is an electric motor mounted on the engine ................. and operated from the battery.{
+	=%100%block#
+}
+
+
+// question: 32484  name: HAQ2888 
+::HAQ2888::[html]A direct-current motor is a device for converting DC electrical energy into rotating ................. energy.{
+	=%100%mechanical#
+}
+
+
+// question: 32485  name: HAQ2889 
+::HAQ2889::[html]The starter motor converts electrical energy to mechanical energy and is mounted on the cylinder ................. in a position to engage a ring gear on the engine flywheel.{
+	=%100%block#
+}
+
+
+// question: 32486  name: HAQ2890 
+::HAQ2890::[html]Plunger movement engages the drive pinion with the ................. gear and closes a set of heavy duty contacts, allowing a large current to flow from the battery to the starter motor, rotating the armature and drive pinion, and causing the crankshaft to spin.{
+	=%100%ring#
+}
+
+
+// question: 32487  name: HAQ2891 
+::HAQ2891::[html]Motion is produced when a current carrying wire is in the presence of magnetic field. The motion is determined by two factors, the direction of the ................. and the direction of the magnetic field.{
+	=%100%current#
+}
+
+
+// question: 32488  name: HAQ2892 
+::HAQ2892::[html]The magnetic ................. is provided by the by the housing, or the stator.{
+	=%100%flux#
+}
+
+
+// question: 32489  name: HAQ2893 
+::HAQ2893::[html]Starter motor construction - The armature shaft is supported at each end by ................. pressed into end frames which locate the armature centrally in the outer casing or yoke of the motor.{
+	=%100%bushes#
+}
+
+
+// question: 32490  name: HAQ2894 
+::HAQ2894::[html]The commutator serves as a sliding electrical connection between the motor windings and the brushes and is mounted on one end of the ................. shaft.{
+	=%100%armature#
+}
+
+
+// question: 32491  name: HAQ2895 
+::HAQ2895::[html]The ................. end frame carries the copper-impregnated carbon brushes which conduct current through the armature when it is being rotated in operation.{
+	=%100%commutator#
+}
+
+
+// question: 32492  name: HAQ2896 
+::HAQ2896::[html]The electro-magnets are formed by current flow through heavy strip copper windings, wound around iron pole shoes which are fastened to the yoke.  The yoke is made of iron and serves to concentrate the magnetic field produced by the field .................{
+	=%100%magnets#
+}
+
+
+// question: 32493  name: HAQ2897 
+::HAQ2897::[html]Because the resistance of the field and armature windings is low, the current flow is high when the motor starts under load and this generates a strong magnetic field that will produce a high turning effort at ................. speeds.{
+	=%100%low#
+}
+
+
+// question: 32494  name: HAQ2898 
+::HAQ2898::[html]Some series wound motors have the field windings in ................. with each other but then in series with the armature.{
+	=%100%parallel#
+}
+
+
+// question: 32495  name: HAQ2899 
+::HAQ2899::[html]The operating fork locates in a guide ring on a pinion driver which is coupled to the pinion via a roller type over-running ................. designed to transmit drive in one direction only.{
+	=%100%clutch#
+}
+
+
+// question: 32496  name: HAQ2900 
+::HAQ2900::[html]Slight armature rotation and the force from the meshing spring allows the pinion ................. to drop into mesh with the ring gear assisted by the screw action of the helix.{
+	=%100%teeth#
+}
+
+
+// question: 32497  name: HAQ2901 
+::HAQ2901::[html]The pinion has only a small number of teeth compared to the ................. and this means the armature will rotate several times for each revolution of the flywheel.{
+	=%100%ring gear#
+	=%100%ring-gear#
+}
+
+
+// question: 32498  name: HAQ2902 
+::HAQ2902::[html]When current flows in a conductor, an electromagnetic field is generated around it. If the ................. is placed so that it cuts across a stationary magnetic field, the conductor will be forced out of the stationary field.{
+	=%100%conductor#
+}
+
+
+// question: 32499  name: HAQ2903 
+::HAQ2903::[html]Reversing the direction of current flow in the conductor will cause the conductor to move in the ................. direction.{
+	=%100%opposite#
+}
+
+
+// question: 32500  name: HAQ2904 
+::HAQ2904::[html]An example commutator consists of two semi-circular segments which are connected to the two ends of the loop and are insulated from each other. Carbon impregnated brushes provide a sliding connection to the ................. to complete the circuit and allow current to flow through the loop.{
+	=%100%commutator#
+}
+
+
+// question: 32501  name: HAQ2905 
+::HAQ2905::[html]The starter motor is usually brought into operation by activating a starter switch as part of ignition key operation. This remote control operates a starter mounted ................. which has two functions.{
+	=%100%solenoid#
+}
+
+
+// question: 32502  name: HAQ2906 
+::HAQ2906::[html]In the control circuit, the ignition lock start switch has a positive connection from the battery and a connection to two windings in the starter solenoid. One of these is a 'pull-in' winding which has a low resistance value and the other is a 'hold-in' winding which has a ................. resistance.{
+	=%100%high#
+}
+
+
+// question: 32503  name: HAQ2907 
+::HAQ2907::[html]The pull-in winding is connected to the main starter terminal leading to the field and armature windings and its circuit will be completed through the armature to ground on the starter casing and by frame return to the ................. battery terminal.{
+	=%100%negative#
+}
+
+
+// question: 32504  name: HAQ2908 
+::HAQ2908::[html]The high current flow through the low resistance pull-in winding creates a strong magnetic field which attracts the solenoid plunger towards the main terminals. Plunger movement also operates the shift fork lever engaging the pinion with the ................. gear.{
+	=%100%ring#
+}
+
+
+// question: 32505  name: HAQ3829 
+::HAQ3829::[html]When the engine initially fires, the ring gear tries to drive the pinion and the force acting through the ................. is relieved.{
+	=%100%helix#
+}
+
+
+

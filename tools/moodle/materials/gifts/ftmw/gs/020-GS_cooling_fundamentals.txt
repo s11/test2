@@ -1,0 +1,47 @@
+// question: 24203  name: HAQ0820 
+::HAQ0820::[html]Combustion of the air-fuel mixture in the .............................. generates heat which produces high pressure, to force the piston down in the power stroke.{
+	=%100%cylinders#
+	=%100%cylinder#
+}
+
+
+// question: 24204  name: HAQ0821 
+::HAQ0821::[html]Most engines are ..............................-cooled.{
+	=%100%liquid#
+}
+
+
+// question: 24205  name: HAQ0822 
+::HAQ0822::[html]A liquid-cooled system uses coolant - a fluid that contains special chemicals mixed with water. Coolant flows through passages in the engine, and through a ...............................{
+	=%100%radiator#
+}
+
+
+// question: 24206  name: HAQ0823 
+::HAQ0823::[html]Air flowing around, and through the radiator takes heat from the coolant. The lower-temperature coolant is returned to the engine through a ...............................{
+	=%100%pump#
+}
+
+
+// question: 24207  name: HAQ0824 
+::HAQ0824::[html]Some engines use cooling fins. Their design makes the exposed surface area as large as possible, which allows more heat energy to radiate away, and be carried off in .............................. currents in the air.{
+	=%100%convection#
+}
+
+
+// question: 24208  name: HAQ0830 
+::HAQ0830::[html]Coolant prevents an engine from .............................. in use and from freezing when idle.{
+	=%100%overheating#
+}
+
+
+// question: 24209  name: HAQ0831 
+::HAQ0831::[html]An effective coolant must be as chemically .............................. as possible.{
+	=%100%stable#
+}
+
+
+// question: 24210  name: HAQ0832 
+::HAQ0832::[html]There are three types of .............................. used in coolants: conventional, or inorganic additives; organic additives, and a hybrid mix of the two.{
+	=%100%additives#
+}

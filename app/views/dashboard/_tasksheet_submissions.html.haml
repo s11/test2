@@ -1,0 +1,62 @@
+.box.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  .ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all.ui-state-default
+    %h4{:style => "margin: 5px 10px"}
+      - if current_user.role.student?
+        %span.ui-icon.ui-icon-help.fright &nbsp;
+        Recently Approved Tasksheets
+      - else
+        %span.ui-icon.ui-icon-check.fright &nbsp;
+        Tasksheets Pending Approval
+
+  .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - unless current_client.is_subscribed_to_natef_task_areas
+      - information_box do
+        - if current_user.role.supervisor?
+          %p No NATEF areas are selected and you cannot submit any tasksheets. Click here to update.
+        - elsif current_user.role.instructor?
+          %p No NATEF areas are selected and you cannot sumbit any tasksheet. Ask your supervisor (#{ current_client.supervisor }) to set up the NATEF areas for tasksheet submission.
+
+    - information_box do
+      - if current_user.role.student?
+        You can only submit tasksheets for class groups you are assigned to.
+        == You are in #{ current_user.class_groups.count > 0 ? current_user.class_groups.map(&:name) * ', ' : "no groups" }. #{ link_to "Click here to update", profile_path }.
+      - else
+        Instructors can only process tasksheets for class groups they are assigned to. CDX Online Supervisors can process tasksheets for students in any group.
+
+      - if current_user.class_groups.count > 0
+        == You are assigned to #{current_user.class_groups.map { |c| link_to c.name, edit_class_group_path(c) } * ', ' || 'no'} class group#{'s' if current_user.class_groups.count > 1}.
+        = link_to "Click here to update.", profile_path
+
+
+    %br
+    - if @tasksheet_submissions.present?
+      %table#listing
+        %thead.ui-widget-header
+          - unless current_user.role.student?
+            %th Student
+            %th Class / Group
+
+          %th Tasksheet
+          %th Description
+          %th Grade
+          %th Completed On
+
+        %tbody{ :style => "font-size: smaller"}
+          - @tasksheet_submissions.each do |submission|
+            %tr[submission]{ :class => cycle(:odd, :even) }
+              - unless current_user.role.student?
+                %td&= submission.user.fullname
+                %td&= submission.class_group.try(:name)
+
+              %td.centre= submission.tasksheet.number
+              %td= truncate(submission.tasksheet.description, 50)
+              %td.centre= submission.grade
+              %td.centre= submission.completed_on
+
+      .right= link_to "More...", current_user.role.student? ? approved_tasksheet_submissions_path : pending_tasksheet_submissions_path
+      
+    - else
+      - if current_user.role.student?
+        You have no approved tasksheets.
+      - else
+        There are currently no tasksheets awaiting your approval.

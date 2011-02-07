@@ -1,0 +1,12 @@
+= swf_tag "/dashboard/#{current_menu.id}/animation.swf", :width => "700", :height => "250"
+= image_tag "/dashboard/#{current_menu.id}/bottom.jpg", :style => "margin-top: -3px"
+
+-# FIXME: Stylesheet!
+%table{ :style => 'width:auto;position:absolute;left:375px;top:350px;width:400px;z-index:1;background-color:#ddd;border:2px solid #888' }
+  %body
+    %tr
+      %td{:style => "padding: 4px"}= link_to image_tag("little_red_triangle.gif") + "How to Navigate CDX Plus", info_navigation_path
+    %tr
+      %td{:style => "padding: 4px"}= link_to image_tag("little_red_triangle.gif") +  "Know-See-Do-Prove Color Codes", info_ksdp_path
+    %tr
+      %td{:style => "padding: 4px"}= link_to image_tag("little_red_triangle.gif") +  "Contact Details", info_contacts_path

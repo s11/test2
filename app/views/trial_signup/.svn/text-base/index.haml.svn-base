@@ -1,0 +1,67 @@
+- unless flash[:error].blank?
+  .error= flash[:error]
+
+- form_for(@user, :url => {:controller => 'trial_signup', :action => 'create'}) do |f|
+  %fieldset
+    %legend Pearson Representative Details
+
+    %div.required
+      .help ?
+      = label_tag('repcode', "Code:")
+      = text_field_tag(:repcode, params[:repcode])
+
+  %fieldset
+    %legend Trial User Details
+
+    %div.required
+      .help ?
+      = f.label(:firstname, 'First Name:')
+      = f.text_field(:firstname)
+
+    %div.required
+      .help ?
+      = f.label(:lastname, 'Last Name:')
+      = f.text_field(:lastname)
+
+    %div.required
+      .help ?
+      = f.label(:email, 'Email Address:')
+      = f.text_field(:email)
+
+    %div.required
+      .help ?
+      = f.label(:institution, 'Institution:')
+      = f.text_field(:institution)
+
+    %div.required
+      .help ?
+      = f.label(:city, 'City:')
+      = f.text_field(:city)
+
+    %div#region.required
+      .help ?
+      = f.label(:state, 'State:')
+      = select_tag('cdx_user[state]', country_region_option_groups_for_select(Country.find_by_name(@user.country)), :id => "cdx_user_state")
+    
+    = f.hidden_field(:country)
+
+    -# %div.required
+    -#   .help ?
+    -#   = f.label(:country, 'Country:')
+    -#   = f.collection_select(:country, Country.all, :name, :name, {}, :disabled => 'disabled')
+    -#   = observe_field('cdx_user_country', :url => { :action => 'update_regions' }, :with => "country", :on => :changed)
+
+  %fieldset
+    %legend Trial User Logon Details
+
+    %div.required
+      .help ?
+      = f.label(:username, 'Preferred Username:')
+      = f.text_field(:username)
+
+    %div.required
+      .help ?
+      = f.label(:role_shortname, "User Type:")
+      = f.select(:role_shortname, [['Instructor', 'instructor'], ['Student', 'student']])
+
+  .centre= f.submit("Submit", :class => "submit")

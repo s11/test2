@@ -1,0 +1,45 @@
+//name:TQ1360
+::TQ1360::The temperature at which absolute zero is defined is:{
+	=-273 degrees Celsius or - 460 Fahrenheit.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+	~-459 degrees Kelvin.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+	~-169 degrees Celsius or -273 degrees Fahrenheit.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+	~0 degrees Celsius or 32 degrees Fahrenheit.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+}
+
+
+//name:TQ1361
+::TQ1361::Identify the particle that does NOT form part of an atom:{
+	=molecule.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+	~proton.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+	~electron.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+	~neutron.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+}
+
+
+//name:TQ1362
+::TQ1362::In an electrical charge what is defined as the total amount of electrical charge represented by one ampere of current passing a point in one second.{
+	=A Coulomb.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+	~A Volt.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+	~An electrometer.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+	~An electromagnetic field.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+}
+
+
+//name:TQ1363
+::TQ1363::Good conductors have:{
+	=low resistance. #Conductors are materials that allow an electric current to pass with low resistance.
+	~high resistance.#Conductors are materials that allow an electric current to pass with low resistance.
+	~semiconductor properties.#Conductors are materials that allow an electric current to pass with low resistance.
+	~infinite resistance.#Conductors are materials that allow an electric current to pass with low resistance.
+}
+
+
+//name:TQ1364
+::TQ1364::The acid solution in a battery is called an:{
+	=electrolyte.#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+	~battery water.#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+	~de-mineralized water.#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+	~pure sulfuric acid#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+}
+
+

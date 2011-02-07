@@ -1,0 +1,146 @@
+// question: 30951  name: HAQ2398 
+::HAQ2398::[html]In front wheel drive vehicles the engine can be mounted transversely, or .................{
+	=%100%longitudinally#
+}
+
+
+// question: 30952  name: HAQ2399 
+::HAQ2399::[html]Drive reaches the front wheels through a transmission and final drive unit called a .................{
+	=%100%transaxle#
+}
+
+
+// question: 30953  name: HAQ2400 
+::HAQ2400::[html]When a gear is engaged, drive is transferred to a secondary shaft, and, through a secondary shaft pinion, to a helical ring gear attached to the ................. case.{
+	=%100%differential#
+}
+
+
+// question: 30954  name: HAQ2401 
+::HAQ2401::[html]Mounting the engine longitudinally, means the drive must be turned through ................. degrees. A crown wheel and pinion is commonly used for this purpose.{
+	=%100%ninety#
+	=%100%90#
+}
+
+
+// question: 30955  name: HAQ2402 
+::HAQ2402::[html]The final drive bevel pinion is formed on the output shaft and meshes with a crown ................. attached to the differential case.{
+	=%100%wheel#
+}
+
+
+// question: 30956  name: HAQ2403 
+::HAQ2403::[html]In a conventional rear wheel drive, engine and transmission are mounted ................. at the front. Drive is transmitted to a rear axle assembly by a propeller shaft.{
+	=%100%longitudinally#
+}
+
+
+// question: 30957  name: HAQ2404 
+::HAQ2404::[html]Vehicles with rear or mid-mounted engines normally use a ................., and transfer the drive to the driving road wheels by independent drive shafts.{
+	=%100%transaxle#
+}
+
+
+// question: 30958  name: HAQ2405 
+::HAQ2405::[html]In beam axle applications, suspension action makes the final drive assembly rise and fall relative to the vehicle .................{
+	=%100%frame#
+}
+
+
+// question: 30959  name: HAQ2406 
+::HAQ2406::[html]Change in length is accommodated by a sliding spline in the shaft. Angle changes are provided for by a universal ................. at each end.{
+	=%100%joint#
+}
+
+
+// question: 30960  name: HAQ2407 
+::HAQ2407::[html]For independent suspension, universal joints help align the ................. and final drive, and a sliding spline is still included to allow for slight variations in length.{
+	=%100%transmission#
+}
+
+
+// question: 30961  name: HAQ2408 
+::HAQ2408::[html]Four wheel drive can be selected for abnormal surfaces and disconnected for normal road surfaces. In this application, the engine and ................. are mounted longitudinally at the front.{
+	=%100%transmission#
+}
+
+
+// question: 30962  name: HAQ2409 
+::HAQ2409::[html]The beam type axle housings enclose the crown wheel and pinion and ................. gears, and the offset propeller shafts mean the drive is transmitted through short and long axle shafts to the driving wheels.{
+	=%100%differential#
+}
+
+
+// question: 30963  name: HAQ2410 
+::HAQ2410::[html]When four wheel drive is engaged, the front and rear ................. shafts are locked together and driven at the same speed. Drive is transmitted to front and rear final drive units simultaneously.{
+	=%100%propeller#
+}
+
+
+// question: 30964  name: HAQ2411 
+::HAQ2411::[html]All wheel drive - in this four-wheel drive vehicle, the engine and transmission are mounted longitudinally at the front. Propeller shafts transfer the drive from a ................. case on the rear of the transmission, to final drive units at front and rear.{
+	=%100%transfer#
+}
+
+
+// question: 30965  name: HAQ2412 
+::HAQ2412::[html]All wheel drive - A third ................. is in the transfer case, between the front and rear output shafts to the final drive units.{
+	=%100%differential#
+}
+
+
+// question: 30966  name: HAQ2413 
+::HAQ2413::[html]All wheel drive - In extremely slippery conditions, engaging low range automatically activates a differential ................. to prevent third differential operation.{
+	=%100%lock#
+}
+
+
+// question: 30967  name: HAQ2414 
+::HAQ2414::[html]All-wheel drive systems ................. power all four wheels and provide maximum traction in all driving conditions.{
+	=%100%continuously#
+}
+
+
+// question: 30968  name: HAQ2415 
+::HAQ2415::[html]Many 4WD systems are full-time. In a conventional full-time 4WD vehicle, a differential is used inside the ................. case to make 4WD use on pavement possible.{
+	=%100%transfer#
+}
+
+
+// question: 30969  name: HAQ2416 
+::HAQ2416::[html]To avoid loss of traction, some full time 4WD vehicles provide a center ................. lock as a means of spin control.{
+	=%100%differential#
+}
+
+
+// question: 30970  name: HAQ2417 
+::HAQ2417::[html]In an automobile and other wheeled vehicles, a differential is a device, usually consisting of gears, for supplying equal ................. to the driving wheels, even as they rotate at different speeds.{
+	=%100%torque#
+}
+
+
+// question: 30971  name: HAQ2418 
+::HAQ2418::[html]Differentials are typically composed of a gear mechanism in which a ring gear receives input power, which is transferred to two side gears by means of usually two opposing central ................. gears on a common shaft.{
+	=%100%pinion#
+}
+
+
+// question: 30972  name: HAQ2419 
+::HAQ2419::[html]When the vehicle turns a corner, or one of the wheels encounters resistance, the pinion gears rotate around the side with the ................. resistance; this rotation drives the other side gear with additional speed.{
+	=%100%most#
+}
+
+
+// question: 30973  name: HAQ2420 
+::HAQ2420::[html]Vehicles without a center differential should not be driven on dry, paved roads in all wheel drive mode, as small differences in rotational speed between the front and rear of the vehicle cause a torque to be applied across the .................{
+	=%100%transmission#
+}
+
+
+// question: 30974  name: HAQ2421 
+::HAQ2421::[html]A differential gear train can also be used to give the difference between two input .................{
+	=%100%axles#
+}
+
+
+

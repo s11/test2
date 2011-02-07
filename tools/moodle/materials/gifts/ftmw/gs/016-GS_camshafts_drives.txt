@@ -1,0 +1,95 @@
+// question: 24041  name: HAQ0742 
+::HAQ0742::[html]The position of the camshaft depends on the design of the engine. It can be in the engine block close to the crankshaft - this is a called a pushrod or .............................. valve system.{
+	=%100%overhead#
+}
+
+
+// question: 24042  name: HAQ0743 
+::HAQ0743::[html]The camshaft has a cam for each ...............................{
+	=%100%valve#
+}
+
+
+// question: 24043  name: HAQ0744 
+::HAQ0744::[html]A .............................. on the camshaft drives the ignition distributor, and, often, an oil pump.{
+	=%100%gear#
+}
+
+
+// question: 24044  name: HAQ0745 
+::HAQ0745::[html]The overhead camshaft is located in the ............................... There can be 1 or 2 camshafts.{
+	=%100%cylinder-head#
+	=%100%cylinder head#
+}
+
+
+// question: 24045  name: HAQ0746 
+::HAQ0746::[html]On double overhead camshaft systems, the most common arrangement is to use a bucket tappet or ...............................{
+	=%100%lifter#
+}
+
+
+// question: 24046  name: HAQ0747 
+::HAQ0747::[html]Some overhead cam engines use a hydraulic lash adjuster to reduce lash in the valve ...............................{
+	=%100%train#
+}
+
+
+// question: 24047  name: HAQ0748 
+::HAQ0748::[html]Like the hydraulic valve lifter, the lash adjuster has a body with plunger held against the valve stem by a ...............................{
+	=%100%spring#
+}
+
+
+// question: 24048  name: HAQ0749 
+::HAQ0749::[html]The lash adjusters are stationary and have a pivot for the end of the rocker arm. The plunger in the adjuster holds the rocker up against the ...............................{
+	=%100%cam#
+}
+
+
+// question: 24049  name: HAQ0750 
+::HAQ0750::[html]The cam lobe performs 3 jobs. It opens a valve at the proper time and gives it proper lift. It lets it stay open for a sufficient time. Then it lets it .............................. at the proper time.{
+	=%100%close#
+}
+
+
+// question: 24050  name: HAQ0751 
+::HAQ0751::[html]Valve timing can vary from engine to engine, as set out in manufacturers' specifications, in the valve timing ...............................{
+	=%100%diagram#
+}
+
+
+// question: 24051  name: HAQ0752 
+::HAQ0752::[html]The shape of the cam is called the cam .............................. or contour.{
+	=%100%profile#
+}
+
+
+// question: 24052  name: HAQ0753 
+::HAQ0753::[html]The nose of the cam, B, reaches the valve lifter - and the valve is fully ...............................{
+	=%100%open#
+}
+
+
+// question: 24053  name: HAQ0754 
+::HAQ0754::[html]The camshaft must always be synchronised to run in time with the ...............................{
+	=%100%crankshaft#
+}
+
+
+// question: 24054  name: HAQ0755 
+::HAQ0755::[html]Timing belts and chains are used on .............................. camshaft engines.{
+	=%100%overhead#
+}
+
+
+// question: 24055  name: HAQ0756 
+::HAQ0756::[html]A typical chain drive system uses a .............................. tensioner which is fed by oil under pressure from the lubrication system.{
+	=%100%hydraulic#
+}
+
+
+// question: 24056  name: HAQ0757 
+::HAQ0757::[html]Timing belts are quieter than chains but usually require regular manual tensioning. They also have a .............................. life than chains.{
+	=%100%shorter#
+}

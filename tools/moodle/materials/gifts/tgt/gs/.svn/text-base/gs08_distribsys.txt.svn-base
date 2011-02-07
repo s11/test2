@@ -1,0 +1,27 @@
+//name:TQ1092
+::TQ1092::In direct fire ignition what is the cylinder on compression stroke called?{
+	='Event cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+	~'Waste cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+	~'Spark cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+	~'Companion cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+}
+
+
+//name:TQ1093
+::TQ1093::What is on advantage of a system which employs an individual coil for each cylinder?{
+	=It eliminates the necessity for high tension leads.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+	~It allows the engine managament control module to minimise voltage leakage from high tension leads.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+	~It prolongs the life of the sparkplug.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+	~It elimates the need for a 'Waste cylinder'.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+}
+
+
+//name:TQ1095
+::TQ1095::Companion cylinders on engines fitted with waste spark ignition:{
+	=have pistons at top dead center at the same time.#One piston is on the power stroke and the other is on the exhaust stroke.
+	~have pistons on compression at the same time.#One piston is on the power stroke and the other is on the exhaust stroke.
+	~have individual coils for each cylinder.#One piston is on the power stroke and the other is on the exhaust stroke.
+	~fire consecutively in the firing order.#One piston is on the power stroke and the other is on the exhaust stroke.
+}
+
+

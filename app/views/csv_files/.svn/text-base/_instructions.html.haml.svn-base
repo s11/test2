@@ -1,0 +1,60 @@
+%div{:style => "margin: 0 0 20px 20px; "}
+  %strong
+    = link_to image_tag('pdficon.jpg') + "&nbsp;&nbsp;Detailed Instructions", info_pdf_url('Adding_Multiple_Users')
+
+%ol
+  %li
+    %h3 Download the latest sample Users Upload Spreadsheet CSV file
+
+    %h4 Example of the file:
+
+    = image_tag('csv_import/sample_students.jpg')
+
+    %p
+      Download the latest sample
+      %strong= link_to "Users Upload Spreadsheet", sample_csv_download_path
+      (Remember to select 'Save' when you download)
+
+  %li
+    %h3 Modify the file to suit your situation
+
+    %p
+      %span.maroon Remember:
+      Don't change the header row
+
+    %p= image_tag("csv_import/sample_students_annotated.jpg")
+
+    %table{:cellspacing => 0}
+      %tr
+        %th.right Usernames:
+        %td.darkgreen must contain <strong>alphanumeric</strong> characters, hyphen <strong>(-)</strong> or period <strong>(.)</strong> only.
+
+      %tr
+        %th.right{:rowspan => 2} Passwords:
+        %td.darkgreen may contain <strong>alphanumeric</strong> characters or the asterisk <strong>(*)</strong>
+
+      %tr
+        %td.darkgreen are <span style="color: maroon"><strong>CaSE sEnsiTIvE</strong></span>
+
+    %p
+      %dl
+        %dt First time:
+        %dd You can use the import tool more than once, however you can only create as many rows in total as you have subscribed logons.
+
+        %dt Subsequently:
+        %dd The total of any newly-added users plus existing users must not exceed number of subscribed logons
+
+  %li
+    %h3 Save your spreadsheet file as a CSV file
+    
+    %p Please ensure you save your modified version of the spreadsheet to a safe location on your PC as it contains a record of student passwords
+
+    %p Remember: ensure that you have filled in the entries for
+
+    %ul.prepend-1
+      %li username
+      %li password
+      %li firstname
+      %li lastname
+
+    %p as an absolute minimum.

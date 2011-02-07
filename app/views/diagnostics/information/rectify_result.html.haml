@@ -1,0 +1,12 @@
+#information
+  %h1 Information
+  
+  - if params[:choice_quality].eql?('poor')
+    %p If you have lost one or more points you have not selected the best procedure to Rectify the problem.  Use the Rectify button to return and make another choice.
+    
+    %p Hints: If you make a poor choice you will be offered the chance to receive a hint upon returning to the Identify step.
+    
+    %p If you are unsure with rectification action is appropriate, consult with your instructor.
+  
+  - else
+    %p Congratulations, you have selected the correct test to Rectify the cause of the problem.

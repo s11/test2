@@ -1,0 +1,61 @@
+//name:TQ0021
+::TQ0021::If a casualty has a 'stake' wound, you should:{
+	=Leave the object in position and apply a doughnut bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+	~Push the object all the way through, then apply a bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+	~Pull the object out, then apply a bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+	~Twist the object until it comes out, then apply a bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+}
+
+
+//name:TQ0022
+::TQ0022::If an object is embedded in the eye, you should:{
+	=not attempt to remove it.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+	~remove it with surgical tweezers.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+	~flush the eye with hot water.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+	~do nothing. It will come out by itself.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+}
+
+
+//name:TQ0023
+::TQ0023::When treating a burn, you should:{
+	=not apply any ointments or lotions.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+	~cover the burn with a tight dressing.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+	~puncture blisters to relieve pain.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+	~give alcohol to relieve pain.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+}
+
+
+//name:TQ0024
+::TQ0024::When you approach the scene of an accident or emergency, you should follow the:{
+	=DRABC plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+	~CPR plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+	~ABC plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+	~HVAC plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+}
+
+
+//name:TQ0025
+::TQ0025::When lifting heavy weights you should always try to keep the back straight and lift from the knees.{
+	=TRUE#Good lifting habits will prevent injuries to one's back.  Leg muscles are stronger than back muscles.
+	~FALSE#Good lifting habits will prevent injuries to one's back.  Leg muscles are stronger than back muscles.
+}
+
+
+//name:TQ0026
+::TQ0026::What personal protection should you use when working with corrosive chemicals?{
+	=Eye, hand and respiration protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+	~Eye and ear protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+	~Eye and respiration protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+	~Hand protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+}
+
+
+//name:TQ0027
+::TQ0027::Before you begin a vehicle service, you notice a scratch in the fender paintwork. What should you do about it?{
+	=Make a note of the damage on the job sheet, and bring it to the attention of your supervisor or to the customer.#Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+	~You shouldn't do anything about it, because repairing body damage is not your responsibility; it is not part of the service procedure. #Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+	~Make sure it is covered by the fender cover while you work on the vehicle, so you don't make any paintwork damage worse.#Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+	~After the service, when you are cleaning the vehicle for return to the customer, use some rubbing compound to remove or at least improve visible scratches.#Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+}
+
+

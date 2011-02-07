@@ -1,0 +1,109 @@
+- unless current_client.remaining_users(current_role) > 0
+  .ui-state-error.ui-corner-all{ :style => "padding: 0.5em 1em; font-weight: bold; color: #ff0; margin-bottom: 1em" }
+    %span.ui-icon.ui-icon-info.fleft{ :style => "margin-right: .3em;" }
+    - if current_role == 'instructor' && current_client.maximum_users_by_role(current_role) == 0
+      == The only instructor for this instance is the Supervisor. You have no additional instructor logins. Please email #{ mail_to("info@cdxglobal.com") } or contact your account manager to order more logons.
+    - else
+      == All of your #{current_client.maximum_users_by_role(current_role)} #{current_role} logons have been allocated. You have no more available #{current_role} logons. Please email info@cdxglobal.com or contact your account manager to order more logons.
+
+- if collection.size > 0
+  - information_box do
+    %p== You can edit individual #{current_role} data, reset passwords, allocate #{current_role}s to classes and assign #{current_role}s to a menu that is different from the institution’s default menu.
+    %p== Edit individual #{current_role.pluralize} by selecting the edit button #{icon('user_edit')}.
+    %p== Delete individual #{current_role.pluralize} by selecting the delete button #{icon('user_delete')}.
+    %p== To change a #{current_role}’s menu use the checkboxes to select the #{current_role}s and then choose the alternate menu from the drop down box at the bottom of the table. Then select “Change Menu”. Supervisors can change the default menu from the Account Details menu.
+
+  %br
+  .search.fright
+    - form_for(@search) do |f|
+      = hidden_field_tag :role, current_role
+
+      %strong Search:
+      = f.text_field :name_search
+
+      %strong Class / Group:
+      = f.select :class_groups_id_is, "<option value=''>All</option>" + options_from_collection_for_select(current_client.class_groups, :id, :name, params[:search].andand[:class_groups_id_is].to_i)
+
+      = search_button_tag
+
+  - if collection.size > 0
+    #select-links
+      == Select: #{ link_to_function "All", "$('input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('input:checkbox').attr('checked', false)" },
+      == Export: #{ link_to "CSV", params.merge(:format => "csv") }
+
+  %br
+
+  - form_tag(bulk_update_users_path, :method => :put, :id => "bulk-update") do
+    = hidden_field_tag :role, current_role
+
+    %table#listing{:cellspacing => 0}
+      %thead.ui-widget-header
+        %tr
+          %th
+            = check_box_tag :toggle_all
+            - content_for(:onload) do
+              :plain
+                $('#toggle_all').change(function() {
+                  $('#listing td input:checkbox').attr('checked', $('#toggle_all').attr('checked'));
+                });
+          %th{ :nowrap => "nowrap" } Menu
+          %th{ :nowrap => "nowrap" }= order @search, :by => :username, :params => { :role => current_role }
+          %th{ :nowrap => "nowrap" }= order @search, :by => :firstname,  :as => "First Name", :params => { :role => current_role }
+          %th{ :nowrap => "nowrap" }= order @search, :by => :lastname,   :as => "Last Name", :params => { :role => current_role }
+          - if current_role == "student"
+            %th{ :nowrap => "nowrap" }= order @search, :by => :student_id, :as => "Student ID", :params => { :role => current_role }
+
+          %th Classes / Groups
+          - if current_role == "student"
+            %th{ :nowrap => "nowrap" }= order @search, :by => :year_level, :as => "Year Level", :params => { :role => current_role }
+            
+            - if current_client.has_current_access_packs?
+              %th{ :nowrap => "nowrap" } Access Pack<br />Expires On
+          %th
+
+      %tbody
+        - collection.each do |user|
+          %tr[user, :row]{:class => cycle('even', 'odd')}
+            %td.centre= check_box_tag "user_ids[]", user.id, false, :id => "user_#{user.id}"
+            %td.centre= user.menu_version_id.blank? ? "Default" : user.menu.name
+            %td&= user.username
+            %td&= user.firstname
+            %td&= user.lastname
+
+            - if current_role == "student"
+              %td&= user.student_id
+
+            %td= truncate(user.class_groups.map(&:name) * ', ')
+
+            - if current_role == "student"
+              %td&= user.year_level
+              - if current_client.has_current_access_packs?
+                %td.centre= user.deleted_at.to_date.to_s if user.deleted_at.present?
+              
+
+            %td.centre
+              = link_to(icon('user_edit'), edit_user_path(user), :title => "Edit #{user.fullname}", :alt => "Edit #{user.fullname}")
+              = link_to(icon('user_delete'), user_path(user, :role => current_role), :confirm => "Are you sure you would like to delete the user '#{user.fullname}'?", :method => :delete, :title => "Delete this user", :alt => "Delete this user") unless user.supervisor?
+
+      %tfoot
+        %tr
+          %td{ :colspan => 8 + (current_role == "student" ? 1 + (current_client.has_current_access_packs? ? 1 : 0) : 0)  }
+            = select_tag(:menu_version_id, "<option value=''>Default</option>" + options_from_collection_for_select(current_client.valid_user_menu_versions, :id, :menu))
+            = update_button_tag "Change Menu"
+
+        %tr
+          %td{ :colspan => 8 + (current_role == "student" ? 1 + (current_client.has_current_access_packs? ? 1 : 0) : 0) }
+            = submit_tag "Delete selected", :name => "delete", :class => "ui-button ui-widget ui-state-default ui-button-size-normal ui-button-orientation-l ui-corner-all ui-button-trash", :confirm => "You are about to delete all the selected #{current_role.pluralize}. This is a one-way operation and may not be reversed. If you select 'OK' the #{current_role.pluralize} you have selected will be deleted. Click 'Cancel' if you do not want to delete."
+
+    .centre= will_paginate(collection)
+    
+
+- else
+  .notice
+    - unless params[:q].blank?
+      = "Couldn't find any users matching your search criteria."
+    - else
+      - if current_role == 'instructor'
+        There are 1 instructors including the supervisor in the system.
+      - else
+        There are currently no students in the system.

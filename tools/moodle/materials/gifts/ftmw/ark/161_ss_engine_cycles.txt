@@ -1,0 +1,128 @@
+// question: 33413  name: HAQ3338 
+::HAQ3338::[html]The pressure and temperature of a gas are linked. As pressure goes up and down, so does .................{
+	=%100%temperature#
+}
+
+
+// question: 33414  name: HAQ3339 
+::HAQ3339::[html]Take a container that has a fixed amount of gas. A plunger seals one end of the container. A pressure gauge is attached, and a thermometer. Pushing in the plunger increases gas pressure. It forces the gas molecules into a smaller space. As a result, they move faster and make ................. impacts.{
+	=%100%more#
+}
+
+
+// question: 33415  name: HAQ3340 
+::HAQ3340::[html]Pulling out the plunger reduces gas pressure. It gives the molecules more room to move. They make ................. impacts.{
+	=%100%fewer#
+}
+
+
+// question: 33416  name: HAQ3341 
+::HAQ3341::[html]When a gas is heated up, its molecules gain ................. and start to move more quickly.{
+	=%100%energy#
+}
+
+
+// question: 33417  name: HAQ3342 
+::HAQ3342::[html]Increasing the gas temperature produces increased pressure. Cooling has an ................. effect.{
+	=%100%opposite#
+}
+
+
+// question: 33418  name: HAQ3343 
+::HAQ3343::[html]The cylinder of a bicycle pump contains air. Its exit is sealed with a pressure gauge. As the plunger is pushed in, the air is forced into a ................. volume.{
+	=%100%smaller#
+}
+
+
+// question: 33419  name: HAQ3344 
+::HAQ3344::[html]At the same time, the pressure gauge shows an increase in ................. It is this increase in pressure that allows the pump to do its work.{
+	=%100%pressure#
+}
+
+
+// question: 33420  name: HAQ3345 
+::HAQ3345::[html]When the plunger is pulled out, the volume occupied by the gas grows larger, and the pressure .................{
+	=%100%drops#
+}
+
+
+// question: 33421  name: HAQ3346 
+::HAQ3346::[html]Pressure and volume are in what is called an ................. relation. As one rises, the other falls.{
+	=%100%inverse#
+}
+
+
+// question: 33422  name: HAQ3347 
+::HAQ3347::[html]The temperature of a gas is a measure of how much ................. it has.{
+	=%100%energy#
+}
+
+
+// question: 33423  name: HAQ3348 
+::HAQ3348::[html]And the more energy it has, the more ................. it can do.{
+	=%100%work#
+}
+
+
+// question: 33424  name: HAQ3349 
+::HAQ3349::[html]The more energy the air-fuel mixture has, the more force it exerts on the piston, and the more work the piston can do. That's what happens during the ................. stroke.{
+	=%100%power#
+}
+
+
+// question: 33425  name: HAQ3350 
+::HAQ3350::[html]An alloy is a combination of materials to make a substance that has properties that are ................. from the original materials.{
+	=%100%different#
+}
+
+
+// question: 33426  name: HAQ3351 
+::HAQ3351::[html]Aluminum by itself is too ................. to stand up to the pressures a piston copes with.{
+	=%100%soft#
+}
+
+
+// question: 33427  name: HAQ3352 
+::HAQ3352::[html]In the same way, different ................. can be made with a huge range of properties, by changing levels of carbon in iron.{
+	=%100%steels#
+}
+
+
+// question: 33428  name: HAQ3353 
+::HAQ3353::[html]Engine output refers to the torque and ................. produced by an engine.{
+	=%100%power#
+}
+
+
+// question: 33429  name: HAQ3354 
+::HAQ3354::[html]The purpose of the engine is to provide the energy to ................. the vehicle.{
+	=%100%drive#
+}
+
+
+// question: 33430  name: HAQ3355 
+::HAQ3355::[html]Energy released by burning fuel and air in the cylinders produces a turning force or ................. which drives the wheels.{
+	=%100%torque#
+}
+
+
+// question: 33431  name: HAQ3356 
+::HAQ3356::[html]A gasoline engine in a car may give good acceleration in short bursts, but it can ................. or fail if it's operated at maximum speed and power for too long.{
+	=%100%overheat#
+}
+
+
+// question: 33432  name: HAQ3357 
+::HAQ3357::[html]Many diesels will suffer if they are run on light loads or at ................. speeds for too long.{
+	=%100%low#
+}
+
+
+// question: 33433  name: HAQ3358 
+::HAQ3358::[html]One way to describe the power range of an engine is to give its load and speed as an average over a certain period. This is stated as a percentage, and is called .................{
+	=%100%Load Factor#
+	=%100%load factor#
+}
+
+
+

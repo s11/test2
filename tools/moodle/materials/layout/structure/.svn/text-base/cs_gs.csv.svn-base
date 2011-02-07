@@ -1,0 +1,186 @@
+menu,cdx_menu_name,map,shortname,category,test_type,test_type_abbr,quiz,qn_category
+gs,CDX General Service,CDX GS 5.1 Quizzes & Tests,SafetyInfo,Safety & Information,Topic Group Test,TGT,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,perspropsafety
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Drive configurations ,driveconfig
+,,,,,Find-The-Missing Word,FTMW,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,personalsafety
+,,,,,,,Information procedures,infoproc
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Drive configurations ,driveconfig
+,,,,,,,Vehicle inspection procedures,vehicleinspectproc
+,,,,,Practice Exam,PE,GS Safety & Information,51gssafetyPE
+,,,,,Final Exam,FE,GS Safety & Information,51gssafetyFE
+,,,ToolsEquip,Tools & Equipment,Topic Group Test,TGT,Tools & equipment fundamentals,toolequipfund
+,,,,,,,Power tools,powertools
+,,,,,,,Common workshop tools ,commworkshoptools
+,,,,,Find-The-Missing Word,FTMW,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Using electric power tools,useelecpowertools
+,,,,,,,Using air power tools,useairpowertools
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Using measuring tools,usemeasuretools
+,,,,,,,Using workshop equipment,useworkshopequip
+,,,,,Practice Exam,PE,GS Tools & Equipment,51gstoolsPE
+,,,,,Final Exam,FE,GS Tools & Equipment,51gstoolsFE
+,,,Engines,Engines,Topic Group Test,TGT,Engine fundamentals,enginefundamentals
+,,,,,,,Valves & valve trains,valvesvalvetrains
+,,,,,,,Camshafts & drives,camshaftsdrives
+,,,,,,,Pistons,pistons
+,,,,,,,Crankshaft assemblies ,crankshaftassemblies
+,,,,,,,Cooling fundamentals,coolingfundamentals
+,,,,,,,Cooling systems,coolingsystems
+,,,,,,,Cooling system components ,coolsyscomp
+,,,,,,,Oil,oil
+,,,,,,,Lubrication systems,lubricationsys
+,,,,,,,Lubrication system components ,lubricationsyscomp
+,,,,,Find-The-Missing Word,FTMW,Engine fundamentals,enginefundas
+,,,,,,,Valves & valve trains,valves
+,,,,,,,Camshafts & drives,camshafts
+,,,,,,,Pistons,pistons
+,,,,,,,Crankshaft assemblies ,cranshaft
+,,,,,,,Engine component procedures,enginesproc
+,,,,,,,Cooling fundamentals,coolingfundas
+,,,,,,,Cooling systems,coolingsys
+,,,,,,,Cooling system components ,coolingsyscomp
+,,,,,,,Cooling system procedures,coolingsysproc
+,,,,,,,Oil,oil
+,,,,,,,Lubrication systems,lubesys
+,,,,,,,Lubrication system components ,lubesyscomp
+,,,,,,,Lubrication procedures,lubeproc
+,,,,,Practice Exam,PE,GS Engines,51gsenginesPE
+,,,,,Final Exam,FE,GS Engines,51gsenginesFE
+,,,FuelSys,Fuel Systems,Topic Group Test,TGT,Intake & exhaust systems,intakeexhaustsys
+,,,,,,,Intake & exhaust system components,intakeexhaustsyscomp
+,,,,,,,Fuel system principles,fuelsysprinc
+,,,,,,,Carbureted system components,carbsyscomp
+,,,,,,,EFI fuel supply system - principles,efifuelsysprinc
+,,,,,,,EFI fuel supply system - components,efifuelsyscomp
+,,,,,,,Creation of emissions,creationemissions
+,,,,,,,Types of emissions,typesemissions
+,,,,,,,Emission control,emissioncontrol
+,,,,,,,On-board diagnostics,odb
+,,,,,Find-The-Missing Word,FTMW,Intake & exhaust systems,intakeexhaustsys
+,,,,,,,Intake & exhaust system components,intakeexhaustsyscomp
+,,,,,,,Intake system procedure,intakesysproc
+,,,,,,,Fuel system principles,fuelsysprinc
+,,,,,,,Carbureted system components,carbsyscomp
+,,,,,,,EFI fuel supply system - principles,efiprinciples
+,,,,,,,EFI fuel supply system - components,eficomp
+,,,,,,,Fuel system procedures,fuelsysproc
+,,,,,,,Creation of emissions,creationemissions
+,,,,,,,Types of emissions,emissiontypes
+,,,,,,,Emission control,emissionscontrol
+,,,,,,,On-board diagnostics,obd
+,,,,,,,Emissions procedures,emissionproc
+,,,,,Practice Exam,PE,GS Fuel Systems,51gsfuelsysPE
+,,,,,Final Exam,FE,GS Fuel Systems,51gsfuelsysFE
+,,,SteerSusp,Steering & Suspension,Topic Group Test,TGT,Steering principles,steerprinc
+,,,,,,,Steering boxes & columns,steerboxescolumns
+,,,,,,,Steering arms & components,steerarmscomps
+,,,,,,,Suspension fundamental principles,suspfundpric
+,,,,,,,Types of suspension,typesofsusp
+,,,,,,,Types of springs,typesofsprings
+,,,,,,,Front suspension types & components,frontsusptypescomp
+,,,,,,,Rear suspension types & components,rearsusptypescomp
+,,,,,,,Tire types & characteristics ,tiretypescharac
+,,,,,,,Tire construction,tireconstruct
+,,,,,,,Wheel alignment fundamentals,wheelalignfund
+,,,,,Find-The-Missing Word,FTMW,Steering principles,steeringprinc
+,,,,,,,Steering boxes & columns,steeringboxes
+,,,,,,,Steering arms & components,steeringarms
+,,,,,,,Steering system procedures,steeringsysproc
+,,,,,,,Suspension fundamental principles,suspfundas
+,,,,,,,Types of suspension,typessusp
+,,,,,,,Types of springs,typessprings
+,,,,,,,Front suspension types & components,frontsuspcomp
+,,,,,,,Rear suspension types & components,rearsuspcomp
+,,,,,,,Suspension system procedures,suspsysproc
+,,,,,,,Tire types & characteristics ,tiretypescharacteristics
+,,,,,,,Tire construction,tireconstruction
+,,,,,,,Wheel alignment fundamentals,wheelalignfundas
+,,,,,,,Wheels & tires procedures,wheelstiresproc
+,,,,,Practice Exam,PE,GS Steering & Suspension,51gssteersuspPE
+,,,,,Final Exam,FE,GS Steering & Suspension,51gssteersuspFE
+,,,Brakes,Brakes,Topic Group Test,TGT,Braking fundamentals ,brakingfund
+,,,,,,,Braking system components,brakesyscomp
+,,,,,,,Drum brakes & components ,drumbrakescomp
+,,,,,,,Disc brakes & components ,discbrakescomp
+,,,,,,,Antilock braking system & components,antilockbrakesyscomp
+,,,,,Find-The-Missing Word,FTMW,Braking fundamentals ,brakingfundas
+,,,,,,,Braking system components,brakingsyscomp
+,,,,,,,Drum brakes & components ,drumbrakecomp
+,,,,,,,Disc brakes & components ,discbrakecomp
+,,,,,,,Antilock braking system & components,antilockbrakingsyscomp
+,,,,,,,Brakes procedures,brakesproc
+,,,,,Practice Exam,PE,GS Brakes,51gsbrakesPE
+,,,,,Final Exam,FE,GS Brakes,51gsbrakesFE
+,,,Transmissions,Transmissions,Topic Group Test,TGT,Clutches,clutches
+,,,,,,,Gearbox layout & operation ,gearboxlayoutop
+,,,,,,,Automatic transmission fundamentals,autotransfundas
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Front-wheel drive,frontwhldrive
+,,,,,,,Rear-wheel drive,rearwhldrive
+,,,,,Find-The-Missing Word,FTMW,Clutches,clutches
+,,,,,,,Gearbox layout & operation ,gearboxlayoutop
+,,,,,,,Clutches & manual transmissions procedures,clutchesmanualproc
+,,,,,,,Automatic transmission fundamentals,autotransfundas
+,,,,,,,Automatic transmissions procedures,autotransproc
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Front-wheel drive,frontwheeldrive
+,,,,,,,Rear-wheel drive,rearwheeldrive
+,,,,,,,Final drives procedures,finaldrivesproc
+,,,,,Practice Exam,PE,GS Transmissions,51gstransPE
+,,,,,Final Exam,FE,GS Transmissions,51gstransFE
+,,,Elec,Electrics & Electronics,Topic Group Test,TGT,Electrical fundamentals,electfund
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Electrical components,electricalcomp
+,,,,,,,Batteries,batteries
+,,,,,,,Ignition systems,ignitionsys
+,,,,,,,Contact breaker components,contactbreakcomp
+,,,,,,,Distributorless systems ,distribsys
+,,,,,,,Charging & starting,chargingstarting
+,,,,,,,Lighting,lighting
+,,,,,,,Types of lights,typeslights
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,Find-The-Missing Word,FTMW,Electrical fundamentals,elecfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Electrical testing procedures ,electestproc
+,,,,,,,Electrical components,electriccomp
+,,,,,,,Wires & connectors procedures ,wires
+,,,,,,,Batteries,batteres
+,,,,,,,Battery maintenance procedures,batteryproc
+,,,,,,,Ignition systems,ignitionsys
+,,,,,,,Contact breaker components,contactbreakcomp
+,,,,,,,Distributorless systems ,distributorsys
+,,,,,,,Ignition procedures,ignitionproc
+,,,,,,,Charging & starting,chargingstarting
+,,,,,,,Charging & starting,chargingproc
+,,,,,,,Charging procedures ,startingroc
+,,,,,,,Lighting,lighting
+,,,,,,,Types of lights,lightingtypes
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Lighting procedures,lightingproc
+,,,,,Practice Exam,PE,GS Electrics & Electronics,51gselecPE
+,,,,,Final Exam,FE,GS Electrics & Electronics,51gselecFE
+,,,HVAC,HVAC,Topic Group Test,TGT,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Air-conditioning components,airconcomp
+,,,,,,,Climate control,climatecontrol
+,,,,,Find-The-Missing Word,FTMW,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Air-conditioning components,airconcomp
+,,,,,,,Climate control,climatecontrol
+,,,,,,,HVAC procedures,hvacproc
+,,,,,Practice Exam,PE,GS HVAC,51gshvacPE
+,,,,,Final Exam,FE,GS HVAC,51gshvacFE
+,,,Assoc,Associated Studies,Topic Group Test,TGT,Active listening,activelisten
+,,,,,,,Art of speaking,artspeaking
+,,,,,,,People skills,peopleskills
+,,,,,,,Effective reading,effectiveread
+,,,,,,,Researching,researching
+,,,,,Find-The-Missing Word,FTMW,Communication,communication
+,,,,,Practice Exam,PE,GS Associated Studies,51gsassocPE
+,,,,,Final Exam,FE,GS Associated Studies,51gsassocFE

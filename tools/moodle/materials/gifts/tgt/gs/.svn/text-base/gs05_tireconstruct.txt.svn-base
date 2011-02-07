@@ -1,0 +1,69 @@
+//name:TQ0600
+::TQ0600::Tire information is molded into the:{
+	=sidewall.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+	~rim.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+	~bead diameter.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+	~tread.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+}
+
+
+//name:TQ0601
+::TQ0601::Technician A says that tire markings now include load ratings on tires. Technician B says that they are only included on truck tires. Who is correct?{
+	=Technician A.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+	~Technician B.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+	~Both Technician A and Technician B.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+	~Neither Technician A nor Technician B.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+}
+
+
+//name:TQ0602
+::TQ0602::Technician A says that tire markings now include speed ratings on tires. Technician B says that they are only included on high performance tires. Who is correct?{
+	=Technician A.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+	~Technician B.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+	~Both Technician A and Technician B.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+	~Neither Technician A nor Technician B.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+}
+
+
+//name:TQ0603
+::TQ0603::Natural rubber is mainly used in tire sidewalls and not in the tread of the tire. This is because:{
+	=natural rubber is weaker than synthetic rubber.#The tire tread must endure rugged duty while the sidewall must be flexible.
+	~natural rubber is stronger than synthetic rubber.#The tire tread must endure rugged duty while the sidewall must be flexible.
+	~natural rubber is more expensive.#The tire tread must endure rugged duty while the sidewall must be flexible.
+	~natural rubber holds the shape of the sidewall better than synthetic rubber.#The tire tread must endure rugged duty while the sidewall must be flexible.
+}
+
+
+//name:TQ0604
+::TQ0604::The cords of a radial constructed ply tire are placed in parallel. What does that give the plies?{
+	=High strength in one direction and flexibility in other directions.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+	~High strength in all directions.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+	~Flexibility in any direction.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+	~Strength with little flexibility in any direction.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+}
+
+
+//name:TQ0605
+::TQ0605::What is the bead of a tire made of?{
+	=High-tensile steel.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+	~Cotton.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+	~Synthetic fabric.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+	~Natural rubber.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+}
+
+
+//name:TQ0608
+::TQ0608::A tire with an aspect ratio of 45% is a:{
+	=low profile tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+	~high profile tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+	~small bead tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+	~cross-ply tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+}
+
+
+//name:TQ0609
+::TQ0609::An aspect ratio of 75% indicates that the:{
+	=height of the tire is 25% less than its width.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height. An aspect ratio of 75% means the height is 25% less than the width, giving a lower profile. It is called a medium low profile tire.
+	~width of the tire is 75% its height.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height. An aspect ratio of 75% means the height is 25% less than the width, giving a lower profile. It is called a medium low profile tire.
+	~height of the tire is 25% greater than its width.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height. An aspect ratio of 75% means the height is 25% less than the width, giving a lower profile. It is called a medium low profile tire.
+}

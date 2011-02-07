@@ -1,0 +1,70 @@
+//name:TQ1432
+::TQ1432::Although it looks different, the rotary engine still has the 5 key events of internal combustion engines.{
+	=TRUE#The rotary engine is very powerful for its size. It uses a rotor instead of pistons, but it is still an internal combustion engine so it uses the five events.
+	~FALSE#The rotary engine is very powerful for its size. It uses a rotor instead of pistons, but it is still an internal combustion engine so it uses the five events.
+}
+
+
+//name:TQ1433
+::TQ1433::In a rotary engine, are the inlet and exhaust ports uncovered and covered by the rotor as it travels around the inside of the housing?{
+	=Yes, in a rotary engine both the inlet and exhaust ports are uncovered and covered by the rotor as it travels around the inside of the housing.#The lobe of the rotor covers the inlet port, and the rotor moves the mixture around the chamber. The apex of the rotor uncovers the exhaust port, and exhaust gases are pushed out of the chamber.
+	~No, in a rotary engine only the inlet ports are uncovered and covered by the rotor as it travels around the inside of the housing.#The lobe of the rotor covers the inlet port, and the rotor moves the mixture around the chamber. The apex of the rotor uncovers the exhaust port, and exhaust gases are pushed out of the chamber.
+	~No, in a rotary engine only the exhaust ports are uncovered and covered by the rotor as it travels around the inside of the housing.#The lobe of the rotor covers the inlet port, and the rotor moves the mixture around the chamber. The apex of the rotor uncovers the exhaust port, and exhaust gases are pushed out of the chamber.
+	~No, in a rotary engine neither the inlet ports or exhaust ports are uncovered and covered by the rotor as it travels around the inside of the housing.#The lobe of the rotor covers the inlet port, and the rotor moves the mixture around the chamber. The apex of the rotor uncovers the exhaust port, and exhaust gases are pushed out of the chamber.
+}
+
+
+//name:TQ1434
+::TQ1434::Each cycle in a rotary engine has:{
+	=4 phases.#The phases of a rotary engine are: Induction; Compression; Expansion; Exhaust.
+	~2 phases.#The phases of a rotary engine are: Induction; Compression; Expansion; Exhaust.
+	~4 strokes.#The phases of a rotary engine are: Induction; Compression; Expansion; Exhaust.
+	~2 strokes.#The phases of a rotary engine are: Induction; Compression; Expansion; Exhaust.
+}
+
+
+//name:TQ1435
+::TQ1435::How many power pulses are produced by each rotor in a complete cycle?{
+	=Three.#There are 3 working chambers between the rotor and housing, and 3 lobes on the rotor. This means that for each complete rotation of the rotor, there are 3 power pulses.
+	~Four.#There are 3 working chambers between the rotor and housing, and 3 lobes on the rotor. This means that for each complete rotation of the rotor, there are 3 power pulses.
+	~Two.#There are 3 working chambers between the rotor and housing, and 3 lobes on the rotor. This means that for each complete rotation of the rotor, there are 3 power pulses.
+	~One.#There are 3 working chambers between the rotor and housing, and 3 lobes on the rotor. This means that for each complete rotation of the rotor, there are 3 power pulses.
+}
+
+
+//name:TQ1436
+::TQ1436::How many power pulses does each rotor revolution produce?{
+	=3#Each of the three chambers repeats the same cycle as the rotor revolves, so there are three power pulses for each revolution.
+	~1#Each of the three chambers repeats the same cycle as the rotor revolves, so there are three power pulses for each revolution.
+	~2#Each of the three chambers repeats the same cycle as the rotor revolves, so there are three power pulses for each revolution.
+	~4#Each of the three chambers repeats the same cycle as the rotor revolves, so there are three power pulses for each revolution.
+}
+
+
+//name:TQ1437
+::TQ1437::How many working chambers are there between the rotor and the housing?{
+	=3#Because the rotor is roughly triangular, as it rotates inside the housing it creates three mobile combustion chambers between the rotor and the housing.
+	~4#Because the rotor is roughly triangular, as it rotates inside the housing it creates three mobile combustion chambers between the rotor and the housing.
+	~2#Because the rotor is roughly triangular, as it rotates inside the housing it creates three mobile combustion chambers between the rotor and the housing.
+	~1#Because the rotor is roughly triangular, as it rotates inside the housing it creates three mobile combustion chambers between the rotor and the housing.
+}
+
+
+//name:TQ1438
+::TQ1438::The rotor hosing in a rotary engine is made of what material?{
+	=Chrome-plated aluminum#The housing is made of aluminum alloy, but the curved surface has hard chromium plating. This surface has to put up with the wear and tear of the rotor sliding against it as it turns in the housing.
+	~Chromium steel alloy#The housing is made of aluminum alloy, but the curved surface has hard chromium plating. This surface has to put up with the wear and tear of the rotor sliding against it as it turns in the housing.
+	~Titanium coated aluminum#The housing is made of aluminum alloy, but the curved surface has hard chromium plating. This surface has to put up with the wear and tear of the rotor sliding against it as it turns in the housing.
+	~Titanium-plated steel#The housing is made of aluminum alloy, but the curved surface has hard chromium plating. This surface has to put up with the wear and tear of the rotor sliding against it as it turns in the housing.
+}
+
+
+//name:TQ1439
+::TQ1439::What is the main benefit of the different design of the Renesis rotary engine?{
+	=Improved fuel economy under load.#The operating cycle of the Renesis rotary engine is the same as a conventional, or Wankel, rotary engine, but with some design changes that improve fuel economy under load and compliance with current emission regulations.
+	~Increased torque at low speeds.#The operating cycle of the Renesis rotary engine is the same as a conventional, or Wankel, rotary engine, but with some design changes that improve fuel economy under load and compliance with current emission regulations.
+	~Reduced engine noise at normal speeds.#The operating cycle of the Renesis rotary engine is the same as a conventional, or Wankel, rotary engine, but with some design changes that improve fuel economy under load and compliance with current emission regulations.
+	~Reduced manufacturing costs.#The operating cycle of the Renesis rotary engine is the same as a conventional, or Wankel, rotary engine, but with some design changes that improve fuel economy under load and compliance with current emission regulations.
+}
+
+

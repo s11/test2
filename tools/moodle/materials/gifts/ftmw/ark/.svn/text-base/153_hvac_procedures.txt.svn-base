@@ -1,0 +1,97 @@
+// question: 32883  name: HAQ3068 
+::HAQ3068::[html]Check A/C system - Check that the flexible hoses to the various components of the air conditioning system are not cracked or soft or ................. and that they are connected securely with no obvious signs of leakage or corrosion around the connections.{
+	=%100%brittle#
+}
+
+
+// question: 32884  name: HAQ3069 
+::HAQ3069::[html]Some lubricating oil circulates with the refrigerant in an air conditioning system, so look for wet stains around all the hose connections, as well as around the gaskets on the ................., as these may also indicate refrigerant leakage.{
+	=%100%compressor#
+}
+
+
+// question: 32885  name: HAQ3070 
+::HAQ3070::[html]Set the blower fan to high and check whether the air coming out of the vents inside the vehicle feels cool. Then switch the fan to its lowest setting and use a stem/dial ................. to compare the ambient temperature.{
+	=%100%thermometer#
+}
+
+
+// question: 32886  name: HAQ3071 
+::HAQ3071::[html]Check heating system - Examine the hoses and clamps that connect the heater core to the cooling system of the engine. Make sure that they are not cracked or showing other signs of deterioration  or .................{
+	=%100%corrosion#
+}
+
+
+// question: 32887  name: HAQ3072 
+::HAQ3072::[html]Check heating system -  If the hose leaving the heater core is ................. than the one entering, then the core or one of the hose connections could be obstructed or clogged.{
+	=%100%cooler#
+}
+
+
+// question: 32888  name: HAQ3073 
+::HAQ3073::[html]Check heating system - Switch the ................. on to confirm that the fan is delivering warm air to the vehicle interior, and that all the controls are working correctly.{
+	=%100%heater#
+}
+
+
+// question: 32889  name: HAQ3074 
+::HAQ3074::[html]Never try to inspect engine drive belts with the engine .................{
+	=%100%running#
+}
+
+
+// question: 32890  name: HAQ3075 
+::HAQ3075::[html]A V-type belt has a profile that looks like the photo below, and sits inside a deep v-shaped groove in the ................. wheel.{
+	=%100%pulley#
+}
+
+
+// question: 32891  name: HAQ3076 
+::HAQ3076::[html]When a V-type belt becomes very worn, the bottom of the V-shape may contact the ................. of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove.{
+	=%100%bottom#
+}
+
+
+// question: 32892  name: HAQ3077 
+::HAQ3077::[html]Check the belt ................. by attaching the tension gauge to the longest belt span, and pulling it to measure the tension.{
+	=%100%tension#
+}
+
+
+// question: 32893  name: HAQ3078 
+::HAQ3078::[html]Select the correct wrench to loosen the tension adjustment fastener. This is usually on the ................. mounting or on a separate idler pulley wheel.{
+	=%100%alternator#
+}
+
+
+// question: 32894  name: HAQ3079 
+::HAQ3079::[html]The Serpentine belt grooves are the exact reverse of the grooves in the outer edge of the ................. wheels; they increase the contact surface area, as well as prevent the belt from slipping off the wheel as it rotates.{
+	=%100%pulley#
+}
+
+
+// question: 32895  name: HAQ3080 
+::HAQ3080::[html]Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic ................. tensioning system.{
+	=%100%spring#
+}
+
+
+// question: 32896  name: HAQ3081 
+::HAQ3081::[html]Locate the ................. fastener and loosen it. This is usually on the alternator mounting or on a separate pulley wheel.{
+	=%100%adjustment#
+}
+
+
+// question: 32897  name: HAQ3082 
+::HAQ3082::[html]Tension the belt using a wrench and a pry bar, then check it with a ................. With automatic tension systems, gently allow this to apply the tension to the belt.{
+	=%100%tension gauge#
+}
+
+
+// question: 32898  name: HAQ3083 
+::HAQ3083::[html]Start the engine, and observe the belt to make sure that it is properly seated and operating correctly. Stop the engine again, and recheck the .................{
+	=%100%tension#
+}
+
+
+

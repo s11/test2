@@ -1,0 +1,50 @@
+//name:TQ1312
+::TQ1312::The power produced by a wet cell battery is an example of electrolysis.{
+	=FALSE#A wet cell battery, such as a typical lead/acid car battery, works as a result of the reverse of the electrolysis process.
+	~TRUE#A wet cell battery, such as a typical lead/acid car battery, works as a result of the reverse of the electrolysis process.
+}
+
+
+//name:TQ1313
+::TQ1313::Electrolysis can cause:{
+	=corrosion.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+	~electrical charge.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+	~chemical flow.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+	~acid creation.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+}
+
+
+//name:TQ1314
+::TQ1314::The elctrolysis of water separates the water into:{
+	=oxygen and hydrogen.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+	~oxygen and nitrogen.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+	~oxygen and carbon dioxide.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+	~carbon dioxide and hydrogen.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+}
+
+
+//name:TQ1315
+::TQ1315::Engine displacement is also known as:{
+	=swept volume.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+	~engine volume.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+	~cylinder volume.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+	~swept cylinder.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+}
+
+
+//name:TQ1316
+::TQ1316::Engine displacement is the volume of air/fuel mixture an engine can draw in during one complete engine cycle.{
+	=TRUE#Each individual cylinder swept volume is added together to get the total engine displacement.
+	~FALSE#Each individual cylinder swept volume is added together to get the total engine displacement.
+}
+
+
+//name:TQ1317
+::TQ1317::Total engine displacement is:{
+	=the sum of the volume of all cylinders of the engine from top dead center to bottom dead center.#Engine displacement is defined as the total volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+	~the sum of all cylinders of the engine from top dead center to bottom dead center plus the volume above top dead center.#Engine displacement is defined as the volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+	~the sum of all cylinders of the engine above top dead center.#Engine displacement is defined as the volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+	~the volume of one cylinder from top dead center to bottom dead center.#Engine displacement is defined as the volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+}
+
+

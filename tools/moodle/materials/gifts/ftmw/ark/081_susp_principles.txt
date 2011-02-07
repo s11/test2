@@ -1,0 +1,105 @@
+// question: 29223  name: HAQ1679 
+::HAQ1679::[html]When a tire hits an obstruction, there is a reaction force. The size of this reaction force depends on the ................. mass at each wheel assembly.{
+	=%100%unsprung#
+}
+
+
+// question: 29224  name: HAQ1680 
+::HAQ1680::[html]Vehicle ride and handling can be improved by keeping unsprung mass as ................. as possible.{
+	=%100%low#
+}
+
+
+// question: 29225  name: HAQ1681 
+::HAQ1681::[html]Applying a force to an object deforms it. Removing the force lets it return to its original shape. This characteristic is called .................{
+	=%100%elasticity#
+}
+
+
+// question: 29226  name: HAQ1682 
+::HAQ1682::[html]Coil springs are formed in a ................. from a single steel rod, and absorb the force of impact by twisting.{
+	=%100%spiral#
+}
+
+
+// question: 29227  name: HAQ1683 
+::HAQ1683::[html]................. bars are held rigid at one end, and twist around their center as the suspension arm is deflected.{
+	=%100%torsion#
+}
+
+
+// question: 29228  name: HAQ1684 
+::HAQ1684::[html]When a vehicle strikes an uneven surface, the springs are deformed from their original shape. They return to their original position, but tend to overshoot, and set up .................{
+	=%100%oscillations#
+}
+
+
+// question: 29229  name: HAQ1685 
+::HAQ1685::[html]Most of a vehicle's ................. is supported by its suspension system.{
+	=%100%weight#
+}
+
+
+// question: 29230  name: HAQ1686 
+::HAQ1686::[html]Other parts of a vehicle are not supported by the  suspension system, such as the wheels, tires, brakes and steering and suspension parts not supported by .................{
+	=%100%springs#
+}
+
+
+// question: 29231  name: HAQ1687 
+::HAQ1687::[html]Generally,  unsprung weight should be kept as ................. as possible.{
+	=%100%low#
+}
+
+
+// question: 29232  name: HAQ1688 
+::HAQ1688::[html]Wheel units must be located longitudinally, and laterally, while still having the freedom to move ................., to allow for suspension travel.{
+	=%100%vertically#
+}
+
+
+// question: 29233  name: HAQ1689 
+::HAQ1689::[html]During braking, the ................. tries to twist the axle housing around its center, but it's held firmly, clamped to the spring, and any twisting effect is resisted by the relatively stiff spring.{
+	=%100%torque#
+}
+
+
+// question: 29234  name: HAQ1690 
+::HAQ1690::[html]During cornering, ................. movement of the axle housing is prevented by its location on the spring center bolts, and by the spring shackles.{
+	=%100%lateral#
+}
+
+
+// question: 29235  name: HAQ1691 
+::HAQ1691::[html]The axle housing is usually located longitudinally, by upper and lower control arms, and laterally, either by the angle of the control arms, or by a separate ................. rod, or Watts linkage.{
+	=%100%Panhard#
+	=%100%panhard#
+}
+
+
+// question: 29236  name: HAQ1692 
+::HAQ1692::[html]Different materials have different levels of elasticity. Up to a certain point, they can be ................. and released, and they will try to return to their original condition.{
+	=%100%deformed#
+}
+
+
+// question: 29237  name: HAQ1693 
+::HAQ1693::[html]Preventing or reducing oscillation is called .................{
+	=%100%dampening#
+}
+
+
+// question: 29238  name: HAQ1694 
+::HAQ1694::[html]With some materials that have been deformed, if they return to their original state too quickly, it can produce a bouncing effect called an .................{
+	=%100%oscillation#
+}
+
+
+// question: 29239  name: HAQ1695 
+::HAQ1695::[html]In vehicle suspension, a ................. reduces oscillation in the spring.{
+	=%100%shock absorber#
+	=%100%shock-absorber#
+}
+
+
+

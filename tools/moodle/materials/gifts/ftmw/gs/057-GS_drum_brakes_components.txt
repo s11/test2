@@ -1,0 +1,83 @@
+// question: 28651  name: HAQ2021 
+::HAQ2021::[html]Brake linings can be riveted, or more often, ............................... to the brake shoes.{
+	=%100%bonded#
+}
+
+
+// question: 28652  name: HAQ2022 
+::HAQ2022::[html]Linings which maintain a stable friction co-efficient over a wide temperature range, generally require higher pedal pressures to provide efficient braking. This may necessitate the use of a ...............................{
+	=%100%booster#
+}
+
+
+// question: 28653  name: HAQ2023 
+::HAQ2023::[html]The majority of brake linings sold today will have manufacturer's codes stenciled on the edge of the lining. This will identify its ............................... of friction as outlined in the manufacturer's specification.{
+	=%100%co-efficient#
+	=%100%coefficient#
+}
+
+
+// question: 28654  name: HAQ2024 
+::HAQ2024::[html]By allowing the brake linings to radiate heat away it helps prevent brake ............................... by the linings becoming overheated and loosing it frictional qualities.{
+	=%100%fade#
+}
+
+
+// question: 28655  name: HAQ2025 
+::HAQ2025::[html]All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or ...............................{
+	=%100%suspension#
+}
+
+
+// question: 28656  name: HAQ2026 
+::HAQ2026::[html]The backing plate is usually pressed from heavy gauge steel. It has a raised outer edge that fits into a ............................... or recess in the brake drum and helps keep out any dust or dirt.{
+	=%100%groove#
+}
+
+
+// question: 28657  name: HAQ2027 
+::HAQ2027::[html]Some vehicles have ............................... brake adjusters so openings are usually provided to allow for adjustments without having to remove the wheel and brake drum.{
+	=%100%manual#
+}
+
+
+// question: 28658  name: HAQ2028 
+::HAQ2028::[html]The wheel cylinder is located inside the brake drum, and  bolted to the backing plate. It converts hydraulic pressure from the master cylinder into ............................... force that pushes the brake linings against the brake drum.{
+	=%100%mechanical#
+}
+
+
+// question: 28660  name: HAQ2030 
+::HAQ2030::[html]The wheel cylinder cups seal the cylinder against fluid loss. They operate under difficult conditions of extreme pressures and ...............................{
+	=%100%temperatures#
+}
+
+
+// question: 28661  name: HAQ2031 
+::HAQ2031::[html]Whenever you open a hydraulic brake system and introduce air into the lines, master cylinder or wheel cylinders you will need to ............................... the air out of the system.{
+	=%100%bleed#
+}
+
+
+// question: 28647  name: HAQ3763 
+::HAQ3763::[html]The main components of the drum brake system are: Backing plate; Brake drum & brake ............................... assembly; Wheel cylinder; Retaining clips & springs; Automatic brake self-adjuster.{
+	=%100%shoe#
+}
+
+
+// question: 28648  name: HAQ3764 
+::HAQ3764::[html]The backing plate is made from steel and is attached to the steering or suspension components by bolts. It then supports the wheel ..............................., brake shoes and levers.{
+	=%100%cylinder#
+}
+
+
+// question: 28649  name: HAQ3765 
+::HAQ3765::[html]The drum brakes are held against the backing plate by ............................... clips and springs.{
+	=%100%retaining#
+}
+
+
+// question: 28650  name: HAQ3766 
+::HAQ3766::[html]To manually adjust drum brakes it may be necessary to release the adjusting lever away from the ............................... wheel.{
+	=%100%star#
+}

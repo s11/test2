@@ -1,0 +1,81 @@
+//name:TQ1114
+::TQ1114::The main purpose of a cooling fan is to:{
+	=provide a cooling air flow.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+	~support the pulley.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+	~support the fan belt.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+	~drive the alternator.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+}
+
+
+//name:TQ1115
+::TQ1115::The main purpose of the end frames is to:{
+	=support the bearings.#When servicing the end frames make sure the bearings have not been turning in the housing.
+	~prevent dust intrusion.#When servicing the end frames make sure the bearings have not been turning in the housing.
+	~stop vibration.#When servicing the end frames make sure the bearings have not been turning in the housing.
+	~insulate the alternator.#When servicing the end frames make sure the bearings have not been turning in the housing.
+}
+
+
+//name:TQ1116
+::TQ1116::How many diodes does a basic automotive alternator rectifier have?{
+	=3 positive and 3 negative.#The alternator has a full-bridge 3-phase rectifier.
+	~6 positive and 6 negative.#The alternator has a full-bridge 3-phase rectifier.
+	~1 positive and 1 negative.#The alternator has a full-bridge 3-phase rectifier.
+	~None.#The alternator has a full-bridge 3-phase rectifier.
+}
+
+
+//name:TQ1117
+::TQ1117::What is the minimum number of diodes in the alternator 3 phase rectifier?{
+	=Six.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+	~Nine.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+	~Three.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+	~One.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+}
+
+
+//name:TQ1118
+::TQ1118::The main purpose of the slip rings and brushes is to:{
+	=complete an electrical connection with the rotor winding.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+	~prevent arcing.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+	~stop vibration.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+	~lubricate the bearings.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+}
+
+
+//name:TQ1119
+::TQ1119::The stator is made up of:{
+	=laminated iron core and 3 phase windings.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~3 phase windings and end frames.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~laminated core and bearings.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~laminated core and permanent magnets.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+}
+
+
+//name:TQ1120
+::TQ1120::The device that converts the AC stator output to DC at the B+ terminal on the alternator is the:{
+	=rectifier.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~rotor.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~stator.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~regulator.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+}
+
+
+//name:TQ1121
+::TQ1121::Technician A says that the end frame supports the alternator brush holders. Technician B says that the alternator brushes ride on the slip rings. Who is correct?{
+	~Technician A.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+	~Technician B.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+	=Both Technician A & Technician B.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+}
+
+
+//name:TQ1122
+::TQ1122::What materials are used in the construction of the rotor?{
+	=Wire, iron and steel.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+	~Aluminum, iron and steel.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+	~Wire, plastic and steel.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+	~Wire, iron and aluminum.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+}
+
+

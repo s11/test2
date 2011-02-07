@@ -1,0 +1,131 @@
+// question: 30773  name: HAQ2701 
+::HAQ2701::[html]Most four-stroke engines have used a mechanical ignition system. Here, the power source is a lead-acid battery, kept charged by the car's electrical system, which generates electricity using a dynamo or ..............................{
+	=%100%alternator#
+}
+
+
+// question: 30774  name: HAQ2702 
+::HAQ2702::[html]The engine operates contact breaker points, which interrupt the current flow to an induction coil (known as the ignition coil) - a type of autotransformer. This steps up the voltage, which is fed via a rotating switch called a distributor to the ..............................{
+	=%100%spark plugs#
+}
+
+
+// question: 30775  name: HAQ2703 
+::HAQ2703::[html]The sparks must be supplied at the right time, and they must have sufficient energy, over a range of conditions, to ignite the charges. The .............................. comes from the battery and alternator, and the voltage is increased by the ignition coil.{
+	=%100%energy#
+}
+
+
+// question: 30776  name: HAQ2704 
+::HAQ2704::[html]The high firing .............................. causes the spark gap to become electrically conductive, enabling an ignition spark to occur.{
+	=%100%voltage#
+}
+
+
+// question: 30777  name: HAQ2705 
+::HAQ2705::[html]Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise. This .............................. the firing voltage needed.{
+	=%100%increases#
+}
+
+
+// question: 30778  name: HAQ2706 
+::HAQ2706::[html]Most light vehicle ignition systems are of the .............................. type: they use an induction coil with primary and secondary windings to 'step-up' the nominal 12 volts at the battery to the required firing voltage.{
+	=%100%inductive#
+}
+
+
+// question: 30780  name: HAQ2708 
+::HAQ2708::[html]The rotor head (usually called 'the rotor') is attached to the top of the distributor shaft which is driven by a gear on the engine's .............................. and thus synchronized to it.{
+	=%100%camshaft#
+}
+
+
+// question: 30791  name: HAQ2735 
+::HAQ2735::[html]Timing of the spark is normally set at idle speeds by positioning the .............................. body in relation to its rotating cam.{
+	=%100%distributor#
+}
+
+
+// question: 30792  name: HAQ2736 
+::HAQ2736::[html]As engine speed increases there is less and less time for the mixture to be ignited and for this maximum pressure to be developed. So the ignition point has to be ..............................{
+	=%100%advanced#
+}
+
+
+// question: 30793  name: HAQ2737 
+::HAQ2737::[html]The speed sensitive mechanism is a centrifugal type which is located beneath the distributor base plate and rotates with the distributor ..............................{
+	=%100%cam#
+}
+
+
+// question: 30794  name: HAQ2738 
+::HAQ2738::[html]Since the cam is able to pivot on the distributor shaft, the weights act against their springs and move the cam forward. Under these conditions, the quantity of mixture entering the cylinder is .............................. and the air-fuel ratio is set for maximum economy, on a lean setting.{
+	=%100%reduced#
+}
+
+
+// question: 30795  name: HAQ2739 
+::HAQ2739::[html]As the throttle is opened wider, there is less vacuum effect in the manifold and consequently .............................. vacuum advance.{
+	=%100%less#
+}
+
+
+// question: 30781  name: HAQ3809 
+::HAQ3809::[html]The primary components of the automotive ignition system are: Battery; Spark plug; Engine timing Distributor; Spark ..............................; High tension (HT) leads.{
+	=%100%intensifiers#
+}
+
+
+// question: 30782  name: HAQ3810 
+::HAQ3810::[html]The battery supplies the Electro-Motive Force (EMF) to the ignition circuit. The battery needs a constant flow of air around it to keep it .............................., and must be well maintained if it is to keep the ignition system functioning properly.{
+	=%100%cool#
+}
+
+
+// question: 30783  name: HAQ3811 
+::HAQ3811::[html]The spark plug creates the spark that ignites the air/fuel mixture inside the cylinder when the spark jumps from the .............................. electrode to the side electrode.{
+	=%100%central#
+}
+
+
+// question: 30784  name: HAQ3812 
+::HAQ3812::[html]To complete the distributor assembly, a distributor .............................. and rotor are fitted.{
+	=%100%cap#
+}
+
+
+// question: 30785  name: HAQ3813 
+::HAQ3813::[html]Coils and Coil Packs are basically step-up .............................., increasing the vehicle's 12-volt supply to the voltage required to fire the spark plugs.{
+	=%100%transformers#
+}
+
+
+// question: 30786  name: HAQ3814 
+::HAQ3814::[html]For any given engine speed the correct spark timing varies according to a number of factors. They are: Air/Fuel ratio; .............................. rating; Engine speed; Engine load.{
+	=%100%octane#
+}
+
+
+// question: 30787  name: HAQ3815 
+::HAQ3815::[html]In older vehicles the air/fuel ratio is determined by the .............................. and in modern engines, by the fuel injection system.{
+	=%100%carburettor#
+	=%100%carburetor#
+}
+
+
+// question: 30788  name: HAQ3816 
+::HAQ3816::[html]The distributor shaft has two sections that turn on the same axis. Both are joined by the centrifugal advance mechanism. Its function is to turn the upper shaft .............................. in relation to the lower shaft, proportional to engine speed.{
+	=%100%forward#
+}
+
+
+// question: 30789  name: HAQ3817 
+::HAQ3817::[html]The lower distributor shaft has two .............................. attached, each pivoted at opposite ends and controlled by a spring.{
+	=%100%flyweights#
+}
+
+
+// question: 30790  name: HAQ3818 
+::HAQ3818::[html]The vacuum advance mechanism controls ignition advance in relation to engine ...............................{
+	=%100%load#
+}

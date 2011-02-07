@@ -1,0 +1,87 @@
+//name:TQ0636
+::TQ0636::Do automotive brakes rely on a high or low coefficient of friction for effective performance?{
+	=High.#The purpose of any brake material is to increase the coefficient of friction between two moving surfaces.
+	~Low.#The purpose of any brake material is to increase the coefficient of friction between two moving surfaces.
+	~Both high & low.#The purpose of any brake material is to increase the coefficient of friction between two moving surfaces.
+}
+
+
+//name:TQ0637
+::TQ0637::Compared to drum brakes, disc brakes need:{
+	=much higher pressures to operate efficiently.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~less pressure to operate efficiently.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~the same operating pressure as drum brakes.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~excessive amounts of air circulation for cooling purposes.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+}
+
+
+//name:TQ0640
+::TQ0640::Hydraulic brake systems:{
+	=increase the applied force.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~reduce brake system pressures.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~increase stopping distance.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~use mechanical linkages.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+}
+
+
+//name:TQ0641
+::TQ0641::Several factors can influence vehicle braking, these can include:{
+	=road surface, road conditions, the weight of the vehicle, load on the vehicle during stopping, and the tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the condition of the vehicle, load on the vehicle during stopping, and the type of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the weight of the vehicle, load on the vehicle during stopping, and the brand of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the unsprung mass of the vehicle, load on the vehicle during stopping, and the brand of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+}
+
+
+//name:TQ0642
+::TQ0642::Technician A says the automotive brake system slows the car by converting its dynamic (kinetic) energy into frictional heat and passing that heat to the surrounding air. Technician B says the automotive brake system slows the car by converting its static energy into frictional heat and passing that heat to the surrounding air. Who is correct?{
+	=Technician A.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Both Technician A & Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Neither Technician A nor Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+}
+
+
+//name:TQ0645
+::TQ0645::A coefficient of friction is a measure of:{
+	=how easily two surfaces slide against each other.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how easily any surface slides against ice.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how rough and gripping a surface is.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how slippery a surface is compared to another surface.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+}
+
+
+//name:TQ0646
+::TQ0646::Which of these statements is true?{
+	=Disc brakes clamp a flat disc between two pads, assisted by a brake booster.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~In a vehicle with both drum and disc brakes, the drum brakes would usually be fitted to the front wheels and the disc brakes to the rear wheels.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~In drum brakes, the brake shoes and linings are clamped between two hydraulically operated calipers.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~Disc brakes are hydraulically operated to increase the force of the brake pads, whereas drum brakes are larger and are operated by mechanical linkages.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+}
+
+
+//name:TQ0652
+::TQ0652::Parking brakes are:{
+	=mechanically operated.#Manufacturers still install mechanically activated park brakes.
+	~hydraulically operated.#Manufacturers still install mechanically activated park brakes.
+	~both mechanically and hydraulically operated.#Manufacturers still install mechanically activated park brakes.
+	~electrically operated.#Manufacturers still install mechanically activated park brakes.
+}
+
+
+//name:TQ0656
+::TQ0656::All passenger vehicles must have at least:{
+	=two independent braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~one independent braking system.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~two combined braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~three independent braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+}
+
+
+//name:TQ0665
+::TQ0665::Which of these statements is true?{
+	=Some parking brakes are connected to the transmisssion system not the wheels.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Parking brakes always operate on the rear wheels.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Hybrid vehicles don't have a parking brake at all.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Some vehicles have a transmission brake instead of a parking brake.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+}

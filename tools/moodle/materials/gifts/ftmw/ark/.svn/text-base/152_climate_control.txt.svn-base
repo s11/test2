@@ -1,0 +1,224 @@
+// question: 32809  name: HAQ3035 
+::HAQ3035::[html]The electronic control unit evaluates the signals from the ................. to determine the operating conditions, and controls actuators to move dampers and valves that control the volume, temperature and direction of the air delivered by the system.{
+	=%100%sensors#
+}
+
+
+// question: 32810  name: HAQ3036 
+::HAQ3036::[html]The climate control system can be operated in ................. mode, where the operation is similar to a normal heater and air conditioner system. The driver determines where the air is delivered, the volume of air delivered and its temperature.{
+	=%100%manual#
+}
+
+
+// question: 32811  name: HAQ3037 
+::HAQ3037::[html]In full automatic mode the electronic control unit receives signals from sensors and controls the flaps and ................. of the two systems, to create a blend of air that matches the temperature selected by the occupants.{
+	=%100%valves#
+}
+
+
+// question: 32812  name: HAQ3038 
+::HAQ3038::[html]The electronic control unit receives signals in the form of ................. from the ambient air temperature sensor, the cabin air temperature sensor, the coolant temperature sensor, the evaporator temperature sensor, sun load sensor and the control panel.{
+	=%100%voltages#
+}
+
+
+// question: 32813  name: HAQ3039 
+::HAQ3039::[html]The electronic control unit compares these voltage values with values stored in its memory. If a difference in values occurs the electronic control unit changes the position of .................{
+	=%100%actuators#
+}
+
+
+// question: 32814  name: HAQ3040 
+::HAQ3040::[html]The electronic control unit checks the temperature of the outside air - called the '.................' temperature.{
+	=%100%ambient air#
+}
+
+
+// question: 32815  name: HAQ3041 
+::HAQ3041::[html]When the engine has started and the climate control system is functioning, the electronic control unit switches on the air-conditioning ................. and increases the speed of the interior ventilation van.{
+	=%100%compressor#
+}
+
+
+// question: 32816  name: HAQ3042 
+::HAQ3042::[html]Air is drawn into the fan either from outside the vehicle, or from within the cabin. The air then flows through the air-conditioning ................. core where heat is removed.{
+	=%100%evaporator#
+}
+
+
+// question: 32817  name: HAQ3043 
+::HAQ3043::[html]The cabin air temperature is continually measured by the cabin air temperature .................{
+	=%100%sensor#
+}
+
+
+// question: 32818  name: HAQ3044 
+::HAQ3044::[html]To achieve final control the heater circuit may be opened and a blend door may be moved to direct some of the cold air-conditioned air through the heater core to provide fine ................. control.{
+	=%100%temperature#
+}
+
+
+// question: 32819  name: HAQ3045 
+::HAQ3045::[html]Servos can be one of two types: Vacuum servos and ................. servos .{
+	=%100%electrical#
+}
+
+
+// question: 32820  name: HAQ3046 
+::HAQ3046::[html]Vacuum servos consist of a sealed housing divided by a flexible .................{
+	=%100%diaphragm#
+}
+
+
+// question: 32821  name: HAQ3047 
+::HAQ3047::[html]A ................. forces the diaphragm towards one side when no vacuum is applied to the diaphragm.{
+	=%100%spring#
+}
+
+
+// question: 32822  name: HAQ3048 
+::HAQ3048::[html]When ................. is supplied to the sealed side of the diaphragm a difference in air pressure occurs across the diaphragm.{
+	=%100%vacuum#
+}
+
+
+// question: 32823  name: HAQ3049 
+::HAQ3049::[html]The vacuum delivered to the diaphragm chamber can be controlled by a ................. valve.{
+	=%100%solenoid#
+}
+
+
+// question: 32824  name: HAQ3050 
+::HAQ3050::[html]Movement of flaps and valves can also be achieved by using electrical motors that respond to ................. signals from the electronic control unit.{
+	=%100%output#
+}
+
+
+// question: 32825  name: HAQ3051 
+::HAQ3051::[html]An electrical servo motor is used to move the blend door. It incorporates limit switches to ................. circuit the motor when the maximum travel of the door has been reached. This stops the motor from burning out.{
+	=%100%open#
+}
+
+
+// question: 32826  name: HAQ3052 
+::HAQ3052::[html]Some electrical servos also utilise a carbon film potentiometer to signal to the electronic control unit the position of the ................. door and if it is moving the direction in which it is travelling.{
+	=%100%blend#
+}
+
+
+// question: 32827  name: HAQ3053 
+::HAQ3053::[html]A voltage from the electronic control unit is applied across the .................{
+	=%100%potentiometer#
+}
+
+
+// question: 32828  name: HAQ3054 
+::HAQ3054::[html]For maximum cooling effect, the blend door is moved to stop air flow through the heater core, and in this position, the voltage signal back to the control unit is at its ................. value.{
+	=%100%lowest#
+}
+
+
+// question: 32829  name: HAQ3055 
+::HAQ3055::[html]In most instances the temperature sensors used in the climate control air-conditioning system are ................. Although they may vary in appearance, their general operating characteristics are the same.{
+	=%100%thermistors#
+}
+
+
+// question: 32830  name: HAQ3056 
+::HAQ3056::[html]Thermistors are solid state electronic devices that change their resistance in response to temperature. As the temperature of the sensor increases the resistance .................{
+	=%100%decreases#
+}
+
+
+// question: 32831  name: HAQ3057 
+::HAQ3057::[html]When connected into a circuit the sensor changes the ................. at the electronic control unit. The electronic control unit reads the sensor voltage as the temperature and compares this reading with information stored in its memory.{
+	=%100%voltage#
+}
+
+
+// question: 32832  name: HAQ3058 
+::HAQ3058::[html]The ambient air temperature sensor measures the temperature of the outside air. It is usually located in front of the air-conditioning ................. where the forward motion of the vehicle and the action of the condenser fans forces air over the sensor.{
+	=%100%condenser#
+}
+
+
+// question: 32833  name: HAQ3059 
+::HAQ3059::[html]The cabin air temperature sensor is mounted in a tube type device called an .................{
+	=%100%aspirator#
+}
+
+
+// question: 32834  name: HAQ3060 
+::HAQ3060::[html]The coolant temperature sensor for the engine management system signals to the climate control ECU the temperature of the coolant flowing in the ................. core.{
+	=%100%heater#
+}
+
+
+// question: 32835  name: HAQ3061 
+::HAQ3061::[html]The sun load or solar sensor is located on the dash panel where it is exposed to light entering through the windscreen of the vehicle. This sensor is a ................. diode.{
+	=%100%photo#
+}
+
+
+// question: 32836  name: HAQ3062 
+::HAQ3062::[html]The sun load or solar sensor becomes more conductive as the light intensity increases. When connected to the electronic control unit, a change in light intensity is registered as a change in .................{
+	=%100%voltage#
+}
+
+
+// question: 32837  name: HAQ3063 
+::HAQ3063::[html]The blower motor is located in the ventilation system ................. the air-conditioning evaporator.{
+	=%100%before#
+}
+
+
+// question: 32838  name: HAQ3064 
+::HAQ3064::[html]In a manual air conditioner the switch connects resistors in ................. with the motor to control its speed.{
+	=%100%series#
+}
+
+
+// question: 32839  name: HAQ3065 
+::HAQ3065::[html]Most air-conditioning systems use two resistors to give ................. driver-selectable speeds of the fan motor.{
+	=%100%3#
+	=%100%three#
+}
+
+
+// question: 32840  name: HAQ3066 
+::HAQ3066::[html]In climate control systems the speed of the fan motor can be controlled electronically by the control unit modulating a pulse width signal: a ................. pulse width will produce a higher fan speed.{
+	=%100%longer#
+}
+
+
+// question: 32841  name: HAQ3067 
+::HAQ3067::[html]The electronic control unit changes the fan motor speed ................. depending on the difference between the interior cabin temperature and the set temperature.{
+	=%100%automatically#
+}
+
+
+// question: 32842  name: HAQ3843 
+::HAQ3843::[html]A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for ................., or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.{
+	=%100%demisting#
+}
+
+
+// question: 32843  name: HAQ3844 
+::HAQ3844::[html]Air for the ventilation system can be sourced from outside the vehicle, usually from apertures located below the ................., or recirculated from within the cabin.{
+	=%100%windscreen#
+}
+
+
+// question: 32844  name: HAQ3845 
+::HAQ3845::[html]The Fan Speed Switch controls an electric motor that has a barrel type fan attached. When operating, it forces air at the chosen speed through the ducting into the ................. compartment, via the heating and cooling components.{
+	=%100%passenger#
+}
+
+
+// question: 32845  name: HAQ3846 
+::HAQ3846::[html]When fitted, the air conditioning ................. will chill the incoming air to cool the occupants if required.{
+	=%100%evaporator#
+}
+
+
+

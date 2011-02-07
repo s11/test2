@@ -1,0 +1,197 @@
+// question: 33245  name: HAQ3251 
+::HAQ3251::[html]Solid-state physics, the largest branch of condensed matter physics, is the study of rigid matter, or .................{
+	=%100%solids#
+}
+
+
+// question: 33246  name: HAQ3252 
+::HAQ3252::[html]The bulk of solid-state physics theory and research is focused on crystals, largely because the periodicity of atoms in a crystal - its defining characteristic - facilitates mathematical modeling, and also because crystalline materials  often have ................., magnetic, optical, or mechanical properties that can be exploited for engineering purposes.{
+	=%100%electrical#
+}
+
+
+// question: 33247  name: HAQ3254 
+::HAQ3254::[html]Deviations from periodicity are treated by quantum mechanical ................. theory.{
+	=%100%perturbation#
+}
+
+
+// question: 33248  name: HAQ3255 
+::HAQ3255::[html]A subatomic particle is a particle smaller than an atom: it may be elementary or .................{
+	=%100%composite#
+}
+
+
+// question: 33249  name: HAQ3256 
+::HAQ3256::[html]Subatomic particles include atomic constituents such as electrons, protons, and neutrons (protons and neutrons are actually composite particles, made up of .................), as well as other particles such as photons and neutrinos which are produced copiously in the sun.{
+	=%100%quarks#
+}
+
+
+// question: 33250  name: HAQ3257 
+::HAQ3257::[html]Most of the particles that have been discovered and studied are not encountered under normal earth conditions; they are produced in cosmic rays and during scattering processes in particle .................{
+	=%100%accelerators#
+}
+
+
+// question: 33251  name: HAQ3258 
+::HAQ3258::[html]An N-type semiconductor is obtained by carrying out a process of doping, that is adding a certain type of atoms to the semiconductor in order to increase the number of free (in this case .................) charge carriers.{
+	=%100%negative#
+}
+
+
+// question: 33252  name: HAQ3259 
+::HAQ3259::[html]When the doping material is added, it gives away (.................) weakly-bound outer electrons to the semiconductor atoms. This type of doping agent is also known as donor material since it gives away some of its electrons.{
+	=%100%donates#
+}
+
+
+// question: 33253  name: HAQ3260 
+::HAQ3260::[html]The purpose of n-type doping is to produce an abundance of mobile or '.................' electrons in the material.{
+	=%100%carrier#
+}
+
+
+// question: 33254  name: HAQ3261 
+::HAQ3261::[html]P-type semiconductor is obtained by carrying out a process of doping, that is adding a certain type of atoms to the semiconductor in order to increase the number of free (in this case positive) ................. carriers.{
+	=%100%charge#
+}
+
+
+// question: 33255  name: HAQ3262 
+::HAQ3262::[html]When the doping material is added, it takes away (accepts) weakly-bound outer electrons from the semiconductor atoms. This type of doping agent is also known as ................. material.{
+	=%100%acceptor#
+}
+
+
+// question: 33256  name: HAQ3263 
+::HAQ3263::[html]The semiconductor atoms that have lost an electron are known as .................{
+	=%100%holes#
+}
+
+
+// question: 33257  name: HAQ3264 
+::HAQ3264::[html]In semiconductors and insulators, there is a ................. above the valence band, followed by a conduction band above that.{
+	=%100%bandgap#
+	=%100%band gap#
+	=%100%band-gap#
+}
+
+
+// question: 33259  name: HAQ3266 
+::HAQ3266::[html]It is a common misconception to refer to electrons in insulators as '.................' - as if they were somehow attached to the nucleus and couldn't move.{
+	=%100%bound#
+}
+
+
+// question: 33260  name: HAQ3267 
+::HAQ3267::[html]Electrons in insulators are quite free to move - in fact they move at a speed on the order of 100 km (60 mi) per second! They are also ................., having no well defined position within the sample.{
+	=%100%delocalised#
+	=%100%delocalized#
+}
+
+
+// question: 33261  name: HAQ3268 
+::HAQ3268::[html]The field of electronics is the study and use of electronic devices that operate by controlling the flow of electrons or other electrically charged particles in devices such as ................. valves and semiconductors.{
+	=%100%thermionic#
+}
+
+
+// question: 33262  name: HAQ3270 
+::HAQ3270::[html]One of the main uses of electronic circuits is the ................. and distribution of electric power.{
+	=%100%conversion#
+}
+
+
+// question: 33263  name: HAQ3271 
+::HAQ3271::[html]While electricity had been used for some time to transmit data over telegraphs and telephones, the development of electronics truly began in earnest with the advent of .................{
+	=%100%radio#
+}
+
+
+// question: 33264  name: HAQ3272 
+::HAQ3272::[html]Faraday's law of induction is based on Michael Faraday's experiments in 1831 and gives the relation between the ................. of change of the magnetic flux through the area enclosed by a closed loop and the electric field induced along the loop.{
+	=%100%rate#
+}
+
+
+// question: 33265  name: HAQ3273 
+::HAQ3273::[html]The direction of the ................. force (the negative sign in the above formula) was first given by Lenz's law.{
+	=%100%electromotive#
+}
+
+
+// question: 33266  name: HAQ3274 
+::HAQ3274::[html]An EMF is inducted when the magnetic field around a conductor changes in Faraday's first law and the magnitude of the induced emf is ................. to the rate of change of the flux linkage in his second.{
+	=%100%proportional#
+}
+
+
+// question: 33267  name: HAQ3275 
+::HAQ3275::[html]Lead zirconium titanate (PZT, also Lead zirconate titanate) is a ................. material that shows a marked piezoelectric effect.{
+	=%100%ceramic#
+}
+
+
+// question: 33268  name: HAQ3276 
+::HAQ3276::[html]Lead zirconium titanate develops a voltage difference across two of its faces when ................., and ferroelectric effect.{
+	=%100%compressed#
+}
+
+
+// question: 33273  name: HAQ3279 
+::HAQ3279::[html]Advanced stepper motor controllers can utilize ................. modulation to perform microsteps, achieving higher position resolution and smoother operation.{
+	=%100%pulse-width#
+	=%100%pulsewidth#
+	=%100%pulse width#
+}
+
+
+// question: 33274  name: HAQ3280 
+::HAQ3280::[html]Stepper motors are rated by the ................. they produce.{
+	=%100%torque#
+}
+
+
+// question: 33275  name: HAQ3281 
+::HAQ3281::[html]Tolerance in engineering is an allowance made for ................. in a manufactured object.{
+	=%100%imperfections#
+}
+
+
+// question: 33276  name: HAQ3282 
+::HAQ3282::[html]It would not be reasonable to specify a resistor with a value of exactly 100 ohms, because such a resistor cannot be made. It is good practice to specify the largest possible ................., to make manufacturing easier and to keep costs down.{
+	=%100%tolerance#
+}
+
+
+// question: 33277  name: HAQ3284 
+::HAQ3284::[html]A transformer is an electrical device that transfers energy from one electrical circuit to another by ................. coupling without moving parts.{
+	=%100%magnetic#
+}
+
+
+// question: 33278  name: HAQ3285 
+::HAQ3285::[html]A transformer is often used to convert between high and low ................. and accordingly between low and high currents.{
+	=%100%voltages#
+}
+
+
+// question: 33279  name: HAQ3286 
+::HAQ3286::[html]The transformer was an important element in the development of high-voltage power ................. and central generating stations.{
+	=%100%transmission#
+}
+
+
+// question: 33271  name: HAQ3848 
+::HAQ3848::[html]Stepper motors do not use ................. and commutators.{
+	=%100%brushes#
+}
+
+
+// question: 33272  name: HAQ3849 
+::HAQ3849::[html]Stepper motors have a fixed number of ................. poles that determine the number of steps per revolution.{
+	=%100%magnetic#
+}
+
+

@@ -1,0 +1,88 @@
+//name:TQ1667
+::TQ1667::In all 2-stroke engines, oil and fuel are mixed together in the correct ratios in the fuel tank to lubricate the engine.{
+	=FALSE#Two-stroke engines mix lubricants, two-stroke oil, with their fuel (either manually at refueling or by injecting oil into the fuel stream). This mixture lubricates the cylinder, crankshaft and connecting rod bearings. The lubricant is subsequently burned, resulting in undesirable emissions. An independent lubrication system from below, as is used in four-stroke designs, cannot be used in the above-described engine design, since the crankcase is being used to hold the air-fuel mixture.
+	~TRUE#Two-stroke engines mix lubricants, two-stroke oil, with their fuel (either manually at refueling or by injecting oil into the fuel stream). This mixture lubricates the cylinder, crankshaft and connecting rod bearings. The lubricant is subsequently burned, resulting in undesirable emissions. An independent lubrication system from below, as is used in four-stroke designs, cannot be used in the above-described engine design, since the crankcase is being used to hold the air-fuel mixture.
+}
+
+
+//name:TQ1668
+::TQ1668::The bearings in a 2-stroke gasoline engine are normally lubricated by:{
+	=oil carried in with the fuel and air.#In a 2-stroke gasoline engine the lubrication is normally provided by 'gas/oil' or 'petroil' at it is known in some locations which is a mixture of gasoline (petrol) and oil in a specified ratio. The mixing of the fuel and oil can occur in a range of ways: in the tank or via a special metering device as part of the intake system.
+	~oil under pressure from the sump.#In a 2-stroke gasoline engine the lubrication is normally provided by 'gasoline' which is a mixture of gasoline (petrol) and oil in a specified ratio. The mixing of the gasoline and oil can occur in a range of ways: in the tank or via a special metering device as part of the intake system.
+	~oil injected above the piston.#In a 2-stroke gasoline engine the lubrication is normally provided by 'gasoline' which is a mixture of gasoline (petrol) and oil in a specified ratio. The mixing of the gasoline and oil can occur in a range of ways: in the tank or via a special metering device as part of the intake system.
+	~oil from a scavenge pump.#In a 2-stroke gasoline engine the lubrication is normally provided by 'gasoline' which is a mixture of gasoline (petrol) and oil in a specified ratio. The mixing of the gasoline and oil can occur in a range of ways: in the tank or via a special metering device as part of the intake system.
+}
+
+
+//name:TQ1669
+::TQ1669::Contamination of oil in an engine is usually caused by:{
+	=by-products of combustion.#Contamination of oil is the singularly most significant reason for a lubricant failure.  In automotive engines the lubricant is subject to a range of contaminants including moisture from condensation and the by-products of combustion.
+	~natural deterioration of the oil.#Contamination of oil is the singularly most significant reason for a lubricant failure.  In automotive engines the lubricant is subject to a range of contaminants including moisture from condensation and the by-products of combustion.
+	~the use of crankshaft labyrinth seals.#Contamination of oil is the singularly most significant reason for a lubricant failure.  In automotive engines the lubricant is subject to a range of contaminants including moisture from condensation and the by-products of combustion.
+	~dust which enters the dipstick tube.#Contamination of oil is the singularly most significant reason for a lubricant failure.  In automotive engines the lubricant is subject to a range of contaminants including moisture from condensation and the by-products of combustion.
+}
+
+
+//name:TQ1670
+::TQ1670::Engine oil performs other functions apart from lubricating moving components. These include:{
+	=corrosion protection and noise suppression.#Oil protects the components from wear and coats the internal walls of the engine providing an insulating barrier to noise.
+	~corrosion protection.#Oil protects the components from wear and coats the internal walls of the engine providing an insulating barrier to noise.
+	~noise suppression.#Oil protects the components from wear and coats the internal walls of the engine providing an insulating barrier to noise.
+	~corrosion protection and noise elimination.#Oil protects the components from wear and coats the internal walls of the engine providing an insulating barrier to noise.
+}
+
+
+//name:TQ1671
+::TQ1671::How does the force feed system lubricate main engine bearings?{
+	=By holes that are drilled through the crankshaft.#Lubricant is forced around various parts on the engine by an integral oil pump via an oil filter. The oil is transferred under pressure to the various parts of the engine through drillings and oil galleries.
+	~By a splash system.#Lubricant is forced around various parts on the engine by an integral oil pump via an oil filter. The oil is transferred under pressure to the various parts of the engine through drillings and oil galleries.
+	~By a rotating dipper.#Lubricant is forced around various parts on the engine by an integral oil pump via an oil filter. The oil is transferred under pressure to the various parts of the engine through drillings and oil galleries.
+	~By a return hole at the end of the crankshaft.#Lubricant is forced around various parts on the engine by an integral oil pump via an oil filter. The oil is transferred under pressure to the various parts of the engine through drillings and oil galleries.
+}
+
+
+//name:TQ1672
+::TQ1672::What does the oil tank do in a dry sump lubrication system?{
+	=It retains the oil and allows it to cool for continued use in the engine.#Some lubrication systems are provided with what is termed a dry sump lubrication system. This type of system has an oil tank that retains the oil and allows it to cool before it is used again in the engine.
+	~It retains the oil and heats it up for continued use in the engine.#Some lubrication systems are provided with what is termed a dry sump lubrication system. This type of system has an oil tank that retains the oil and allows it to cool before it is used again in the engine.
+	~It retains the oil only.#Some lubrication systems are provided with what is termed a dry sump lubrication system. This type of system has an oil tank that retains the oil and allows it to cool before it is used again in the engine.
+	~It retains the oil and filters it for continued use in the engine.#Some lubrication systems are provided with what is termed a dry sump lubrication system. This type of system has an oil tank that retains the oil and allows it to cool before it is used again in the engine.
+}
+
+
+//name:TQ1673
+::TQ1673::The rotor apex seals in a rotary engine are lubricated by:{
+	=oil injected into the intake manifold.#In a rotary engine that uses rotors turning inside an epitrochoidal housing, the lubricating oil is used as both lubricant and coolant. This causes the oil to get very hot so it is passed through a heat exchanger/cooler (with either air or coolant) which acts as a cooling medium. The rotor apex seals are lubricated by an oil film that is injected into the intake manifold in metered amounts.
+	~oil under pressure from a main bearing.#In a rotary engine that uses rotors turning inside an epitrochoidal housing, the lubricating oil is used as both lubricant and coolant. This causes the oil to get very hot so it is passed through a heat exchanger/cooler (with either air or coolant) which acts as a cooling medium. The rotor apex seals are lubricated by an oil film that is injected into the intake manifold in metered amounts.
+	~oil splash from an oil slinger.#In a rotary engine that uses rotors turning inside an epitrochoidal housing, the lubricating oil is used as both lubricant and coolant. This causes the oil to get very hot so it is passed through a heat exchanger/cooler (with either air or coolant) which acts as a cooling medium. The rotor apex seals are lubricated by an oil film that is injected into the intake manifold in metered amounts.
+	~oil mist in the crankcase.#In a rotary engine that uses rotors turning inside an epitrochoidal housing, the lubricating oil is used as both lubricant and coolant. This causes the oil to get very hot so it is passed through a heat exchanger/cooler (with either air or coolant) which acts as a cooling medium. The rotor apex seals are lubricated by an oil film that is injected into the intake manifold in metered amounts.
+}
+
+
+//name:TQ1674
+::TQ1674::In a rotary engine lubrication system what type of valve controls the oil pressure in the system?{
+	=A regulator control valve.#A regulator valve controls the oil pressure in the system. The oil goes on to the main bearings and rotor bearings, and is sprayed into rotor cavities. 
+	~A rotary control valve.#A regulator valve controls the oil pressure in the system. The oil goes on to the main bearings and rotor bearings, and is sprayed into rotor cavities. 
+	~A lubrication control valve.#A regulator valve controls the oil pressure in the system. The oil goes on to the main bearings and rotor bearings, and is sprayed into rotor cavities. 
+	~A pressure control valve.#A regulator valve controls the oil pressure in the system. The oil goes on to the main bearings and rotor bearings, and is sprayed into rotor cavities. 
+}
+
+
+//name:TQ1675
+::TQ1675::What are oil galleries?{
+	=Small passages in the cylinder block that direct oil to the moving parts of the engine.#Engine oil lubricates moving parts and reduces friction within the engine. It can also be used to cool some parrts of the engine.
+	~A place where engine oil can be viewed and inspected.#Engine oil lubricates moving parts and reduces friction within the engine. It can also be used to cool some parrts of the engine.
+	~Small passages where oil is mixed with fuel.#Engine oil lubricates moving parts and reduces friction within the engine. It can also be used to cool some parrts of the engine.
+	~Small passages in the engine block designed to remove air from the oil.#Engine oil lubricates moving parts and reduces friction within the engine. It can also be used to cool some parrts of the engine.
+}
+
+
+//name:TQ1676
+::TQ1676::What is used to splash oil through the internal parts of an engine?{
+	=A dipper or slinger.#A splash lubrication system is, as the title suggests, a method of splashing oil through the internal parts of an engine.
+	~A wader or kicker.#A splash lubrication system is, as the title suggests, a method of splashing oil through the internal parts of an engine.
+	~A paddle or float.#A splash lubrication system is, as the title suggests, a method of splashing oil through the internal parts of an engine.
+	~A scooper or flinger.#A splash lubrication system is, as the title suggests, a method of splashing oil through the internal parts of an engine.
+}
+
+

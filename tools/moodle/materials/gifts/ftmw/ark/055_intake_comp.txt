@@ -1,0 +1,173 @@
+// question: 27143  name: HAQ1011 
+::HAQ1011::[html]An air cleaner filters air that passes through it to stop harmful particles reaching the .................{
+	=%100%engine#
+}
+
+
+// question: 27144  name: HAQ1012 
+::HAQ1012::[html]A lot of ................. passes through the intake system into the engine.{
+	=%100%air#
+}
+
+
+// question: 27145  name: HAQ1013 
+::HAQ1013::[html]The air-fuel mixture enters the engine so the air needs to be clean, any abrasives that enter the engine can cause wear and damage. It also has a silencing effect, ................. noise produced by the air entering the engine.{
+	=%100%muffling#
+}
+
+
+// question: 27146  name: HAQ1014 
+::HAQ1014::[html]Most heavy-duty air-cleaners incorporate a ................. type pre-cleaner.{
+	=%100%cyclone#
+}
+
+
+// question: 27147  name: HAQ1015 
+::HAQ1015::[html]This dry-element cleaner is fitted close to the engine and it's linked to the cyclone system by a .................{
+	=%100%duct#
+}
+
+
+// question: 27148  name: HAQ1016 
+::HAQ1016::[html]An efficient cyclone pre-cleaner can remove up to 90% of particles before they reach the main element. Some older vehicles may use an .................-bath type air cleaner.{
+	=%100%oil#
+}
+
+
+// question: 27149  name: HAQ1017 
+::HAQ1017::[html]In many vehicles, the air cleaner is mounted where it can get cool, clean air. This air is then carried to the ................. body by a long, flexible duct.{
+	=%100%throttle#
+}
+
+
+// question: 27150  name: HAQ1018 
+::HAQ1018::[html]The air-flow sensor accurately measures all air entering the ................. and adjusts the air-fuel mixture accordingly.{
+	=%100%engine#
+}
+
+
+// question: 27151  name: HAQ1019 
+::HAQ1019::[html]There are also many systems that monitor the mixture by using a ................. control.{
+	=%100%closed loop#
+	=%100%closed-loop#
+}
+
+
+// question: 27152  name: HAQ1020 
+::HAQ1020::[html]Electronic fuel injected engines with ................. body injection also have intake manifolds that carry air-fuel mixture.{
+	=%100%throttle#
+}
+
+
+// question: 27153  name: HAQ1021 
+::HAQ1021::[html]It is a crossflow head. That means the intake manifold is on one side and the ................. manifold is on the other.{
+	=%100%exhaust#
+}
+
+
+// question: 27154  name: HAQ1022 
+::HAQ1022::[html]Hot coolant from the cooling system flows through the ................. and heats the manifold.{
+	=%100%waterjacket#
+	=%100%water-jacket#
+	=%100%water jacket#
+}
+
+
+// question: 27155  name: HAQ1023 
+::HAQ1023::[html]This fuel-injected engine manifold has a ................. chamber that provides a reservoir of air and helps prevent interference with the flow of air between individual branches.{
+	=%100%plenum#
+}
+
+
+// question: 27156  name: HAQ1024 
+::HAQ1024::[html]Extra valves are computer-controlled by the engine management system to open at a specified engine speed and extend the ................. output.{
+	=%100%torque#
+}
+
+
+// question: 27157  name: HAQ1025 
+::HAQ1025::[html]Normally, the air entering the air cleaner is .................{
+	=%100%cold#
+}
+
+
+// question: 27158  name: HAQ1026 
+::HAQ1026::[html]On vehicles with emission controls, air cleaners use a thermostatic ................. to control how much hot air enters the air cleaner.{
+	=%100%valve#
+}
+
+
+// question: 27159  name: HAQ1027 
+::HAQ1027::[html]The vacuum control unit has a ................. attached to the control valve.{
+	=%100%diaphragm#
+}
+
+
+// question: 27160  name: HAQ1028 
+::HAQ1028::[html]Volumetric efficiency compares the volume of air entering a cylinder during ................., to the internal volume of the cylinder when the piston is at bottom dead center.{
+	=%100%intake#
+}
+
+
+// question: 27161  name: HAQ1029 
+::HAQ1029::[html]In a naturally aspirated engine, one without ................. induction, volumetric efficiency can never be 100%.{
+	=%100%forced#
+}
+
+
+// question: 27162  name: HAQ1030 
+::HAQ1030::[html]With forced induction, the incoming air is ................., so that a greater volume and mass of air is forced into the cylinder during the intake stroke.{
+	=%100%compressed#
+}
+
+
+// question: 27163  name: HAQ1031 
+::HAQ1031::[html]One way to improve engine output is to increase the amount of air-fuel mixture that is burned in the cylinder. That means increased volumetric .................{
+	=%100%efficiency#
+}
+
+
+// question: 27164  name: HAQ1032 
+::HAQ1032::[html]A shaft connects the turbine to an intake .................{
+	=%100%compressor#
+}
+
+
+// question: 27165  name: HAQ1033 
+::HAQ1033::[html]On gasoline engines, higher and higher engine speeds mean more and more exhaust gases, and that makes the turbocharger force more and more ................. into the cylinders.{
+	=%100%air#
+}
+
+
+// question: 27138  name: HAQ3717 
+::HAQ3717::[html]The primary components of the automotive intake system are: Intake manifold; ................. body/carburetor; Air induction components.{
+	=%100%throttle#
+}
+
+
+// question: 27139  name: HAQ3718 
+::HAQ3718::[html]The intake manifold is attached to the cylinder head. Its construction and design depends on its application. It is normally made of an ................. alloy.{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 27140  name: HAQ3719 
+::HAQ3719::[html]The intake manifold can accommodate a carburetor or a Throttle Body Injection unit as illustrated. In either case the mixing of the air/fuel mixture is done at the ................. base.{
+	=%100%manifold#
+}
+
+
+// question: 27141  name: HAQ3720 
+::HAQ3720::[html]The air induction components consist of an air ................. and housing, solid and flexible-duct tubing, and connectors.{
+	=%100%cleaner#
+}
+
+
+// question: 27142  name: HAQ3721 
+::HAQ3721::[html]The location of the air cleaner is dependent on the available space and the ................. design.{
+	=%100%hood#
+}
+
+
+

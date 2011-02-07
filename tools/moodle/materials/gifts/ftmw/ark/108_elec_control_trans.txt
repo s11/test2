@@ -1,0 +1,163 @@
+// question: 30363  name: HAQ2243 
+::HAQ2243::[html]Fluid for transmission operation and lubrication is supplied by the ................. Pressure-control valves determine the pressures in the system according to operating conditions.{
+	=%100%pump#
+}
+
+
+// question: 30364  name: HAQ2244 
+::HAQ2244::[html]These conditions are signalled to the control valves and two inputs are critical. Engine Load, and Vehicle .................{
+	=%100%speed#
+}
+
+
+// question: 30365  name: HAQ2245 
+::HAQ2245::[html]The Engine Load signal can come via a cable connected to the throttle linkage. The Speed Signal is provided by a ................. valve, attached to the transmission output shaft.{
+	=%100%governor#
+}
+
+
+// question: 30366  name: HAQ2246 
+::HAQ2246::[html]In the electronically-controlled transmission, the ECU can store different driving .................{
+	=%100%patterns#
+}
+
+
+// question: 30367  name: HAQ2247 
+::HAQ2247::[html]'Normal' mode is a shift pattern for city, suburban and highway driving. Gear changes are compatible with both low fuel consumption and good ................. performance.{
+	=%100%accelerating#
+}
+
+
+// question: 30368  name: HAQ2248 
+::HAQ2248::[html]The ECU's precise control of up- and downshifting to suit driving conditions means less shock going from one ratio to another. It also selects the best available ................. for a given condition, which improves fuel consumption.{
+	=%100%ratio#
+}
+
+
+// question: 30369  name: HAQ2249 
+::HAQ2249::[html]Some vehicles can identify and adapt to a driver's individual style and to ................. conditions.{
+	=%100%environmental#
+}
+
+
+// question: 30370  name: HAQ2250 
+::HAQ2250::[html]Four functions can be derived from these patterns. Accelerator pedal movement can be evaluated when moving the vehicle away from ................. and during regular driving.{
+	=%100%rest#
+}
+
+
+// question: 30371  name: HAQ2251 
+::HAQ2251::[html]If a driver's requirements change suddenly after a stop, the driving style ................. circuits within the control unit must respond quickly.{
+	=%100%identification#
+}
+
+
+// question: 30372  name: HAQ2252 
+::HAQ2252::[html]Slippery conditions require a gear ratio which enhances ................. and the stability of motion of the vehicle.{
+	=%100%traction#
+}
+
+
+// question: 30373  name: HAQ2253 
+::HAQ2253::[html]Return to a normal gear selection pattern is controlled by a high-friction function which evaluates engine ................. and wheelslip, to establish when this condition has again been reached.{
+	=%100%torque#
+}
+
+
+// question: 30374  name: HAQ2254 
+::HAQ2254::[html]For driving on steep gradients or with a heavy load, a performance-type shift program can prevent '.................' or too frequent up- and down-shifts between adjacent ratios.{
+	=%100%hunting#
+}
+
+
+// question: 30375  name: HAQ2255 
+::HAQ2255::[html]In specific driving situations, it can be beneficial to select a gear not normally selected in a shift program. A normal shift program characteristic initiates shift changes according to road speed and ................. opening angle.{
+	=%100%throttle#
+}
+
+
+// question: 30376  name: HAQ2256 
+::HAQ2256::[html]Shift characteristics are arranged so that up-shifts are triggered by an ................. in road speed or by reduced throttle opening.{
+	=%100%increase#
+}
+
+
+// question: 30377  name: HAQ2257 
+::HAQ2257::[html]Down-shifts occur when the opposite situations apply. But in some situations, as when the brakes are applied when ................. or descending gradients, unwanted gear shifts may occur.{
+	=%100%cornering#
+}
+
+
+// question: 30378  name: HAQ2258 
+::HAQ2258::[html]In normal driving, closing the ................. prompts the transmission to upshift to a higher ratio, if it is not already in top gear.{
+	=%100%throttle#
+}
+
+
+// question: 30379  name: HAQ2259 
+::HAQ2259::[html]In a higher gear the engine contributes less to the braking process, and when the ................. is depressed again, a downshift usually takes place.{
+	=%100%accelerator#
+}
+
+
+// question: 30380  name: HAQ2260 
+::HAQ2260::[html]The fast-off identification function can also apply when the vehicle approaches a corner. Rapidly releasing the ................. may inhibit an upshift if the vehicle is not already in top gear.{
+	=%100%accelerator#
+}
+
+
+// question: 30381  name: HAQ2261 
+::HAQ2261::[html]The radius of the curve is determined by comparing the rotating speeds of the inner, and outer front ................., when the vehicle is not travelling in a straight line.{
+	=%100%wheels#
+}
+
+
+// question: 30382  name: HAQ2262 
+::HAQ2262::[html]This data from the wheel ................., added to road speed, allows a sufficiently accurate estimate of lateral acceleration.{
+	=%100%sensors#
+}
+
+
+// question: 30383  name: HAQ2263 
+::HAQ2263::[html]On a downhill gradient, if an upshift occurs when the ................. is released, there is no engine braking. To stop, the driver would need to apply greater force to the brakes.{
+	=%100%accelerator#
+}
+
+
+// question: 30384  name: HAQ2264 
+::HAQ2264::[html]Identifying a closed ................. and increasing road speed causes the system to respond initially by preventing further upshifts.{
+	=%100%throttle#
+}
+
+
+// question: 30385  name: HAQ2265 
+::HAQ2265::[html]On a downhill gradient, if brakes are then applied, a single ................. takes place.{
+	=%100%downshift#
+}
+
+
+// question: 30386  name: HAQ2266 
+::HAQ2266::[html]For a powerful vehicle, ................. gear is adequate when accelerating from a standstill.{
+	=%100%second#
+}
+
+
+// question: 30387  name: HAQ2267 
+::HAQ2267::[html]A stop-and-go situation is identified if the ................. opening angle and the road speed remain below pre-set limits for a given period of time.{
+	=%100%throttle#
+}
+
+
+// question: 30388  name: HAQ2268 
+::HAQ2268::[html]Forward movement changes the ................. to a higher gear. Backward movement to a lower gear.{
+	=%100%transmission#
+}
+
+
+// question: 30389  name: HAQ2269 
+::HAQ2269::[html]Kick-down initiates downshifts in all speeds to the lowest available ................. and at low speeds, automatic downshifts as far as third gear occur to ensure adequate traction for re-acceleration.{
+	=%100%ratio#
+}
+
+
+

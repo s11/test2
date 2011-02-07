@@ -1,0 +1,95 @@
+- if resource.new_record?
+  %tr.requiredField
+    %th= f.label(:username)
+    - if resource.new_record?
+      %td
+        = f.text_field(:username)
+        %small (Required)
+    - else
+      %td= resource.username
+
+- else
+  %tr
+    %th= f.label(:username)
+    - if resource.new_record?
+      %td= f.text_field(:username)
+    - else
+      %td= resource.username
+
+- if resource.new_record?
+  %tr.requiredField
+    %th.span-4= f.label(:password, "Password")
+    %td.span-8
+      = f.password_field(:password)
+      %small (Required)
+
+  %tr.requiredField
+    %th= f.label(:password_confirmation, 'Password (Confirmation)')
+    %td
+      = f.password_field(:password_confirmation)
+      %small (Required)
+- else
+  %tr
+    %th.span-4= f.label(:password, "Change Password")
+    %td.span-8= f.password_field(:password)
+
+  %tr
+    %th= f.label(:password_confirmation, 'Change Password (Confirmation)')
+    %td= f.password_field(:password_confirmation)
+
+- unless current_user.student?
+  %tr.requiredField
+    %th= f.label(:firstname, "First Name")
+    %td
+      = f.text_field(:firstname)
+      %small (Required)
+
+  %tr.requiredField
+    %th= f.label(:lastname, "Last Name")
+    %td
+      = f.text_field(:lastname)
+      %small (Required)
+
+- if current_user.role.supervisor?
+  %tr
+    %th= f.label(:email)
+    %td
+      = f.text_field(:email)
+
+- if resource.role.student?
+  %tr
+    %th= f.label(:year_level)
+    %td= f.text_field(:year_level)
+
+  %tr
+    %th= f.label(:student_id, 'Student ID')
+    %td= f.text_field(:student_id)
+
+- if current_client.prefers_menu_change? || !(current_menu.is_custom? && current_menu.is_client_locked?)
+  - unless current_user.role.student?
+    %tr
+      %th= f.label(:menu_version_id, 'Menu')
+      %td= f.select(:menu_version_id, current_client.valid_user_menu_versions.map { |v| [v.menu.name, v.id] }, { :include_blank => "Default Menu" })
+
+- if current_client.prefers_class_groups?
+  %tr
+    %th= f.label(:class_groups, 'Classes / Groups')
+    %td
+      - current_client.class_groups.each do |class_group|
+        %span.ui-corner-all.user.class_group[class_group]{ :class => "#{'selected' if resource.class_group_ids.include?(class_group.id)}", :style => "padding: 0.25em 0.5em; margin-right: 0.5em" }
+          = check_box_tag "user[class_groups][]", class_group.id, resource.class_group_ids.include?(class_group.id)
+          &= class_group.name
+
+  - content_for(:onload) do
+    :plain
+      $('.class_group').click(function() {
+        var checkbox = $(this).find('input:checkbox');
+
+        if ($(this).hasClass('selected')) {
+          $(this).removeClass('selected');
+          checkbox.attr('checked', false)
+        } else {
+          $(this).addClass('selected');
+          checkbox.attr('checked', true)
+        }
+      });

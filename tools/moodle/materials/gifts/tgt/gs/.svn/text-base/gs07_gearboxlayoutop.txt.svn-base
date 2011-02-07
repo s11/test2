@@ -1,0 +1,52 @@
+//name:TQ0783
+::TQ0783::The function of the reverse idler in a transmission is to:{
+	=change the direction of rotation of the mainshaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+	~decrease the speed of the output shaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+	~change the direction of rotation of the idler shaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+	~increase the speed of the output shaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+}
+
+
+//name:TQ0784
+::TQ0784::The gearbox for a rear-wheel drive vehicle is built up on:{
+	=3 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+	~2 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+	~4 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+	~5 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+}
+
+
+//name:TQ0785
+::TQ0785::The three shafts of a manual gearbox are:{
+	=input, counter and main.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+	~input, reverse and main.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+	~input, counter and reverse.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+	~input, reverse and output.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+}
+
+
+//name:TQ0786
+::TQ0786::The type of gearing normally used for the constant mesh gears in manual transmissions is:{
+	=helical.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+	~bevel.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+	~epicyclic.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+	~spur.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+}
+
+
+//name:TQ0787
+::TQ0787::Helical cut gears:{
+	=reduce gear noise and distribute load evenly.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+	~increase efficiency and distribute load evenly.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+	~increase gear load and reduce gear noise.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+	~reduce gear load and increase efficiency.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+}
+
+
+//name:TQ0788
+::TQ0788::In transaxle designs, the drive is transferred through the clutch unit to a:{
+	=primary shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+	~secondary shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+	~transaxle shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+	~drive shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+}

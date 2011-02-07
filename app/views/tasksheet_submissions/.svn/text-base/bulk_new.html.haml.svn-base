@@ -1,0 +1,128 @@
+#tasksheet-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  %ul.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all
+    = render :partial => "tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - class_groups = current_user.role.supervisor? ? current_client.class_groups_with_students : current_user.class_groups
+
+    - information_box do
+      %p Instructors can use this application to easily record the Tasksheet grades for a class.
+
+      %p
+        %strong To enter tasksheets and grades for one or more students:
+
+      %ol
+        %li Enter the CDX Tasksheet number your students have completed (e.g 001) 
+        %li Select the Class Group that completed the Tasksheet
+        %li Enter the date the task was completed
+        %li Click Search
+        %li Enter the same grade for every student by clicking on the relevant result in the header, and then adjust individual grades as required. Alternatively, enter different grades for each individual student manually.  Select “Off” for students who did not complete the task.
+        %li Click the “Submit Tasksheet” button to Save.
+
+      %p
+        %strong Note:
+        %ul
+          %li If a student has attempted a tasksheet previously, the previous result will be marked in orange.  
+          %li Tasksheets can only be recorded for students in class groups that have one or more assigned instructors.  
+          %li You can enter the same tasksheets for students multiple times, but not on the same day.
+          %li Tasksheets can also be graded in the workshop and students can then enter their grades and submit them for approval by their instructors.  To approve tasksheets students have submitted to you click on the “Pending Tasksheets” tab.
+
+      -# FIXME: Hardcoded menu! Arghhh!
+      - if current_menu.name =~ /ASE/
+        %p Only tasksheets in ASE task areas assigned by your institution's CDX Online Supervisor will be available.
+
+    - if class_groups.blank?
+      #disclaimer.ui-widget
+        .ui-state-highlight.ui-corner-all{ :style => "padding: 0 .7em;" }
+          %p
+            %span.ui-icon.ui-icon-info{ :style => "float: left; margin-right: .3em;" }
+            %strong Alert:
+            - if current_user.role.supervisor?
+              == You can only process task sheets for class groups and currently none are defined. #{link_to "Click here to manage class / groups", class_groups_path}.
+            - else
+              You can only process task sheets for class groups you are assigned to. You are not assigned to any groups.
+      
+    - else
+      - form_tag(bulk_new_tasksheet_submissions_path, :method => :get) do |f|
+        .ui-widget.ui-widget-content.ui-corner-all
+          %table
+            %tr.centre
+              %td{ :width => "24%" }
+                = label_tag :tasksheet_number, "Tasksheet Number"
+                %strong C
+                = text_field_tag :tasksheet_number, params[:tasksheet_number], :size => 5, :maxlength => 4, :class => "centre"
+
+              %td{ :width => "24%" }
+                = label_tag :class_group_id, "Class / Group"
+                = select_tag :class_group_id, options_from_collection_for_select(class_groups, :id, :name, params[:class_group_id].try(:to_i))
+
+              %td{ :width => "24%" }
+                = label_tag :completed_on
+                = text_field_tag :completed_on, @tasksheet_submission.completed_on.to_s(:us), :size => 10
+
+              %td{ :width => "24%" }
+                = search_button_tag
+
+      - if @tasksheet_submission.tasksheet.present? && !flash[:error] 
+        - unless @users.count > 0
+          %br
+          #disclaimer.ui-widget
+            .ui-state-highlight.ui-corner-all{ :style => "padding: 0 .7em;" }
+              %p
+                %span.ui-icon.ui-icon-info{ :style => "float: left; margin-right: .3em;" }
+                %strong Alert:
+                == No users belong to the selected class / group. You can either select another group or #{link_to "add users to the selected group", edit_class_group_path(@tasksheet_submission.class_group)}
+        
+        - else
+          - form_for(@tasksheet_submission, :url => bulk_create_tasksheet_submissions_path, :method => :get) do |f|
+            .ui-widget.ui-widget-content.ui-corner-all{ :style => "padding: 0.5em; margin: 1em 0" }
+              %h3= @tasksheet_submission.tasksheet.name
+        
+              = f.hidden_field :tasksheet_id
+              = f.hidden_field :class_group_id
+              = f.hidden_field :completed_on
+
+              %table#listing{:cellspacing => 0, :style => "margin-top: 1em; width: auto"}
+                %thead.ui-widget-header
+                  %tr
+                    %th{ :rowspan => 2 } First Name
+                    %th{ :rowspan => 2 } Last Name
+                    %th{ :rowspan => 2 } Student ID
+                    %th{ :colspan => 6 } Grade
+
+                  %tr
+                    %th{ :width => "75px" }= link_to_function "Off",                     "$('#listing tr.no-submission .no-grade input:radio').attr('checked', true)"
+                    %th{ :width => "75px" }= link_to_function "0 - No Exposure",         "$('#listing tr.no-submission .grade-0 input:radio').attr('checked', true)"
+                    %th{ :width => "75px" }= link_to_function "1 - Exposure Only",       "$('#listing tr.no-submission .grade-1 input:radio').attr('checked', true)"
+                    %th{ :width => "75px" }= link_to_function "2 - Limited Practice",    "$('#listing tr.no-submission .grade-2 input:radio').attr('checked', true)"
+                    %th{ :width => "75px" }= link_to_function "3 - Moderately Skilled",  "$('#listing tr.no-submission .grade-3 input:radio').attr('checked', true)"
+                    %th{ :width => "75px" }= link_to_function "4 - Skilled",             "$('#listing tr.no-submission .grade-4 input:radio').attr('checked', true)"
+    
+                %tbody
+                  - @users.each do |user|
+                    - previous_submission = user.tasksheet_submissions.first(:include => :tasksheet, :conditions => { :completed_on => @tasksheet_submission.completed_on, "tasksheets.id" => @tasksheet_submission.tasksheet_id, 'tasksheet_submissions.completed_on' => @tasksheet_submission.completed_on }, :order => "completed_on DESC")
+                    %tr.centre[user]{:class => "#{"no-submission" if previous_submission.blank?} #{cycle(:odd, :even)}"}
+                      %td.left&= user.firstname
+                      %td.left&= user.lastname
+                      %td.left&= user.student_id
+                      %td.no-grade= radio_button_tag  "grades[#{user.id}]", :off, false
+                      %td.grade-0{ :class => "#{'selected' if previous_submission && previous_submission.grade == 0}"}= radio_button_tag   "grades[#{user.id}]", 0, (previous_submission && previous_submission.grade == 0)
+                      %td.grade-1{ :class => "#{'selected' if previous_submission && previous_submission.grade == 1}"}= radio_button_tag   "grades[#{user.id}]", 1, (previous_submission && previous_submission.grade == 1)
+                      %td.grade-2{ :class => "#{'selected' if previous_submission && previous_submission.grade == 2}"}= radio_button_tag   "grades[#{user.id}]", 2, (previous_submission && previous_submission.grade == 2)
+                      %td.grade-3{ :class => "#{'selected' if previous_submission && previous_submission.grade == 3}"}= radio_button_tag   "grades[#{user.id}]", 3, (previous_submission && previous_submission.grade == 3)
+                      %td.grade-4{ :class => "#{'selected' if previous_submission && previous_submission.grade == 4}"}= radio_button_tag   "grades[#{user.id}]", 4, (previous_submission && previous_submission.grade == 4)
+
+            = save_button_tag "Submit Tasksheet"
+
+- content_for(:onload) do
+  :plain
+    $("#completed_on").datepicker({
+      buttonImage: '#{ image_path('icons/calendar.png') }',
+      buttonImageOnly: true,
+      changeMonth: true,
+      changeYear: true,
+      showOn: 'both',
+      dateFormat: 'mm/dd/yy',
+      minDate: '-1y',
+      maxDate: '+0d'
+    });

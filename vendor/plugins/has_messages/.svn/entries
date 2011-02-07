@@ -1,0 +1,109 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/has_messages
+svn://curfew.jbpub.com/online
+
+
+
+2009-12-14T02:01:35.884274Z
+3589
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+app
+dir
+
+LICENSE
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+b4a6e860933a5ffeb392e1a87f7b1fc9
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+046155ea77474cee0d77e094ccdc5404
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+README.rdoc
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+75e3c48f3133b13f2f414c13d633b343
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+has_messages.gemspec
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+b90cc0888a9c4e25cff7e6702e3e7d8c
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+db
+dir
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+c5eb187b012e015fd5611df99e2d8a7a
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+lib
+dir
+
+CHANGELOG.rdoc
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+41a56e6ba7476d8ae818f1c836a8ccc0
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+

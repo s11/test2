@@ -1,0 +1,53 @@
+//name:TQ0265
+::TQ0265::Many transit buses are now designed to run using alternative cleaner fuels.{
+	=TRUE#Alternative cleaner fuels are becoming very popular. In passenger transport applications LNG (Liquefied Natural Gas) and CNG (Compressed Natural Gas)  is commonly used on buses and LPG (Liquefied Petroleum Gas) is used in taxis.
+	~FALSE#Alternative cleaner fuels are becoming very popular. In passenger transport applications LNG (Liquefied Natural Gas) and CNG (Compressed Natural Gas)  is commonly used on buses and LPG (Liquefied Petroleum Gas) is used in taxis.
+}
+
+
+//name:TQ0266
+::TQ0266::Which is the most readily available and widely used alternative fuel to gasoline/petrol used in spark ignition engines?{
+	=LPG.#LPG is the most widely accepted alternative fuel for the automotive sector and powers more than four million vehicles in more than 38 countries.
+	~LNG.#LPG is the most widely accepted alternative fuel for the automotive sector and powers more than four million vehicles in more than 38 countries.
+	~CPG.#LPG is the most widely accepted alternative fuel for the automotive sector and powers more than four million vehicles in more than 38 countries.
+	~Methanol.#LPG is the most widely accepted alternative fuel for the automotive sector and powers more than four million vehicles in more than 38 countries.
+}
+
+
+//name:TQ0267
+::TQ0267::What is NOT considered to be an alternative fuel?{
+	=Gasoline.#Gasoline is a conventional fuel.  Alternative fuel sources are used as a way of reducing the operating cost of vehicles, reducing pollution from vehicle emissions, or both.
+	~Methanol.#Gasoline is a conventional fuel.  Alternative fuel sources are used as a way of reducing the operating cost of vehicles, reducing pollution from vehicle emissions, or both.
+	~Natural Gas.#Gasoline is a conventional fuel.  Alternative fuel sources are used as a way of reducing the operating cost of vehicles, reducing pollution from vehicle emissions, or both.
+	~Ethanol.#Gasoline is a conventional fuel.  Alternative fuel sources are used as a way of reducing the operating cost of vehicles, reducing pollution from vehicle emissions, or both.
+}
+
+
+//name:TQ0268
+::TQ0268::Biodiesel is derived from:{
+	=vegetable oil.#Biodiesel is a processed fuel derived from vegetable oils, such as rapeseed/canola, that can be readily used in diesel-engine vehicles.
+	~petrochemicals.#Biodiesel is a processed fuel derived from vegetable oils, such as rapeseed/canola, that can be readily used in diesel-engine vehicles.
+	~hydrogen.#Biodiesel is a processed fuel derived from vegetable oils, such as rapeseed/canola, that can be readily used in diesel-engine vehicles.
+	~gasoline.#Biodiesel is a processed fuel derived from vegetable oils, such as rapeseed/canola, that can be readily used in diesel-engine vehicles.
+}
+
+
+//name:TQ0269
+::TQ0269::A fuel cell is:{
+	=an electrochemical device.#A fuel cell is an electro chemical device that combines hydrogen and oxygen to produce water and in the process it produces electricity and heat.
+	~a petrochemical device.#A fuel cell is an electro chemical device that combines hydrogen and oxygen to produce water and in the process it produces electricity and heat.
+	~a type of diesel fuel tank.#A fuel cell is an electro chemical device that combines hydrogen and oxygen to produce water and in the process it produces electricity and heat.
+	~an LPG tank.#A fuel cell is an electro chemical device that combines hydrogen and oxygen to produce water and in the process it produces electricity and heat.
+}
+
+
+//name:TQ0270
+::TQ0270::Which is not an advantage of an electric drive motor vehicle over a traditional vehicle.{
+	=Lower costs.#Vehicles that include electric drive motors have many advantages over the traditional vehicle. Lower noise and gas emissions are among the major benefits. As well as fewer moving parts, less maintenance requirements and increased reliability.
+	~Lower noise and gas emissions.#Vehicles that include electric drive motors have many advantages over the traditional vehicle. Lower noise and gas emissions are among the major benefits. As well as fewer moving parts, less maintenance requirements and increased reliability.
+	~Fewer moving parts.#Vehicles that include electric drive motors have many advantages over the traditional vehicle. Lower noise and gas emissions are among the major benefits. As well as fewer moving parts, less maintenance requirements and increased reliability.
+	~Less maintenance requirements.#Vehicles that include electric drive motors have many advantages over the traditional vehicle. Lower noise and gas emissions are among the major benefits. As well as fewer moving parts, less maintenance requirements and increased reliability.
+	~Increased reliability.#Vehicles that include electric drive motors have many advantages over the traditional vehicle. Lower noise and gas emissions are among the major benefits. As well as: fewer moving parts, less maintenance requirements and increased reliability.
+}
+
+

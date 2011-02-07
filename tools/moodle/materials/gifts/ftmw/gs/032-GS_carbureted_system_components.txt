@@ -1,0 +1,138 @@
+// question: 24677  name: HAQ1171 
+::HAQ1171::[html]The mechanical fuel pump for the carburetor system is usually mounted on the cylinder .............................. or the engine block.{
+	=%100%head#
+}
+
+
+// question: 24678  name: HAQ1172 
+::HAQ1172::[html]The mechanical fuel pump has a flexible diaphragm. That's a flexible piece of .............................. rubber separating 2 chambers.{
+	=%100%neoprene#
+}
+
+
+// question: 24679  name: HAQ1173 
+::HAQ1173::[html]The diaphragm is operated by an .............................. on the camshaft.{
+	=%100%eccentric#
+}
+
+
+// question: 24680  name: HAQ1174 
+::HAQ1174::[html]As the fuel .............................., it cools the fuel pump and lines.{
+	=%100%circulates#
+}
+
+
+// question: 24681  name: HAQ1175 
+::HAQ1175::[html]Cooling the fuel pump and lines reduces the chance of .............................. locks.{
+	=%100%vapour#
+	=%100%vapor#
+}
+
+
+// question: 24682  name: HAQ1176 
+::HAQ1176::[html]One widely-used pump is the .............................. type. It has an electrical section, and a mechanical section.{
+	=%100%diaphragm#
+}
+
+
+// question: 24683  name: HAQ1177 
+::HAQ1177::[html]When the ignition is switched on, current .............................. the solenoid.{
+	=%100%magnetises#
+	=%100%magnetizes#
+}
+
+
+// question: 24684  name: HAQ1178 
+::HAQ1178::[html]The magnetic field energises the .............................., which pulls down the diaphragm.{
+	=%100%armature#
+}
+
+
+// question: 24685  name: HAQ1179 
+::HAQ1179::[html]When the engine needs less fuel, .............................. builds up in the fuel lines to the carburetor, and reduces how much fuel is delivered.{
+	=%100%pressure#
+}
+
+
+// question: 24686  name: HAQ1180 
+::HAQ1180::[html]Some carburetor-equipped vehicles with electric pumps have a safety switch that prevents the pump continuing to run if the engine ..............................{
+	=%100%stops#
+}
+
+
+// question: 24687  name: HAQ1181 
+::HAQ1181::[html]Safety demands that the fuel tank is positioned well away from .............................. components.{
+	=%100%heated#
+}
+
+
+// question: 24688  name: HAQ1183 
+::HAQ1183::[html]Most tanks are made of tinned sheet steel that has been .............................. into shape.{
+	=%100%pressed#
+}
+
+
+// question: 24689  name: HAQ1184 
+::HAQ1184::[html]Fuel expands and contracts as temperature rises and falls. So fuel tanks are .............................. to let them breathe.{
+	=%100%vented#
+}
+
+
+// question: 24690  name: HAQ1185 
+::HAQ1185::[html]Some systems have a small container, called a liquid-vapor .............................., above the fuel tank. It also prevents liquid fuel reaching the charcoal.{
+	=%100%separator#
+}
+
+
+// question: 24691  name: HAQ1186 
+::HAQ1186::[html]This helps prevent the formation of .............................. that can occur in the fuel supply during hot conditions.{
+	=%100%vapour#
+	=%100%vapor#
+}
+
+
+// question: 24692  name: HAQ1187 
+::HAQ1187::[html]The cap on the gasoline tank also stops gasoline vapor escaping and polluting the atmosphere. This is important for gasoline which is very volatile and vaporises easily, especially in .............................. climates.{
+	=%100%warmer#
+	=%100%warm#
+}
+
+
+// question: 24693  name: HAQ1188 
+::HAQ1188::[html]Some gasoline caps have a low .............................. valve built-in. It keeps a balance between the pressure in the tank and the outside atmospheric pressure.{
+	=%100%pressure#
+}
+
+
+// question: 24694  name: HAQ1189 
+::HAQ1189::[html]The fuel gauge shows how much fuel is still in the tank. It has a gauge unit on the dash, and a .............................. unit in the tank.{
+	=%100%sender#
+}
+
+
+// question: 24695  name: HAQ1194 
+::HAQ1194::[html]Fuel must be kept clean, or the jets in the carburetor could be blocked, or .............................. can occur.{
+	=%100%corrosion#
+}
+
+
+// question: 24696  name: HAQ1195 
+::HAQ1195::[html]In a carbureted system, a fine filter of nylon or gauze is fitted to the .............................. pipe in this gasoline tank.{
+	=%100%pick-up#
+	=%100%pick up#
+	=%100%pickup#
+}
+
+
+// question: 24697  name: HAQ1196 
+::HAQ1196::[html]An .............................. filter, which is usually made of a clear or opaque plastic, is normally fitted either between the tank and the pump, or between the pump and carburetor.{
+	=%100%in-line#
+	=%100%in line#
+	=%100%inline#
+}
+
+
+// question: 24698  name: HAQ1197 
+::HAQ1197::[html]This filter traps dirt, and water. The amount of contamination can usually be .............................. through the plastic.{
+	=%100%seen#
+}

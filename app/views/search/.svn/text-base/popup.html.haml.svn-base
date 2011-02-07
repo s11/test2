@@ -1,0 +1,22 @@
+#search
+  #popup-search-box
+    #popup-search-criteria
+      Enter Search words ... 
+      %br
+      - form_tag(moodle_search_path, :method => :get) do
+        = text_field_tag :query, (params[:query] || nil), :style => 'border: 1px solid #888; font-size: 12px'
+        &nbsp;
+        %span{:style => 'font-size: 12px'}
+          %button{:type => 'submit', :class => 'ui-button ui-widget ui-state-default ui-button-size-small ui-corner-all'} Search
+
+- if @search.present?
+  #search-results
+    .summary== #{page_entries_info(@search)} for the query '<em>#{params[:query]}</em>'
+
+    #popup-search-results
+      = render :partial => "popup_list"
+
+    .centre= will_paginate(@search)
+
+- content_for(:onload) do
+  $('#search input').form_prompt('Enter search words');

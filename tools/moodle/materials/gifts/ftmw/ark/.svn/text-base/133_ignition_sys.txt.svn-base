@@ -1,0 +1,139 @@
+// question: 32081  name: HAQ2701 
+::HAQ2701::[html]Most four-stroke engines have used a mechanical ignition system. Here, the power source is a lead-acid battery, kept charged by the car's electrical system, which generates electricity using a dynamo or .................{
+	=%100%alternator#
+}
+
+
+// question: 32082  name: HAQ2702 
+::HAQ2702::[html]The engine operates contact breaker points, which interrupt the current flow to an induction coil (known as the ignition coil) - a type of autotransformer. This steps up the voltage, which is fed via a rotating switch called a distributor to the .................{
+	=%100%spark plugs#
+}
+
+
+// question: 32083  name: HAQ2703 
+::HAQ2703::[html]The sparks must be supplied at the right time, and they must have sufficient energy, over a range of conditions, to ignite the charges. The ................. comes from the battery and alternator, and the voltage is increased by the ignition coil.{
+	=%100%energy#
+}
+
+
+// question: 32084  name: HAQ2704 
+::HAQ2704::[html]The high firing ................. causes the spark gap to become electrically conductive, enabling an ignition spark to occur.{
+	=%100%voltage#
+}
+
+
+// question: 32085  name: HAQ2705 
+::HAQ2705::[html]Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise. This ................. the firing voltage needed.{
+	=%100%increases#
+}
+
+
+// question: 32086  name: HAQ2706 
+::HAQ2706::[html]Most light vehicle ignition systems are of the ................. type: they use an induction coil with primary and secondary windings to 'step-up' the nominal 12 volts at the battery to the required firing voltage.{
+	=%100%inductive#
+}
+
+
+// question: 32088  name: HAQ2708 
+::HAQ2708::[html]The rotor head (usually called 'the rotor') is attached to the top of the distributor shaft which is driven by a gear on the engine's ................. and thus synchronized to it.{
+	=%100%camshaft#
+}
+
+
+// question: 32099  name: HAQ2709 
+::HAQ2709::[html]As the high tension voltage in the secondary winding builds up, a particular voltage level is reached when the spark plug gap suddenly becomes ................., allowing the spark to occur.{
+	=%100%conductive#
+}
+
+
+// question: 32100  name: HAQ2710 
+::HAQ2710::[html]When the spark reaches the point where a high intensity current is flowing in the secondary circuit, the ................. drops to a much lower spark voltage level, sufficient to sustain the spark.{
+	=%100%voltage#
+}
+
+
+// question: 32101  name: HAQ2711 
+::HAQ2711::[html]When the breaker points or solid state ignition unit (switching device) interrupts current flow in the primary ignition circuit and induces ................. flow into the secondary windings of the coil, there is an instantaneous voltage surge or spike.{
+	=%100%current#
+}
+
+
+// question: 32102  name: HAQ3272 
+::HAQ3272::[html]Faraday's law of induction is based on Michael Faraday's experiments in 1831 and gives the relation between the ................. of change of the magnetic flux through the area enclosed by a closed loop and the electric field induced along the loop.{
+	=%100%rate#
+}
+
+
+// question: 32103  name: HAQ3273 
+::HAQ3273::[html]The direction of the ................. force (the negative sign in the above formula) was first given by Lenz's law.{
+	=%100%electromotive#
+}
+
+
+// question: 32104  name: HAQ3274 
+::HAQ3274::[html]An EMF is inducted when the magnetic field around a conductor changes in Faraday's first law and the magnitude of the induced emf is ................. to the rate of change of the flux linkage in his second.{
+	=%100%proportional#
+}
+
+
+// question: 32089  name: HAQ3809 
+::HAQ3809::[html]The primary components of the automotive ignition system are: Battery; Spark plug; Engine timing; Distributo; Spark .................; High tension (HT) leads.{
+	=%100%intensifiers#
+}
+
+
+// question: 32090  name: HAQ3810 
+::HAQ3810::[html]The battery supplies the Electro-Motive Force (EMF) to the ignition circuit. The battery needs a constant flow of air around it to keep it ................., and must be well maintained if it is to keep the ignition system functioning properly.{
+	=%100%cool#
+}
+
+
+// question: 32091  name: HAQ3811 
+::HAQ3811::[html]The spark plug creates the spark that ignites the air/fuel mixture inside the cylinder when the spark jumps from the ................. electrode to the side electrode.{
+	=%100%central#
+}
+
+
+// question: 32092  name: HAQ3812 
+::HAQ3812::[html]To complete the distributor assembly, a distributor ................. and rotor are fitted.{
+	=%100%cap#
+}
+
+
+// question: 32093  name: HAQ3813 
+::HAQ3813::[html]Coils and Coil Packs are basically step-up ................., increasing the vehicle's 12-volt supply to the voltage required to fire the spark plugs.{
+	=%100%transformers#
+}
+
+
+// question: 32094  name: HAQ3814 
+::HAQ3814::[html]For any given engine speed the correct spark timing varies according to a number of factors. They are: Air/Fuel ratio; ................. rating; Engine speed; Engine load.{
+	=%100%octane#
+}
+
+
+// question: 32095  name: HAQ3815 
+::HAQ3815::[html]In older vehicles the air/fuel ratio is determined by the ................. and in modern engines, by the fuel injection system.{
+	=%100%carburettor#
+	=%100%carburetor#
+}
+
+
+// question: 32096  name: HAQ3816 
+::HAQ3816::[html]The distributor shaft has two sections that turn on the same axis. Both are joined by the centrifugal advance mechanism. Its function is to turn the upper shaft ................. in relation to the lower shaft, proportional to engine speed.{
+	=%100%forward#
+}
+
+
+// question: 32097  name: HAQ3817 
+::HAQ3817::[html]The lower distributor shaft has two ................. attached, each pivoted at opposite ends and controlled by a spring.{
+	=%100%flyweights#
+}
+
+
+// question: 32098  name: HAQ3818 
+::HAQ3818::[html]The vacuum advance mechanism controls ignition advance in relation to engine .................{
+	=%100%load#
+}
+
+

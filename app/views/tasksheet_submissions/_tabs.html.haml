@@ -1,0 +1,8 @@
+- if current_user.role.student?
+  %li{:class => "ui-state-default ui-corner-top #{'ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:action => 'new')}"}= link_to "Submit Tasksheet", new_tasksheet_submission_path
+- else
+  %li{:class => "ui-state-default ui-corner-top #{'ui-tabs-selected ui-state-active ui-state-processing' if current_page?(:action => 'bulk_new')}"}= link_to "Bulk Tasksheet Submission", bulk_new_tasksheet_submissions_path
+
+%li{:class => "ui-state-default ui-corner-top #{'ui-tabs-selected ui-state-active ui-state-processing' if params[:action] == 'pending'}"}=      link_to "Pending Tasksheets",    pending_tasksheet_submissions_path
+%li{:class => "ui-state-default ui-corner-top #{'ui-tabs-selected ui-state-active ui-state-processing' if params[:action] == 'approved'}"}=     link_to "Approved Tasksheets",   approved_tasksheet_submissions_path
+%li{:class => "ui-state-default ui-corner-top #{'ui-tabs-selected ui-state-active ui-state-processing' if params[:action] == 'rejected'}"}=     link_to "Rejected Tasksheets",   rejected_tasksheet_submissions_path

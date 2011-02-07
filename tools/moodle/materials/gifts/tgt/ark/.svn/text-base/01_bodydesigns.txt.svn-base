@@ -1,0 +1,123 @@
+//name:TQ0049
+::TQ0049::A vehicle designed to carry between 8 and 25 passengers is called a:{
+	=mini-bus.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+	~passenger car.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+	~passenger coach.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+	~body truck.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+}
+
+//name:TQ0050
+::TQ0050::A coupe has a maximum of:{
+	=two doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+	~three doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+	~four doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+	~five doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+}
+
+//name:TQ0051
+::TQ0051::On many two door vehicles the doors are much wider than with a four door arrangement. Why is this?{
+	=To allow more room for passengers to get into the back seats.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats.
+	~It doesn't matter as there are no back seats.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats.
+	~This arrangement is only on sports cars.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats.
+	~The vehicle is shorter in length.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats.
+}
+
+//name:TQ0052
+::TQ0052::A fifth-wheel coupling is used to:{
+	=couple semi-trailers to prime movers.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+	~carry the spare wheel.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+	~couple the steering wheel to the steering box.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+	~couple wheels to the axles.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+}
+
+//name:TQ0053
+::TQ0053::All heavy goods vehicles that have more than one trailer are know as 'B' Doubles.{
+	=FALSE#There are many vehicle combinations that can have more than one trailer, not just 'B' Doubles. 'B' Doubles are an example where there are two semi-trailers mounted behind the prime mover and an intermediary bogie. Other types have draw bars or semi-trailers connected to the back of the first semi-trailer, and typically have 3 to 5 trailers.  These are known as road trains.
+	~TRUE#There are many vehicle combinations that can have more than one trailer, not just 'B' Doubles. 'B' Doubles are an example where there are two semi-trailers mounted behind the prime mover and an intermediary bogie. Other types have draw bars or semi-trailers connected to the back of the first semi-trailer, and typically have 3 to 5 trailers.  These are known as road trains.
+}
+
+//name:TQ0054
+::TQ0054::Compared to a rigid vehicle, an articulated vehicle of the same length has:{
+	=greater maneuverability.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+	~better fuel economy.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+	~more driving axles.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+	~greater fuel capacity.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+}
+
+//name:TQ0055
+::TQ0055::Heavy goods vehicles with more than two semi trailers are known as road trains.{
+	=TRUE#Heavy goods vehicles with more than two semi trailers are known as road trains. A road train can typically have three to five trailers. However in certain parts of Australia, it is common to see road trains with up to 5 trailers.
+	~FALSE#Heavy goods vehicles with more than two semi trailers are known as road trains. A road train can typically have three to five trailers. However in certain parts of Australia, it is common to see road trains with up to 5 trailers.
+}
+
+//name:TQ0056
+::TQ0056::Many vans are constructed in a forward control arrangement. What does this indicate?{
+	=The driver position is either over or in front of the front axle (wheels) of the vehicle and describes the steering system linkage layout.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+	~The driver position is behind the front axle (wheels) of the vehicle.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+	~It describes the steering system linkage layout.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+	~It ensures that a rack and pinion steering system is used.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+}
+
+//name:TQ0057
+::TQ0057::A hatchback can have:{
+	=three or five doors.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+	~three doors only.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+	~five doors only.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+	~must have a sun roof.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+}
+
+//name:TQ0058
+::TQ0058::A sedan or saloon has a maximum of:{
+	=four doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+	~two doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+	~three doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+	~five doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+}
+
+//name:TQ0059
+::TQ0059::A station wagon is also known by what other name in some countries?{
+	=An estate car.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+	~An estate wagon.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+	~A shooting brake.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+	~A country wagon.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+}
+
+//name:TQ0060
+::TQ0060::A pick-up truck or utility can carry heavier loads and has stronger:{
+	=suspension.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+	~steering.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+	~gross vehicle mass.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+	~braking.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+}
+
+//name:TQ0061
+::TQ0061::Light vehicle vans can be based on common ________ designs.{
+	=sedan or saloon#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+	~station wagon#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+	~coupe#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+	~general goods transport vehicle#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+}
+
+//name:TQ0062
+::TQ0062::What type of vehicle can 'convert' from an enclosed top vehicle into an open top vehicle by means of a roof that can be removed or retracted or folded away?{
+	=A convertible.#A convertible is an automobile built with a folding, retracting, or removable roof.
+	~A station wagon.#A convertible is an automobile built with a folding, retracting, or removable roof.
+	~A coupe.#A convertible is an automobile built with a folding, retracting, or removable roof.
+	~A sedan.#A convertible is an automobile built with a folding, retracting, or removable roof.
+}
+
+//name:TQ0063
+::TQ0063::Most heavier trucks share a common construction. They comprise a:{
+	=chassis with a cab; axles, suspension and wheels; and an engine and a drivetrain.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+	~chassis with a cab; axles, suspension and wheels; and an engine.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+	~chassis with a cab; axles; and an engine and a drivetrain.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+	~chassis; axles, suspension and wheels; and an engine and a drivetrain.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+}
+
+//name:TQ0064
+::TQ0064::Vehicle openings have to be secured and may require a remote switch or lever to be activated. This is actuated by:{
+	=all of these.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+	~cable.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+	~electric solenold.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+	~vacuum solenoid.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+}

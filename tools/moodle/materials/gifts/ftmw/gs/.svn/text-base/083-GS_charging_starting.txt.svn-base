@@ -1,0 +1,46 @@
+// question: 31063  name: HAQ2820 
+::HAQ2820::[html]The alternator is universally used in automotive applications. It converts mechanical energy into .............................. energy, by electro-magnetic induction.{
+	=%100%electrical#
+}
+
+
+// question: 31064  name: HAQ2821 
+::HAQ2821::[html]Current that changes direction is called .............................. current, or AC. The change in direction occurs once for every complete revolution of the magnet.{
+	=%100%alternating#
+}
+
+
+// question: 31065  name: HAQ2822 
+::HAQ2822::[html]The stator contains windings of conductors and the .............................. contains a moving magnetic field.{
+	=%100%rotor#
+}
+
+
+// question: 31066  name: HAQ2888 
+::HAQ2888::[html]A direct-current motor is a device for converting DC electrical energy into rotating .............................. energy.{
+	=%100%mechanical#
+}
+
+
+// question: 31067  name: HAQ2889 
+::HAQ2889::[html]The starter motor converts electrical energy to mechanical energy and is mounted on the cylinder .............................. in a position to engage a ring gear on the engine flywheel.{
+	=%100%block#
+}
+
+
+// question: 31068  name: HAQ2890 
+::HAQ2890::[html]Plunger movement engages the drive pinion with the .............................. gear and closes a set of heavy duty contacts, allowing a large current to flow from the battery to the starter motor, rotating the armature and drive pinion, and causing the crankshaft to spin.{
+	=%100%ring#
+}
+
+
+// question: 31069  name: HAQ2891 
+::HAQ2891::[html]Motion is produced when a current carrying wire is in the presence of magnetic field. The motion is determined by two factors, the direction of the .............................. and the direction of the magnetic field.{
+	=%100%current#
+}
+
+
+// question: 31070  name: HAQ2892 
+::HAQ2892::[html]The magnetic .............................. is provided by the by the housing, or the stator.{
+	=%100%flux#
+}

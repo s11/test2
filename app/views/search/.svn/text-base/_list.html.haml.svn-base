@@ -1,0 +1,10 @@
+- @search.each_with_weighting do |category_item, weight|
+  %div{ :class => "result #{cycle(:odd, :even)}"}
+    .title
+      = link_to "[#{category_item.item_type}] #{category_item.item.name}", [category_item.category, category_item.item], :class => category_item.item.kind
+
+    .description
+      = highlight(excerpt(category_item.item.search_content, params[:query].split[0], :radius => 500), params[:query].split) || truncate(category_item.item.search_content, 500)
+
+    .category.right
+      == [Found in: #{category_item.category.self_and_ancestors.map { |c| link_to(c.name, c, :class => c.kind) } * ' > '}]

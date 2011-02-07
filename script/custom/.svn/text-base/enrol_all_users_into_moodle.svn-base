@@ -1,0 +1,20 @@
+#!/usr/bin/env /var/www/rails/fourtwo/current/script/runner
+
+Client.find_each do |client|
+  puts client.client_name
+
+  Moodle::Base.setup_tables_by_client(client)
+  begin
+    client.users.find_each(:include => "moodle_user") do |user|
+      if moodle_user = user.try(:moodle_user)
+        moodle_user.enrol_into_all_courses
+        puts "\t#{user.username} enrolled."
+      else
+        puts "\t[ERROR] #{user.username} has no moodle user."
+      end
+    end
+  rescue Exception => e
+    puts e
+  end
+end
+

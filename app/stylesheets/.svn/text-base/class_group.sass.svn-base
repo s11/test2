@@ -1,0 +1,15 @@
+#class_group
+  legend a
+    :color blue
+
+  .user
+    :background-color #eee
+    :border 1px solid #ddd
+    :display inline-block
+    :margin 0.25em
+    :padding 0.25em 0.5em
+    :width 22%
+    &:hover
+      :background-color #fed
+      :border 1px solid #f90
+      :cursor pointer

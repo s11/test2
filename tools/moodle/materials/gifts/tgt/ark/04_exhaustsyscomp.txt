@@ -1,0 +1,190 @@
+//name:TQ0231
+::TQ0231::Back-pressure in an exhaust system does not refer to a build-up of pressure in the system that interferes with the outward flow of exhaust gases.{
+	=FALSE#Back pressure is a term used to describe the inherent resistance to flow within the system.
+	~TRUE#Back pressure is a term used to describe the inherent resistance to flow within the system.
+}
+
+
+//name:TQ0232
+::TQ0232::What pollutant substances do three-way converters deal with?{
+	=Hydrocarbons and carbon monoxide are converted to water and carbon dioxide. The oxides of nitrogen (nitric oxide and nitrogen dioxide) are converted into harmless nitrogen and oxygen molecules.#3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They convert the oxides of nitrogen back into nitrogen and oxygen.  
+	~Hydrocarbons and carbon monoxide are converted into water and carbon dioxide. #3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They convert the oxides of nitrogen back into nitrogen and oxygen.  
+	~Oxides of nitrogen, nitric oxide and nitrogen dioxide are converted into harmless nitrogen and oxygen molecules. #3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They convert the oxides of nitrogen back into nitrogen and oxygen.  
+}
+
+
+//name:TQ0233
+::TQ0233::Where is a catalytic converter normally placed in an exhaust system?{
+	=As near to the exhaust manifold as possible to ensure that it reaches its operating temperature as soon as possible in operation.#Catalytic reaction occurs when the internal materials are maintained at a high temperature.  These materials receive the best heat for reaction near the exhaust ports of the engine.
+	~As far from the exhaust manifold as possible to ensure that it reaches its operating temperature as soon as possible in operation. #Catalytic reaction occurs when the internal materials are maintained at a high temperature.  These materials receive the best heat for reaction near the exhaust ports of the engine.
+	~As far from the exhaust manifold as possible to ensure that it is not affected by the high temperatures in the exhaust system. #Catalytic reaction occurs when the internal materials are maintained at a high temperature.  These materials receive the best heat for reaction near the exhaust ports of the engine.
+}
+
+
+//name:TQ0234
+::TQ0234::Which of these fuels is unsuitable in vehicles using a catalytic converter?{
+	=Leaded gasoline. #Leaded fuel must not be used in an engine with a catalytic converter because lead will contaminate the catalyst and prevent it doing its job.  
+	~Liquid petroleum gas.#Leaded fuel must not be used in an engine with a catalytic converter because lead will contaminate the catalyst and prevent it doing its job.  
+	~Unleaded gasoline. #Leaded fuel must not be used in an engine with a catalytic converter because lead will contaminate the catalyst and prevent it doing its job.  
+	~Propane. #Leaded fuel must not be used in an engine with a catalytic converter because lead will contaminate the catalyst and prevent it doing its job.  
+}
+
+
+//name:TQ0235
+::TQ0235::A catalytic converter is used in an exhaust system to:{
+	=reduce harmful emissions.#A catalytic converter is used to convert unacceptable exhaust pollutants such as carbon monoxide, certain hydrocarbons and oxides of nitrogen into less dangerous substances. 3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They also convert the oxides of nitrogen back into nitrogen and oxygen.
+	~reduce sound levels not reduced by the muffler.#A catalytic converter is used to convert unacceptable exhaust pollutants such as carbon monoxide, certain hydrocarbons and oxides of nitrogen into less dangerous substances. 3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They also convert the oxides of nitrogen back into nitrogen and oxygen.
+	~reduce the exhaust gas temperature.#A catalytic converter is used to convert unacceptable exhaust pollutants such as carbon monoxide, certain hydrocarbons and oxides of nitrogen into less dangerous substances. 3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They also convert the oxides of nitrogen back into nitrogen and oxygen.
+	~give the exhaust a distinctive note.#A catalytic converter is used to convert unacceptable exhaust pollutants such as carbon monoxide, certain hydrocarbons and oxides of nitrogen into less dangerous substances. 3-way converters convert hydrocarbons and carbon monoxide to water and carbon dioxide. They also convert the oxides of nitrogen back into nitrogen and oxygen.
+}
+
+
+//name:TQ0236
+::TQ0236::The catalyst material in a catalytic converter is used to:{
+	=promote a chemical reaction to reduce toxic emissions.#The term catalyst means a substance that causes or accelerates a chemical reaction without itself being affected.  The purpose of the vehicle emission system is to convert harmful emissions into non harmful emissions.
+	~control the flow of gases through the converter.#The term catalyst means a substance that causes or accelerates a chemical reaction without itself being affected.  The purpose of the vehicle emission system is to convert harmful emissions into non harmful emissions.
+	~reduce exhaust temperatures.#The term catalyst means a substance that causes or accelerates a chemical reaction without itself being affected.  The purpose of the vehicle emission system is to convert harmful emissions into non harmful emissions.
+	~trap the harmful emissions.#The term catalyst means a substance that causes or accelerates a chemical reaction without itself being affected.  The purpose of the vehicle emission system is to convert harmful emissions into non harmful emissions.
+}
+
+
+//name:TQ0237
+::TQ0237::Why can't leaded fuel be used in vehicles with a catalytic converter?{
+	=The lead contaminates the catalyst in the converter.#Leaded fuel is harmful to catalyst in the converter.
+	~The lead particles are too big to pass through the passages in the core.#Leaded fuel is harmful to catalyst in the converter.
+	~The lead causes the catalytic reaction to speed up.#Leaded fuel is harmful to catalyst in the converter.
+	~Catalytic converters were only invented with the introduction of unleaded fuel.#Leaded fuel is harmful to catalyst in the converter.
+}
+
+
+//name:TQ0238
+::TQ0238::The exhaust manifold is designed to:{
+	=collect exhaust gases and direct them into the exhaust system.#To ensure the best performance from the burning fuels, the exhaust manifold routes the exhaust gases leaving the cylinder head to the exhaust system as quickly as possible thus ensuring the cylinders can be recharged with a full supply of air/fuel mixture. 
+	~collect exhaust gases and direct them into the cylinder.#To ensure the best performance from the burning fuels, the exhaust manifold routes the exhaust gases leaving the cylinder head to the exhaust system as quickly as possible thus ensuring the cylinders can be recharged with a full supply of air/fuel mixture. 
+	~cool the exhaust gases as quickly as possible.#To ensure the best performance from the burning fuels, the exhaust manifold routes the exhaust gases leaving the cylinder head to the exhaust system as quickly as possible thus ensuring the cylinders can be recharged with a full supply of air/fuel mixture. 
+	~reduce engine noise.#To ensure the best performance from the burning fuels, the exhaust manifold routes the exhaust gases leaving the cylinder head to the exhaust system as quickly as possible thus ensuring the cylinders can be recharged with a full supply of air/fuel mixture. 
+}
+
+
+//name:TQ0239
+::TQ0239::What is the purpose of the shield fitted to some exhaust manifolds?{
+	=To prevent heat radiation to nearby parts. #Some vehicles use heat shields to protect nearby components and the passenger compartment from the heat radiated from the exhaust components.  
+	~To reduce under hood temperatures. #Some vehicles use heat shields to protect nearby components and the passenger compartment from the heat radiated from the exhaust components.  
+	~To reduce noise transmission to the cabin. #Some vehicles use heat shields to protect nearby components and the passenger compartment from the heat radiated from the exhaust components.  
+	~To reduce exhaust manifold temperature. #Some vehicles use heat shields to protect nearby components and the passenger compartment from the heat radiated from the exhaust components.  
+}
+
+
+//name:TQ0240
+::TQ0240::Why does the exhaust system have flexible connections between the engine pipe and intermediate pipe?{
+	=To allow for engine movement, to reduce the transmission of noise and allow for thermal expansion. #Its main functions are to allow engine movement and reduce vibration without passing it along the exhaust - especially in front-wheel drive vehicles.  
+	~To allow for engine movement only. #Its main functions are to allow engine movement and reduce vibration without passing it along the exhaust - especially in front-wheel drive vehicles.  
+	~To reduce the transmission of noise only. #Its main functions are to allow engine movement and reduce vibration without passing it along the exhaust - especially in front-wheel drive vehicles.  
+	~To allow for thermal expansion only. #Its main functions are to allow engine movement and reduce vibration without passing it along the exhaust - especially in front-wheel drive vehicles.  
+}
+
+
+//name:TQ0241
+::TQ0241::The purpose of an intercooler is to cool:{
+	=air between the turbocharger and the intake manifold.#The intercooler increases the power of the engine by cooling the pressurized air coming out of the compressor before it goes into the intake manifold. 
+	~oil between the turbocharger and the sump. #The intercooler increases the power of the engine by cooling the pressurized air coming out of the compressor before it goes into the intake manifold. 
+	~exhaust gas before it enters the turbocharger.#The intercooler increases the power of the engine by cooling the pressurized air coming out of the compressor before it goes into the intake manifold. 
+	~coolant before it enters the water pump.#The intercooler increases the power of the engine by cooling the pressurized air coming out of the compressor before it goes into the intake manifold. 
+}
+
+
+//name:TQ0242
+::TQ0242::A resonator is fitted to an exhaust system to:{
+	=reduce sound levels not reduced by the muffler.#Some exhaust systems use a resonator as well as a muffler. It looks like a muffler but it usually has a straight-through design and it contains sound absorbing material. It's designed to remove types of sound that mufflers can't remove.  
+	~reduce harmful emissions.#Some exhaust systems use a resonator as well as a muffler. It looks like a muffler but it usually has a straight-through design and it contains sound absorbing material. It's designed to remove types of sound that mufflers can't remove.  
+	~reduce the exhaust gas temperature.#Some exhaust systems use a resonator as well as a muffler. It looks like a muffler but it usually has a straight-through design and it contains sound absorbing material. It's designed to remove types of sound that mufflers can't remove.  
+	~give the exhaust a distinctive note. #Some exhaust systems use a resonator as well as a muffler. It looks like a muffler but it usually has a straight-through design and it contains sound absorbing material. It's designed to remove types of sound that mufflers can't remove.  
+}
+
+
+//name:TQ0243
+::TQ0243::Exhaust mufflers are designed to cut out engine exhaust pulsating sound waves and to reduce engine noise. Some also contain special baffles and pipes to change the flow of the gases. Why is this?{
+	=Although the objective is to reduce noise, the use of too many noise reducing materials in the muffler can increase 'back pressure' in the system which will have a detrimental effect on the performance of the vehicle.#Some mufflers combine baffles and pipes to change the flow of gases without restricting them. Gases enter through the inlet and must reverse their direction of flow before they exit through the outlet. 
+	~Although the objective is to reduce noise, the use of too many noise reducing materials in the muffler can reduce 'line pressure' in the system which will have a detrimental effect on the performance of the vehicle.#Some mufflers combine baffles and pipes to change the flow of gases without restricting them. Gases enter through the inlet and must reverse their direction of flow before they exit through the outlet. 
+	~Although the objective is to reduce noise, the use of these baffles in the muffler can increase 'back pressure' in the system which has a positive effect on the performance of the vehicle.#Some mufflers combine baffles and pipes to change the flow of gases without restricting them. Gases enter through the inlet and must reverse their direction of flow before they exit through the outlet. 
+	~Because the use of these baffles in the muffler can reduce 'back pressure' in the system which has a negative effect on the performance of the vehicle.#Some mufflers combine baffles and pipes to change the flow of gases without restricting them. Gases enter through the inlet and must reverse their direction of flow before they exit through the outlet. 
+}
+
+
+//name:TQ0244
+::TQ0244::Mufflers and resonators in the engine exhaust system do not control sound frequency to reduce engine noise to an acceptable level.{
+	=FALSE#The science behind effective noise cancellation is based on the theory of chambers and baffles that are tuned to reduce the pressure waves inside the exhaust system.
+	~TRUE#The science behind effective noise cancellation is based on the theory of chambers and baffles that are tuned to reduce the pressure waves inside the exhaust system.
+}
+
+
+//name:TQ0245
+::TQ0245::An exhaust manifold is usually made from:{
+	=cast iron.#The exhaust manifold is bolted to the engine's cylinder head. It can be of a one-piece or two-piece construction. In performance type vehicles, the exhaust manifold is often replaced with extractors. A normal exhaust manifold is usually made from cast iron.
+	~aluminum.#The exhaust manifold is bolted to the engine's cylinder head. It can be of a one-piece or two-piece construction. In performance type vehicles, the exhaust manifold is often replaced with extractors. A normal exhaust manifold is usually made from cast iron.
+	~steel.#The exhaust manifold is bolted to the engine's cylinder head. It can be of a one-piece or two-piece construction. In performance type vehicles, the exhaust manifold is often replaced with extractors. A normal exhaust manifold is usually made from cast iron.
+	~titanium.#The exhaust manifold is bolted to the engine's cylinder head. It can be of a one-piece or two-piece construction. In performance type vehicles, the exhaust manifold is often replaced with extractors. A normal exhaust manifold is usually made from cast iron.
+}
+
+
+//name:TQ0246
+::TQ0246::The flexible mountings that hold the exhaust pipe to the vehicle are usually made from:{
+	=rubber.#Rubber mountings are popular because of rubber's natural dampening effect. They also allow for thermal expansion during use.
+	~cast iron.#Rubber mountings are popular because of rubber's natural dampening effect. They also allow for thermal expansion during use.
+	~nylon.#Rubber mountings are popular because of rubber's natural dampening effect. They also allow for thermal expansion during use.
+	~hardened plastic.#Rubber mountings are popular because of rubber's natural dampening effect. They also allow for thermal expansion during use.
+}
+
+
+//name:TQ0247
+::TQ0247::Extractors are sometimes known as:{
+	='headers'.#Extractors are sometimes known as 'headers'. They are used to assist in the fast extraction of exhaust gases in engines.
+	~'blockers'.#Extractors are sometimes known as 'headers'. They are used to assist in the fast extraction of exhaust gases in engines.
+	~'scavengers'.#Extractors are sometimes known as 'headers'. They are used to assist in the fast extraction of exhaust gases in engines.
+	~'pulsers'.#Extractors are sometimes known as 'headers'. They are used to assist in the fast extraction of exhaust gases in engines.
+}
+
+
+//name:TQ0248
+::TQ0248::Ceramic coatings are being used as a barrier between dissimilar metals to:{
+	=reduce friction.#Ceramic coatings are being used as a barrier between dissimilar metals to reduce friction, which in turn reduces wear in internal engine components. The most common applications for ceramic coatings are on the exhaust system, intake manifolds, and exhaust headers.
+	~reduce contamination.#Ceramic coatings are being used as a barrier between dissimilar metals to reduce friction, which in turn reduces wear in internal engine components. The most common applications for ceramic coatings are on the exhaust system, intake manifolds, and exhaust headers.
+	~increase friction.#Ceramic coatings are being used as a barrier between dissimilar metals to reduce friction, which in turn reduces wear in internal engine components. The most common applications for ceramic coatings are on the exhaust system, intake manifolds, and exhaust headers.
+	~increase exhaust output.#Ceramic coatings are being used as a barrier between dissimilar metals to reduce friction, which in turn reduces wear in internal engine components. The most common applications for ceramic coatings are on the exhaust system, intake manifolds, and exhaust headers.
+}
+
+
+//name:TQ0249
+::TQ0249::The systems in an electronic muffler known as anti-noise:{
+	=produce gas pressures of equal but opposite force in direction to the noise source.#Anti-noise pressures can be generated by various means including: baffles & chambers, variable flow exhaust and electronic mufflers.
+	~produce gas pressures of equal and complementary force in direction to the noise source.#Anti-noise pressures can be generated by various means including: baffles & chambers, variable flow exhaust and electronic mufflers.
+	~produce air pressures of equal but opposite force in direction to the noise source.#Anti-noise pressures can be generated by various means including: baffles & chambers, variable flow exhaust and electronic mufflers.
+	~produce air pressures of equal and complementary force in direction to the noise source.#Anti-noise pressures can be generated by various means including: baffles & chambers, variable flow exhaust and electronic mufflers.
+}
+
+
+//name:TQ0250
+::TQ0250::Thermal expansion is a one way process. Once a component expands, it will not contract.{
+	=FALSE#Thermal expansion refers to the way some materials expand when they're heated. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool.
+	~TRUE#Thermal expansion refers to the way some materials expand when they're heated. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool.
+}
+
+
+//name:TQ0251
+::TQ0251::In a supercharged system, there is a greater air mass flowrate, that is:{
+	=a higher density and speed of air flow.#Air pressure is increased by the compressor on the way in to the engine, more power is produced by combustion, and the exhaust gases exit much more rapidly, making the timings and exhaust sizing less important.
+	~a higher density of air flow.#Air pressure is increased by the compressor on the way in to the engine, more power is produced by combustion, and the exhaust gases exit much more rapidly, making the timings and exhaust sizing less important.
+	~a higher speed of air flow.#Air pressure is increased by the compressor on the way in to the engine, more power is produced by combustion, and the exhaust gases exit much more rapidly, making the timings and exhaust sizing less important.
+	~a higher temperature of air flow.#Air pressure is increased by the compressor on the way in to the engine, more power is produced by combustion, and the exhaust gases exit much more rapidly, making the timings and exhaust sizing less important.
+}
+
+
+//name:TQ0252
+::TQ0252::The range of human hearing is approximately:{
+	=20 cycles per second to 20,000 cycles per second.#Sound travels through the air by producing pressure waves - areas of high pressure and areas of low pressure. The rate at which these waves reach our ears is called frequency.
+	~200 cycles per second to 200,000 cycles per second.#Sound travels through the air by producing pressure waves - areas of high pressure and areas of low pressure. The rate at which these waves reach our ears is called frequency.
+	~20 cycles per second to 2,000 cycles per second.#Sound travels through the air by producing pressure waves - areas of high pressure and areas of low pressure. The rate at which these waves reach our ears is called frequency.
+	~2,000 cycles per second to 20,000 cycles per second.#Sound travels through the air by producing pressure waves - areas of high pressure and areas of low pressure. The rate at which these waves reach our ears is called frequency.
+}
+
+

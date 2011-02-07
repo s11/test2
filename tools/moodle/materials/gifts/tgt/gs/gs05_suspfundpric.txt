@@ -1,0 +1,69 @@
+//name:TQ0511
+::TQ0511::The purpose of the complete suspension system is to:{
+	=isolate the vehicle body from road shocks and vibration.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from vibrations.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from road shocks.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from the road.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+}
+
+
+//name:TQ0512
+::TQ0512::The sprung mass of a vehicle refers to the:{
+	=mass supported by the springs.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the suspension.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the wheel and brake assemblies.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the springs.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+}
+
+
+//name:TQ0513
+::TQ0513::One major objective in the design of the suspension system is to:{
+	=reduce the unsprung weight of the vehicle.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from vibrations.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from road shocks.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from the road.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+}
+
+
+//name:TQ0517
+::TQ0517::When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must:{
+	=be located longitudinally, and laterally, while still having the freedom to move vertically.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located longitudinally, and laterally, while still having the freedom to move horizontally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located , vertically and laterally, while still having the freedom to move longitudinally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located longitudinally, and vertically, while still having the freedom to move laterally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+}
+
+
+//name:TQ0544
+::TQ0544::A standard hydraulic shock absorber is designed to:{
+	=dampen spring oscillations.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~permit use of coil springs instead of leaf springs.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~improve rigidity of spring mountings.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~support part of vehicle mass.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+}
+
+
+//name:TQ0545
+::TQ0545::Shock absorbers convert the energy they absorb into:{
+	=heat.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~fluid pressure.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~driving force.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~oil in the reservoir.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+}
+
+
+//name:TQ0546
+::TQ0546::The most widely used hydraulic shock absorber is the:{
+	=direct-acting telescopic type.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+	~McPherson strut.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+	~strut type.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+}
+
+
+//name:TQ0567
+::TQ0567::Trailing arms, or control rods, are used to position the axle: {
+	=longitudinally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~diagonally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~vertically.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~horizontally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+}

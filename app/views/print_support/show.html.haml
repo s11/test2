@@ -1,0 +1,2 @@
+- cache([current_menu, current_menu_version, "ps"]) do
+  = File.read("#{RAILS_ROOT}/public/print_support/#{current_menu.id}/#{current_menu_version.version}.html")

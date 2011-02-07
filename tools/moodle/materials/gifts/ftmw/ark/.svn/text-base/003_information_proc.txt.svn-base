@@ -1,0 +1,189 @@
+// question: 22423  name: HAQ0433 
+::HAQ0433::[html]The VIN is usually located on the front left corner of the ................. and is also inscribed on the engine,  transmission, both front guards, bonnet, doors, both bumpers, both rear quarter panels and the boot lid or hatchback.{
+	=%100%windshield#
+}
+
+
+// question: 22424  name: HAQ0434 
+::HAQ0434::[html]Locate the make of the vehicle from the body ................., which is usually found on the front of the vehicle.{
+	=%100%nameplate#
+}
+
+
+// question: 22425  name: HAQ0435 
+::HAQ0435::[html]Find the manual page with the VIN decoding chart. As you locate the information, write it down for later use when locating ................. or parts.{
+	=%100%specifications#
+}
+
+
+// question: 22429  name: HAQ0436 
+::HAQ0436::[html]The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is .................{
+	=%100%repaired#
+}
+
+
+// question: 22430  name: HAQ0437 
+::HAQ0437::[html]Locate the scan tool access point and connect the scan tool using the appropriate ................. for the vehicle.{
+	=%100%connector#
+}
+
+
+// question: 22431  name: HAQ0438 
+::HAQ0438::[html]Any fault indicated by the diagnostic trouble codes will need to be corrected ................. you clear the codes.{
+	=%100%before#
+}
+
+
+// question: 22432  name: HAQ0439 
+::HAQ0439::[html]After the repair, run the scan tool diagnostic program and navigate through each system again to check the codes do not .................{
+	=%100%reactivate#
+}
+
+
+// question: 22433  name: HAQ0440 
+::HAQ0440::[html]Make sure you know the make, model and ................. of manufacture of the vehicle.{
+	=%100%year#
+}
+
+
+// question: 22434  name: HAQ0442 
+::HAQ0442::[html]The specifications has a guide to the ................. wrench settings.{
+	=%100%torque#
+}
+
+
+// question: 22435  name: HAQ0443 
+::HAQ0443::[html]The information found in shop manuals provides a ................. procedure, identifies special tools and  specifications relevant to the task.{
+	=%100%systematic#
+}
+
+
+// question: 22436  name: HAQ0444 
+::HAQ0444::[html]Make sure you know the ................., model and year of manufacture of the vehicle.{
+	=%100%make#
+}
+
+
+// question: 22437  name: HAQ0445 
+::HAQ0445::[html]Shop manuals are developed by ................. to provide the service technician with correct information on performing all service and repair tasks on the vehicles they produce.{
+	=%100%manufacturers#
+}
+
+
+// question: 22438  name: HAQ0446 
+::HAQ0446::[html]The information contained in an owner's manual provides the owner with information on: Fuel, lubricant and ................. capacities.{
+	=%100%coolant#
+}
+
+
+// question: 22439  name: HAQ0447 
+::HAQ0447::[html]The layout and amount of detail in an owner's manual will ................. according to the manufacturer and age of the vehicle.{
+	=%100%vary#
+}
+
+
+// question: 22440  name: HAQ0448 
+::HAQ0448::[html]Make sure you know the make, ................. and year of manufacture of the vehicle, and the type and size of the engine.{
+	=%100%model#
+}
+
+
+// question: 22441  name: HAQ0449 
+::HAQ0449::[html]Find the owner's Manual - this is usually kept in the ................. compartment.{
+	=%100%glove#
+}
+
+
+// question: 22442  name: HAQ0450 
+::HAQ0450::[html]Another way of using a more recent Owner's Manual is to refer to the ................. at the back of the book.{
+	=%100%index#
+}
+
+
+// question: 22443  name: HAQ0451 
+::HAQ0451::[html]The labor guide measures time as an average between the time taken by a ................. and the time taken by an experienced technician who has performed the task many times.{
+	=%100%novice#
+}
+
+
+// question: 22444  name: HAQ0452 
+::HAQ0452::[html]A workshop can determine a fair ................. for any given service task by using a labor guide.{
+	=%100%charge#
+}
+
+
+// question: 22445  name: HAQ0453 
+::HAQ0453::[html]Using the labour guide section for the particular vehicle's Disc Brakes, find the subsection on replacing or renewing the front disc brake pads. This tells you the length of time for the operation on one wheel, so you must ................. it for servicing the brakes on both front wheels.{
+	=%100%double#
+}
+
+
+// question: 22446  name: HAQ0454 
+::HAQ0454::[html]Some parts houses supply their own computer to look up parts and print an ................. at their desk.{
+	=%100%invoice#
+}
+
+
+// question: 22447  name: HAQ0455 
+::HAQ0455::[html]In the PC world, starting-up is often known as ................. the computer, which means, "Turn the computer on and log in, if you are required to".{
+	=%100%booting#
+}
+
+
+// question: 22448  name: HAQ0456 
+::HAQ0456::[html]Once you have accessed the required parts data,  the brake pads for example can now be ................. through the shop's parts supplier using the part number found.{
+	=%100%ordered#
+}
+
+
+// question: 22449  name: HAQ0457 
+::HAQ0457::[html]It is good practice to ................. out the parts order form and attach it to the repair order for the vehicle's service records.{
+	=%100%print#
+}
+
+
+// question: 22450  name: HAQ0458 
+::HAQ0458::[html]Not all service departments have or use a computerized system. If your service department does not have a computer, you'll have to use ................. reference materials.{
+	=%100%printed#
+}
+
+
+// question: 22451  name: HAQ0459 
+::HAQ0459::[html]Most vehicle manufacturers have a ................. or technical web page.{
+	=%100%service#
+}
+
+
+// question: 22452  name: HAQ0460 
+::HAQ0460::[html]The booting step will depend on the type of PC you are using and whether it is "stand alone", on a local network, or needs to be connected to the ................. to operate the software.{
+	=%100%internet#
+}
+
+
+// question: 22453  name: HAQ0461 
+::HAQ0461::[html]To enable the computer to search for the correct data, you may have to input vehicle information such as the ................. Number or at least the make model and year of manufacture.{
+	=%100%vin#
+	=%100%VIN#
+	=%100%V.I.N.#
+}
+
+
+// question: 22426  name: HAQ3458 
+::HAQ3458::[html]The first number or letter in a VIN tells you where the vehicle was .................{
+	=%100%manufactured#
+}
+
+
+// question: 22427  name: HAQ3459 
+::HAQ3459::[html]The fourth and fifth digits of a VIN will give you the model, or series, of the vehicle. You'll need a decoding ................. for the details.{
+	=%100%chart#
+}
+
+
+// question: 22428  name: HAQ3460 
+::HAQ3460::[html]The final six numbers in a VIN make up the ................. number of the vehicle as it comes off the assembly line plus one hundred thousand (100000).{
+	=%100%sequential#
+}
+
+
+

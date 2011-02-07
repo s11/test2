@@ -1,0 +1,34 @@
+//name:TQ0426
+::TQ0426::Blow-by gases in the crankcase are removed by the:{
+	=PCV system.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+	~EGR system.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+	~catalytic converter.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+	~evaporation control system.#Crankcase pressure and emission control are regulated by the action of the PCV valve.  Excess crankcase vapors are redirected back to the intake system for reburn within the engine.
+}
+
+
+//name:TQ0427
+::TQ0427::The direction of vapor flow through a PCV valve is:{
+	=internal from the engine crankcase back into the engine via the inlet manifold.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+	~from the inlet manifold back into the top cover of the engine.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+	~from the back of the carburetor to the air cleaner.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+	~from the top cover of the engine back into the exhaust manifold.#Since the PCV system is designed to remove high emission blow-by gasses from the engine crankcase and reburn these harmful vapors in the combustion chamber, the direction is always from engine crankcase to intake manifold.
+}
+
+
+//name:TQ0432
+::TQ0432::When a fuel tank is completely filled fuel expansion is allowed for by:{
+	=an expansion space above the maximum fuel level.#The expansion space above the fuel tank allows for fuel expansion.
+	~vent lines to the atmosphere.#The expansion space above the fuel tank allows for fuel expansion.
+	~a fuel dump valve.#The expansion space above the fuel tank allows for fuel expansion.
+	~an overflow pipe fitted to the filler spout.#The expansion space above the fuel tank allows for fuel expansion.
+}
+
+
+//name:TQ0433
+::TQ0433::The 3 way catalytic converter is so called due to:{
+	=its ability to reduce the 3 common harmful emissions from the petrol engine.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+	~the fact that it is constructed from 3 components.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+	~the fact that it is seperated into 3 parts within the exhaust pipe.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+	~its ability to make the vehicle 3 times more efficient.#Modern petrol engine catalytic converters reduce carbon monoxide (CO), hydrocarbons (HC) and oxides of nitrogen (NOX).
+}

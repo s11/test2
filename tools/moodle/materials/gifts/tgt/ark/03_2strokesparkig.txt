@@ -1,0 +1,54 @@
+//name:TQ1417
+::TQ1417::Which events occur above the piston in a spark ignition two-stroke engine?{
+	=Compression of the air-fuel mixture into the combustion chamber, combustion for the power stroke, and scavenging of the exhaust gases.#The piston moves up the cylinder from its lowest point, bottom dead centre, compressing air-fuel mixture already in the combustion chamber. As it rises, the top of the piston covers the exhaust port and the transfer port. This is a third port or passage between crankcase and cylinder. The bottom of the piston uncovers the inlet port. At the same time, the rising piston is increasing the volume of the crankcase below the piston.
+	~Intake, pre-compression of the air-fuel mixture in the crankcase, and the transfer of mixture from the crankcase through the transfer port and into the combustion chamber.#The piston moves up the cylinder from its lowest point, bottom dead centre, compressing air-fuel mixture already in the combustion chamber. As it rises, the top of the piston covers the exhaust port and the transfer port. This is a third port or passage between crankcase and cylinder. The bottom of the piston uncovers the inlet port. At the same time, the rising piston is increasing the volume of the crankcase below the piston.
+	~Combustion for the power stroke, scavenging of the exhaust gases, and the transfer of mixture from the crankcase through the transfer port and into the combustion chamber.#The piston moves up the cylinder from its lowest point, bottom dead centre, compressing air-fuel mixture already in the combustion chamber. As it rises, the top of the piston covers the exhaust port and the transfer port. This is a third port or passage between crankcase and cylinder. The bottom of the piston uncovers the inlet port. At the same time, the rising piston is increasing the volume of the crankcase below the piston.
+	~Intake, pre-compression of the air-fuel mixture in the crankcase, and compression of the air-fuel mixture into the combustion chamber.#The piston moves up the cylinder from its lowest point, bottom dead centre, compressing air-fuel mixture already in the combustion chamber. As it rises, the top of the piston covers the exhaust port and the transfer port. This is a third port or passage between crankcase and cylinder. The bottom of the piston uncovers the inlet port. At the same time, the rising piston is increasing the volume of the crankcase below the piston.
+}
+
+
+//name:TQ1418
+::TQ1418::In one revolution of the crankshaft how many power strokes does the two-stroke engine produce?{
+	=One.#In a 2-stroke cycle, only 1 stroke delivers energy to the crankshaft.
+	~Two.#In a 2-stroke cycle, only 1 stroke delivers energy to the crankshaft.
+	~Three.#In a 2-stroke cycle, only 1 stroke delivers energy to the crankshaft.
+	~Four.#In a 2-stroke cycle, only 1 stroke delivers energy to the crankshaft.
+}
+
+
+//name:TQ1419
+::TQ1419::Some types of 2-stroke engines use reed valves in their intake systems. Where is the reed valve fitted?{
+	=In the crankcase housing, or the inlet port.#Some 2-stroke engines such as outboard motors use an intake system with a reed valve. It is a small flexible metal plate that covers the inlet port, and it can be attached to the crankcase, or to the inlet port. It opens and closes automatically, according to changes in pressure in the crankcase.
+	~In both the crankcase housing and the transfer port.#Some 2-stroke engines such as outboard motors use an intake system with a reed valve. It is a small flexible metal plate that covers the inlet port, and it can be attached to the crankcase, or to the inlet port. It opens and closes automatically, according to changes in pressure in the crankcase.
+	~In the transfer port.#Some 2-stroke engines such as outboard motors use an intake system with a reed valve. It is a small flexible metal plate that covers the inlet port, and it can be attached to the crankcase, or to the inlet port. It opens and closes automatically, according to changes in pressure in the crankcase.
+	~In the carburetor.#Some 2-stroke engines such as outboard motors use an intake system with a reed valve. It is a small flexible metal plate that covers the inlet port, and it can be attached to the crankcase, or to the inlet port. It opens and closes automatically, according to changes in pressure in the crankcase.
+}
+
+
+//name:TQ1420
+::TQ1420::Select the correct sequence for the five events from the following:{
+	=Intake, Compression, Ignition, Power, Exhaust.#All internal combustion engines - 2-stroke or 4-stroke, gasoline/petrol or diesel - follow the same five events cycle.
+	~Intake, Ignition, Compression, Power, Exhaust.#All internal combustion engines - 2-stroke or 4-stroke, gasoline/petrol or diesel - follow the same five events cycle.
+	~Intake, Compression, Power, Ignition, Exhaust.#All internal combustion engines - 2-stroke or 4-stroke, gasoline/petrol or diesel - follow the same five events cycle.
+	~Intake, Compression, Ignition, Exhaust, Power. #All internal combustion engines - 2-stroke or 4-stroke, gasoline/petrol or diesel - follow the same five events cycle.
+}
+
+
+//name:TQ1421
+::TQ1421::What opens and closes the inlet and exhaust ports in a 2-stroke gasoline engine?{
+	=The piston. #In a 2-stroke gasoline/petrol engine the inlet and exhaust ports are opened and closed by the movement of the piston.
+	~Inlet and exhaust valves.#In a 2-stroke gasoline/petrol engine the inlet and exhaust ports are opened and closed by the movement of the piston.
+	~Reed valves. #In a 2-stroke gasoline/petrol engine the inlet and exhaust ports are opened and closed by the movement of the piston.
+	~Rotary valves. #In a 2-stroke gasoline/petrol engine the inlet and exhaust ports are opened and closed by the movement of the piston.
+}
+
+
+//name:TQ1422
+::TQ1422::In a 2-stroke gasoline engine, the transfer port connects:{
+	=the crankcase with the cylinder.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+	~the inlet manifold with the crankcase.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+	~the crankcase with the exhaust manifold.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+	~the pressure relief valve with the crankcase.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+}
+
+

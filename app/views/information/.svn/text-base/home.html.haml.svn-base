@@ -1,0 +1,30 @@
+- unless Rails.env.development?
+  - cache([current_menu_version, :frontpage]) do
+    #asemenu.imageflow
+      %p Use your mouse or keyboard arrow keys to select content areas and click to enter.
+
+      - current_menu_version.categories.roots.each do |category|
+        - if category.name.eql?('Print Support')
+          - category_item = CategoryItem.first(:conditions => { :category_id => category.self_and_descendants })
+          = image_tag("/images/frontpage/printsupport.jpg", :longdesc => url_for([category_item.category, category_item.item]), :alt => category.name)
+        - else
+          = image_tag("/images/frontpage/#{current_menu.id}/#{current_menu_version.version}/#{category.image_filename}", :longdesc => category_path(category), :alt => category.name)
+
+      - if current_menu_version.has_diagnostics? && current_client.prefers_diagnostics?
+        = image_tag("/images/frontpage/diagnostics.jpg", :longdesc => "#", :alt => "Diagnostics")
+
+    #disclaimer
+      Before carrying out any of the practical procedures demonstrated in these learning materials, check the service information for the specific vehicle or system that you are working on. The correct method may be different to any generic example shown.
+
+
+  - content_for(:head) do
+    = javascript_include_tag "non_jquery/imageflow.js"
+    = stylesheet_link_tag "imageflow"
+
+  - content_for(:onload) do
+    :plain
+      var instanceOne = new ImageFlow();
+      instanceOne.init({ ImageFlowID:'asemenu', reflections: false, reflectionP: 0.0, slider: false, captions: true, startAnimation: true});
+
+- else
+  Not showing slow homepage in development mode.

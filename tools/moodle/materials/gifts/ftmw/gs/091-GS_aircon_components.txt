@@ -1,0 +1,54 @@
+// question: 31352  name: HAQ3020 
+::HAQ3020::[html]Hoses and pipes must be capable of withstanding the high pressures and .............................. that are found inside the air-conditioning system, as well as being able to flex and withstand the vibrations and movement of the engine.{
+	=%100%temperatures#
+}
+
+
+// question: 31353  name: HAQ3021 
+::HAQ3021::[html]Hoses are used to connect the inlet and outlet ports of the .............................. to the air-conditioning system.{
+	=%100%compressor#
+}
+
+
+// question: 31354  name: HAQ3022 
+::HAQ3022::[html]Pipes are rigid tubes of .............................. often found connecting components that are fixed to the body of the vehicle.{
+	=%100%metal#
+}
+
+
+// question: 31355  name: HAQ3030 
+::HAQ3030::[html]R-134-A is a refrigerant suitable for use in automotive air-conditioning systems. It is an HFC or ..............................{
+	=%100%Hydrofluorocarbon#
+	=%100%Hydro-fluorocarbon#
+	=%100%Hydro fluorocarbon#
+}
+
+
+// question: 31356  name: HAQ3031 
+::HAQ3031::[html]R-134-A has a boiling point of minus 26.2 C. All its other refrigerant characteristics are similar to R-12. The only difference being that its operating pressures and temperatures in the evaporator and condenser are slightly .............................. than for R-12.{
+	=%100%higher#
+}
+
+
+// question: 31357  name: HAQ3836 
+::HAQ3836::[html]Most vehicles contain a heated .............................. window.{
+	=%100%rear#
+}
+
+
+// question: 31358  name: HAQ3837 
+::HAQ3837::[html]Close inspection reveals that there are many small .............................. wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.{
+	=%100%resistance#
+}
+
+
+// question: 31359  name: HAQ3838 
+::HAQ3838::[html]Heating elements can also be fitted to .............................. mirrors to keep them free of frosting and fogging.{
+	=%100%exterior#
+}
+
+
+// question: 31360  name: HAQ3839 
+::HAQ3839::[html]More recent vehicle designs use a similar wire embedded within fixed glass as a .............................. antenna.{
+	=%100%radio#
+}

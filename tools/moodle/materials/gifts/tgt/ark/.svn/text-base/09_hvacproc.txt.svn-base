@@ -1,0 +1,45 @@
+//name:TQ1255
+::TQ1255::When checking the vehicle's air-conditioning temperature the recording is normally taken:{
+	=in the ducting system louvered vents.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+	~at the driver's seat.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+	~at the passenger's seat.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+	~in the external air intake ports.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+}
+
+
+//name:TQ1256
+::TQ1256::After the engine has been running at around 1500 rpm with the air-conditioner on for 5-10 minutes, how will the hoses on each side of the compressor feel?{
+	=The outlet hose will feel significantly hotter than the inlet hose.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+	~The inlet hose will feel significantly hotter than the outlet hose.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+	~Both hoses will feel warmer than the ambient temperature.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+	~Both hoses will feel cooler than the ambient temperature.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+}
+
+
+//name:TQ1257
+::TQ1257::When the engine has been running for a few minutes, how should the hoses on each side of the heater core feel?{
+	=Both should feel similarly warm.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+	~The inlet hose shoud feel significantly hotter than the outlet hose.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+	~The outlet hose should feel significantly hotter than the inlet hose.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+	~Bot hoses should feel cooler than the ambient temperature.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+}
+
+
+//name:TQ1258
+::TQ1258::What happens when a v-belt 'bottoms out'?{
+	=The belt can no longer make good contact with the sides of the pulley.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+	~The bottom of the belt starts to wear faster than the sides.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+	~It is properly seated and making maximum contact on all surfaces.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+	~It is too tight and should be loosened.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+}
+
+
+//name:TQ1259
+::TQ1259::If you have no tension guage, how much should you be able to deflect a drive belt by hand, if it is correctly tensioned?{
+	=1.25 centimeters for each 30cm of belt (half an inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+	~0.5 centimeter for each 30cm of belt (one quarter of an inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+	~1 centimeter for each 30cm of belt (three quarters of an inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+	~0.75 centimeter for each 30cm of belt (one inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+}
+
+

@@ -1,0 +1,99 @@
+//name:TQ0734
+::TQ0734::Technician A says that checking the fluid level in an ABS system is the same as checking the fluid in a regular brake system. Technician B says that some ABS systems cannot use silicone brake fluid. Who is correct?{
+	~Technician A.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+	~Technician B.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+	=Both Technician A and Technician B.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+	~Neither Technician A nor Technician B.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+}
+
+
+//name:TQ0735
+::TQ0735::In some vehicle applications another name for an emergency brake is the:{
+	=park brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+	~holding brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+	~rear circuit brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+	~stationary holding brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+}
+
+
+//name:TQ0736
+::TQ0736::The hand brake should be adjusted:{
+	=after adjusting the service brakes.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+	~when it won't hold the car.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+	~before adjusting the service brakes.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+	~with a special tool.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+}
+
+
+//name:TQ0737
+::TQ0737::When filling the master cylinder with brake fluid you must:{
+	=make sure that the correct grade or D.O.T. type of fresh fluid is used.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+	~make sure you wipe off any brake fluid that you may have spilled on the paintwork.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+	~only use the brand recommended by the vehicle manufacturer.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+	~make sure only clean brake fluid is used.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+}
+
+
+//name:TQ0738
+::TQ0738::After bleeding a brake system Technician A says that fluid can be reused if it is clean.  Technician B says brake fluid is hygroscopic. Who is right?{
+	~Technician A.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+	=Technician B.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+	~Both Technician A and Technician B.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+	~Neither Technician A nor Technician B.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+}
+
+
+//name:TQ0739
+::TQ0739::Brake shoes should be replaced when the linings are:{
+	=all of these.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+	~contaminated with oil or grease.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+	~worn to within 1/32" or 1mm of the rivets.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+	~contaminated with brake fluid.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+}
+
+
+//name:TQ0741
+::TQ0741::On some master cylinder reservoirs there are two fluid level marks. These indicate:{
+	=the minimum and maximum brake fluid levels.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+	~the lower mark indicates the minimum fluid level for the brake fluid.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+	~the lower mark indicates the maximum fluid level for hot brake fluid.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+	~the lower mark indicates the minimum fluid level for cold brake fluid.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+}
+
+
+//name:TQ0742
+::TQ0742::Unless otherwise recommended by the manufacturer, brake pads need to be replaced when:{
+	=the pad is worn down to the same thickness as the backing plate.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+	~the pad is worn down to the level of the backing plate.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+	~the pad is worn down to the marker groove indicating minimum level.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+	~the pad is worn down to approximately 1mm from the backing plate.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+}
+
+
+//name:TQ0743
+::TQ0743::Unless otherwise specified by the manufacturer, when should drum brake linings be checked?{
+	=Approximately every 15,000 kilometers or 10,000 miles.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+	~Whenever the vehicle has a major service.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+	~Approximately every 25,000 kilometers or 15,000 miles.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+	~Approximately every 40,000 kilometers or 25,000 miles.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+}
+
+
+//name:TQ0744
+::TQ0744::If you are installing a new rotor:{
+	=clean it thoroughly in a component washer.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+	~make sure it has an even coating of light machine oil.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+	~buff the surface with some rubbing down compound.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+	~lightly machine the surface to ensure correct runout.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+}
+
+
+//name:TQ0745
+::TQ0745::What must you do before you retract the caliper piston back into its housing?{
+	=Check to see if there is sufficient fluid space in the master cylinder reservoir. If not, remove some brake fluid from the reservoir .#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+	~Make sure that the handbrake is on.#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+	~Perform a runout test on the disc rotors.#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+	~Make sure the new pads are exactly the same as the ones being replaced.#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+}
+
+

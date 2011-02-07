@@ -1,0 +1,79 @@
+// question: 24651  name: HAQ1114 
+::HAQ1114::[html]Petroleum or .............................. oil is taken out of the ground as a mix of impurities and highly flammable compounds of hydrogen and carbon, called hydrocarbons.{
+	=%100%crude#
+}
+
+
+// question: 24652  name: HAQ1115 
+::HAQ1115::[html]If liquid gasoline vaporises in the fuel line, bubbles of vapor can block the flow of fuel and stop the engine. This is called vapor ..............................{
+	=%100%lock#
+}
+
+
+// question: 24653  name: HAQ1116 
+::HAQ1116::[html]This is increasing the demand for high .............................. pure paraffin (alkane) components, such as Alkylate, and is forcing refineries to add processing units to reduce the benzene content.{
+	=%100%octane#
+}
+
+
+// question: 24654  name: HAQ1117 
+::HAQ1117::[html]Some contaminants, in particular mercaptans and hydrogen sulfide must be removed from gasoline because they cause .............................. in engines.{
+	=%100%corrosion#
+}
+
+
+// question: 24655  name: HAQ1141 
+::HAQ1141::[html]The carburetor works on .............................. principle: the fact that moving air has lower pressure than still air, and that the faster the movement of the air, the lower the pressure.{
+	=%100%Bernoulli's#
+	=%100%Bernoullis#
+}
+
+
+// question: 24656  name: HAQ1142 
+::HAQ1142::[html]In addition, the sudden drop in pressure from the fuel line to the carburetor partially .............................. the fuel and mixes it with the air.{
+	=%100%vaporises#
+	=%100%vaporizes#
+}
+
+
+// question: 24657  name: HAQ1143 
+::HAQ1143::[html]A carburetor mixes the air and fuel and controls how much mixture enters the engine. An intake .............................. carries the mixture to the engine.{
+	=%100%manifold#
+}
+
+
+// question: 24658  name: HAQ1144 
+::HAQ1144::[html]The carburetor controls the flow of air-fuel mixture with the throttle valve near the bottom of the carburetor, which is connected to the .............................. pedal.{
+	=%100%accelerator#
+}
+
+
+// question: 24659  name: HAQ1145 
+::HAQ1145::[html]The reason for having primary and secondary barrels is that a big carburetor, optimised for high flow rates, is .............................. at lower rates; such a primary/secondary  arrangement attempts to be the best of both worlds.{
+	=%100%inefficient#
+}
+
+
+// question: 24660  name: HAQ1310 
+::HAQ1310::[html]What is commonly sold in a service station is highly .............................., and is suitable for use in high-speed diesel engines, including those in light automotive use.{
+	=%100%refined#
+}
+
+
+// question: 24661  name: HAQ1311 
+::HAQ1311::[html]Diesel knock can also be caused by poor .............................. of the fuel, which can take too long to reach combustion temperature.{
+	=%100%atomisation#
+	=%100%atomization#
+}
+
+
+// question: 24662  name: HAQ1312 
+::HAQ1312::[html]Diesel engines are also required to operate in low temperatures. During low temperatures, the fuel becomes thicker. If the temperature is too low, .............................. in the fuel begin to solidify, and form waxes.{
+	=%100%paraffins#
+}
+
+
+// question: 24663  name: HAQ1313 
+::HAQ1313::[html]Diesel fuel also acts as a .............................. for the fuel system components - provided it is free of water, and abrasive particles.{
+	=%100%lubricant#
+}

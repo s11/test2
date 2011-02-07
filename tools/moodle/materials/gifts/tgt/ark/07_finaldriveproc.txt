@@ -1,0 +1,54 @@
+//name:TQ0938
+::TQ0938::A worn constant velocity joint is evident by a clicking noise when the vehicle is driven:{
+	=with the wheels at full lock and the vehicle moving.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+	~with the wheels in the straight ahead position only.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+	~in reverse.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+	~slowly.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+}
+
+
+//name:TQ0939
+::TQ0939::A small amount of wear in a drive shaft joint:{
+	=will cause imbalance and possibly vibration.#A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+	~is allowable.#A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+	~should be noted and rechecked in 6 months time.#A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+	~is an indication of a faulty transmission. #A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+}
+
+
+//name:TQ0940
+::TQ0940::When taking free-play measurements:{
+	=make sure the dial indicator is firmly attached to a solid component.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+	~estimate the amount of wear visually.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+	~measure the amount of wear with a vernier calliper.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+	~measure the amount of wear with a micrometer.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+}
+
+
+//name:TQ0941
+::TQ0941::To measure free-play, hold the road wheel by putting one hand on it, and then:{
+	=put your other hand around the drive shaft, so you can twist it back and forth.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+	~turn it backward and forward.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+	~put your other hand on the other wheel, so you can turn it back and forth.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+	~put your other hand around the drive shaft, and pull it in and out of the final drive housing.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+}
+
+
+//name:TQ0942
+::TQ0942::The manual transaxle fluid level is correct when the fluid:{
+	=is at the same level as the bottom of the filler plug.#The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~flows freely when the filler plug is removed.#The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~does not flow from the opening when the filler plug is removed. #The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~level is 1 inch/ 25 mm below the filler opening.#The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+}
+
+
+//name:TQ0943
+::TQ0943::The final drive fluid level is correct when the fluid:{
+	=is at the same level as the bottom of the filler plug.#The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~flows freely when the filler plug is removed.#The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~does not flow from the opening when the filler plug is removed. #The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~level is 1 inch/ 25 mm below the filler opening.#The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+}
+
+

@@ -1,0 +1,90 @@
+//name:TQ0411
+::TQ0411::Which of the following emissions is a deadly, odorless, and tasteless gas?{
+	=CO#Carbon Monoxide (CO) is a colorless, odorless, poisonous gas and is produced when carbon burns with insufficient air as a result of incomplete combustion.  This is very deadly since people exposed to it do not sense its presence.
+	~NOx#Carbon Monoxide (CO) is a colorless, odorless, poisonous gas and is produced when carbon burns with insufficient air as a result of incomplete combustion.  This is very deadly since people exposed to it do not sense its presence.
+	~SOx#Carbon Monoxide (CO) is a colorless, odorless, poisonous gas and is produced when carbon burns with insufficient air as a result of incomplete combustion.  This is very deadly since people exposed to it do not sense its presence.
+	~HC#Carbon Monoxide (CO) is a colorless, odorless, poisonous gas and is produced when carbon burns with insufficient air as a result of incomplete combustion.  This is very deadly since people exposed to it do not sense its presence.
+}
+
+
+//name:TQ0412
+::TQ0412::During combustion, what causes carbon monoxide?{
+	=Incomplete combustion of fuel.#Incomplete combustion will result in the creation of CO emission.
+	~Untreated exhaust gases.#Incomplete combustion will result in the creation of CO emission.
+	~Overheated fuel.#Incomplete combustion will result in the creation of CO emission.
+	~A highly combustible air-fuel mixture.#Incomplete combustion will result in the creation of CO emission.
+}
+
+
+//name:TQ0413
+::TQ0413::Hydrocarbons are a major atmospheric pollutant. Under what conditions could hydrocarbons escape into the atmosphere when a vehicle is being refueled?{
+	=In hot weather the fuel can evaporate out of the tank filler point during fuel transfer.#Any time the fuel system is open (especially during refueling operations) fuel vapors may enter the atmosphere.
+	~In cold weather the fuel can evaporate out of the tank filler point during fuel transfer.#Any time the fuel system is open (especially during refueling operations) fuel vapors may enter the atmosphere.
+	~In hot weather the fuel can evaporate out of the tank outlet feed pipe during fuel transfer.#Any time the fuel system is open (especially during refueling operations) fuel vapors may enter the atmosphere.
+	~In cold weather the fuel can evaporate out of the tank outlet feed pipe during fuel transfer.#Any time the fuel system is open (especially during refueling operations) fuel vapors may enter the atmosphere.
+}
+
+
+//name:TQ0414
+::TQ0414::Technician A says photochemical smog is fog mixed with smoke and acids. Technician B says photochemical smog is fog mixed with chemicals used for processing photos. Who is correct?{
+	~Technician A.#Neither technician is correct as photochemical smog is a mixture of pollutants which includes particulates, nitrogen oxides, ozone, aldehydes, peroxyethanoyl nitrate and un-reacted hydrocarbons. The smog often resembles a brown haze which is due to the presence of nitrogen dioxide.
+	~Technician B.#Neither technician is correct as photochemical smog is a mixture of pollutants which includes particulates, nitrogen oxides, ozone, aldehydes, peroxyethanoyl nitrate and un-reacted hydrocarbons. The smog often resembles a brown haze which is due to the presence of nitrogen dioxide.
+	~Both Technician A & Technician B.#Neither technician is correct as photochemical smog is a mixture of pollutants which includes particulates, nitrogen oxides, ozone, aldehydes, peroxyethanoyl nitrate and un-reacted hydrocarbons. The smog often resembles a brown haze which is due to the presence of nitrogen dioxide.
+	=Neither Technician A or Technician B.#Neither technician is correct as photochemical smog is a mixture of pollutants which includes particulates, nitrogen oxides, ozone, aldehydes, peroxyethanoyl nitrate and un-reacted hydrocarbons. The smog often resembles a brown haze which is due to the presence of nitrogen dioxide.
+}
+
+
+//name:TQ0415
+::TQ0415::Technician A says very lean air/fuel ratios reduce hydrocarbons but increase NOx. Technician B says that additional pollution controls are used to reduce NOx. Who is correct?{
+	~Technician A.#Both technicians are correct as vehicle emissions standards are improving all the time. Manufacturers are building vehicles to meet the standards in different ways such as leaner air/fuel ratios, catalytic converters and vehicles that operate on modified or alternate fuels.
+	~Technician B.#Both technicians are correct as vehicle emissions standards are improving all the time. Manufacturers are building vehicles to meet the standards in different ways such as leaner air/fuel ratios, catalytic converters and vehicles that operate on modified or alternate fuels.
+	=Both Technician A & Technician B.#Both technicians are correct as vehicle emissions standards are improving all the time. Manufacturers are building vehicles to meet the standards in different ways such as leaner air/fuel ratios, catalytic converters and vehicles that operate on modified or alternate fuels.
+	~Neither Technician A or Technician B.#Both technicians are correct as vehicle emissions standards are improving all the time. Manufacturers are building vehicles to meet the standards in different ways such as leaner air/fuel ratios, catalytic converters and vehicles that operate on modified or alternate fuels.
+}
+
+
+//name:TQ0416
+::TQ0416::What is the name given to the common pollutant that emission control systems in diesel engine vehicles seek to control?{
+	=Particulates.#Diesel engines emit a visible 'smoke', especially during full load conditions.  This smoke contains carbon particles formed by incomplete combustion.
+	~Carbon monoxide.#Diesel engines emit a visible 'smoke', especially during full load conditions.  This smoke contains carbon particles formed by incomplete combustion.
+	~Carbon dioxide.#Diesel engines emit a visible 'smoke', especially during full load conditions.  This smoke contains carbon particles formed by incomplete combustion.
+	~Nitrogen oxides.#Diesel engines emit a visible 'smoke', especially during full load conditions.  This smoke contains carbon particles formed by incomplete combustion.
+}
+
+
+//name:TQ0417
+::TQ0417::Which engine type produces particulates as a result of incomplete combustion?{
+	=Compression-ignition engines.#Diesel engines use compression ignition. These systems generate particulate emissions with incomplete combustion.
+	~Spark-ignition engines.#Diesel engines use compression ignition. These systems generate particulate emissions with incomplete combustion.
+	~Rotary-ignition engines.#Diesel engines use compression ignition. These systems generate particulate emissions with incomplete combustion.
+	~Spark-compression engines.#Diesel engines use compression ignition. These systems generate particulate emissions with incomplete combustion.
+}
+
+
+//name:TQ0418
+::TQ0418::Gasoline and diesel fuels contain sulfur as part of their chemical makeup. When combined with water vapor, formed during the combustion process, sulfuric acid is produced. The environmental hazard that is a consequence of this process is commonly referred to as:{
+	=acid rain.#Acid rain is an environmental hazard that affects everyone.  It's in everyone's interest to reduce the effects that internal combustion engines may have on our environment.
+	~sulfur rain.#Acid rain is an environmental hazard that affects everyone.  It's in everyone's interest to reduce the effects that internal combustion engines may have on our environment.
+	~sulfuric rain.#Acid rain is an environmental hazard that affects everyone.  It's in everyone's interest to reduce the effects that internal combustion engines may have on our environment.
+	~polluted rain.#Acid rain is an environmental hazard that affects everyone.  It's in everyone's interest to reduce the effects that internal combustion engines may have on our environment.
+}
+
+
+//name:TQ0419
+::TQ0419::Which of the following is not a cause of Hydrocarbon emissions?{
+	=High combustion temperature.#Hydrocarbon emission is one of a number of vehicle emissions along with Carbon Monoxide (CO), Oxides of Nitrogen (NOX) and Carbon Dioxide (CO2).
+	~Valve overlap.#Hydrocarbon emission is one of a number of vehicle emissions along with Carbon Monoxide (CO), Oxides of Nitrogen (NOX) and Carbon Dioxide (CO2).
+	~Misfire.#Hydrocarbon emission is one of a number of vehicle emissions along with Carbon Monoxide (CO), Oxides of Nitrogen (NOX) and Carbon Dioxide (CO2).
+	~Incomplete combustion.#Hydrocarbon emission is one of a number of vehicle emissions along with Carbon Monoxide (CO), Oxides of Nitrogen (NOX) and Carbon Dioxide (CO2).
+}
+
+
+//name:TQ0420
+::TQ0420::Catalytic converters convert carbon monoxide (CO) to:{
+	=carbon dioxide (CO2).#The catalytic converter adds oxygen molecules to carbon monoxide to convert it to carbon dioxide (CO2).
+	~oxygen (O2).#The catalytic converter adds oxygen molecules to carbon monoxide to convert it to carbon dioxide (CO2).
+	~hydrocarbons (HC).#The catalytic converter adds oxygen molecules to carbon monoxide to convert it to carbon dioxide (CO2).
+	~oxides of nitrogen (NOX).#The catalytic converter adds oxygen molecules to carbon monoxide to convert it to carbon dioxide (CO2).
+}
+
+

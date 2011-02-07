@@ -1,0 +1,54 @@
+//name:TQ0444
+::TQ0444::The abbreviation PCV stands for:{
+	=Positive Crankcase Ventilation.#PCV is used to feed blow-by gasses back into the inlet manifold for combustion.
+	~Preventative Crankcase Ventilation.#PCV is used to feed blow-by gasses back into the inlet manifold for combustion.
+	~Primary Crankcase Ventilation.#PCV is used to feed blow-by gasses back into the inlet manifold for combustion.
+	~Positive Crankcase Verification.#PCV is used to feed blow-by gasses back into the inlet manifold for combustion.
+}
+
+
+//name:TQ0445
+::TQ0445::The PCV valve should be checked periodically. When should it be replaced?{
+	=If it cannot be dismantled and is blocked or restricted with sludge.#A faulty PCV valve can lead to idling issues, poor economy and degraded engine oil.
+	~Every 12 000 miles.#A faulty PCV valve can lead to idling issues, poor economy and degraded engine oil.
+	~At major service.#A faulty PCV valve can lead to idling issues, poor economy and degraded engine oil.
+	~Prior to carrying out any checks for poor idling.#A faulty PCV valve can lead to idling issues, poor economy and degraded engine oil.
+}
+
+
+//name:TQ0446
+::TQ0446::Why should the PCV valve be checked periodically? {
+	=It should be checked periodically to make sure that it is not clogged with deposits.#Most modern vehicles have a PCV valve, which should be checked periodically to make sure that it is not clogged with deposits from the exhaust waste. 
+	~To make sure that it vents to the atmosphere.#Most modern vehicles have a PCV valve, which should be checked periodically to make sure that it is not clogged with deposits from the exhaust waste. 
+	~To allow lubricant to pass through it.#Most modern vehicles have a PCV valve, which should be checked periodically to make sure that it is not clogged with deposits from the exhaust waste. 
+	~All of these reasons.#Most modern vehicles have a PCV valve, which should be checked periodically to make sure that it is not clogged with deposits from the exhaust waste. 
+}
+
+
+//name:TQ0447
+::TQ0447::When working on an OBDII vehicle, clearing the fault codes also clears:{
+	=freeze-frame data.#When working on an OBDII system, the vehicle should be repaired prior to codes and useful diagnostic data being deleted.
+	~ignition maps.#When working on an OBDII system, the vehicle should be repaired prior to codes and useful diagnostic data being deleted.
+	~ECU programming data.#When working on an OBDII system, the vehicle should be repaired prior to codes and useful diagnostic data being deleted.
+	~fuel mapping data.#When working on an OBDII system, the vehicle should be repaired prior to codes and useful diagnostic data being deleted.
+}
+
+
+//name:TQ0448
+::TQ0448::Which of the following should you ensure when working on an OBDII system?{
+	=Always follow manufacturer's service manual procedures for the vehicle and system that you are working on.#It is good practice to obtain and follow manufacturer's service information to avoid possible damage to the vehicle and its systems.
+	~Never run the engine when there is a fault with the OBDII system.#It is good practice to obtain and follow manufacturer's service information to avoid possible damage to the vehicle and its systems.
+	~OBDII systems should only be worked on by the manufacturer of the vehicle.#It is good practice to obtain and follow manufacturer's service information to avoid possible damage to the vehicle and its systems.
+	~Disconnect the battery prior to connecting the OBDII scantool.#It is good practice to obtain and follow manufacturer's service information to avoid possible damage to the vehicle and its systems.
+}
+
+
+//name:TQ0449
+::TQ0449::When retrieving codes for an OBD I vehicle, can the codes be cleared and then the vehicle restarted to recheck for any codes that reset?{
+	=YES#When retrieving codes for an OBD I vehicle, clear the codes then start the vehicle and recheck for any codes that reset. When diagnosing an OBD II vehicle, do not clear the codes until the vehicle is repaired.
+	~NO#When retrieving codes for an OBD I vehicle, clear the codes then start the vehicle and recheck for any codes that reset. When diagnosing an OBD II vehicle, do not clear the codes until the vehicle is repaired.
+	~It does not matter.#When retrieving codes for an OBD I vehicle, clear the codes then start the vehicle and recheck for any codes that reset. When diagnosing an OBD II vehicle, do not clear the codes until the vehicle is repaired.
+	~Only if the ignition is turned of and on again first.#When retrieving codes for an OBD I vehicle, clear the codes then start the vehicle and recheck for any codes that reset. When diagnosing an OBD II vehicle, do not clear the codes until the vehicle is repaired.
+}
+
+

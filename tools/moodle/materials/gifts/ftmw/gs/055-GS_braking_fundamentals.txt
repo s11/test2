@@ -1,0 +1,95 @@
+// question: 28381  name: HAQ1925 
+::HAQ1925::[html]A ............................... brake for when it's stationary (usually operated by hand but in some incidences are foot actuated, that is apply/release) to provide a parking phase.{
+	=%100%park#
+}
+
+
+// question: 28382  name: HAQ1926 
+::HAQ1926::[html]A basic braking system has a: brake pedal, ............................... cylinder to provide hydraulic pressure.{
+	=%100%master#
+}
+
+
+// question: 28383  name: HAQ1927 
+::HAQ1927::[html]The driver pushes the brake pedal; it applies force (...............................) to the piston in the master cylinder.{
+	=%100%mechanical#
+}
+
+
+// question: 28384  name: HAQ1928 
+::HAQ1928::[html]The piston  applies pressure (...............................)to the fluid in the cylinder, the lines transfer the pressure (undimmished in all directions within the confines of the brake lines) to the wheel cylinders, and the wheel cylinders at the wheel assemblies apply the brakes.{
+	=%100%hydraulic#
+}
+
+
+// question: 28385  name: HAQ1929 
+::HAQ1929::[html]When brakes are applied to a moving vehicle, they absorb the vehicle's ............................... energy.{
+	=%100%kinetic#
+}
+
+
+// question: 28390  name: HAQ1930 
+::HAQ1930::[html]Low coefficient of friction for a pair of surfaces means they ............................... move easily over each other.{
+	=%100%can#
+}
+
+
+// question: 28391  name: HAQ1931 
+::HAQ1931::[html]High coefficient of friction for a pair of surfaces means they ............................... move easily over each other.{
+	=%100%cannot#
+}
+
+
+// question: 28392  name: HAQ1932 
+::HAQ1932::[html]If you make them very flat and smooth, and remove all surface contaminants in a vacuum, the smooth flat surfaces will actually adhere to each other, making what is called a '...............................'.{
+	=%100%cold weld#
+}
+
+
+// question: 28393  name: HAQ1933 
+::HAQ1933::[html]A common way to reduce friction is by using a ............................... such as oil that is placed between the two surfaces, often dramatically lessening the coefficient of friction.{
+	=%100%lubricant#
+}
+
+
+// question: 28394  name: HAQ1934 
+::HAQ1934::[html]The science of friction and lubrication is called ...............................{
+	=%100%tribology#
+}
+
+
+// question: 28395  name: HAQ1969 
+::HAQ1969::[html]Car emergency brakes have a ............................... locking mechanism that will keep them engaged until a release button is pressed.{
+	=%100%ratchet#
+}
+
+
+// question: 28396  name: HAQ1970 
+::HAQ1970::[html]Parking brake on disc brake system - some vehicles use a single drum brake on the rear of the gearbox as a hand-brake. It's sometimes called a ............................... brake.{
+	=%100%transmission#
+}
+
+
+// question: 28397  name: HAQ1971 
+::HAQ1971::[html]Parking brake on disc brake system - Some incorporate a drum brake for the hand-brake, in the center of the rear disc brake. Others use a ............................... linkage to operate the disc brake from the hand brake system, or separate hand-brake calipers with their own pads.{
+	=%100%mechanical#
+}
+
+
+// question: 28386  name: HAQ3748 
+::HAQ3748::[html]Drum brakes have a drum attached to the wheel ..............................., and braking occurs by means of brake shoes, expanding against the inside of the drum.{
+	=%100%hub#
+}
+
+
+// question: 28388  name: HAQ3750 
+::HAQ3750::[html]Disc brakes require ............................... forces to operate them than drum brakes.{
+	=%100%greater#
+}
+
+
+// question: 28389  name: HAQ3751 
+::HAQ3751::[html]The ............................... braking system prevents wheel-lock or skidding, no matter how hard brakes are applied, or how slippery the road surface.{
+	=%100%anti-lock#
+	=%100%antilock#
+}

@@ -1,0 +1,43 @@
+SYNOPSIS
+
+  import --structure structure_filename --gift gift_filename [--version version_number --database database_name]
+
+DESCRIPTION
+
+  Imports a course category of quizzes and tests into the specified Moodle database based on a quiz and test layout
+  that references a set of course gift files.
+  
+  After the successful completion of a single course category import the tool will update the `menu_versions` table
+  in the `content_reporting` database with the reference identifier of the imported content.
+
+PARAMETERS
+
+  structure_filename
+    The filename of the CSV file that contains the quiz and test structure
+
+  gift_filename
+    The filename of the CSV file that contains the list of GIFT files referenced in the structure
+
+  version_number
+    The version number of the quiz and test content that is being imported.  Defaults to '51'.
+    This value is also used to reference the correct menu in the `menu_versions` table when
+    updating the `moodle_course_category_id`.
+
+  database_name
+    The name of the database to import the content into.  Defaults to 'moodle_a620'
+
+  -h, --help
+
+Example usage:
+
+./import.rb -v 51 -s ./materials/layout/structure/cs_alberta.csv -g ./materials/layout/gifts/cg_alberta.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_ark.csv -g ./materials/layout/gifts/cg_ark.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_ase_2core.csv -g ./materials/layout/gifts/cg_ase_2core.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_ase_4core.csv -g ./materials/layout/gifts/cg_ase_4core.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_ase.csv -g ./materials/layout/gifts/cg_ase.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_aur.csv -g ./materials/layout/gifts/cg_aur.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_gs.csv -g ./materials/layout/gifts/cg_gs.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_imi.csv -g ./materials/layout/gifts/cg_imi.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_nz.csv -g ./materials/layout/gifts/cg_nz.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_rs.csv -g ./materials/layout/gifts/cg_rs.csv
+./import.rb -v 51 -s ./materials/layout/structure/cs_mito.csv -g ./materials/layout/gifts/cg_mito.csv

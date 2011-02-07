@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 69
+database.yml
+application.yml
+amazon_s3.yml
+rackspace_cloudfiles.yml
+
+
+END

@@ -1,0 +1,62 @@
+// question: 32709  name: HAQ2991 
+::HAQ2991::[html]The orifice tube is located between the condenser and the ................. and provides the restriction to flow necessary for system operation.{
+	=%100%evaporator#
+}
+
+
+// question: 32710  name: HAQ2992 
+::HAQ2992::[html]Vaporized refrigerant is drawn from the low pressure side of the system by the .................{
+	=%100%compressor#
+}
+
+
+// question: 32711  name: HAQ2993 
+::HAQ2993::[html]Vaporized refrigerant is discharged from the compressor as a high-pressure, high-temperature vapor and flows to the ................. where it is cooled by the air flowing across the condenser coils and fins.{
+	=%100%condenser#
+}
+
+
+// question: 32712  name: HAQ2994 
+::HAQ2994::[html]The reduction in temperature causes the refrigerant vapor to condense and turn into a ................. which flows to the filter and then to the orifice tube.{
+	=%100%liquid#
+}
+
+
+// question: 32713  name: HAQ2995 
+::HAQ2995::[html]The accumulator is made from ................. and has a large surface area. This assists the final evaporation of any liquid refrigerant leaving the evaporator.{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 32714  name: HAQ2996 
+::HAQ2996::[html]If the temperature of the evaporator fins were to drop to 0oC or less, moisture condensing out of the air would freeze on the unit and block the air flow through the .................{
+	=%100%evaporator#
+}
+
+
+// question: 32715  name: HAQ2997 
+::HAQ2997::[html]When the fins of the evaporator drop to 1 degree Celcius the thermostat contacts .................{
+	=%100%open#
+}
+
+
+// question: 32716  name: HAQ2998 
+::HAQ2998::[html]System protection against high pressures is provided by a high-pressure ................. mounted in the high pressure line between the condenser and the orifice tube.{
+	=%100%switch#
+}
+
+
+// question: 32717  name: HAQ2999 
+::HAQ2999::[html]If a leak develops and the refrigerant is low in charge, a low pressure switch on the low pressure side of the system turns the compressor ................. when the system pressure falls below a set value.{
+	=%100%off#
+}
+
+
+// question: 32718  name: HAQ3000 
+::HAQ3000::[html]As lubricating oil is carried around the system by the refrigerant this prevents damage to the ................. due to lack of lubricating oil.{
+	=%100%compressor#
+}
+
+
+

@@ -1,0 +1,63 @@
+// question: 32997  name: HAQ3125 
+::HAQ3125::[html]A system known as Global Positioning System, or ................., can be used to determine the exact location of a vehicle on the earth's surface.{
+	=%100%GPS#
+}
+
+
+// question: 32998  name: HAQ3126 
+::HAQ3126::[html]Most vehicle tracking systems can work very accurately without satellites once their initial position has been determined. On board ................. can be used to keep track of the exact vehicle location.{
+	=%100%sensors#
+}
+
+
+// question: 32999  name: HAQ3127 
+::HAQ3127::[html]The GPS receiver on the vehicle has to locate four or more satellites, determine the distance to each, and use this information to establish it's own location. This operation is based on a mathematical principle called '.................'.{
+	=%100%trilateration#
+}
+
+
+// question: 33000  name: HAQ3128 
+::HAQ3128::[html]For simplicity, the dimensions used to determine these points are commonly known as Latitude, ................. and Elevation.{
+	=%100%Longitude#
+	=%100%longitude#
+}
+
+
+// question: 33002  name: HAQ3130 
+::HAQ3130::[html]'Trilateration' is used to determine an initial vehicle position for reference. Once this has been determined, mapping software stored on a ................. can be used to generate an overlay map and data for the driver on a display screen.{
+	=%100%DVD#
+}
+
+
+// question: 33003  name: HAQ3131 
+::HAQ3131::[html]Accurate and reliable navigation is still possible even when satellite signals become unavailable. This is achieved by using electronic ................. to monitor vehicle variables such as: Pitch, roll, yaw, road speed, steering angle, acceleration, and deceleration.{
+	=%100%sensors#
+}
+
+
+// question: 33004  name: HAQ3132 
+::HAQ3132::[html]During normal operation, the computer program compares vehicle position data derived from the satellites, and onboard sensor information, to ensure high levels of accuracy. In addition, ground based stations may be used in suitable locations, as an ................. reference point.{
+	=%100%absolute#
+}
+
+
+// question: 33005  name: HAQ3133 
+::HAQ3133::[html]Automotive telematics is a satellite-based system that combines .................-way communication and information technology within the vehicle.{
+	=%100%two#
+	=%100%2#
+}
+
+
+// question: 33006  name: HAQ3134 
+::HAQ3134::[html]The benefits of telematics can include: the location & immobilization of a stolen or lost vehicle, notification to emergency services after SRS deployment, ................. shut down and door unlocking in the event of a severe accident, roadside assistance and remote diagnosis.{
+	=%100%engine#
+}
+
+
+// question: 33001  name: HAQ3847 
+::HAQ3847::[html]What the GPS does to work, is form many triangles with different pairs of .................{
+	=%100%satellites#
+}
+
+
+

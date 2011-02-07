@@ -1,0 +1,121 @@
+menu,cdx_menu_name,map,shortname,category,test_type,test_type_abbr,quiz,qn_category
+2core,ASE 2 Core,CDX 2 Core ASE  5.1 Quizzes & Tests,Foundation,Foundation & Safety,Topic Group Test,TGT,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,perspropsafety
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Tools & equipment fundamentals,toolequipdfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Common workshop tools ,commonworktools
+,,,,,,,Automotive tools ,autotools
+,,,,,,,Additional tools ,additionaltools
+,,,,,,,Diagnostic equipment,diagequip
+,,,,,,,Lifting equipment ,liftequip
+,,,,,,,Engine layouts,enginelayouts
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Drive configurations ,driveconfig
+,,,,,,,Active listening,activelisten
+,,,,,,,Art of speaking,artspeaking
+,,,,,,,People skills,peopleskills
+,,,,,,,Effective reading,effectiveread
+,,,,,,,Researching,researching
+,,,,,,,Units of measure,unitsmeasure
+,,,,,,,Information & tools,infotools
+,,,,,,,Engines,engines
+,,,,,,,Engine cycles,enginecycles
+,,,,,,,Engine components,enginecomp
+,,,,,,,Engine cooling ,enginecooling
+,,,,,,,Fuel systems,fuelsys
+,,,,,,,Chassis,chassis
+,,,,,,,Electrics,electrics
+,,,,,,,Electronics,electronics
+,,,,,Find-The-Missing Word,FTMW,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,perspropsafety
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Tools & equipment fundamentals,toolequipdfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Using electric power tools,useelecpowertools
+,,,,,,,Using air power tools,useairtools
+,,,,,,,Common workshop tools ,commonworktools
+,,,,,,,Automotive tools ,autotools
+,,,,,,,Additional tools ,additionaltools
+,,,,,,,Using non-powered tools,usenonpowered
+,,,,,,,Using measuring tools,usemeasuring
+,,,,,,,Diagnostic equipment,diagequip
+,,,,,,,Lifting equipment ,liftequip
+,,,,,,,Using workshop equipment,useworkshopequip
+,,,,,,,Information procedures,infroproc
+,,,,,,,Engine layouts,enginelayouts
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Drive configurations ,driveconfig
+,,,,,,,Vehicle inspection procedures,vehinspectproc
+,,,,,,,Communication,communication
+,,,,,,,Units of measure,unitsmeasure
+,,,,,,,Information & tools,infotools
+,,,,,,,Engines,engines
+,,,,,,,Engine cycles,enginecycles
+,,,,,,,Engine components,enginecomp
+,,,,,,,Engine cooling ,enginecooling
+,,,,,,,Fuel systems,fuelsys
+,,,,,,,Chassis,chassis
+,,,,,,,Electrics,electrics
+,,,,,,,Electronics,electronics
+,,,,,Practice Exam,PE,ASE Foundation & Safety,51foundationPE
+,,,,,Final Exam,FE,ASE Foundation & Safety,51foundationFE
+,,,ASE5,ASE 5: Brakes,Topic Group Test,TGT,Braking fundamentals ,brakesfundas
+,,,,,,,Braking systems ,brakesys
+,,,,,,,Braking system components,brakesyscomp
+,,,,,,,Drum brakes & components ,drumbrakescomp
+,,,,,,,Disc brakes & components ,discbrakecomp
+,,,,,,,Antilock braking system & components,antilockbrakes
+,,,,,Find-The-Missing Word,FTMW,Braking fundamentals ,brakesfundas
+,,,,,,,Braking systems ,brakesys
+,,,,,,,Braking system components,brakesyscomp
+,,,,,,,Drum brakes & components ,drumbrakescomp
+,,,,,,,Disc brakes & components ,discbrakecomp
+,,,,,,,Antilock braking system & components,antilockbrakes
+,,,,,,,Brakes procedures,brakesproc
+,,,,,Practice Exam,PE,ASE 5: Brakes,51ase5PE
+,,,,,Final Exam,FE,ASE 5: Brakes,51ase5FE
+,,,ASE6,ASE 6: Electrical/Electronic,Topic Group Test,TGT,Electrical fundamentals,elecfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Circuits & measurement,circuitsmeasurement
+,,,,,,,Electrical components,eleccomponents
+,,,,,,,Electronic components,electroniccomp
+,,,,,,,Batteries,batteries
+,,,,,,,Charging,charging
+,,,,,,,Alternator construction,alternatorconstruction
+,,,,,,,Starting,starting
+,,,,,,,Lighting,lighting
+,,,,,,,Types of lights,typesoflights
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Hybrid drive systems,hybriddrivesys
+,,,,,,,Safety systems,safetysys
+,,,,,,,Security systems,securitysys
+,,,,,,,Entertainment & peripheral systems,entertainmentperiph
+,,,,,,,Satellite assisted systems,satellitedassisted
+,,,,,Find-The-Missing Word,FTMW,Electrical fundamentals,elecfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Circuits & measurement,circuitsmeasurement
+,,,,,,,Electrical testing procedures ,electestproc
+,,,,,,,Electrical components,eleccomponents
+,,,,,,,Wires & connectors procedures ,wires
+,,,,,,,Electronic components,electroniccomp
+,,,,,,,Batteries,batteries
+,,,,,,,Battery maintenance procedures,batteryproc
+,,,,,,,Charging,charging
+,,,,,,,Alternator construction,alternatorconstruction
+,,,,,,,Charging procedures ,chargeproc
+,,,,,,,Starting,starting
+,,,,,,,Starting procedures ,startproc
+,,,,,,,Lighting,lighting
+,,,,,,,Types of lights,typesoflights
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Lighting procedures,lightingproc
+,,,,,,,Hybrid drive systems,hybriddrivesys
+,,,,,,,Safety systems,safetysys
+,,,,,,,Security systems,securitysys
+,,,,,,,Entertainment & peripheral systems,entertainmentperiph
+,,,,,,,Satellite assisted systems,satellitedassisted
+,,,,,Practice Exam,PE,ASE 6: Electrical/Electronic,51ase6PE
+,,,,,Final Exam,FE,ASE 6: Electrical/Electronic,51ase6FE

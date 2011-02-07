@@ -1,0 +1,53 @@
+// question: 24721  name: HAQ1198 
+::HAQ1198::[html]However, where a traditional carburetor forces the incoming air through a venturi to pull the fuel into the air stream, a fuel injection system forces the fuel through .............................. under pressure to inject the fuel into the air stream without requiring a venturi.{
+	=%100%nozzles#
+}
+
+
+// question: 24722  name: HAQ1199 
+::HAQ1199::[html]The use of a venturi reduces .............................. efficiency by approximately 15%, which results in a reduction in engine power.{
+	=%100%volumetric#
+}
+
+
+// question: 24723  name: HAQ1200 
+::HAQ1200::[html]Additionally, fuel injection allows for more precise control over the mixture of fuel and air, both in proportion and in ..............................{
+	=%100%uniformity#
+}
+
+
+// question: 24724  name: HAQ1201 
+::HAQ1201::[html]Fuel injection can .............................. fuel efficiency and reduce emissions.{
+	=%100%increase#
+}
+
+
+// question: 24725  name: HAQ1202 
+::HAQ1202::[html]Throttle-body injection sprays fuel into the air as it passes through to the .............................. manifold.{
+	=%100%intake#
+}
+
+
+// question: 24726  name: HAQ1208 
+::HAQ1208::[html]Because of the need to comply with exhaust emission  regulations, the modern gasoline engine requires a fuel system of extreme .............................. and long-term reliability.{
+	=%100%accuracy#
+}
+
+
+// question: 24727  name: HAQ1209 
+::HAQ1209::[html]Fuel pressure is kept at a constant value above manifold pressure, so the amount of fuel injected is determined only by the length of time the injector is held open by the ECU. This is called the .............................. of the injector.{
+	=%100%pulse-width#
+	=%100%pulse width#
+}
+
+
+// question: 24728  name: HAQ1210 
+::HAQ1210::[html]One injector is located in each intake manifold runner, or pipe, adjacent to each ..............................{
+	=%100%cylinder#
+}
+
+
+// question: 24729  name: HAQ1211 
+::HAQ1211::[html]The triggering signal to operate the injectors can be supplied from the ignition system, or from crank angle sensors on the crankshaft, or the ..............................{
+	=%100%camshaft#
+}

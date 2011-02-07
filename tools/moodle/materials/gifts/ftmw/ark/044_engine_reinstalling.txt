@@ -1,0 +1,46 @@
+// question: 26274  name: HAQ3686 
+::HAQ3686::[html]If you have a new ................. converter it should be filled with Automatic Transmission Fluid and be back in place.{
+	=%100%torque#
+}
+
+
+// question: 26275  name: HAQ3687 
+::HAQ3687::[html]Re-install the hoisting chain or plate. If the hood was removed, there will be enough room to use an engine ................., which will help if you're installing an engine and transmission together.{
+	=%100%levellers#
+	=%100%levelers#
+}
+
+
+// question: 26276  name: HAQ3688 
+::HAQ3688::[html]Sometimes the mounts are difficult to align and it seems like the engine position needs to move toward the rear of the chassis to allow the mounts to drop in place. As a last resort, loosen the ................. bolts a few turns if it's still too tight.{
+	=%100%bellhouse#
+	=%100%bell house#
+	=%100%bell-house#
+}
+
+
+// question: 26277  name: HAQ3689 
+::HAQ3689::[html]Make sure the lower bellhouse bolts are tight and then hook the torque converter back up if the engine has an automatic transmission. Then put the automatic or manual transmission ................. linkages back together.{
+	=%100%shifter#
+}
+
+
+// question: 26278  name: HAQ3690 
+::HAQ3690::[html]Reconnect the ................. pump that was swung out of the way when the engine was removed.{
+	=%100%steering#
+}
+
+
+// question: 26279  name: HAQ3691 
+::HAQ3691::[html]When the fan and water pump pulley are set, install the .................{
+	=%100%shroud#
+}
+
+
+// question: 26280  name: HAQ3692 
+::HAQ3692::[html]When all the pumps and accessories are in place, connect the upper ................. hose.{
+	=%100%radiator#
+}
+
+
+

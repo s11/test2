@@ -1,0 +1,79 @@
+- if flash[:students_created].present? || flash[:students_duplicate].present? || flash[:students_invalid].present?
+  - information_box do
+    %h4 Your CSV file has been processed:
+    %br
+    %table#listing
+      %tbody
+        - if flash[:students_created].present?
+          %tr
+            %th.right.odd Successfully created:
+            %td= flash[:students_created] * ', '
+
+        - if flash[:students_duplicate].present?
+          %tr
+            %th.right.even Duplicates students (skipped):
+            %td= flash[:students_duplicate] * ', '
+
+        - if flash[:students_invalid].present?
+          %tr
+            %th.right.odd Invalid students (skipped):
+            %td= flash[:students_invalid] * ', '
+
+#tabs
+  %ul
+    %li= link_to "Instructions",    "#tab-instructions"
+    %li= link_to "Student Import",  "#tab-import"
+
+
+  #tab-instructions
+    = render :partial => 'instructions'
+
+  #tab-import
+    - if current_client.remaining_students > 0
+      - information_box do
+        == You have #{current_client.remaining_students} available student logons remaining.
+
+      - form_for(resource, :html => { :multipart => true }) do |f|
+        %table{ :style => "width: auto" }
+          %tbody
+            - if current_client.prefers_class_groups?
+              - class_groups = current_user.role.supervisor? ? current_client.class_groups : current_user.class_groups
+
+              - if class_groups.count > 0
+                %tr
+                  %th= label_tag  'class_groups[]', 'Classes / Groups:'
+                  %td
+                    - current_client.class_groups.each do |class_group|
+                      %span.ui-corner-all.user.class_group[class_group]{ :style => "padding: 0.25em 0.5em; margin-right: 0.5em" }
+                        = check_box_tag "class_groups[]", class_group.id
+                        &= class_group.name
+
+                    - content_for(:onload) do
+                      :plain
+                        $('.class_group').click(function() {
+                          var checkbox = $(this).find('input:checkbox');
+
+                          if ($(this).hasClass('selected')) {
+                            $(this).removeClass('selected');
+                            checkbox.attr('checked', false)
+                          } else {
+                            $(this).addClass('selected');
+                            checkbox.attr('checked', true)
+                          }
+                        });
+
+            %tr
+              %th= label_tag  :csv, 'Student CSV file:'
+              %td= f.file_field :csv
+
+        %br
+        = save_button_tag "Import Students"
+
+    - else
+      .ui-state-error.ui-corner-all{ :style => "padding: 0.5em 1em; font-weight: bold; color: #ff0; margin-bottom: 1em" }
+        %span.ui-icon.ui-icon-info.fleft{ :style => "margin-right: .3em;" }
+        == All of your #{current_client.maximum_users_by_role('student')} student logons have been allocated. You have no more available student logons. Please email info@cdxglobal.com or contact your account manager to order more logons.
+
+- content_for(:onload) do
+  :plain
+    $('#tabs').tabs();

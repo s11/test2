@@ -1,0 +1,49 @@
+//name:TQ1306
+::TQ1306::Bitumen is a highly viscous, black, organic liquid that is obtained from crude oil.{
+	=TRUE#Bitumen is a highly viscous, black, sticky, organic liquid primarily used as a binding agent for paving roads.
+	~FALSE#Bitumen is a highly viscous, black, sticky, organic liquid primarily used as a binding agent for paving roads.
+}
+
+
+//name:TQ1307
+::TQ1307::Changing the amount of carbon in an alloy, even by small amounts, will dramatically change its properties.{
+	=TRUE#High strength steels are manufactured by altering the amount of carbon in the metal's atomic structure.
+	~FALSE#High strength steels are manufactured by altering the amount of carbon in the metal's atomic structure.
+}
+
+
+//name:TQ1308
+::TQ1308::The amount of carbon required to alloy with iron to form steel is very small, it can be:{
+	=less than 1%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+	~less than 5%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+	~less than 10%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+	~less than 20%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+}
+
+
+//name:TQ1309
+::TQ1309::Must all commercial vehicles display their Gross Vehicle Mass (GVM)?{
+	=When legally required to do so.#The GVM is generally displayed on all commercial vehicles.  This allows the operator to determine the maximum payload that may be carried. In some countries transport regulations require the GVM to be displayed. 
+	~Yes, in all cases.#The GVM is generally displayed on all commercial vehicles.  This allows the operator to determine the maximum payload that may be carried. In some countries transport regulations require the GVM to be displayed. 
+	~No, only goods carrying vehicles.#The GVM is generally displayed on all commercial vehicles.  This allows the operator to determine the maximum payload that may be carried. In some countries transport regulations require the GVM to be displayed. 
+}
+
+
+//name:TQ1310
+::TQ1310::Tempering means heating to a certain temperature, depending on the material, holding it at that temperature for a time, then letting it cool...{
+	=at a controlled rate.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+	~quickly.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+	~slowly.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+	~with an induction coil.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+}
+
+
+//name:TQ1311
+::TQ1311::The two easiest ways to create a partial vacuum are to expand the volume of a sealed gas-filled container; or ...{
+	=reduce the mass of the gas inside a fixed size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+	~increase the mass of the gas inside a fixed size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+	~maintain the mass of the gas inside a fixed size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+	~reduce the mass of the gas inside a reduced size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+}
+
+

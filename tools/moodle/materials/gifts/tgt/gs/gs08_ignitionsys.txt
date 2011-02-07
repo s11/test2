@@ -1,0 +1,57 @@
+//name:TQ1046
+::TQ1046::Name the three general types of ignition system.{
+	=Breaker,  electronic and direct.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+	~Breaker, direct and indirect.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+	~Electronic, direct and indirect.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+	~Direct, indirect and semi-direct.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+}
+
+
+//name:TQ1049
+::TQ1049::What kind of coil is used to step up the nominal battery voltage needed to bridge the gap across the spark plug electrodes?{
+	=Induction coil.#The induction coil operates according to Faraday's law.
+	~Nominal battery coil.#The induction coil operates according to Faraday's law.
+	~Alternator coil.#The induction coil operates according to Faraday's law.
+	~Stationary magnetic coil.#The induction coil operates according to Faraday's law.
+}
+
+
+//name:TQ1050
+::TQ1050::The purpose of a distributor is to:{
+	=Distribute the high-tension voltage surges to individual spark plugs in the correct sequence at the correct time in the engine cycle.#Many engines do not use a distributor but use a wasted spark ignition system with multiple coil packs instead.
+	~Distribute the high-tension voltage surges to the individual spark plug at the correct point in the engine cycle.#Many engines do not use a distributor but use a wasted spark ignition system with multiple coil packs instead.
+}
+
+
+//name:TQ1051
+::TQ1051::What components do the spark plug or high tension (HT) leads connect?{
+	=Spark distribution unit and the spark plug.#Spark plugs leads carry high voltage surges, therefore they have thick insulation to avoid the high voltage breaking down the insulation.
+	~Electronic control unit and the spark plug.#Spark plugs leads carry high voltage surges, therefore they have thick insulation to avoid the high voltage breaking down the insulation.
+}
+
+
+//name:TQ1052
+::TQ1052::A vacuum advance unit advances ignition timing by moving the distributor base plate:{
+	=against the direction of distributor shaft rotation.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+	~at wide throttle openings only.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+	~according to engine speed.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+	~in the direction of distributor shaft rotation.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+}
+
+
+//name:TQ1053
+::TQ1053::Timing can be advanced relative to engine speed in contact breaker ignition systems by a:{
+	=centrifugal advance mechanism.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+	~moveable breaker plate.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+	~scissors type distributor drive gear.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+	~ballast resistor.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+}
+
+
+//name:TQ1054
+::TQ1054::In relation to the ignition system, suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise. {
+	=This increases the firing voltage needed at the spark plug.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+	~This reduces the firing voltage needed at the spark plug.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+	~This increases the firing voltage needed at the ingition switch.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+	~This reduces the firing voltage needed at the ignition switch.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+}

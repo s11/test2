@@ -1,0 +1,118 @@
+// question: 31309  name: HAQ2969 
+::HAQ2969::[html]Fresh air is drawn from outside usually through .............................. at the base of the windscreen, and directed to the passenger compartment.{
+	=%100%ducts#
+}
+
+
+// question: 31310  name: HAQ2970 
+::HAQ2970::[html]Fresh air is delivered through ducts and flaps which are positioned to direct air to particular points inside the passenger compartment. These flaps can be controlled by cables, by vacuum servos, or by .............................. servos.{
+	=%100%electric#
+}
+
+
+// question: 31311  name: HAQ2971 
+::HAQ2971::[html]Engines that are liquid cooled direct heated coolant to a .............................. to heat the air.{
+	=%100%heater-core#
+	=%100%heater core#
+}
+
+
+// question: 31312  name: HAQ2972 
+::HAQ2972::[html]The coolant flow is created by the engine water .............................., directing the coolant through the heater core and then back to the engine.{
+	=%100%pump#
+}
+
+
+// question: 31313  name: HAQ2973 
+::HAQ2973::[html]With the dash lever in the maximum heat position, the valve is fully .............................. allowing the maximum amount of coolant to circulate through the heater core.{
+	=%100%open#
+}
+
+
+// question: 31314  name: HAQ2974 
+::HAQ2974::[html]The removal of heat lowers the .............................. and the vehicle interior becomes colder.{
+	=%100%temperature#
+}
+
+
+// question: 31315  name: HAQ2975 
+::HAQ2975::[html]'Cold' is simply a relative absence of heat, or can be regarded as a condition which exists after heat has been ..............................{
+	=%100%removed#
+}
+
+
+// question: 31316  name: HAQ2976 
+::HAQ2976::[html].............................. is heat transfer by direct contact.{
+	=%100%Conduction#
+	=%100%conduction#
+}
+
+
+// question: 31317  name: HAQ2977 
+::HAQ2977::[html].............................. is the transfer of heat by circulation of convection currents in a gas or liquid.{
+	=%100%Convection#
+	=%100%convection#
+}
+
+
+// question: 31318  name: HAQ2978 
+::HAQ2978::[html].............................. transfers heat in rays.{
+	=%100%Radiation#
+	=%100%radiation#
+}
+
+
+// question: 31319  name: HAQ2979 
+::HAQ2979::[html]Since heat is a form of .............................., it cannot be destroyed.{
+	=%100%energy#
+}
+
+
+// question: 31320  name: HAQ2980 
+::HAQ2980::[html]For water to boil, heat has to be added to the water. While it is boiling, heat has to be added to it continuously to change its state from a liquid to a ..............................{
+	=%100%vapour#
+	=%100%vapor#
+}
+
+
+// question: 31321  name: HAQ2981 
+::HAQ2981::[html]The greatest quantity of heat movement occurs during these changes of state, while a liquid is boiling and changing into a vapor and when a vapor is condensing back into a liquid. This is known as ..............................{
+	=%100%Latent Heat#
+	=%100%latent heat#
+}
+
+
+// question: 31322  name: HAQ2982 
+::HAQ2982::[html]If a liquid is subjected to pressure, its boiling point is raised. Therefore a .............................. temperature must be achieved to make it boil and change to a gas.{
+	=%100%higher#
+}
+
+
+// question: 31323  name: HAQ2983 
+::HAQ2983::[html]Subjecting water, in a closed container, to a pressure of 100 kilopascals above atmospheric, will raise its boiling point to approximately 120&deg;C. Similarly if the pressure in the container is reduced then the .............................. will also be reduced.{
+	=%100%boiling point#
+}
+
+
+// question: 31305  name: HAQ3831 
+::HAQ3831::[html]In 1987, most of the world's industrialized countries signed an agreement called the '.............................. Protocol'.{
+	=%100%Montreal#
+}
+
+
+// question: 31306  name: HAQ3832 
+::HAQ3832::[html]Incorporated in the 1987 protocol is a ban on production of .............................. -depleting substances. R-12, an automotive air conditioning refrigerant, is one of these substances.{
+	=%100%ozone#
+}
+
+
+// question: 31307  name: HAQ3833 
+::HAQ3833::[html]All .............................. in a system must be repaired prior to recharging an air conditioning system.{
+	=%100%leaks#
+}
+
+
+// question: 31308  name: HAQ3834 
+::HAQ3834::[html]If a workshop handles R-12 and R-134a, it must have a separate .............................. unit for each refrigerant to prevent the possibility of cross-contamination.{
+	=%100%recovery#
+}

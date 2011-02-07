@@ -1,0 +1,90 @@
+//name:TQ0871
+::TQ0871::How many sections does a 1-2 shift valve have?{
+	=Two. Upper and lower sections.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+	~Three. Center section plus upper and lower extensions.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+	~One. The valve is a single sealed unit.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+	~Four. Two springs, a valve, and a plunger.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+}
+
+
+//name:TQ0872
+::TQ0872::Which of these is a component of a 2-3 shift valve assembly?{
+	=Throttle pressure regulating plug.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+	~Servo pressure valve adjuster.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+	~Compensating pressure booster.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+	~Center band release circuit.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+}
+
+
+//name:TQ0873
+::TQ0873::What determines whether a 3-2 kickdown shift can be made?{
+	=Governor pressure.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+	~The force of the kickdown on the accelerator/gas pedal.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+	~Proportioning valve pressure.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+	~A combination of road speed and air intake volume.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+}
+
+
+//name:TQ0874
+::TQ0874::The manual valve directs fluid at what pressure when gear position 1 is selected?{
+	=Line pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+	~Boosted pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+	~Reduced pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+	~Atmospheric pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+}
+
+
+//name:TQ0875
+::TQ0875::In a Borg Warner 35 type transmission during a 2-3 up shift, the timing of the front band release and rear clutch application is controlled by the:{
+	=servo orifice control valve.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+	~size of the front servo spring.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+	~modulator valve and regulating plug.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+	~2-3 shift valve regulating plug.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+}
+
+
+//name:TQ0876
+::TQ0876::What kind of valve is a servo orifice control valve?{
+	=A shuttle valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+	~A butterfly valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+	~A ball valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+	~A needle valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+}
+
+
+//name:TQ0877
+::TQ0877::Technician A says when gear position 1 is selected the rear band is applied.  Technician B says that engine braking can be achieved on overrun.  Who is correct? {
+	=Technician A.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+	~Technician B.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+}
+
+
+//name:TQ0878
+::TQ0878::The 1-2 shift valve is influenced by:{
+	=throttle and spring pressure vs governor pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+	~governor and spring pressure vs throttle pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+	~throttle and governor pressure vs spring pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+	~throttle pressure vs governor pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+}
+
+
+//name:TQ0879
+::TQ0879::The 2-3 shift valve is influenced by:{
+	=throttle and spring pressure vs governor pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+	~governor and spring pressure vs throttle pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+	~throttle and governor pressure vs spring pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+	~throttle pressure vs governor pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+}
+
+
+//name:TQ0880
+::TQ0880::A 3-2 kickdown will occur if:{
+	=throttle and spring pressure overcome governor pressure.#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+	~governor pressure overcome throttle and spring pressure .#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+	~governor and spring pressure overcome throttle pressure.#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+	~spring pressure overcomes throttle pressure.#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+}
+
+

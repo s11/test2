@@ -1,0 +1,146 @@
+// question: 28757  name: HAQ2040 
+::HAQ2040::[html]Disc brakes need much ............................... pressures to operate than drum brakes.{
+	=%100%higher#
+}
+
+
+// question: 28758  name: HAQ2041 
+::HAQ2041::[html]Almost all disc brake systems need a power brake ............................... to help reduce the pedal forces that are needed from the driver.{
+	=%100%booster#
+}
+
+
+// question: 28759  name: HAQ2042 
+::HAQ2042::[html]Brake failure can occur due to failure of the piston to ............................... - this is usually a consequence of not operating the vehicle during a time that it is stored outdoors in adverse conditions.{
+	=%100%retract#
+}
+
+
+// question: 28760  name: HAQ2043 
+::HAQ2043::[html]............................... can reduce the braking power of carbon-carbon brakes.{
+	=%100%Moisture#
+	=%100%moisture#
+}
+
+
+// question: 28761  name: HAQ2044 
+::HAQ2044::[html]The disc brake rotor is  usually made of cast iron because it's hard-wearing and can resist high ...............................{
+	=%100%temperatures#
+}
+
+
+// question: 28762  name: HAQ2045 
+::HAQ2045::[html]............................... discs can be used to improve cooling.{
+	=%100%Ventilated#
+	=%100%ventilated#
+}
+
+
+// question: 28765  name: HAQ2048 
+::HAQ2048::[html]Some pads have a groove cut into the friction surface. The depth of this groove is set so that when it can no longer be seen, the pad should be ...............................{
+	=%100%replaced#
+}
+
+
+// question: 28768  name: HAQ2051 
+::HAQ2051::[html]The disc brake caliper assembly is bolted to the vehicle axle housing or ...............................{
+	=%100%suspension#
+}
+
+
+// question: 28769  name: HAQ2052 
+::HAQ2052::[html]When the brakes are applied, hydraulic ............................... forces the piston inwards.{
+	=%100%pressure#
+}
+
+
+// question: 28770  name: HAQ2053 
+::HAQ2053::[html]In disc brake calipers, the piston moves against a stationary square section ............................... ring.{
+	=%100%sealing#
+}
+
+
+// question: 28771  name: HAQ2054 
+::HAQ2054::[html]When the brakes are released, the seal returns to its original shape. The action of this sealing ring ............................... the piston to provide a small running clearance between the disc and pads.{
+	=%100%retracts#
+}
+
+
+// question: 28772  name: HAQ2059 
+::HAQ2059::[html]The proportioning valve divides up the braking effort applied to front and rear wheels under heavy braking, according to how ............................... is distributed across a vehicle.{
+	=%100%load#
+}
+
+
+// question: 28773  name: HAQ2060 
+::HAQ2060::[html]The effectiveness of braking force is determined by tire-to-road ............................... and this increases as load increases.{
+	=%100%friction#
+}
+
+
+// question: 28774  name: HAQ2061 
+::HAQ2061::[html]Applying the brakes causes the front of the vehicle to ...............................{
+	=%100%dip#
+}
+
+
+// question: 28775  name: HAQ2062 
+::HAQ2062::[html]Braking causes greater tire-to-road friction on the front tires, and less on the rear. This kind of change of load is called load ...............................{
+	=%100%transfer#
+}
+
+
+// question: 28776  name: HAQ2063 
+::HAQ2063::[html]The proportioning valve adjusts braking force to allow for load transfer. It can be pressure-sensitive, or ...............................-sensitive.{
+	=%100%load#
+}
+
+
+// question: 28777  name: HAQ2064 
+::HAQ2064::[html]Master cylinder applications usually combine the proportioning valve with a pressure ............................... switch.{
+	=%100%differential#
+}
+
+
+// question: 28778  name: HAQ2065 
+::HAQ2065::[html]The load-sensing proportioning valve is usually located in the ............................... brake circuit, on the chassis.{
+	=%100%rear#
+}
+
+
+// question: 28779  name: HAQ2066 
+::HAQ2066::[html]A diagonally-split system may have 2 load-sensing proportioning valves, one for each brake. The unit is mounted on the ..............................., around the rear suspension.{
+	=%100%chassis#
+}
+
+
+// question: 28751  name: HAQ3767 
+::HAQ3767::[html]Modern passenger vehicles are usually equipped with disc brakes on at least ............................... wheels.{
+	=%100%two#
+	=%100%2#
+}
+
+
+// question: 28752  name: HAQ3768 
+::HAQ3768::[html]The primary components of the disc brakes are: Rotor; ...............................; Brake pads.{
+	=%100%calliper#
+	=%100%caliper#
+}
+
+
+// question: 28753  name: HAQ3769 
+::HAQ3769::[html]Rotors can be of a solid construction or slotted. The slotted rotor is referred to as a '............................... disc'.{
+	=%100%ventilated#
+}
+
+
+// question: 28754  name: HAQ3770 
+::HAQ3770::[html]The caliper straddles the rotor, and houses the disc brake pads and activating ................................{
+	=%100%pistons#
+}
+
+
+// question: 28755  name: HAQ3771 
+::HAQ3771::[html]The disc pad consists of a friction material bonded to a ............................... backing plate.{
+	=%100%steel#
+}

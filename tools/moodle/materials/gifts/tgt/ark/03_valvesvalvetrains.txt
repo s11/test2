@@ -1,0 +1,81 @@
+//name:TQ1496
+::TQ1496::What is the purpose of the shroud on some diesel inlet valves?{
+	=To promote turbulence in a diesel engine intake system.#It directs the incoming air into a swirling pattern that ensures the cylinder can be completely filled with incoming air.
+	~To promote turbulence in a gasoline/petrol engine.#It directs the incoming air into a swirling pattern that ensures the cylinder can be completely filled with incoming air.
+	~To promote turbulence in a two stroke engine.#It directs the incoming air into a swirling pattern that ensures the cylinder can be completely filled with incoming air.
+	~To promote turbulence in a diesel engine exhaust system.#It directs the incoming air into a swirling pattern that ensures the cylinder can be completely filled with incoming air.
+}
+
+
+//name:TQ1497
+::TQ1497::The exhaust valve seat is made wider than the inlet valve seat because:{
+	=the exhaust valve seat is subject to higher temperatures in operation.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+	~the seat pressure is higher.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+	~the intake valve is cooled by incoming mixture.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+	~a wider seat allows the use of high-lift cams.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+}
+
+
+//name:TQ1498
+::TQ1498::Oil is more likely to pass down the inlet valve stem than the exhaust because:{
+	=of low pressure created in the inlet ports.#Inlet valves are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder.
+	~the inlet valve runs cooler.#Inlet valves are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder.
+	~the inlet valve has more stem clearance.#Inlet valves are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder.
+	~the inlet valve is exposed to fuel.#Inlet valves are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder.
+}
+
+
+//name:TQ1499
+::TQ1499::Which parts are separated by valve clearance or valve lash?{
+	=The valve tip and the valve train.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+	~The pushrod and the rocker arm.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+	~The valve stem and the valve guide.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+	~The valve and the valve retainer.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+}
+
+
+//name:TQ1500
+::TQ1500::Inlet and exhaust valves are generally located in the:{
+	=cylinder head.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+	~inlet and exhaust manifolds.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+	~cylinder block.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+	~crankcase.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+}
+
+
+//name:TQ1501
+::TQ1501::Technician A says that valve overlap is the number of degrees of camshaft rotation when both valves are closed simultaneously. Technician B says that valve overlap is the number of degrees of crankshaft rotation when both valves are open simultaneously. Who is correct?{
+	~Technician A.#Technician B is correct as valve overlap is defined in crankshaft rotational degrees and always infers the degrees of rotation when the both valves are open.
+	=Technician B.#Technician B is correct as valve overlap is defined in crankshaft rotational degrees and always infers the degrees of rotation when the both valves are open.
+	~Both Technician A & Technician B.#Technician B is correct as valve overlap is defined in crankshaft rotational degrees and always infers the degrees of rotation when the both valves are open.
+	~Neither Technician A or Technician B.#Technician B is correct as valve overlap is defined in crankshaft rotational degrees and always infers the degrees of rotation when the both valves are open.
+}
+
+
+//name:TQ1502
+::TQ1502::Valve seat inserts that match the shape of the valve are commonly made from:{
+	=hardened iron alloy.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+	~polished aluminum.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+	~cast iron.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+	~teflon coated aluminum alloy.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+}
+
+
+//name:TQ1503
+::TQ1503::Why are intake valves usually larger than exhaust valves?{
+	=Air-fuel mixture is under lower pressure than exhaust gases.#They are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder. Exhaust gases under pressure need much less space.
+	~Larger intake ports ensure better mixing of air and fuel.#They are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder. Exhaust gases under pressure need much less space.
+	~After combustion, the volume of exhaust is less than the volume of air-fuel mixture.#They are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder. Exhaust gases under pressure need much less space.
+	~Intake has to occur in less time. Evacuating the exhaust gases can be done more slowly.#They are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder. Exhaust gases under pressure need much less space.
+}
+
+
+//name:TQ1504
+::TQ1504::What is valve overlap?{
+	=The amount of time both intake and exhaust valves are open at the same time.#Less overlap produces a smooth idle and more slow speed torque. More valve overlap allows better engine breathing at high speeds.
+	~The amount of time between the intake valves closing and the exhaust valves opening.#Less overlap produces a smooth idle and more slow speed torque. More valve overlap allows better engine breathing at high speeds.
+	~The distance between the position of a valve when open and when closed.#Less overlap produces a smooth idle and more slow speed torque. More valve overlap allows better engine breathing at high speeds.
+	~The distance that a valve protrudes into the combustion chamber when fully open.#Less overlap produces a smooth idle and more slow speed torque. More valve overlap allows better engine breathing at high speeds.
+}
+
+

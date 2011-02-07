@@ -1,0 +1,54 @@
+//name:TQ1012
+::TQ1012::The type of solder that incorporates the flux is referred to as:{
+	=rosin cored solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+	~cored solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+	~flux cored solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+	~tinning solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+}
+
+
+//name:TQ1013
+::TQ1013::Technician A says that solder typically used in automotive electrical applications is 40% Tin and 60% lead.  Technician B says a better solder joint is achieved if the wires are not twisted before placing them through the terminal.  Who is correct?{
+	~Technician A.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+	=Technician B.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+	~Both Technician A & Technician B.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+	~Neither Technician A or Technician B.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+}
+
+
+//name:TQ1014
+::TQ1014::Technician A says that removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Technician B says removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.  Who is correct?{
+	~Technician A.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+	~Technician B.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+	=Both Technician A & Technician B.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+	~Neither Technician A or Technician B.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+}
+
+
+//name:TQ1015
+::TQ1015::The most effective and safest tool to use to strip insulation from electrical wire is a:{
+	=set of wire strippers.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+	~knife.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+	~set of side cutters.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+	~set of combination pliers.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+}
+
+
+//name:TQ1016
+::TQ1016::Technician A says that when installing a terminal to electrical wire the stripped wire should protrude out the end of the terminal. Technician B says color coded terminals indicate which anvil to crimp the terminal with.  Who is correct?{
+	~Technician A.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+	=Technician B.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+	~Both Technician A & Technician B.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+	~Neither Technician A or Technician B.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+}
+
+
+//name:TQ1017
+::TQ1017::When installing wire into a terminal it is important the stripped part of the wire:{
+	=does not extend beyond the insulated part of the terminal. #When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+	~should protrude out the end of the terminal.#When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+	~does not contact any part of the terminal#When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+	~does not contact any part of the insulator.#When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+}
+
+

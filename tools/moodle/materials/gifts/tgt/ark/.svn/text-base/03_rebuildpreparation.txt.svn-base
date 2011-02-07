@@ -1,0 +1,27 @@
+//name:TQ1536
+::TQ1536::When removing the engine from a vehicle, one of the first things you need is:{
+	=to understand and observe all legislative requirements.#Make sure that you understand and observe all legislative and personal safety procedures when carrying out the following tasks. If you are unsure of what these are, ask your supervisor.
+	~to have a current workshop manual available for the vehicle.#Make sure that you understand and observe all legislative and personal safety procedures when carrying out the following tasks. If you are unsure of what these are, ask your supervisor.
+	~for safety concerns, the transmission should not be removed with the engine assembly.#Make sure that you understand and observe all legislative and personal safety procedures when carrying out the following tasks. If you are unsure of what these are, ask your supervisor.
+	~for safety concerns, the transmission must be removed with the engine assembly.#Make sure that you understand and observe all legislative and personal safety procedures when carrying out the following tasks. If you are unsure of what these are, ask your supervisor.
+}
+
+
+//name:TQ1537
+::TQ1537::When removing the engine, you will need to raise the front wheels off the ground.  What should you do to the back wheels?{
+	=Place wheel chocks against them.#Put the vehicle where you have room to remove the engine, ready to raise the front of the vehicle and secure it onto jack stands when necessary, with wheel chocks against the rear wheels.
+	~Raise them off the floor by the same amount.#Put the vehicle where you have room to remove the engine, ready to raise the front of the vehicle and secure it onto jack stands when necessary, with wheel chocks against the rear wheels.
+	~Deflate the tires and apply the handbrake.#Put the vehicle where you have room to remove the engine, ready to raise the front of the vehicle and secure it onto jack stands when necessary, with wheel chocks against the rear wheels.
+	~Remove them and lower the rear of the vehicle.#Put the vehicle where you have room to remove the engine, ready to raise the front of the vehicle and secure it onto jack stands when necessary, with wheel chocks against the rear wheels.
+}
+
+
+//name:TQ1538
+::TQ1538::When working around the engine prior to dismantling, safety clothing and equipment (especially gloves) must be worn to:{
+	=prevent the absorption of dangerous chemical through the skin.#Oils, solvents, and sealers, are dangerous chemicals which can be absorbed through your unprotected skin, so wear suitable gloves when handling any chemicals, or any components or tools coated in chemicals. The grease and dirt will then come off as easily as the gloves.
+	~help keep your tools clean so as not to lose grip.#Oils, solvents, and sealers, are dangerous chemicals which can be absorbed through your unprotected skin, so wear suitable gloves when handling any chemicals, or any components or tools coated in chemicals. The grease and dirt will then come off as easily as the gloves.
+	~keep your hands clean from impregnated dirt and grease.#Oils, solvents, and sealers, are dangerous chemicals which can be absorbed through your unprotected skin, so wear suitable gloves when handling any chemicals, or any components or tools coated in chemicals. The grease and dirt will then come off as easily as the gloves.
+	~allow you to remove them when you refer to the workshop manual, thus maintaining cleanliness.#Oils, solvents, and sealers, are dangerous chemicals which can be absorbed through your unprotected skin, so wear suitable gloves when handling any chemicals, or any components or tools coated in chemicals. The grease and dirt will then come off as easily as the gloves.
+}
+
+

@@ -1,0 +1,45 @@
+//name:TQ1382
+::TQ1382::What skills do you need when receiving instructions?{
+	=All of these things.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+	~Active listening.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+	~Listening feedback.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+	~Speaking and questioning.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+}
+
+
+//name:TQ1383
+::TQ1383::Which statement is TRUE?{
+	=All of these answers.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+	~A good team player needs to be committed to the team goal.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+	~Working in a team allows us to learn new things from others.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+	~Good communication helps a team to work together efficiently.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+}
+
+
+//name:TQ1384
+::TQ1384::What is the customer 's primary objective when bringing their vehicle in for a service?{
+	=All of these answers.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+	~Having the task done in a reasonable time frame.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+	~Having the task done correctly the first time.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+	~Having the task done at an appropriate cost.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+}
+
+
+//name:TQ1385
+::TQ1385::Which statement is TRUE?{
+	=Our customer service can influence people to choose us over our competitors.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+	~Internal customers are outside our organization.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+	~External customers are in the same organization with us.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+	~All of these answers.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+}
+
+
+//name:TQ1386
+::TQ1386::Which statement is FALSE?{
+	=People tend to believe our verbal message over the non-verbal one.#Non-verbal cues are much stronger than verbal messaging.
+	~Non-verbal language can add meanings to our verbal language.#Non-verbal cues are much stronger than verbal messaging.
+	~We can't rely on non-verbal clues alone when we're communicating.#Non-verbal cues are much stronger than verbal messaging.
+	~None of these answers.#Non-verbal cues are much stronger than verbal messaging.
+}
+
+

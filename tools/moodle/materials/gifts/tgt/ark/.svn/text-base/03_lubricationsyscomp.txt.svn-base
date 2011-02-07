@@ -1,0 +1,135 @@
+//name:TQ1677
+::TQ1677::Some oil coolers have oil tubes that pass through fins which are placed in the air stream as the vehicle moves. What is this type of cooler called?{
+	=An oil-to-air heat exchanger.#Oil gets very hot and many engines are fitted with oil coolers. Some types of oil coolers have oil tubes which pass through fins in a similar way to how coolant radiators work. These are placed in the air stream as the vehicle moves forward and are known as 'oil-to-air' oil coolers. Another type is where the oil tubes are passed through an 'oil-to-coolant' device known as a heat exchanger.
+	~An oil-to-oil cooler.#Oil gets very hot and many engines are fitted with oil coolers. Some types of oil coolers have oil tubes which pass through fins in a similar way to how coolant radiators work. These are placed in the air stream as the vehicle moves forward and are known as 'oil-to-air' oil coolers. Another type is where the oil tubes are passed through an 'oil-to-coolant' device known as a heat exchanger.
+	~An airflow heat exchanger.#Oil gets very hot and many engines are fitted with oil coolers. Some types of oil coolers have oil tubes which pass through fins in a similar way to how coolant radiators work. These are placed in the air stream as the vehicle moves forward and are known as 'oil-to-air' oil coolers. Another type is where the oil tubes are passed through an 'oil-to-coolant' device known as a heat exchanger.
+	~An air-to-coolant oil cooler.#Oil gets very hot and many engines are fitted with oil coolers. Some types of oil coolers have oil tubes which pass through fins in a similar way to how coolant radiators work. These are placed in the air stream as the vehicle moves forward and are known as 'oil-to-air' oil coolers. Another type is where the oil tubes are passed through an 'oil-to-coolant' device known as a heat exchanger.
+}
+
+
+//name:TQ1678
+::TQ1678::The purpose of the by-pass valve in an oil filter is to:{
+	=allow oil to by-pass the filter when necessary.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally fitted with a by-pass valve to ensure that if the filter becomes blocked, an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~send some oil to the by-pass filter.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally fitted with a by-pass valve to ensure that if the filter becomes blocked, an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~prevent high oil pressure developing.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally fitted with a by-pass valve to ensure that if the filter becomes blocked, an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~direct by-passed oil to the sump.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally fitted with a by-pass valve to ensure that if the filter becomes blocked, an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+}
+
+
+//name:TQ1679
+::TQ1679::Which is the most common oil filtering system employed on automotive vehicles?{
+	=Full flow.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~By-Pass.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~Half-pass.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~Treble-pass.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+}
+
+
+//name:TQ1680
+::TQ1680::The red oil light comes on during driving. This indicates:{
+	=the oil pressure is below normal.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+	~the oil pressure is too high.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+	~the oil pan is short of oil.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+	~the engine oil needs changing.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+}
+
+
+//name:TQ1681
+::TQ1681::What is the function of the relief valve in the engine's lubricating system?{
+	=To protect the lubricating system against excessive oil pressure.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~To thin out the oil in cold weather.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~To boost the oil pressure.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~All of these.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+}
+
+
+//name:TQ1682
+::TQ1682::Which component in the lubrication system regulates the oil pressure?{
+	=The pressure relief valve.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~The oil pump.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~The filter by-pass valve.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~The by-pass filter.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+}
+
+
+//name:TQ1683
+::TQ1683::Which device controls the pressure of the oil coming directly from the oil pump?{
+	=The pressure relief valve.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~The pump valve.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~The regulator valve.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+	~The oil pressure switch.#Many lubrication systems are provided with a relief valve. Its purpose is to protect and regulate the lubricating system against excessive oil pressure when the engine is operating under particular conditions (such as when it is in the warm up cycle). When it operates, the relief valve allows oil past it and returns it directly back to the sump.
+}
+
+
+//name:TQ1684
+::TQ1684::Technician A says a plugged oil filter can be a cause of high oil pressure. Technician B says that a stuck relief valve can be a cause of high oil pressure. Who is right?{
+	~Technician A.#Technician B is correct as plugged oil filters enter a bypass condition that does not raise oil pressure. A stuck closed relief valve can however cause excessive oil pressure readings.
+	=Technician B.#Technician B is correct as plugged oil filters enter a bypass condition that does not raise oil pressure. A stuck closed relief valve can however cause excessive oil pressure readings.
+	~Both Technician A & Technician B.#Technician B is correct as plugged oil filters enter a bypass condition that does not raise oil pressure. A stuck closed relief valve can however cause excessive oil pressure readings.
+	~Neither Technician A or Technician B.#Technician B is correct as plugged oil filters enter a bypass condition that does not raise oil pressure. A stuck closed relief valve can however cause excessive oil pressure readings.
+}
+
+
+//name:TQ1685
+::TQ1685::Which component acts as a reservoir of oil for the engine?{
+	=The sump or oil pan.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+	~The rocker cover.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+	~The crankcase.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+	~The cylinder block.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+}
+
+
+//name:TQ1686
+::TQ1686::One of the functions of the sump is to act as a:{
+	=reservoir of oil for the engine.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+	~the rocker cover.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+	~the crankcase.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+	~the cylinder block.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+}
+
+
+//name:TQ1687
+::TQ1687::The oil collection pan is part of the:{
+	=dry sump system.#An oil collection pan is used in some dry sump systems.
+	~wet sump system.#An oil collection pan is used in some dry sump systems.
+	~cooling system.#An oil collection pan is used in some dry sump systems.
+	~fueling system.#An oil collection pan is used in some dry sump systems.
+}
+
+
+//name:TQ1688
+::TQ1688::The oil tank receives oil from the scavenge pump and allows it to:{
+	=settle and cool.#The oil tank is found in dry sump systems.
+	~clean and dry.#The oil tank is found in dry sump systems.
+	~settle and heat.#The oil tank is found in dry sump systems.
+	~filter and cool.#The oil tank is found in dry sump systems.
+}
+
+
+//name:TQ1689
+::TQ1689::Which of the following is found at the end of the pick up tube?{
+	=Strainer.#A pick up tube is used in addition to the oil pump to lift oil from the sump.
+	~Cooler.#A pick up tube is used in addition to the oil pump to lift oil from the sump.
+	~Heater.#A pick up tube is used in addition to the oil pump to lift oil from the sump.
+	~Drainer.#A pick up tube is used in addition to the oil pump to lift oil from the sump.
+}
+
+
+//name:TQ1690
+::TQ1690::The job of the oil pump is to:{
+	=deliver oil under pressure to internal engine parts.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+	~create a vacuum in the oil sump.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+	~heat the lubricating oil.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+	~filter and clean the engine oil.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+}
+
+
+//name:TQ1691
+::TQ1691::Oil is sprayed onto strategic parts of the engine. It is used to lubricate and:{
+	=cool.#Oil is pumped around the engine under pressure through galleries and spurt holes to various internal components.
+	~clean.#Oil is pumped around the engine under pressure through galleries and spurt holes to various internal components.
+	~aerate.#Oil is pumped around the engine under pressure through galleries and spurt holes to various internal components.
+	~combust.#Oil is pumped around the engine under pressure through galleries and spurt holes to various internal components.
+}
+
+

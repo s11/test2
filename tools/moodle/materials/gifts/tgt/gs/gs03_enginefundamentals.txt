@@ -1,0 +1,91 @@
+//name:TQ1412
+::TQ1412::What are the five key events of an internal combustion engine?{
+	=Intake, Compression, Ignition, Power & Exhaust.#These 5 key events are common to all internal combustion engines.
+	~Intake, Combustion, Ignition, Power, & Exhaust.#These 5 key events are common to all internal combustion engines.
+	~Input, Power, Ignition, Compression, & Exhaust.#These 5 key events are common to all internal combustion engines.
+	~Intake, Compression, Ignition, Combustion & Exhaust.#These 5 key events are common to all internal combustion engines.
+}
+
+
+//name:TQ1413
+::TQ1413::Both intake and exhaust valves are closed during the compression and power strokes.{
+	=TRUE#The intake valve is only open during the intake stroke, and the exhaust valve is only open during the exhaust stroke.
+	~FALSE#The intake valve is only open during the intake stroke, and the exhaust valve is only open during the exhaust stroke.
+}
+
+
+//name:TQ1414
+::TQ1414::In one 4-stroke cycle, how many strokes produce energy to turn the crankshaft?{
+	=One stroke.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+	~Two strokes.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+	~Four strokes.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+	~Three strokes.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+}
+
+
+//name:TQ1415
+::TQ1415::A spark plug ignites the air-fuel mixture. This is called:{
+	=combustion.#The piston compresses the air-fuel mixture into a smaller volume before the spark plug ignites it.
+	~compression.#The piston compressions the air-ful mixture into a smaller volum before the spark plug ignites it.
+	~power.#The piston compressions the air-ful mixture into a smaller volum before the spark plug ignites it.
+	~intake.#The piston compressions the air-ful mixture into a smaller volum before the spark plug ignites it.
+}
+
+
+//name:TQ1416
+::TQ1416::The reciprocating action of the piston turns into the _______ motion of the crankshaft.{
+	=rotary#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+	~oscillating#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+	~repetitive#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+	~elliptical#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+}
+
+
+//name:TQ1422
+::TQ1422::In a 2-stroke gasoline engine, the transfer port connects:{
+	=the crankcase with the cylinder.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+	~the inlet manifold with the crankcase.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+	~the crankcase with the exhaust manifold.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+	~the pressure relief valve with the crankcase.#As the piston rises, it closes the transfer port and compresses the airfuel mixture in the cylinder.  As the piston descends during combustion, it compresses the airfuel mixture in the crankcase and uncovers the transfer port forcing fresh airfuel mixture up into the cylinder.
+}
+
+
+//name:TQ1432
+::TQ1432::Although it looks different, the rotary engine still has the 5 key events of internal combustion engines.{
+	=TRUE#The rotary engine is very powerful for its size. It uses a rotor instead of pistons, but it is still an internal combustion engine so it uses the five events.
+	~FALSE#The rotary engine is very powerful for its size. It uses a rotor instead of pistons, but it is still an internal combustion engine so it uses the five events.
+}
+
+
+//name:TQ1463
+::TQ1463::Diesel engine parts are usually lighter and less rugged than those of similar output gasoline engines. {
+	=FALSE#Diesel engine parts are usually heavier or more rugged than those of similar output gasoline engines because of the high pressures and stresses in the engines
+	~TRUE#Diesel engine parts are usually heavier or more rugged than those of similar output gasoline engines because of the high pressures and stresses in the engines
+}
+
+
+//name:TQ1464
+::TQ1464::Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Why is this?{
+	=Diesel engine compression ratios are higher, and they are often designed to out-last gasoline engines.#Diesel blocks are usually made of cast iron, and heavier than in a gasoline engine, to withstand the greater cylinder compression ratios.
+	~Diesel engine engine parts are usually lighter and less rugged than those of similar output gasoline engines.#Diesel blocks are usually made of cast iron, and heavier than in a gasoline engine, to withstand the greater cylinder compression ratios.
+	~Diesel engine compression ratios are lower, and they are often designed to out-last gasoline engines.#Diesel blocks are usually made of cast iron, and heavier than in a gasoline engine, to withstand the greater cylinder compression ratios.
+	~Diesel engine engine parts are usually heavier and less rugged than those of similar output gasoline engines.#Diesel blocks are usually made of cast iron, and heavier than in a gasoline engine, to withstand the greater cylinder compression ratios.
+}
+
+
+//name:TQ1460
+::TQ1460::Why are diesel engines also known as compression ignition engines?{
+	=The heat produced by compresssing the air ignites the fuel.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+	~Ignition occurs at the beginning of the compression stroke.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+	~The fuel-air mixture is compressed by the ignition process.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+	~Compressed air is injected into the combustion chamber.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+}
+
+
+//name:TQ1486
+::TQ1486::The connecting rod connects the piston to the:{
+	=crankshaft.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+	~camshaft.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+	~bearing.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+	~gudgeon pin.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+}

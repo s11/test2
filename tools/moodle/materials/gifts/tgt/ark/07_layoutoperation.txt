@@ -1,0 +1,88 @@
+//name:TQ0831
+::TQ0831::Kick-down changes are useful when short bursts of acceleration are required.{
+	=TRUE#As road speed rises governor pressure will increase and since it is acting on the large differential area on the bottom land it will eventually become high enough to force the valve upwards and overcome kick-down pressure. This keeps engine RPM within safe limits in the automatic range.
+	~FALSE#As road speed rises governor pressure will increase and since it is acting on the large differential area on the bottom land it will eventually become high enough to force the valve upwards and overcome kick-down pressure. This keeps engine RPM within safe limits in the automatic range.
+}
+
+
+//name:TQ0832
+::TQ0832::What does the selection of 'D' indicate in an automatic gear change selection?{
+	=The vehicle will operate in a fully automatic mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+	~The vehicle will operate in a partially automatic mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+	~The vehicle will operate in forward 2nd gear only mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+	~The vehicle will operate in forward 3rd gear only mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+}
+
+
+//name:TQ0833
+::TQ0833::In a Borg Warner 35 transmission the two components engaged to provide second gear are the:{
+	=front clutch and front band.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+	~front clutch and rear clutch.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+	~rear clutch and rear band.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+	~rear clutch and front band.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+}
+
+
+//name:TQ0834
+::TQ0834::In a Borg Warner 35 type automatic transmission when the front band is applied the gear member that is held stationary is the:{
+	=secondary sun gear.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+	~ring gear.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+	~planet carrier.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+	~primary sun gear.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+}
+
+
+//name:TQ0835
+::TQ0835::In a Borg Warner 35 type transmission the one-way clutch holds effectively in:{
+	=drive range first gear.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+	~reverse gear.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+	~drive range second gear.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+	~first gear - 1 selected.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+}
+
+
+//name:TQ0836
+::TQ0836::Locking the sun gears together in a gear set containing two sun gears would produce:{
+	=direct drive.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+	~low ratio.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+	~reverse ratio.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+	~transmission lock-up.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+}
+
+
+//name:TQ0837
+::TQ0837::When is the front clutch of a Borg Warner 35 type transmission activated?{
+	=in all forward gear ratios.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+	~In reverse gear ratio only.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+	~In 1 and 2 forward gear ratios only.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+	~In 1 and reverse gear ratios only.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+}
+
+
+//name:TQ0838
+::TQ0838::If the transmission selector is moved to the 1st gear position when the vehicle is cruising:{
+	=an immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. #An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+	~an immediate down change to 1st gear will occur. #An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+	~1st gear will be selected only after the vehicle stops.#An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+	~nothing will happen until the throttle is depressed.#An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+}
+
+
+//name:TQ0839
+::TQ0839::How many major components are there in a Ravigneaux gear set?{
+	=There are 5, consisting of 2 sun gears, 2 pinion sets and 1 ring gear. #A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+	~There are 4 consisting of 2 sun gears, 1 pinion set and 1 ring gear #A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+	~There are 3 consisting of 1 sun gear, 1 pinion sets and 1 ring gear.#A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+	~There are 6 consisting of 2 sun gears, 2 pinion sets and 2 ring gears.#A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+}
+
+
+//name:TQ0840
+::TQ0840::In a Borg Warner 35 type transmission in selector lever position 1:{
+	=the front clutch and the rear band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+	~the front clutch and the front band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+	~the rear clutch and the front band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+	~the rear clutch and the rear band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+}
+
+

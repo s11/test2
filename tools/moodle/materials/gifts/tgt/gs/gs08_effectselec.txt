@@ -1,0 +1,43 @@
+//name:TQ0966
+::TQ0966::A positive ion is created during electrolysis by:{
+	=removing electrons.#A lack or removal of electrons creates a positive charge.
+	~adding electrons.#A lack or removal of electrons creates a positive charge.
+	~adding protons.#A lack or removal of electrons creates a positive charge.
+	~removing protons.#A lack or removal of electrons creates a positive charge.
+}
+
+
+//name:TQ0967
+::TQ0967::By removing electrons during a chemical reaction:{
+	=a positive ion is created.#A lack or removal of electrons creates a positive charge.
+	~electrons are added.#A lack or removal of electrons creates a positive charge.
+	~protons are added.#A lack or removal of electrons creates a positive charge.
+	~protons are removed.#A lack or removal of electrons creates a positive charge.
+}
+
+
+//name:TQ0968
+::TQ0968::The current flow in a lead acid battery flows in one direction only. What is this called?{
+	=Direct Current or DC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+	~Alternating Current or AC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+	~Positive Current or PC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+	~Negative Current or NC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+}
+
+
+//name:TQ0970
+::TQ0970::What is an example of the heating effects of electricity?{
+	=All of these.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+	~A headlight bulb.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+	~A rear window demister.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+	~Circuit protection from excessive current flow.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+}
+
+
+//name:TQ0971
+::TQ0971::Electricity can have a magnetic effect.{
+	=TRUE#Current passed through a coil of wire creates a magnetic field. Turning the current on and off can activate a mechanical relay, or create the rotary motion of an electric motor, such as a starter motor.
+	~FALSE#Current passed through a coil of wire creates a magnetic field. Turning the current on and off can activate a mechanical relay, or create the rotary motion of an electric motor, such as a starter motor.
+}
+
+

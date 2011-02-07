@@ -1,0 +1,44 @@
+//name:TQ1440
+::TQ1440::In a conventional 4-stroke cycle internal combustion engine, the compression stroke and the power, or expansion stroke, are often referred to as symmetrical. This limits the engine's efficiency and engines with modified cycles are now being used in cars. How is this achieved?{
+	=The Miller Cycle and the Atkinson Cycle overcome this by using valve timing variations to make the effective compression and expansion strokes asymmetrical. This means that the effective stroke of the engine can be changed by valve overlap variations.#In the Miller cycle the intake valve is left open longer than it normally would be. This is the 'fifth' cycle that the Miller cycle introduces. As the piston moves back up in what is normally the compression stroke, the charge is being pushed back out the normally closed valve. The Atkinson cycle may also refer to a four stroke engine in which the intake valve is held open longer than normal to allow a reverse flow into the intake manifold.
+	~The Miller Cycle and the Atkinson Cycle overcome this by using valve timing variations to make the effective compression and expansion strokes asymmetrical. This means that the effective stroke of the engine can be changed by lengthening the piston shape.#In the Miller cycle the intake valve is left open longer than it normally would be. This is the 'fifth' cycle that the Miller cycle introduces. As the piston moves back up in what is normally the compression stroke, the charge is being pushed back out the normally closed valve. The Atkinson cycle may also refer to a four stroke engine in which the intake valve is held open longer than normal to allow a reverse flow into the intake manifold.
+	~The Miller Cycle and the Atkinson Cycle overcome this by changing the stroke of the engine as a result of an alteration to the crankshaft shape.#In the Miller cycle the intake valve is left open longer than it normally would be. This is the 'fifth' cycle that the Miller cycle introduces. As the piston moves back up in what is normally the compression stroke, the charge is being pushed back out the normally closed valve. The Atkinson cycle may also refer to a four stroke engine in which the intake valve is held open longer than normal to allow a reverse flow into the intake manifold.
+}
+
+
+//name:TQ1441
+::TQ1441::What is the Miller Cycle a variation of?{
+	=The traditional four-stroke spark ignition engine.#The Miller Cycle engine uses valve timing variations to make the effective compression and expansion strokes asymmetrical.
+	~The Sarich Orbital two-stroke spark ignition engine.#The Miller Cycle engine uses valve timing variations to make the effective compression and expansion strokes asymmetrical.
+	~The rotary spark ignition engine.#The Miller Cycle engine uses valve timing variations to make the effective compression and expansion strokes asymmetrical.
+	~The Rensis rotary spark ignition engine.#The Miller Cycle engine uses valve timing variations to make the effective compression and expansion strokes asymmetrical.
+}
+
+
+//name:TQ1442
+::TQ1442::What is the Atkinson Cycle engine a variation of?{
+	=The traditional four-stroke spark ignition engine.#The Atkinson Cycle engine is efficient within a specific operating range, typically between 2000 and 4500 RPM, but its power output and torque are lower than a conventional engine. 
+	~The Rensis direct injection two-stroke spark ignition engine.#The Atkinson Cycle engine is efficient within a specific operating range, typically between 2000 and 4500 RPM, but its power output and torque are lower than a conventional engine. 
+	~The gas turbine engine.#The Atkinson Cycle engine is efficient within a specific operating range, typically between 2000 and 4500 RPM, but its power output and torque are lower than a conventional engine. 
+	~The Sarich Orbital engine.#The Atkinson Cycle engine is efficient within a specific operating range, typically between 2000 and 4500 RPM, but its power output and torque are lower than a conventional engine. 
+}
+
+
+//name:TQ1443
+::TQ1443::Both the Miller and Atkinson engines operate on the same principle but with one major difference. What is it?{
+	=The Miller Cycle engine adds an engine driven compressor to the intake system to boost power output when required.#Both the Miller and Atkinson Cycle engines use a large throttle opening, but induce a small amount of air. This results in lower manifold vacuum, reduced pumping losses, and increased efficiency.
+	~The Atkinson engine has a direct injection system.#Both the Miller and Atkinson Cycle engines use a large throttle opening, but induce a small amount of air. This results in lower manifold vacuum, reduced pumping losses, and increased efficiency.
+	~The Miller engine has a direct injection system.#Both the Miller and Atkinson Cycle engines use a large throttle opening, but induce a small amount of air. This results in lower manifold vacuum, reduced pumping losses, and increased efficiency.
+	~The Atkinson Cycle engine adds an engine driven compressor to the intake system to boost power output when required.#Both the Miller and Atkinson Cycle engines use a large throttle opening, but induce a small amount of air. This results in lower manifold vacuum, reduced pumping losses, and increased efficiency.
+}
+
+
+//name:TQ1444
+::TQ1444::Miller and Atkinson engines are said to operate more efficiently. Do they have a disadvantage? {
+	=They produce a lower power output for a given engine capacity. #The narrow range of speeds over which these engines are efficient make them less useful as a primary power source, but ideal in applications such as a series-parallel hybrid vehicle, charging and working in tandem with a battery-driven electric motor.
+	~They need a lower compression ratio to operate.#The narrow range of speeds over which these engines are efficient make them less useful as a primary power source, but ideal in applications such as a series-parallel hybrid vehicle, charging and working in tandem with a battery-driven electric motor.
+	~They are at their most inefficient between 2000 and 4500 RPM.#The narrow range of speeds over which these engines are efficient make them less useful as a primary power source, but ideal in applications such as a series-parallel hybrid vehicle, charging and working in tandem with a battery-driven electric motor.
+	~The effective compression stroke is reduced by shortening the closing time of the intake valve. #The narrow range of speeds over which these engines are efficient make them less useful as a primary power source, but ideal in applications such as a series-parallel hybrid vehicle, charging and working in tandem with a battery-driven electric motor.
+}
+
+

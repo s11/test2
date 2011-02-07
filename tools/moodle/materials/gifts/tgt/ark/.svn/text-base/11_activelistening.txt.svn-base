@@ -1,0 +1,41 @@
+//name:TQ1371
+::TQ1371::Listening is a three-step process. {
+	=FALSE#Listening is a two-step process. The first step is to look and hear, the second step is to check and analyze.
+	~TRUE#Listening is a two-step process. The first step is to look and hear, the second step is to check and analyze.
+}
+
+
+//name:TQ1372
+::TQ1372::What is NOT the role of a listener in the communication process?{
+	=Being an observer.#The listener's role during the communication process is not observation, rather it should be listening.
+	~Welcome the speaker.#The listener's role during the communication process is not observation, rather it should be listening.
+	~Let the speaker know that their message is understood.#The listener's role during the communication process is not observation, rather it should be listening.
+	~Show empathy.#The listener's role during the communication process is not observation, rather it should be listening.
+}
+
+
+//name:TQ1373
+::TQ1373::Which statement is FALSE?{
+	=We cannot empathize with someone unless we agree with them.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+	~Empathy helps us overcome mental barriers.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+	~To empathize with someone is to see the situation from their point of view.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+	~When we empathize with someone, we acknowledge their positions, feelings and concerns.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+}
+
+
+//name:TQ1374
+::TQ1374::Which statement is FALSE?{
+	=We need to show empathy only when we're listening, not speaking.#Empathy is communicated through spoken words and body language.
+	~We should think before we speak.#Empathy is communicated through spoken words and body language.
+	~We shouldn't make assumptions about listeners.#Empathy is communicated through spoken words and body language.
+	~Our message should be clear and precise.#Empathy is communicated through spoken words and body language.
+}
+
+
+//name:TQ1375
+::TQ1375::As a listener and active participant, we can encourage the flow of a conversation.{
+	=TRUE#We can encourage the flow of communication by welcoming the speaker, letting them know that we understand their message, and acknowledging their feelings and concerns.
+	~FALSE#We can encourage the flow of communication by welcoming the speaker, letting them know that we understand their message, and acknowledging their feelings and concerns.
+}
+
+

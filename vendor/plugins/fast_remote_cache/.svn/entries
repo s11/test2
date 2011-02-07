@@ -1,0 +1,70 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/fast_remote_cache
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+LICENSE
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+f8de07e17402a5d3d755c028f439e68e
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+README.rdoc
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+d11768fc64956fe10b5d71947602cfa4
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+674cbb7a806a3aedf68a4a5bb3c2e760
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+lib
+dir
+
+recipes
+dir
+

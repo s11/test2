@@ -1,0 +1,103 @@
+//name:TQ0587
+::TQ0587::The center of gravity is the balance point of the entire vehicle, but its actual position depends on:{
+	=location of major components and it's always located above the road surface.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+	~location of minor components and in most cases it's located just above the road surface.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+	~location of some components and in most cases it's located just above the road surface.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+	~location of some components.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+}
+
+
+//name:TQ0588
+::TQ0588::The main function of grooves in the tread pattern is to:{
+	=clear water from the contact patch.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~reduce road noise intrusion.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~indicate when the tire is worn out.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~increase traction on dry surfaces.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+}
+
+
+//name:TQ0589
+::TQ0589::Tubeless tires have no inner tubes because they have:{
+	=a soft-rubber inner-casing liner.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~high-tensile steel beads.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~an increased number of casing plies.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~a special outer-casing compound.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+}
+
+
+//name:TQ0590
+::TQ0590::In radial tires the bracing belt cords run:{
+	=15¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~40¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~70¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~90¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+}
+
+
+//name:TQ0591
+::TQ0591::Radial ply tires have:{
+	=softer sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~larger sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~smaller sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~stiffer sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+}
+
+
+//name:TQ0592
+::TQ0592::An onboard vehicle tire pressure monitoring system (TPMS) is normally mandatory for all RFT applications?{
+	=TRUE#If any one of the tire's pressure or temperature is out of the range of the rated value, the host system will receive the wireless messages from the extensions and make the corresponding sound, digital or figure display in order to caution the driver of the conditions at the time. This ensures safety of the driver, the passengers and the automobile. A law was passed by the America National Highway Traffic Safety Administration that from November 2006 onwards all vehicles sold in America must be equipped with a tire pressure monitoring system. 
+	~FALSE#If any one of the tire's pressure or temperature is out of the range of the rated value, the host system will receive the wireless messages from the extensions and make the corresponding sound, digital or figure display in order to caution the driver of the conditions at the time. This ensures safety of the driver, the passengers and the automobile. A law was passed by the America National Highway Traffic Safety Administration that from November 2006 onwards all vehicles sold in America must be equipped with a tire pressure monitoring system. 
+}
+
+
+//name:TQ0593
+::TQ0593::When changing run flat tires on a wheel assembly special equipment is needed because of the way the tire is constructed.{
+	=TRUE#Run flat tires incorporate an inner hard rim ring that prevents the tire from collapsing on the rim. Specialized procedures an tools are required.
+	~FALSE#Run flat tires incorporate an inner hard rim ring that prevents the tire from collapsing on the rim. Specialized procedures an tools are required.
+}
+
+
+//name:TQ0594
+::TQ0594::Why are many vehicles only provided with an emergency space saver spare wheel?{
+	=The change in vehicle body design only allows this arrangement.#Many vehicles are only provided with an emergency space saver spare wheel because the vehicle body design only allows this arrangement. In fact some vehicles are provided with no spare wheels and are fitted with run flat tires.
+	~Vehicle body design legislation dictates this arrangement.#Many vehicles are only provided with an emergency space saver spare wheel because the vehicle body design only allows this arrangement. In fact some vehicles are provided with no spare wheels and are fitted with run flat tires.
+	~Manufacturers save money by only supplying a space saver wheel.#Many vehicles are only provided with an emergency space saver spare wheel because the vehicle body design only allows this arrangement. In fact some vehicles are provided with no spare wheels and are fitted with run flat tires.
+}
+
+
+//name:TQ0595
+::TQ0595::When a tire is marked as 'Temporary Use Only', this means:{
+	=it is only suitable to use as a spare tire to move the vehicle to a safe place while the original tire is repaired.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+	~it can only be used for a short term.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+	~it is not recommended for high speed driving.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+	~it does not have an inner tube.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+}
+
+
+//name:TQ0596
+::TQ0596::During cornering, centrifugal force acts on a vehicle to produce:{
+	=side force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+	~upward force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+	~downward force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+	~cross force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+}
+
+
+//name:TQ0597
+::TQ0597::Technician A says tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed. Technician B says the tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle, however, using other wheels and tires is allowable.  Who is correct?{
+	=Technician A.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Both Technician A and Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Neither Technician A nor Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+}
+
+
+//name:TQ0598
+::TQ0598::Tire pressure monitoring systems provide a method of:{
+	=continuously monitoring tire pressures.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+	~inflating tyres.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+	~deflating tyres.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+	~inflating and deflating tyres.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+}
+
+

@@ -1,0 +1,79 @@
+//name:TQ1037
+::TQ1037::Name two types of battery chargers that are used in automotive applications.{
+	=Trickle charger & high rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+	~Trickle charger & low rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+	~Super charger & high rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+	~Dry cell charger & high rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+}
+
+
+//name:TQ1038
+::TQ1038::Technician A says that the positive post on a battery can be identified by being a larger size than the negative terminal. Technician B says that the positive post on a battery can be identified by the + or POS marking on the casing next to the terminal. Who is correct?{
+	~Technician A.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+	~Technician B.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+	=Both Technician A & Technician B.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+	~Neither Technician A or Technician B.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+}
+
+
+//name:TQ1039
+::TQ1039::The hydrometer reading for a fully charged battery is:{
+	=1250 - 1300.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+	~1150 - 1200.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+	~1200 - 1250.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+	~1300 - 1350.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+}
+
+
+//name:TQ1040
+::TQ1040::What type of water should you use to top up battery electrolyte levels?{
+	=De-mineralized or distilled.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+	~Mineralized or still water.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+	~Tap water.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+	~Salt water.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+}
+
+
+//name:TQ1041
+::TQ1041::Technician A says that battery efficiency is improved by low temperatures.  Technician B says that specific gravity tests can indicate cold cranking amps (CCA). Who is correct?{
+	~Technician A.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+	~Technician B.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+	~Both Technician A & Technician B.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+	=Neither Technician A or Technician B.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+}
+
+
+//name:TQ1042
+::TQ1042::Battery terminal corrosion can be treated by:{
+	=using baking soda.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+	~pouring cold water on it.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+	~pouring freezing cold water on it.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+	~using salt water.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+}
+
+
+//name:TQ1043
+::TQ1043::What is the correct sequence for removing a battery?{
+	=Disconnecting the negative terminal and then the positive terminal before removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnecting it before removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnecting it after removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnecting the positive terminal and then the negative terminal before removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+}
+
+
+//name:TQ1044
+::TQ1044::When disconnecting automotive battery terminals on a vehicle with a negative ground system, which of the following statements is correct?{
+	=Disconnect the negative terminal first.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnect the positive terminal first.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+}
+
+
+//name:TQ1045
+::TQ1045::Technician A says that when electrolyte is low the battery should be topped up with distilled water. Technician B says that when electrolyte is low the battery should be topped up with a mixture of acid and water. Who is correct?{
+	=Technician A.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+	~Technician B.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+	~Both Technician A & Technician B.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+	~Neither Technician A or Technician B.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+}
+
+

@@ -1,0 +1,15 @@
+- unless @attempt.new_record? or @exam.completed
+  %div.navigate
+    %div.moveon
+      - if @attempt.verify? and not @exam.attempts.verification.successful.empty?
+        = link_to image_tag('diagnostics/arrow_moveon.png'), identify_diagnostics_exam_attempts_url(@exam)
+      - elsif @attempt.identify? and not @exam.attempts.identification.successful.empty?
+        = link_to image_tag('diagnostics/arrow_moveon.png'), rectify_diagnostics_exam_attempts_url(@exam)
+
+    %div.again
+      - if @attempt.verify? and @exam.attempts.verification.successful.empty?
+        = link_to image_tag('diagnostics/arrow_verifyagain.png'), verify_diagnostics_exam_attempts_url(@exam)
+      - elsif @attempt.identify? and @exam.attempts.identification.successful.empty?
+        = link_to image_tag('diagnostics/arrow_identifyagain.png'), identify_diagnostics_exam_attempts_url(@exam)
+      - elsif @attempt.rectify? and @exam.attempts.rectification.successful.empty?
+        = link_to image_tag('diagnostics/arrow_rectifyagain.png'), rectify_diagnostics_exam_attempts_url(@exam)

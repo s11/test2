@@ -1,0 +1,77 @@
+//name:TQ0841
+::TQ0841::Two sets of plates make up the clutch pack. How are they different?{
+	=The outer driving plates are flat and have external splines that locate in mating splines in the clutch drum.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+	~One set are conical driving plates and the other are flat driven plates.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+	~One set are flat driving plates and the other are conical driven plates.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+	~The inner driving plates are flat and have internal splines that locate in mating splines in the clutch drum.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+}
+
+
+//name:TQ0842
+::TQ0842::The front servo in a Borg Warner 35 automatic transmission is a pressure apply/pressure release type with equal piston areas.{
+	=FALSE#The apply force from the piston is transferred through its central stem and is multiplied by the rocker arm, which has a leverage ratio of approximately 3:1. 
+	~TRUE#The apply force from the piston is transferred through its central stem and is multiplied by the rocker arm, which has a leverage ratio of approximately 3:1. 
+}
+
+
+//name:TQ0843
+::TQ0843::In a Borg Warner 35 type automatic transmission the front clutch piston is returned to the off position by:{
+	=a diaphragm spring.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+	~A coil spring.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+	~Hydraulic pressure.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+	~A waved cushion spring.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+}
+
+
+//name:TQ0844
+::TQ0844::The one-way clutch which locks the planet carrier to the center support is a:{
+	=sprag type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+	~multiplate type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+	~diaphragm type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+	~cone type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+}
+
+
+//name:TQ0845
+::TQ0845::When the rear clutch is engaged together with the front clutch, it provides for an overdrive drive condition through the transmission. {
+	=FALSE#The rear clutch is engaged in third gear together with the front clutch, and in reverse gear together with the rear band.
+	~TRUE#The rear clutch is engaged in third gear together with the front clutch, and in reverse gear together with the rear band.
+}
+
+
+//name:TQ0846
+::TQ0846::The function of hydraulic servos in a transmission is to:{
+	=apply and release a brake band.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~pump fluid around the transmission.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~apply and release gear set components.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~turn transmission clutches.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+}
+
+
+//name:TQ0847
+::TQ0847::The purpose of an automatic transmission servo unit is to:{
+	=convert hydraulic pressure into a mechanical force.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~act as a timing device during downshifts.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~provide a housing for the clutch pack.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~act as a timing device during up shifts.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+}
+
+
+//name:TQ0848
+::TQ0848::What is the name of the piston-like device that is used to tighten a brake band around a drum?{
+	=Servo.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~Governor.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~Planetary gear set.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~Turbine.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+}
+
+
+//name:TQ0849
+::TQ0849::What does the rear servo apply force to?{
+	=The rear band.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+	~The rear planet carrier.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+	~The rear clutch.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+	~The rear pinion.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+}
+
+

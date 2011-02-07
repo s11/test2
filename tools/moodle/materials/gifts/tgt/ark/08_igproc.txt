@@ -1,0 +1,54 @@
+//name:TQ1096
+::TQ1096::What type of tool is most suitable for the removal of spark plugs?{
+	=A spark plug socket wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+	~An open ended spanner/wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+	~An adjustable spanner/wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+	~A ring spanner/wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+}
+
+
+//name:TQ1097
+::TQ1097::Technician A says spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Technician B says light brown deposits on the spark plug indicate the plug is overheating.  Who is correct? {
+	=Technician A.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+	~Technician B.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+	~Both Technician A and Technician B.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+	~Neither Technician A or Technician B.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+}
+
+
+//name:TQ1098
+::TQ1098::Technician A says after adjusting the contact point gap to check the dwell angle with the engine speed between 2500 and 300 RPM. Technician B says the points gap is more important than the dwell and the dwell can be brought back to within acceptable limits by adjusting the points irrespective of the dwell angle.  Who is correct?{
+	~Technician A.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+	~Technician B.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+	=Both Technician A and Technician B.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+}
+
+
+//name:TQ1099
+::TQ1099::To adjust the contact points:{
+	=locate the heel of the rubbing block so it rides on the cam of the distributor shaft.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+	~locate the heel of the rubbing block so it rides on the low point of the distributor shaft.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+	~remove the distributor cap, start the engine and adjust the dwell angle to manufacturers specifications.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+	~emove the distributor cap, start the engine and adjust the points gap to manufacturers specifications.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+}
+
+
+//name:TQ1100
+::TQ1100::Which of the following statements about ignition timing is correct?{
+	=Ignition timing that is 'ahead' means the timing is 'advanced' and 'behind' means the timing is 'retarded'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+	~Ignition timing that is 'behind' means the timing is 'advanced' and 'ahead' means the timing is 'retarded'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+	~Ignition timing that is 'ahead' means the timing is 'positive' and 'behind' means the timing is 'negative'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+	~Ignition timing that is 'ahead' means the timing is 'negative' and 'behind' means the timing is 'positive'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+}
+
+
+//name:TQ1101
+::TQ1101::The timing light pickup cable should be attached to which high tension lead?{
+	=No. 1 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+	~No. 3 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+	~No. 4 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+	~No. 2 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+}
+
+

@@ -1,0 +1,60 @@
+//name:TQ1512
+::TQ1512::An engine's compression ratio can be determined in the following way:{
+	=By comparing swept volume plus clearance volume, to clearance volume only and putting these volumes into a ratio.#Compression ratio is a fractional expression of the change in overall volume when a piston moves from BDC to TDC.  Therefore it's the sum of sweep plus clearance divided by clearance.
+	~By comparing swept volume less clearance volume, to clearance volume only and putting these volumes into a ratio.#Compression ratio is a fractional expression of the change in overall volume when a piston moves from BDC to TDC.  Therefore it's the sum of sweep plus clearance divided by clearance.
+	~By comparing swept volume to clearance volume, and putting these volumes into a ratio.#Compression ratio is a fractional expression of the change in overall volume when a piston moves from BDC to TDC.  Therefore it's the sum of sweep plus clearance divided by clearance.
+}
+
+
+//name:TQ1513
+::TQ1513::The component that joins the piston to the crankshaft is the:{
+	=connecting rod.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end, by a piston pin also known as a gudgeon pin.
+	~connecting rod bearing.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end, by a piston pin also known as a gudgeon pin.
+	~gudgeon pin.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end, by a piston pin also known as a gudgeon pin.
+	~main bearing.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end, by a piston pin also known as a gudgeon pin.
+}
+
+
+//name:TQ1514
+::TQ1514::The purpose of the connecting rod is to:{
+	=join the reciprocating components to the rotary motion components.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications.
+	~join the camshaft to the pistons.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications.
+	~allow continuous movement of the pistons.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications.
+	~hold the connecting components together.#The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns reciprocating action into rotary action. Using reciprocating motion to make rotary motion and vice versa has many applications.
+}
+
+
+//name:TQ1515
+::TQ1515::The connecting rod joins the piston to the crankshaft by a piston pin or a:{
+	=gudgeon pin.#The connecting rod must be very stong, rigid, and as light as possible. To maintain engine balance, all connecting rods in an engine are a matched set.
+	~crankshaft pin.#The connecting rod must be very stong, rigid, and as light as possible. To maintain engine balance, all connecting rods in an engine are a matched set.
+	~rod pin.#The connecting rod must be very stong, rigid, and as light as possible. To maintain engine balance, all connecting rods in an engine are a matched set.
+	~connecting pin.#The connecting rod must be very stong, rigid, and as light as possible. To maintain engine balance, all connecting rods in an engine are a matched set.
+}
+
+
+//name:TQ1516
+::TQ1516::What is the purpose of the long horizontal slots in the vicinity of the oil control ring found on many pistons?{
+	=To allow oil to return to the sump.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+	~To allow oil into the combustion chamber.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+	~To improve lubrication to the small end.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+	~To improve the cooling of the piston crown and to allow oil to return to the sump.#It can be a one-piece ring that depends on its own tension to hold it against the cylinder walls. Slots in the ring and holes in the piston behind the ring let oil return to the sump.
+}
+
+
+//name:TQ1517
+::TQ1517::Many pistons are oval-ground to:{
+	=allow for more metal expanding around the gudgeon pin.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+	~stop the pistons hitting the valves.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+	~stop the pistons hitting the counterweights.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+	~prevent expansion.#All pistons expand as they heat up. As there is more metal near the gudgeon pin, this area tends to expand the most. To allow for this, many pistons are machined into a slightly oval shape. This is called cam grinding.
+}
+
+
+//name:TQ1518
+::TQ1518::Components that are subject to heating do not have to allow for expansion in their design.{
+	=FALSE#All components by design must consider clearance changes relative to heat since expansion and contraction are always at work within automotive systems.
+	~TRUE#All components by design must consider clearance changes relative to heat since expansion and contraction are always at work within automotive systems.
+}
+
+

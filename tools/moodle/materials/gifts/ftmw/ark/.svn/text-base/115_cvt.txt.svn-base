@@ -1,0 +1,73 @@
+// question: 30849  name: HAQ2378 
+::HAQ2378::[html]Once a Drive range is selected, a belt and pulley system continuously varies drive ................. and transmits the drive to the final drive gears.{
+	=%100%ratios#
+}
+
+
+// question: 30850  name: HAQ2379 
+::HAQ2379::[html]Current through the coil on the driving member generates a magnetic force that links up the magnetic powder in a chain fashion. Torque is transmitted from the driving member to the ................. member.{
+	=%100%driven#
+}
+
+
+// question: 30851  name: HAQ2380 
+::HAQ2380::[html]Continuously variable transmission has an electronically controlled magnetic .................{
+	=%100%clutch#
+}
+
+
+// question: 30852  name: HAQ2381 
+::HAQ2381::[html]In Drive, a synchronizer assembly connects the magnetic clutch directly to the primary ................. of the variable transmission.{
+	=%100%pulley#
+}
+
+
+// question: 30853  name: HAQ2382 
+::HAQ2382::[html]In Reverse, the drive is transmitted through a reverse ................. It changes the direction of rotation of the primary pulley, and the transmission.{
+	=%100%idler#
+}
+
+
+// question: 30854  name: HAQ2383 
+::HAQ2383::[html]Hydraulic pressure from an engine driven ................., and a computerised hydraulic-control system, moves one side of each pulley inward or outward.{
+	=%100%pump#
+}
+
+
+// question: 30855  name: HAQ2384 
+::HAQ2384::[html]With a steel belt, Drive is transmitted by compressing the ................. elements rather than relying on tension in the band.{
+	=%100%block#
+}
+
+
+// question: 30856  name: HAQ2385 
+::HAQ2385::[html]On a steel belt, each block leaving the primary pulley pushes the blocks ahead of it, to the ................. pulley where the bands keep the blocks in contact with the pulley faces.{
+	=%100%secondary#
+}
+
+
+// question: 30857  name: HAQ2386 
+::HAQ2386::[html]On a steel belt, the large number of blocks in contact with the pulleys keeps surface pressures low, allowing high ................. to be transmitted.{
+	=%100%torque#
+}
+
+
+// question: 30858  name: HAQ2387 
+::HAQ2387::[html]The secondary pulley shaft is splined to a helical reduction ................. gear. It meshes with a similar reduction driven gear, splined to the final-drive pinion shaft.{
+	=%100%drive#
+}
+
+
+// question: 30859  name: HAQ2388 
+::HAQ2388::[html]At cruising speed, when pressure on the accelerator is reduced, the pulley ratio is at a ................. and the transmission is in overdrive.{
+	=%100%maximum#
+}
+
+
+// question: 30860  name: HAQ2389 
+::HAQ2389::[html]If the accelerator is depressed while cruising, the pulley ratio shifts to minimum and vehicle ................. rises quickly.{
+	=%100%speed#
+}
+
+
+

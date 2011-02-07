@@ -1,0 +1,147 @@
+// question: 29297  name: HAQ1696 
+::HAQ1696::[html]The spring is the ................. component of the suspension.{
+	=%100%flexible#
+}
+
+
+// question: 29298  name: HAQ1697 
+::HAQ1697::[html]When a wheel strikes a bump, there is a reaction force, and energy is transferred to the spring which makes it oscillate. Oscillations left uncontrolled can cause loss of ................. between the wheel and the road surface.{
+	=%100%traction#
+}
+
+
+// question: 29299  name: HAQ1698 
+::HAQ1698::[html]When a vehicle hits an obstruction, the size of the reaction force depends on how much ................. mass is at each wheel assembly.{
+	=%100%unsprung#
+}
+
+
+// question: 29300  name: HAQ1699 
+::HAQ1699::[html]The drive is transmitted through the final drive unit and axles to the wheels, and therefore the axle is referred to as a ................. axle.{
+	=%100%live#
+}
+
+
+// question: 29301  name: HAQ1700 
+::HAQ1700::[html]When a vehicle accelerates from rest, the resistance of its mass causes a torque reaction, producing a tendency for the axle housing to rotate in the direction that is ................. to wheel rotation.{
+	=%100%opposite#
+}
+
+
+// question: 29302  name: HAQ1701 
+::HAQ1701::[html]A similar effect occurs during braking, but with the ................. effect in the direction of wheel rotation.{
+	=%100%twisting#
+}
+
+
+// question: 29303  name: HAQ1702 
+::HAQ1702::[html]On front-wheel-drive vehicles, a simple beam axle can be used on the rear, with coil spring suspension and control arms for location. This is called a dead axle, since it only supports the vehicle and doesn't transmit any .................{
+	=%100%drive#
+}
+
+
+// question: 29304  name: HAQ1703 
+::HAQ1703::[html]Trailing arms are welded to the beam, to locate the axle .................{
+	=%100%longitudinally#
+}
+
+
+// question: 29305  name: HAQ1704 
+::HAQ1704::[html]One of the main benefits claimed for independent suspension is that ................. mass can be kept low.{
+	=%100%unsprung#
+}
+
+
+// question: 29306  name: HAQ1705 
+::HAQ1705::[html]Independent suspension allows wheel ................. to be adjusted individually, when provided for by the manufacturer.{
+	=%100%camber#
+}
+
+
+// question: 29307  name: HAQ1706 
+::HAQ1706::[html]One of the simplest, and most common, independent suspension systems is the ................. strut type. It can be used on the front and rear of the vehicle.{
+	=%100%McPherson#
+	=%100%mcpherson#
+}
+
+
+// question: 29308  name: HAQ1707 
+::HAQ1707::[html]The final drive assembly is normally fixed to a   cross-member, and since it must absorb the ................. reaction, it must be secure.{
+	=%100%torque#
+}
+
+
+// question: 29309  name: HAQ1708 
+::HAQ1708::[html]When conventional universal joints are used, each drive shaft may have a .................-section to accommodate changes in shaft length, due to changes in wheel camber, with suspension action.{
+	=%100%splined#
+}
+
+
+// question: 29310  name: HAQ1709 
+::HAQ1709::[html]As with the front suspension, on rear suspension the lower link has widely-spaced pivots to provide stability, and the unequal-length links maintain the track nearly constant, although, with deflection, some ................. change does occur.{
+	=%100%camber#
+}
+
+
+// question: 29311  name: HAQ1710 
+::HAQ1710::[html]On rear-wheel-drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by ................. drive shafts.{
+	=%100%external#
+}
+
+
+// question: 29312  name: HAQ1711 
+::HAQ1711::[html]Front suspension systems are normally independent, but in addition to their suspension function, they have to allow for ................. of the front wheels during steering.{
+	=%100%swivelling#
+	=%100%swiveling#
+}
+
+
+// question: 29313  name: HAQ1712 
+::HAQ1712::[html]The rear suspension on front-wheel-drive vehicles must maintain ................. of the rear wheels with the front, and also with the frame.{
+	=%100%alignment#
+}
+
+
+// question: 29314  name: HAQ1713 
+::HAQ1713::[html]Adaptive air suspension is an electronically controlled air suspension system at all four wheels with a continuously adaptive damping system. It combines sporty ................. with a high level of ride comfort.{
+	=%100%handling#
+}
+
+
+// question: 29315  name: HAQ1714 
+::HAQ1714::[html]Provided no higher damping forces are required - for instance when driving straight ahead on good roads - the damper settings remain comfortably .................{
+	=%100%soft#
+}
+
+
+// question: 29316  name: HAQ1715 
+::HAQ1715::[html]When cornering, braking or moving away, adaptive damping can, in some instances, automatically reduce ................. or pitching movements.{
+	=%100%rolling#
+}
+
+
+// question: 29317  name: HAQ1716 
+::HAQ1716::[html]Adaptive air suspension also offers the advantage of the vehicle's suspension ................. remaining constant irrespective of the load it is carrying.{
+	=%100%height#
+}
+
+
+// question: 29318  name: HAQ1717 
+::HAQ1717::[html]The height sensor uses the ................. principle to constantly  monitor the distance between the vehicle's axle and its chassis.{
+	=%100%induction#
+}
+
+
+// question: 29319  name: HAQ1718 
+::HAQ1718::[html]The ECU either activates the electric motor of the ................., or the exhaust solenoid valve. This also requires the solenoid valve block to be actuated, in order to maintain the required level.{
+	=%100%compressor#
+}
+
+
+// question: 29320  name: HAQ1719 
+::HAQ1719::[html]The corner solenoid valves are subject to stringent ................. requirements to maintain the vehicle's height even without system operation.{
+	=%100%leakage#
+}
+
+
+

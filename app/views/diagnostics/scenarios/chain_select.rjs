@@ -1,0 +1,11 @@
+output = ''
+
+if Diagnostics::System.exists?( params[:system_id] )
+  output << content_tag(:span, :id => :scenario_id) do
+    scenarios        = Diagnostics::Scenario.all(:conditions => { :system_id => params[:system_id], :is_practice => false })
+    scenario_options = options_from_collection_for_select(scenarios, :id, :name)
+    select_tag(:scenario_id, "<option value=''>All Scenarios</option>" + scenario_options, :id => :scenario_id)
+  end
+end
+
+page.replace_html params[:placeholder], output

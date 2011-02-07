@@ -1,0 +1,103 @@
+// question: 30417  name: HAQ2270 
+::HAQ2270::[html]When the transmission is placed in 'D' or Drive range, the vehicle will move off in first gear and will change to second and then to third gear in accordance with road ................. and engine load.{
+	=%100%speed#
+}
+
+
+// question: 30418  name: HAQ2271 
+::HAQ2271::[html]Kickdown changes are useful when short bursts of acceleration are required and occur at ................. speeds than automatic changes.{
+	=%100%higher#
+}
+
+
+// question: 30419  name: HAQ2272 
+::HAQ2272::[html]Automatic control of gear changes may be overridden by use of the 2 and 1 selector positions. Moving the lever to D following 1 and 2 will then give third gear, provided that road speed and throttle ................. are suitable.{
+	=%100%opening#
+}
+
+
+// question: 30420  name: HAQ2273 
+::HAQ2273::[html]If the selector is moved to 1 from third gear, an immediate down change to 2nd will take place with a further down change to 1st when the road speed ................. sufficiently.{
+	=%100%drops#
+}
+
+
+// question: 30421  name: HAQ2274 
+::HAQ2274::[html]The ring gear is attached to the output shaft and the planet carrier is mounted in the transmission case on a one-way ................. which locates in a central support, held in position by dowel bolts.{
+	=%100%clutch#
+}
+
+
+// question: 30422  name: HAQ2275 
+::HAQ2275::[html]At their inner edge the pinions mesh with the secondary sun gear, while the smaller primary pinions mesh with the smaller primary ................. gear.{
+	=%100%sun#
+}
+
+
+// question: 30423  name: HAQ2276 
+::HAQ2276::[html]The planet pinions transmit the drive from the sun gears to the ................. gear.{
+	=%100%ring#
+}
+
+
+// question: 30424  name: HAQ2277 
+::HAQ2277::[html]The outer plates of the front clutch are splined to the input shaft from the converter ................. while the inner plates are splined to the primary sun gear shaft.{
+	=%100%turbine#
+}
+
+
+// question: 30425  name: HAQ2278 
+::HAQ2278::[html]The inner plates of the rear clutch are splined to the front clutch ................. and therefore to the converter turbine, and the outer plates connect to the secondary sun gear shaft.{
+	=%100%drum#
+}
+
+
+// question: 30426  name: HAQ2279 
+::HAQ2279::[html]Power flow is from the input ................. through the applied front clutch to the primary sun gear which turns in a clockwise direction.{
+	=%100%shaft#
+}
+
+
+// question: 30427  name: HAQ2280 
+::HAQ2280::[html]Since the primary sun gear is meshed with the primary pinions, the pinions rotate in an ................. direction and turn the secondary pinions clockwise on their pins, on the locked planet carrier.{
+	=%100%anticlockwise#
+}
+
+
+// question: 30428  name: HAQ2281 
+::HAQ2281::[html]On overrun, when ................. is applied in the reverse direction, the one-way clutch unlocks and allows the planet carrier to rotate.{
+	=%100%torque#
+}
+
+
+// question: 30429  name: HAQ2282 
+::HAQ2282::[html]The anticlockwise rotation of the primary pinions turns the secondary pinions ................. and since they are in mesh with both the secondary sun gear and the ring gear, the secondary pinions walk around the stationary sun gear and rotate the ring gear in a clockwise direction.{
+	=%100%clockwise#
+}
+
+
+// question: 30430  name: HAQ2283 
+::HAQ2283::[html]When the transmission changes up from second to third the front clutch remains engaged. The front band is disengaged and the ................. clutch is applied.{
+	=%100%rear#
+}
+
+
+// question: 30431  name: HAQ2284 
+::HAQ2284::[html]Drive is transmitted through the front clutch to the ................. sun gear and through the short and long pinions to rotate the ring gear at the same reduced ratio of 2.39:1.{
+	=%100%primary#
+}
+
+
+// question: 30432  name: HAQ2285 
+::HAQ2285::[html]The rear clutch application locks the input shaft from the turbine to the ................. sun gear and the rear band locks the planet carrier to the case to provide the reaction member.{
+	=%100%secondary#
+}
+
+
+// question: 30433  name: HAQ2286 
+::HAQ2286::[html]Input shaft rotation turns the secondary sun gear ................. and this causes the secondary pinions to rotate anticlockwise on their pins on the locked planet carrier and turn the ring gear and the output shaft in the reverse direction.{
+	=%100%clockwise#
+}
+
+
+

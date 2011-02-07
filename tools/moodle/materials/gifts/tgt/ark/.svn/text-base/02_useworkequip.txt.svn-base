@@ -1,0 +1,60 @@
+//name:TQ0193
+::TQ0193::An oxyacetylene gauge set has:{
+	=a cylinder pressure and working pressure gauge for each cylinder.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+	~a working pressure gauge.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+	~a cylinder pressure gauge.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+	~a gas flow gauge.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+}
+
+
+//name:TQ0194
+::TQ0194::When setting up an oxyacetylene torch, what must you do immediately before igniting the torch?{
+	=Check there are no flammable materials or fluids nearby.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+	~Install the correct tip.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+	~Purge the system.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+	~Turn on the gases.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+}'
+
+
+//name:TQ0195
+::TQ0195::Once the wheels have lifted off the floor when using a floor jack, the next step is to:{
+	=check position of jack.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+	~position the jack.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+	~select the jack safety stands.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+	~position the safety stands.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+}
+
+
+//name:TQ0196
+::TQ0196::When using a two-post hoist, what should you do once you have lifted the vehicle just far enough for the wheels to be off the floor?{
+	=Check the position of the lifting pads to make sure they have not moved.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+	~Shake the vehicle gently to confirm it is stable on the hoist.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+	~Lift it to working height.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+	~Position the lifting pads under the vehicle lifting points.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+}
+
+
+//name:TQ0197
+::TQ0197::What types of services are often performed on a four-post hoist?{
+	=All of these.#Four-post hoists allow the vehicle to be positioned and lifted easily. They are often used to lift a vehicle for wheel alignment services and brake repairs.
+	~Wheel alignment services.#Four-post hoists allow the vehicle to be positioned and lifted easily. They are often used to lift a vehicle for wheel alignment services and brake repairs.
+	~Brake repairs.#Four-post hoists allow the vehicle to be positioned and lifted easily. They are often used to lift a vehicle for wheel alignment services and brake repairs.
+}
+
+
+//name:TQ0198
+::TQ0198::When using an engine hoist, the sling should be long enough so when you lift the engine the angle at the top of the sling is about:{
+	=45 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+	~90 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+	~60 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+	~80 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+}
+
+
+//name:TQ0199
+::TQ0199::Once a piece of metal is no longer 'Red Hot' it is safe to touch.{
+	=FALSE#Even once a metal has cooled enough that it is not glowing red hot it is still hot enough to burn. Use welding gloves and tools that are designed for use in a hot environment.
+	~TRUE#Even once a metal has cooled enough that it is not glowing red hot it is still hot enough to burn. Use welding gloves and tools that are designed for use in a hot environment.
+}
+
+

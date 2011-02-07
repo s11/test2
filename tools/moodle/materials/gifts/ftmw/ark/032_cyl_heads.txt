@@ -1,0 +1,217 @@
+// question: 25485  name: HAQ0671 
+::HAQ0671::[html]The cylinder head bolts onto the top of the cylinder block where it forms the top of the ................. chamber.{
+	=%100%combustion#
+}
+
+
+// question: 25486  name: HAQ0672 
+::HAQ0672::[html]V-type and horizontally-opposed engines have a separate ................. head for each bank of cylinders.{
+	=%100%cylinder#
+}
+
+
+// question: 25487  name: HAQ0673 
+::HAQ0673::[html]Just as with engine blocks, cylinder heads can be made of cast iron, or ................. alloy.{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 25488  name: HAQ0674 
+::HAQ0674::[html]Air-cooled engines have cooling ................. cast into the cylinder head.{
+	=%100%fins#
+}
+
+
+// question: 25489  name: HAQ0675 
+::HAQ0675::[html]In sand-cast heads, the large holes that had contained sand are machined, then fitted with soft metal plugs, called ................. plugs.{
+	=%100%core#
+}
+
+
+// question: 25490  name: HAQ0676 
+::HAQ0676::[html]When air-fuel mixture is compressed between the piston and the flat part of the cylinder head, it produces what's called '.................'.{
+	=%100%squish#
+}
+
+
+// question: 25491  name: HAQ0677 
+::HAQ0677::[html]In gasoline engines, the three most popular combustion chamber designs are called hemispherical pent roof, bath-tub and .................{
+	=%100%wedge#
+}
+
+
+// question: 25492  name: HAQ0678 
+::HAQ0678::[html]In a hemispherical or pent-roof combustion chamber air-fuel mixture enters on one side, and ................. gases exit on the other.{
+	=%100%exhaust#
+}
+
+
+// question: 25493  name: HAQ0679 
+::HAQ0679::[html]The bath-tub combustion chamber is oval-shaped. Valves are mounted vertically and side by side. The plug is to one side, and that creates a short flame path. It all helps increase .................{
+	=%100%turbulence#
+}
+
+
+// question: 25494  name: HAQ0680 
+::HAQ0680::[html]The wedge design combustion chamber usually has a smaller surface area than the others. Less fuel is left unburned after ................., which reduces hydrocarbon exhaust emissions.{
+	=%100%combustion#
+}
+
+
+// question: 25495  name: HAQ0681 
+::HAQ0681::[html]Diesel combustion chambers come in 2 main types. Direct and indirect injection. Both are designed to promote ................., to help the compressed air and injected fuel mix well.{
+	=%100%turbulence#
+}
+
+
+// question: 25496  name: HAQ0682 
+::HAQ0682::[html]Sometimes, the rim of the piston provides 'squish', forcing the air to the center of the ................. chamber.{
+	=%100%combustion#
+}
+
+
+// question: 25497  name: HAQ0683 
+::HAQ0683::[html]This combustion chamber is divided into a main combustion chamber and an air cell, joined by a throat. The injector is in the .................{
+	=%100%throat#
+}
+
+
+// question: 25498  name: HAQ0684 
+::HAQ0684::[html]When injection commences, combustion pressure forces the air to flow from the air cell where it mixes with fuel from the .................{
+	=%100%injector#
+}
+
+
+// question: 25499  name: HAQ0685 
+::HAQ0685::[html]In a diesel engine, injection occurs near the top of the ................. stroke.{
+	=%100%compression#
+}
+
+
+// question: 25500  name: HAQ0686 
+::HAQ0686::[html]Smaller intake and exhaust passages and ports allow more ................. at low engine speeds.{
+	=%100%torque#
+}
+
+
+// question: 25501  name: HAQ0687 
+::HAQ0687::[html]At high speeds, smaller intake and exhaust passages restrict .................{
+	=%100%airflow#
+}
+
+
+// question: 25502  name: HAQ0688 
+::HAQ0688::[html]Larger intake and exhaust passages produce greater power at ................. engine speeds.{
+	=%100%high#
+}
+
+
+// question: 25503  name: HAQ0689 
+::HAQ0689::[html]When all intake and exhaust ports are on one side, it is called a ................. head.{
+	=%100%counter-flow#
+	=%100%counter flow#
+}
+
+
+// question: 25504  name: HAQ0690 
+::HAQ0690::[html]When all of the intake ports are on one side and exhaust ports are on the other, it is called a ................. head.{
+	=%100%cross-flow#
+	=%100%cross flow#
+	=%100%crossflow#
+}
+
+
+// question: 25505  name: HAQ0691 
+::HAQ0691::[html]Gaskets form a ................. by being compressed between stationary parts where liquid or gas could pass.{
+	=%100%seal#
+}
+
+
+// question: 25506  name: HAQ0692 
+::HAQ0692::[html]Head gaskets seal and contain the pressures of combustion within the engine, between the cylinder head and .................{
+	=%100%block#
+}
+
+
+// question: 25507  name: HAQ0693 
+::HAQ0693::[html]Gaskets around a rotating part would quickly wear out and leak. To seal these parts, ................. seals are needed.{
+	=%100%oil#
+}
+
+
+// question: 25508  name: HAQ0694 
+::HAQ0694::[html]Modern head gaskets have to be constructed to resist high ................. and engine detonation.{
+	=%100%temperatures#
+}
+
+
+// question: 25509  name: HAQ0695 
+::HAQ0695::[html]With the advent of environmental factors and a reduction in the use of .................., replacement materials have been developed for use in gaskets.{
+	=%100%asbestos#
+}
+
+
+// question: 25510  name: HAQ0696 
+::HAQ0696::[html]Some materials are designed to 'swell' in application and increase sealing ability. This swelling effect increases the sealing ................. between the head and valve cover sealing surfaces and helps to seal potential leaks.{
+	=%100%pressure#
+}
+
+
+// question: 25511  name: HAQ0697 
+::HAQ0697::[html]Gaskets around a rotating part would quickly wear out and leak. To seal these parts, ................. seals are needed.{
+	=%100%oil#
+}
+
+
+// question: 25513  name: HAQ0698 
+::HAQ0698::[html]Head gaskets seal and contain the pressures of combustion within the engine, between the cylinder ................. and the block.{
+	=%100%head#
+}
+
+
+// question: 25514  name: HAQ0699 
+::HAQ0699::[html]Anisotropic gaskets are designed to conduct heat laterally to transfer heat from the engine to the ................. faster.{
+	=%100%coolant#
+}
+
+
+// question: 25515  name: HAQ0700 
+::HAQ0700::[html]Some head gaskets incorporate stainless steel ................. rings to help to contain heat and pressure within the cylinder.{
+	=%100%fire#
+}
+
+
+// question: 25516  name: HAQ0701 
+::HAQ0701::[html]Nitrile and cork blends are better able to deal cope in 'high tech' engines than pure rubber, or conventional cork-rubber. Such combinations are more able to deal with issues such as compressibility and .................{
+	=%100%wicking#
+}
+
+
+// question: 25517  name: HAQ0702 
+::HAQ0702::[html]Some materials are designed to 'swell' in application and ................. sealing ability.{
+	=%100%increase#
+}
+
+
+// question: 25518  name: HAQ0703 
+::HAQ0703::[html]Turbulence refers to the swirling motion of a ................. or a gas.{
+	=%100%liquid#
+}
+
+
+// question: 25519  name: HAQ0704 
+::HAQ0704::[html]Without turbulence, the air-fuel mixture can form local areas of high ................. and temperature that can cause detonation during combustion.{
+	=%100%pressure#
+}
+
+
+// question: 25512  name: HAQ3468 
+::HAQ3468::[html]Rotating or sliding shafts can also be sealed by using ................. , but generally they are not as durable in most applications as the lip-type seal.{
+	=%100%O rings#
+	=%100%o rings#
+	=%100%O-rings#
+	=%100%o-rings#
+}
+
+

@@ -1,0 +1,264 @@
+// question: 27648  name: HAQ1198 
+::HAQ1198::[html]However, where a traditional carburetor forces the incoming air through a venturi to pull the fuel into the air stream, a fuel injection system forces the fuel through ................. under pressure to inject the fuel into the air stream without requiring a venturi.{
+	=%100%nozzles#
+}
+
+
+// question: 27649  name: HAQ1199 
+::HAQ1199::[html]The use of a venturi reduces ................. efficiency by approximately 15%, which results in a reduction in engine power.{
+	=%100%volumetric#
+}
+
+
+// question: 27650  name: HAQ1200 
+::HAQ1200::[html]Additionally, fuel injection allows for more precise control over the mixture of fuel and air, both in proportion and in .................{
+	=%100%uniformity#
+}
+
+
+// question: 27651  name: HAQ1201 
+::HAQ1201::[html]Fuel injection can ................. fuel efficiency and reduce emissions.{
+	=%100%increase#
+}
+
+
+// question: 27652  name: HAQ1202 
+::HAQ1202::[html]Throttle-body injection sprays fuel into the air as it passes through to the ................. manifold.{
+	=%100%intake#
+}
+
+
+// question: 27653  name: HAQ1203 
+::HAQ1203::[html]................. fuel injection has been used in diesel engines since the mid 1920s, almost from their introduction (due to the higher energy required for diesel to evaporate).{
+	=%100%indirect#
+}
+
+
+// question: 27654  name: HAQ1204 
+::HAQ1204::[html]In 1957, Chevrolet introduced a ................. fuel injection option for its 283 V8 engine, made by General Motors.{
+	=%100%mechanical#
+}
+
+
+// question: 27655  name: HAQ1205 
+::HAQ1205::[html]Fuel injection systems such as Hillborn were frequently seen on modified American V8 engines in high performance automobiles of the 1960s. These systems were quite ................. for street use.{
+	=%100%unsuitable#
+}
+
+
+// question: 27656  name: HAQ1206 
+::HAQ1206::[html]The D-Jetronic system used all analog discrete electronics and an electro-mechanical ................. sensor.{
+	=%100%pressure#
+}
+
+
+// question: 27657  name: HAQ1207 
+::HAQ1207::[html]The early fuel injection systems were 'open loop', using an ................. map of airflow to fuel to control mixture, which worked well when engines were new, but drifted off calibration as the engine wore.{
+	=%100%internal#
+}
+
+
+// question: 27658  name: HAQ1208 
+::HAQ1208::[html]Because of the need to comply with exhaust emission regulations, the modern gasoline engine requires a fuel system of extreme ................. and long-term reliability.{
+	=%100%accuracy#
+}
+
+
+// question: 27659  name: HAQ1209 
+::HAQ1209::[html]Fuel pressure is kept at a constant value above manifold pressure, so the amount of fuel injected is determined only by the length of time the injector is held open by the ECU. This is called the ................. of the injector.{
+	=%100%pulse width#
+	=%100%pulsewidth#
+	=%100%pulse-width#
+}
+
+
+// question: 27660  name: HAQ1210 
+::HAQ1210::[html]One injector is located in each intake manifold runner, or pipe, adjacent to each .................{
+	=%100%cylinder#
+}
+
+
+// question: 27661  name: HAQ1211 
+::HAQ1211::[html]The triggering signal to operate the injectors can be supplied from the ignition system, or from crank angle sensors on the crankshaft, or the .................{
+	=%100%camshaft#
+}
+
+
+// question: 27662  name: HAQ1212 
+::HAQ1212::[html]In multi-point injection systems, the air required for the  combustion of the fuel is led from the air filter, through the throttle valve, and into the common manifold, or ................. chamber.{
+	=%100%plenum#
+}
+
+
+// question: 27663  name: HAQ1213 
+::HAQ1213::[html]From here, individual intake runners, or pipes, branch off to each cylinder. All of these pipes are of ................. length.{
+	=%100%equal#
+}
+
+
+// question: 27664  name: HAQ1214 
+::HAQ1214::[html]With unobstructed passages to each cylinder, the cylinder fills with air as ................. as possible.{
+	=%100%efficiently#
+}
+
+
+// question: 27665  name: HAQ1215 
+::HAQ1215::[html]The more air crammed into the cylinder, the denser the air-fuel mixture, when ignition occurs. This increases the ................. on the piston, and increases engine power output too.{
+	=%100%thrust#
+}
+
+
+// question: 27666  name: HAQ1216 
+::HAQ1216::[html]Since the ................. carries air only, it doesn't need to be heated by coolant.{
+	=%100%manifold#
+}
+
+
+// question: 27667  name: HAQ1217 
+::HAQ1217::[html]The volume of air entering the engine varies according to the position of the ................. pedal, and the engine speed, and load.{
+	=%100%accelerator#
+}
+
+
+// question: 27668  name: HAQ1218 
+::HAQ1218::[html]When the pistons draw air away from the manifold more quickly than air can pass the throttle plate into it, the pressure in the manifold .................{
+	=%100%falls#
+}
+
+
+// question: 27669  name: HAQ1219 
+::HAQ1219::[html]The signal can be a measure of the volume of air, or of the manifold pressure. In both cases, this information is combined with the engine speed signal, to provide the basic setting for the injector pulse .................{
+	=%100%width#
+}
+
+
+// question: 27670  name: HAQ1220 
+::HAQ1220::[html]The electrical signal to the ECU varies with air deflection, as contacts attached to the vane move across a .................{
+	=%100%potentiometer#
+}
+
+
+// question: 27671  name: HAQ1221 
+::HAQ1221::[html]The nozzles may be opened using the pressure in the fuel system or there may be a ................. on the injector that will pulse it open and closed in a duty cycle according to the desired fuel requirement.{
+	=%100%solenoid#
+}
+
+
+// question: 27672  name: HAQ1222 
+::HAQ1222::[html]The goal of all fuel injection systems is to carefully meter the amount and ................. of fuel to each cylinder.{
+	=%100%timing#
+}
+
+
+// question: 27673  name: HAQ1223 
+::HAQ1223::[html]The injector also features several ................. modes so that the fuel is better distributed and a powerful air-fuel mixture is created.{
+	=%100%spray#
+}
+
+
+// question: 27674  name: HAQ1224 
+::HAQ1224::[html]The fuel is not injected at the intake stroke but rather at the latter stages of the ................. stroke, so that the small amount of air-fuel mixture is optimally stratified just below the spark plug.{
+	=%100%compression#
+}
+
+
+// question: 27675  name: HAQ1225 
+::HAQ1225::[html]The fuel is injected during the ................. stroke.{
+	=%100%intake#
+}
+
+
+// question: 27676  name: HAQ1226 
+::HAQ1226::[html]A control ................. and pressure spring determines the exposed opening of the outlet, and the amount of fuel that can return.{
+	=%100%diaphragm#
+}
+
+
+// question: 27677  name: HAQ1227 
+::HAQ1227::[html]However, the pressure in the intake manifold varies  considerably with changes in engine ................., and with load, so the pressure drop across the injector must also be taken into account.{
+	=%100%speed#
+}
+
+
+// question: 27678  name: HAQ1228 
+::HAQ1228::[html]For any injection duration, if fuel is held at constant pressure, then, as manifold pressure varies so does the amount of fuel delivered. That means fuel pressure must be held  constant ................. manifold pressure.{
+	=%100%above#
+}
+
+
+// question: 27679  name: HAQ1229 
+::HAQ1229::[html]The quantity of fuel delivered is thus controlled very accurately by the ................. of the injector.{
+	=%100%pulse width#
+	=%100%pulsewidth#
+	=%100%pulse-width#
+}
+
+
+// question: 27680  name: HAQ1230 
+::HAQ1230::[html]For a short time after an engine is switched off engine temperature keeps rising and that can cause ................. in the fuel lines.{
+	=%100%vapour#
+	=%100%vapor#
+}
+
+
+// question: 27681  name: HAQ1231 
+::HAQ1231::[html]The actual operating time of the injectors depends very much on battery .................{
+	=%100%voltage#
+}
+
+
+// question: 27682  name: HAQ1232 
+::HAQ1232::[html]In more sophisticated engine management systems, the control unit can control additional functions such as ignition ................., injection modes, idle speed, cooling fans, and fuel pump operation.{
+	=%100%timing#
+}
+
+
+// question: 27683  name: HAQ1233 
+::HAQ1233::[html]Identifying number one cylinder and the ................. position, allows different injection modes to be used.{
+	=%100%camshaft#
+}
+
+
+// question: 27684  name: HAQ1234 
+::HAQ1234::[html]Sequential injection means injection occurs in the sequence of the ................. order.{
+	=%100%firing#
+}
+
+
+// question: 27685  name: HAQ1235 
+::HAQ1235::[html]The air has been measured by the airflow  meter, so extra fuel is metered to maintain the same air-fuel ratio. The extra mixture thus delivered increases engine ................., and maintains idle speed.{
+	=%100%torque#
+}
+
+
+// question: 27686  name: HAQ1236 
+::HAQ1236::[html]For efficient operation of the catalytic converter, the mixture ratio must be maintained ................. to the stoichiometric ratio - 14.7 parts of air to one part of fuel.{
+	=%100%close#
+}
+
+
+// question: 27687  name: HAQ1237 
+::HAQ1237::[html]Efficiency of combustion can be monitored by measuring the ................. of oxygen in the exhaust gas.{
+	=%100%percentage#
+}
+
+
+// question: 27688  name: HAQ1238 
+::HAQ1238::[html]Feedback also lets fuel settings change as components age. This is called ................. learning.{
+	=%100%adaptive#
+}
+
+
+// question: 27689  name: HAQ1239 
+::HAQ1239::[html]If a fault occurs in a component or part of a system, a fault ................. can be displayed on the check engine lamp in front of the driver.{
+	=%100%code#
+}
+
+
+// question: 27690  name: HAQ1240 
+::HAQ1240::[html]Although most injectors operate at the nominal battery voltage of 12 volts, many sensors have a reference voltage of 5 volts. This is done by a voltage ................. in the control unit.{
+	=%100%regulator#
+}
+
+
+

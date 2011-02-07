@@ -1,0 +1,16 @@
+- information_box do
+  - if current_user.role.student?
+    %p Tasksheets you have submitted but that have not yet been Approved by an instructor are listed below. 
+
+  - else
+    %p
+      Approve or Reject tasksheets that students have submitted to groups you are an instructor for by clicking on either Approve |
+      or Reject in the table below. You can approve all pending Tasksheets by selecting All. You can refine the tasksheets |
+      displayed using the filters.  
+
+    %p Click "Save Changes" to save.
+
+    %p 
+      %strong Note:
+      If you Reject or Approve a tasksheet by mistake you can undo your changes via the “Approved Tasksheet” or “Rejected |
+      Tasksheets” tabs

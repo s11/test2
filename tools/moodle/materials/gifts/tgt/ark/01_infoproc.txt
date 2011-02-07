@@ -1,0 +1,187 @@
+'//name:TQ0028
+::TQ0028::Decoding a VIN is normally straightforward as the structure of the sequence of numbers and letters meets an internationally agreed format.{
+	=TRUE#The Vehicle Identification Number was originally described in ISO Standard 3779 in February 1977 and last revised in 1983. The ISO-VIN was designed to identify motor vehicles, trailers, motorcycles and mopeds.
+	~FALSE#The Vehicle Identification Number was originally described in ISO Standard 3779 in February 1977 and last revised in 1983. The ISO-VIN was designed to identify motor vehicles, trailers, motorcycles and mopeds.
+}
+
+
+//name:TQ0029
+::TQ0029::Technician A says the VIN number tells you which country the vehicle was built in. Technician B says the VIN can tell you which assembly plant the vehicle was built in. Who is correct?{
+	~Technician A.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+	~Technician B.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+	=Both Technician A and Technician B.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+	~Neither Technician A nor Technician B.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+}
+
+
+//name:TQ0030
+::TQ0030::Every modern vehicle constructed today has a special build number that provides specific information about the vehicle. What is this number commonly known as?{
+	=The Vehicle Identification Number or VIN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+	~The Vehicle Build Number or VBN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+	~The Vehicle Build Identification Number or VBIN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+	~The Vehicle Serial Number or VSN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+}
+
+
+//name:TQ0031
+::TQ0031::The VIN is an abbreviation for:{
+	=Vehicle Identification Number.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+	~Very Important Number.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+	~Vehicle Importation Number.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+	~Verify Information Notation.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+}
+
+
+//name:TQ0032
+::TQ0032::VIN decoding information is usually located in the:{
+	=general information section of a manufacturer's parts or service manual.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+	~service manual index.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+	~labor guide.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+	~customer sales information.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+}
+
+
+//name:TQ0033
+::TQ0033::Labor manuals contain information on:{
+	=times to perform service and repair tasks.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+	~vehicle components and their part numbers.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+	~vehicle specifications and their part numbers.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+	~vehicle components and their specifications.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+}
+
+
+//name:TQ0034
+::TQ0034::Technician A says that labor manuals provide a guide to how much time a job will take. Technician B says that the labor manual specifies the time the job must take. Who is correct?{
+	=Technician A.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+	~Technician B.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+	~Both Technician A and Technician B.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+	~Neither Technician A nor Technician B.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+}
+
+
+//name:TQ0035
+::TQ0035::Parts manuals contain information on:{
+	=vehicle components and their part numbers.#The parts manual is essential to identify vehicle components and the respective part number information.
+	~part numbers and labor times.#The parts manual is essential to identify vehicle components and the respective part number information.
+	~vehicle specifications and their part numbers.#The parts manual is essential to identify vehicle components and the respective part number information.
+	~vehicle components and their specifications.#The parts manual is essential to identify vehicle components and the respective part number information.
+}
+
+
+//name:TQ0036
+::TQ0036::An alternate method of finding specific vehicle information in a manual is to:{
+	=use the index at the rear of the manual.#When searching for information in a manual the index section is an excellent starting point.
+	~use the telephone and ask the local specific vehicle dealer where the information may be located.#When searching for information in a manual the index section is an excellent starting point.
+	~thumb through the book until you locate the information.#When searching for information in a manual the index section is an excellent starting point.
+	~use the manual from a similar vehicle and use those specifications.#When searching for information in a manual the index section is an excellent starting point.
+}
+
+
+//name:TQ0037
+::TQ0037::If the manufacturer's manual is not available, service information can be located in:{
+	=an aftermarket service manual.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+	~an oil company lubrication guide.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+	~the parts manual.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+	~a sales information booklet.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+}
+
+
+//name:TQ0038
+::TQ0038::The section index of a service manual may also contain:{
+	=specifications and torque wrench settings.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+	~spare parts and pricing information.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+	~spare parts.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+	~pricing information.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+}
+
+
+//name:TQ0039
+::TQ0039::Torque specifications for fasteners such as bolts are found in the:{
+	=repair manual.#The repair manual provides all required service information to ensure an accurate repair.
+	~owner's handbook.#The repair manual provides all required service information to ensure an accurate repair.
+	~parts manual.#The repair manual provides all required service information to ensure an accurate repair.
+	~vehicle identification booklet.#The repair manual provides all required service information to ensure an accurate repair.
+}
+
+
+//name:TQ0040
+::TQ0040::Up to date specifications and modifications can be located in:{
+	=technical service bulletins.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+	~parts manuals.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+	~service manuals.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+	~labor guides.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+}
+
+
+//name:TQ0041
+::TQ0041::A shop manual contains:{
+	=service procedures and specifications.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+	~illustrations and part numbers.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+	~information on how to operate the vehicle.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+	~service coupons.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+}
+
+
+//name:TQ0042
+::TQ0042::Each separate section of a shop manual normally contains a further index. This includes:{
+	=the chapter contents.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+	~spare parts and pricing information.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+	~spare parts.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+	~pricing information.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+}
+
+
+//name:TQ0043
+::TQ0043::The publication used to obtain vehicle system-specific repair information is the:{
+	=vehicle shop manual.#The vehicle system-specific information is found within the shop manual.
+	~vehicle operator manual.#The vehicle system-specific information is found within the shop manual.
+	~owner's handbook.#The vehicle system-specific information is found within the shop manual.
+	~tire information manual.#The vehicle system-specific information is found within the shop manual.
+}
+
+
+//name:TQ0044
+::TQ0044::The table of contents in a shop manual contains an index that lists:{
+	=the various systems and vehicle components.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+	~service procedures and parts information.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+	~spare parts and pricing information.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+	~vehicle components and pricing information.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+}
+
+
+//name:TQ0045
+::TQ0045::Information on correct oil specifications can be located in:{
+	=shop manuals and the owner's manual.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+	~parts manuals and owner's handbook.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+	~parts and service manuals.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+	~aftermarket and parts manuals.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+}
+
+
+//name:TQ0046
+::TQ0046::The owner's manual can contain information such as:{
+	=lubrication and fuel tank capacities.#The owner's manual is limited to system operation, maintenance and general information.
+	~engine torque settings.#The owner's manual is limited to system operation, maintenance and general information.
+	~wheel alignment specifications.#The owner's manual is limited to system operation, maintenance and general information.
+	~service bulletins.#The owner's manual is limited to system operation, maintenance and general information.
+}
+
+
+//name:TQ0047
+::TQ0047::It may take several 'trips' for the code to reset, so:{
+	=with OBDII you must complete the diagnosis process first before clearing the codes.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~with OBDI you must complete the diagnosis process first before clearing the codes.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~with OBDII you must clear the codes before completing the diagnosis process.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~with OBDI you must clear the codes before completing the diagnosis process.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+}
+
+
+//name:TQ0048
+::TQ0048::In the PC world, what is starting up often known as?{
+	='Booting' the computer.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+	~'Upping' the computer.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+	~'Networking' the computer.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+	~Logging in.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+}
+
+

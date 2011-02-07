@@ -1,0 +1,121 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/swf_fu
+svn://curfew.jbpub.com/online
+
+
+
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+test
+dir
+
+assets
+dir
+
+LICENSE
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+8f7942958ce20e17dd24f7f0c1fe7b91
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+a7ee0f890aac76d832b5c01ac5e44fe0
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+README.rdoc
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+1a9a17d9ec2a763101acfdd6b967e471
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+66f026548a41fdbb23e1892705bbf0f5
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+lib
+dir
+
+install.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+99c1f53bfd87dde8f9cfae77e9071491
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+uninstall.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+5777a994f29f14b373f65c490678da02
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+
+CHANGELOG.rdoc
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+6e0c318441e6395430479760dd46c4d3
+2009-06-28T21:26:02.580478Z
+2716
+johnm
+

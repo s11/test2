@@ -1,0 +1,57 @@
+// question: 32323  name: HAQ2807 
+::HAQ2807::[html]'Ahead' means the timing is 'advanced' and 'behind' means the timing is '.................'.{
+	=%100%retarded#
+}
+
+
+// question: 32324  name: HAQ2808 
+::HAQ2808::[html]Checking ignition timing - Locate crankshaft and spark plug. Locate the position of the timing marks. These are normally on the front of the engine on the crankshaft pulley or harmonic balancer, with a corresponding mark on the engine .................{
+	=%100%block#
+}
+
+
+// question: 32325  name: HAQ2809 
+::HAQ2809::[html]Attach the timing light cable on to the ................. lead leading to the number one cylinder. Then connect the power leads to the battery - red lead to the positive terminal, black to the negative terminal.{
+	=%100%high tension#
+}
+
+
+// question: 32326  name: HAQ2810 
+::HAQ2810::[html]Checking and removing a spark plug - The correct tool to use is a spark plug ................. This usually has a rubber insert to protect the plug while it is being removed.{
+	=%100%socket#
+}
+
+
+// question: 32327  name: HAQ2811 
+::HAQ2811::[html]Spark plugs can sometimes be difficult to remove, so you may need to extend the wrench handle for additional leverage. Turn the plug ................. to loosen it, and then turn the socket by hand until you can remove it.{
+	=%100%counter-clockwise#
+	=%100%counter clockwise#
+	=%100%counterclockwise#
+}
+
+
+// question: 32328  name: HAQ2812 
+::HAQ2812::[html]Check the plug specifications for the correct gap, and measure this with a ................. gauge of the correct diameter. If the gap between the electrodes is too wide or too narrow, adjust it by bending the ground electrode with a gap-adjusting tool.{
+	=%100%wire#
+}
+
+
+// question: 32329  name: HAQ2813 
+::HAQ2813::[html]The contact breaker points are found in the base of the distributor below the distributor cap and the .................{
+	=%100%rotor#
+}
+
+
+// question: 32330  name: HAQ2814 
+::HAQ2814::[html]Inspect the contact breaker points for their condition. Small indications of pitting are quite normal, however a transfer of more than 1 mm of tungsten material from one side of the points to the other, indicates that the ................. may also need changing.{
+	=%100%capacitor#
+}
+
+
+// question: 32331  name: HAQ3827 
+::HAQ3827::[html]Adjust the points by locating the heel of the rubbing block of the contact breaker points so it rides on the cam of the ................. shaft.{
+	=%100%distributor#
+}
+
+
+

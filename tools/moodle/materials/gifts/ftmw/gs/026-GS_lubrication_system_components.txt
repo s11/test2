@@ -1,0 +1,95 @@
+// question: 24569  name: HAQ0952 
+::HAQ0952::[html]The sump is bolted to the engine under the ...............................{
+	=%100%crankcase#
+}
+
+
+// question: 24570  name: HAQ0953 
+::HAQ0953::[html]The oil pickup tube and strainer are located in this deep section to ensure they stay submerged in oil, and to prevent .............................. being drawn into the oil pump.{
+	=%100%air#
+}
+
+
+// question: 24571  name: HAQ0954 
+::HAQ0954::[html].............................. prevent oil from surging away from the pickup during cornering, braking and accelerating.{
+	=%100%Baffles#
+	=%100%baffles#
+}
+
+
+// question: 24572  name: HAQ0964 
+::HAQ0964::[html]Oil pumps may be driven from the .............................. or the crankshaft.{
+	=%100%camshaft#
+}
+
+
+// question: 24573  name: HAQ0965 
+::HAQ0965::[html]In a rotor-type oil pump, an inner rotor drives an outer one. As they turn, the volume between them ..............................{
+	=%100%increases#
+}
+
+
+// question: 24574  name: HAQ0966 
+::HAQ0966::[html]The crescent pump uses a similar principle. It is mounted on the front of the ..............................{
+	=%100%cylinder-block#
+	=%100%cylinder block#
+}
+
+
+// question: 24575  name: HAQ0967 
+::HAQ0967::[html]The increasing .............................. between gear teeth causes pressure to fall.{
+	=%100%volume#
+}
+
+
+// question: 24576  name: HAQ0968 
+::HAQ0968::[html]Higher atmospheric pressure outside forces oil up into the .............................. The spaces between the teeth fill with oil.{
+	=%100%inlet#
+}
+
+
+// question: 24577  name: HAQ0971 
+::HAQ0971::[html]There are 2 basic oil-filtering systems - full-flow, and ..............................{
+	=%100%by-pass#
+	=%100%bypass#
+}
+
+
+// question: 24578  name: HAQ0972 
+::HAQ0972::[html]The full-flow type is the more common. Its filter uses pleated filtering .............................. in a metal housing, to collect harmful particles.{
+	=%100%paper#
+}
+
+
+// question: 24579  name: HAQ0973 
+::HAQ0973::[html]As a safety measure, full-flow filters have a ..............................{
+	=%100%by-pass valve#
+	=%100%bypass valve#
+}
+
+
+// question: 24580  name: HAQ0974 
+::HAQ0974::[html]Diesel engines produce more .............................. particles than gasoline engines, so the oil filter can have a full-flow element to trap larger impurities, and a bypass element to collect sludge and carbon soot.{
+	=%100%carbon#
+}
+
+
+// question: 24581  name: HAQ0975 
+::HAQ0975::[html]It collects finer particles than a full-flow filter. After this oil is filtered, it goes back to the ..............................{
+	=%100%sump#
+}
+
+
+// question: 24582  name: HAQ0979 
+::HAQ0979::[html]Oil may have leaked away, or it may have been burned. This can be caused by worn .............................. which let oil into the combustion chamber.{
+	=%100%piston rings#
+	=%100%piston-rings#
+}
+
+
+// question: 24583  name: HAQ0980 
+::HAQ0980::[html]Of course, the simplest indicator of oil level is still the ..............................{
+	=%100%dipstick#
+	=%100%dip stick#
+	=%100%dip-stick#
+}

@@ -1,0 +1,50 @@
+//name:TQ0090
+::TQ0090::Engines in modern vehicles can be manufactured in which of these configurations?{
+	=All of these.#Engines in a range of variations can be used in vehicles. Normally the manufacturer chooses a particular configuration depending on a number of factors. This may include body design and desired power output for a given size of vehicle and drive configuration.
+	~Horizontally-opposed.#Engines in a range of variations can be used in vehicles. Normally the manufacturer chooses a particular configuration depending on a number of factors. This may include body design and desired power output for a given size of vehicle and drive configuration.
+	~Vee.#Engines in a range of variations can be used in vehicles. Normally the manufacturer chooses a particular configuration depending on a number of factors. This may include body design and desired power output for a given size of vehicle and drive configuration.
+	~Flat.#Engines in a range of variations can be used in vehicles. Normally the manufacturer chooses a particular configuration depending on a number of factors. This may include body design and desired power output for a given size of vehicle and drive configuration.
+	~In-line.#Engines in a range of variations can be used in vehicles. Normally the manufacturer chooses a particular configuration depending on a number of factors. This may include body design and desired power output for a given size of vehicle and drive configuration.
+}
+
+//name:TQ0091
+::TQ0091::Horizontally-opposed engines have:{
+	=1 crankshaft and 2 banks of cylinders.#A horizontally-opposed (or 'flat engine' as they are sometimes known) is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane. 
+	~1 crankshaft and 1 bank of cylinders.#A horizontally-opposed (or 'flat engine' as they are sometimes known) is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane. 
+	~2 crankshafts and 2 pistons per cylinder.#A horizontally-opposed (or 'flat engine' as they are sometimes known) is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane. 
+	~2 crankshafts and 2 banks of cylinders.#A horizontally-opposed (or 'flat engine' as they are sometimes known) is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane. 
+}
+
+//name:TQ0092
+::TQ0092::Horizontally-opposed engines are also known as:{
+	=flat engines.#A flat engine is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane.
+	~sterling engines.#A flat engine is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane.
+	~Sarich engines.#A flat engine is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane.
+	~orbital engines.#A flat engine is an internal combustion engine in which the cylinders are arranged in two banks on either side of a single crankshaft so that the motion of all the pistons is in a single plane.
+}
+
+//name:TQ0093
+::TQ0093::Why aren't inline Engines suitable for 8 cylinder engines?{
+	=They are too long to fit in an engine bay of a conventional modern car.#Inline engines can be found in 2, 3, 4, 5, and 6 cylinder configurations. There have been inline 8 cylinder engines, but they are too long to fit into an engine bay of a conventional modern car.
+	~They are too wide to fit in an engine bay of a conventional modern car.#Inline engines can be found in 2, 3, 4, 5, and 6 cylinder configurations. There have been inline 8 cylinder engines, but they are too long to fit into an engine bay of a conventional modern car.
+	~They are too heavy to fit in the engine bay of a conventional modern car.#Inline engines can be found in 2, 3, 4, 5, and 6 cylinder configurations. There have been inline 8 cylinder engines, but they are too long to fit into an engine bay of a conventional modern car.
+	~By mounting the engine tranversely, it is difficult to reach the sparkplugs.#Inline engines can be found in 2, 3, 4, 5, and 6 cylinder configurations. There have been inline 8 cylinder engines, but they are too long to fit into an engine bay of a conventional modern car.
+}
+
+//name:TQ0094
+::TQ0094::For each complete rotation of the rotor there are three power pulses and how many rotations of the shaft?{
+	=Three.#As the rotor rotates it covers and uncovers inlet and exhaust ports and its curved shape alters the size of the working chambers, which are formed in the spaces between the outside of the rotor and the inside of the housing.
+	~One.#As the rotor rotates it covers and uncovers inlet and exhaust ports and its curved shape alters the size of the working chambers, which are formed in the spaces between the outside of the rotor and the inside of the housing.
+	~Six.#As the rotor rotates it covers and uncovers inlet and exhaust ports and its curved shape alters the size of the working chambers, which are formed in the spaces between the outside of the rotor and the inside of the housing.
+	~Four.#As the rotor rotates it covers and uncovers inlet and exhaust ports and its curved shape alters the size of the working chambers, which are formed in the spaces between the outside of the rotor and the inside of the housing.
+}
+
+//name:TQ0095
+::TQ0095::In vehicle applications the number of cylinders can vary from 4 up to:{
+	=12#As the number of cylinders increases, the length of the block and the crankshaft can become a problem. 
+	~6#As the number of cylinders increases, the length of the block and the crankshaft can become a problem. 
+	~8#As the number of cylinders increases, the length of the block and the crankshaft can become a problem. 
+	~16#As the number of cylinders increases, the length of the block and the crankshaft can become a problem.
+}
+
+

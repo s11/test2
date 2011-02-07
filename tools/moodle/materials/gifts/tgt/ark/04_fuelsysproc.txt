@@ -1,0 +1,41 @@
+//name:TQ0337
+::TQ0337::Which of the following statements is correct?{
+	=The fuel pressure is greater in a Efi system than in a carburetor system.#Fuel pressure is greater in Efi systems when compared to carburetor systems which often have mechanical pumps only.
+	~The fuel pressure is greater in a carburetor system than in a Efi system.#Fuel pressure is greater in Efi systems when compared to carburetor systems which often have mechanical pumps only.
+	~The fuel pressure is the same in a Efi system as that in a carburetor system.#Fuel pressure is greater in Efi systems when compared to carburetor systems which often have mechanical pumps only.
+	~Fuel is not under pressure in either system and is supplied by gravity pressure alone.#Fuel pressure is greater in Efi systems when compared to carburetor systems which often have mechanical pumps only.
+}
+
+
+//name:TQ0338
+::TQ0338::In a vehicle with an electric fuel pump, how is static pressure removed?{
+	=Remove the fuel pump fuse and run the engine until it stops as it runs out of fuel. Turn ignition off.#Never allow petrol fuel under pressure to spray into the atmosphere. Petrol vapours are extremely dangerous and volatile. This can cause fire and explosion leading to serious injury.
+	~Drain the fuel tank until there is no fuel left.#Never allow petrol fuel under pressure to spray into the atmosphere. Petrol vapours are extremely dangerous and volatile. This can cause fire and explosion leading to serious injury.
+	~Clamp the fuel pipes.#Never allow petrol fuel under pressure to spray into the atmosphere. Petrol vapours are extremely dangerous and volatile. This can cause fire and explosion leading to serious injury.
+	~Loosen the fuel pipes to allow pressurised fuel to escape and wait for pressure to drop.#Never allow petrol fuel under pressure to spray into the atmosphere. Petrol vapours are extremely dangerous and volatile. This can cause fire and explosion leading to serious injury.
+}
+
+
+//name:TQ0339
+::TQ0339::When changing a fuel filter, why should you always check the shop manual?{
+	=To check for the correct type of filter and changing procedure for the vehicle.#There are a variety of fuel filters, so before you start, always check the shop manual for the correct type of filter for the vehicle and the specific procedure for removing and replacing it.
+	~To ensure that the hose clips taken off the old one are not needed again.#There are a variety of fuel filters, so before you start, always check the shop manual for the correct type of filter for the vehicle and the specific procedure for removing and replacing it.
+	~To check whether the filter needs flushing prior to fitting.#There are a variety of fuel filters, so before you start, always check the shop manual for the correct type of filter for the vehicle and the specific procedure for removing and replacing it.
+	~All of these reasons.#There are a variety of fuel filters, so before you start, always check the shop manual for the correct type of filter for the vehicle and the specific procedure for removing and replacing it.
+}
+
+
+//name:TQ0340
+::TQ0340::If the fuel lines are flexible hoses rather than metal lines their condition must be checked when the filter is being replaced as they can deteriorate in use.{
+	=TRUE#If the fuel lines are flexible hoses rather than metal lines, their condition must be checked as they can deteriorate in use.
+	~FALSE#If the fuel lines are flexible hoses rather than metal lines, their condition must be checked as they can deteriorate in use.
+}
+
+
+//name:TQ0341
+::TQ0341::There are different types of clamps for flexible fuel lines - spring type, worm type or rolled edge. However they all use the same type of tool to tighten them.{
+	=FALSE#There are different types of clamps for flexible fuel lines - spring type, worm type or rolled edge. They can use different types of tightening devices and tools.
+	~TRUE#There are different types of clamps for flexible fuel lines - spring type, worm type or rolled edge. They can use different types of tightening devices and tools.
+}
+
+

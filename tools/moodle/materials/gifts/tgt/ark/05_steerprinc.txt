@@ -1,0 +1,147 @@
+//name:TQ0450
+::TQ0450::All passenger vehicles steer only with the two front wheels.{
+	=FALSE#4-wheel steering (or all wheel steering) is a system employed by some vehicles to increase vehicle stability while maneuvering at high speed, or to decrease turning radius at low speed. In most 4-wheel steering systems the rear wheels are steered by a computer and actuators. The rear wheels generally cannot turn as far as the front wheels.
+	~TRUE#4-wheel steering (or all wheel steering) is a system employed by some vehicles to increase vehicle stability while maneuvering at high speed, or to decrease turning radius at low speed. In most 4-wheel steering systems the rear wheels are steered by a computer and actuators. The rear wheels generally cannot turn as far as the front wheels.
+}
+
+
+//name:TQ0451
+::TQ0451::The effort by the driver is transferred from the steering wheel down:{
+	=the steering column to the steering box.#Transmitted steering force is transferred from wheel rotation to steering shaft to steering box.
+	~the steering column to the road wheels.#Transmitted steering force is transferred from wheel rotation to steering shaft to steering box.
+}
+
+
+//name:TQ0452
+::TQ0452::Technician A says that the size of the steering wheel affects turning ratio. Technician B says that the size of the steering wheel affects turning radius. Who is correct?{
+	~Technician A.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+	~Technician B.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+	~Both Technician A & Technician B.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+	=Neither Technician A or Technician B.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+}
+
+
+//name:TQ0453
+::TQ0453::The rack and pinion operates by moving the rack with the:{
+	=pinion gear.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+	~steering shaft.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+	~worm shaft.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+	~sector shaft.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+}
+
+
+//name:TQ0454
+::TQ0454::Rack and pinion steering is an integral part of the:{
+	=steering linkage.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+	~vehicle frame.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+	~steering box.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+	~none of these.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+}
+
+
+//name:TQ0455
+::TQ0455::The purpose of the 'rack and pinion' bellows is:{
+	=to protect the internal components from dirt and contain the lubrication grease in the steering component.#Bellows and boots allow component movement while protecting the component from contamination.
+	~to protect the internal components from dirt, contain the lubrication grease in the steering component and to assist with the steering effort.#Bellows and boots allow component movement while protecting the component from contamination.
+}
+
+
+//name:TQ0456
+::TQ0456::The rack in a 'rack and pinion' system is held in contact with the pinion by a:{
+	=spring-loaded yoke.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~roller bearing.#Operating tension and preload is accomplished with the use of a spring loaded yoke assembly.
+	~nylon bush.#Operating tension and preload is accomplished with the use of a spring loaded yoke assembly.
+	~rubber stop.#Operating tension and preload is accomplished with the use of a spring loaded yoke assembly.
+}
+
+
+//name:TQ0457
+::TQ0457::Many racks in a 'rack and pinion' system are supported at each end by a:{
+	=nylon bush.#The rack is supported by bushings located at each end of the rack housing.
+	~roller bearing.#The rack is supported by bushings located at each end of the rack housing.
+	~spring-loaded yoke.#The rack is supported by bushings located at each end of the rack housing.
+	~rubber stop.#The rack is supported by bushings located at each end of the rack housing.
+}
+
+
+//name:TQ0458
+::TQ0458::What does the spring-loaded yoke in a rack and pinion steering system do?{
+	=It ensures free play is eliminated between the gears, while still allowing for relative movement.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~It ensures that the pinion remains in position.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~It allows for movement in the rack.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~It holds the ball joint on the rack in place.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+}
+
+
+//name:TQ0459
+::TQ0459::Why are nylon bushes used in steering systems?{
+	=Because they have a low co-efficient of friction and low wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+	~Because they have a high co-efficient of friction and low wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+	~Because they have a low co-efficient of friction and high wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+	~Because they have a high co-efficient of friction and high wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+}
+
+
+//name:TQ0460
+::TQ0460::The inner and outer tie rod ends are connected by the:{
+	=adjusting sleeve.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+	~center link.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+	~idler arm.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+	~CV joint.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+}
+
+
+//name:TQ0461
+::TQ0461::Technician A says that a ball and socket type joint is used to attach the Pitman arm to the center link. Technician B says that a ball and socket joint is used to attach the idler arm to the frame. Who is correct?{
+	=Technician A.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+	~Technician B.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+	~Both Technician A & Technician B.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+	~Neither Technician A or Technician B.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+}
+
+
+//name:TQ0462
+::TQ0462::A 'rack and pinion' steering system is used on:{
+	=light passenger vehicles.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+	~Heavy-duty commercial vehicles.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+	~Medium-duty commercial vehicles.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+	~Transit buses.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+}
+
+
+//name:TQ0463
+::TQ0463::In the 'rack and pinion' system, the pinion rotation moves the:{
+	=rack from side to side.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+	~steering shaft from side to side.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+	~rack in and out.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+	~steering shaft in and out.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+}
+
+
+//name:TQ0464
+::TQ0464::There are two basic types of automotive steering arrangements. These are?{
+	=Rack and pinion and steering box.#Steering systems use either rack and pinion or steering box arrangement.
+	~Hydraulic and pneumatic.#Steering systems use either rack and pinion or steering box arrangement.
+	~Recirculating ball and power assisted.#Steering systems use either rack and pinion or steering box arrangement.
+	~Power assisted and hydraulic.#Steering systems use either rack and pinion or steering box arrangement.
+}
+
+
+//name:TQ0465
+::TQ0465::What are the main parts of a basic two wheel steering system?{
+	=The steering wheel, column and box assembly, steering linkage and wheel assembly components.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+	~Steering box, steering wheel and steering linkage.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+	~Steering wheel, steering linkage and steering suspension parts.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+	~Steering box, steering linkage and steering suspension parts.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+}
+
+
+//name:TQ0466
+::TQ0466::The primary components of the rack and pinion steering system are:{
+	=rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+	~rubber joint, pinion, rack, inner ball bellows or socket and tie-rod.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+	~rubber joint, pinion, rack, ball bellows or inner socket and tie-rod.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+	~rubber pinion, rack, inner ball joint or socket and tie-rod bellows.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+}
+
+

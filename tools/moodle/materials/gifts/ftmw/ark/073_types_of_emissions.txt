@@ -1,0 +1,188 @@
+// question: 28583  name: HAQ1514 
+::HAQ1514::[html]Gasoline, diesel, LP and ................. gas are all hydrocarbon compounds.{
+	=%100%natural#
+}
+
+
+// question: 28584  name: HAQ1515 
+::HAQ1515::[html]Hydrocarbon emissions react with other compounds in the atmosphere to produce ................. smog. Hydrocarbons are a major source of motor vehicle emissions.{
+	=%100%photo-chemical#
+}
+
+
+// question: 28585  name: HAQ1516 
+::HAQ1516::[html]Gasoline needs to ................. easily to burn properly in an  internal combustion engine.{
+	=%100%evaporate#
+}
+
+
+// question: 28586  name: HAQ1517 
+::HAQ1517::[html]Gasoline evaporates easily into the atmosphere at ordinary ................. and pressures.{
+	=%100%temperatures#
+}
+
+
+// question: 28587  name: HAQ1518 
+::HAQ1518::[html]An evaporation control system is fitted to modern vehicles to collect, and store the hydrocarbon vapours from the tank and the carburetter. Then, when conditions are suitable, these vapours are then drawn into the intake ................., and burned, as part of the combustion process.{
+	=%100%manifold#
+}
+
+
+// question: 28588  name: HAQ1519 
+::HAQ1519::[html]In a gasoline-engined vehicle, during an engine cycle, some of the gases escape past the piston rings into the  crankcase. This is called .................{
+	=%100%blow-by#
+	=%100%blow by#
+}
+
+
+// question: 28589  name: HAQ1520 
+::HAQ1520::[html]Hydrocarbons can also be part of the exhaust gases. In a 4-stroke gasoline engine, during valve ................. at top dead center, some intake charge is drawn out of the combustion chamber into the exhaust port.{
+	=%100%overlap#
+}
+
+
+// question: 28590  name: HAQ1521 
+::HAQ1521::[html]When combustion occurs in the cylinder, the walls, piston and piston ................. are slightly cooler than points closer to the burning mixture.{
+	=%100%rings#
+}
+
+
+// question: 28591  name: HAQ1522 
+::HAQ1522::[html]Some of the air and fuel molecules come in contact with cooler parts of the system, and they cool down, until their temperature becomes too low for ................. to occur.{
+	=%100%combustion#
+}
+
+
+// question: 28592  name: HAQ1523 
+::HAQ1523::[html]Misfiring of the ................. can result in unburned fuel leaving the cylinder when the exhaust port opens.{
+	=%100%ignition#
+}
+
+
+// question: 28593  name: HAQ1524 
+::HAQ1524::[html]If an excessively lean mixture is used, then combustion takes longer, and the flame may ................. before it is complete.{
+	=%100%extinguish#
+}
+
+
+// question: 28594  name: HAQ1525 
+::HAQ1525::[html]Air that's drawn from the atmosphere into an engine contains almost 80% Nitrogen. Under the high temperatures and pressure of ................., this nitrogen combines with oxygen to produce oxides of nitrogen.{
+	=%100%combustion#
+}
+
+
+// question: 28595  name: HAQ1526 
+::HAQ1526::[html]Almost all internal combustion engine ................. gases contains these chemicals. They are more likely to be produced when high peak temperatures occur during combustion.{
+	=%100%exhaust#
+}
+
+
+// question: 28596  name: HAQ1527 
+::HAQ1527::[html]If a lean mixture is used, formation of hydrocarbons and   carbon monoxide is reduced, but for oxides of nitrogen, it is increased. This is due to the high temperature, and the ................. in available oxygen.{
+	=%100%increase#
+}
+
+
+// question: 28597  name: HAQ1528 
+::HAQ1528::[html].................-ignition engines can produce high levels of oxides of nitrogen.{
+	=%100%Compression#
+	=%100%compression#
+}
+
+
+// question: 28598  name: HAQ1529 
+::HAQ1529::[html]Oxides of nitrogen irritate the eyes, nose and throat. In extreme cases, coughing and ................. damage can occur.{
+	=%100%lung#
+}
+
+
+// question: 28599  name: HAQ1530 
+::HAQ1530::[html]Particulates from modern engines are usually .................-based.{
+	=%100%carbon#
+}
+
+
+// question: 28600  name: HAQ1531 
+::HAQ1531::[html]Older vehicles may produce lead-based particulates. This is caused by lead compounds used in the fuel to raise its ................. rating.{
+	=%100%octane#
+}
+
+
+// question: 28601  name: HAQ1532 
+::HAQ1532::[html]In spark ignition engines, particulates are caused by incomplete combustion of ................. air-fuel mixtures.{
+	=%100%rich#
+}
+
+
+// question: 28602  name: HAQ1533 
+::HAQ1533::[html]In compression-ignition engines, they are caused by a lack of ................. and lack of oxygen.{
+	=%100%turbulence#
+}
+
+
+// question: 28604  name: HAQ1535 
+::HAQ1535::[html]Carbon monoxide is produced during combustion when there are not enough ................. molecules around the hydrocarbon molecules.{
+	=%100%oxygen#
+}
+
+
+// question: 28605  name: HAQ1536 
+::HAQ1536::[html]In modern vehicles, carbon monoxide emissions have been reduced by better ................. designs.{
+	=%100%engine#
+}
+
+
+// question: 28606  name: HAQ1537 
+::HAQ1537::[html]In modern vehicles, carbon monoxide emissions have been reduced by ................. treating the exhaust gas.{
+	=%100%chemically#
+}
+
+
+// question: 28607  name: HAQ1538 
+::HAQ1538::[html]Carbon dioxide is produced, with ................., when complete  combustion of air and fuel occurs.{
+	=%100%water#
+}
+
+
+// question: 28608  name: HAQ1539 
+::HAQ1539::[html]Carbon dioxide isn't poisonous, but many scientists consider it a serious contributor to global .................{
+	=%100%warming#
+}
+
+
+// question: 28609  name: HAQ1540 
+::HAQ1540::[html]................. converters in gasoline-engined vehicles convert carbon monoxide to carbon dioxide.{
+	=%100%catalytic#
+}
+
+
+// question: 28610  name: HAQ1541 
+::HAQ1541::[html]Carbon dioxide is also produced by ................. and LPG-fuelled vehicles.{
+	=%100%diesel#
+}
+
+
+// question: 28611  name: HAQ1542 
+::HAQ1542::[html]Sulfuric acid is a major environmental pollutant, coming back to earth in contaminated .................{
+	=%100%rainwater#
+}
+
+
+// question: 28612  name: HAQ1543 
+::HAQ1543::[html]High sulfur levels in fuel, when combined with water vapor, can also cause corrosive wear on valve guides and cylinder liners, which can lead to premature engine failure. The use of proper lubricants and correct oil ................. intervals helps combat this effect and reduces the degree of corrosive damage.{
+	=%100%drain#
+}
+
+
+// question: 28613  name: HAQ1544 
+::HAQ1544::[html]There is evidence that in some instances, sulfur in gasoline may degrade the performance of ................. sensors, which may also result in high emissions.{
+	=%100%oxygen#
+}
+
+
+// question: 28614  name: HAQ1545 
+::HAQ1545::[html]The refining process used to reduce the sulfur level can reduce the natural ................. properties of the diesel fuel, which is essential for the lubrication and operation of fuel system components such as fuel pumps and injectors.{
+	=%100%lubricating#
+}
+
+

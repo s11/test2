@@ -1,0 +1,52 @@
+//name:TQ0106
+::TQ0106::One advantage of an air-operated drill is that:{
+	=it's safer near flammable solvents.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+	~it can be used away from a power source.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+	~it's quieter than an electric drill.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+	~it can take a large range of drill sizes.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+}
+
+
+//name:TQ0107
+::TQ0107::Why should a special socket be used with an air impact wrench?{
+	=An air impact wrench can damage a normal socket with sudden force.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~The drive square is a special size.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~The wrench spins the socket very quickly.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~It can be used on a variety of nut sizes.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+}
+
+
+//name:TQ0108
+::TQ0108::The purpose of the drill chuck on a drilling machine is to allow:{
+	=a range of drill sizes to be fitted.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+	~the machine to be held with both hands.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+	~the drills to be thrown into a tool box.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+	~morse taper drills to be removed easily.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+}
+
+
+//name:TQ0109
+::TQ0109::Which important specification must be checked before a grinding wheel is installed on a machine?{
+	=The designed maximum rotational speed.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+	~The metal that the wheel is designed to grind.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+	~The material from which the wheel is made.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+	~The direction of rotation of the wheel.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+}
+
+
+//name:TQ0110
+::TQ0110::Angle grinders use the face of the edge rather than the edge.{
+	=TRUE#Angle grinders use the edge of the wheel and are useful for jobs that can_t be reached with a hacksaw.
+	~FALSE#Angle grinders use the edge of the wheel and are useful for jobs that can_t be reached with a hacksaw.
+}
+
+
+//name:TQ0111
+::TQ0111::The most common type or style of impact wrench is:{
+	=pneumatic.#Most impact wrenches are air-driven and therefore pneumatic.
+	~hydraulic.#Most impact wrenches are air-driven and therefore pneumatic.
+	~manual.#Most impact wrenches are air-driven and therefore pneumatic.
+	~portable.#Most impact wrenches are air-driven and therefore pneumatic.
+}
+
+

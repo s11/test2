@@ -1,0 +1,115 @@
+// question: 28343  name: HAQ1432 
+::HAQ1432::[html]The ECU is a micro-computer. It is constructed from printed circuitry, and contains a large number of electrical components, including many ................. devices.{
+	=%100%semiconductor#
+}
+
+
+// question: 28344  name: HAQ1433 
+::HAQ1433::[html]More sophisticated ECU models control other functions such as idle speed, ignition timing, and the fuel pump. These wider systems are called engine ................. systems.{
+	=%100%management#
+}
+
+
+// question: 28345  name: HAQ1434 
+::HAQ1434::[html]The more precise control engine management systems allow is very effective in reducing ................. consumption and exhaust emissions.{
+	=%100%fuel#
+}
+
+
+// question: 28346  name: HAQ1435 
+::HAQ1435::[html]Programmed characteristic maps are constructed first from ................. tests, then fine-tuned, to optimise the operating conditions and to comply with emission regulations.{
+	=%100%dynamometer#
+}
+
+
+// question: 28347  name: HAQ1436 
+::HAQ1436::[html]................. timing is crucial in this process. Between one spark and the next, the ECU uses data it receives on engine load and speed to determine when the next ignition point will occur.{
+	=%100%ignition#
+}
+
+
+// question: 28348  name: HAQ1437 
+::HAQ1437::[html]ECU settings are made for various operating conditions, according to fuel ................., engine torque, exhaust  emissions, knocking tendency, and driveability.{
+	=%100%consumption#
+}
+
+
+// question: 28349  name: HAQ1438 
+::HAQ1438::[html]Timing at low idle speeds can be set for low emissions, smoothness, and fuel economy. For part-load operation, the emphasis is on economy and driveability. At full load, it is set for maximum ................. without detonation.{
+	=%100%torque#
+}
+
+
+// question: 28350  name: HAQ1439 
+::HAQ1439::[html]Using the digitally stored map, the ignition point is set for each operating condition, without affecting the settings for any other condition. All of this raises an engine's overall ................., for all operating conditions.{
+	=%100%efficiency#
+}
+
+
+// question: 28351  name: HAQ1440 
+::HAQ1440::[html]With higher compression ratios, there is more risk of detonation, and damage to the ................. chamber.{
+	=%100%combustion#
+}
+
+
+// question: 28352  name: HAQ1441 
+::HAQ1441::[html]A ................. engine is different. Simply retarding the ignition could increase the already high temperatures at the exhaust-driven turbine.{
+	=%100%turbocharged#
+}
+
+
+// question: 28353  name: HAQ1442 
+::HAQ1442::[html]In some systems the fuel injectors are turned off at a pre-set engine speed. Once the engine speed has slowed to a safe value the injectors are turned back on. This is referred to as a ................. limiter.{
+	=%100%hard#
+}
+
+
+// question: 28354  name: HAQ1443 
+::HAQ1443::[html]Other systems use soft limiters where once a pre-set engine speed has been reached, the injector pulse width is reduced to prevent the engine from turning any faster. Both systems protect the engine from ................., without disadvantaging its operation.{
+	=%100%over-revving#
+}
+
+
+// question: 28355  name: HAQ1444 
+::HAQ1444::[html]At different engine speeds and loads, the control unit operates ................. valves that alter the effective pipe length of the manifold.{
+	=%100%solenoid#
+}
+
+
+// question: 28356  name: HAQ1445 
+::HAQ1445::[html]Altering the effective pipe length of the manifold extends the ................. output over a wider range of engine speeds.{
+	=%100%torque#
+}
+
+
+// question: 28357  name: HAQ1446 
+::HAQ1446::[html]The malfunction indicator lamp can also indicate ................. codes. They can be a series of lamp blinks, or voltage pulses from the control unit.{
+	=%100%fault#
+}
+
+
+// question: 28358  name: HAQ1447 
+::HAQ1447::[html]When the control unit does not receive a signal from a  component, it uses a ................. value from its memory bank.{
+	=%100%substitute#
+}
+
+
+// question: 28359  name: HAQ1448 
+::HAQ1448::[html]In some cases, if the fault is in a major component, the control unit may go to a 'Limp Home' mode, with a ................. injection duration, and ignition setting.{
+	=%100%fixed#
+}
+
+
+// question: 28360  name: HAQ1449 
+::HAQ1449::[html]A control unit can use data from its memory to adjust engine settings over time. This is called ................. learning.{
+	=%100%adaptive#
+}
+
+
+// question: 28361  name: HAQ1450 
+::HAQ1450::[html]If the battery is ................., or memory is lost, the settings revert to the manufacturer's programmed specifications, and the vehicle then has to be driven in a range of conditions, to let the control unit, in effect, re-learn the engine's fuel settings.{
+	=%100%disconnected#
+}
+
+
+

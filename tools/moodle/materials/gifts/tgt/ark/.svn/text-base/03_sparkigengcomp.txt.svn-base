@@ -1,0 +1,79 @@
+//name:TQ1423
+::TQ1423::An alloy is a combination of materials that has properties that are not found in the original materials.{
+	=TRUE#Combining different metals allows engineers to create uncommon properties that are not found in one single element.
+	~FALSE#Combining different metals allows engineers to create uncommon properties that are not found in one single element.
+}
+
+
+//name:TQ1424
+::TQ1424::Cylinder blocks are usually made of either aluminum or:{
+	=cast iron.#It can be cast in one piece from grey iron or it can be alloyed with other metals like nickel or chromium.
+	~steel.#It can be cast in one piece from grey iron or it can be alloyed with other metals like nickel or chromium.
+	~copper.#It can be cast in one piece from grey iron or it can be alloyed with other metals like nickel or chromium.
+	~titanium.#It can be cast in one piece from grey iron or it can be alloyed with other metals like nickel or chromium.
+}
+
+
+//name:TQ1425
+::TQ1425::The Crankshaft is held in place in the engine block by main bearings at points called:{
+	=journals.#Bearings support the crankshaft in place but let it turn freely.
+	~camshaft bearings.#Bearings support the crankshaft in place but let it turn freely.
+	~counter weights.#Bearings support the crankshaft in place but let it turn freely.
+	~flanges.#Bearings support the crankshaft in place but let it turn freely.
+}
+
+
+//name:TQ1426
+::TQ1426::What are the cams attached to?{
+	=The camshaft.#In modern vehicles the camshaft is usually mounted over the cylinder head and is called an overhead camshaft.
+	~The crankshaft.#In modern vehicles the camshaft is usually mounted over the cylinder head and is called an overhead camshaft.
+	~The cam lobe.#In modern vehicles the camshaft is usually mounted over the cylinder head and is called an overhead camshaft.
+	~The rocker arm.#In modern vehicles the camshaft is usually mounted over the cylinder head and is called an overhead camshaft.
+}
+
+
+//name:TQ1427
+::TQ1427::What type of scavenging has the inlet or transfer ports within 90 degrees of the exhaust ports?{
+	=Loop scavenging.#The position of the ports is important for how mixture enters the cylinder, and for how burned gases leave it. Removing exhaust gases is called scavenging.
+	~Crossflow scavenging.#The position of the ports is important for how mixture enters the cylinder, and for how burned gases leave it. Removing exhaust gases is called scavenging.
+	~Deflector scavenging.#The position of the ports is important for how mixture enters the cylinder, and for how burned gases leave it. Removing exhaust gases is called scavenging.
+	~Exhaust scavenging.#The position of the ports is important for how mixture enters the cylinder, and for how burned gases leave it. Removing exhaust gases is called scavenging.
+}
+
+
+//name:TQ1428
+::TQ1428::Why do most 2-stroke engines NOT have coolant passages in the cylinder head, like most 4-stroke engines do?{
+	=Most 2-stroke engines are air-cooled.#As most 2 stokes engines use air-cooling is used instead of liquid-cooling, there is no need for coolant passages in the cylinder head.
+	~Most 2-stroke engines don't have a separate cylinder head.#As most 2 stokes engines use air-cooling is used instead of liquid-cooling, there is no need for coolant passages in the cylinder head.
+	~Most 2-stroke engines have a jacket where the coolant flows around the outside of the cylinder head.#As most 2 stokes engines use air-cooling is used instead of liquid-cooling, there is no need for coolant passages in the cylinder head.
+	~Most 2-stroke engines don't generate enough heat to need a cooling system.#As most 2 stokes engines use air-cooling is used instead of liquid-cooling, there is no need for coolant passages in the cylinder head.
+}
+
+
+//name:TQ1429
+::TQ1429::In a 4-stroke engine, the two timing gears are different sizes.  Why? {
+	=The camshaft needs a larger gear, because it rotates slower than the crankshaft.#In one cycle of a 4-stroke engine, the crankshaft makes two revolutions. During that time, the cams must turn through just one revolution, as does the camshaft. 
+	~The crankshaft needs a larger gear because it rotates faster than the camshaft#In one cycle of a 4-stroke engine, the crankshaft makes two revolutions. During that time, the cams must turn through just one revolution, as does the camshaft. 
+	~The crankshaft needs a smaller gear because it rotates slower than the camshaft#In one cycle of a 4-stroke engine, the crankshaft makes two revolutions. During that time, the cams must turn through just one revolution, as does the camshaft. 
+	~The camshaft needs a smaller gear because it rotates faster than the crankshaft#In one cycle of a 4-stroke engine, the crankshaft makes two revolutions. During that time, the cams must turn through just one revolution, as does the camshaft. 
+}
+
+
+//name:TQ1430
+::TQ1430::In a 2-stroke engine, airfuel mixture enters the combustion chamber through:{
+	=the transfer port.#Incoming airfuel mixture enters below the piston, into the crankcase. The mixture is then transferred to the combustion chamber through the transfer port.
+	~the inlet valve.#Incoming airfuel mixture enters below the piston, into the crankcase. The mixture is then transferred to the combustion chamber through the transfer port.
+	~the fuel injectors.#Incoming airfuel mixture enters below the piston, into the crankcase. The mixture is then transferred to the combustion chamber through the transfer port.
+	~the inlet port.#Incoming airfuel mixture enters below the piston, into the crankcase. The mixture is then transferred to the combustion chamber through the transfer port.
+}
+
+
+//name:TQ1431
+::TQ1431::Why do 2-stroke pistons not have an oil control ring?{
+	=Because lubricating oil is mixed with the fuel, so it is not required.#The top two piston rings are called compression rings. A third ring scrapes excess oil off the cylinder walls. Since 2-stroke petrol engines are usually lubricated by oil mixed with the petrol, they don't need this oil control ring.
+	~There is less oil on 2-stroke cylinder walls.#The top two piston rings are called compression rings. A third ring scrapes excess oil off the cylinder walls. Since 2-stroke petrol engines are usually lubricated by oil mixed with the petrol, they don't need this oil control ring.
+	~There are two oil rings on a 2-stroke piston.#The top two piston rings are called compression rings. A third ring scrapes excess oil off the cylinder walls. Since 2-stroke petrol engines are usually lubricated by oil mixed with the petrol, they don't need this oil control ring.
+	~2-stroke engines don't need any oil for lubrication.#The top two piston rings are called compression rings. A third ring scrapes excess oil off the cylinder walls. Since 2-stroke petrol engines are usually lubricated by oil mixed with the petrol, they don't need this oil control ring.
+}
+
+

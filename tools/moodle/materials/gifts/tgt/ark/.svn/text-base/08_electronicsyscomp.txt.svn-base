@@ -1,0 +1,79 @@
+//name:TQ1082
+::TQ1082::How many blades and windows does the interrupter ring have compared to the number of cylinders?{
+	=the same.#Each blade and interrupter set produces one spark per cylinder.
+	~half as many.#Each blade and interrupter set produces one spark per cylinder.
+	~twice as many.#Each blade and interrupter set produces one spark per cylinder.
+	~no relationship.#Each blade and interrupter set produces one spark per cylinder.
+}
+
+
+//name:TQ1083
+::TQ1083::What job does the Hall effect device perform in an electronic ignition system?{
+	=It provides a signal to switch primary circuit.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+	~It times the spark.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+	~It switches the high tension current.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+	~It provides vacuum advance.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+}
+
+
+//name:TQ1084
+::TQ1084::What part of the interrupter ring is positioned between the air gap of the Hall device to allow current flow through the primary winding of the ignition coil?{
+	=Blade.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+	~Window.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+	~Rotor.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+	~Ballast resistor.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+}
+
+
+//name:TQ1085
+::TQ1085::In induction type systems, a pulse generator produces a voltage of positive polarity when the reluctor teeth:{
+	=approach the stator teeth.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+	~align with the stator teeth.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+	~leave the stator teeth.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+	~are stationary.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+}
+
+
+//name:TQ1086
+::TQ1086::The dwell control circuit:{
+	=varies dwell angle to suit engine need.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+	~ensures constant dwell angle.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+	~ensures a long dwell period at low engine speed.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+	~ensures a short dwell period at high engine speed.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+}
+
+
+//name:TQ1087
+::TQ1087::In an optical distributor a rotor plate has slits equal to the number of cylinders. Number 1 cylinder is identified by a:{
+	=wider slit.#The number of slits will equal the number of cylinders in the engine.
+	~narrower slit.#The number of slits will equal the number of cylinders in the engine.
+	~no slit.#The number of slits will equal the number of cylinders in the engine.
+	~many slits.#The number of slits will equal the number of cylinders in the engine.
+}
+
+
+//name:TQ1088
+::TQ1088::What information do the 360 one degree slits provide to the ECU?{
+	=engine RPM and crank angle position.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+	~crank angle and number 1 cylinder position.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+	~engine RPM and number 1 cylinder position.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+	~none of these answers.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+}
+
+
+//name:TQ1089
+::TQ1089::The induction winding is connected to the ignition module and forms part of:{
+	=the internal module control circuit.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+	~the ignition coil.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+	~advance control circuit.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+	~battery control circuit.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+}
+
+
+//name:TQ1090
+::TQ1090::When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC:{
+	=transistor T0 is switched off.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+	~transistor T0 is switched on.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+	~transistor T1 is switched off.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+	~transistor T2 is switched off.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+}

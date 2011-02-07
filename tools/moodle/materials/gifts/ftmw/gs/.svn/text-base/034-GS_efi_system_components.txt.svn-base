@@ -1,0 +1,62 @@
+
+// question: 4421  name: HAQ1245 
+::HAQ1245::[html]Small particles of dirt can block an injection nozzle and cause an .............................. spray pattern.{
+	=%100%irregular#
+}
+
+
+// question: 4422  name: HAQ1246 
+::HAQ1246::[html]Any .............................. in the fuel will corrode the inside of the injector - especially if the engine stands unused for long periods.{
+	=%100%water#
+}
+
+
+// question: 4423  name: HAQ1247 
+::HAQ1247::[html]The first filtering occurs with a strainer or fine .............................. in the fuel tank.{
+	=%100%gauze#
+}
+
+
+// question: 4424  name: HAQ1248 
+::HAQ1248::[html]The next time filtering occurs at the in-line filter, on the ..............................-pressure side of the pump.{
+	=%100%high#
+}
+
+// question: 4444  name: HAQ1268 
+::HAQ1268::[html]The tachometric relay is normally connected to the .............................. terminal of the ignition coil.{
+	=%100%negative#
+}
+
+
+// question: 4445  name: HAQ1269 
+::HAQ1269::[html]At idle speed, the frequency of the pulse from the ignition coil is ..............................{
+	=%100%steady#
+}
+
+
+// question: 4446  name: HAQ1270 
+::HAQ1270::[html]As the engine speed rises, the frequency of the pulse from the ignition coil .............................., as the tachometer indicates.{
+	=%100%increases#
+}
+
+
+// question: 4447  name: HAQ1271 
+::HAQ1271::[html]As a safety measure, the tachometric relay uses an input (from the negative side of the ignition coil) to ensure the relay operates only when engine speed is above a specified .............................., say, 350 RPM.{
+	=%100%minimum#
+}
+
+// question: 4452  name: HAQ1276 
+::HAQ1276::[html]Wide band oxygen sensor systems are ideal for optimum emissions for car petrol engines diesel engines, particularly where the  incoming air is .............................. and not restricted by a throttle butterfly lean running direct injection petrol engines.{
+	=%100%unthrottled#
+}
+
+
+// question: 4453  name: HAQ1277 
+::HAQ1277::[html]Engine misfire can be caused by a variety of faults, however the result is always the same. There is the potential for unacceptable levels of .............................. to be produced.{
+	=%100%pollution#
+}
+
+// question: 4454  name: HAQ1278 
+::HAQ1278::[html]Switches are used to inform the ECU when the power .............................. pump pressure is high.{
+	=%100%steering#
+}

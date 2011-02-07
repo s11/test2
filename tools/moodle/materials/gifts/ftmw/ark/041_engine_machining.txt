@@ -1,0 +1,211 @@
+// question: 26004  name: HAQ3551 
+::HAQ3551::[html]Before the parts are examined beyond a quick visual inspection, they need to be .................{
+	=%100%cleaned#
+}
+
+
+// question: 26005  name: HAQ3552 
+::HAQ3552::[html]Depending on their condition, everything from the block and disassembled heads to the crankshaft and all the covers may need to be put into the ................. wash for degreasing.{
+	=%100%jet#
+}
+
+
+// question: 26006  name: HAQ3553 
+::HAQ3553::[html]After that, the heads and block will need to be ................. or baked until they are perfectly clean and any of the external covers detailed to be ready for paint later on.{
+	=%100%blasted#
+}
+
+
+// question: 26007  name: HAQ3554 
+::HAQ3554::[html]Cracks in cast iron parts can be detected by a process called .................{
+	=%100%Magnaflux#
+}
+
+
+// question: 26008  name: HAQ3555 
+::HAQ3555::[html]................. parts are not magnetic, so for these parts there is a die process to make cracks visible.{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 26009  name: HAQ3556 
+::HAQ3556::[html]If they are not cracked or scratched, use a dial bore ................. to check the cylinders and see if they are out of round or if there is a taper from the bottom to the top of the cylinder.{
+	=%100%gauge#
+}
+
+
+// question: 26010  name: HAQ3557 
+::HAQ3557::[html]If a piston is measured and found to be worn too far, it is considered a ................. piston and cannot be reused.{
+	=%100%collapsed#
+}
+
+
+// question: 26011  name: HAQ3558 
+::HAQ3558::[html]Inspect the big and small ends of the connecting rods and the rod ................. to make sure they are not bent or twisted.{
+	=%100%bodies#
+}
+
+
+// question: 26012  name: HAQ3559 
+::HAQ3559::[html]Both boring and ................. the cylinders is quite often necessary, which means that the pistons will need to be replaced.{
+	=%100%honing#
+}
+
+
+// question: 26013  name: HAQ3560 
+::HAQ3560::[html]A block may have a misaligned main bearing bore, or a ................. deck, in which case both will need to be cut straight.{
+	=%100%warped#
+}
+
+
+// question: 26014  name: HAQ3561 
+::HAQ3561::[html]If there are serious scratches or gouges in any of the journals they will need to be ground undersize and ................. bearings will have to be used when the engine is reassembled.{
+	=%100%oversized#
+}
+
+
+// question: 26015  name: HAQ3562 
+::HAQ3562::[html]The machining process removes material and this causes ................. to build up in the component. Always allow breaks in the machining process so that components can cool.{
+	=%100%heat#
+}
+
+
+// question: 26016  name: HAQ3563 
+::HAQ3563::[html]The size is checked with a dial bore gauge and the honing ................. are inserted and expanded until the proper drag is felt.{
+	=%100%stones#
+}
+
+
+// question: 26017  name: HAQ3564 
+::HAQ3564::[html]Next, the alignment dowels for the heads are removed and the block ................. is leveled.{
+	=%100%deck#
+}
+
+
+// question: 26018  name: HAQ3565 
+::HAQ3565::[html]A piston bore that is still the original diameter as when it left the factory is said to be ................. size.{
+	=%100%standard#
+}
+
+
+// question: 26019  name: HAQ3566 
+::HAQ3566::[html]In the machining process its important to remove the ................. amount of material possible.{
+	=%100%least#
+}
+
+
+// question: 26020  name: HAQ3567 
+::HAQ3567::[html]First, the old valve guides are machined so that their bore is fractionally larger, and new ................. liners are pressed into the head.{
+	=%100%bronze#
+}
+
+
+// question: 26021  name: HAQ3568 
+::HAQ3568::[html]Now that the heads are perfect and the valve guides are back to specification, the valve stems are checked with a ................. to make sure they are reusable.{
+	=%100%micrometer#
+}
+
+
+// question: 26022  name: HAQ3569 
+::HAQ3569::[html]On these connecting rods the piston pins are ................., which means they are free to move in the piston, but they are pinched into a permanent position in the small end of the rod.{
+	=%100%semi floating#
+	=%100%semi-floating#
+}
+
+
+// question: 26023  name: HAQ3570 
+::HAQ3570::[html]With the rods separated, the caps now need to be removed. It is important that if you need to hit these to separate them, you only do this with a ................. hammer.{
+	=%100%brass#
+}
+
+
+// question: 26024  name: HAQ3571 
+::HAQ3571::[html]The threads are ................. and the nuts installed and torqued on each rod.{
+	=%100%lubricated#
+}
+
+
+// question: 26025  name: HAQ3572 
+::HAQ3572::[html]One by one each rod is honed to return the big end back to a perfect .................{
+	=%100%circle#
+}
+
+
+// question: 26026  name: HAQ3573 
+::HAQ3573::[html]Rod ends need to be ................. to allow the tight fitting pin to be pushed home.{
+	=%100%heated#
+}
+
+
+// question: 26027  name: HAQ3574 
+::HAQ3574::[html]Cleaning them by hand is laborious and not as effective as masking of the skirts with tape and ................. blasting old carbon deposits off in a blast cabinet.{
+	=%100%sand#
+}
+
+
+// question: 26028  name: HAQ3575 
+::HAQ3575::[html]With semi-floating pins the small end of the rod is too tight for the piston pin to pass through, if the metal is at room temperature. But when the end of the rod is heated up, the opening will .................{
+	=%100%expand#
+}
+
+
+// question: 26029  name: HAQ3576 
+::HAQ3576::[html]Ensure that the ................. is left totally clean, any foreign particles can cause damage to the assembled engine.{
+	=%100%bore#
+}
+
+
+// question: 26030  name: HAQ3577 
+::HAQ3577::[html]On pistons with ................. skirts, the diameter is measured on the skirt with a micrometer.{
+	=%100%uncoated#
+}
+
+
+// question: 26031  name: HAQ3578 
+::HAQ3578::[html]The honing process leaves a fine ................. pattern of light scratches on the walls of the cylinder that are necessary to retain microscopic beads of oil.{
+	=%100%crosshatch#
+	=%100%cross hatch#
+	=%100%cross-hatch#
+}
+
+
+// question: 26032  name: HAQ3579 
+::HAQ3579::[html]It is the balance between the speed of the stroke and the ................. on the meter that returns the cylinder to a perfectly straight and round bore.{
+	=%100%load#
+}
+
+
+// question: 26033  name: HAQ3580 
+::HAQ3580::[html]When all the cylinders are within tolerance, the stones are changed for some ................. that will be run with the honing oil to clean as much of the grit out of the crosshatches as possible before the final wash.{
+	=%100%bushes#
+}
+
+
+// question: 26034  name: HAQ3581 
+::HAQ3581::[html]Ensure all parts are thoroughly cleaned metal surfaces can be kept from rusting with products like .................{
+	=%100%WD 40#
+	=%100%WD40#
+	=%100%WD-40#
+}
+
+
+// question: 26035  name: HAQ3582 
+::HAQ3582::[html]A ring installed in the ................. groove of the piston acts as a stop so that the ring doesn't get pushed down too far.{
+	=%100%second#
+}
+
+
+// question: 26036  name: HAQ3583 
+::HAQ3583::[html]Use a ................. gauge to check that the ring gap is at the specification shown in the repair manual.{
+	=%100%feeler#
+}
+
+
+// question: 26037  name: HAQ3584 
+::HAQ3584::[html]Machined and regular metal surfaces can be kept from rusting with regular applications of WD-40. This water ................. fluid forces water out of the pores of metal surfaces and prevents corrosion, and it should be used both on the inside and the outside of your newly machined components.{
+	=%100%displacement#
+}
+
+
+

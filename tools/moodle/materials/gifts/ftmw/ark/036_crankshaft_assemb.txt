@@ -1,0 +1,135 @@
+// question: 25701  name: HAQ0778 
+::HAQ0778::[html]The crankshaft is attached to the connecting rod in offset areas called ................. - where the downward power pulses change into rotating motion.{
+	=%100%throws#
+}
+
+
+// question: 25702  name: HAQ0779 
+::HAQ0779::[html]Crankshafts are a one piece casting, or forging, of heat-treated alloy steel of great mechanical strength. ................. are formed to balance the throws, and also the big end of the connecting rod.{
+	=%100%counterweights#
+}
+
+
+// question: 25703  name: HAQ0780 
+::HAQ0780::[html]The connecting rod with its big end bearings are attached to the crankshaft crank ................. located on the throws.{
+	=%100%pins#
+}
+
+
+// question: 25704  name: HAQ0781 
+::HAQ0781::[html]Drilled passages carry ................. under pressure from the main bearings to the adjacent big end bearings.{
+	=%100%lubricant#
+}
+
+
+// question: 25705  name: HAQ0782 
+::HAQ0782::[html]The harmonic balancer prevents crankshaft .................{
+	=%100%vibration#
+}
+
+
+// question: 25706  name: HAQ0783 
+::HAQ0783::[html]Connecting rod bearings and the crankshaft main bearings are called ................. types, which means they are in two halves, called inserts, slippers or shells.{
+	=%100%split-sleeve#
+	=%100%split sleeve#
+	=%100%split-sleeve#
+}
+
+
+// question: 25707  name: HAQ0784 
+::HAQ0784::[html]In a main bearing, the ................. half of the bearing fits into a machined section of a crankcase web.{
+	=%100%upper#
+}
+
+
+// question: 25708  name: HAQ0785 
+::HAQ0785::[html]In a connecting rod bearing, its upper half is carried in the big end of the connecting rod. The lower half is in the connecting rod .................{
+	=%100%cap#
+}
+
+
+// question: 25709  name: HAQ0786 
+::HAQ0786::[html]One main bearing has thrust faces which accept the end movement of the ................. These can be in the form of flanges that are part of the beanng.{
+	=%100%crankshaft#
+}
+
+
+// question: 25710  name: HAQ0787 
+::HAQ0787::[html]Engine manufacturers specify the ................. required between the bearing material and the crankshaft.{
+	=%100%clearance#
+}
+
+
+// question: 25711  name: HAQ0788 
+::HAQ0788::[html]On a car with ................. transmission, the flywheel is very heavy, and its momentum helps smooth out engine operation.{
+	=%100%manual#
+}
+
+
+// question: 25712  name: HAQ0789 
+::HAQ0789::[html]The flywheel links the crankshaft to the transmission, through the .................{
+	=%100%clutch#
+}
+
+
+// question: 25713  name: HAQ0790 
+::HAQ0790::[html]The outer edge of the flywheel or drive plate has a gear called a ................. gear.{
+	=%100%ring#
+}
+
+
+// question: 25714  name: HAQ0791 
+::HAQ0791::[html]A ................. travelling back and forth in a cylinder is a reciprocating action.{
+	=%100%piston#
+}
+
+
+// question: 25715  name: HAQ0792 
+::HAQ0792::[html]The connecting rod fastened at one end to the piston and at the other end to the crankshaft turns that reciprocating action into ................. action.{
+	=%100%rotary#
+}
+
+
+// question: 25716  name: HAQ3469 
+::HAQ3469::[html]The crankshaft turns because of the forces transmitted through the .................{
+	=%100%connecting rods#
+}
+
+
+// question: 25717  name: HAQ3470 
+::HAQ3470::[html]The Crankshaft is held in place in the engine block by main bearings at points called .................{
+	=%100%journals#
+}
+
+
+// question: 25718  name: HAQ3471 
+::HAQ3471::[html]The crankshaft also needs to be located to stop lateral movement. This is done by using ................. between the connecting rod and the crankshaft are connecting rod bearings.{
+	=%100%flanges#
+}
+
+
+// question: 25719  name: HAQ3472 
+::HAQ3472::[html]On the rear of the crankshaft is a heavy ................. It stores up energy from the power stroke and helps keep the crankshaft turning.{
+	=%100%flywheel#
+}
+
+
+// question: 25720  name: HAQ3473 
+::HAQ3473::[html]The valve is held in place by a valve guide, with a ................. on its stem.{
+	=%100%spring#
+}
+
+
+// question: 25721  name: HAQ3474 
+::HAQ3474::[html]The rocker arm ................. and releases the valve spring, so that the valve opens and closes.{
+	=%100%compresses#
+}
+
+
+// question: 25722  name: HAQ3475 
+::HAQ3475::[html]Cams are attached to a camshaft. In modern vehicles it's usually mounted over the cylinder head and is called an ................. camshaft.{
+	=%100%overhead#
+}
+
+
+

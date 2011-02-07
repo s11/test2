@@ -1,0 +1,70 @@
+//name:TQ1173
+::TQ1173::When carrying out a lighting and peripheral systems check, if a bulb does not operate, what should be checked first?{
+	=Fuse.#Be sure to work in a systematic manner so as not to miss any components.
+	~Battery electrolyte level.#Be sure to work in a systematic manner so as not to miss any components.
+	~Reverse light switch.#Be sure to work in a systematic manner so as not to miss any components.
+	~Brake light switch.#Be sure to work in a systematic manner so as not to miss any components.
+}
+
+
+//name:TQ1174
+::TQ1174::When checking the lighting system on a vehicle how can you ensure that you do not miss a faulty bulb or another component during your inspection?{
+	=Work in a systematic manner.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+	~Get someone to check it after you have finished.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+	~Do the internal check first, then the external check.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+	~Do the external check first, then the internal check.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+}
+
+
+//name:TQ1175
+::TQ1175::Before attempting to change a bulb, what should be checked?{
+	=Fuse.#Be sure to work in a systematic manner so as not to miss any components.
+	~Ignition switch.#Be sure to work in a systematic manner so as not to miss any components.
+	~Hazard light switch.#Be sure to work in a systematic manner so as not to miss any components.
+	~Door contact switch.#Be sure to work in a systematic manner so as not to miss any components.
+}
+
+
+//name:TQ1176
+::TQ1176::When checking and changing an exterior light bulb what important task must you undertake as part of the process?{
+	=Before replacing the bulb, check the bulb holder for corrosion. #Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+	~Make sure that the power is turned off.#Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+	~Ensure that the battery is isolated.#Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+	~Check the battery voltage.#Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+}
+
+
+//name:TQ1177
+::TQ1177::Many vehicles use halogen light bulbs. What must you avoid when handling halogen bulbs?{
+	=Touching the glass.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+	~Touching the metal.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+	~Disconnecting the bulb.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+	~Touching the terminal.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+}
+
+
+//name:TQ1178
+::TQ1178::Why must you always make sure that you replace a bulb with one of exactly the same type?{
+	=Mis-matched bulbs can cause cause ligthing intensity issues.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+	~It doesn't make any difference.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+	~They will aim in the wrong direction.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+	~Because it will not fit in the holder.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+}
+
+
+//name:TQ1179
+::TQ1179::Which of the following is not a requirement when carrying out a headlamp aim check?{
+	=Spare tyre pressure correct.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+	~Tyre pressures correct.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+	~Regional legislation.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+	~Vehicle level.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+}
+
+
+//name:TQ1180
+::TQ1180::Although the principle of aiming headlights is the same in the majority of cases, the legal rules can differ from region to region.{
+	=TRUE#The legal rules for where headlights should be aimed can differ from region to region. Be sure to check the requirements for your location.
+	~FALSE#The legal rules for where headlights should be aimed can differ from region to region. Be sure to check the requirements for your location.
+}
+
+

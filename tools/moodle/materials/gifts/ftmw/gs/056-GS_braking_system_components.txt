@@ -1,0 +1,112 @@
+// question: 28529  name: HAQ1976 
+::HAQ1976::[html]Different lever designs can alter the effort the driver needs to make. This is achieved by the utilization of ............................... advantage.{
+	=%100%mechanical#
+}
+
+
+// question: 28530  name: HAQ1977 
+::HAQ1977::[html]The pedal is solidly mounted to the ..............................., and works as a force-multiplying lever.{
+	=%100%firewall#
+}
+
+
+// question: 28531  name: HAQ1978 
+::HAQ1978::[html]Pedal height and ............................... is important for comfort and safety.{
+	=%100%angle#
+}
+
+
+// question: 28532  name: HAQ1979 
+::HAQ1979::[html]Brake lines carry brake fluid from the master cylinder to the brakes. They are basically the same on all brake systems. For most of their length they are ...............................{
+	=%100%steel#
+}
+
+
+// question: 28533  name: HAQ1980 
+::HAQ1980::[html]Brake lines are attached to the body with clips or brackets to prevent damage from ...............................{
+	=%100%vibration#
+}
+
+
+// question: 28534  name: HAQ1981 
+::HAQ1981::[html]The brake fluid travels from the master cylinder to the wheels through a series of steel tubes and reinforced   rubber hoses. Rubber hoses are only used in places that require ..............................., such as at the front wheels, which move up and down as well as steer.{
+	=%100%flexibility#
+}
+
+
+// question: 28536  name: HAQ1983 
+::HAQ1983::[html]If the brake fluid should ..............................., it will cause the vehicle to experience a spongy pedal and the vehicles stopping ability will be compromised.{
+	=%100%boil#
+}
+
+
+// question: 28537  name: HAQ1984 
+::HAQ1984::[html]Brake fluid is ..............................., which means, it absorbs water over time.{
+	=%100%hygroscopic#
+}
+
+
+// question: 28538  name: HAQ1985 
+::HAQ1985::[html]Brake fluid must have the correct ............................... for hot and cold conditions.{
+	=%100%viscosity#
+}
+
+
+// question: 28539  name: HAQ1986 
+::HAQ1986::[html]Brake fluid is used to transfer force under pressure from where it is created through hydraulic lines to the braking mechanism near the wheels. It works because liquids are not appreciably ...............................{
+	=%100%compressible#
+}
+
+
+// question: 28540  name: HAQ2001 
+::HAQ2001::[html]Vehicles with ............................... engines cannot use manifold vacuum so they are fitted with an engine-driven vacuum pump.{
+	=%100%diesel#
+}
+
+
+// question: 28541  name: HAQ2002 
+::HAQ2002::[html]Power brakes are also referred to as 'power ............................... brakes' and are designed to use the power from the engines and/or battery to increase the braking power of the vehicle.{
+	=%100%assisted#
+}
+
+
+// question: 28542  name: HAQ2009 
+::HAQ2009::[html]We must be able to ............................... to the people driving behind our vehicle that we are slowing down or stopping.{
+	=%100%indicate#
+}
+
+
+// question: 28543  name: HAQ2010 
+::HAQ2010::[html]In most cases the stop light switch is mounted under the ...............................{
+	=%100%dash#
+}
+
+
+// question: 28544  name: HAQ2011 
+::HAQ2011::[html]As the driver depresses the ............................... pedal, the stop light switch closes.{
+	=%100%brake#
+}
+
+
+// question: 28525  name: HAQ3752 
+::HAQ3752::[html]All vehicles must have at least two ............................... braking systems.{
+	=%100%independent#
+}
+
+
+// question: 28526  name: HAQ3753 
+::HAQ3753::[html]The mechanical park brake is normally ............................... operated by a brake handle located on the vehicle floor or under the dash.{
+	=%100%hand#
+}
+
+
+// question: 28527  name: HAQ3754 
+::HAQ3754::[html]On vehicles fitted with 4 wheel disc brakes, the park brake is applied at the ............................... caliper by the cable-operated system.{
+	=%100%rear#
+}
+
+
+// question: 28528  name: HAQ3755 
+::HAQ3755::[html]As the driver applies the park brake, the cable will pull on this lever and force the brake shoes into contact with the brake ................................{
+	=%100%drum#
+}

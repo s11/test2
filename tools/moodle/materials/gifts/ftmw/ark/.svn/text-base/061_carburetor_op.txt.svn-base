@@ -1,0 +1,150 @@
+// question: 27490  name: HAQ1141 
+::HAQ1141::[html]The carburetor works on ................. principle: the fact that moving air has lower pressure than still air, and that the faster the movement of the air, the lower the pressure.{
+	=%100%Bernoulli's#
+}
+
+
+// question: 27491  name: HAQ1142 
+::HAQ1142::[html]In addition, the sudden drop in pressure from the fuel line to the carburetor partially ................. the fuel and mixes it with the air.{
+	=%100%vaporises#
+}
+
+
+// question: 27492  name: HAQ1143 
+::HAQ1143::[html]A carburetor mixes the air and fuel and controls how much mixture enters the engine. An intake ................. carries the mixture to the engine.{
+	=%100%manifold#
+}
+
+
+// question: 27493  name: HAQ1144 
+::HAQ1144::[html]The carburetor controls the flow of air-fuel mixture with the throttle valve near the bottom of the carburetor, which is connected to the ................. pedal.{
+	=%100%accelerator#
+}
+
+
+// question: 27494  name: HAQ1145 
+::HAQ1145::[html]The reason  for having primary and secondary barrels is that a big carburetor, optimised for high flow rates, is ................. at lower rates; such a primary/secondary arrangement attempts to be the best of both worlds.{
+	=%100%inefficient#
+}
+
+
+// question: 27496  name: HAQ1147 
+::HAQ1147::[html]On a Constant depression carburetor - the ................. is varied to alter the mixture.{
+	=%100%jet#
+}
+
+
+// question: 27497  name: HAQ1148 
+::HAQ1148::[html]Some carburetors do not have a dedicated air restriction valve but instead use a mixture ................. device.{
+	=%100%enrichment#
+}
+
+
+// question: 27498  name: HAQ1149 
+::HAQ1149::[html]To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to ................. pressure.{
+	=%100%atmospheric#
+}
+
+
+// question: 27499  name: HAQ1150 
+::HAQ1150::[html]With the engine running, fuel is held at a set level by the ................. and a needle valve.{
+	=%100%float#
+}
+
+
+// question: 27500  name: HAQ1151 
+::HAQ1151::[html]A passage from the air horn to the float bowl balances air ................. between the air cleaner and the float bowl.{
+	=%100%pressure#
+}
+
+
+// question: 27501  name: HAQ1152 
+::HAQ1152::[html]The air bleed lets air enter the fuel on its way from the float bowl. This helps ................. the fuel before it reaches the idle port.{
+	=%100%aerate#
+}
+
+
+// question: 27502  name: HAQ1153 
+::HAQ1153::[html]Engine idle speed is set by 2 different adjustments. The amount of fuel is adjusted by the ................. adjustment screw at the idle port.{
+	=%100%mixture#
+}
+
+
+// question: 27503  name: HAQ1154 
+::HAQ1154::[html]Engine idle speed is set by 2 different adjustments. The amount of air is adjusted by changing the ................. stop screw.{
+	=%100%throttle#
+}
+
+
+// question: 27504  name: HAQ1155 
+::HAQ1155::[html]How much fuel leaves the nozzle depends on the ................. difference created by the air flow through the venturi.{
+	=%100%pressure#
+}
+
+
+// question: 27505  name: HAQ1156 
+::HAQ1156::[html]The mass of air doesn't increase in ................. with the speed, and as a result, high speeds can produce a mixture that is too rich.{
+	=%100%proportion#
+}
+
+
+// question: 27506  name: HAQ1157 
+::HAQ1157::[html]To correct an over rich mixture, more air can be added. This is called ................. by air correction.{
+	=%100%compensation#
+}
+
+
+// question: 27507  name: HAQ1158 
+::HAQ1158::[html]With the throttle valve fully open for full engine power, the vacuum in the intake manifold falls. A ................. pushes down the vacuum piston and rod, to open the power valve.{
+	=%100%spring#
+}
+
+
+// question: 27508  name: HAQ1159 
+::HAQ1159::[html]Suddenly opening the throttle increases the air flow, but fuel cannot flow from the ................. nozzle quickly enough to match it.{
+	=%100%discharge#
+}
+
+
+// question: 27509  name: HAQ1160 
+::HAQ1160::[html]Depressing the pedal compresses a ................. spring that exerts a force on the plunger of a small plunger pump.{
+	=%100%duration#
+}
+
+
+// question: 27510  name: HAQ1161 
+::HAQ1161::[html]Fuel flows through a bypass jet and enters the air stream from a discharge nozzle above the .................{
+	=%100%venturi#
+}
+
+
+// question: 27511  name: HAQ1162 
+::HAQ1162::[html]Most chokes are controlled automatically, so that the valve is closed when the engine is cold, and opens ................. as the engine warms up.{
+	=%100%progressively#
+}
+
+
+// question: 27512  name: HAQ1163 
+::HAQ1163::[html]One has a common float chamber, but each barrel has a  complete set of all other circuits, and the throttles can open .................{
+	=%100%simultaneously#
+}
+
+
+// question: 27513  name: HAQ1164 
+::HAQ1164::[html]The primary side of the carburetor has a ................. for cold starting.{
+	=%100%choke#
+}
+
+
+// question: 27514  name: HAQ1165 
+::HAQ1165::[html]By the time the primary throttle is wide-open, so is the secondary throttle. This can be controlled .................{
+	=%100%mechanically#
+}
+
+
+// question: 27515  name: HAQ1166 
+::HAQ1166::[html]A central molded plastic fuel bowl and suspended metering system can be incorporated into the design. This gives lower fuel temperatures with more ................. fuel metering and closer control over air-fuel ratios.{
+	=%100%precise#
+}
+
+

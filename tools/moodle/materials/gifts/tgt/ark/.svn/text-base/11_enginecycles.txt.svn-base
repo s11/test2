@@ -1,0 +1,50 @@
+//name:TQ1318
+::TQ1318::Aluminum is an alloy designed to be hard enough to make pistons.{
+	=FALSE#Aluminum by itself it too soft, but when mixed with other materials, alloys are produced that are ideal as pistons.
+	~TRUE#Aluminum by itself it too soft, but when mixed with other materials, alloys are produced that are ideal as pistons.
+}
+
+
+//name:TQ1319
+::TQ1319::In an engine, the torque drives the:{
+	=wheels.#Engine output refers to the torque and power produced by an engine.
+	~engine.#Engine output refers to the torque and power produced by an engine.
+	~fuel pump.#Engine output refers to the torque and power produced by an engine.
+	~alternator.#Engine output refers to the torque and power produced by an engine.
+}
+
+
+//name:TQ1320
+::TQ1320::The power range of an engine can be described by its:{
+	=load factor.#The 'load factor' gives its load and speed as an average over a certain period.
+	~lag factor.#The 'load factor' gives its load and speed as an average over a certain period.
+	~power factor.#The 'load factor' gives its load and speed as an average over a certain period.
+	~engine factor.#The 'load factor' gives its load and speed as an average over a certain period.
+}
+
+
+//name:TQ1321
+::TQ1321::The pressure and temperature of a gas are linked. As pressure goes up, temperature:{
+	=goes up.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+	~goes down.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+	~stays the same.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+	~fluctuates up and down.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+}
+
+
+//name:TQ1322
+::TQ1322::As volume falls, pressure:{
+	=rises.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+	~falls.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+	~stays the same.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+	~fluctuates up and down.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+}
+
+
+//name:TQ1323
+::TQ1323::Heating gas particles makes them move faster, and they exert less pressure on the surfaces of their container.{
+	=FALSE#Heated particles exert greater pressure on the surfaces of their container, until eventually, they are able to do work..
+	~TRUE#Heated particles exert greater pressure on the surfaces of their container, until eventually, they are able to do work..
+}
+
+

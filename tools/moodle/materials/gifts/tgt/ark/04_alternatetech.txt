@@ -1,0 +1,39 @@
+//name:TQ0259
+::TQ0259::Pollutants usually regulated by emissions standards are: {
+	=various compounds of nitrogen oxide (NOx);carbon monoxide (CO); hydrocarbons (HC); and particulate matter (PM)#All these pollutants - NOx, CO, HC, and PM - are usually regulated by emissions standards. 
+	~carbon monoxide (CO); hydrocarbons (HC); and particulate matter (PM) only#all these pollutants - NOx, CO, HC, and PM - are usually regulated by emissions standards. 
+	~various compounds of nitrogen oxide (NOx);carbon monoxide (CO); and particulate matter (PM) only#All these pollutants - NOx, CO, HC, and PM - are usually regulated by emissions standards. 
+	~various compounds of nitrogen oxide (NOx);carbon monoxide (CO); and hydrocarbons (HC) only#
+}
+
+
+//name:TQ0260
+::TQ0260::Biodiesel is a renewable fuel made by combining organic oils with an alcohol. {
+	=TRUE#Biodiesel is renewable fuel made by combining organic oils with an alcohol. It produces lower emissions and can be used in diesel engines alone or blended with petrodiesel fuel.
+	~FALSE#Biodiesel is renewable fuel made by combining organic oils with an alcohol. It produces lower emissions and can be used in diesel engines alone or blended with petrodiesel fuel.
+}
+
+
+//name:TQ0261
+::TQ0261::NOx sometimes increases with bio-diesel.{
+	=TRUE#NOx does sometimes increase with bio-diesel, but after-treatment devices benefit from the lack of sulfur in biodiesel.
+	~FALSE#NOx does sometimes increase with bio-diesel, but after-treatment devices benefit from the lack of sulfur in biodiesel.
+}
+
+
+//name:TQ0262
+::TQ0262::Biodiesel fuel is not compatible with petrodiesel. {
+	=FALSE#Biodiesel fuel is compatible with petrodiesel and may be used 100% (B100) in place of petrodiesel, or may be blended with petrodiesel. 
+	~TRUE#Biodiesel fuel is compatible with petrodiesel and may be used 100% (B100) in place of petrodiesel, or may be blended with petrodiesel. 
+}
+
+
+//name:TQ0263
+::TQ0263::Emission standards set limits to what pollutants in the envionment?{
+	=Particulate and gaseous pollutants.#Emission standards set limits on the amount of particulate and gaseous pollutants that vehicles can release into the environment. Different standards apply in different parts of the world.
+	~Particulate pollutants.#Emission standards set limits on the amount of particulate and gaseous pollutants that vehicles can release into the environment. Different standards apply in different parts of the world.
+	~Gaseous pollutants.#Emission standards set limits on the amount of particulate and gaseous pollutants that vehicles can release into the environment. Different standards apply in different parts of the world.
+	~Noxious pollutants.#Emission standards set limits on the amount of particulate and gaseous pollutants that vehicles can release into the environment. Different standards apply in different parts of the world.
+}
+
+

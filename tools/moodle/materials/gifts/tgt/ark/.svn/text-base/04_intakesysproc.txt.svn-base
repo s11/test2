@@ -1,0 +1,41 @@
+//name:TQ0253
+::TQ0253::Large round air filters are usual found on which type of engines?{
+	=Engines with carburetors or throttle body injection.#Engines with carburetors or throttle body injection usually have a large round air filter mounted on top of the throttle body.
+	~Engines with multi-port fuel injection.#Engines with carburetors or throttle body injection usually have a large round air filter mounted on top of the throttle body.
+	~Front-engine designs with low hood profile.#Engines with carburetors or throttle body injection usually have a large round air filter mounted on top of the throttle body.
+	~Engines that require pleated paper air filters.#Engines with carburetors or throttle body injection usually have a large round air filter mounted on top of the throttle body.
+}
+
+
+//name:TQ0254
+::TQ0254::To ensure the filter is seated correctly, change the air filter with the engine running.{
+	=FALSE#ALWAYS swith off the engine before changing the air filter.
+	~TRUE#ALWAYS swith off the engine before changing the air filter.
+}
+
+
+//name:TQ0255
+::TQ0255::What should you do if you find a build up of dirt on one side of an air filter.{
+	=Replace the air filter as soon as possible.#Dust and grit in the air can be very abrasive and will shorten the life of the engine if not filtered out. If the filter element is not fitted correctly and does not seal properly, air will bypass the filter and enter the engine directly.
+	~Clean the air filter and continue using it until it is completely clogged.#Dust and grit in the air can be very abrasive and will shorten the life of the engine if not filtered out. If the filter element is not fitted correctly and does not seal properly, air will bypass the filter and enter the engine directly.
+	~Replace the filter with a clean rag until a replacement filter can be sourced.#Dust and grit in the air can be very abrasive and will shorten the life of the engine if not filtered out. If the filter element is not fitted correctly and does not seal properly, air will bypass the filter and enter the engine directly.
+	~Remove the filter and run the vehicle without it. It is better to allow dirty air through, than no air at all.#Dust and grit in the air can be very abrasive and will shorten the life of the engine if not filtered out. If the filter element is not fitted correctly and does not seal properly, air will bypass the filter and enter the engine directly.
+}
+
+
+//name:TQ0256
+::TQ0256::Before replacing an air filter, what should you do?{
+	=Compare the new filter with the old one, making sure they are exactly the same.#Befopre placing the new filter in the filter housing, obtain the new filter and compare it with the old one, making sure that they are exactly the same.
+	~Check that the old filter is not able to be repaired or cleaned and reused.#Befopre placing the new filter in the filter housing, obtain the new filter and compare it with the old one, making sure that they are exactly the same.
+	~Dispose of the old filters so as not to confuse them with the new ones.#Befopre placing the new filter in the filter housing, obtain the new filter and compare it with the old one, making sure that they are exactly the same.
+	~Check the wing nut and cover to ensure the new filter will seat properly.#Befopre placing the new filter in the filter housing, obtain the new filter and compare it with the old one, making sure that they are exactly the same.
+}
+
+
+//name:TQ0257
+::TQ0257::If you do not have a replacement filter it is alright to clean and reuse an existing filter.{
+	=FALSE#If you see any build up of dirt on one side of the filter it should be replaced.
+	~TRUE#If you see any build up of dirt on one side of the filter it should be replaced.
+}
+
+

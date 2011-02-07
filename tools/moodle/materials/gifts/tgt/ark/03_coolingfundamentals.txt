@@ -1,0 +1,68 @@
+//name:TQ1606
+::TQ1606::In an air-cooled engine:{
+	=the engine has fins to increase its exposed surface area to more quickly lose heat.#The design of an air-cooled engine makes its exposed surface area larger so that air convection currents can carry more heat away. Some engines use a fan to blow air over the fins.
+	~the coolant is fed through a radiator where air flow removes the heat.#The design of an air-cooled engine makes its exposed surface area larger so that air convection currents can carry more heat away. Some engines use a fan to blow air over the fins.
+	~compressed air is pumped through the engine passages instead of coolant,.#The design of an air-cooled engine makes its exposed surface area larger so that air convection currents can carry more heat away. Some engines use a fan to blow air over the fins.
+	~air is blown through the radiator by a fan.#The design of an air-cooled engine makes its exposed surface area larger so that air convection currents can carry more heat away. Some engines use a fan to blow air over the fins.
+}
+
+
+//name:TQ1607
+::TQ1607::If an engine is not effectively cooled:{
+	=the moving parts will seize up.#Combustion of the air-fuel mixture in the cylinders produces a great deal of heat. Not all of this heat can be turned into energy. The purpose of the cooling system is to lower the temperature of the engine sufficiently to prevent the engine seizing.
+	~the engine is less fuel efficient.#Combustion of the air-fuel mixture in the cylinders produces a great deal of heat. Not all of this heat can be turned into energy. The purpose of the cooling system is to lower the temperature of the engine sufficiently to prevent the engine seizing.
+	~more toxic emissions are produced.#Combustion of the air-fuel mixture in the cylinders produces a great deal of heat. Not all of this heat can be turned into energy. The purpose of the cooling system is to lower the temperature of the engine sufficiently to prevent the engine seizing.
+	~engine power output is lower.#Combustion of the air-fuel mixture in the cylinders produces a great deal of heat. Not all of this heat can be turned into energy. The purpose of the cooling system is to lower the temperature of the engine sufficiently to prevent the engine seizing.
+}
+
+
+//name:TQ1608
+::TQ1608::Conduction is the transfer of heat:{
+	=through a solid.#Heat is able to travel in three ways. The movement of heat through solids is called conduction. The movement of heat through liquids and gases is called convection (where it follows paths called convection currents), and through space where it moves by radiation.
+	~through a liquid or gas.#Heat is able to travel in three ways. The movement of heat through solids is called conduction. The movement of heat through liquids and gases is called convection (where it follows paths called convection currents), and through space where it moves by radiation.
+	~by invisible rays.#Heat is able to travel in three ways. The movement of heat through solids is called conduction. The movement of heat through liquids and gases is called convection (where it follows paths called convection currents), and through space where it moves by radiation.
+	~from the fins of an air-cooled engine to the atmosphere.#Heat is able to travel in three ways. The movement of heat through solids is called conduction. The movement of heat through liquids and gases is called convection (where it follows paths called convection currents), and through space where it moves by radiation.
+}
+
+
+//name:TQ1609
+::TQ1609::Which method of heat transfer is prevented by heat shields fitted to the exhaust on some vehicles?{
+	=Radiation.#Heat is able to travel in three ways. Through solids it is called conduction; through liquids and gases, it is called convection where it follows paths called convection currents; and through space it moves by radiation. On many vehicles heat shields are fitted to the exhaust to prevent heat transfer to other parts of the vehicle by radiation.
+	~Conduction.#Heat is able to travel in three ways. Through solids it is called conduction; through liquids and gases, it is called convection where it follows paths called convection currents; and through space it moves by radiation. On many vehicles heat shields are fitted to the exhaust to prevent heat transfer to other parts of the vehicle by radiation.
+	~Convection.#Heat is able to travel in three ways. Through solids it is called conduction; through liquids and gases, it is called convection where it follows paths called convection currents; and through space it moves by radiation. On many vehicles heat shields are fitted to the exhaust to prevent heat transfer to other parts of the vehicle by radiation.
+	~Induction.#Heat is able to travel in three ways. Through solids it is called conduction; through liquids and gases, it is called convection where it follows paths called convection currents; and through space it moves by radiation. On many vehicles heat shields are fitted to the exhaust to prevent heat transfer to other parts of the vehicle by radiation.
+}
+
+
+//name:TQ1610
+::TQ1610::All coolants are designed to change color as they get older, as an indication of loss of effectiveness.{
+	=FALSE#Coolants are available in many chemical compounds and colors. As a general rule manufacturer specs define the chemical composition of coolants which are color dependent for recognition. Some aftermarket generic coolants are now available that do change color as the coolant gets older, however the original manufacturer specified ones should always be used.
+	~TRUE #Coolants are available in many chemical compounds and colors. As a general rule manufacturer specs define the chemical composition of coolants which are color dependent for recognition. Some aftermarket generic coolants are now available that do change color as the coolant gets older, however the original manufacturer specified ones should always be used.
+}
+
+
+//name:TQ1611
+::TQ1611::Some modern coolants are developed from organic materials.{
+	=TRUE#Some modern coolants are developed from organic materials so that disposal of such materials can be achieved in an environmentally friendly way.
+	~FALSE#Some modern coolants are developed from organic materials so that disposal of such materials can be achieved in an environmentally friendly way.
+}
+
+
+//name:TQ1612
+::TQ1612::Special chemicals are added to the water in an engine cooling system to:{
+	=prevent corrosion, overheating and freezing.#Vehicle coolants and inhibitors are formulated to provide protection and prevent 3 conditions when used in the correct concentration with water. These are: freezing by reducing the freezing point of the water, over heating by increasing the boiling point of the water and system corrosion to reduce the ingress of rust and other forms of corrosion in alloy engines.
+	~lower its boiling point.#Vehicle coolants and inhibitors are formulated to provide protection and prevent 3 conditions when used in the correct concentration with water. These are: freezing by reducing the freezing point of the water, over heating by increasing the boiling point of the water and system corrosion to reduce the ingress of rust and other forms of corrosion in alloy engines.
+	~prevent foaming and evaporation.#Vehicle coolants and inhibitors are formulated to provide protection and prevent 3 conditions when used in the correct concentration with water. These are: freezing by reducing the freezing point of the water, over heating by increasing the boiling point of the water and system corrosion to reduce the ingress of rust and other forms of corrosion in alloy engines.
+	~prevent cavitation and lubricate the pump seal.#Vehicle coolants and inhibitors are formulated to provide protection and prevent 3 conditions when used in the correct concentration with water. These are: freezing by reducing the freezing point of the water, over heating by increasing the boiling point of the water and system corrosion to reduce the ingress of rust and other forms of corrosion in alloy engines.
+}
+
+
+//name:TQ1613
+::TQ1613::How can we help to prevent electrolysis and/or corrosion type of damage in the cooling system components?{
+	=By using an appropriate chemical coolant.#The corrosion property of fresh coolant prevents electrolysis and corrosion.
+	~By using de-mineralized water only.#The corrosion property of fresh coolant prevents electrolysis and corrosion.
+	~By using a sealed radiator system.#The corrosion property of fresh coolant prevents electrolysis and corrosion.
+	~By using a copper-cored radiator.#The corrosion property of fresh coolant prevents electrolysis and corrosion.
+}
+
+

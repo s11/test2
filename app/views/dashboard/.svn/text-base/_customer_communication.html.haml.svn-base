@@ -1,0 +1,7 @@
+.box.ui-tabs.ui-widget.ui-widget-content.ui-corner-all{ :style => "margin-top: 1em"}
+  .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    %p Dear Valued Customer,
+    %p== We recently upgraded your CDX Plus Online program to the new and improved CDX Plus Online 5.1. This cutting-edge version is designed to keep your course materials current, relevant, and engaging. CDX now delivers additional information on the hot topics that students demand to know for successful future careers. #{ link_to "Click here to see the list of CDX Plus Online 5.1 benefits", info_pdf_url('CDX_Online_Version_51_overview') }
+    %p== We appreciate your business and look forward to hearing your feedback on this new and exciting release.  Should you encounter any unexpected issues, please notify us via email at #{ mail_to "support@cdxglobal.com" } so we can resolve them in a timely manner.
+    %p Sincerely,
+    %p CDX Customer Support

@@ -1,0 +1,67 @@
+// question: 31033  name: HAQ2422 
+::HAQ2422::[html]A short inner stub shaft is splined to the differential side gear and an outer stub shaft is splined to the front wheel .................{
+	=%100%hub#
+}
+
+
+// question: 31034  name: HAQ2423 
+::HAQ2423::[html]Constant-velocity universal ................. are normally used to transfer power smoothly between the components.{
+	=%100%joints#
+}
+
+
+// question: 31035  name: HAQ2424 
+::HAQ2424::[html]The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft. An outer race is formed in the .................{
+	=%100%yoke#
+}
+
+
+// question: 31036  name: HAQ2425 
+::HAQ2425::[html]In front wheel drive vehicles, the drive shafts transfer the drive directly from the differential to the ................. wheels.{
+	=%100%front#
+}
+
+
+// question: 31037  name: HAQ2426 
+::HAQ2426::[html]Constant-velocity ................. joints are normally used to transfer power smoothly between the components.{
+	=%100%universal#
+}
+
+
+// question: 31038  name: HAQ2427 
+::HAQ2427::[html]The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a .................{
+	=%100%circlip#
+}
+
+
+// question: 31039  name: HAQ2428 
+::HAQ2428::[html]The cage retains the balls in location in grooves in both races. The balls transfer the drive from the shaft to the ................. and allow for changes in horizontal angle and for a wide steering angle to be achieved.{
+	=%100%hub#
+}
+
+
+// question: 31040  name: HAQ2429 
+::HAQ2429::[html]Where the differential is not located in the center line of the vehicle, an ................. shaft can be fitted to maintain equal length drive shafts on each side.{
+	=%100%intermediate#
+}
+
+
+// question: 31041  name: HAQ2430 
+::HAQ2430::[html]Front wheel drive differentials - The two smaller bevel gears, or ................., are mounted on a driving pin which passes through the case.{
+	=%100%pinions#
+}
+
+
+// question: 31042  name: HAQ2431 
+::HAQ2431::[html]As soon as the vehicle turns from a straight ahead position, the inner wheel slows down and its side gear turns more slowly than the ................. case.{
+	=%100%differential#
+}
+
+
+// question: 31043  name: HAQ2432 
+::HAQ2432::[html]The turning effort applied to the driving pin, forces the pinion gears to rotate slowly on the pin, which makes the outer side gear, and its road wheel, speed up by an equivalent amount. This provides an equal turning effort to each drive ................. while allowing for their speed difference.{
+	=%100%shaft#
+}
+
+
+

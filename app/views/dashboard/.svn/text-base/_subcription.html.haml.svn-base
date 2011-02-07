@@ -1,0 +1,39 @@
+- unless current_user.role.student?
+  .box.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+    .ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all.ui-state-default
+      %h4{:style => "margin: 5px 10px"}
+        %span.ui-icon.ui-icon-unlocked.fright
+        Subscription Details
+
+    .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+      - if MenuVersion.version_greater_than(current_menu_version.version).menu_id_equals(current_menu).exists?
+        .ui-widget
+          .ui-state-error.ui-corner-all{ :style => "padding: 0.7em" }
+            %span.ui-icon.ui-icon-alert{ :style => "float: left; margin-right: .3em;" }
+            %div{:style => "margin-left: 20px"}
+              %strong
+              ALERT:
+              == Your default menu is currently set to '#{current_menu_version}'. This is not the latest version, so you do not have access to new CDX content.
+              = link_to "Click here to see what’s new.", info_pdf_url('CDX_Online_Version_51_overview')
+              == You can upgrade at no cost.
+              
+
+              - if current_user.role.instructor?
+                == Please contact your online supervisor #{ mail_to current_client.client_email } to upgrade.
+              - elsif current_user.role.supervisor?
+                = link_to "Click here to update your menu to the latest version", account_path(:anchor => "tabs-menu")
+        %br
+
+      %p Your subscription will expire in #{ distance_of_time_in_words(Time.now, current_client.expires_on) }
+      %p 
+        You are on the latest version of CDX Online. 
+        = link_to "Click here to see what’s new.", info_pdf_url('CDX_Online_Version_51_overview')
+
+      -# FIXME: The following needs to be a client preference
+      - if current_user.role.instructor? && ['atp0', 'atp1']
+        %p== Your CDX Online Site Supervisor is '#{ current_client.supervisor.fullname }'
+    
+      - unless current_user.role.student?
+        %p== You currently have #{current_client.remaining_students} student and #{current_client.remaining_instructors} instructor logons available.
+    
+      %p== To order additional student or instructor logins contact CDX at #{ mail_to "sales@cdxglobal.com" }

@@ -1,0 +1,138 @@
+//name:TQ0636
+::TQ0636::Do automotive brakes rely on a high or low coefficient of friction for effective performance?{
+	=High.#The purpose of any brake material is to increase the coefficient of friction between two moving surfaces.
+	~Low.#The purpose of any brake material is to increase the coefficient of friction between two moving surfaces.
+	~Both high & low.#The purpose of any brake material is to increase the coefficient of friction between two moving surfaces.
+}
+
+
+//name:TQ0637
+::TQ0637::Compared to drum brakes, disc brakes need:{
+	=much higher pressures to operate efficiently.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~less pressure to operate efficiently.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~the same operating pressure as drum brakes.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~excessive amounts of air circulation for cooling purposes.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+}
+
+
+//name:TQ0638
+::TQ0638::When pressure is applied to liquid in a hydraulic system, the liquid cannot compress into a smaller volume.{
+	=TRUE#Liquid is not compressible, therefore it will not change volume but will increase in pressure as force is applied.
+	~FALSE#Liquid is not compressible, therefore it will not change volume but will increase in pressure as force is applied.
+}
+
+
+//name:TQ0639
+::TQ0639::There are four types or orders of lever.{
+	=FALSE#There are three types or orders of levers representing variations in the location of the fulcrum and the input and output forces.
+	~TRUE#There are three types or orders of levers representing variations in the location of the fulcrum and the input and output forces.
+}
+
+
+//name:TQ0640
+::TQ0640::Hydraulic brake systems:{
+	=increase the applied force.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~reduce brake system pressures.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~increase stopping distance.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~use mechanical linkages.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+}
+
+
+//name:TQ0641
+::TQ0641::Several factors can influence vehicle braking, these can include:{
+	=road surface, road conditions, the weight of the vehicle, load on the vehicle during stopping, and the tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the condition of the vehicle, load on the vehicle during stopping, and the type of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the weight of the vehicle, load on the vehicle during stopping, and the brand of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the unsprung mass of the vehicle, load on the vehicle during stopping, and the brand of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+}
+
+
+//name:TQ0642
+::TQ0642::Technician A says the automotive brake system slows the car by converting its dynamic (kinetic) energy into frictional heat and passing that heat to the surrounding air. Technician B says the automotive brake system slows the car by converting its static energy into frictional heat and passing that heat to the surrounding air. Who is correct?{
+	=Technician A.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Both Technician A & Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Neither Technician A nor Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+}
+
+
+//name:TQ0643
+::TQ0643::Brake fade is the reduction of stopping power in brakes due to:{
+	=buildup of heat in the braking surfaces.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+	~slow leakage of hydraulic pressure.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+	~worn pads or linings.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+	~surface scoring of brake rotors.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+}
+
+
+//name:TQ0644
+::TQ0644::When going down a long incline: {
+	=change down into a lower gear, and periodically apply and then release the brakes.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+	~apply light but steady brake pressure all the way down the incline.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+	~pull the handbrake on about halfway, while holding the foot brake on with light pressure.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+	~pump the brakes with a continuous pulsing action as well as use light pressure from the handbrake.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+}
+
+
+//name:TQ0645
+::TQ0645::A coefficient of friction is a measure of:{
+	=how easily two surfaces slide against each other.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how easily any surface slides against ice.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how rough and gripping a surface is.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how slippery a surface is compared to another surface.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+}
+
+
+//name:TQ0646
+::TQ0646::Which of these statements is true?{
+	=Disc brakes clamp a flat disc between two pads, assisted by a brake booster.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~In a vehicle with both drum and disc brakes, the drum brakes would usually be fitted to the front wheels and the disc brakes to the rear wheels.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~In drum brakes, the brake shoes and linings are clamped between two hydraulically operated calipers.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~Disc brakes are hydraulically operated to increase the force of the brake pads, whereas drum brakes are larger and are operated by mechanical linkages.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+}
+
+
+//name:TQ0647
+::TQ0647::A given amount of force applied to a master cylinder will exert:{
+	=increased force in a larger cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+	~decreased force in a larger cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+	~increased force in a smaller cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+	~uniform force in any sized cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+}
+
+
+//name:TQ0648
+::TQ0648::In a lever of the first type, or first order:{
+	=the fulcrum is between the effort and the load.#An example of a lever of the first type is a crowbar.  Another is a seesaw.
+	~the load is between the effort and the fulcrum.#An example of a lever of the first type is a crowbar.  Another is a seesaw.
+	~the effort is between the fulcrum and the load.#An example of a lever of the first type is a crowbar.  Another is a seesaw.
+}
+
+
+//name:TQ0649
+::TQ0649::When the distance between the load and the fulcrum is less than the distance between the effort and the fulcrum, then the lever is said to have:{
+	=positive mechanical advantage.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+	~negative mechanical advantage.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+	~mechanical disadvantage.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+	~mechanical equilibrium.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+}
+
+
+//name:TQ0650
+::TQ0650::With a regenerative braking system:{
+	=the vehicle is more energy efficient.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+	~the brake pads are self-adjusting.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+	~you don't need such a heavy flywheel.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+	~the handbrake becomes redundant.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+}
+
+
+//name:TQ0651
+::TQ0651::Converting kinetic energy normally lost in braking to stored energy is known as:{
+	=regenerative braking.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+	~brake energy recycling.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+	~adaptive brake system.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+	~restorative braking.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+}
+
+

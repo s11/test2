@@ -1,0 +1,22 @@
+output = ""
+
+if params[:id].present? && AssessmentView.exists?(params[:id])
+  assessment_view = AssessmentView.find(params[:id])
+  children = assessment_view.children
+
+  # Only add a new select list if the selected assessment_view has sub-categories
+  if children.count > 0
+    output = chained_select_tag(:name => params[:name], :categories => children, :level => (assessment_view.level + 1), :all_value => assessment_view.id, :url => chain_select_assessment_views_path)
+    output << "<span id='#{placeholder(assessment_view.level + 1)}'></span>"
+  end
+
+  # Nullify the first option in the select list to allow for proper 'down-chain' resets when it's selected again
+  first_option_name = "#{params[:selector_id]}_first_option"
+  page.replace(first_option_name, "<option id='#{first_option_name}' value=''>All Categories</option>")
+else
+  first_option_name = "#{params[:selector_id]}_first_option"
+  page.replace(first_option_name, "<option id='#{first_option_name}' value='#{params[:selected_parent_value]}'>All Categories</option>")
+end
+
+# Add or reset subsequent selects
+page.replace_html params[:placeholder], output

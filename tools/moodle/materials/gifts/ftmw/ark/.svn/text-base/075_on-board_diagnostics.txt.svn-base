@@ -1,0 +1,81 @@
+// question: 28780  name: HAQ1583 
+::HAQ1583::[html]On-Board Diagnostic systems use the vehicle's computers to detect problems with its ................. components and other systems.{
+	=%100%emission#
+}
+
+
+// question: 28781  name: HAQ1584 
+::HAQ1584::[html]The OBD system informs the vehicle operator when a fault occurs and assists the technicians in identifying and repairing ................. circuits.{
+	=%100%malfunctioning#
+}
+
+
+// question: 28782  name: HAQ1585 
+::HAQ1585::[html]There are two different types of On Board Diagnostic systems. OBD 1, which operates under ................. standards and OBD 2, which operates under a standard set by the Society of Automotive Engineers.{
+	=%100%manufacturer#
+}
+
+
+// question: 28783  name: HAQ1586 
+::HAQ1586::[html]ODB I has been superseded by OBD II, an enhanced On-Board diagnostic system that identifies faults in the vehicle's  emission and powertrain and also tests the vehicles operational system to determine faults that do not affect the vehicles driveability but may affect its safety or emission .................{
+	=%100%efficiency#
+}
+
+
+// question: 28784  name: HAQ1587 
+::HAQ1587::[html]The scan tool data link connector is a common size and shape and its location is also standardized, under the ................. side of the instrument panel.{
+	=%100%driver's#
+	=%100%drivers#
+}
+
+
+// question: 28785  name: HAQ1588 
+::HAQ1588::[html]Diagnostic trouble codes are ................., as are the names used to describe components.{
+	=%100%generic#
+}
+
+
+// question: 28786  name: HAQ1589 
+::HAQ1589::[html]Standardized languages also allow the manufacturer to  provide specific technologies to the vehicle in order to  maintain a level of security in relation to theft ................. and vehicle immobilisation.{
+	=%100%deterrent#
+}
+
+
+// question: 28787  name: HAQ1590 
+::HAQ1590::[html]The system reports that a fault exists by a Malfunction  Indicator Lamp or MIL located in the ................. cluster or by a scan tool connected to the vehicles diagnostic plug.{
+	=%100%instrument#
+}
+
+
+// question: 28788  name: HAQ1591 
+::HAQ1591::[html]Both OBD I and OBD II monitor engine sensors, fuel delivery components and ................. control devices that, if faulty, will cause exhaust emissions to rise.{
+	=%100%emission#
+}
+
+
+// question: 28789  name: HAQ1592 
+::HAQ1592::[html]'.................' is where major emission causing faults such as Engine Misfire and incorrect Air/fuel mix are continually monitored.{
+	=%100%continuous#
+}
+
+
+// question: 28790  name: HAQ1593 
+::HAQ1593::[html]'Non-continuous' is where checks are made only once each ................. cycle.{
+	=%100%warm-up#
+	=%100%warmup#
+	=%100%warm up#
+}
+
+
+// question: 28791  name: HAQ1594 
+::HAQ1594::[html]Each time the engine is started, the computer checks  components such as the Oxygen sensor, ................. converter and other engine systems are functioning correctly.{
+	=%100%catalytic#
+}
+
+
+// question: 28792  name: HAQ1595 
+::HAQ1595::[html]If the fault does not reoccur within 40 drive cycles, the code will be automatically erased but will remain ................. in the computer memory as a history code.{
+	=%100%logged#
+}
+
+

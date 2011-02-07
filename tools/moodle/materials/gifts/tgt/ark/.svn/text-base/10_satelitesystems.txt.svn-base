@@ -1,0 +1,61 @@
+//name:TQ1282
+::TQ1282::A vehicle Global Positioning System (GPS) system gets much of its local location data from:{
+	=electronic maps providing local geographical data, and satellites providing position data.#Triangulation is used to determine an initial vehicle position for reference. Once this has been determined, mapping software provided electronically can be used to generate an overlay map and data for the driver on a display screen. As the vehicle moves the GPS continues to provide the necessary information to allow for plotting of position on the map.
+	~satellites providing local geographical data.#Triangulation is used to determine an initial vehicle position for reference. Once this has been determined, mapping software provided electronically can be used to generate an overlay map and data for the driver on a display screen. As the vehicle moves the GPS continues to provide the necessary information to allow for plotting of position on the map.
+	~satellites providing position data.#Triangulation is used to determine an initial vehicle position for reference. Once this has been determined, mapping software provided electronically can be used to generate an overlay map and data for the driver on a display screen. As the vehicle moves the GPS continues to provide the necessary information to allow for plotting of position on the map.
+	~electronic maps providing local geographical data.#Triangulation is used to determine an initial vehicle position for reference. Once this has been determined, mapping software provided electronically can be used to generate an overlay map and data for the driver on a display screen. As the vehicle moves the GPS continues to provide the necessary information to allow for plotting of position on the map.
+}
+
+
+//name:TQ1283
+::TQ1283::Accurate and reliable navigation is still possible even when satellite signals become unavailable. This is achieved by using electronic sensors to monitor vehicle variables such as pitch, roll, yaw, road speed, steering angle, acceleration and deceleration.{
+	=TRUE#By using the information from these sensors the navigation system is not continually and totally reliant on satellites.
+	~FALSE#By using the information from these sensors the navigation system is not continually and totally reliant on satellites.
+}
+
+
+//name:TQ1284
+::TQ1284::Does a vehicle with a tracking system need constant contact with a satellite in order to work?{
+	=Most vehicle tracking systems can work very accurately without satellites once their initial position has been determined. The system relies on on-board sensors to keep track of the accurate vehicle location.#Accurate and reliable navigation is still possible even when satellite signals become unavailable. This is achieved by using electronic sensors to monitor vehicle variables such as  pitch, roll, yaw, road speed, steering angle, acceleration and deceleration. By using the information from these sensors, the navigation system is not continually and totally reliant on satellites.
+	~Most vehicle tracking systems cannot work without satellites.#Accurate and reliable navigation is still possible even when satellite signals become unavailable. This is achieved by using electronic sensors to monitor vehicle variables such as  pitch, roll, yaw, road speed, steering angle, acceleration and deceleration. By using the information from these sensors, the navigation system is not continually and totally reliant on satellites.
+	~Most vehicle tracking systems can work without satellites once their initial position has been determined, but only very inaccurately.#Accurate and reliable navigation is still possible even when satellite signals become unavailable. This is achieved by using electronic sensors to monitor vehicle variables such as  pitch, roll, yaw, road speed, steering angle, acceleration and deceleration. By using the information from these sensors, the navigation system is not continually and totally reliant on satellites.
+	~Although most vehicle tracking systems can work without satellites once their initial position has been determined, they rely on wireless telecom towers to keep track of the approximate vehicle location.#Accurate and reliable navigation is still possible even when satellite signals become unavailable. This is achieved by using electronic sensors to monitor vehicle variables such as  pitch, roll, yaw, road speed, steering angle, acceleration and deceleration. By using the information from these sensors, the navigation system is not continually and totally reliant on satellites.
+}
+
+
+//name:TQ1285
+::TQ1285::What is the minimum number of satellites a Global Positioning System (GPS) uses as its reference points?{
+	=Four.#Global Positioning System or GPS, can be used to determine the exact location of a vehicle on the earth's surface. GPS uses a group of at least 24 satellites orbiting approximately 12 600 miles or 20 200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish its own location. This operation is based on a mathematical principle called 'triangulation'.
+	~Three.#Global Positioning System or GPS, can be used to determine the exact location of a vehicle on the earth's surface. GPS uses a group of at least 24 satellites orbiting approximately 12 600 miles or 20 200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish its own location. This operation is based on a mathematical principle called 'triangulation'.
+	~Two.#Global Positioning System or GPS, can be used to determine the exact location of a vehicle on the earth's surface. GPS uses a group of at least 24 satellites orbiting approximately 12 600 miles or 20 200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish its own location. This operation is based on a mathematical principle called 'triangulation'.
+	~None.#Global Positioning System or GPS, can be used to determine the exact location of a vehicle on the earth's surface. GPS uses a group of at least 24 satellites orbiting approximately 12 600 miles or 20 200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish its own location. This operation is based on a mathematical principle called 'triangulation'.
+}
+
+
+//name:TQ1286
+::TQ1286::The Global Positioning System or GPS uses a number of satellites orbiting approximately 12,600 miles or 20,200 kilometers above the earth. What is the true mathematical principle used to describe how the GPS works?{
+	=It is based on a mathematical principle called trilateration.#Global Positioning System, or GPS, can be used to determine the exact location of a vehicle on the earth's surface. The Global Positioning System or GPS uses a group of at least 24 satellites orbiting approximately 12,600 miles or 20,200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish it's own location. This operation is based on a mathematical principle called trilateration.
+	~It is based on a mathematical principle called quadratics.#Global Positioning System, or GPS, can be used to determine the exact location of a vehicle on the earth's surface. The Global Positioning System or GPS uses a group of at least 24 satellites orbiting approximately 12,600 miles or 20,200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish it's own location. This operation is based on a mathematical principle called trilateration.
+	~It is based on a mathematical principle called geometry.#Global Positioning System, or GPS, can be used to determine the exact location of a vehicle on the earth's surface. The Global Positioning System or GPS uses a group of at least 24 satellites orbiting approximately 12,600 miles or 20,200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish it's own location. This operation is based on a mathematical principle called trilateration.
+	~It is based on a mathematical principle called variation.#Global Positioning System, or GPS, can be used to determine the exact location of a vehicle on the earth's surface. The Global Positioning System or GPS uses a group of at least 24 satellites orbiting approximately 12,600 miles or 20,200 kilometers above the earth. The GPS receiver on the vehicle has to locate four or more of these satellites, determine the distance to each, and use this information to establish it's own location. This operation is based on a mathematical principle called trilateration.
+}
+
+
+//name:TQ1287
+::TQ1287::Satellite technology can be used in:{
+	=all of these.#Satellite technology is used in navigation, vehicle tracking, vehicle theft recovery, communication, and internet access.
+	~navigation, vehicle tracking, vehicle theft recovery, communication only.#Satellite technology is used in navigation, vehicle tracking, vehicle theft recovery, communication, and internet access.
+	~navigation, vehicle tracking, vehicle theft recovery and internet access only.#Satellite technology is used in navigation, vehicle tracking, vehicle theft recovery, communication, and internet access.
+	~vehicle tracking, vehicle theft recovery, communication, and internet access only.#Satellite technology is used in navigation, vehicle tracking, vehicle theft recovery, communication, and internet access.
+}
+
+
+//name:TQ1288
+::TQ1288::'Automotive telematics is an internet-based system that combines two-way communication and information technology within the vehicle.' Is this statement correct?{
+	=This statement is incorrect because automotive telematics is a satellite-based system.#Automotive telematics is a satellite-based system that combines two-way communication and information technology within the vehicle.
+	~This statement is correct.  Automotive telematics is an internet-based system for communication and information.#Automotive telematics is a satellite-based system that combines two-way communication and information technology within the vehicle.
+	~This statement is incorrect because automotive telematics is an intranet-based system.#Automotive telematics is a satellite-based system that combines two-way communication and information technology within the vehicle.
+	~This statement is incorrect because automotive telematics is a telephone cellnet-based system.#Automotive telematics is a satellite-based system that combines two-way communication and information technology within the vehicle.
+}
+
+

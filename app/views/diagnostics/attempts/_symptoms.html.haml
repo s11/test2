@@ -1,0 +1,6 @@
+%div.symptoms
+  %h1
+    &nbsp;
+  %ul
+    - @scenario.symptoms.each do |symptom|
+      %li= symptom.description

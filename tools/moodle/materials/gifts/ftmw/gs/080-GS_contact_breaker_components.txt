@@ -1,0 +1,176 @@
+// question: 30894  name: HAQ2748 
+::HAQ2748::[html]The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate and opened and closed by the distributor .............................. with the rotation of the engine.{
+	=%100%cam#
+}
+
+
+// question: 30895  name: HAQ2749 
+::HAQ2749::[html]The contacts normally form a self-contained unit, fixed to the base plate by a retaining screw engaged in a slot in the fixed contact. The slot allows for adjustment of the contact breaker .............................. and the setting of the dwell angle when fitting or servicing.{
+	=%100%gap#
+}
+
+
+// question: 30896  name: HAQ2750 
+::HAQ2750::[html]In standard ignition, the contact set is attached to the movable breaker plate. A vacuum advance unit attached to the .............................. housing is mounted under the breaker plate.{
+	=%100%distributor#
+}
+
+
+// question: 30897  name: HAQ2751 
+::HAQ2751::[html]Since the breaker points are in series with the primary winding of the ignition coil, current will pass through that circuit when the points ..............................{
+	=%100%close#
+}
+
+
+// question: 30898  name: HAQ2752 
+::HAQ2752::[html]When the breaker points open, the magnetic field in the coil collapses and a high tension voltage is induced in the .............................. windings of the coil by the movement of the magnetic field through the secondary windings.{
+	=%100%secondary#
+}
+
+
+// question: 30899  name: HAQ2753 
+::HAQ2753::[html]The capacitor (also called a condenser), is a self contained unit which is connected electrically in .............................. with the contact breaker.{
+	=%100%parallel#
+}
+
+
+// question: 30900  name: HAQ2754 
+::HAQ2754::[html]The capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper, called a '..............................'{
+	=%100%di-electric#
+	=%100%dielectric#
+}
+
+
+// question: 30901  name: HAQ2755 
+::HAQ2755::[html]A spring in the base forces the plates and insulation against the gasket to keep out moisture. One plate is connected to the capacitor case and, through its retaining screw, to .............................. The other plate is connected to the external connecting lead.{
+	=%100%ground#
+}
+
+
+// question: 30902  name: HAQ2756 
+::HAQ2756::[html]The capacitor has the capacity of raising the peak output voltage and increasing the secondary voltage rise time. This can lead to increasing the amount of electrical energy transferred to the ..............................{
+	=%100%spark-plugs#
+	=%100%spark plugs#
+}
+
+
+// question: 30903  name: HAQ2757 
+::HAQ2757::[html]When required, the stored voltage in the capacitor is released to the .............................. side of the Ignition Coil it can generate an output around 20,000 to 30,000 volts to the spark plug.{
+	=%100%primary#
+}
+
+
+// question: 30904  name: HAQ2758 
+::HAQ2758::[html]The distributor in the ignition system of an internal combustion engine is a device which routes the high voltage in the correct firing order to the spark plugs. It consists of a rotating arm or .............................. inside the distributor cap, on top of the distributor shaft.{
+	=%100%rotor#
+}
+
+
+// question: 30905  name: HAQ2759 
+::HAQ2759::[html]The distributor shaft has a cam that operates the contact breaker .............................. the points causes a high induction voltage in the ignition system's coil.{
+	=%100%opening#
+}
+
+
+// question: 30906  name: HAQ2760 
+::HAQ2760::[html]The capacitor is connected .............................. to the breaker points, to suppress sparking and prevent wear of the points.{
+	=%100%parallel#
+}
+
+
+// question: 30907  name: HAQ2761 
+::HAQ2761::[html]Since each high voltage surge is triggered by the opening of the .............................. circuit, it is convenient to locate a single set of contacts in the distributor housing, and operate them by lobes formed on a cam which is driven by the distributor shaft.{
+	=%100%primary#
+}
+
+
+// question: 30908  name: HAQ2762 
+::HAQ2762::[html]Ignition pulses occur as each cam lobe opens the contacts to break the .............................., and then allows them to close, re-establishing the primary circuit in readiness for the next opening.{
+	=%100%circuit#
+}
+
+
+// question: 30912  name: HAQ2763 
+::HAQ2763::[html]The high tension cables conduct the high output voltage generated in the secondary ignition circuit when each ignition pulse occurs. They link the high tension terminal of the ignition coil, the distributor cap and ..............................{
+	=%100%spark-plugs#
+	=%100%spark plugs#
+}
+
+
+// question: 30913  name: HAQ2764 
+::HAQ2764::[html]The core of the cable is made of carbon-impregnated linen or .............................. It has a specific ohmic resistance value.{
+	=%100%fibreglass#
+	=%100%fiberglass#
+}
+
+
+// question: 30914  name: HAQ2765 
+::HAQ2765::[html]Spark plugs have an insulated center electrode which is connected by a heavily insulated wire to an induction coil or magneto circuit on the outside, forming, with a grounded terminal on the base of the plug, a spark gap inside the ..............................{
+	=%100%cylinder#
+}
+
+
+// question: 30916  name: HAQ2767 
+::HAQ2767::[html]The spark plug consists of a plated metal shell with a ceramic .............................. and an electrode extending through the center of the insulator.{
+	=%100%insulator#
+}
+
+
+// question: 30917  name: HAQ2771 
+::HAQ2771::[html]Ignition advance in relation to engine .............................. is catered for by a vacuum advance unit which has a vacuum line connection to a port on the intake throttle body.{
+	=%100%load#
+}
+
+
+// question: 30919  name: HAQ2773 
+::HAQ2773::[html]A knock sensor consists of a small piezoelectric microphone on the engine .............................., connected to the engine's electronic control unit.{
+	=%100%block#
+}
+
+
+// question: 30889  name: HAQ3819 
+::HAQ3819::[html]The ignition switch has more functions than simply starting the vehicle. The common points on an ignition switch include: ..............................; Off; (not on all vehicles); Accessories; On; Start.{
+	=%100%lock#
+}
+
+
+// question: 30890  name: HAQ3820 
+::HAQ3820::[html]Turning the key from 'Lock' to the 'Off' position unlocks the steering column, but it does not enable any .............................. systems or disable the engine immobilizer or theft deterrent system.{
+	=%100%electrical#
+}
+
+
+// question: 30891  name: HAQ3821 
+::HAQ3821::[html]When the switch is turned to the 'On' position all warning lamps on the instrument panel should illuminate. This is to test the operation of the lamps. On vehicles that are not fitted with engine immobilizers, this position also activates the .............................. and ignition system required for engine starting.{
+	=%100%charging#
+}
+
+
+// question: 30892  name: HAQ3822 
+::HAQ3822::[html]The 'Start' position activates the starter motor .............................., which enables the engine to crank and start the engine.{
+	=%100%solenoid#
+}
+
+
+// question: 30893  name: HAQ3823 
+::HAQ3823::[html]In many automatic transmission vehicles, the ignition switch also has a transmission shift .............................. device connected to it.{
+	=%100%interlock#
+}
+
+
+// question: 30909  name: HAQ3824 
+::HAQ3824::[html]The distributor uses one of several different systems to create the timing of the .............................. spark.{
+	=%100%ignition#
+}
+
+
+// question: 30910  name: HAQ3825 
+::HAQ3825::[html]In the Kettering System, contact breaker points are used to make and break the primary ignition ...............................{
+	=%100%circuit#
+}
+
+
+// question: 30911  name: HAQ3826 
+::HAQ3826::[html]One variation of the electronic distributor is the Induction type that uses .............................. fields to make and break the ignition circuit.{
+	=%100%magnetic#
+}

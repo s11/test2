@@ -1,0 +1,42 @@
+%div.topheading{:id => "#{abbr(@attempt.classification)}"}
+  %table{:width=>"100%", :border=>"0", :cellspacing=>"0", :cellpadding=>"0"}
+    %tr
+      %td{:width=>"5px"}=image_tag('diagnostics/title_bg.png', :size => '5x50')
+      %td.categorytitle=@system.name
+      - cache 'diagnostics_generic_results_header' do
+        %td{:width=>"44px"}=image_tag('diagnostics/diagnostics_mockuplayout_03.png', :size => '44x50')
+        %td{:width=>"90px"}=image_tag('diagnostics/diagnostics_mockuplayout_04.png', :size => '90x50')
+  
+      - if ['verification'].include?(@attempt.classification)
+        - cache 'diagnostics_verify_results_header' do
+          %td{:width=>"44px"}=image_tag('diagnostics/identify/diagnostics_mockuplayout_05.png', :size => '44x50')
+          %td{:width=>"91px"}=image_tag('diagnostics/identify/diagnostics_mockuplayout_06.png', :size => '91x50')
+          %td{:width=>"44px"}=image_tag('diagnostics/identify/diagnostics_mockuplayout_07.png', :size => '44x50')
+          %td{:width=>"91px"}=image_tag('diagnostics/rectify/diagnostics_mockuplayout_08.png', :size => '91x50')
+          %td{:width=>"45px"}=image_tag('diagnostics/rectify/diagnostics_mockuplayout_09.png', :size => '45x50')
+  
+      - elsif ['identification'].include?(@attempt.classification)
+        - cache 'diagnostics_identify_results_header' do
+          %td{:width=>"44px"}=image_tag('diagnostics/diagnostics_mockuplayout_05.png', :size => '44x50')
+          %td{:width=>"91px"}=image_tag('diagnostics/diagnostics_mockuplayout_06.png', :size => '91x50')
+          %td{:width=>"44px"}=image_tag('diagnostics/rectify/diagnostics_mockuplayout_07.png', :size => '44x50')
+          %td{:width=>"91px"}=image_tag('diagnostics/rectify/diagnostics_mockuplayout_08.png', :size => '91x50')
+          %td{:width=>"45px"}=image_tag('diagnostics/rectify/diagnostics_mockuplayout_09.png', :size => '45x50')
+
+      - elsif ['rectification'].include?(@attempt.classification)
+        - cache 'diagnostics_rectify_results_header' do
+          %td{:width=>"44px"}=image_tag('diagnostics/diagnostics_mockuplayout_05.png', :size => '44x50')
+          %td{:width=>"91px"}=image_tag('diagnostics/diagnostics_mockuplayout_06.png', :size => '91x50')
+          %td{:width=>"44px"}=image_tag('diagnostics/diagnostics_mockuplayout_07.png', :size => '44x50')
+          %td{:width=>"91px"}=image_tag('diagnostics/diagnostics_mockuplayout_08.png', :size => '91x50')
+          %td{:width=>"45px"}=image_tag('diagnostics/diagnostics_mockuplayout_09.png', :size => '45x50')
+
+      %td.scoretitle
+        = "Score: #{@exam.marks_remaining}/10"
+        
+      %td.endcap
+        - choice_quality = (@attempt.marks_deducted.zero? ? 'good' : 'poor')
+        - if access_agent.eql?(:browser)
+          = link_to image_tag('icons/information.png'), diagnostics_information_url(abbr(@attempt.classification) + '_result', choice_quality), :popup => ['diagnostics_information', 'height=300,width=350,location=no,status=no']
+        - else
+          = link_to image_tag('icons/information.png'), diagnostics_information_url(abbr(@attempt.classification) + '_result', choice_quality)

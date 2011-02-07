@@ -1,0 +1,54 @@
+//name:TQ0581
+::TQ0581::Wheel rims are sized according to:{
+	=all of these.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+	~diameter.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+	~flange height.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+	~width.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+}
+
+
+//name:TQ0582
+::TQ0582::A flat-base demountable flange rim is normally fitted to:{
+	=commercial vehicles.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+	~tires with high aspect ratios.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+	~rear-wheel drive passenger vehicles.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+	~front-wheel drive vehicles.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+}
+
+
+//name:TQ0583
+::TQ0583::The well formed in a light vehicle wheel rim is designed to:{
+	=assist in removing and fitting the tire.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+	~prevent the tire rolling off the rim.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+	~increase the volume of air in the tire.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+	~provide a smooth ride.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+}
+
+
+//name:TQ0584
+::TQ0584::Custom wheels can be made of:{
+	=all of these.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+	~magnesium.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+	~steel and aluminum.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+	~aluminum.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+}
+
+
+//name:TQ0585
+::TQ0585::Technician A says alloy wheels are lighter than steel wheels.  Technician B says most passenger rims are 'Drop Center' design. Who is correct?{
+	~Technician A.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+	~Technician B.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+	=Both Technician A and Technician B.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+	~Neither Technician A nor Technician B.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+}
+
+
+//name:TQ0586
+::TQ0586::A rim designated 7 JJ by 14 would refer to a rim measuring:{
+	=7" across the rim flanges, and 14" in diameter from bead seat to bead seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 " across the rim flanges, and 14" in diameter from bead seat to bead seat.
+	~14" across the rim flanges, and 7" in diameter from bead seat to bead seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 " across the rim flanges, and 14" in diameter from bead seat to bead seat.
+	~7" across the well, and 14" in diameter from well seat to well seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 " across the rim flanges, and 14" in diameter from bead seat to bead seat.
+	~14" across the well, and 7" in diameter from well seat to well seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 " across the rim flanges, and 14" in diameter from bead seat to bead seat.
+}
+
+

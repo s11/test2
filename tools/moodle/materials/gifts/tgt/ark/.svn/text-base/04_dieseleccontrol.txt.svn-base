@@ -1,0 +1,50 @@
+//name:TQ0366
+::TQ0366::Some common rail injectors are controlled by a magnetic solenoid on the injector.{
+	=TRUE#Hydraulic force from the pressure in the system is used to open and close the injector, but the available pressure is controlled by the solenoid triggered by the Electronic Diesel Control unit.
+	~FALSE#Hydraulic force from the pressure in the system is used to open and close the injector, but the available pressure is controlled by the solenoid triggered by the Electronic Diesel Control unit.
+}
+
+
+//name:TQ0367
+::TQ0367::In the Common Rail Diesel Injection System how is the fuel fed to the injectors?{
+	=From the accumulator to the injectors via rigid pipes.#The fuel is fed through rigid pipes to the injectors which inject the correct amount of fuel in a fine spray into the combustion chambers.
+	~From the accumulator to the injectors via flexible injector pipes.#The fuel is fed through rigid pipes to the injectors which inject the correct amount of fuel in a fine spray into the combustion chambers.
+	~From the pump to the injectors via metal injector pipes.#The fuel is fed through rigid pipes to the injectors which inject the correct amount of fuel in a fine spray into the combustion chambers.
+	~From the pump to the injectors via flexible injector pipes.#The fuel is fed through rigid pipes to the injectors which inject the correct amount of fuel in a fine spray into the combustion chambers.
+}
+
+
+//name:TQ0368
+::TQ0368::In the Common Rail Diesel Injection System what is the other name given to the rail?{
+	=The accumulator.#A high-pressure pump generates a pressure of up to 1,600 bar in an accumulator - the rail. Pressure is determined by the injection pressure setting in the engine control unit independently of the engine speed and the quantity of fuel injected.
+	~The injector.#A high-pressure pump generates a pressure of up to 1,600 bar in an accumulator - the rail. Pressure is determined by the injection pressure setting in the engine control unit independently of the engine speed and the quantity of fuel injected.
+	~The Electronic Diesel Control unit.#A high-pressure pump generates a pressure of up to 1,600 bar in an accumulator - the rail. Pressure is determined by the injection pressure setting in the engine control unit independently of the engine speed and the quantity of fuel injected.
+	~The jerk pump.#A high-pressure pump generates a pressure of up to 1,600 bar in an accumulator - the rail. Pressure is determined by the injection pressure setting in the engine control unit independently of the engine speed and the quantity of fuel injected.
+}
+
+
+//name:TQ0369
+::TQ0369::Electronic controls have delivered other benefits besides a reduction in fuel consumption and emissions. What do these include?{
+	=Increased power and torque, and improved engine responsiveness.#Fuel Injection is a method or system for metering fuel into an internal combustion engine. The fuel is then burned in air to produce heat, which in turn is converted to mechanical work by the engine. In modern applications, fuel injection is typically only one of several important tasks performed by electronic controls for the fuel system.
+	~Control of pre-heating of the intake air to support quick cold starting and reduced cold run emissions.#Fuel Injection is a method or system for metering fuel into an internal combustion engine. The fuel is then burned in air to produce heat, which in turn is converted to mechanical work by the engine. In modern applications, fuel injection is typically only one of several important tasks performed by electronic controls for the fuel system.
+	~Analysis of exhaust gas to determine combustion efficiency and pollutants.#Fuel Injection is a method or system for metering fuel into an internal combustion engine. The fuel is then burned in air to produce heat, which in turn is converted to mechanical work by the engine. In modern applications, fuel injection is typically only one of several important tasks performed by electronic controls for the fuel system.
+	~All of the items listed.#Fuel Injection is a method or system for metering fuel into an internal combustion engine. The fuel is then burned in air to produce heat, which in turn is converted to mechanical work by the engine. In modern applications, fuel injection is typically only one of several important tasks performed by electronic controls for the fuel system.
+}
+
+
+//name:TQ0370
+::TQ0370::In the HEUI system of diesel fuel injection system, how are the injectors actuated?{
+	=They are hydraulically actuated and electronically controlled.#Injection timing, rates and pressures are no longer dependent on camshaft position, speed or cam ramp velocity. This is all controlled by a solenoid actuated valve that determines when high pressure oil is applied to the piston. 
+	~They are electronically actuated and hydraulically controlled.#Injection timing, rates and pressures are no longer dependent on camshaft position, speed or cam ramp velocity. This is all controlled by a solenoid actuated valve that determines when high pressure oil is applied to the piston. 
+}
+
+
+//name:TQ0371
+::TQ0371::In the HEUI system of diesel fuel injection system, what does HEUI stand for?{
+	=Hydraulically actuated, Electronically controlled, Unit Injector.#HEUI (Hydraulically actuated, Electronically controlled, Unit Injector) is currently being used on several applications in all areas especially automotive. The HEUI System develops injection pressures as high as 18-24,000 psi by applying high pressure oil to the top of an intensifier piston.
+	~Hydraulically stimulated, Electrically actuated, Unit Injector.#HEUI (Hydraulically actuated, Electronically controlled, Unit Injector) is currently being used on several applications in all areas especially automotive. The HEUI System develops injection pressures as high as 18-24,000 psi by applying high pressure oil to the top of an intensifier piston.
+	~Hydraulically actioned, Electronically controlled, Unit Injector.#HEUI (Hydraulically actuated, Electronically controlled, Unit Injector) is currently being used on several applications in all areas especially automotive. The HEUI System develops injection pressures as high as 18-24,000 psi by applying high pressure oil to the top of an intensifier piston.
+	~Hydraulically stimulated, Electronically functioned, Unit Injector.#HEUI (Hydraulically actuated, Electronically controlled, Unit Injector) is currently being used on several applications in all areas especially automotive. The HEUI System develops injection pressures as high as 18-24,000 psi by applying high pressure oil to the top of an intensifier piston.
+}
+
+

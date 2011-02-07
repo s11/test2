@@ -1,0 +1,80 @@
+// question: 28160  name: HAQ1379 
+::HAQ1379::[html]Diesel engines are subject to very high ................. during compression and ignition.{
+	=%100%stresses#
+}
+
+
+// question: 28161  name: HAQ1380 
+::HAQ1380::[html]Increasingly stringent ................. standards have made better control of the diesel combustion process necessary.{
+	=%100%emission#
+}
+
+
+// question: 28162  name: HAQ1381 
+::HAQ1381::[html]Electronic controlled diesel systems give very precise   control of the fuel ................. and combustion process.{
+	=%100%injection#
+}
+
+
+// question: 28163  name: HAQ1382 
+::HAQ1382::[html]Electronic controls have delivered other benefits besides a reduction in fuel consumption and emissions, such as an increase in power and torque; improved engine responsiveness; a reduction in engine ................. and diesel knock.{
+	=%100%noise#
+}
+
+
+// question: 28164  name: HAQ1383 
+::HAQ1383::[html]Electronic controls have delivered other benefits besides a reduction in fuel consumption and emissions, such as improved and expanded ................. capabilities through the use of scan tools.{
+	=%100%diagnostic#
+}
+
+
+// question: 28165  name: HAQ1384 
+::HAQ1384::[html]The Common Rail Diesel Injection System delivers a more controlled quantity of ................. fuel, which leads to better fuel economy; a reduction in exhaust emissions; and a significant decrease in engine noise during operation.{
+	=%100%atomised#
+	=%100%atomized#
+}
+
+
+// question: 28166  name: HAQ1385 
+::HAQ1385::[html]In the Common Rail system, an ................., or rail, is used to create a common reservoir of fuel under a consistent controlled pressure that is separate from the fuel injection points.{
+	=%100%accumulator#
+}
+
+
+// question: 28167  name: HAQ1386 
+::HAQ1386::[html]The injectors used in Common Rail systems are triggered externally by an Electronic Diesel Control, or EDC unit, which controls all the engine injection parameters including the pressure in the fuel rail and the timing and ................. of injection.{
+	=%100%duration#
+}
+
+
+// question: 28168  name: HAQ1387 
+::HAQ1387::[html]Diesel fuel injectors used in Common Rail injection systems operate differently to conventional fuel injectors used in the jerk pump system, where the plungers are controlled by the ................. position and speed.{
+	=%100%camshaft#
+}
+
+
+// question: 28169  name: HAQ1388 
+::HAQ1388::[html]In a Piezo inline injector, the actuator is built into the injector body very close to the jet needle and uses no ................. parts to switch injector needles.{
+	=%100%mechanical#
+}
+
+
+// question: 28170  name: HAQ1389 
+::HAQ1389::[html]In a HEUI system, the pump circulates fuel via the 'low' side of the pump at low pressure through a combination of fuel filter, ................. separator, and heater bowl.{
+	=%100%water#
+}
+
+
+// question: 28171  name: HAQ1390 
+::HAQ1390::[html]In a HEUI system, after the fuel travels through the low side, it then goes back through the 'high' side of the pump at high pressure into the fuel ................. located in the cylinder head, and through to the injector units.{
+	=%100%galleries#
+}
+
+
+// question: 28172  name: HAQ1391 
+::HAQ1391::[html]A .................-actuated valve controls the high-pressure oil flow which is applied to the top of an intensifier piston in the injector. This can increase injection pressures to 1250 to 1800 Bar or 18,000 to 24,000 PSI.{
+	=%100%solenoid#
+}
+
+
+

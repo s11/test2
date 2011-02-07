@@ -1,0 +1,35 @@
+NAME
+  maptool
+
+SYNOPSIS
+  maptool import mapfile name=name version=version [moodle_course_category_id=moodle_course_category_id] [options]+
+
+DESCRIPTION
+  Will import all data in the given content map CSV file and associate it with the given map and version
+
+PARAMETERS
+  mapfile
+      The filename of the content map CSV file 
+  name=name
+  version=version
+  moodle_course_category_id=moodle_course_category_id
+  --force 
+      Force overwriting the specified maps if it already exists 
+  --custom_menu=custom_menu
+  --help, -h 
+
+
+
+Example usage:
+
+./tools/content/maptool import --force name='CDX ARK'             version=51 tools/content/maps/51/ark.csv
+./tools/content/maptool import --force name='ASE (USA)'           version=51 tools/content/maps/51/ase.csv
+./tools/content/maptool import --force name='IMI (UK)'            version=51 tools/content/maps/51/imi.csv
+./tools/content/maptool import --force name='AUR (AUS)'           version=51 tools/content/maps/51/aur.csv
+./tools/content/maptool import --force name='CDX General Service' version=51 tools/content/maps/51/gs.csv
+./tools/content/maptool import --force name='NZ'                  version=51 tools/content/maps/51/nz.csv
+./tools/content/maptool import --force name='Red Seal (CAN)'      version=51 tools/content/maps/51/red_seal.csv
+./tools/content/maptool import --force name='ASE 4 Core'          version=51 tools/content/maps/51/ase_4core.csv
+./tools/content/maptool import --force name='ASE 2 Core'          version=51 tools/content/maps/51/ase_2core.csv
+./tools/content/maptool import --force name='Alberta'             version=51 tools/content/maps/51/alberta.csv
+./tools/content/maptool import --force name='MITO (NZ)'           version=51 tools/content/maps/51/mito.csv

@@ -1,0 +1,23 @@
+#message-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  = render :partial => "messages/tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    #message
+      %table.header
+        %tbody
+          %tr
+            %th.right{ :width => "10%" } To:
+            %td&= (resource.recipients.users.map(&:receiver).map(&:fullname) + resource.recipients.class_groups.map(&:receiver).map { |g| "Group: #{g.name}" }) * ', '
+          %tr
+            %th.right Subject:
+            %td&= resource.subject
+          %tr
+            %th.right Date:
+            %td= resource.created_at.to_s(:db)
+      
+      .body
+        = resource.body.andand.gsub(/\n/, "<br/>")
+
+    %br
+    - if resource.unsent?
+      = link_to "Edit Message", edit_message_path(resource), :class => "ui-button"

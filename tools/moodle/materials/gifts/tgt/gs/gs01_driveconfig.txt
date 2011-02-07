@@ -1,0 +1,59 @@
+//name:TQ0066
+::TQ0066::Some sedan vehicles have a rear engine, rear-wheel drive arrangement.{
+	=TRUE#Some sedan vehicles do have a rear engine, rear wheel drive arrangement. Often this is a design feature deliberately used by the manufacturer due to the body design of the vehicle.
+	~FALSE#Some sedan vehicles do have a rear engine, rear wheel drive arrangement. Often this is a design feature deliberately used by the manufacturer due to the body design of the vehicle.
+}
+
+
+//name:TQ0067
+::TQ0067::What type of vehicle would typically have a mid engine, rear-wheel drive arrangement?{
+	=A sports car.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+	~A sedan.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+	~A people mover.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+	~A hatchback.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+}
+
+
+//name:TQ0068
+::TQ0068::A mid-engined vehicle has the engine:{
+	=in front of the rear wheels.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+	~behind the front wheels.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+	~in the middle of the vehicle.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+	~in the rear of the vehicle.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+}
+
+
+//name:TQ0069
+::TQ0069::A front-wheel drive vehicle usually has a:{
+	=front-mounted engine driving the front wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+	~rear-mounted engine driving the front wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+	~front-mounted engine driving all 4 wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+	~front-mounted engine driving the rear wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+}
+
+
+//name:TQ0070
+::TQ0070::In a rear-wheel drive vehicle with the engine at the front of the vehicle, the torque from the engine is transmitted to the rear-mounted driving axle by:{
+	=a propeller or drive shaft.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+	~a propeller or transmission shaft.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+	~a propeller or flywheel.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+	~a propeller or crankshaft.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+}
+
+
+//name:TQ0071
+::TQ0071::A vehicle starting from rest needs very little torque. Once it is moving it requires more and more torque.{
+	=FALSE#A vehicle starting from rest needs a lot of torque, but once it is moving, it can maintain speed with only a relatively small amount of torque. A higher gear ratio can then be selected, and engine speed reduced.
+	~TRUE#A vehicle starting from rest needs a lot of torque, but once it is moving, it can maintain speed with only a relatively small amount of torque. A higher gear ratio can then be selected, and engine speed reduced.
+}
+
+
+//name:TQ0075
+::TQ0075::In automatic transmissions the selector is connected to the transmission by:{
+	=selector rods, or cables.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+	~selector rods.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+	~cables.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+	~selector rods, cables or steering column.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+}
+
+

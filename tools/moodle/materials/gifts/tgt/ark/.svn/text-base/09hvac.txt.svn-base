@@ -1,0 +1,683 @@
+//name:TQ1181
+::TQ1181::Heat is a form of energy which means it can be destroyed.{
+	=FALSE#Energy cannot be destroyed. By doing work it can be changed from one state to another.
+	~TRUE#Energy cannot be destroyed. By doing work it can be changed from one state to another.
+}
+
+
+//name:TQ1182
+::TQ1182::The amount of heat required to cause a change of state in a substance is called:{
+	=latent heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+	~controllable heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+	~sensible heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+	~specific heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+}
+
+
+//name:TQ1183
+::TQ1183::As refrigerants boil and become vapor they:{
+	=absorb heat from surrounding objects.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~lose latent heat.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~add heat to surrounding objects.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~release BTUs of heat.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+}
+
+
+//name:TQ1184
+::TQ1184::Evaporation is a change of state from a:{
+	=liquid to a vapor.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~solid to a liquid.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~vapor to a liquid.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~vapor to a solid.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+}
+
+
+//name:TQ1185
+::TQ1185::Refrigerant enters the evaporator as a:{
+	=low pressure atomized liquid.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+	~low pressure vapor.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+	~high pressure gas.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+	~high pressure liquid.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+}
+
+
+//name:TQ1186
+::TQ1186::Refrigerant in the air-conditioning system is in a high pressure state as it enters the evaporator core.{
+	=FALSE#The thermostatic expansion valve changes the high pressure liquid entering it into low pressure atomized liquid.
+	~TRUE#The thermostatic expansion valve changes the high pressure liquid entering it into low pressure atomized liquid.
+}
+
+
+//name:TQ1187
+::TQ1187::Refrigerant is contained within the air-conditioning system. The refrigerant must have a:{
+	=low boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+	~medium boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+	~intermediate boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+	~high boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+}
+
+
+//name:TQ1188
+::TQ1188::The refrigerant in an A/C system is drawn into the compressor as:{
+	=low pressure vapor.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~high pressure vapor.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~high pressure liquid.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~low pressure liquid.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+}
+
+
+//name:TQ1189
+::TQ1189::The thermostatic expansion valve or orifice tube converts high pressure liquid refrigerant into low pressure liquid refrigerant.{
+	=TRUE#The expansion valve or orifice tube ensures a change of state occurs in the refrigerant. High pressure liquid enters the valve or tube and low pressure liquid exits. It quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~FALSE#The expansion valve or orifice tube ensures a change of state occurs in the refrigerant. High pressure liquid enters the valve or tube and low pressure liquid exits. It quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+}
+
+
+//name:TQ1190
+::TQ1190::Which of the following describes the refrigerant as it leaves the condenser in a normally operating air-conditioning system?{
+	=High pressure liquid.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+	~Low pressure vapor.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+	~Low pressure liquid.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+	~High pressure vapor.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+}
+
+
+//name:TQ1191
+::TQ1191::Which of these components is used to change the vaporized refrigerant to liquid?{
+	=Condenser.#Changing the high pressure vapor into a high pressure liquid in the condenser is called changing the state of the refrigerant.
+	~Evaporator.#Changing the high pressure vapor into a high pressure liquid in the condenser is called changing the state of the refrigerant.
+	~Compressor.#Changing the high pressure vapor into a high pressure liquid in the condenser is called changing the state of the refrigerant.
+}
+
+
+//name:TQ1192
+::TQ1192::The air-conditioning component that changes high pressure vaporized refrigerant into a liquid is known as the:{
+	=condenser.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~compressor.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~thermostatic expansion valve.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~evaporator.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+}
+
+
+//name:TQ1193
+::TQ1193::The air-conditioning compressor converts low pressure liquid refrigerant into high pressure liquid refrigerant.{
+	=FALSE#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~TRUE#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+}
+
+
+//name:TQ1194
+::TQ1194::The component that transfers heat from the refrigerant to the outside air is called the:{
+	=condenser.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+	~evaporator.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+	~accumulator.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+	~compressor.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+}
+
+
+//name:TQ1195
+::TQ1195::The evaporator is where the refrigerant changes from a low pressure liquid to a low pressure gas, absorbing heat from the air in the passenger compartment.{
+	=TRUE#Two changes of state occur in the air-conditioning system. One at the condenser high pressure vapor to high pressure liquid and one at the evaporator low pressure liquid to low pressure vapor.
+	~FALSE#Two changes of state occur in the air-conditioning system. One at the condenser high pressure vapor to high pressure liquid and one at the evaporator low pressure liquid to low pressure vapor.
+}
+
+
+//name:TQ1196
+::TQ1196::Heat applied to one end of a steel bar will travel through the material and the other end will also become heated. What is this method of heat transfer called?{
+	=Conduction.#Metals tend to be very good conductors of heat.
+	~Convection.#Metals tend to be very good conductors of heat.
+	~Radiation.#Metals tend to be very good conductors of heat.
+}
+
+
+//name:TQ1197
+::TQ1197::One of the functions of a basic air-conditioning system is to remove heat from:{
+	=the inside of the passenger compartment only.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+	~the inside of the vehicle.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+	~a vehicle's engine.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+	~a vehicle.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+}
+
+
+//name:TQ1198
+::TQ1198::An appropriate definition of 'cold' in relation to air-conditioning principles is:{
+	=a relative absence of heat.#Heat can be added or removed to vary the temperature of a substance.
+	~when the interior air temperature is different to the ambient air temperature.#Heat can be added or removed to vary the temperature of a substance.
+	~a change in the degree of heat.#Heat can be added or removed to vary the temperature of a substance.
+	~always present.#Heat can be added or removed to vary the temperature of a substance.
+}
+
+
+//name:TQ1199
+::TQ1199::In relation to air-conditioning principles, heat always:{
+	=travels from the warmer object to the cooler object.#Heat is removed from substances to reduce their temperature.
+	~travels through air.#Heat is removed from substances to reduce their temperature.
+	~remains constant.#Heat is removed from substances to reduce their temperature.
+	~travels to the neutral object.#Heat is removed from substances to reduce their temperature.
+}
+
+
+//name:TQ1200
+::TQ1200::All air-conditioners clean, cool and humidify the air entering the vehicle.{
+	=FALSE#Whilst many refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air, not all do this.
+	~TRUE#Whilst many refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air, not all do this.
+}
+
+
+//name:TQ1201
+::TQ1201::Lowering the temperature of the air entering the cabin also:{
+	=reduces its relative humidity.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~increases cabin air pressure.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~reduces cabin air pressure.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~increases its relative humidity.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+}
+
+
+//name:TQ1202
+::TQ1202::While air-conditioning removes heat from the interior of the vehicle, it also:{
+	=reduces the moisture levels in the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~maintains the moisture levels in the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~increases the moisture levels in the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~removes all the moisture from the interior of the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+}
+
+
+//name:TQ1203
+::TQ1203::All refrigerants can be vented or released into the atmosphere.{
+	=FALSE#Refrigerants must be recycled using a refrigerant recovery unit.
+	~TRUE#Refrigerants must be recycled using a refrigerant recovery unit.
+}
+
+
+//name:TQ1204
+::TQ1204::Hot engine coolant is circulated through the heater core by the:{
+	=cooling system water pump.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+	~heating system radiator fan.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+	~cooling system radiator fan.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+	~air-conditioning compressor.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+}
+
+
+//name:TQ1205
+::TQ1205::What assists the flow of air through the passenger compartment when the vehicle is stationary?{
+	=An electric fan.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+	~Vehicle movement.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+	~The engine fan.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+	~Opening side windows.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+}
+
+
+//name:TQ1206
+::TQ1206::What is used as a source of heat for the passenger compartment?{
+	=Heat from the coolant.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+	~An electric heater.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+	~Heat from the engine bay.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+	~Heat from the exhaust.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+}
+
+
+//name:TQ1207
+::TQ1207::If the vehicle's cabin heater fails in its operation the air-conditioning unit can still function normally.{
+	=TRUE#The air-conditioning system is a separate system from the heater unit. Often both the heater radiator and the air-conditioner evaporator are positioned beside each other under the dash.
+	~FALSE#The air-conditioning system is a separate system from the heater unit. Often both the heater radiator and the air-conditioner evaporator are positioned beside each other under the dash.
+}
+
+
+//name:TQ1208
+::TQ1208::The intake of fresh air into the interior of a vehicle is usually drawn from:{
+	=the base of the windshield.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+	~the radiator grill.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+	~below the front bumper.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+	~the engine bay.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+}
+
+
+//name:TQ1209
+::TQ1209::The temperature of the heater is controlled by: (check ALL that apply).{
+	=%50%the heater tap.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+	~%50%a flap in the under dash unit.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+	~engine speed.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+	~vehicle speed.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+}
+
+
+//name:TQ1210
+::TQ1210::The heater core is normally located:{
+	=under the dash.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+	~in the trunk.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+	~in the parcel shelf.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+	~in the engine compartment.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+}
+
+
+//name:TQ1211
+::TQ1211::The fixed orifice tube:{
+	=cannot alter the amount of refrigerant entering the evaporator.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+	~cannot alter the amount of refrigerant entering the condenser.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+	~can alter the amount of refrigerant entering the condenser.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+	~can alter the amount of refrigerant entering the evaporator.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+}
+
+
+//name:TQ1212
+::TQ1212::What is the purpose of AC system control devices?{
+	=To ensure maximum efficiency in operation and to prevent system and component damage.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+	~To monitor system temperature.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+	~To monitor system pressure.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+	~To monitor system gas flow.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+}
+
+
+//name:TQ1213
+::TQ1213::Where is the fixed orifice located?{
+	=Between the condenser and the evaporator.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+	~Between the compressor and the receiver dryer.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+	~Between the compressor  and the evaporator.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+	~Between the compressor  and the condenser.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+}
+
+
+//name:TQ1214
+::TQ1214::What does the fixed orifice do?{
+	=It provides restriction to flow to ensure correct operation.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+	~It works like a poppet valve in the flow system.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+	~It aids fluid flow in the system.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+	~It shuts off refrigerant flow under specific conditions.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+}
+
+
+//name:TQ1215
+::TQ1215::In a fixed orifice system what acts as a storage device?{
+	=An accumulator.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+	~A recovery tank.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+	~An orifice tube.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+	~A pressure tank.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+}
+
+
+//name:TQ1216
+::TQ1216::The sensing bulb on the TX valve:{
+	=senses refrigerant temperature at the evaporator outlet. #The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+	~senses refrigerant temperature at the condenser outlet.#The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+	~senses the refrigerant temperature at the compressor high pressure side.#The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+	~senses the refrigerant temperature at the receiver drier.#The temperature of the refrigerant is measured as close as possible to the evaporator outlet. It determines the pressure in the bulb.
+}
+
+
+//name:TQ1217
+::TQ1217::The TX valve controls refrigerant flow by a:{
+	=spring-loaded valve which is controlled by different pressures on each side of a connecting diaphragm. #The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+	~fixed orifice which is controlled by different pressures on each side of a connecting diaphragm.#The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+	~swash plate inside the compressor.#The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+	~refrigerant pressure switch mounted on the receiver drier.#The amount of liquid refrigerant flow is determined by the action of a spring-loaded valve which is controlled by bulb pressure on one side and evaporator pressure on the other side of a connecting diaphragm.
+}
+
+
+//name:TQ1218
+::TQ1218::Technician A says that the thermostatic expansion valve regulates the flow of liquid refrigerant to the condenser. Technician B says that the thermostatic expansion valve regulates the flow of vaporized refrigerant to the evaporator. Who is correct?{
+	~Technician A.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+	~Technician B.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+	~Both Technician A & Technician B.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+	=Neither Technician A or Technician B.#Neither technician is correct because the thermostatic expansion valve regulates the flow of liquid refrigerant to the evaporator.
+}
+
+
+//name:TQ1219
+::TQ1219::One purpose of the thermostatic expansion valve is to:{
+	=change high pressure liquid to a low pressure liquid.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~assist in cooling the compressor.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~allow air bubbles to expand in the receiver drier.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~reduce pressure in the condenser.#The expansion valve ensures a change of state occurs in the refrigerant. High pressure liquid enters the expansion valve and low pressure liquid exits the valve which quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+}
+
+
+//name:TQ1220
+::TQ1220::The thermostatic expansion valve is located at:{
+	=the entry to the evaporator.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+	~the inlet of the compressor.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+	~the inlet of the condenser.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+	~the outlet of the compressor.#The thermal, or thermostatic expansion valve (also called a TX valve), senses refrigerant pressure going into the evaporator and its temperature as it leaves, and regulates the flow of the refrigerant.
+}
+
+
+//name:TQ1221
+::TQ1221::The primary purpose of the thermostatic expansion valve is:{
+	=to control the quantity of refrigerant entering the evaporator.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+	~to control the quantity of refrigerant entering the condenser.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+	~to cycle the compressor clutch.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+	~to prevent over expansion of the refrigerant.#The thermostatic expansion valve provides a throttling or restricting function that regulates the quantity of refrigerant entering the evaporator, to keep the refrigerant flow within specification.
+}
+
+
+//name:TQ1222
+::TQ1222::The vehicle's air-conditioner compressor is normally driven by:{
+	=engine drive belt/s.#Vehicles often have a belt dedicated to the air-conditioner compressor. This is because it takes considerable effort to turn the compressor so shorter dedicated belts tend to have fewer problems with slippage.
+	~camshaft.#Vehicles often have a belt dedicated to the air-conditioner compressor. This is because it takes considerable effort to turn the compressor so shorter dedicated belts tend to have fewer problems with slippage.
+	~crankshaft direct.#Vehicles often have a belt dedicated to the air-conditioner compressor. This is because it takes considerable effort to turn the compressor so shorter dedicated belts tend to have fewer problems with slippage.
+	~cooling pump drive belt.#Vehicles often have a belt dedicated to the air-conditioner compressor. This is because it takes considerable effort to turn the compressor so shorter dedicated belts tend to have fewer problems with slippage.
+}
+
+
+//name:TQ1223
+::TQ1223::The condenser is located inside the car in the plenum under the dash.{
+	=FALSE#The condenser requires a good flow of ram air through so it is usually mounted in front of the radiator.
+	~TRUE#The condenser requires a good flow of ram air through so it is usually mounted in front of the radiator.
+}
+
+
+//name:TQ1224
+::TQ1224::On a liquid cooled engine the condenser is normally located:{
+	=in front of the radiator.#In order to condense the high pressure vapor into a high pressure liquid, heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant. Therefore it is usually mounted in front of the radiator.
+	~under the interior dash.#In order to condense the high pressure vapor into a high pressure liquid, heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant. Therefore it is usually mounted in front of the radiator.
+	~in the boot or trunk.#In order to condense the high pressure vapor into a high pressure liquid, heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant. Therefore it is usually mounted in front of the radiator.
+	~behind the radiator.#In order to condense the high pressure vapor into a high pressure liquid, heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant. Therefore it is usually mounted in front of the radiator.
+}
+
+
+//name:TQ1225
+::TQ1225::The function of the condenser in an air-conditioning system is to:{
+	=transfer heat from the high pressure liquid and high pressure gas refrigerant to the outside air by radiation.#The condenser which is usually mounted in front of the radiator condenses the high pressure vapor from the compressor into high pressure liquid. In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant.
+	~transfer heat from the low pressure liquid, high pressure gas refrigerant to the outside air.#The condenser which is usually mounted in front of the radiator condenses the high pressure vapor from the compressor into high pressure liquid. In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant.
+	~transfer heat from the low pressure liquid, low pressure gas refrigerant to the outside air.#The condenser which is usually mounted in front of the radiator condenses the high pressure vapor from the compressor into high pressure liquid. In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant.
+	~transfer heat from the high pressure liquid, low pressure gas refrigerant to the outside air.#The condenser which is usually mounted in front of the radiator condenses the high pressure vapor from the compressor into high pressure liquid. In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant.
+}
+
+
+//name:TQ1226
+::TQ1226::The positioning of the condenser in an automotive air-conditioning system is to:{
+	=expose it to ram air circulation.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~expose it to indirect airflow.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~conveniently locate it for easy servicing.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~act as a storage container for excess refrigerant.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+}
+
+
+//name:TQ1227
+::TQ1227::Technician A says that the evaporator is located outside the cabin and the condenser is located inside the cabin. Technician B says that the compressor and thermostatic expansion valve separate the high-pressure side from the low-pressure side. Who is correct?{
+	~Technician A.#Technician B is correct as the compressor and thermostatic expansion valve separate the high-pressure side from the low-pressure side.
+	=Technician B.#Technician B is correct as the compressor and thermostatic expansion valve separate the high-pressure side from the low-pressure side.
+	~Both Technician A & Technician B.#Technician B is correct as the compressor and thermostatic expansion valve separate the high-pressure side from the low-pressure side.
+	~Neither Technician A or Technician B.#Technician B is correct as the compressor and thermostatic expansion valve separate the high-pressure side from the low-pressure side.
+}
+
+
+//name:TQ1228
+::TQ1228::If a refrigerant system flexible rubber hose blows out, is it possible to fit any rubber hose until we can source the correct part?{
+	=No#Refrigerant hose is made for the purpose of transporting refrigerant. Other types of hoses may leak refrigerant or break down in the presence of refrigerant.
+	~Yes#Refrigerant hose is made for the purpose of transporting refrigerant. Other types of hoses may leak refrigerant or break down in the presence of refrigerant.
+}
+
+
+//name:TQ1229
+::TQ1229::The pressure cycling switch used in most cycling clutch A/C systems is located in the electrical circuit between the:{
+	=main control switch and the compressor.#The pressure cycling switch is fitted in series with the A/C clutch circuit.
+	~compressor and ground.#The pressure cycling switch is fitted in series with the A/C clutch circuit.
+	~fuse and the main control switch.#The pressure cycling switch is fitted in series with the A/C clutch circuit.
+	~compressor super heat switch and ground.#The pressure cycling switch is fitted in series with the A/C clutch circuit.
+}
+
+
+//name:TQ1230
+::TQ1230::One purpose of the pressure switches in an air-conditioning circuit is to:{
+	=interrupt the power supply to the compressor when the refrigerant pressures are too low or too high.#Both the high and low pressure switches are used to protect the compressor from excessively high pressures and low refrigerant charge.
+	~interrupt the power supply to the compressor when the refrigerant levels are low.#Both the high and low pressure switches are used to protect the compressor from excessively high pressures and low refrigerant charge.
+	~interrupt the power supply to the compressor when the refrigerant levels are too high.#Both the high and low pressure switches are used to protect the compressor from excessively high pressures and low refrigerant charge.
+	~interrupt the power supply to the compressor when the refrigerant levels are too low or too high.#Both the high and low pressure switches are used to protect the compressor from excessively high pressures and low refrigerant charge.
+}
+
+
+//name:TQ1231
+::TQ1231::Moisture contamination in the refrigeration system can cause:{
+	=all of these symptoms.#The receiver/dryer is designed to capture any moisture that might be in the system and effective evacuation of the system before adding refrigerant ensures that any moisture is removed from the system.
+	~ice to form.#The receiver/dryer is designed to capture any moisture that might be in the system and effective evacuation of the system before adding refrigerant ensures that any moisture is removed from the system.
+	~hydrochloric acid to form.#The receiver/dryer is designed to capture any moisture that might be in the system and effective evacuation of the system before adding refrigerant ensures that any moisture is removed from the system.
+	~corrosion, rust and sludge.#The receiver/dryer is designed to capture any moisture that might be in the system and effective evacuation of the system before adding refrigerant ensures that any moisture is removed from the system.
+}
+
+
+//name:TQ1232
+::TQ1232::Moisture is removed from the refrigerant in the automotive air-conditioning system when it passes through the evaporator core.{
+	=FALSE#Ideally the refrigerant should not contain any moisture. If moisture is present it is absorbed by the silicon desiccant in the receiver/dryer.
+	~TRUE#Ideally the refrigerant should not contain any moisture. If moisture is present it is absorbed by the silicon desiccant in the receiver/dryer.
+}
+
+
+//name:TQ1233
+::TQ1233::The receiver dryer is located:{
+	=between the condenser and evaporator.#The receiver/dryer is designed to capture any moisture and foreign particles that might be in the system.
+	~inside the heater plenum.#The receiver/dryer is designed to capture any moisture and foreign particles that might be in the system.
+	~between the compressor and condenser.#The receiver/dryer is designed to capture any moisture and foreign particles that might be in the system.
+	~between the evaporator and compressor.#The receiver/dryer is designed to capture any moisture and foreign particles that might be in the system.
+}
+
+
+//name:TQ1234
+::TQ1234::What has been done to prevent the wrong lubricant or refrigerant being installed during servicing?{
+	=The service ports have been changed.#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+	~Warning labels have been affixed to the parts#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+	~Modern air-conditioning systems are smaller than older air-conditioning systems.#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+	~Modern air-conditioning systems are larger than older air-conditioning systems.#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+}
+
+
+//name:TQ1235
+::TQ1235::It is important the refrigerant has a low boiling point.{
+	=TRUE#The refrigerant is used to absorb, transfer, and release heat in the air-conditioning circuit.
+	~FALSE#The refrigerant is used to absorb, transfer, and release heat in the air-conditioning circuit.
+}
+
+
+//name:TQ1236
+::TQ1236::Compressor operation is controlled by the:{
+	=magnetic clutch & thermostatic switch.#The compressor clutch and thermostatic switch form part of the electrical circuit for air-conditioning systems. The thermostatic switch is connected in series with the compressor clutch.
+	~free wheel clutch.#The compressor clutch and thermostatic switch form part of the electrical circuit for air-conditioning systems. The thermostatic switch is connected in series with the compressor clutch.
+	~centrifugal clutch and fan pulley.#The compressor clutch and thermostatic switch form part of the electrical circuit for air-conditioning systems. The thermostatic switch is connected in series with the compressor clutch.
+	~magnetic clutch & thermostatic expansion valve.#The compressor clutch and thermostatic switch form part of the electrical circuit for air-conditioning systems. The thermostatic switch is connected in series with the compressor clutch.
+}
+
+
+//name:TQ1237
+::TQ1237::An A/C system thermostat is used to:{
+	=monitor the temperature of the evaporator fins within set limits to ensure it does not exceed pre-set limits.#The A/C thermostat ensures that the evaporator temperature does not reach zero degrees. If it does, it could freeze which prevents air from circulating through the evaporator fins reducing the cooling of the cabin air.
+	~monitor the temperature of the condenser fins to ensure it does not exceed pre-set limits.#The A/C thermostat ensures that the evaporator temperature does not reach zero degrees. If it does, it could freeze which prevents air from circulating through the evaporator fins reducing the cooling of the cabin air.
+	~monitor the temperature of the cabin of the vehicle to ensure it does not exceed pre-set limits.#The A/C thermostat ensures that the evaporator temperature does not reach zero degrees. If it does, it could freeze which prevents air from circulating through the evaporator fins reducing the cooling of the cabin air.
+	~monitor the temperature of the ECU thermistors to ensure the ECU does not exceed pre-set limits.#The A/C thermostat ensures that the evaporator temperature does not reach zero degrees. If it does, it could freeze which prevents air from circulating through the evaporator fins reducing the cooling of the cabin air.
+}
+
+
+//name:TQ1238
+::TQ1238::Which of the following is NOT a common type of thermal expansion valve?{
+	=Vertically equalized.#The thermal expansion valve, the TX valve, is constructed of cadmium plated steel or of aluminum.
+	~Internally equalized.#The thermal expansion valve, the TX valve, is constructed of cadmium plated steel or of aluminum.
+	~Externally equalized.#The thermal expansion valve, the TX valve, is constructed of cadmium plated steel or of aluminum.
+	~H Block.#The thermal expansion valve, the TX valve, is constructed of cadmium plated steel or of aluminum.
+}
+
+
+//name:TQ1239
+::TQ1239::How does the heater element demist the glass in a rear window?{
+	=Electrical resistance causes wires embedded in the glass to heat up.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+	~Heat is conducted from the engine block to the heater element via insulated copper connections.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+	~Steam from the cooling system is circulated through the narrow tubes of the heater element around the edges of the window.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+	~Warm air is gently blown upwards over the heater element to warm the inside of the glass surface of the window.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+}
+
+
+//name:TQ1240
+::TQ1240::Most temperature sensors used in climate control systems are:{
+	=thermistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~thermo couplers.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~thermo-conductors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~thermo-resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+}
+
+
+//name:TQ1241
+::TQ1241::If the ECU detects a change in condition it:{
+	=controls actuators to move dampers and valves.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~turns the air-conditioner on.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~changes the fan speed.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~Turns the air-conditioner off.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1242
+::TQ1242::Most climate controlled air-conditioning systems have the ability to display diagnostic codes. These can indicate:{
+	=all of these answers.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the signal may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the component may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+	~the circuits whose signals may be outside the manufacturer's specifications.#Diagnostic codes are used in systems that are controlled by ECUs.
+}
+
+
+//name:TQ1243
+::TQ1243::On a fully automatic climate controlled system, the fan speed is:{
+	=controlled by the ECU.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~fixed.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~set by the driver.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~controlled by the actuators.#ECUs fitted to air-conditioning systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1244
+::TQ1244::The function of the climate control system is to maintain cabin:{
+	=temperature to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~humidity to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~heat to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~coolness to a set level.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1245
+::TQ1245::If the climate control ECU detects a change in cabin condition it:{
+	=automatically changes the position of flaps, actuators, air-conditioner unit and fans to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically turns the air-conditioner on to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically turns the air-conditioner off to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+	~automatically changes the fan speed to bring the temperature back to the settings determined by the driver.#In climate control systems many inputs sensors are constantly monitored by the ECU. The ECU then controls the outputs like actuators, flaps, and the compressor so that the correct temperature air is delivered throughout the cabin.
+}
+
+
+//name:TQ1246
+::TQ1246::In a vehicle with climate control the functional temperature is set by:{
+	=the driver or a passenger.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the body control module.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the ambient sensor.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+	~the manufacturer as a preset.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver or passenger.
+}
+
+
+//name:TQ1247
+::TQ1247::What effect does 'ambient temperature' have on a vehicle's climate controlled system?{
+	=It influences the climate control system sensors to maintain the desired system temperature set by the driver.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~It is controlled by the engine coolant temperature.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~It is influenced by the ECU.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~It influences the sun load sensor.#Climate control systems take readings from various sensors and control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1248
+::TQ1248::If the temperature of the air flow over the ambient air temperature sensor falls the resistance will:{
+	=become higher.#This is called negative temperature coefficient (NTC). As the temperature increase the resistance decreases; as the temperature decreases the resistance increases.
+	~become lower.#This is called negative temperature coefficient (NTC). As the temperature increase the resistance decreases; as the temperature decreases the resistance increases.
+}
+
+
+//name:TQ1249
+::TQ1249::In many automatic climate controlled air-conditioning systems, the temperature sensors are referred to as:{
+	=thermistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~PTC resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+	~vari-rate resistors.#A thermistor is a resistor whose resistance changes as temperature changes.
+}
+
+
+//name:TQ1250
+::TQ1250::The fan speed in a climate control system is:{
+	=controlled by the ECU.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~controlled by the actuators.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~fixed.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+	~set by the driver.#ECUs fitted to air-conditioning systems take readings from various sensors. They use these readings to control the prime functions so that the system delivers a constant interior temperature as set by the driver.
+}
+
+
+//name:TQ1251
+::TQ1251::The sensor mounted on the dash of a climate control air-conditioning system measures:{
+	=sun load.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+	~cabin air temperature.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+	~vent temperature.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+	~ambient air temperature.#In climate control systems many inputs sensors are constantly being monitored by the ECU so that the correct temperature air is delivered throughout the cabin.
+}
+
+
+//name:TQ1252
+::TQ1252::What do the servo motors in the HVAC system do?{
+	=They control the position of flaps and valves.#By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+	~They provide additional power to the condenser unit.#By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+	~They maintain the gaseous refrigerant pressure in the system#By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+	~They supply compensating vacuum to the evaporator valves. #By re-positioning the flaps and valves, the output temperatures can be adjusted to the temperature chosen by the occupants of the vehicle.
+}
+
+
+//name:TQ1253
+::TQ1253::What happens when an electric servo motor driven flap or door has reached the end of its travel?{
+	=Limit switches open circuit the motor.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+	~Rubber stops prevent the flap or door from moving further.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+	~A warning light comes on in the dashboard.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+	~The flap or door is retained with a magnetic catch.#Some electric servos also use a carbon film potentiometer to signal to the electronic control unit the position of the blend door, and, if it is moving, the direction in which it is travelling.
+}
+
+
+//name:TQ1254
+::TQ1254::What is the primary purpose of the ventilation system?{
+	=Occupant comfort.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Engine compartment cooling.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Windshield demisting.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+	~Occupant safety.#A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for demisting, or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.
+}
+
+
+//name:TQ1255
+::TQ1255::When checking the vehicle's air-conditioning temperature the recording is normally taken:{
+	=in the ducting system louvered vents.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+	~at the driver's seat.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+	~at the passenger's seat.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+	~in the external air intake ports.#The vent temperature is usually taken because it can be difficult to access the evaporator in modern vehicles.
+}
+
+
+//name:TQ1256
+::TQ1256::After the engine has been running at around 1500 rpm with the air-conditioner on for 5-10 minutes, how will the hoses on each side of the compressor feel?{
+	=The outlet hose will feel significantly hotter than the inlet hose.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+	~The inlet hose will feel significantly hotter than the outlet hose.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+	~Both hoses will feel warmer than the ambient temperature.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+	~Both hoses will feel cooler than the ambient temperature.#On a hot day, an air-conditioning fan on full blast may feel cooler than a fan on a lower setting, because of the cooling effect of the evaporation of perspiration on your skin. But when measuring the actual temperature drop of the air through the air-conditioning system with a thermometer, the fan should be on its lowest setting, because the slower any given mass of air passes across the condenser, the greater the cooling effect.
+}
+
+
+//name:TQ1257
+::TQ1257::When the engine has been running for a few minutes, how should the hoses on each side of the heater core feel?{
+	=Both should feel similarly warm.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+	~The inlet hose shoud feel significantly hotter than the outlet hose.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+	~The outlet hose should feel significantly hotter than the inlet hose.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+	~Bot hoses should feel cooler than the ambient temperature.#If the hose leaving the heater core is cooler than the one entering, then the core or one of the hose connections could be obstructed or clogged.
+}
+
+
+//name:TQ1258
+::TQ1258::What happens when a v-belt 'bottoms out'?{
+	=The belt can no longer make good contact with the sides of the pulley.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+	~The bottom of the belt starts to wear faster than the sides.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+	~It is properly seated and making maximum contact on all surfaces.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+	~It is too tight and should be loosened.#When a V-type belt becomes very worn, the bottom of the V-shape may contact the bottom of the groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove. This reduced friction causes slippage; a belt worn enough to bottom-out should be replaced.
+}
+
+
+//name:TQ1259
+::TQ1259::If you have no tension guage, how much should you be able to deflect a drive belt by hand, if it is correctly tensioned?{
+	=1.25 centimeters for each 30cm of belt (half an inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+	~0.5 centimeter for each 30cm of belt (one quarter of an inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+	~1 centimeter for each 30cm of belt (three quarters of an inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+	~0.75 centimeter for each 30cm of belt (one inch for each foot).#Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system.
+}
+
+

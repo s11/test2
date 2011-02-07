@@ -1,0 +1,1621 @@
+//name:TQ0450
+::TQ0450::All passenger vehicles steer only with the two front wheels.{
+	=FALSE#4-wheel steering (or all wheel steering) is a system employed by some vehicles to increase vehicle stability while maneuvering at high speed, or to decrease turning radius at low speed. In most 4-wheel steering systems the rear wheels are steered by a computer and actuators. The rear wheels generally cannot turn as far as the front wheels.
+	~TRUE#4-wheel steering (or all wheel steering) is a system employed by some vehicles to increase vehicle stability while maneuvering at high speed, or to decrease turning radius at low speed. In most 4-wheel steering systems the rear wheels are steered by a computer and actuators. The rear wheels generally cannot turn as far as the front wheels.
+}
+
+
+//name:TQ0451
+::TQ0451::The effort by the driver is transferred from the steering wheel down:{
+	=the steering column to the steering box.#Transmitted steering force is transferred from wheel rotation to steering shaft to steering box.
+	~the steering column to the road wheels.#Transmitted steering force is transferred from wheel rotation to steering shaft to steering box.
+}
+
+
+//name:TQ0452
+::TQ0452::Technician A says that the size of the steering wheel affects turning ratio. Technician B says that the size of the steering wheel affects turning radius. Who is correct?{
+	~Technician A.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+	~Technician B.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+	~Both Technician A & Technician B.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+	=Neither Technician A or Technician B.#Neither technician is correct because the size of the steering wheel can only affect the steering effort needed to turn the wheels not the turning radius or turning ratio.
+}
+
+
+//name:TQ0453
+::TQ0453::The rack and pinion operates by moving the rack with the:{
+	=pinion gear.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+	~steering shaft.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+	~worm shaft.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+	~sector shaft.#The rack and pinion steering gear box has a pinion connected to the steering column. This pinion runs in mesh with a rack that is connected to the steering tie rods. This gives more direct operation.
+}
+
+
+//name:TQ0454
+::TQ0454::Rack and pinion steering is an integral part of the:{
+	=steering linkage.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+	~vehicle frame.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+	~steering box.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+	~none of these.#A rack-and-pinion steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion. The pinion is meshed with the teeth of the rack so pinion rotation moves the rack from side to side thus making it an integral part of the vehicle's steering linkage assembly.
+}
+
+
+//name:TQ0455
+::TQ0455::The purpose of the 'rack and pinion' bellows is:{
+	=to protect the internal components from dirt and contain the lubrication grease in the steering component.#Bellows and boots allow component movement while protecting the component from contamination.
+	~to protect the internal components from dirt, contain the lubrication grease in the steering component and to assist with the steering effort.#Bellows and boots allow component movement while protecting the component from contamination.
+}
+
+
+//name:TQ0456
+::TQ0456::The rack in a 'rack and pinion' system is held in contact with the pinion by a:{
+	=spring-loaded yoke.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~roller bearing.#Operating tension and preload is accomplished with the use of a spring loaded yoke assembly.
+	~nylon bush.#Operating tension and preload is accomplished with the use of a spring loaded yoke assembly.
+	~rubber stop.#Operating tension and preload is accomplished with the use of a spring loaded yoke assembly.
+}
+
+
+//name:TQ0457
+::TQ0457::Many racks in a 'rack and pinion' system are supported at each end by a:{
+	=nylon bush.#The rack is supported by bushings located at each end of the rack housing.
+	~roller bearing.#The rack is supported by bushings located at each end of the rack housing.
+	~spring-loaded yoke.#The rack is supported by bushings located at each end of the rack housing.
+	~rubber stop.#The rack is supported by bushings located at each end of the rack housing.
+}
+
+
+//name:TQ0458
+::TQ0458::What does the spring-loaded yoke in a rack and pinion steering system do?{
+	=It ensures free play is eliminated between the gears, while still allowing for relative movement.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~It ensures that the pinion remains in position.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~It allows for movement in the rack.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+	~It holds the ball joint on the rack in place.#Operating tension and preload is accomplished with the use of a spring-loaded yoke assembly.
+}
+
+
+//name:TQ0459
+::TQ0459::Why are nylon bushes used in steering systems?{
+	=Because they have a low co-efficient of friction and low wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+	~Because they have a high co-efficient of friction and low wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+	~Because they have a low co-efficient of friction and high wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+	~Because they have a high co-efficient of friction and high wear rate.#Nylon bushings (composite) are easy to manufacture and have good wear characteristics and low friction.
+}
+
+
+//name:TQ0460
+::TQ0460::The inner and outer tie rod ends are connected by the:{
+	=adjusting sleeve.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+	~center link.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+	~idler arm.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+	~CV joint.#The linear motion from the steering box is transferred by tie-rods to the steering arms at the front wheels. To allow for changes to the steering angles the inner and outer tie rod ends are connected by a threaded tube. By turning the tube, the toe in or toe out can be adjusted.
+}
+
+
+//name:TQ0461
+::TQ0461::Technician A says that a ball and socket type joint is used to attach the Pitman arm to the center link. Technician B says that a ball and socket joint is used to attach the idler arm to the frame. Who is correct?{
+	=Technician A.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+	~Technician B.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+	~Both Technician A & Technician B.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+	~Neither Technician A or Technician B.#Technician A is correct because ball and socket type joints are commonplace to allow movement. In addition, the idler arm mounting is bolted to the frame.
+}
+
+
+//name:TQ0462
+::TQ0462::A 'rack and pinion' steering system is used on:{
+	=light passenger vehicles.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+	~Heavy-duty commercial vehicles.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+	~Medium-duty commercial vehicles.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+	~Transit buses.#Rack and pinion system are very compact and suitable for front wheel drive applications.
+}
+
+
+//name:TQ0463
+::TQ0463::In the 'rack and pinion' system, the pinion rotation moves the:{
+	=rack from side to side.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+	~steering shaft from side to side.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+	~rack in and out.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+	~steering shaft in and out.#Pinion rotation transfers rotary motion into linear motion against the rack component.
+}
+
+
+//name:TQ0464
+::TQ0464::There are two basic types of automotive steering arrangements. These are?{
+	=Rack and pinion and steering box.#Steering systems use either rack and pinion or steering box arrangement.
+	~Hydraulic and pneumatic.#Steering systems use either rack and pinion or steering box arrangement.
+	~Recirculating ball and power assisted.#Steering systems use either rack and pinion or steering box arrangement.
+	~Power assisted and hydraulic.#Steering systems use either rack and pinion or steering box arrangement.
+}
+
+
+//name:TQ0465
+::TQ0465::What are the main parts of a basic two wheel steering system?{
+	=The steering wheel, column and box assembly, steering linkage and wheel assembly components.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+	~Steering box, steering wheel and steering linkage.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+	~Steering wheel, steering linkage and steering suspension parts.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+	~Steering box, steering linkage and steering suspension parts.#The main components include 5 items. These are the steering wheel, column, box assembly, steering linkage and wheel assembly components.
+}
+
+
+//name:TQ0466
+::TQ0466::The primary components of the rack and pinion steering system are:{
+	=rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+	~rubber joint, pinion, rack, inner ball bellows or socket and tie-rod.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+	~rubber joint, pinion, rack, ball bellows or inner socket and tie-rod.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+	~rubber pinion, rack, inner ball joint or socket and tie-rod bellows.#The primary components of the rack and pinion steering system are rubber bellows, pinion, rack, inner ball joint or socket and tie-rod.
+}
+
+
+//name:TQ0467
+::TQ0467::There is a steering sensor located on the input shaft in an Electric Power Steering System. What does it do?{
+	=The sensor performs two functions: it's a torque sensor and a rotation sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+	~The sensor performs two functions: it's a turning sensor and a rotation sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+	~The sensor performs two functions: it's a torque sensor, and an 'in and out' movement sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+	~The sensor performs two functions: it's a turning sensor, and an in-and-out movement sensor.#The sensor measures two primary inputs: driver torque (or effort) on the steering shaft, and hand-wheel position. These two primary inputs along with the vehicle speed signal and other system variables are continuously fed into an electronic control module.
+}
+
+
+//name:TQ0468
+::TQ0468::The power steering pump is always engine driven.{
+	=False, some are driven by an electric motor.#High pressure pumps may be either engine driven or electric.
+	~True, all pumps are driven by a drive belt.#High pressure pumps may be either engine driven or electric.
+}
+
+
+//name:TQ0469
+::TQ0469::Power steering systems normally have a flow control valve fitted to them. Where is it located?{
+	=At the outlet fitting of the power steering pump.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the steering rack or steering box.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the high pressure lines of the system.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+	~In the low pressure side of the system.#Hydraulically assisted steering systems require a flow control valve located at the pump outlet.
+}
+
+
+//name:TQ0470
+::TQ0470::What is the purpose of the power steering pressure relief valve?{
+	=To prevent excessive pressures developing when the steering is on full-lock.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To prevent excessive pressures developing when minimal force is applied to the steering system.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To eliminate pressure drop.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+	~To maintain high pressure during steering.#Hydraulically assisted steering systems require a pressure relief valve when the system is under extreme load or at full turn stops. This prevents damage to the system.
+}
+
+
+//name:TQ0471
+::TQ0471::Power steering assistance is provided by:{
+	=hydraulic and/or electrical methods.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~vacuum.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~compressed air.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+	~electrical solenoids.#An engine or electrically-driven pump delivers hydraulic fluid to the power unit at the steering box, or rack-and-pinion, through connecting hoses and pipes. But in today's modern vehicle, manufacturers are also utilizing another power source such as electric/hydraulic in electric power steering systems. 
+}
+
+
+//name:TQ0472
+::TQ0472::Types of power steering pump designs include the:{
+	=vane, roller, and slipper.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~vane, gear, and roller.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~roller, slipper, and gear.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+	~slipper, vane, and gear.#The power steering pump is a device that's needed to assist steering operation and is used in most modern vehicles. It provides the system with an appropriate amount of oil according to the number of rotations and pressure. Designs include the vane, roller, and slipper.
+}
+
+
+//name:TQ0473
+::TQ0473::Technician A says that power steering can only be fitted to vehicles designed for forward control layouts. Technician B says that power steering can be fitted to both rack and pinion and steering box arrangements. Who is correct?{
+	~Technician A.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	=Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	~Both Technician A and Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+	~Neither Technician A nor Technician B.#Technician B is correct because power steering can be fitted to both rack and pinion and steering box arrangement.
+}
+
+
+//name:TQ0474
+::TQ0474::In a 'rack and pinion' system, the smaller the pinion gear, the heavier the steering.{
+	=FALSE#Smaller size does not match with more rugged construction. Light vehicles use small pinion arrangements.
+	~TRUE#Smaller size does not match with more rugged construction. Light vehicles use small pinion arrangements.
+}
+
+
+//name:TQ0475
+::TQ0475::Technician A says that the rack and pinion operates by moving the rack with the pinion gear. Technician B says that the rack and pinion operates by moving the rack with the sector shaft. Who is correct?{
+	=Technician A.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Both Technician A & Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+	~Neither Technician A or Technician B.#Technician A is correct because a rack and pinion steering system does not have a sector shaft.
+}
+
+
+//name:TQ0476
+::TQ0476::When power assistance is used with a rack and pinion, it is used to assist the movement of the:{
+	=rack.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+	~pinion.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+	~ball nut.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+	~worm shaft.#A power rack and pinion steering gear assembly converts the rotary motion of the steering wheel to linear motion at the tie rods, causing the wheels to turn around the steering axis. A piston coaxial to the rack provides hydraulic assistance force and an open centered rotary valve controls the assist level.
+}
+
+
+//name:TQ0477
+::TQ0477::Technician A says that when power assist is used with a rack and pinion, it is used to assist the movement of the rack. Technician B says that when power assist is used with a rack and pinion, it is used to assist the movement of the worm shaft. Who is correct?{
+	=Technician A.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+	~Technician B.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+	~Both Technician A & Technician B.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+	~Neither Technician A or Technician B.#Technician A is correct because rack and pinion type steering arrangements do not have a worm shaft included in their components.
+}
+
+
+//name:TQ0478
+::TQ0478::As a variable ratio rack and pinion system comes towards the end of the travel, its:{
+	=ratio changes.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+	~ratio remains the same.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+	~steering effort is increased.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+	~steering angles are varied.#As the pinion turns and moves on the rack, the gear contact point between the pinion and the teeth on the rack changes. This change in tooth contact changes the effective diameter of the pinion. Then, for the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center.
+}
+
+
+//name:TQ0479
+::TQ0479::The Pitman arm is splined to the:{
+	=sector shaft.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+	~worm shaft.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+	~center link.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+	~none of these.#To ensure a positive steering action without the possibility of slippage, the Pitman arm shaft is positively splined to the sector shaft.
+}
+
+
+//name:TQ0480
+::TQ0480::With power steering, temporary increases in effort required by the driver when turning the steering wheel in either direction may be caused by:{
+	=air in the system or the engine idle is too slow.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+	~air in the system.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+	~the engine idle is too slow.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+	~none of these.#It can become more difficult to turn the steering wheel. It can feel like something is binding or dragging. This may happen suddenly or become worse over time.  When the fluid level in the power steering reservoir is low, air can be introduced into the system. Low engine idle speed can also affect the power steering performance.
+}
+
+
+//name:TQ0481
+::TQ0481::Technician A says the steering column contains roll pins that allow the inner and outer steering shafts to move over each other in a collision.  Technician B says a flexible joint is attached to the steering shaft to allow for misalignment.  Who is correct?{
+	~Technician A.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+	~Technician B.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+	=Both Technician A & Technician B.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+	~Neither Technician A or Technician B.#Both technicians are correct. The steering column contains SHEAR pins that allow the inner and outer steering shafts to move over each other in a collision.  A flexible joint is attached to to the steering shaft to allow for misalignment.
+}
+
+
+//name:TQ0482
+::TQ0482::The pitch of a helix is equivalent to the:{
+	=distance a point on the helix moves in one revolution.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+	~distance a point on the helix moves in two revolutions.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+	~distance a point on the helix moves in one half of a revolution.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+	~circumference of the shaft.#The pitch of a helix is equivalent to the distance a point on the helix moves in one revolution.
+}
+
+
+//name:TQ0483
+::TQ0483::The steering arms are sometimes made as one piece and are known as the:{
+	=steering knuckle.#At the knuckle end, single ball joints can be used, in which case the steering loads have to be taken via steering arms.
+	~lower control arm.#At the knuckle end, single ball joints can be used, in which case the steering loads have to be taken via steering arms.
+	~center link.#At the knuckle end, single ball joints can be used, in which case the steering loads have to be taken via steering arms.
+	~tie rod ends.#At the knuckle end, single ball joints can be used, in which case the steering loads have to be taken via steering arms.
+}
+
+
+//name:TQ0484
+::TQ0484::Ball joints are mounted at the outer ends of the control arms and:{
+	=tie-rod ends.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+	~Pitman arms.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+	~swivel joints.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+	~steering track rods.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+}
+
+
+//name:TQ0485
+::TQ0485::In a steering box arrangement, the component that connects the steering gear to the steering linkage is the:{
+	=Pitman arm.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+	~tie rod.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+	~worm shaft.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+	~center link.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+}
+
+
+//name:TQ0486
+::TQ0486::The center link is supported on one end by the Pitman arm and on the other end by the:{
+	=idler arm.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+	~ball joint.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+	~steering knuckle.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+	~steering gear.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+}
+
+
+//name:TQ0487
+::TQ0487::The steering system center link is supported by the:{
+	=idler arm and Pitman arm.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+	~idler arm and steering arm.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+	~steering arm and Pitman arm.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+	~Pitman arm and linkage booster.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+}
+
+
+//name:TQ0488
+::TQ0488::The upper end of the idler arm is bolted to:{
+	=the vehicle frame.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+	~the steering gear.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+	~the steering spindle.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+	~the suspension mountings.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+}
+
+
+//name:TQ0489
+::TQ0489::A voided bush:{
+	=allows the unit it supports to comply with a controlled amount of movement in the direction of the void.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+	~is used in steering components because it is lighter than a non-voided bush.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+	~is used in spring shackles because it is stronger than a non-vioded bush.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+	~can be used as a replacement to a non-voided bush.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+}
+
+
+//name:TQ0490
+::TQ0490::All of the following concerning checking power steering fluid are true, except:{
+	=the fluid must be cold for an accurate check.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+	~some reservoirs have fluid level marks on the body.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+	~the fluid must be at operating temperature for an accurate check.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+	~always top off with the recommended fluid.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+}
+
+
+//name:TQ0491
+::TQ0491::Technician A says that automatic transmission fluid may be used to top off all power steering systems. Technician B says that power steering fluid should only be checked when there is a leak. Who is correct?{
+	~Technician  A.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+	~Technician B.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+	~Both Technician A and Technician B.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+	=Neither Technician A nor Technician B.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+}
+
+
+//name:TQ0492
+::TQ0492::Technician A says that any fluid drained from the power steering system must not be reused and must be disposed of in an environmentally appropriate manner. Technician B says that only new power steering fluid should be used to fill the system. Who is correct?{
+	~Technician A.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+	~Technician B.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+	=Both Technician A and Technician B.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+	~Neither Technician A nor Technician B.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+}
+
+
+//name:TQ0493
+::TQ0493::Technician A says when flushing the power steering system reservoir the engine should not be running. Technician B says when flushing the power steering system it is normally done from the low pressure side. Who is correct?{
+	~Technician A.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+	~Technician B.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+	=Both Technician A and Technician B.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+	~Neither Technician A nor Technician B.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+}
+
+
+//name:TQ0494
+::TQ0494::All of the following statements about checking a power steering system are true, except:{
+	=when undertaking a pressure test leave the shutoff valve closed for several minutes to build pressure.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+	~when making a pressure test make sure connections are correct before starting the engine.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+	~always top off the reservoir with the recommended power steering fluid.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+	~check for fluid level and leaks before testing.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+}
+
+
+//name:TQ0495
+::TQ0495::When conducting a power steering pressure test never leave the shutoff valve closed for more than:{
+	=five seconds.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+	~five minutes.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+	~one minute.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+	~twenty seconds.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+}
+
+
+//name:TQ0496
+::TQ0496::Technician A says that when undertaking a flow test, the shut-off valve should be closed to build pressure. Technician B says that when undertaking a pressure test, the shut-off valve should only be closed for a maximum of 5 seconds. Who is correct?{
+	~Technician A.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+	=Technician B.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+	~Both Technician A & Technician B - binary cannot be both.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+	~Neither Technician A or Technician B.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+}
+
+
+//name:TQ0497
+::TQ0497::Technician A says that when conducting a power steering pressure test never leave the shut-off valve closed for more than five seconds. Technician B says that when conducting a power steering flow test never leave the shut-off valve closed for more than one minute. Who is correct?{
+	=Technician A.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+	~Technician B.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+	~Both Technician A & Technician B.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+	~Neither Technician A or Technician B.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+}
+
+
+//name:TQ0498
+::TQ0498::Looseness in the steering mechanism is known as:{
+	=lash.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+	~clearance.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+	~tolerance.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+	~free play.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+}
+
+
+//name:TQ0499
+::TQ0499::Play in the rack and pinion steering system is commonly caused by loose mounts or faulty tie rod ends.{
+	=TRUE#Each end of the rack is protected from dirt and water by a flexible, synthetic, rubber bellows attached to the rack housing and to the tie rod. The bellows extend and collapse as the tie-rods move away from and towards the housing as the rack moves. If there is any wear in these joints, it will allow play in the steering system.
+	~FALSE#Each end of the rack is protected from dirt and water by a flexible, synthetic, rubber bellows attached to the rack housing and to the tie rod. The bellows extend and collapse as the tie-rods move away from and towards the housing as the rack moves. If there is any wear in these joints, it will allow play in the steering system.
+}
+
+
+//name:TQ0500
+::TQ0500::A parallelogram arrangement is normally used on a steering system with a steering box.{
+	=TRUE#Parallelogram arrangement steering systems are not compact but are more rugged than rack and pinion. These systems use a steering box.
+	~FALSE#Parallelogram arrangement steering systems are not compact but are more rugged than rack and pinion. These systems use a steering box.
+}
+
+
+//name:TQ0501
+::TQ0501::Technician A says if the bellows is torn when checking a rack and pinion steering system then it is a good indicator that the rack and pinion may have suffered accelerated wear but it may not be worn out. Technician B says if the bellows on the steering box is torn then it is a good indicator that the box is worn out and the assembly should be changed. Who is correct?{
+	=Technician A.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+	~Technician B.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+	~Both Technician A and Technician B.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+	~Neither Technician A nor Technician B.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+}
+
+
+//name:TQ0502
+::TQ0502::Technician A says that the method for checking spring loaded track rod ends is the same as for checking preloaded track rod ends. Technician B says different methods should be used when checking different types of tie rod ends, depending on the type. Who is correct?{
+	~Technician A.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+	=Technician B.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+	~Both Technician A and Technician B.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+	~Neither Technician A nor Technician B.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+}
+
+
+//name:TQ0503
+::TQ0503::There is more than one type of tie rod end used on motor vehicles. They are known as:{
+	=Pre-loaded and spring-loaded types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+	~Pitman and drop arm types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+	~Spring-loaded and Pitman types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+	~Pre-loaded and drop arm types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+}
+
+
+//name:TQ0504
+::TQ0504::Technician A says to check ball joint wear the jack can be placed under the lower control arm. Technician B says to check ball joint wear the jack can be placed under the frame. Who is correct?{
+	~Technician A.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+	~Technician B.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+	=Both Technician A & Technician B.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+	~Neither Technician A or Technician B.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+}
+
+
+//name:TQ0505
+::TQ0505::Which of the following should be replaced when wheel bearings are repacked?{
+	=Cotter pin.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+	~Safety washer.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+	~Slotted nut.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+	~All of these.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+}
+
+
+//name:TQ0506
+::TQ0506::Technician A says that when changing wheel bearings you can leave the old race in position and fit the new bearing to it. Technician B says that when changing wheel bearings you can change either the race or the roller bearing depending on the amount of wear in the components. Who is correct?{
+	~Technician A.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+	~Technician B.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+	~Both Technician A and Technician B.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+	=Neither Technician A nor Technician B.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+}
+
+
+//name:TQ0507
+::TQ0507::Technician A says that when repacking the wheel bearings with grease it is best to do it by hand. Technician B says that when repacking the wheel bearings with grease you must use only the recommended type of grease. Who is correct?{
+	~Technician A.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+	~Technician B.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+	=Both Technician A and Technician B.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+	~Neither Technician A nor Technician B.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+}
+
+
+//name:TQ0508
+::TQ0508::Technician A says that sealed wheel bearings can be repacked if care is used. Technician B says that all the old grease should be removed from tapered roller bearings before repacking.  Who is correct?{
+	~Technician A.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+	=Technician B.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+	~Both Technician A & Technician B.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+	~Neither Technician A or Technician B.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+}
+
+
+//name:TQ0509
+::TQ0509::A correctly tensioned drive belt will have a tension equivalent to:{
+	=1.25 cm/30cm of belt (0.5'/1').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+	~2.5 cm/30cm of belt (1'/1').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+	~1.25 mm/30cm of belt (0.05'/1').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+	~1.25 cm/3m of belt (0.5'/10').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+}
+
+
+//name:TQ0510
+::TQ0510::The purpose of shock absorbers is to:{
+	=dampen spring oscillation.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~compensate for weak springs.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~increase wheel bounce.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~support the weight of the vehicle.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+}
+
+
+//name:TQ0511
+::TQ0511::The purpose of the complete suspension system is to:{
+	=isolate the vehicle body from road shocks and vibration.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from vibrations.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from road shocks.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from the road.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+}
+
+
+//name:TQ0512
+::TQ0512::The sprung mass of a vehicle refers to the:{
+	=mass supported by the springs.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the suspension.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the wheel and brake assemblies.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the springs.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+}
+
+
+//name:TQ0513
+::TQ0513::One major objective in the design of the suspension system is to:{
+	=reduce the unsprung weight of the vehicle.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from vibrations.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from road shocks.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from the road.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+}
+
+
+//name:TQ0514
+::TQ0514::The forces that cause a wheel and tire to bounce are created by the:{
+	=suspension movement.#Vehicle ride and handling can be improved by keeping unsprung mass as low as possible. When large and heavy wheel assemblies encounter a bump or pothole, they experience a larger reaction force, sometimes large enough to make the tire lose contact with the road surface.
+	~strut assembly.#Vehicle ride and handling can be improved by keeping unsprung mass as low as possible. When large and heavy wheel assemblies encounter a bump or pothole, they experience a larger reaction force, sometimes large enough to make the tire lose contact with the road surface.
+	~shock absorber.#Vehicle ride and handling can be improved by keeping unsprung mass as low as possible. When large and heavy wheel assemblies encounter a bump or pothole, they experience a larger reaction force, sometimes large enough to make the tire lose contact with the road surface.
+}
+
+
+//name:TQ0515
+::TQ0515::Which of the following vehicle components is not part of the unsprung mass?{
+	=The chassis.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+	~The brakes.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+	~The tires.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+	~The wheels.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+}
+
+
+//name:TQ0516
+::TQ0516::Generally the unsprung weight of a vehicle should be kept as low as possible.{
+	=TRUE#Unsprung weight relates to how well the wheel assembly not supported by the suspension spring action can change direction and recover from the direction change.  The lighter the unsprung weight the less harshness is transmitted back to the vehicle frame/unibody.
+	~FALSE#Unsprung weight relates to how well the wheel assembly not supported by the suspension spring action can change direction and recover from the direction change.  The lighter the unsprung weight the less harshness is transmitted back to the vehicle frame/unibody.
+}
+
+
+//name:TQ0517
+::TQ0517::When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must:{
+	=be located longitudinally, and laterally, while still having the freedom to move vertically.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located longitudinally, and laterally, while still having the freedom to move horizontally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located , vertically and laterally, while still having the freedom to move longitudinally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located longitudinally, and vertically, while still having the freedom to move laterally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+}
+
+
+//name:TQ0518
+::TQ0518::What does the height sensor do?{
+	=The height sensor constantly monitors the distance between the vehicle's axle and its chassis.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+	~The height sensor constantly monitors the distance between the vehicle's body and the road.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+	~The height sensor constantly monitors the distance between the vehicle's chassis and the road.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+	~The height sensor constantly monitors the distance between the vehicle's axle and the road.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+}
+
+
+//name:TQ0519
+::TQ0519::What is adaptive air suspension?{
+	=It is an electronically controlled air suspension system which is located on all vehicle wheels with continuously adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+	~It is an hydraulically controlled air suspension system which is located on all vehicle wheels with continuously adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+	~It is a pneumatically controlled air suspension system which is located on all vehicle wheels with continuously adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+	~It is an electronically controlled air suspension system which is located on all vehicle wheels with variable adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+}
+
+
+//name:TQ0520
+::TQ0520::Independent suspension:{
+	=isolates the movement of one wheel from affecting the others.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+	~makes the ride softer.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+	~transmits movement from one wheel to the other.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+	~increases body roll.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+}
+
+
+//name:TQ0521
+::TQ0521::Some manufacturers set the lower wishbone pivots points wide apart on front suspension layouts. The reason for this is:{
+	=as the front wheels do the most of the braking, they sustain the majority of the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+	~As the front wheels do some of the braking, they sustain the minority of the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+	~As the front wheels do part of the braking, they maintain braking alignment and absorb all the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+	~As the front wheels do the most of the braking, they maintain some of the braking alignment and absorb all the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+}
+
+
+//name:TQ0522
+::TQ0522::A basic suspension system consists of:{
+	=springs, axles, shock absorbers, rods, arms, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+	~springs, shock absorbers, rods, arms, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+	~springs, axles, shock absorbers, rods, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+	~springs, shock absorbers, axles, rod, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+}
+
+
+//name:TQ0523
+::TQ0523::The basic types of springs used in a suspension system can include:{
+	=coil spring, leaf spring, and torsion bar.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+	~coil spring, strut, and McPherson strut.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+	~independent, McPherson strut, and SLA.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+	~torsion bar, McPherson strut, SLA, independent.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+}
+
+
+//name:TQ0524
+::TQ0524::A basic suspension system consists of:{
+	=springs, axles, shock absorbers, rods, arms and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+	~springs, shock absorbers, rod and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+	~springs, axles, shock absorbers, rods and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+	~springs, shock absorbers, rods, arms and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+}
+
+
+//name:TQ0525
+::TQ0525::Oscillations of the suspension movement are reduced by the:{
+	=shock absorbers.#Shocks absorbers improve wear and tear characteristics and ride quality through the continued dampening of road to tire oscillations.
+	~suspension movement.#Shocks absorbers improve wear and tear characteristics and ride quality through the continued dampening of road to tire oscillations.
+	~strut assembly.#Shocks absorbers improve wear and tear characteristics and ride quality through the continued dampening of road to tire oscillations.
+}
+
+
+//name:TQ0526
+::TQ0526::Technician A says that shock absorbers help support the weight of the vehicle during operation. Technician B says that shock absorbers dampen spring oscillation during operation. Who is correct?{
+	~Technician A.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+	=Technician B.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+	~Both Technician A and Technician B.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+	~Neither Technician A nor Technician B.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+}
+
+
+//name:TQ0527
+::TQ0527::A solid axle that also drives the road wheels is referred to as a:{
+	=live axle.#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+	~dead axle.#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+	~living axle#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+	~dying axle#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+}
+
+
+//name:TQ0528
+::TQ0528::A solid axle that doesn't drive the road wheels is referred to as a:{
+	=dead axle.#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+	~live axle.#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+	~living axle#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+	~dying axle#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+}
+
+
+//name:TQ0529
+::TQ0529::Technician A says that independent rear suspension for a rear-wheel-drive vehicle is identical to independent suspension used in a front-wheel-drive vehicle.  Technician B says the axle shaft can be used as a suspension upper link. Who is correct?{
+	~Technician A.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+	=Technician B.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+	~Both Technician A and Technician B.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+	~Neither Technician A nor Technician B.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+}
+
+
+//name:TQ0530
+::TQ0530::A coil spring in which the wire diameter decreases towards the end is a:{
+	=progressive-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+	~controlled-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+	~adjustable-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+	~constant-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+}
+
+
+//name:TQ0531
+::TQ0531::Barrel-shaped springs:{
+	=have longer suspension travel than cylindrical springs.#A spring with a progressive rate deflects readily under a light load, but increases its resistance as the load increases. This gives a softer ride. As conical and barrel-shaped springs compress, they collapse into themselves. This gives a longer suspension travel for the length of the spring than for a cylindrical spring. This gives a softer ride for light-load situations, and a harder ride for heavy load situations.
+	~exhibit constant deflection rate.#A spring with a progressive rate deflects readily under a light load, but increases its resistance as the load increases. This gives a softer ride. As conical and barrel-shaped springs compress, they collapse into themselves. This gives a longer suspension travel for the length of the spring than for a cylindrical spring. This gives a softer ride for light-load situations, and a harder ride for heavy load situations.
+	~give a harder ride under light load.#A spring with a progressive rate deflects readily under a light load, but increases its resistance as the load increases. This gives a softer ride. As conical and barrel-shaped springs compress, they collapse into themselves. This gives a longer suspension travel for the length of the spring than for a cylindrical spring. This gives a softer ride for light-load situations, and a harder ride for heavy load situations.
+}
+
+
+//name:TQ0532
+::TQ0532::Coil springs are color coded at the time of manufacture. What does this code indicate?{
+	=The different load ratings for the spring.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+	~The limit of its safe travel in compression and extension.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+	~The desired location of the spring on a vehicle.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+	~The date and place of manufacture.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+}
+
+
+//name:TQ0533
+::TQ0533::The coils must always be evenly spaced in a coil spring suspension.{
+	=FALSE#The coils may be evenly spaced, or of uniform pitch, or unevenly spaced. The wire can be the same thickness throughout, or it may taper towards the end of the spring.
+	~TRUE#The coils may be evenly spaced, or of uniform pitch, or unevenly spaced. The wire can be the same thickness throughout, or it may taper towards the end of the spring.
+}
+
+
+//name:TQ0534
+::TQ0534::The stiffness of a coil spring can be increased by:{
+	=increasing the diameter of the wire.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+	~stretching the spring.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+	~reducing the diameter of the wire.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+	~reducing the weight of the spring.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+}
+
+
+//name:TQ0535
+::TQ0535::The center bolt on leaf springs can be used to:{
+	=locate the axle relative to the spring.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~Clamp the spring to the axle.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~Ensure all leaves carry the same load.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~Maintain leaf alignment.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+}
+
+
+//name:TQ0536
+::TQ0536::The driving force in a rear-wheel drive vehicle with leaf suspension is transmitted to the vehicle body at the:{
+	=fixed shackle point.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+	~rear axle housing.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+	~tire contact patch.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+	~spring U-bolt.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+}
+
+
+//name:TQ0537
+::TQ0537::The longest spring leaf in a spring pack is normally referred to as the:{
+	=main leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+	~support leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+	~primary leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+	~integral Leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+}
+
+
+//name:TQ0538
+::TQ0538::Technician A says that the eye bolts clamp the leaf spring to the chassis. Technician B says that the 'U' Bolts clamp the leaf spring to the axle. Who is correct?{
+	~Technician A.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+	=Technician B.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+	~Both Technician A and Technician B.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+	~Neither Technician A nor Technician B.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+}
+
+
+//name:TQ0539
+::TQ0539::Some vehicles have rubber springs attached to their coil spring suspensions. What is their purpose?{
+	=To prevent 'metal to metal' contact of the suspension parts when the coil springs are compressed.#Coil springs can look alike but have very different load ratings which are often color coded for identification. They normally use rubber pads to prevent transmission of noise and vibration.
+	~To further increase the load ratings of color coded coil springs.#Coil springs can look alike but have very different load ratings which are often color coded for identification. They normally use rubber pads to prevent transmission of noise and vibration.
+	~To stop suspension noises being transferred to the driver via the chassis composition.#Coil springs can look alike but have very different load ratings which are often color coded for identification. They normally use rubber pads to prevent transmission of noise and vibration.
+}
+
+
+//name:TQ0540
+::TQ0540::A torsion bar used as a suspension spring provides its springing action by:{
+	=twisting around its center.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+	~an integrated shock absorber.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+	~changing its length.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+	~transferring load to the opposite wheel.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+}
+
+
+//name:TQ0541
+::TQ0541::The spring rate of a torsion bar suspension is dependent on the:{
+	=length and diameter or size of the bar.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+	~length of the bar.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+	~location of the mounting brackets.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+	~size or diameter of the bar.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+}
+
+
+//name:TQ0542
+::TQ0542::Which of these types of torsion bar would have the stiffest spring rating?{
+	=Short and thick.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+	~Long and thick.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+	~Long and thin.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+	~Short and thin.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+}
+
+
+//name:TQ0543
+::TQ0543::The gas used in many gas-pressurized shock absorbers is:{
+	=nitrogen gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+	~hydrogen gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+	~inert gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+	~compressed gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+}
+
+
+//name:TQ0544
+::TQ0544::A standard hydraulic shock absorber is designed to:{
+	=dampen spring oscillations.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~permit use of coil springs instead of leaf springs.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~improve rigidity of spring mountings.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~support part of vehicle mass.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+}
+
+
+//name:TQ0545
+::TQ0545::Shock absorbers convert the energy they absorb into:{
+	=heat.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~fluid pressure.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~driving force.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~oil in the reservoir.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+}
+
+
+//name:TQ0546
+::TQ0546::The most widely used hydraulic shock absorber is the:{
+	=direct-acting telescopic type.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+	~McPherson strut.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+	~strut type.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+}
+
+
+//name:TQ0547
+::TQ0547::Load-adjustable shock absorbers fitted to some vehicles are adjusted by:{
+	=a manual set screw and lock nut.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+	~compressed air.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+	~nitrogen gas.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+	~adjustable shock absorber mountings.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+}
+
+
+//name:TQ0548
+::TQ0548::In load-adjustable shock absorbers, what does changing the air pressure in the cylinder do?{
+	=Adjust ride height.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+	~Adjust tire pressure.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+	~Adjust spring load.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+	~Adjust dampening rate.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+}
+
+
+//name:TQ0549
+::TQ0549::A shock absorber that can be adjusted for dampening effect is called:{
+	=adjustable rate.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+	~constant rate.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+	~gas pressurized.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+	~air adjustable.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+}
+
+
+//name:TQ0550
+::TQ0550::Electronically adjustable shock absorbers alter their damping rate by:{
+	=changing the number of restrictions the oil must pass through.#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+	~changing the viscosity of the oil#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+	~changing the gas pressure inside the shock absorber.#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+	~changing the magnetic field around the spring.#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+}
+
+
+//name:TQ0551
+::TQ0551::In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to:{
+	=2 minutes#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+	~20 seconds#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+	~2 seconds#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+	~20 minutes#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+}
+
+
+//name:TQ0552
+::TQ0552::When turning, the steering knuckle pivots on rubber bushings.{
+	=FALSE#Steering knuckles pivot on ball joints. 
+	~TRUE#Steering knuckles pivot on ball joints. 
+}
+
+
+//name:TQ0553
+::TQ0553::In a short/long arm type front suspension system how is suspension movement accommodated while still maintaining steering geometry?{
+	=The lower control arm is longer than the upper control arm.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+	~The lower control arm is shorter than the upper control arm.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+	~It moves up and down in parallel to accommodate movement in the suspension.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+	~It moves up and down independently to accommodate movement in the suspension.#Both arms pivot on bushes which twist on control arm pins bolted to the vehicle's cross-member.
+}
+
+
+//name:TQ0554
+::TQ0554::In short/long arm suspension the lower control arm pivots on bushes that twist on the:{
+	=lower control arm pin.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+	~upper control arm pin.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+	~cross-member bushes.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+	~upper control arm bushes.#In short/long arm suspension the lower control arm pivots on bushes that twist on the lower control arm pin, which is bolted to the cross-member of the vehicle. The lower control arm is longer than the upper control arm.
+}
+
+
+//name:TQ0555
+::TQ0555::A strut type suspension system has the shock absorbers contained inside them.  {
+	=TRUE#In a strut type suspension system, a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower.
+	~FALSE#In a strut type suspension system, a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower.
+}
+
+
+//name:TQ0556
+::TQ0556::Strut type suspensions are only used on front suspensions.{
+	=FALSE#A strut type suspension system can be used on the front or rear of a vehicle, or both.
+	~TRUE#A strut type suspension system can be used on the front or rear of a vehicle, or both.
+}
+
+
+//name:TQ0557
+::TQ0557::In strut suspension how is the control arm fixed in place?{
+	=It is fixed in place with bushes.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+	~It is held in place by the drive shafts.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+	~It is held in place by the coil spring.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+	~It is bearing-mounted.#In strut suspension a telescopic type shock absorber is contained inside the strut with the coil spring mounted over the strut inside the suspension tower. The control arm mount is fixed (or held in place) in the vehicle configuration, by bushes.
+}
+
+
+//name:TQ0558
+::TQ0558::How does a torsion bar spring operate and what determines the strength of the spring?{
+	=The torsion bar supports the vehicle load and twists around its center to provide the springing action. The spring rate depends upon the length of the bar. The shorter and thicker the bar, the stiffer its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+	~The torsion bar supports the vehicle load and twists around its center to provide the springing action. The spring rate depends upon the length of the bar. The shorter and thicker the bar, the lighter its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+	~The torsion bar moves up and down. The spring rate depends upon the length of the bar. The shorter and thicker the bar, the stiffer its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+	~The torsion bar supports the vehicle load and twists around its center to provide the springing action. The spring rate depends upon the length of the bar. The longer the bar, the stiffer its spring rate.#After a lot of use, a torsion bar can sag. On many vehicles, it can be adjusted to allow for this. It is used in light vehicles as a stabilizer, or anti-roll bar, connected between each side of the suspension on the front, and sometimes the rear.
+}
+
+
+//name:TQ0559
+::TQ0559::In torsion bar suspension the lower control arm moves up and down to accommodate movement in the suspension. What is this particular design sometimes called?{
+	=A 'Wishbone Control Arm'.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+	~A 'Torsion Bar Control Arm'.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+	~A 'V' shaped control arm.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+	~A 'Front Suspension Control Arm.#The lower ball joint is attached to the lower control arm and allows the steering knuckle to rotate as the steering wheel is turned. The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes called a 'Wishbone Control Arm'.
+}
+
+
+//name:TQ0560
+::TQ0560::In a rear-wheel drive vehicle that uses a coil spring suspension system, the driving force is transmitted to the vehicle body by the:{
+	=trailing arms.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+	~wheel housing.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+	~shock absorbers.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+	~springs.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+}
+
+
+//name:TQ0561
+::TQ0561::The trailing arm is attached to the chassis at a rigid cross-member pivot point. This pivot point is fitted with:{
+	=rubber bushes.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+	~swinging shackles.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+	~telescopic shock absorbers.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+	~coil springs.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+}
+
+
+//name:TQ0562
+::TQ0562::A rear suspension U-bolt:{
+	=clamps the leaf spring to the axle housing.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~adjusts the spring tension.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~clamps the leaf spring to the chassis.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~separates each leaf of the spring.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+}
+
+
+//name:TQ0563
+::TQ0563::The swinging shackle allows for suspension movement by allowing the spring to extend or reduce in length as the vehicle moves over uneven ground.{
+	=TRUE#The swinging shackle allows a leaf spring to elongate as it is compressed, which increases the ride softness.
+	~FALSE#The swinging shackle allows a leaf spring to elongate as it is compressed, which increases the ride softness.
+}
+
+
+//name:TQ0564
+::TQ0564::A rear suspension 'dead' axle in a front-wheel drive vehicle:{
+	=only supports the vehicle.#On front-wheel drive vehicles a simple beam axle can be used on the rear with coil spring suspension and control arms for location. This is called a 'dead' axle, as it only supports the vehicle and doesn't transmit any drive. It's also non-independent, as deflection of a wheel on one side of the vehicle will be transferred to the other wheel.
+	~supports the vehicle and assists in transmitting the drive.#On front-wheel drive vehicles a simple beam axle can be used on the rear with coil spring suspension and control arms for location. This is called a 'dead' axle, as it only supports the vehicle and doesn't transmit any drive. It's also non-independent, as deflection of a wheel on one side of the vehicle will be transferred to the other wheel.
+	~is an independent suspension assembly.#On front-wheel drive vehicles a simple beam axle can be used on the rear with coil spring suspension and control arms for location. This is called a 'dead' axle, as it only supports the vehicle and doesn't transmit any drive. It's also non-independent, as deflection of a wheel on one side of the vehicle will be transferred to the other wheel.
+}
+
+
+//name:TQ0565
+::TQ0565::The panhard rods are:{
+	=designed to assist in stabilizing the vehicle from lateral movements.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+	~used to replace the shock absorbers.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+	~usually found on the front suspension.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+	~used to locate the springs.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+}
+
+
+//name:TQ0566
+::TQ0566::Technician A says deflection to one side of an rigid axle suspension is transmitted to the other side.  Technician B says the 'Watts Link' controls any longitudinal movement.  Who is correct?{
+	=Technician A.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+	~Technician B.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+	~Both Technician A & Technician B.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+	~Neither Technician A or Technician B.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+}
+
+
+//name:TQ0567
+::TQ0567::Trailing arms, or control rods, are used to position the axle: {
+	=longitudinally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~diagonally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~vertically.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~horizontally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+}
+
+
+//name:TQ0568
+::TQ0568::In commercial vehicles, metallic bushes are commonly used as shackle bushes for:{
+	=leaf springs.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+	~coil springs.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+	~torsion springs.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+	~steering linkages.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+}
+
+
+//name:TQ0569
+::TQ0569::What's another word for a 'driven' rear axle?{
+	=A 'live' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+	~A 'swinging' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+	~A 'dead' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+	~A 'geared' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+}
+
+
+//name:TQ0570
+::TQ0570::In front suspension systems, coil springs can only be used with driven or 'live' axle layouts.{
+	=FALSE#A number of different layouts are used in front suspension systems, incorporating either a driven or 'live' axle; or a non-driven or 'dead' axle.
+	~TRUE#A number of different layouts are used in front suspension systems, incorporating either a driven or 'live' axle; or a non-driven or 'dead' axle.
+}
+
+
+//name:TQ0571
+::TQ0571::Which of these is not an independent rear suspension layout?{
+	=Axle beam; torsion bar; trailing arm; panhard rod; coil springs and strut.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+	~Coil springs; drive shafts; cross member; universal joints and lower suspension link.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+	~Coil springs & strut; splined sections; lateral wishbone and external drive shafts.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+	~Torsion bar; upper wishbone; lower wishbone and torsion bar adjustment.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+}
+
+
+//name:TQ0572
+::TQ0572::Which of these components could not form part of a 'dead' axle assembly?{
+	=Differential.#A non-driven or 'dead' axle can have a number of different layouts.
+	~Panhard rods.#A non-driven or 'dead' axle can have a number of different layouts.
+	~Torsion bar.#A non-driven or 'dead' axle can have a number of different layouts.
+	~Coil springs.#A non-driven or 'dead' axle can have a number of different layouts.
+}
+
+
+//name:TQ0573
+::TQ0573::Technician A says that if a shock absorber is being replaced because of wear or damage, the shock absorber on the opposite side only needs to be replaced if it is also worn or damaged. Technician B says that if a strut is being replaced because of wear or damage, the strut on the opposite side should also be replaced. Who is correct?{
+	~Technician A.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+	=Technician B.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+	~Both Technician A & Technician B.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+	~Neither Technician A or Technician B.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+}
+
+
+//name:TQ0574
+::TQ0574::Technician A says that shock absorbers sometimes leak when they are worn out. Technician B says that shock absorbers can be worn out but may not leak. Who is correct?{
+	~Technician A.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+	~Technician B.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+	=Both Technician A and Technician B.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+	~Neither Technician A nor Technician B.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+}
+
+
+//name:TQ0575
+::TQ0575::The car continues to bounce after going over a bump. Technician A says the problem is bad shock absorbers. Technician B says the problem is a bad steering knuckle. Who is correct?{
+	=Technician A.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+	~Technician B.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+	~Both Technician A & Technician B.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+	~Neither Technician A or Technician B.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+}
+
+
+//name:TQ0576
+::TQ0576::How many bounces or oscillations after release are permissible when testing shock absorbers? Technician A says two to four (2-4) for some types of shock absorber. Technician B says three to four (3-4) for some types of shock absorber. Who is correct?{
+	~Technician A.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+	~Technician B.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+	~Both Technician A & Technician B.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+	=Neither Technician A or Technician B.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+}
+
+
+//name:TQ0577
+::TQ0577::When lubricating a suspension component, if grease starts to appear from around the protective boot it means:{
+	=too much grease has been applied.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+	~enough grease has been applied.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+	~you should keep adding grease until clean grease appears.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+	~you should adjust the pressure of the grease gun.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+}
+
+
+//name:TQ0578
+::TQ0578::When using high pressure grease guns to lubricate chassis components, it is important that:{
+	=seals or rubber boots are not damaged.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+	~grease does not enter the hydraulic brake system.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+	~grease does not lubricate the coil springs.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+	~the steering component preload is not reduced.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+}
+
+
+//name:TQ0579
+::TQ0579::Technician A says that steering joints need to be lubricated with a grease gun. Technician B says that some types of steering joints are sealed units and do not need lubricating. Who is correct?{
+	~Technician A.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+	~Technician B.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+	=Both Technician A and Technician B.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+	~Neither Technician A nor Technician B.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+}
+
+
+//name:TQ0580
+::TQ0580::Before checking the vehicle ride height:{
+	=make sure tire pressures are correct.#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+	~check the vehicle is fully loaded.#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+	~remove the spare tire.#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+	~adjust the tire pressures to 100 kPa (14 PSI)#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+}
+
+
+//name:TQ0581
+::TQ0581::Wheel rims are sized according to:{
+	=all of these.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+	~diameter.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+	~flange height.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+	~width.#To ensure a correct fit between the tire and rim all manufacturers of wheels and tires comply with standard dimensions as recommended by tire and rim associations. The width of the rim is the distance across the rim flanges at the bead seat. Its diameter is the distance across the center of the rim from bead seat to bead seat.
+}
+
+
+//name:TQ0582
+::TQ0582::A flat-base demountable flange rim is normally fitted to:{
+	=commercial vehicles.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+	~tires with high aspect ratios.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+	~rear-wheel drive passenger vehicles.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+	~front-wheel drive vehicles.#Tires for heavy goods vehicles are much stiffer but they can also be fitted to a well-based rim or to a flat-base detachable flange rim, depending on construction.
+}
+
+
+//name:TQ0583
+::TQ0583::The well formed in a light vehicle wheel rim is designed to:{
+	=assist in removing and fitting the tire.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+	~prevent the tire rolling off the rim.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+	~increase the volume of air in the tire.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+	~provide a smooth ride.#Passenger cars normally use rims which are of well based, or drop-center design. The drop-center is used for mounting and demounting the tire onto the rim.
+}
+
+
+//name:TQ0584
+::TQ0584::Custom wheels can be made of:{
+	=all of these.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+	~magnesium.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+	~steel and aluminum.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+	~aluminum.#Wheels can also be made from cast aluminum alloy. Alloy wheels are popular because of their appearance and because they are lighter than similar steel wheels. Aluminum is a better conductor of heat, so alloy wheels can dissipate heat from brakes and tires more effectively than steel ones. These are often called mag or magnesium wheels, but wheels made of magnesium are rarely used on road vehicles.
+}
+
+
+//name:TQ0585
+::TQ0585::Technician A says alloy wheels are lighter than steel wheels.  Technician B says most passenger rims are 'Drop Center' design. Who is correct?{
+	~Technician A.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+	~Technician B.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+	=Both Technician A and Technician B.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+	~Neither Technician A nor Technician B.#Both technicians are corret. Alloy wheels are lighter than steel wheels.  Most passenger rims are 'Drop Center' design.
+}
+
+
+//name:TQ0586
+::TQ0586::A rim designated 7 JJ by 14 would refer to a rim measuring:{
+	=7 ' across the rim flanges, and 14' in diameter from bead seat to bead seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 ' across the rim flanges, and 14' in diameter from bead seat to bead seat.
+	~14 ' across the rim flanges, and 7' in diameter from bead seat to bead seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 ' across the rim flanges, and 14' in diameter from bead seat to bead seat.
+	~7 ' across the well, and 14' in diameter from well seat to well seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 ' across the rim flanges, and 14' in diameter from bead seat to bead seat.
+	~14 ' across the well, and 7' in diameter from well seat to well seat.#A rim designated 7 JJ by 14 would refer to a rim measuring 7 ' across the rim flanges, and 14' in diameter from bead seat to bead seat.
+}
+
+
+//name:TQ0587
+::TQ0587::The center of gravity is the balance point of the entire vehicle, but its actual position depends on:{
+	=location of major components and it's always located above the road surface.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+	~location of minor components and in most cases it's located just above the road surface.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+	~location of some components and in most cases it's located just above the road surface.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+	~location of some components.#The center of gravity is the balance point of the entire vehicle. Its actual position depends on the location of the major components. It's always located above the road surface and between the tires.
+}
+
+
+//name:TQ0588
+::TQ0588::The main function of grooves in the tread pattern is to:{
+	=clear water from the contact patch.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~reduce road noise intrusion.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~indicate when the tire is worn out.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~increase traction on dry surfaces.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+}
+
+
+//name:TQ0589
+::TQ0589::Tubeless tires have no inner tubes because they have:{
+	=a soft-rubber inner-casing liner.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~high-tensile steel beads.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~an increased number of casing plies.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~a special outer-casing compound.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+}
+
+
+//name:TQ0590
+::TQ0590::In radial tires the bracing belt cords run:{
+	=15#176; to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~40#176; to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~70#176; to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~90#176; to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+}
+
+
+//name:TQ0591
+::TQ0591::Radial ply tires have:{
+	=softer sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~larger sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~smaller sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~stiffer sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+}
+
+
+//name:TQ0592
+::TQ0592::An onboard vehicle tire pressure monitoring system (TPMS) is normally mandatory for all RFT applications?{
+	=TRUE#If any one of the tire's pressure or temperature is out of the range of the rated value, the host system will receive the wireless messages from the extensions and make the corresponding sound, digital or figure display in order to caution the driver of the conditions at the time. This ensures safety of the driver, the passengers and the automobile. A law was passed by the America National Highway Traffic Safety Administration that from November 2006 onwards all vehicles sold in America must be equipped with a tire pressure monitoring system. 
+	~FALSE#If any one of the tire's pressure or temperature is out of the range of the rated value, the host system will receive the wireless messages from the extensions and make the corresponding sound, digital or figure display in order to caution the driver of the conditions at the time. This ensures safety of the driver, the passengers and the automobile. A law was passed by the America National Highway Traffic Safety Administration that from November 2006 onwards all vehicles sold in America must be equipped with a tire pressure monitoring system. 
+}
+
+
+//name:TQ0593
+::TQ0593::When changing run flat tires on a wheel assembly special equipment is needed because of the way the tire is constructed.{
+	=TRUE#Run flat tires incorporate an inner hard rim ring that prevents the tire from collapsing on the rim. Specialized procedures an tools are required.
+	~FALSE#Run flat tires incorporate an inner hard rim ring that prevents the tire from collapsing on the rim. Specialized procedures an tools are required.
+}
+
+
+//name:TQ0594
+::TQ0594::Why are many vehicles only provided with an emergency space saver spare wheel?{
+	=The change in vehicle body design only allows this arrangement.#Many vehicles are only provided with an emergency space saver spare wheel because the vehicle body design only allows this arrangement. In fact some vehicles are provided with no spare wheels and are fitted with run flat tires.
+	~Vehicle body design legislation dictates this arrangement.#Many vehicles are only provided with an emergency space saver spare wheel because the vehicle body design only allows this arrangement. In fact some vehicles are provided with no spare wheels and are fitted with run flat tires.
+	~Manufacturers save money by only supplying a space saver wheel.#Many vehicles are only provided with an emergency space saver spare wheel because the vehicle body design only allows this arrangement. In fact some vehicles are provided with no spare wheels and are fitted with run flat tires.
+}
+
+
+//name:TQ0595
+::TQ0595::When a tire is marked as 'Temporary Use Only', this means:{
+	=it is only suitable to use as a spare tire to move the vehicle to a safe place while the original tire is repaired.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+	~it can only be used for a short term.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+	~it is not recommended for high speed driving.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+	~it does not have an inner tube.#Temporary tires are generally compact spares and do not have high speed and load ratings. Therefore they must only be used to move the vehicle to service.
+}
+
+
+//name:TQ0596
+::TQ0596::During cornering, centrifugal force acts on a vehicle to produce:{
+	=side force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+	~upward force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+	~downward force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+	~cross force.#Opposing lateral force is cornering force that the tires create when you turn the wheel into a corner. By completing the turn, cornering force has overcome lateral force. The important thing here is that tires, and only tires can generate cornering force. Suspension systems can only affect how tires generate and share that cornering force.
+}
+
+
+//name:TQ0597
+::TQ0597::Technician A says tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed. Technician B says the tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle, however, using other wheels and tires is allowable.  Who is correct?{
+	=Technician A.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Both Technician A and Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Neither Technician A nor Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+}
+
+
+//name:TQ0598
+::TQ0598::Tire pressure monitoring systems provide a method of:{
+	=continuously monitoring tire pressures.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+	~inflating tyres.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+	~deflating tyres.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+	~inflating and deflating tyres.#Automated Tire Pressure Monitoring Systems or TPMS provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.
+}
+
+
+//name:TQ0599
+::TQ0599::With reference to tires, what supports the vehicle's mass or weight?{
+	=the air pressure inside the tire.#Regardless of its size every tire's load capacity, durability, traction and handling is dependent on using the right inflation pressure for the application. Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important.
+	~the sidewalls.#Regardless of its size every tire's load capacity, durability, traction and handling is dependent on using the right inflation pressure for the application. Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important.
+	~the tread.#Regardless of its size every tire's load capacity, durability, traction and handling is dependent on using the right inflation pressure for the application. Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important.
+	~the tire casing.#Regardless of its size every tire's load capacity, durability, traction and handling is dependent on using the right inflation pressure for the application. Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important.
+}
+
+
+//name:TQ0600
+::TQ0600::Tire information is molded into the:{
+	=sidewall.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+	~rim.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+	~bead diameter.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+	~tread.#Information on tire aspect ratio is now included in the sidewall marking, together with the type of construction and the speed rating.
+}
+
+
+//name:TQ0601
+::TQ0601::Technician A says that tire markings now include load ratings on tires. Technician B says that they are only included on truck tires. Who is correct?{
+	=Technician A.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+	~Technician B.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+	~Both Technician A and Technician B.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+	~Neither Technician A nor Technician B.#Technician A is correct as load rating is an important aspect of tire life and safety. All tires carry a load rating.
+}
+
+
+//name:TQ0602
+::TQ0602::Technician A says that tire markings now include speed ratings on tires. Technician B says that they are only included on high performance tires. Who is correct?{
+	=Technician A.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+	~Technician B.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+	~Both Technician A and Technician B.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+	~Neither Technician A nor Technician B.#Technician A is correct as speed rating is an important aspect of tire performance and safety. All tires carry a speed rating.
+}
+
+
+//name:TQ0603
+::TQ0603::Natural rubber is mainly used in tire sidewalls and not in the tread of the tire. This is because:{
+	=natural rubber is weaker than synthetic rubber.#The tire tread must endure rugged duty while the sidewall must be flexible.
+	~natural rubber is stronger than synthetic rubber.#The tire tread must endure rugged duty while the sidewall must be flexible.
+	~natural rubber is more expensive.#The tire tread must endure rugged duty while the sidewall must be flexible.
+	~natural rubber holds the shape of the sidewall better than synthetic rubber.#The tire tread must endure rugged duty while the sidewall must be flexible.
+}
+
+
+//name:TQ0604
+::TQ0604::The cords of a radial constructed ply tire are placed in parallel. What does that give the plies?{
+	=High strength in one direction and flexibility in other directions.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+	~High strength in all directions.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+	~Flexibility in any direction.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+	~Strength with little flexibility in any direction.#The ply placement by design offers a rigid tread while providing a flexible side wall.
+}
+
+
+//name:TQ0605
+::TQ0605::What is the bead of a tire made of?{
+	=High-tensile steel.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+	~Cotton.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+	~Synthetic fabric.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+	~Natural rubber.#The bead prevents the tire from slipping past the rim. It must be made of a strong material such as steel.
+}
+
+
+//name:TQ0606
+::TQ0606::Tire traction indicators are rated as AA, A, B, or C. Which is the highest rating?{
+	=AA#Traction grades are an indication of a tire's ability to stop on wet pavement. A higher graded tire should allow you to stop your car on wet roads in a shorter distance than a tire with a lower grade. Traction is graded from highest to lowest as 'AA', 'A', 'B', and 'C'.
+	~B#Traction grades are an indication of a tire's ability to stop on wet pavement. A higher graded tire should allow you to stop your car on wet roads in a shorter distance than a tire with a lower grade. Traction is graded from highest to lowest as 'AA', 'A', 'B', and 'C'.
+	~C#Traction grades are an indication of a tire's ability to stop on wet pavement. A higher graded tire should allow you to stop your car on wet roads in a shorter distance than a tire with a lower grade. Traction is graded from highest to lowest as 'AA', 'A', 'B', and 'C'.
+	~A#Traction grades are an indication of a tire's ability to stop on wet pavement. A higher graded tire should allow you to stop your car on wet roads in a shorter distance than a tire with a lower grade. Traction is graded from highest to lowest as 'AA', 'A', 'B', and 'C'.
+}
+
+
+//name:TQ0607
+::TQ0607::Technician A says that tire markings now include temperature ratings on tires. Technician B says that they are only included on high performance tires. Who is correct?{
+	~Technician A.#Both technicians are correct as temperature rating is an important aspect of tire performance and safety. All tires carry a temperature rating.
+	~Technician B.#Both technicians are correct as temperature rating is an important aspect of tire performance and safety. All tires carry a temperature rating.
+	=Both Technician A and Technician B.#Both technicians are correct as temperature rating is an important aspect of tire performance and safety. All tires carry a temperature rating.
+	~Neither Technician A nor Technician B.#Both technicians are correct as temperature rating is an important aspect of tire performance and safety. All tires carry a temperature rating.
+}
+
+
+//name:TQ0608
+::TQ0608::A tire with an aspect ratio of 45% is a:{
+	=low profile tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+	~high profile tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+	~small bead tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+	~cross-ply tire.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height.
+}
+
+
+//name:TQ0609
+::TQ0609::An aspect ratio of 75% indicates that the:{
+	=height of the tire is 25% less than its width.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height. An aspect ratio of 75% means the height is 25% less than the width, giving a lower profile. It is called a medium low profile tire.
+	~width of the tire is 75% its height.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height. An aspect ratio of 75% means the height is 25% less than the width, giving a lower profile. It is called a medium low profile tire.
+	~height of the tire is 25% greater than its width.#The aspect ratio of a tire is the ratio of its height to its width. It's usually given as a percentage. The lower a tire's aspect ratio, the wider the tire is in relation to its height. An aspect ratio of 75% means the height is 25% less than the width, giving a lower profile. It is called a medium low profile tire.
+}
+
+
+//name:TQ0610
+::TQ0610::The rubber-encased cords of a cross ply tire run at an angle of:{
+	=30 and 38 degrees to the centerline, with each cord wrapped around the beads. 
+#The rubber-encased cords of a cross ply tire run at an angle of 30 and 38 degrees to the centerline, with each cord wrapped around the beads.
+	~20 and 28 degrees to the centerline, with each cord wrapped around the beads. 
+#The rubber-encased cords of a cross ply tire run at an angle of 30 and 38 degrees to the centerline, with each cord wrapped around the beads.
+	~30 and 38 degrees to the centerline, with each cord wrapped around the tread. 
+#The rubber-encased cords of a cross ply tire run at an angle of 30 and 38 degrees to the centerline, with each cord wrapped around the beads.
+	~20 and 28 degrees to the centerline, with each cord wrapped around the treads. 
+#The rubber-encased cords of a cross ply tire run at an angle of 30 and 38 degrees to the centerline, with each cord wrapped around the beads.
+}
+
+
+//name:TQ0611
+::TQ0611::Technician A says hysteresis is described as the energy lost, making the tire cold.  Technician B says tire temperature must be kept as high as possible.  Who is correct?{
+	=Technician A.#Technician A is correct. Hysteresis is described as the energy lost usually in the form of heat.  Tire temperature must be kept as low as possible.
+	~Technician B.#Technician A is correct. Hysteresis is described as the energy lost usually in the form of heat.  Tire temperature must be kept as low as possible.
+	~Both technicians are correct as temperature rating is an important aspect of tire performance and safety. All tires carry a temperature rating.#Technician A is correct. Hysteresis is described as the energy lost usually in the form of heat.  Tire temperature must be kept as low as possible.
+	~Neither Technician A nor Technician B.#Technician A is correct. Hysteresis is described as the energy lost usually in the form of heat.  Tire temperature must be kept as low as possible.
+}
+
+
+//name:TQ0612
+::TQ0612::Technician A says directional tires can only be mounted so they revolve in a direction indicated by an arrow on the sidewall and non-directional tires are designed to rotate in any direction.  Technician B says asymmetric tires have the same tread pattern on both sides of the tire and symmetric tires have a tread pattern that is different from one side of the tire to the other. Who is correct?
+
+. {
+	=Technician A.#Technician A is correct. Directional tires can only be mounted so it revolves in a direction indicated by an arrow on the sidewall and non-directional tyres are designed to rotate in any direction.  Symmetric tires have the same tread pattern on both sides of the tire and asymmetric tires have a tread pattern that is different from one side of the tire to the other.
+	~Technician B.#Technician A is correct. Directional tires can only be mounted so it revolves in a direction indicated by an arrow on the sidewall and non-directional tyres are designed to rotate in any direction.  Symmetric tires have the same tread pattern on both sides of the tire and asymmetric tires have a tread pattern that is different from one side of the tire to the other.
+	~Both Technician A and Technician B.#Technician A is correct. Directional tires can only be mounted so it revolves in a direction indicated by an arrow on the sidewall and non-directional tyres are designed to rotate in any direction.  Symmetric tires have the same tread pattern on both sides of the tire and asymmetric tires have a tread pattern that is different from one side of the tire to the other.
+	~Neither Technician A nor Technician B.#Technician A is correct. Directional tires can only be mounted so it revolves in a direction indicated by an arrow on the sidewall and non-directional tyres are designed to rotate in any direction.  Symmetric tires have the same tread pattern on both sides of the tire and asymmetric tires have a tread pattern that is different from one side of the tire to the other.
+}
+
+
+//name:TQ0613
+::TQ0613::Which of the following factors do NOT affect wheel alignment?{
+	=Tire width.#Alignment angels are SAI, caster, camber and toe.
+	~Camber.#Alignment angels are SAI, caster, camber and toe.
+	~Steering axis inclination.#Alignment angels are SAI, caster, camber and toe.
+	~Toe-in & toe-out.#Alignment angels are SAI, caster, camber and toe.
+}
+
+
+//name:TQ0614
+::TQ0614::Excessive wear on the outside of the tire could indicate:{
+	=excessive positive camber.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+	~excessive negative camber.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+	~high tire pressures.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+	~low tire pressures.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+}
+
+
+//name:TQ0615
+::TQ0615::Negative camber can be increased by moving the upper ball joint inward toward the frame of the vehicle.{
+	=TRUE#Camber is viewed from the front of the vehicle and it is the angle of tilt of the wheel from the vertical. A wheel that leans towards the vehicle is said to have negative camber. 
+	~FALSE#Camber is viewed from the front of the vehicle and it is the angle of tilt of the wheel from the vertical. A wheel that leans towards the vehicle is said to have negative camber. 
+}
+
+
+//name:TQ0616
+::TQ0616::Positive caster can be increased by moving the upper ball joint toward the front of the vehicle.{
+	=FALSE#Caster is the angle between the steering axis centerline and a vertical line through the center of the wheel. Backward tilt from the vertical line is positive caster. Forward tilt is negative caster.
+	~TRUE#Caster is the angle between the steering axis centerline and a vertical line through the center of the wheel. Backward tilt from the vertical line is positive caster. Forward tilt is negative caster.
+}
+
+
+//name:TQ0617
+::TQ0617::Rim offset must stay the same if rims are replaced, otherwise the:{
+	=scrub radius will change.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+	~caster will decrease.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+	~camber settings will change.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+	~toe-in will increase.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+}
+
+
+//name:TQ0618
+::TQ0618::The included angle is a combination of:{
+	=camber and steering axis inclination.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+	~turning radius and Ackerman angle.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+	~caster and camber.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+	~toe-in and toe-out.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+}
+
+
+//name:TQ0619
+::TQ0619::Can a wheel alignment be performed only on the front wheels on vehicles fitted with Independent Rear Suspension (IRS)?{
+	=Yes. However on a vehicle with Independent Rear Suspension (IRS), undertaking a front-wheel only alignment is considered to be an inadequate procedure.#There are two main types of 4-wheel alignments. In each case, the technician will place an instrument on all four wheels. In the first type, the rear toe and tracking is checked, but all adjustments are made at the front wheels. This is done on vehicles that do not have adjustments on the rear. The second type is a full 4-wheel alignment where the adjustments are first made to true up the rear alignment, then the front is adjusted. A full 4-wheel alignment will cost more than the other type because there is more work involved.
+	~No, all wheels must be aligned on a vehicle with Independent Rear Suspension (IRS).#There are two main types of 4-wheel alignments. In each case, the technician will place an instrument on all four wheels. In the first type, the rear toe and tracking is checked, but all adjustments are made at the front wheels. This is done on vehicles that do not have adjustments on the rear. The second type is a full 4-wheel alignment where the adjustments are first made to true up the rear alignment, then the front is adjusted. A full 4-wheel alignment will cost more than the other type because there is more work involved.
+	~Yes, on a vehicle with Independent Rear Suspension (IRS), rear-wheel alignments are unnecessary.#There are two main types of 4-wheel alignments. In each case, the technician will place an instrument on all four wheels. In the first type, the rear toe and tracking is checked, but all adjustments are made at the front wheels. This is done on vehicles that do not have adjustments on the rear. The second type is a full 4-wheel alignment where the adjustments are first made to true up the rear alignment, then the front is adjusted. A full 4-wheel alignment will cost more than the other type because there is more work involved.
+}
+
+
+//name:TQ0620
+::TQ0620::The toe-in adjustment is normally made after the camber and caster adjustments are made.{
+	=TRUE#The tie rod and drag link, as installed at the factory, are very close to parallel. Keeping these components parallel reduces bump steer. Toe is the turning out of the front wheels. The purpose of a toe specification is to ensure parallel rolling of the front wheels. Proper toe adjustment helps keep the vehicle going down the road in a straight line.  A slight amount of positive toe makes the vehicle feel more stable. 
+	~FALSE#The tie rod and drag link, as installed at the factory, are very close to parallel. Keeping these components parallel reduces bump steer. Toe is the turning out of the front wheels. The purpose of a toe specification is to ensure parallel rolling of the front wheels. Proper toe adjustment helps keep the vehicle going down the road in a straight line.  A slight amount of positive toe makes the vehicle feel more stable. 
+}
+
+
+//name:TQ0621
+::TQ0621::Toe is adjusted by adding or removing shims or by turning eccentrics on the steering arms.{
+	=FALSE#Toe is adjusted by turning the threaded sleeve or rod which adjusts the length of the tie rod. Variation from factory specs is usually caused by worn or bent suspension parts or changes in caster/camber settings. Toe angle can also be affected by body structure or frame damage.
+	~TRUE#Toe is adjusted by turning the threaded sleeve or rod which adjusts the length of the tie rod. Variation from factory specs is usually caused by worn or bent suspension parts or changes in caster/camber settings. Toe angle can also be affected by body structure or frame damage.
+}
+
+
+//name:TQ0622
+::TQ0622::What is toe-in?{
+	=When the front of the wheels are closer together than the rear of the wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+	~When the rear of the wheels are closer together than the front of the wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+	~When the front of the wheels have worn more than the rear of the wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+	~When the front wheels have worn more than the rear wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+}
+
+
+//name:TQ0623
+::TQ0623::Toe-out of the front wheels when turning corners:{
+	=reduces tire scrubbing.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+	~increases tire scrubbing.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+	~is caused by rim offset.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+	~is caused by excessive camber.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+}
+
+
+//name:TQ0624
+::TQ0624::What is the turning radius a measure of?{
+	=How small a circle the vehicle can turn around in.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+	~How much movement or turn there is in the steering wheel.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+	~The set wheel stops adjusted in manufacture.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+	~The set steering box limit.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+}
+
+
+//name:TQ0625
+::TQ0625::Under what circumstance would you fully deflate a tire?{
+	=Prior to removing it from the road wheel.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+	~When checking the treads.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+	~When checking the sidewall for flexibility.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+	~When inserting a plug repair kit.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+}
+
+
+//name:TQ0626
+::TQ0626::When checking tire pressures you must make sure that the gauge is accurate. If the gauge is reading high it could lead to the tire being:{
+	=under-inflated.#Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important. Therefore you should ensure the tire inflation gauge being used is accurate.
+	~over-inflated.#Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important. Therefore you should ensure the tire inflation gauge being used is accurate.
+}
+
+
+//name:TQ0627
+::TQ0627::Excessive wear in the middle of a tire tread could indicate:{
+	=over-inflation.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+	~under-inflation.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+	~wheels not running parallel.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+	~excessive negative camber.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+}
+
+
+//name:TQ0628
+::TQ0628::When the tread wear indicators appear as a solid line across the tire that indicates that new tires will soon be required.{
+	=FALSE#Tread wear indicators indicate when a tire has reached its safe and useful life. The indication is of replacement - not continued service.
+	~TRUE#Tread wear indicators indicate when a tire has reached its safe and useful life. The indication is of replacement - not continued service.
+}
+
+
+//name:TQ0629
+::TQ0629::Because asymmetric tires can only be fitted to a wheel in one way they can only be used on one side of a vehicle and the wheels cannot be rotated.{
+	=FALSE#Asymmetric tires are generally also directional tires and must be mounted and used on one side of the vehicle as per manufacturer recommendations but they can be rotated front to rear and vice versa.
+	~TRUE#Asymmetric tires are generally also directional tires and must be mounted and used on one side of the vehicle as per manufacturer recommendations but they can be rotated front to rear and vice versa.
+}
+
+
+//name:TQ0630
+::TQ0630::Because some tires are also directional they can only be used on one side of a vehicle.{
+	=TRUE#Directional tires must be mounted and used on one side of the vehicle as per manufacturer recommendations.
+	~FALSE#Directional tires must be mounted and used on one side of the vehicle as per manufacturer recommendations.
+}
+
+
+//name:TQ0631
+::TQ0631::It is recommended that you should replace the valve core when initially inflating a new tire that has just been placed on a rim.{
+	=FALSE#The valve core will limit tire inflation volume and will limit the bead setting process.
+	~TRUE#The valve core will limit tire inflation volume and will limit the bead setting process.
+}
+
+
+//name:TQ0632
+::TQ0632::Technician A says that hub nuts should be tightened with an air wrench because the wrench air pressure settings ensure that the nuts do not get over tightened. Technician B says that lug nuts should be tightened and checked with a torque wrench. Who is correct?{
+	~Technician A.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+	=Technician B.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+	~Both Technician A and Technician B.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+	~Neither Technician A nor Technician B.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+}
+
+
+//name:TQ0633
+::TQ0633::Technician A says that radial tires should be fitted as indicated with the direction of rotation indicator on the side wall. Technician B says that asymmetric or directional tires should be fitted in the direction of rotation. Who is correct?{
+	~Technician A.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+	~Technician B.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+	=Both Technician A and Technician B.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+	~Neither Technician A nor Technician B.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+}
+
+
+//name:TQ0634
+::TQ0634::The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about:{
+	=12.5 kPa for each 2#176;C (1 PSI for each 10#176;F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2#176;C (1 PSI for each 10#176;F) the tire is above its normal operating temperature.
+	~125 kPa for each 2#176;C (10 PSI for each 10#176;F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2#176;C (1 PSI for each 10#176;F) the tire is above its normal operating temperature.
+	~1.25 kPa for each 2#176;C (0.1 PSI for each 10#176;F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2#176;C (1 PSI for each 10#176;F) the tire is above its normal operating temperature.
+	~12.5 kPa for each 20#176;C (1 PSI for each 100#176;F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2#176;C (1 PSI for each 10#176;F) the tire is above its normal operating temperature.
+}
+
+
+//name:TQ0635
+::TQ0635::Technician A says that wheel weights should be removed before checking the balance of a wheel.  Technician B says the weight of the vehicle must be on the tyres before tightening the lug nuts. Who is correct?{
+	~Technician A.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+	=Technician B.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+	~Neither Technician A nor Technician B.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+	~Both Technician A and Technician B.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+}
+
+

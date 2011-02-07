@@ -1,0 +1,81 @@
+//name:TQ0923
+::TQ0923::The purpose of a power take-off on a four-wheel drive vehicle is to provide:{
+	=power to external accessories.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+	~improved power output.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+	~simpler gear changing.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+	~extra acceleration.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+}
+
+
+//name:TQ0924
+::TQ0924::A fully floating type of rear axle hub is normally supported on the axle housing by:{
+	=a pair of taper roller bearings.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+	~two ball thrust bearings.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+	~a deep grove roller bearing.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+	~a single taper roller bearing.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+}
+
+
+//name:TQ0925
+::TQ0925::In a conventional 4-wheel drive a fully floating hub is normally used. Why is this?{
+	=This reduces the load stresses on the axle shaft.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+	~To absorb vertical thrust forces from the wheel housing.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+	~This reduces the torsional stresses on the drive shaft.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+	~This transfers load directly from the wheel to the driveshaft.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+}
+
+
+//name:TQ0926
+::TQ0926::Engaging low range in the transfer case in a part-time 4WD vehicle transmits drive to:{
+	=all four wheels.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+	~the rear wheels only.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+	~the front wheels only.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+	~the power take-off.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+}
+
+
+//name:TQ0927
+::TQ0927::In an all-wheel drive vehicle fitted with a transfer case, the drive allows:{
+	=the vehicle to be operated in high range or low range, or in a neutral condition for a power take-off.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+	~the vehicle to be operated in high range or low range on the front wheels only.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+	~the vehicle to be operated in high range or low range on the rear wheels only.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+	~the vehicle to be operated in high range or low range the same as a conventional 4-wheel drive vehicle.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+}
+
+
+//name:TQ0928
+::TQ0928::What does the transfer case allow for in a driving condition in a conventional part-time 4-wheel drive vehicle?{
+	=The transfer case allows the vehicle to be operated in high range in 2-wheel drive or 4-wheel drive, in low range in 4-wheel drive only and in a neutral condition for a power take-off.#In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+	~The transfer case allows the vehicle to be operated in high range in 2-wheel drive or 4-wheel drive and in a neutral condition for a power take-off.#In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+	~The transfer case allows the vehicle to be operated in 4-wheel drive low range and 4-wheel drive high range and in a neutral condition for a power take-off.#In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+	~The transfer case allows the vehicle to be operated in low range in 2-wheel drive or 4-wheel drive, and in high range in 4-wheel drive only. #In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+}
+
+
+//name:TQ0929
+::TQ0929::In part-time 4-wheel drive the final gear ratio reduction must be:{
+	=the same in both front and rear axles.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+	~greater in the rear axles for better traction.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+	~greater in the front axles for better steering.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+	~variable depending on driving conditions.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+}
+
+
+//name:TQ0930
+::TQ0930::On part-time 4-wheel-drives, the front wheels and axle drive shafts are splined together through:{
+	=differential side gears.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+	~axle shafts.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+	~free wheeling hubs.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+	~front axle gears.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+}
+
+
+//name:TQ0931
+::TQ0931::How many differentials are there in a part-time 4-wheel drive drive-train?{
+	=2#There are 2 differentials.  One for each drive axle.
+	~1#There are 2 differentials.  One for each drive axle.
+	~3#There are 2 differentials.  One for each drive axle.
+	~4#There are 2 differentials.  One for each drive axle.
+}
+
+

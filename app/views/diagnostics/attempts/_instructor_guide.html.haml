@@ -1,0 +1,5 @@
+%span.link{:style => 'margin-left: 20px;'}
+  - if access_agent.eql?(:browser)
+    = link_to 'Instructor Guide', diagnostics_solution_path(@exam.scenario), :popup => ['scenario_solution', 'height=500,width=350,location=no,status=no']
+  - else
+    = link_to 'Instructor Guide', diagnostics_solution_path(@exam.scenario)

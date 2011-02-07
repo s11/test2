@@ -1,0 +1,27 @@
+//name:TQ0200
+::TQ0200::In a carbureted fuel system air and fuel are mixed in the correct proportion in the:{
+	=carburetor.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+	~fuel filter.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+	~fuel pump.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+	~manifold.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+}
+
+
+//name:TQ0205
+::TQ0205::The intake system is part of the:{
+	=fuel system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+	~transmission system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+	~HVAC system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+	~electrical system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+}
+
+
+//name:TQ0206
+::TQ0206::The vehicle exhaust system performs several functions. These are:{
+	=to provide a path to remove hot gases, to reduce noise, to deal with harmful emission concerns and to discharge them safely away from the vehicle. #The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+	~to provide a path to remove hot gases, and to deal with harmful emission concerns. #The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+	~to reduce noise and to deal with harmful emission concerns. #The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+	~to remove heat from the engine and to provide the vehicle with a characteristic exhaust note.#The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+}
+
+

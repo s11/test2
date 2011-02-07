@@ -1,0 +1,45 @@
+//name:TQ1692
+::TQ1692::Technician A says that when oil gets to be milky grey or whitish colored it indicates fuel in the oil. Technician B says it is caused by increased oil consumption. Who is correct?{
+	~Technician A.#Neither technician is correct as when the oil turns milky grey it is an indication of water/coolant contamination.
+	~Technician B.#Neither technician is correct as when the oil turns milky grey it is an indication of water/coolant contamination.
+	~Both Technician A & Technician B#Neither technician is correct as when the oil turns milky grey it is an indication of water/coolant contamination.
+	=Neither Technician A or Technician B.#Neither technician is correct as when the oil turns milky grey it is an indication of water/coolant contamination.
+}
+
+
+//name:TQ1693
+::TQ1693::Technician A says when changing a cartridge oil filter a special filter wrench should be used to loosen the old filter. Technician B says a torque wrench must be used to tighten the new filter. Who is correct?{
+	=Technician A.#Technician A is correct as by the 1950s, the 'spin-on' on or 'full flow' filter had become widespread. Cartridge filters do not require tightening, only the filter housing does.
+	~Technician B.#Technician A is correct as by the 1950s, the 'spin-on' on or 'full flow' filter had become widespread. Cartridge filters do not require tightening, only the filter housing does.
+	~Both Technician A and Technician B.#Technician A is correct as by the 1950s, the 'spin-on' on or 'full flow' filter had become widespread. Cartridge filters do not require tightening, only the filter housing does.
+	~Neither Technician A nor Technician B.#Technician A is correct as by the 1950s, the 'spin-on' on or 'full flow' filter had become widespread. Cartridge filters do not require tightening, only the filter housing does.
+}
+
+
+//name:TQ1694
+::TQ1694::What must be done prior to carrying out an engine oil level check?{
+	=Ensure the vehicle is on a level surface and the engine is off.#Always ensure that engine oil levels are correct. A low oil level can result in engine damage. An excessive oil level can result in catalytic converter damage and blown oil seals.
+	~Ensure the vehicle is on a level surface and the engine is running.#Always ensure that engine oil levels are correct. A low oil level can result in engine damage. An excessive oil level can result in catalytic converter damage and blown oil seals.
+	~Ensure the vehicle is on a level surface with the oil filler cap removed.#Always ensure that engine oil levels are correct. A low oil level can result in engine damage. An excessive oil level can result in catalytic converter damage and blown oil seals.
+	~Ensure the vehicle is on a level surface and cold.#Always ensure that engine oil levels are correct. A low oil level can result in engine damage. An excessive oil level can result in catalytic converter damage and blown oil seals.
+}
+
+
+//name:TQ1695
+::TQ1695::What can be done to help the oil drain more efficiently?{
+	=Run the engine for a while prior to draining the engine oil.#Take care when draining engine oil so as not to burn yourself. Pay attention to local legislation on the disposal of waste oils and adhere to the law of the area.
+	~Ensure that the engine is cold and has not been running.#Take care when draining engine oil so as not to burn yourself. Pay attention to local legislation on the disposal of waste oils and adhere to the law of the area.
+	~Pressurize the engine with compressed air.#Take care when draining engine oil so as not to burn yourself. Pay attention to local legislation on the disposal of waste oils and adhere to the law of the area.
+	~Use a vacuum to suck oil from the sump.#Take care when draining engine oil so as not to burn yourself. Pay attention to local legislation on the disposal of waste oils and adhere to the law of the area.
+}
+
+
+//name:TQ1696
+::TQ1696::Where should you look to find the correct grade and quantity of engine oil for a given vehicle?{
+	=Service manual or owner's manual.#Always ensure that the correct grade of engine oil is used based upon the manufacturer's instruction. Never overfill or underfill the engine as this can result in serious damage.
+	~Oil manufacturer's bottle.#Always ensure that the correct grade of engine oil is used based upon the manufacturer's instruction. Never overfill or underfill the engine as this can result in serious damage.
+	~Doesn't matter which type of oil is used as long as it's engine oil.#Always ensure that the correct grade of engine oil is used based upon the manufacturer's instruction. Never overfill or underfill the engine as this can result in serious damage.
+	~Sticker in the fuel filler flap.#Always ensure that the correct grade of engine oil is used based upon the manufacturer's instruction. Never overfill or underfill the engine as this can result in serious damage.
+}
+
+

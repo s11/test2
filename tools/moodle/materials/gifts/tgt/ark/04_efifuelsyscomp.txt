@@ -1,0 +1,131 @@
+//name:TQ0322
+::TQ0322::What is an auxiliary air valve used for in an EFI system?{
+	=It is used as part of a cold starting system.#The auxiliary air valve provides additional airflow past the throttle body to increase engine revs. It is controlled by the ECU.
+	~It is used as part of the acceleration system.#The auxiliary air valve provides additional airflow past the throttle body to increase engine revs. It is controlled by the ECU.
+	~It is used as part of the economy cruise system.#The auxiliary air valve provides additional airflow past the throttle body to increase engine revs. It is controlled by the ECU.
+	~It is used as part of the de-acceleration system.#The auxiliary air valve provides additional airflow past the throttle body to increase engine revs. It is controlled by the ECU.
+}
+
+
+//name:TQ0323
+::TQ0323::Fuel pressure is maintained at a constant value above intake manifold pressure by:{
+	=a fuel pressure regulator.#Fuel pressure needs to be maintained at a constant pressure to ensure that the amount of fuel injected is accurate.
+	~a fuel pressure accumulator.#Fuel pressure needs to be maintained at a constant pressure to ensure that the amount of fuel injected is accurate.
+	~a fuel rail damper.#Fuel pressure needs to be maintained at a constant pressure to ensure that the amount of fuel injected is accurate.
+	~increased fuel pump delivery.#Fuel pressure needs to be maintained at a constant pressure to ensure that the amount of fuel injected is accurate.
+}
+
+
+//name:TQ0324
+::TQ0324::In a EFI fuel system, how is a submersible electric fuel pump lubricated?{
+	=By the fuel.#Gasoline enters at one end and leaves at the other, so it is always full. This lubricates the pump motor and keeps it cool.
+	~By cool air surrounding the pump.#Gasoline enters at one end and leaves at the other, so it is always full. This lubricates the pump motor and keeps it cool.
+	~By oil sealed within the pump.#Gasoline enters at one end and leaves at the other, so it is always full. This lubricates the pump motor and keeps it cool.
+	~No lubrication is required.#Gasoline enters at one end and leaves at the other, so it is always full. This lubricates the pump motor and keeps it cool.
+}
+
+
+//name:TQ0325
+::TQ0325::One advantage of an electric fuel pump is that it:{
+	=fills the fuel system before cranking of the engine for starting.#Once the key is initialized the electric fuel pump will momentarily switch on to pressurize the fuel rail thus allowing correct fuel delivery during start up.
+	~pumps at a higher pressure than a mechanical one.#Once the key is initialized the electric fuel pump will momentarily switch on to pressurize the fuel rail thus allowing correct fuel delivery during start up.
+	~requires less power to operate.#Once the key is initialized the electric fuel pump will momentarily switch on to pressurize the fuel rail thus allowing correct fuel delivery during start up.
+	~cannot fill the carburetor too high to cause flooding.#Once the key is initialized the electric fuel pump will momentarily switch on to pressurize the fuel rail thus allowing correct fuel delivery during start up.
+}
+
+
+//name:TQ0326
+::TQ0326::A potentiometer is an electrically variable resistor.{
+	=FALSE#A potentiometer is a three wire device with a constant load.  It differs from a thermistor which is a variable resistance source.  The potentiometer send a relative signal about position as a voltage feedback to a micro computer.
+	~TRUE#A potentiometer is a three wire device with a constant load.  It differs from a thermistor which is a variable resistance source.  The potentiometer send a relative signal about position as a voltage feedback to a micro computer.
+}
+
+
+//name:TQ0327
+::TQ0327::Which of the following statements is correct?{
+	=The fuel filter is directional and must be fitted in the direction of fuel flow.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+	~The fuel filter can be fitted any way it will fit and direction of flow is unimportant.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+	~A fuel filter is not required with modern clean fuel technology.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+	~Fuel filters can be removed and cleaned out with compressed air.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+}
+
+
+//name:TQ0328
+::TQ0328::What prevents the fuel tank being vented to atmosphere?{
+	=The evaporative control system (EVAP).#The evaporative control system (EVAP) is designed to prevent fuel vapours (Hydrocarbons) entering the atmosphere.
+	~Secondary air system.#The evaporative control system (EVAP) is designed to prevent fuel vapours (Hydrocarbons) entering the atmosphere.
+	~Pulsed air system.#The evaporative control system (EVAP) is designed to prevent fuel vapours (Hydrocarbons) entering the atmosphere.
+	~Exhaust gas recirculation system.#The evaporative control system (EVAP) is designed to prevent fuel vapours (Hydrocarbons) entering the atmosphere.
+}
+
+
+//name:TQ0329
+::TQ0329::The cap on the gasoline tank is designed stop gasoline vapor escaping and polluting the atmosphere. Why is this?{
+	=This is important as gasoline vaporizes easily. #The cap on the gasoline tank also stops gasoline vapor escaping and polluting the atmosphere. This is important for gasoline which is very volatile and vaporizes easily, especially in warmer climates.
+	~So that spillages do not occur when refueling the vehicle.#The cap on the gasoline tank also stops gasoline vapor escaping and polluting the atmosphere. This is important for gasoline which is very volatile and vaporizes easily, especially in warmer climates.
+	~Because the fuel is non- volatile.#The cap on the gasoline tank also stops gasoline vapor escaping and polluting the atmosphere. This is important for gasoline which is very volatile and vaporizes easily, especially in warmer climates.
+	~All of these reasons.#The cap on the gasoline tank also stops gasoline vapor escaping and polluting the atmosphere. This is important for gasoline which is very volatile and vaporizes easily, especially in warmer climates.
+}
+
+
+//name:TQ0330
+::TQ0330::The fuel rail supplies fuel to the injectors under constant pressure.{
+	=TRUE#Each injector on the engine is attached to the fuel rail for its supply and are each subject to the same injection system line pressure.
+	~FALSE#Each injector on the engine is attached to the fuel rail for its supply and are each subject to the same injection system line pressure.
+}
+
+
+//name:TQ0331
+::TQ0331::Injector pulse width determines how much fuel is injected. It is measured in what?{
+	=Milliseconds (mS).#Injector pulse width is measured as a time base in Milliseconds (mS).
+	~Millimeters (mm).#Injector pulse width is measured as a time base in Milliseconds (mS).
+	~Millilitres (ml).#Injector pulse width is measured as a time base in Milliseconds (mS).
+	~Volts(V).#Injector pulse width is measured as a time base in Milliseconds (mS).
+}
+
+
+//name:TQ0332
+::TQ0332::A tachometric relay was used on older vehicles in order for the instrument cluster to display:{
+	=engine RPM .#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+	~vehicle speed.#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+	~coolant temperature.#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+	~oil pressure.#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+}
+
+
+//name:TQ0333
+::TQ0333::Early fuel injected vehicles used a thermotime switch to control the operation of which component?{
+	=Cold start injector.#Early fuel injected vehicles were commonly fitted with a cold start injector. Modern vehicles increase the amount of fuel delivered by the fuel injectors thus eliminating the need for an extra injector.
+	~Fuel pump.#Early fuel injected vehicles were commonly fitted with a cold start injector. Modern vehicles increase the amount of fuel delivered by the fuel injectors thus eliminating the need for an extra injector.
+	~Auxilliary air valve.#Early fuel injected vehicles were commonly fitted with a cold start injector. Modern vehicles increase the amount of fuel delivered by the fuel injectors thus eliminating the need for an extra injector.
+	~Inertia switch.#Early fuel injected vehicles were commonly fitted with a cold start injector. Modern vehicles increase the amount of fuel delivered by the fuel injectors thus eliminating the need for an extra injector.
+}
+
+
+//name:TQ0334
+::TQ0334::What does the knock sensor use to produce its signal voltage?{
+	=A piezo crystal.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+	~A potentiometer.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+	~An inductive coil.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+	~Hall effect.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+}
+
+
+//name:TQ0335
+::TQ0335::What method is used to control the position of the idle speed control valve?{
+	=Pulse Width Modulation (PWM).#Pulse width modulation is used increasingly in modern vehicles and can be used to effectively control the average voltage.
+	~AC voltage.#Pulse width modulation is used increasingly in modern vehicles and can be used to effectively control the average voltage.
+	~Variable resistance.#Pulse width modulation is used increasingly in modern vehicles and can be used to effectively control the average voltage.
+	~A Rheostat.#Pulse width modulation is used increasingly in modern vehicles and can be used to effectively control the average voltage.
+}
+
+
+//name:TQ0336
+::TQ0336::If the inertia sensor is triggered, it shuts off the power supply to the:{
+	=fuel pump.#Inertia sensors were commonly used to shut off the fuel pump in the event of an impact. In modern vehicles, this is commonly done by the airbag control unit.
+	~injectors.#Inertia sensors were commonly used to shut off the fuel pump in the event of an impact. In modern vehicles, this is commonly done by the airbag control unit.
+	~idle speed control valve.#Inertia sensors were commonly used to shut off the fuel pump in the event of an impact. In modern vehicles, this is commonly done by the airbag control unit.
+	~auxilliary air valve.#Inertia sensors were commonly used to shut off the fuel pump in the event of an impact. In modern vehicles, this is commonly done by the airbag control unit.
+}
+
+

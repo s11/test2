@@ -1,0 +1,76 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/db/csv
+svn://curfew.jbpub.com/online
+
+
+
+2009-06-19T22:20:46.536669Z
+2679
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+NATEF2008_Tasksheets.csv
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+a8a041cb2e4738a03d8673ad8412ab2a
+2009-03-15T23:28:56.870791Z
+2481
+johnm
+
+netsuite_client_customer_mapping.csv
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+cadd24c1d34e9268e013a0a4343b1644
+2008-11-08T09:13:54.499230Z
+1764
+johnm
+
+Duplicate Users 20090302.csv
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+8e26ba6c806d7f3d8f1a9b78d22eccbd
+2009-03-02T00:37:08.087170Z
+2380
+johnm
+
+netsuite_client_customer_mapping_updated.csv
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+d5efaa2365cc9864691f1a9f510655a0
+2008-11-10T02:02:56.298452Z
+1772
+johnm
+

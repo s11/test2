@@ -1,0 +1,61 @@
+//name:TQ0901
+::TQ0901::The universal joint is designed to allow for changes in:{
+	=shaft length and horizontal angle.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+	~angular change but not shaft length.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+	~angular change and shaft length.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+	~shaft length and angular change.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+}
+
+
+//name:TQ0902
+::TQ0902::The inner universal can be a:{
+	=plunge or tripod type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+	~ball and cage type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+	~plunge and cage type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+	~ball and tripod type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+}
+
+
+//name:TQ0903
+::TQ0903::The outer CV joint is designed to allow for changes in:{
+	=angular change but not shaft length.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~angular change and shaft length.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~shaft length and angular change.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~shaft length and horizontal angle.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+}
+
+
+//name:TQ0904
+::TQ0904::The outer universal can be a:{
+	=ball and cage type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~plunge and cage type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~plunge or tripod type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~ball and tripod type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+}
+
+
+//name:TQ0905
+::TQ0905::Shafts for independent suspension designs do not need to allow for changes in shaft length.{
+	=FALSE#Independent suspensions require shaft designs that allow for angle changes.
+	~TRUE#Independent suspensions require shaft designs that allow for angle changes.
+}
+
+
+//name:TQ0906
+::TQ0906::Changes in length between the transmission and the final drive in a transaxle arrangement are catered for by:{
+	=nothing. There is no need for any arrangement as the distance between the components is constant in all conditions.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+	~a rubber tripod coupling.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+	~a sliding spline.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+	~a cross and roller assembly.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+}
+
+
+//name:TQ0907
+::TQ0907::The purpose of the differential in a front-wheel-drive vehicle is:{
+	=to allow the drive wheels to turn at different speeds when cornering while still providing drive.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+	~to allow the drive wheels to turn at the same speeds when cornering while still providing drive.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+	~to provide a variable steering ratio.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+	~to provide a variable final drive ratio.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+}
+
+

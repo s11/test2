@@ -1,0 +1,54 @@
+//name:TQ1505
+::TQ1505::In relation to a gasoline or petrol engine the acronym 'SOHC' represents:{
+	=single overhead camshaft.#Single overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+	~single overhead crankshaft.#Single overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+	~short overhead crankshaft.#Single overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+	~supported overhead camshaft.#Single overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+}
+
+
+//name:TQ1506
+::TQ1506::The component that operates between the valve and the camshaft in an overhead cam engine is the:{
+	=rocker arm.#Overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+	~pushrod.#Overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+	~valve spring retainer.#Overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+	~valve rotator.#Overhead camshafts can use rocker arms. The cam can lift one end of the rocker arm, or it can press down on the rocker arm.
+}
+
+
+//name:TQ1507
+::TQ1507::An overhead camshaft is driven by:{
+	=timing chain or belt.#Timing belts and chains are used on overhead camshaft engines because the camshaft is further from the crankshaft.
+	~timing sprocket.#Timing belts and chains are used on overhead camshaft engines because the camshaft is further from the crankshaft.
+	~timing gear.#Timing belts and chains are used on overhead camshaft engines because the camshaft is further from the crankshaft.
+	~timing idler belt or sprocket.#Timing belts and chains are used on overhead camshaft engines because the camshaft is further from the crankshaft.
+}
+
+
+//name:TQ1508
+::TQ1508::The purpose of the timing chain guides is:{
+	=to reduce noise and vibrations.#A typical chain drive system uses a hydraulic tensioner which is fed by oil under pressure from the lubrication system. The chain also uses guides to reduce noise and vibration.
+	~to make sure the chain has the correct tension.#A typical chain drive system uses a hydraulic tensioner which is fed by oil under pressure from the lubrication system. The chain also uses guides to reduce noise and vibration.
+	~to make sure the chain has an appropriate amount of lubrication directed to it.#A typical chain drive system uses a hydraulic tensioner which is fed by oil under pressure from the lubrication system. The chain also uses guides to reduce noise and vibration.
+	~to reduce chain wear.#A typical chain drive system uses a hydraulic tensioner which is fed by oil under pressure from the lubrication system. The chain also uses guides to reduce noise and vibration.
+}
+
+
+//name:TQ1510
+::TQ1510::What is the function of a camshaft eccentric?{
+	=It operates the fuel pump.#The camshaft can be cast or machined. It drives the valves and the distributor. It has a cam for each valve. Some also have a cam known as an eccentric to drive the fuel pump.
+	~It counterbalances the valve cams.#The camshaft can be cast or machined. It drives the valves and the distributor. It has a cam for each valve. Some also have a cam known as an eccentric to drive the fuel pump.
+	~It prevents oscillation in the rotating camshaft.#The camshaft can be cast or machined. It drives the valves and the distributor. It has a cam for each valve. Some also have a cam known as an eccentric to drive the fuel pump.
+	~It meshes with the timing belt of chain from the crankshaft.#The camshaft can be cast or machined. It drives the valves and the distributor. It has a cam for each valve. Some also have a cam known as an eccentric to drive the fuel pump.
+}
+
+
+//name:TQ1511
+::TQ1511::When the valve is fully open, which part of the cam lobe is making contact?{
+	=The nose.#The cam lobe opens a valve at the proper time and gives it proper lift. It lets it stay open for a sufficient time, then lets it close at the proper time. Accurate valve timing is crucial.
+	~The heel.#The cam lobe opens a valve at the proper time and gives it proper lift. It lets it stay open for a sufficient time, then lets it close at the proper time. Accurate valve timing is crucial.
+	~The ramp.#The cam lobe opens a valve at the proper time and gives it proper lift. It lets it stay open for a sufficient time, then lets it close at the proper time. Accurate valve timing is crucial.
+	~The base.#The cam lobe opens a valve at the proper time and gives it proper lift. It lets it stay open for a sufficient time, then lets it close at the proper time. Accurate valve timing is crucial.
+}
+
+

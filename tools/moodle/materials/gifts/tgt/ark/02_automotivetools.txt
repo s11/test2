@@ -1,0 +1,135 @@
+//name:TQ0149
+::TQ0149::A self-locking nut is locked against the thread by means of:{
+	=an insert usually made of plastic or nylon.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+	~a built-in lock washer.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+	~two nuts which lock together.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+	~small holes which let in Loctite.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+}
+
+
+//name:TQ0150
+::TQ0150::How is a grade 8.8 metric sized bolt identified?{
+	=It has the numbers marked on the head.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+	~It has small indentations on the hexagon.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+	~It has 3 radiating lines on the head.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+	~It has 6 radiating lines on the head.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+}
+
+
+//name:TQ0151
+::TQ0151::It is difficult to tension a castellated nut to an accurate torque setting because:{
+	=it can be pinned only in certain positions.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+	~the slots cause it to work loose.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+	~castellated nuts don't fit torque wrenches properly.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+	~it's always made of a soft metal.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+}
+
+
+//name:TQ0152
+::TQ0152::What does the grade 8.8 bolt identification refer to?{
+	=How much torque can safely be applied to the bolt.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+	~The pitch of the thread.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+	~The length of the threaded section.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+	~The maximum torque that can be applied.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+}
+
+
+//name:TQ0153
+::TQ0153::What is the purpose of the flat washer used under a nut?{
+	=To protect the surface underneath the nut.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+	~To protect the underside of the nut.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+	~To prevent the nut from working loose.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+	~To seal the thread to prevent oil leaks.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+}
+
+
+//name:TQ0154
+::TQ0154::What makes a stud different from a bolt?{
+	=It has a thread on each end and no head.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+	~It has a hex head on one end.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+	~It can only be used on exhaust manifolds.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+	~It must be tightened with an allen key.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+}
+
+
+//name:TQ0155
+::TQ0155::How is the size of a feeler gauge identified?{
+	=The exact thickness is marked on each feeler strip.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+	~It has small indentations on the blade.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+	~It has radiating lines on the case.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+	~It has radiating lines on the blade.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+}
+
+
+//name:TQ0156
+::TQ0156::Which combination of equipment would be used to check the straightness of a crankshaft?{
+	=Vee blocks and a dial gauge.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+	~A surface plate and feeler gauges.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+	~A straight edge and feeler gauges.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+	~Vee blocks and a micrometer.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+}
+
+
+//name:TQ0157
+::TQ0157::When checking a fit, or testing for flatness, how can you check to ensure that the required tolerances are being met?{
+	=By smearing a small amount of engineer's blue on a surface plate it can be used to indicate if the surface to be tested is flat.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+	~By smearing a small amount of engineer's blue on a surface plate it can be used to indicate if the surface to be tested is high or low.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+	~By using a spirit level.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+	~By using a hydrometer level.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+}
+
+
+//name:TQ0158
+::TQ0158::What is a pipe flaring tool commonly used for?{
+	=Manufacturing metal brake pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+	~Manufacturing flexible brake pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+	~Manufacturing flexible steering pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+	~Manufacturing coolant pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+}
+
+
+//name:TQ0159
+::TQ0159::Which of the following should be used to tap a thread in a 10mm thick steel plate?{
+	=A taper tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+	~A taper tap followed by a bottoming tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+	~An intermediate tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+	~A bottoming tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+}
+
+
+//name:TQ0160
+::TQ0160::The size of the tapping drill for threads should:{
+	=be determined by reference to the thread table.#Always follow the reference chart if repeatable results are to be obtained.
+	~be equal to the pitch of the thread.#Always follow the reference chart if repeatable results are to be obtained.
+	~not be smaller than the crest diameter of the thread.#Always follow the reference chart if repeatable results are to be obtained.
+	~be determined from the hexagon size of the nut or bolt.#Always follow the reference chart if repeatable results are to be obtained.
+}
+
+
+//name:TQ0161
+::TQ0161::The tools that are used for making or repairing internal and external threads are called:{
+	=taps and dies.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+	~thread files.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+	~thread gauges.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+	~taps and gauges.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+}
+
+
+//name:TQ0162
+::TQ0162::Why do some screw extractors have a coarse left hand thread?{
+	=They turn the fastener out as they are screwed in.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+	~To match the thread of the fastener.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+	~To aid insertion into the hole.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+	~They are easier to fit.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+}
+
+
+//name:TQ0163
+::TQ0163::What is the term used when the center bolt of a puller is screwed in?{
+	='Jacking'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+	~'Pulling'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+	~'Centering'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+	~'Extracting'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+}
+
+

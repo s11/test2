@@ -1,0 +1,78 @@
+//name:TQ1003
+::TQ1003::How is a capacitor discharged?{
+	=When the circuit is closed between its terminals.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When the circuit is opened between its terminals.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When both surfaces are positively charged.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When both surfaces are negatively charged.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+}
+
+
+//name:TQ1004
+::TQ1004::The term 'insulator' refers to a material that:{
+	=will not readily allow current to flow through it.#A good insulator has no free electrons. The electrons are strongly bound to the atom and do not stray from the electron rings.
+	~Has a low resistance factor.#A good insulator has no free electrons. The electrons are strongly bound to the atom and do not stray from the electron rings.
+}
+
+
+//name:TQ1005
+::TQ1005::Fuses prevent circuit damage by:{
+	=stopping excessive current flow.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~reducing wiring length.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~limiting voltage increases.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~decreasing circuit resistance.#The heating effect of excessive current flow through a fuse causes it to blow.
+}
+
+
+//name:TQ1006
+::TQ1006::By switching a small current in the relay, a set of contacts controls:{
+	=a larger current.#Transistors can also be used to perform this function.
+	~a smaller current.#Transistors can also be used to perform this function.
+	~no current.#Transistors can also be used to perform this function.
+	~temperature.#Transistors can also be used to perform this function.
+}
+
+
+//name:TQ1007
+::TQ1007::What is the most common automotive conductor material?{
+	=Copper.#Copper is a better conductor then aluminum.
+	~Aluminum.#Copper is a better conductor then aluminum.
+	~Carbon impregnated fiberglass or linen.#Copper is a better conductor then aluminum.
+}
+
+
+//name:TQ1008
+::TQ1008::Interference is often referred to as:{
+	=noise.#Shielding is used in wiring that is susceptible to interference.
+	~slip.#Shielding is used in wiring that is susceptible to interference.
+	~crackle.#Shielding is used in wiring that is susceptible to interference.
+	~pop.#Shielding is used in wiring that is susceptible to interference.
+}
+
+
+//name:TQ1009
+::TQ1009::If a wire is described as being metric size of 8.0 it is:{
+	=8.0mm cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~8.0cm cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~1/4 inch cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~0.8 inches cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+}
+
+
+//name:TQ1010
+::TQ1010::What AWG wire will be required to carry 20 Amperes for 6 metres?{
+	=12#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~14#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~10#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~16#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+}
+
+
+//name:TQ1011
+::TQ1011::The purpose of the ballast resistor is to:{
+	=drop the nominal battery voltage to approx half its value for ignition coil operation.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation.
+	~increase the nominal battery voltage to approx double for ignition coil operation.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation
+	~maintain exactly 12V for ignition coil operation.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation
+	~connect the ignition switch to the negative side of the ignition coil.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation
+}
+
+

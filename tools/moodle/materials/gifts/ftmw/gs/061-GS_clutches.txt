@@ -1,0 +1,114 @@
+// question: 29111  name: HAQ2119 
+::HAQ2119::[html]An automobile clutch transmits torque from the engine to the ..............................., and the driver uses a release mechanism to control the flow of the torque between them.{
+	=%100%transmission#
+}
+
+
+// question: 29112  name: HAQ2120 
+::HAQ2120::[html]The friction facings are clamped between the flat surface of the engine ............................... and a spring-loaded pressure-plate, bolted to its outer edge.{
+	=%100%flywheel#
+}
+
+
+// question: 29113  name: HAQ2121 
+::HAQ2121::[html]Depressing the clutch pedal retracts the pressure plate, against the force of its ..............................., and frees the friction disc from its clamping action.{
+	=%100%springs#
+}
+
+
+// question: 29114  name: HAQ2122 
+::HAQ2122::[html]The amount of ............................... a clutch can transmit depends on the co-efficient of friction between the friction facings and their mating surfaces, the mean radius of the facings, the number of facings in contact, and the total spring force.{
+	=%100%torque#
+}
+
+
+// question: 29115  name: HAQ2123 
+::HAQ2123::[html]Two or more clutch plates can be used to form a ............................... clutch, increasing the number of facings, and torque capacity.{
+	=%100%multi-plate#
+	=%100%multiplate#
+}
+
+
+// question: 29116  name: HAQ2124 
+::HAQ2124::[html]The ............................... is the clutch driving member.{
+	=%100%flywheel#
+}
+
+
+// question: 29117  name: HAQ2125 
+::HAQ2125::[html]The clamping force on the friction facings is provided by the ............................... spring.{
+	=%100%diaphragm#
+}
+
+
+// question: 29118  name: HAQ2126 
+::HAQ2126::[html]With engine rotation, torque can now be transmitted from the flywheel, through the friction disc, to the central hub, and to the ...............................{
+	=%100%transmission#
+}
+
+
+// question: 29119  name: HAQ2127 
+::HAQ2127::[html]The diaphragm pivots on its ............................... causing the outer edge to move in the opposite direction and act on the pressure-plate retraction clips. The pressure plate disengages, and drive is no longer transmitted.{
+	=%100%fulcrum-rings#
+	=%100%fulcrum rings#
+}
+
+
+// question: 29120  name: HAQ2128 
+::HAQ2128::[html]Releasing the pedal allows the diaphragm to re-apply its clamping force and engage the ..............................., and drive is restored.{
+	=%100%clutch#
+}
+
+
+// question: 29121  name: HAQ2129 
+::HAQ2129::[html]Adding plates to a clutch unit to form a multi-plate clutch will increase its ............................... capacity, without increasing spring strength or clutch diameter.{
+	=%100%torque#
+}
+
+
+// question: 29122  name: HAQ2130 
+::HAQ2130::[html]This clutch assembly has two friction discs, with ............................... material riveted to both sides of each.{
+	=%100%friction#
+}
+
+
+// question: 29123  name: HAQ2131 
+::HAQ2131::[html]An internally-splined hub on each disc mates with the splines on the ............................... input shaft.{
+	=%100%transmission#
+}
+
+
+// question: 29124  name: HAQ2132 
+::HAQ2132::[html]A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel. This friction unit is between the ............................... and the pressure plate when the pressure plate assembly is bolted to the flywheel.{
+	=%100%flywheel#
+}
+
+
+// question: 29125  name: HAQ2133 
+::HAQ2133::[html]When the clutch pedal is depressed the release bearing acts on the pressure plate ............................... and moves the pressure plate away from the flywheel.{
+	=%100%diaphragm#
+}
+
+
+// question: 29126  name: HAQ2137 
+::HAQ2137::[html]Movement at the pedal pad is transferred through an operating mechanism, to the clutch assembly on the rear of the ...............................{
+	=%100%flywheel#
+}
+
+
+// question: 29127  name: HAQ2138 
+::HAQ2138::[html]The lever on the clutch housing is connected to a vertical shaft, supported in the housing and attached internally to a release ..............................., which carries the release bearing.{
+	=%100%fork#
+}
+
+
+// question: 29128  name: HAQ2139 
+::HAQ2139::[html]An adjustment on the cable provides for a minimum amount of free-play to be maintained when the clutch pedal is in the released position. This prevents constant contact of the bearing with the ..............................., and subsequent rotation of the bearing, when the engine is running.{
+	=%100%fingers#
+}
+
+
+// question: 29130  name: HAQ2141 
+::HAQ2141::[html]When the clutch pedal is initially depressed, the piston is moved forward, taking the valve assembly with it. The center valve closes off the inlet port from the ..............................., trapping fluid in the cylinder bore.{
+	=%100%reservoir#
+}

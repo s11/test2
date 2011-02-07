@@ -1,0 +1,81 @@
+//name:TQ0298
+::TQ0298::Technician A says that in addition to the in-line filter, most gasoline fuel systems also have a filter in the fuel pump. Technician B says that in addition to the in-line filter, most gasoline fuel systems also have a filter in the throttle body inlet. Who is correct?{
+	~Technician A.#Neither technician is correct as addition to the in-line filter, most gasoline fuel systems also have a filter in the tank pickup tube.
+	~Technician B.#Neither technician is correct as addition to the in-line filter, most gasoline fuel systems also have a filter in the tank pickup tube.
+	~Both Technician A & Technician B.#Neither technician is correct as addition to the in-line filter, most gasoline fuel systems also have a filter in the tank pickup tube.
+	=Neither Technician A or Technician B.#Neither technician is correct as addition to the in-line filter, most gasoline fuel systems also have a filter in the tank pickup tube.
+}
+
+
+//name:TQ0299
+::TQ0299::What is the purpose of the charcoal canister?{
+	=It is a temporary storage device for fuel vapor from the fuel tank.#The charcoal traps gasoline vapors from the fuel tank (and carburetor in older vehicles). Later, the vapors are purged and drawn into the engine when the vehicle is being driven.
+	~It provides additional fuel vapor to the engine when it is needed.#The charcoal traps gasoline vapors from the fuel tank (and carburetor in older vehicles). Later, the vapors are purged and drawn into the engine when the vehicle is being driven.
+	~It is a temporary storage device for fuel vapor from the carburetor.#The charcoal traps gasoline vapors from the fuel tank (and carburetor in older vehicles). Later, the vapors are purged and drawn into the engine when the vehicle is being driven.
+	~It is a temporary storage device for fuel vapor from the fuel pump.#The charcoal traps gasoline vapors from the fuel tank (and carburetor in older vehicles). Later, the vapors are purged and drawn into the engine when the vehicle is being driven.
+}
+
+
+//name:TQ0300
+::TQ0300::One advantage of an electric fuel pump in a carburetor fuel system is that it:{
+	=fills the carburetor before the engine cranks for starting.#An electric fuel pump can produce almost instant fuel pressure.  A mechanical pump slowly builds pressure as the engine is cranked for starting.
+	~pumps at a higher pressure than a mechanical one.#An electric fuel pump can produce almost instant fuel pressure.  A mechanical pump slowly builds pressure as the engine is cranked for starting.
+	~requires less power to operate.#An electric fuel pump can produce almost instant fuel pressure.  A mechanical pump slowly builds pressure as the engine is cranked for starting.
+	~cannot fill the carburetor too high and cause flooding.#An electric fuel pump can produce almost instant fuel pressure.  A mechanical pump slowly builds pressure as the engine is cranked for starting.
+}
+
+
+//name:TQ0301
+::TQ0301::How many chambers does the mechanical fuel pump have?{
+	=2#Most mechanical fuel pumps are diaphragm pumps.  One side of the pump diaphragm contains fuel under pressure, and the other side is connected to the crankcase of the engine.
+	~1#Most mechanical fuel pumps are diaphragm pumps.  One side of the pump diaphragm contains fuel under pressure, and the other side is connected to the crankcase of the engine.
+	~3#Most mechanical fuel pumps are diaphragm pumps.  One side of the pump diaphragm contains fuel under pressure, and the other side is connected to the crankcase of the engine.
+	~4#Most mechanical fuel pumps are diaphragm pumps.  One side of the pump diaphragm contains fuel under pressure, and the other side is connected to the crankcase of the engine.
+}
+
+
+//name:TQ0302
+::TQ0302::Baffles in the fuel tank are fitted in order to:{
+	=reduce fuel surge.#While the vehicle is in motion the fuel in the tank is likely to move.  The baffles inside the tank limit fuel surge and provide for smoother fuel gauge operation.
+	~increase tank volume.#While the vehicle is in motion the fuel in the tank is likely to move.  The baffles inside the tank limit fuel surge and provide for smoother fuel gauge operation.
+	~reduce evaporative surface area.#While the vehicle is in motion the fuel in the tank is likely to move.  The baffles inside the tank limit fuel surge and provide for smoother fuel gauge operation.
+	~provide vapor space.#While the vehicle is in motion the fuel in the tank is likely to move.  The baffles inside the tank limit fuel surge and provide for smoother fuel gauge operation.
+}
+
+
+//name:TQ0303
+::TQ0303::Identify the function that the carburetor does NOT perform.{
+	=Controlling the injectors.#The carburetor atomises the fuel and mixes it with air, and controls the delivery of the correct mixture to the engine.
+	~Atomizing the fuel.#The carburetor atomises the fuel and mixes it with air, and controls the delivery of the correct mixture to the engine.
+	~Mixing fuel with air.#The carburetor atomises the fuel and mixes it with air, and controls the delivery of the correct mixture to the engine.
+	~Delivering the mixture to the engine.#The carburetor atomises the fuel and mixes it with air, and controls the delivery of the correct mixture to the engine.
+}
+
+
+//name:TQ0304
+::TQ0304::The role of the venturi is to:{
+	=constrict air-flow and lower pressure.#The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle.
+	~constrict air-flow and raise pressure.#The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle.
+	~constrict air-flow and slow the speed of air down.#The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle.
+	~raise fuel pressure.#The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle.
+}
+
+
+//name:TQ0305
+::TQ0305::In a carburetor fuel system, the fuel pump outlet valve opens when the:{
+	=diaphragm moves up.#This diaphragm is operated by an eccentric on the camshaft. It rotates, making the rocker arm move. This movement is transferred to the diaphragm, pulling it down. That draws fuel into the pumping chamber, above the diaphragm. The diaphragm spring moves the diaphragm up, and this forces fuel from the pumping chamber out of the pump and into the carburetor.
+	~diaphragm moves down.#This diaphragm is operated by an eccentric on the camshaft. It rotates, making the rocker arm move. This movement is transferred to the diaphragm, pulling it down. That draws fuel into the pumping chamber, above the diaphragm. The diaphragm spring moves the diaphragm up, and this forces fuel from the pumping chamber out of the pump and into the carburetor.
+	~carburetor float chamber is full.#This diaphragm is operated by an eccentric on the camshaft. It rotates, making the rocker arm move. This movement is transferred to the diaphragm, pulling it down. That draws fuel into the pumping chamber, above the diaphragm. The diaphragm spring moves the diaphragm up, and this forces fuel from the pumping chamber out of the pump and into the carburetor.
+	~rocker arm moves towards the pump body.#This diaphragm is operated by an eccentric on the camshaft. It rotates, making the rocker arm move. This movement is transferred to the diaphragm, pulling it down. That draws fuel into the pumping chamber, above the diaphragm. The diaphragm spring moves the diaphragm up, and this forces fuel from the pumping chamber out of the pump and into the carburetor.
+}
+
+
+//name:TQ0306
+::TQ0306::The purpose of smaller diameter filler necks on unleaded gasoline vehicles is to:{
+	=prevent leaded fuel being added.#On unleaded gasoline vehicles with catalytic converters, the filler neck is designed to prevent leaded fuel being added. Its diameter is smaller than those on leaded vehicles, and a trapdoor inside the filler can only be opened by the nozzle of the unleaded gasoline spout.
+	~Protect the catalytic converter from external damage.#On unleaded gasoline vehicles with catalytic converters, the filler neck is designed to prevent leaded fuel being added. Its diameter is smaller than those on leaded vehicles, and a trapdoor inside the filler can only be opened by the nozzle of the unleaded gasoline spout.
+	~Keep out water and foreign objects.#On unleaded gasoline vehicles with catalytic converters, the filler neck is designed to prevent leaded fuel being added. Its diameter is smaller than those on leaded vehicles, and a trapdoor inside the filler can only be opened by the nozzle of the unleaded gasoline spout.
+	~Allow leaded fuel to be added as necessary.#On unleaded gasoline vehicles with catalytic converters, the filler neck is designed to prevent leaded fuel being added. Its diameter is smaller than those on leaded vehicles, and a trapdoor inside the filler can only be opened by the nozzle of the unleaded gasoline spout.
+}
+
+

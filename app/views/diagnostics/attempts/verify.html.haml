@@ -1,0 +1,59 @@
+%div.allcontent
+  %div.topheading#verify
+    %table{:width=>"100%", :border=>"0", :cellspacing=>"0", :cellpadding=>"0"}
+      %tr
+        %td{:width=>"5px"}= image_tag('diagnostics/title_bg.png', :size => '5x50', :alt => '')
+        %td.categorytitle= @system.name
+        - cache 'diagnostics_verify_header' do
+          %td{:width=>"44px"}= image_tag('diagnostics/diagnostics_mockuplayout_03.png', :size => '44x50', :alt => '')
+          %td{:width=>"90px"}= image_tag('diagnostics/diagnostics_mockuplayout_04.png', :size => '90x50', :alt => '')
+          %td{:width=>"44px"}= image_tag('diagnostics/identify/diagnostics_mockuplayout_05.png', :size => '44x50', :alt => '')
+          %td{:width=>"91px"}= image_tag('diagnostics/identify/diagnostics_mockuplayout_06.png', :size => '91x50', :alt => '')
+          %td{:width=>"44px"}= image_tag('diagnostics/identify/diagnostics_mockuplayout_07.png', :size => '44x50', :alt => '')
+          %td{:width=>"91px"}= image_tag('diagnostics/rectify/diagnostics_mockuplayout_08.png', :size => '91x50', :alt => '')
+          %td{:width=>"45px"}= image_tag('diagnostics/rectify/diagnostics_mockuplayout_09.png', :size => '45x50', :alt => '')
+        %td.scoretitle
+          = "Score: #{@exam.marks_remaining}/10"
+        %td.endcap
+          = render :partial => 'information_button'
+
+  = render :partial => 'history'
+
+  %div.content
+    %div.problem
+      %h1
+        &nbsp
+      %p
+        = @scenario.problem.description
+        
+      - unless current_user.student?
+        = render :partial => 'instructor_guide'
+          
+      - unless @scenario.symptoms.empty?
+        = render :partial => 'symptoms'
+
+      - if @exam.show_hint_button?('verification') or @exam.show_hint?('verification')
+        - if @exam.show_hint?('verification')
+          %h2
+          %p.hint
+            = @exam.scenario.hints.find_by_classification('verification').message
+        - elsif @exam.show_hint_button?('verification')
+          - form_for(:attempt, :url => diagnostics_exam_hint_path(@exam, 'verification'), :html => {:method => 'post'}) do |f|
+            = f.hidden_field :hint_id, {:value => @hint.id}
+            = f.hidden_field :classification, {:value => 'verification'}
+            = image_submit_tag( 'diagnostics/hint.png', :confirm => "Are you sure you wish to receive a hint?\n\nThis will deduct 1 mark from your score." )
+    
+    %div.optionchoices
+      %h1#verify
+        &nbsp;
+      %ol
+        - @exam.choices.verification.each do |vid|
+          - @attempt = @exam.attempts.build
+          - form_for :attempt, :url => diagnostics_exam_attempts_path(@exam), :html => {:id => "verify_#{vid.choice_id}"} do |f|
+            = f.hidden_field :verification_id, {:value => vid.choice_id}
+            = f.hidden_field :classification, {:value => 'verification'}
+            %li
+              - if not @exam.attempts.verification.empty? and @exam.attempts.verification.map(&:verification_id).include?(vid.choice_id)
+                = Diagnostics::Verification.find(vid.choice_id).description
+              - else
+                = link_to_function Diagnostics::Verification.find(vid.choice_id).description, "document.getElementById('verify_#{vid.choice_id}').submit()"

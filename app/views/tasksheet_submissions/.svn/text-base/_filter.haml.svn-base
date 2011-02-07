@@ -1,0 +1,33 @@
+#filter.ui-widget.ui-widget-content.ui-corner-all{ :style => "padding: 0.5em" }
+  - form_for(@search) do |f|
+    %table
+      %tbody
+        %tr
+          %td
+            - unless current_user.role.student?
+              = f.label :user_name_like, "Students:"
+              = f.text_field :user_name_like
+            - else
+              = f.label :tasksheet_name_search, "Tasksheets:"
+              = f.text_field :tasksheet_name_search
+
+          %td
+            = f.label :grade_gte, "Grade:"
+            = f.select :grade_gte, [[">= 0 - No Exposure", 0], [">= 1 - Exposure Only", 1], [">= 2 - Limited Practice", 2], [">= 3 - Moderately Skilled", 3], [">= 4 - Skilled", 4]], :include_blank => "Grade greater or equal to..."
+          %td
+            = f.label :completed_on_or_after_date, "Completed after:"
+            = f.text_field :completed_on_or_after_date, :class => "centre daterangepicker", :size => 11, :maxlength => 10
+          %td.centre{ :rowspan => 2}
+            %button.ui-button{:type => "submit", :style => "padding: 0.25em"} Search
+
+        %tr
+          %td
+            - unless current_user.role.student?
+              = f.label :tasksheet_name_search, "Tasksheets:"
+              = f.text_field :tasksheet_name_search
+          %td
+            = f.label :class_group_id_equals, "Class / Group:"
+            = f.collection_select :class_group_id_equals, current_user.role.supervisor? ? current_client.class_groups : current_user.class_groups, :id, :name, :include_blank => "All"
+          %td
+            = f.label :completed_on_or_before_date, "Completed before:"
+            = f.text_field :completed_on_or_before_date, :class => "centre daterangepicker", :size => 11, :maxlength => 10

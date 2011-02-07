@@ -1,0 +1,8 @@
+- cache([resource, "show"]) do
+  #topic
+    = render :partial => "navigation"
+
+    - if exclusive_dvom_topic?
+      %iframe{ :frameborder => '0', :align => 'left', :width => '100%', :height => '800px', :src => "#{controller.relative_url_root}/assets/DVOM/#{category_item.dvom_filename}" }
+    - else
+      = File.read("#{RAILS_ROOT}/public/assets/html/#{resource.page_filename}").gsub(/images\//, "#{controller.relative_url_root}/assets/images/")

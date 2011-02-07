@@ -1,0 +1,209 @@
+// question: 31757  name: HAQ2561 
+::HAQ2561::[html]If resistance stays the same but ................. rises, then the greater force pushes more current through the circuit.{
+	=%100%voltage#
+}
+
+
+// question: 31758  name: HAQ2562 
+::HAQ2562::[html]If resistance stays the same but voltage decreases, then less current will flow through the .................{
+	=%100%circuit#
+}
+
+
+// question: 31759  name: HAQ2563 
+::HAQ2563::[html]The total ................. of a circuit in ohms always equals the voltage divided by the amperage. This is Ohm's law.{
+	=%100%resistance#
+}
+
+
+// question: 31760  name: HAQ2564 
+::HAQ2564::[html]A disconnected battery isn't doing work, but it has the potential to do work, so it's a source of .................{
+	=%100%energy#
+}
+
+
+// question: 31761  name: HAQ2565 
+::HAQ2565::[html]The difference in electron supply at the battery terminals is sometimes called the ................. difference - in the case of a standard charged automotive battery, a potential of 12 volts.{
+	=%100%potential#
+}
+
+
+// question: 31762  name: HAQ2566 
+::HAQ2566::[html]Tapping this potential means turning one form of energy, the battery's electrochemical energy, into another. Turning one form of energy into another is called .................{
+	=%100%work#
+}
+
+
+// question: 31763  name: HAQ2567 
+::HAQ2567::[html]Power is the rate at which work is .................{
+	=%100%done#
+}
+
+
+// question: 31764  name: HAQ2568 
+::HAQ2568::[html]P, the power in watts, equals V, the voltage in volts, multiplied by I, the current in amps. This calculation is applied just like .................{
+	=%100%ohm's law#
+	=%100%ohms law#
+	=%100%Ohm's Law#
+	=%100%Ohms Law#
+	=%100%Ohms law#
+}
+
+
+// question: 31765  name: HAQ2569 
+::HAQ2569::[html]The watt (symbol: W) is the SI derived unit for .................{
+	=%100%power#
+}
+
+
+// question: 31766  name: HAQ2570 
+::HAQ2570::[html]A unit of power multiplied by a unit of time is a common format for expressing .................{
+	=%100%energy#
+}
+
+
+// question: 31767  name: HAQ2571 
+::HAQ2571::[html]An ammeter is a measuring instrument used to measure the flow of electric current in a .................{
+	=%100%circuit#
+}
+
+
+// question: 31768  name: HAQ2572 
+::HAQ2572::[html]Electric currents are measured in ................., hence the name.{
+	=%100%amperes#
+}
+
+
+// question: 31769  name: HAQ2573 
+::HAQ2573::[html]A voltmeter measures potential difference, in volts, across 2 points. It is connected in .................{
+	=%100%parallel#
+}
+
+
+// question: 31770  name: HAQ2574 
+::HAQ2574::[html]A voltmeter may also be realized using a ................., which is a length of uniform resistance material (wire or carbon film, for instance) and a 'wiper' that can short-circuit any portion of the material, thereby changing effective resistance between the wiper and an end terminal of the potentiometer.{
+	=%100%potentiometer#
+}
+
+
+// question: 31771  name: HAQ2575 
+::HAQ2575::[html]An Ohmmeter is an electrical measuring instrument that measures electrical ................., the opposition to the flow of an electric current.{
+	=%100%resistance#
+}
+
+
+// question: 31772  name: HAQ2576 
+::HAQ2576::[html]In a series circuit, ................. flows to each component in turn.{
+	=%100%current#
+}
+
+
+// question: 31773  name: HAQ2577 
+::HAQ2577::[html]Current is the same everywhere. In a series circuit with resistors in it, the total ................. is the sum of all of the individual resistances.{
+	=%100%resistance#
+}
+
+
+// question: 31774  name: HAQ2578 
+::HAQ2578::[html]This is called ................. It is caused by the pressure lost in driving the current through the resistor.{
+	=%100%voltage drop#
+}
+
+
+// question: 31775  name: HAQ2579 
+::HAQ2579::[html]Also, since all components connect directly to the battery terminals, the metal of the vehicle's body can become one of the .................{
+	=%100%conductors#
+}
+
+
+// question: 31776  name: HAQ2580 
+::HAQ2580::[html]A feature of a parallel circuit is that the ................. across each component is the same as battery voltage.{
+	=%100%voltage#
+}
+
+
+// question: 31777  name: HAQ2581 
+::HAQ2581::[html]Another feature of a parallel circuit is that the current flowing in each branch is determined by the ................. of that branch.{
+	=%100%resistance#
+}
+
+
+// question: 31778  name: HAQ2582 
+::HAQ2582::[html]In a parallel circuit, adding more branches provides more pathways, but decreases the overall circuit ................., so current flow increases.{
+	=%100%resistance#
+}
+
+
+// question: 31779  name: HAQ2583 
+::HAQ2583::[html]Total resistance of a parallel circuit is found by turning all the resistances upside down, to make fractions called .................{
+	=%100%reciprocals#
+}
+
+
+// question: 31780  name: HAQ2584 
+::HAQ2584::[html]If a wire joins the battery to one bulb, to the next bulb, then back to the battery, in one continuous loop, the bulbs are said to be in .................{
+	=%100%series#
+}
+
+
+// question: 31781  name: HAQ2585 
+::HAQ2585::[html]If, on the other hand, each bulb is wired separately to the battery in two loops, the bulbs are said to be in .................{
+	=%100%parallel#
+}
+
+
+// question: 31782  name: HAQ2586 
+::HAQ2586::[html]The resistance of a cable affects how much ................. it can carry.{
+	=%100%current#
+}
+
+
+// question: 31783  name: HAQ2587 
+::HAQ2587::[html]The resistance of a cable is determined by its length and its .................{
+	=%100%diameter#
+}
+
+
+// question: 31784  name: HAQ2588 
+::HAQ2588::[html]The longer the cable and the smaller the diameter, the ................. the resistance.{
+	=%100%higher#
+}
+
+
+// question: 31785  name: HAQ2589 
+::HAQ2589::[html]This system is referred to as a Controlled Area Network BUS or ................. and it uses two thin wires to connect, or multiplex, all the control units and their sensors to each other.{
+	=%100%CAN BUS#
+}
+
+
+// question: 31786  name: HAQ2590 
+::HAQ2590::[html]The output devices on a Controlled Area Network BUS are referred to as .................{
+	=%100%nodes#
+}
+
+
+// question: 31787  name: HAQ2591 
+::HAQ2591::[html]Common sensor data, such as vehicle speed, engine temperature, etc. are available on the network, so data can be shared, thus reducing the number of .................{
+	=%100%sensors#
+}
+
+
+// question: 31788  name: HAQ2592 
+::HAQ2592::[html]Fiber optics are long, thin strands of very pure ................. about the diameter of a human hair.{
+	=%100%glass#
+}
+
+
+// question: 31789  name: HAQ2593 
+::HAQ2593::[html]Fiber optics can be arranged in bundles and are called ................. cables.{
+	=%100%optical#
+}
+
+
+// question: 31790  name: HAQ2594 
+::HAQ2594::[html]Light is transmitted along the cable, bouncing from wall to wall along the way as it is transmitted through the cable. It can do this because the inner wall of the optical fiber has a ................. finish.{
+	=%100%mirror#
+}
+
+
+

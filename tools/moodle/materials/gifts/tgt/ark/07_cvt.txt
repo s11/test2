@@ -1,0 +1,45 @@
+//name:TQ0881
+::TQ0881::In a continuously variable transmission the gear ratio is varied by a:{
+	=belt and pulley system.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+	~planetary gear set.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+	~magnetic powder clutch.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+	~hyvo chain and sprockets.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+}
+
+
+//name:TQ0882
+::TQ0882::In a CVT transmission what happens when 'drive' is selected?{
+	=A synchronizer assembly connects the magnetic clutch directly to the primary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+	~A synchronizer assembly connects directly to the secondary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+	~The magnetic clutch connects directly to the secondary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+	~The hydraulic clutch connects directly to the primary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+}
+
+
+//name:TQ0883
+::TQ0883::What is the secondary pulley shaft connected to?{
+	=The secondary pulley shaft is splined to a helical reduction drive gear.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+	~The secondary pulley shaft is splined to a helical incremental increase drive gear.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+	~The secondary pulley shaft is connected to a helical reduction drive gear by a toothed nylon belt.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+	~The secondary pulley shaft is connected to a spiral drive gear.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+}
+
+
+//name:TQ0884
+::TQ0884::In a CVT transmission how do the steel blocks in the drive belt operate?{
+	=The blocks are in compression on the drive side, and float loosely along the laminated bands on the return side.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+	~The blocks float loosely on the drive side, and are in compression along the laminated bands on the return side.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+	~The blocks float loosely along the nylon pulleys on the return side.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+	~The blocks are in constant compression during operation.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+}
+
+
+//name:TQ0885
+::TQ0885::How is the steel belt constructed?{
+	=The belt consists of hardened steel V-blocks, held together by two endless laminated steel bands.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+	~The belt consists of hard nylon V-blocks, held together by two endless laminated steel bands.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+	~The belt consists of hardened steel V-blocks, held together by two endless rubberized bands.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+	~The toothed steel belt is made from nylon reinforced rubber.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+}
+
+

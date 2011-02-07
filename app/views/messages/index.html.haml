@@ -1,0 +1,39 @@
+#message-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  = render :partial => "messages/tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - if collection.size > 0
+      - form_tag(bulk_destroy_messages_path, :method => :delete, :id => "bulk-update") do
+        #select-links== Select: #{link_to_function "All", "$('input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('input:checkbox').attr('checked', false)"}
+
+        %table#listing
+          %thead.ui-widget-header
+            %tr
+              %th{ :width => '5%' } &nbsp;
+              %th{ :width => '20%'} To
+              %th{ :width => '*'  }= order @search, :by => :subject
+              %th{ :width => '15%'}= order @search, :by => :created_at
+              %th{ :width => '5%' } &nbsp;
+
+          %tbody
+            - collection.each do |message|
+              %tr[message]{ :class => "#{message.state} #{cycle(:odd, :even)}" }
+                %td.centre= check_box_tag "message_ids[#{message.id}]", true, false, :id => "message_#{message.id}"
+                %td.left= (User.find_with_destroyed(message.recipients.users.map(&:receiver_id), :conditions => { :client_id => current_client }).map { |u| "#{u.fullname}#{' (deleted)' if u.deleted_at.present? }" } + message.recipients.class_groups.map(&:receiver).map { |g| "Group: #{g.name}" }).compact * ', '
+                %td&= message.subject
+                %td.centre= message.created_at.to_s(:db)
+                %th.centre
+                  - if params[:by_state].eql?('unsent')
+                    = link_to "Edit", edit_message_path(message)
+                  - else
+                    = link_to "View", message_path(message)
+
+        .centre
+          = will_paginate(collection)
+
+        %br
+        = delete_button_tag "Delete selected"
+
+    - else
+      == You do not have any #{ params[:by_state].singularize } messages.
+        

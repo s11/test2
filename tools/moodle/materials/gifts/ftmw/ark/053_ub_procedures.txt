@@ -1,0 +1,22 @@
+// question: 26660  name: HAQ0984 ::HAQ0984::[html]If the oil on the dipstick is not blackish in color but looks milky grey, this could indicate that there is some ................. (or coolant) being mixed into the oil.{	=%100%water#
+}// question: 26661  name: HAQ0985 ::HAQ0985::[html]The dipstick is located on the side of the engine ................. and is usually very easy to find, with a distinctively shaped or brightly colored handle.{	=%100%block#
+}// question: 26662  name: HAQ0986 ::HAQ0986::[html]Remove the ................., catching any drops of oil on a rag, and wipe it clean. There are markings on the lower end of the stick to indicate whether the oil level needs to be topped up.{	=%100%dipstick#
+	=%100%dip stick#
+	=%100%dip-stick#
+}// question: 26663  name: HAQ0987 ::HAQ0987::[html]Replace the dipstick and push it back down into the ................. as far as it will go.{	=%100%sump#
+}// question: 26664  name: HAQ0988 ::HAQ0988::[html]Unscrew the filler cap at the top of the engine, and using a ................. to avoid spillage, gently pour the oil into the engine.{	=%100%funnel#
+}// question: 26665  name: HAQ0989 ::HAQ0989::[html]In some vehicles, the engine will drain more easily if the filler ................. at the top of the engine has been removed, so do this before the car is lifted.{	=%100%cap#
+}// question: 26666  name: HAQ0990 ::HAQ0990::[html]To minimize the possibility of damage to the head of the bolt, you will need a box wrench or ................. wrench to remove and replace the drain bolt.{	=%100%socket#
+}// question: 26667  name: HAQ0991 ::HAQ0991::[html]When tipping the oil from the draining container into the recycle container, again look for signs of ................. left at the bottom of the container.{	=%100%metal particles#
+}// question: 26668  name: HAQ0992 ::HAQ0992::[html]The filter will usually be located on the side of the engine ................. or at an angle underneath the engine.{	=%100%block#
+}// question: 26669  name: HAQ0993 ::HAQ0993::[html]Most late model vehicles have filters, which are threaded cartridges. These are removed with an adjustable filter .................{	=%100%wrench#
+}// question: 26670  name: HAQ0994 ::HAQ0994::[html]Do not over tighten the filter. Typically, three-quarters of a full turn is adequate ................. for a seal that will not leak.{	=%100%torque#
+}// question: 26671  name: HAQ0995 ::HAQ0995::[html]Before replacing the drain bolt, install a new sump plug gasket. Screw in the bolt and then tighten it to the ................. level recommended by the manufacturer.{	=%100%torque#
+}// question: 26672  name: HAQ0996 ::HAQ0996::[html]Fill the engine only to the level indicated on the engine ................., not until the oil is coming out the top of the filler nozzle.{	=%100%dipstick#
+	=%100%dip stick#
+	=%100%dip-stick#
+}// question: 26673  name: HAQ0997 ::HAQ0997::[html]Check underneath the vehicle to make sure that no oil is leaking from the .................{	=%100%drain plug#
+	=%100%drainplug#
+	=%100%drain-plug#
+}
+

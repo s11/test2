@@ -1,0 +1,52 @@
+// question: 29205  name: HAQ2185 
+::HAQ2185::[html]Checking gearbox oil - Remove the filler plug with the correct .............................. to prevent damage to the plug, and check the level at the bottom of the filler plug opening.{
+	=%100%wrench#
+}
+
+
+// question: 29206  name: HAQ2186 
+::HAQ2186::[html]Checking gearbox oil - If fluid begins to leak slowly, then the reservoir is full. Immediately .............................. the plug.{
+	=%100%replace#
+}
+
+
+// question: 29207  name: HAQ2187 
+::HAQ2187::[html]Check the plug for damage to the thread, and sealing .............................. if it exists.{
+	=%100%gasket#
+}
+
+
+// question: 29208  name: HAQ2188 
+::HAQ2188::[html]Changing gearbox oil - Warm up the transmission fluid by idling or driving the vehicle. Raise the vehicle, and ensuring that it is level and stable, do a visual inspection for leaks from the ..............................{
+	=%100%transmission#
+}
+
+
+// question: 29209  name: HAQ2189 
+::HAQ2189::[html]Locate the position of the drain plug and remove any guard covers if necessary. Select the correct wrench and loosen the ..............................{
+	=%100%plug#
+}
+
+
+// question: 29210  name: HAQ2190 
+::HAQ2190::[html]Use the pump to put new transmission oil into the filler hole or dipstick tube opening.  Stop when the lubricant reaches the bottom of the .............................. plug hole, or to the top of the cold mark on the dipstick.{
+	=%100%filler#
+}
+
+
+// question: 29211  name: HAQ2191 
+::HAQ2191::[html]Checking and adjusting a clutch - Lightly push down on the clutch pedal, approximately 1", or 2.5cm, until it meets ..............................{
+	=%100%resistance#
+}
+
+
+// question: 29212  name: HAQ2192 
+::HAQ2192::[html]Most hydraulic systems are self-adjusting, but those that are not may require an adjustment to be made at the slave .............................. push rod.{
+	=%100%cylinder#
+}
+
+
+// question: 29213  name: HAQ2193 
+::HAQ2193::[html]After the free play is adjusted correctly, retighten the .............................. nut.{
+	=%100%jam#
+}

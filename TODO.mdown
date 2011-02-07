@@ -1,0 +1,87 @@
+# CDX Online Sections
+
+I've added a few more things we've neglected. Please let me know if I've missed anything.
+
+## Staging Server
+
+  - Procure (CentOS or FreeBSD)
+  - Setup (MySQL, Apache, PHP & Rails)
+
+    - Staging
+    - Separate environs for developers
+
+  - Custom Launcher to point to new staging server (not necessary we can authenticate, but would be nice)
+
+## Web Application
+
+I'll be cleaning up the current migrations (if required today) and we should both be able to let loose tomoz.
+
+Sections organised alphabetically:
+
+### API
+
+  - Should require minimal effort (if any) to move to user\_id instead of composite key
+
+### Authentication
+
+  - Catch-all protection (Possibly using authlogic?)
+  - Session timeouts redirect to re-login
+  - Current PHP authentication code to utilise new user\_id (if it doesn't already)
+
+### Content
+
+  - Category display styling [DONE]
+  - Topic display using static HTML assets
+
+### Diagnostics
+
+  - Import in Subversion repository [DONE]
+  - Complete integration within the framework of Online. Remove any *edit* functionality.
+  - Either create an import script for diagnostics content or integrate edit functionality with the context of the Administration tool
+
+### Messaging
+
+  - Selecting recipients for new (or draft) message broken due to cleaning out of the javascript dir.
+
+### Moodle
+
+  - Authentication against a world without client user views
+  - Search integration
+  - Hijack one of the Moodle cdx\_user table fields for the client\_id
+  - "Quizzes & Tests" button currently not linked
+
+### NetSuite Integration
+
+  - Should require minimal effort (if any) to move to user\_id instead of composite key
+
+### Reporting
+
+  - Should require minimal effort (if any) to move to user\_id instead of composite key
+
+### Role Menus
+
+  - Ensure all links have been connected to the various sections within CDX Online
+
+### Search
+
+  - Use Sphinx & Ultrasphinx
+  - Script to index content including PDFs
+  - Moodle integration on "Find the Missing Word" quizzes
+
+### Tasksheet Management
+
+  - Instructor entry / management
+  - Student management done
+
+### User Management
+
+  - Styling
+  - CSV import broken
+
+## District Reporting
+
+  - Should require minimal effort (if any) to move to user\_id instead of composite key
+
+## Administration Tool
+
+  - Should require minimal effort (if any) to move to user\_id instead of composite key

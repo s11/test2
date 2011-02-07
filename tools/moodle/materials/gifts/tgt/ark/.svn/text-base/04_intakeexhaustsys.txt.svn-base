@@ -1,0 +1,61 @@
+//name:TQ0200
+::TQ0200::In a carbureted fuel system air and fuel are mixed in the correct proportion in the:{
+	=carburetor.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+	~fuel filter.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+	~fuel pump.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+	~manifold.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. Mixing of the fuel/air is done in the carburetor.
+}
+
+
+//name:TQ0201
+::TQ0201::The intake valves in a 4-stroke diesel engine are normally larger than the exhaust valves.{
+	=TRUE#They are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder.
+	~FALSE#They are usually larger than exhaust valves because the pressure forcing the charge into the cylinder is much lower than the pressure forcing the exhaust gases out of the cylinder.
+}
+
+
+//name:TQ0202
+::TQ0202::Fresh air enters the cylinder in a 2-stroke diesel engine:{
+	=at above atmospheric pressure via the intake port. #2-stroke diesels use an engine-driven air pump, usually called a blower. It pressurizes the air so that when the inlet ports open, air from the blower enters the cylinder and helps scavenge the exhaust gases. 
+	~with fuel transferred from the crankcase.#2-stroke diesels use an engine-driven air pump, usually called a blower. It pressurizes the air so that when the inlet ports open, air from the blower enters the cylinder and helps scavenge the exhaust gases. 
+	~with a measured quantity of oil and fuel.#2-stroke diesels use an engine-driven air pump, usually called a blower. It pressurizes the air so that when the inlet ports open, air from the blower enters the cylinder and helps scavenge the exhaust gases. 
+	~at atmospheric pressure via the inlet valves.#2-stroke diesels use an engine-driven air pump, usually called a blower. It pressurizes the air so that when the inlet ports open, air from the blower enters the cylinder and helps scavenge the exhaust gases. 
+}
+
+
+//name:TQ0203
+::TQ0203::Some diesel engines use a blower to assist in the air intake scavenging system. What type of diesel engine does this?{
+	=2-stroke. #Within the intake system of a 2-stroke diesel engine, there is only a very short time at the end of its power stroke to scavenge the exhaust gases and refill the cylinder with air. To achieve this in the time available, 2-stroke diesels use an engine-driven air pump, usually called a blower.  
+	~4-stroke. #Within the intake system of a 2-stroke diesel engine, there is only a very short time at the end of its power stroke to scavenge the exhaust gases and refill the cylinder with air. To achieve this in the time available, 2-stroke diesels use an engine-driven air pump, usually called a blower.  
+	~Both 2-stroke and 4-stroke. #Within the intake system of a 2-stroke diesel engine, there is only a very short time at the end of its power stroke to scavenge the exhaust gases and refill the cylinder with air. To achieve this in the time available, 2-stroke diesels use an engine-driven air pump, usually called a blower.  
+	~Neither 2-stroke nor 4-stroke.#Within the intake system of a 2-stroke diesel engine, there is only a very short time at the end of its power stroke to scavenge the exhaust gases and refill the cylinder with air. To achieve this in the time available, 2-stroke diesels use an engine-driven air pump, usually called a blower.  
+}
+
+
+//name:TQ0204
+::TQ0204::The intake manifold of a diesel engine carries:{
+	=Air only.#In a diesel engine, fuel is delivered separately and the intake system carries air only.
+	~Fuel only.#In a diesel engine, fuel is delivered separately and the intake system carries air only.
+	~Air & fuel.#In a diesel engine, fuel is delivered separately and the intake system carries air only.
+	~14.7:1 Air fuel ratio.#In a diesel engine, fuel is delivered separately and the intake system carries air only.
+}
+
+
+//name:TQ0205
+::TQ0205::The intake system is part of the:{
+	=fuel system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+	~transmission system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+	~HVAC system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+	~electrical system.#The intake system is part of the fuel system. Its main function on a gasoline engine is to deliver the required amount of air-fuel mixture.
+}
+
+
+//name:TQ0206
+::TQ0206::The vehicle exhaust system performs several functions. These are:{
+	=to provide a path to remove hot gases, to reduce noise, to deal with harmful emission concerns and to discharge them safely away from the vehicle. #The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+	~to provide a path to remove hot gases, and to deal with harmful emission concerns. #The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+	~to reduce noise and to deal with harmful emission concerns. #The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+	~to remove heat from the engine and to provide the vehicle with a characteristic exhaust note.#The first pipe is usually called the engine pipe. It is connected to the outlet of the manifold which carries the exhaust gases to the muffler which reduces exhaust noise. Exhaust gases are then discharged through a tail pipe usually at the rear, or sometimes to the side or above the vehicle.  
+}
+
+

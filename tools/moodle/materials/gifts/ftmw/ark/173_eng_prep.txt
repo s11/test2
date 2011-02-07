@@ -1,0 +1,31 @@
+// question: 25803  name: HAQ3479 
+::HAQ3479::[html]Raise the vehicle on jack stands or ................. in preparation to remove the engine.{
+	=%100%ramps#
+}
+
+
+// question: 25804  name: HAQ3480 
+::HAQ3480::[html]Make sure you place wheel ................. against the rear wheels.{
+	=%100%chocks#
+}
+
+
+// question: 25805  name: HAQ3481 
+::HAQ3481::[html]Remove any body ................. that will interfere with engine removal.{
+	=%100%panels#
+}
+
+
+// question: 25806  name: HAQ3482 
+::HAQ3482::[html]Make sure there is enough flat, level, floor space in your work area to jack the car up safely, and to wheel the engine on a hoist far enough away from the vehicle to secure it safely on a ................. or engine.{
+	=%100%cradle#
+}
+
+
+// question: 25799  name: HAQ3707 
+::HAQ3707::[html]Although every vehicle and engine combination is different in detail, there are fundamental similarities between all internal ................. engines.{
+	=%100%combustion#
+}
+
+
+

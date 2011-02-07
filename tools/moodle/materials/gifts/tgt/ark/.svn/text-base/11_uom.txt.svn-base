@@ -1,0 +1,150 @@
+//name:TQ1289
+::TQ1289::'EMF' stands for 'Electro Motive Force'. In circuit calculations the 'E' is used instead of 'EMF'. What does the letter 'E' represent?{
+	=Volts#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+	~Amps#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+	~Ohms#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+	~Watts#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+}
+
+
+//name:TQ1290
+::TQ1290::Identify the unit that is NOT a basic electrical measurement.{
+	=Newton meter#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+	~Volt#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+	~Ampere#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+	~Ohm#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+}
+
+
+//name:TQ1291
+::TQ1291::The SI system defines basic units of measure.{
+	=TRUE#The International System of Units (or 'SI system') is the modern form of the metric system. It is the world's most widely used system of units.
+	~FALSE#The units in the SI system are referred to as basic units.
+}
+
+
+//name:TQ1292
+::TQ1292::Vacuum is a term given to a pressure that is:{
+	=less than atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+	~more than atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+	~the same as atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+	~not related to atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+}
+
+
+//name:TQ1293
+::TQ1293::The engine supplies a twisting or rotating force which ultimately turns the vehicle's wheels and propels the vehicle. What is this force called?{
+	=Torque.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+	~Newtons.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+	~Horsepower.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+	~Ratio.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+}
+
+
+//name:TQ1294
+::TQ1294::The SI unit used to measure torque is the:{
+	=newton-meter.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+	~foot-pound.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+	~kilopascal.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+	~PferdestrÑrke.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+}
+
+
+//name:TQ1295
+::TQ1295::Velocity is the measurement of what over a period of time?{
+	=Distance traveled.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+	~Area.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+	~Amount of space.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+	~Force per unit area.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+}
+
+
+//name:TQ1296
+::TQ1296::The SI unit of pressure commonly used in automotive applications is the:{
+	=kilopascal.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+	~watt.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+	~foot-pound.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+	~volt.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+}
+
+
+//name:TQ1297
+::TQ1297::Which of these is a measurement of length?{
+	=Kilometer#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+	~Kilogram#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+	~Kilojoule#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+	~Kilopascal#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+}
+
+
+//name:TQ1298
+::TQ1298::Which has greater mass, an Imperial ton, which contains 2240lbs, or a metric tonne, which contains 1000Kg?{
+	=The metric tonne.#The metric tonne of 1000Kg is slightly heavier.  It has a mass of 1.01 Ton.  A ton has a mass of 0.98 tonne.
+	~The Imperial ton.#The metric tonne of 1000Kg is slightly heavier.  It has a mass of 1.01 Ton.  A ton has a mass of 0.98 tonne.
+	~They are exactly equivalent in mass.#The metric tonne of 1000Kg is slightly heavier.  It has a mass of 1.01 Ton.  A ton has a mass of 0.98 tonne.
+}
+
+
+//name:TQ1299
+::TQ1299::In what way is the metric system for measuring time different from the Imperial system?{
+	=The metric system uses the second as its base unit, the Imperial uses the minute.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+	~The Imperial system uses the second as its base unit, the metric uses the minute.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+	~In the metric system, there are 100 seconds to the minute.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+	~One Imperial second is fractionally longer than one metric second.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+}
+
+
+//name:TQ1300
+::TQ1300::Which of these measures has the greatest volume?{
+	=One UK gallon#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+	~One US gallon#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+	~Four liters#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+	~They are all identical in volume#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+}
+
+
+//name:TQ1301
+::TQ1301::What units would you use in the metric system to measure area?{
+	=Square meters.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+	~Cubic inches.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+	~Square feet.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+	~Cubic meters.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+}
+
+
+//name:TQ1302
+::TQ1302::The basic unit of energy is the:{
+	=joule.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+	~pascal.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+	~newton.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+	~watt.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+}
+
+
+//name:TQ1303
+::TQ1303::In which of these temperature measurements does water boil at 100 degrees (at sea level atmospheirc pressure)?{
+	=Celsius#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+	~Fahrenheit#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+	~Kelvin#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+	~Rankine#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+}
+
+
+//name:TQ1304
+::TQ1304::The usual SI measurement of engine power output is the:{
+	=kilowatt.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+	~megawatt.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+	~kilopascal.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+	~horsepower.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+}
+
+
+//name:TQ1305
+::TQ1305::The prefix 'Mega' indicates what multiple of a unit?{
+	=A million.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+	~ A billion.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+	~A thousand.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+	~A hundred.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+}
+
+

@@ -1,0 +1,151 @@
+// question: 30123  name: HAQ2561 
+::HAQ2561::[html]If resistance stays the same but .............................. rises, then the greater force pushes more current through the circuit.{
+	=%100%voltage#
+}
+
+
+// question: 30124  name: HAQ2562 
+::HAQ2562::[html]If resistance stays the same but voltage decreases, then less current will flow through the ..............................{
+	=%100%circuit#
+}
+
+
+// question: 30125  name: HAQ2563 
+::HAQ2563::[html]The total .............................. of a circuit in ohms always equals the voltage divided by the amperage. This is Ohm's law.{
+	=%100%resistance#
+}
+
+
+// question: 30126  name: HAQ2564 
+::HAQ2564::[html]A disconnected battery isn't doing work, but it has the potential to do work, so it's a source of ..............................{
+	=%100%energy#
+}
+
+
+// question: 30127  name: HAQ2565 
+::HAQ2565::[html]The difference in electron supply at the battery terminals is sometimes called the .............................. difference - in the case of a standard charged automotive battery, a potential of 12 volts.{
+	=%100%potential#
+}
+
+
+// question: 30128  name: HAQ2566 
+::HAQ2566::[html]Tapping this potential means turning one form of energy, the battery's electrochemical energy, into another. Turning one form of energy into another is called ..............................{
+	=%100%work#
+}
+
+
+// question: 30129  name: HAQ2567 
+::HAQ2567::[html]Power is the rate at which work is ..............................{
+	=%100%done#
+}
+
+
+// question: 30130  name: HAQ2568 
+::HAQ2568::[html]P, the power in watts, equals V, the voltage in volts, multiplied by I, the current in amps. This calculation is applied just like ..............................{
+	=%100%ohm's law#
+	=%100%ohms law#
+	=%100%Ohm's Law#
+	=%100%Ohms Law#
+}
+
+
+// question: 30131  name: HAQ2569 
+::HAQ2569::[html]The watt (symbol: W) is the SI derived unit for ..............................{
+	=%100%power#
+}
+
+
+// question: 30132  name: HAQ2570 
+::HAQ2570::[html]A unit of power multiplied by a unit of time is a common format for expressing ..............................{
+	=%100%energy#
+}
+
+
+// question: 30133  name: HAQ2571 
+::HAQ2571::[html]An ammeter is a measuring instrument used to measure the flow of electric current in a ..............................{
+	=%100%circuit#
+}
+
+
+// question: 30134  name: HAQ2572 
+::HAQ2572::[html]Electric currents are measured in .............................., hence the name.{
+	=%100%amperes#
+}
+
+
+// question: 30135  name: HAQ2573 
+::HAQ2573::[html]A voltmeter measures potential difference, in volts, across 2 points. It is connected in ..............................{
+	=%100%parallel#
+}
+
+
+// question: 30136  name: HAQ2574 
+::HAQ2574::[html]A voltmeter may also be realized using a .............................., which is a length of uniform resistance material (wire or carbon film, for instance) and a 'wiper' that can short-circuit any portion of the material, thereby changing effective resistance between the wiper and an end terminal of the potentiometer.{
+	=%100%potentiometer#
+}
+
+
+// question: 30137  name: HAQ2575 
+::HAQ2575::[html]An Ohmmeter is an electrical measuring instrument that measures electrical .............................., the opposition to the flow of an electric current.{
+	=%100%resistance#
+}
+
+
+// question: 30138  name: HAQ2576 
+::HAQ2576::[html]In a series circuit, .............................. flows to each component in turn.{
+	=%100%current#
+}
+
+
+// question: 30139  name: HAQ2577 
+::HAQ2577::[html]Current is the same everywhere. In a series circuit with resistors in it, the total .............................. is the sum of all of the individual resistances.{
+	=%100%resistance#
+}
+
+
+// question: 30140  name: HAQ2578 
+::HAQ2578::[html]This is called .............................. It is caused by the pressure lost in driving the current through the resistor.{
+	=%100%voltage drop#
+}
+
+
+// question: 30141  name: HAQ2579 
+::HAQ2579::[html]Also, since all components connect directly to the battery terminals, the metal of the vehicle's body can become one of the ..............................{
+	=%100%conductors#
+}
+
+
+// question: 30142  name: HAQ2580 
+::HAQ2580::[html]A feature of a parallel circuit is that the .............................. across each component is the same as battery voltage.{
+	=%100%voltage#
+}
+
+
+// question: 30143  name: HAQ2581 
+::HAQ2581::[html]Another feature of a parallel circuit is that the current flowing in each branch is determined by the .............................. of that branch.{
+	=%100%resistance#
+}
+
+
+// question: 30144  name: HAQ2582 
+::HAQ2582::[html]In a parallel circuit, adding more branches provides more pathways, but decreases the overall circuit .............................., so current flow increases.{
+	=%100%resistance#
+}
+
+
+// question: 30145  name: HAQ2583 
+::HAQ2583::[html]Total resistance of a parallel circuit is found by turning all the resistances upside down, to make fractions called ..............................{
+	=%100%reciprocals#
+}
+
+
+// question: 30146  name: HAQ2584 
+::HAQ2584::[html]If a wire joins the battery to one bulb, to the next bulb, then back to the battery, in one continuous loop, the bulbs are said to be in ..............................{
+	=%100%series#
+}
+
+
+// question: 30147  name: HAQ2585 
+::HAQ2585::[html]If, on the other hand, each bulb is wired separately to the battery in two loops, the bulbs are said to be in ..............................{
+	=%100%parallel#
+}

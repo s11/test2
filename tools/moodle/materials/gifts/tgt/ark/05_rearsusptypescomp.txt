@@ -1,0 +1,60 @@
+//name:TQ0560
+::TQ0560::In a rear-wheel drive vehicle that uses a coil spring suspension system, the driving force is transmitted to the vehicle body by the:{
+	=trailing arms.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+	~wheel housing.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+	~shock absorbers.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+	~springs.#On rear-wheel drive vehicles with independent suspension, the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts. Suspension is normally by coil springs and each wheel unit is located by a combination of lateral and longitudinal control arms, or by semi-trailing arms to the frame.
+}
+
+
+//name:TQ0561
+::TQ0561::The trailing arm is attached to the chassis at a rigid cross-member pivot point. This pivot point is fitted with:{
+	=rubber bushes.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+	~swinging shackles.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+	~telescopic shock absorbers.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+	~coil springs.#The fixing frame is attached to the vehicle body. The frame supports the differential unit and its housing.
+}
+
+
+//name:TQ0562
+::TQ0562::A rear suspension U-bolt:{
+	=clamps the leaf spring to the axle housing.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~adjusts the spring tension.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~clamps the leaf spring to the chassis.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~separates each leaf of the spring.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It is also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+}
+
+
+//name:TQ0563
+::TQ0563::The swinging shackle allows for suspension movement by allowing the spring to extend or reduce in length as the vehicle moves over uneven ground.{
+	=TRUE#The swinging shackle allows a leaf spring to elongate as it is compressed, which increases the ride softness.
+	~FALSE#The swinging shackle allows a leaf spring to elongate as it is compressed, which increases the ride softness.
+}
+
+
+//name:TQ0564
+::TQ0564::A rear suspension 'dead' axle in a front-wheel drive vehicle:{
+	=only supports the vehicle.#On front-wheel drive vehicles a simple beam axle can be used on the rear with coil spring suspension and control arms for location. This is called a 'dead' axle, as it only supports the vehicle and doesn't transmit any drive. It's also non-independent, as deflection of a wheel on one side of the vehicle will be transferred to the other wheel.
+	~supports the vehicle and assists in transmitting the drive.#On front-wheel drive vehicles a simple beam axle can be used on the rear with coil spring suspension and control arms for location. This is called a 'dead' axle, as it only supports the vehicle and doesn't transmit any drive. It's also non-independent, as deflection of a wheel on one side of the vehicle will be transferred to the other wheel.
+	~is an independent suspension assembly.#On front-wheel drive vehicles a simple beam axle can be used on the rear with coil spring suspension and control arms for location. This is called a 'dead' axle, as it only supports the vehicle and doesn't transmit any drive. It's also non-independent, as deflection of a wheel on one side of the vehicle will be transferred to the other wheel.
+}
+
+
+//name:TQ0565
+::TQ0565::The panhard rods are:{
+	=designed to assist in stabilizing the vehicle from lateral movements.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+	~used to replace the shock absorbers.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+	~usually found on the front suspension.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+	~used to locate the springs.#Panhard rods are used with coil spring suspensions.  They prevent the rear axle moving from side to side without restricting its vertical movement.
+}
+
+
+//name:TQ0566
+::TQ0566::Technician A says deflection to one side of an rigid axle suspension is transmitted to the other side.  Technician B says the 'Watts Link' controls any longitudinal movement.  Who is correct?{
+	=Technician A.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+	~Technician B.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+	~Both Technician A & Technician B.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+	~Neither Technician A or Technician B.#Technician A is correct. Deflection to one side of an rigid axle suspension is transmitted to the other side.  The 'Watts Link' controls any LATERAL movement.
+}
+
+

@@ -1,0 +1,15 @@
+%h2 Scores
+
+%table.scores{:border => 1}
+  %tr
+    %th Score
+    %th Result
+  %tr
+    %td 10
+    %td Excellent, well done
+  %tr
+    %td 8 or 9
+    %td Nice try, but there is room for improvement
+  %tr
+    %td{:width => '60px'} 7 or less
+    %td You need to build your knowledge of this area

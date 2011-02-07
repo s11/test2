@@ -1,0 +1,103 @@
+// question: 30089  name: HAQ2151 
+::HAQ2151::[html]In light vehicle applications, the engine operates over a wide speed range, but produces maximum ................. only within a relatively narrow RPM band.{
+	=%100%torque#
+}
+
+
+// question: 30090  name: HAQ2152 
+::HAQ2152::[html]A manual transmission allows the driver to directly vary the gear ratio, between the ................. and the driving road wheels.{
+	=%100%engine#
+}
+
+
+// question: 30091  name: HAQ2153 
+::HAQ2153::[html]The transmission also provides a means of reversing the vehicle. And it has a ................. position, which disconnects the engine from the driving wheels.{
+	=%100%neutral#
+}
+
+
+// question: 30092  name: HAQ2154 
+::HAQ2154::[html]The driver gear has to turn three times, to turn the driven gear once. In continuous rotation, the driven gear turns three times ................. than the driver.{
+	=%100%slower#
+}
+
+
+// question: 30093  name: HAQ2155 
+::HAQ2155::[html]When three gears are in mesh, the input and output gears are meshed with an '.................' or intermediate gear.{
+	=%100%idler#
+}
+
+
+// question: 30094  name: HAQ2156 
+::HAQ2156::[html]Compound gear trains have two or more pairs of gears in ................., so that they rotate together.{
+	=%100%mesh#
+}
+
+
+// question: 30095  name: HAQ2157 
+::HAQ2157::[html]The motion of the input is transferred through the large gear, along the .................-shaft to the smaller gear, to the output.{
+	=%100%counter#
+}
+
+
+// question: 30096  name: HAQ2158 
+::HAQ2158::[html]A gear ratio of 6 to 1 between the input and the output will result in a speed reduction and a corresponding increase in .................{
+	=%100%torque#
+}
+
+
+// question: 30097  name: HAQ2159 
+::HAQ2159::[html]The gearshift lever can be mounted in the top of the ................. where it acts through a ball pivot in the top of the extension housing.{
+	=%100%gearbox#
+}
+
+
+// question: 30098  name: HAQ2160 
+::HAQ2160::[html]A short ................. on the other end of the shaft, is located in a selector gate, formed by slots in the three selector shift rails.{
+	=%100%lever#
+}
+
+
+// question: 30099  name: HAQ2161 
+::HAQ2161::[html]Some designs have two steel balls located in the casing, between the center and the outside shift rails, and in alignment with grooves machined in the shift rails. A small ................. is captive in a hole drilled in the center rail.{
+	=%100%plunger#
+}
+
+
+// question: 30100  name: HAQ2162 
+::HAQ2162::[html]Radial loads try to force the gears and shafts apart. Thrust loads are applied along the ................. of the components, so the bearing must cater for side thrusts.{
+	=%100%length#
+}
+
+
+// question: 30101  name: HAQ2163 
+::HAQ2163::[html]Single-row, deep-groove ball bearings normally support the input shaft and mainshaft in conventional rear-wheel drives. They can also be used at each end of the .................{
+	=%100%countershaft#
+}
+
+
+// question: 30102  name: HAQ2164 
+::HAQ2164::[html]A circlip, in a groove on the outside of the ................. can locate each shaft in the casing and maintain the alignment of the gears and engagement hubs.{
+	=%100%bearing#
+}
+
+
+// question: 30103  name: HAQ2165 
+::HAQ2165::[html]The bearings can be lubricated by being submerged in gear ................., or by oil splashed about inside the casing.{
+	=%100%oil#
+}
+
+
+// question: 30104  name: HAQ2166 
+::HAQ2166::[html]Where the shafts extend from the casing, oil ................. prevent oil leakage and the ingress of dirt and moisture.{
+	=%100%seals#
+}
+
+
+// question: 30105  name: HAQ2167 
+::HAQ2167::[html]In some cases, the gaskets may be used as selective thickness shims or ................., in addition to their sealing function.{
+	=%100%spacers#
+}
+
+
+

@@ -1,0 +1,193 @@
+//name:TQ1626
+::TQ1626::If water is placed under pressure and is heated does its boiling point rise?{
+	=Yes, because the water is subjected to a higher than atmospheric pressure.#Increasing the atmospheric pressure will increase the resulting boiling point.
+	~No, because the water is subjected to a higher than atmospheric pressure.#Increasing the atmospheric pressure will increase the resulting boiling point.
+	~No the boiling point remains the same.#Increasing the atmospheric pressure will increase the resulting boiling point.
+}
+
+
+//name:TQ1627
+::TQ1627::Centrifugal force can have both positive and negative effects.{
+	=TRUE#Centrifugal force is always expressed as a positive force since mass multiplied by speed results in force. However in some circumstances it can have a negative effect such as on vehicle handling when cornering. 
+	~FALSE#Centrifugal force is always expressed as a positive force since mass multiplied by speed results in force. However in some circumstances it can have a negative effect such as on vehicle handling when cornering. 
+}
+
+
+//name:TQ1628
+::TQ1628::One positive example of centrifugal force is in its use as an engine water pump to encourage coolant flow.{
+	=TRUE#The water pump is able to move water from its center vane to the outer vane though velocity and motion.
+	~FALSE#The water pump is able to move water from its center vane to the outer vane though velocity and motion.
+}
+
+
+//name:TQ1629
+::TQ1629::The purpose of a radiator's belt-driven fan is to:{
+	=draw air through the radiator when the vehicle is not traveling fast enough to provide the desired airflow.#Not only is proper airflow through the radiator fins important, the fan must draw sufficient air through the radiator for optimum cooling.
+	~draw air through the radiator when the vehicle is stationary.#Not only is proper airflow through the radiator fins important, the fan must draw sufficient air through the radiator for optimum cooling.
+	~draw air through the radiator when the temperature reaches a predetermined level.#Not only is proper airflow through the radiator fins important, the fan must draw sufficient air through the radiator for optimum cooling.
+	~push air through the radiator when the temperature reaches a predetermined level.#Not only is proper airflow through the radiator fins important, the fan must draw sufficient air through the radiator for optimum cooling.
+}
+
+
+//name:TQ1630
+::TQ1630::The thermostat in an engine cooling system controls:{
+	=circulation of coolant to the radiator.#The thermostat in an engine cooling system controls circulation of coolant to the radiator. If the thermostat is not functioning correctly, apart from the fact that an engine operating at well below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions, the engine will also suffer from increased cylinder, piston, and piston ring wear.
+	~pressurization of the system.#The thermostat in an engine cooling system controls circulation of coolant to the radiator. If the thermostat is not functioning correctly, apart from the fact that an engine operating at well below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions, the engine will also suffer from increased cylinder, piston, and piston ring wear.
+	~operation of the electric fan.#The thermostat in an engine cooling system controls circulation of coolant to the radiator. If the thermostat is not functioning correctly, apart from the fact that an engine operating at well below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions, the engine will also suffer from increased cylinder, piston, and piston ring wear.
+	~circulation of coolant to the heater.#The thermostat in an engine cooling system controls circulation of coolant to the radiator. If the thermostat is not functioning correctly, apart from the fact that an engine operating at well below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions, the engine will also suffer from increased cylinder, piston, and piston ring wear.
+}
+
+
+//name:TQ1631
+::TQ1631::The thermostat in an engine cooling system:{
+	=assists the engine to warm up quickly.#The thermostat not only regulates the flow of coolant through the cooling system, it also provides a stable engine temperature range that increases fuel efficiency and performance.
+	~prevents coolant loss.#The thermostat not only regulates the flow of coolant through the cooling system, it also provides a stable engine temperature range that increases fuel efficiency and performance.
+	~switches on the electric cooling fan.#The thermostat not only regulates the flow of coolant through the cooling system, it also provides a stable engine temperature range that increases fuel efficiency and performance.
+	~prevents the coolant freezing.#The thermostat not only regulates the flow of coolant through the cooling system, it also provides a stable engine temperature range that increases fuel efficiency and performance.
+}
+
+
+//name:TQ1632
+::TQ1632::A by-pass is incorporated into a cooling system to:{
+	=allow a small amount of coolant to circulate through the engine when the thermostat is closed.#The bypass allows some coolant to circulate thus providing a uniform distribution of the heat transferred to the coolant.
+	~raise the boiling point of the water.#The bypass allows some coolant to circulate thus providing a uniform distribution of the heat transferred to the coolant.
+	~prevent the radiator hoses from collapsing when the engine cools.#The bypass allows some coolant to circulate thus providing a uniform distribution of the heat transferred to the coolant.
+	~allow the coolant to by-pass to the radiator when the pressure becomes excessive.#The bypass allows some coolant to circulate thus providing a uniform distribution of the heat transferred to the coolant.
+}
+
+
+//name:TQ1633
+::TQ1633::Removing a thermostat from a cooling system could result in:{
+	=lower operating temperatures and premature engine wear.#The thermostat regulates the optimum operation temperature of the engine system.
+	~better cooling at high speed.#The thermostat regulates the optimum operation temperature of the engine system.
+	~greater coolant flow causing erosion.#The thermostat regulates the optimum operation temperature of the engine system.
+	~a greater load on the water pump bearing.#The thermostat regulates the optimum operation temperature of the engine system.
+}
+
+
+//name:TQ1634
+::TQ1634::Cross flow radiators are fitted to many modern vehicles because they:{
+	=allow a low hood line to be achieved.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design.
+	~are cheaper to manufacture.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design.
+	~are more efficient than vertical-flow types.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design.
+	~are more efficient on transverse engine vehicles.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design.
+}
+
+
+//name:TQ1635
+::TQ1635::With a cross flow radiator the coolant flow is from?{
+	=Side to side.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design. In such cases the coolant flows side to side through the radiator.
+	~Top to bottom.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design. In such cases the coolant flows side to side through the radiator.
+	~End to top.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design. In such cases the coolant flows side to side through the radiator.
+	~Bottom to end.#Cross flow radiators are fitted to many modern vehicle cooling systems because they allow a low hood line to be achieved. This means that manufacturers have a greater flexibility with body design. In such cases the coolant flows side to side through the radiator.
+}
+
+
+//name:TQ1636
+::TQ1636::With a down flow radiator the coolant flow is from?{
+	=Top to bottom.#Down flow radiators are fitted to many modern vehicle cooling systems where a low hood line is not necessary such as with many SUVs and four wheel drives. This means that manufacturers have a greater flexibility with cooling system design. In such cases the coolant flows from top to bottom through the radiator.
+	~Side to side.#Down flow radiators are fitted to many modern vehicle cooling systems where a low hood line is not necessary such as with many SUVs and four wheel drives. This means that manufacturers have a greater flexibility with cooling system design. In such cases the coolant flows from top to bottom through the radiator.
+	~End to end.#Down flow radiators are fitted to many modern vehicle cooling systems where a low hood line is not necessary such as with many SUVs and four wheel drives. This means that manufacturers have a greater flexibility with cooling system design. In such cases the coolant flows from top to bottom through the radiator.
+	~Bottom to top.#Down flow radiators are fitted to many modern vehicle cooling systems where a low hood line is not necessary such as with many SUVs and four wheel drives. This means that manufacturers have a greater flexibility with cooling system design. In such cases the coolant flows from top to bottom through the radiator.
+}
+
+
+//name:TQ1637
+::TQ1637::Cooling systems are pressurized to:{
+	=raise the boiling point of the coolant.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure, raises the boiling point by about 1.5 degrees Celsius or 2.7 degree Fahrenheit. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F.
+	~improve coolant circulation.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure, raises the boiling point by about 1.5 degrees Celsius or 2.7 degree Fahrenheit. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F.
+	~prevent internal coolant leaks.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure, raises the boiling point by about 1.5 degrees Celsius or 2.7 degree Fahrenheit. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F.
+	~increase the warm-up period.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure, raises the boiling point by about 1.5 degrees Celsius or 2.7 degree Fahrenheit. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F.
+}
+
+
+//name:TQ1638
+::TQ1638::One of the functions of a radiator cap is to:{
+	=increase the boiling point of the coolant.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure raises the boiling point by about 1.5 degrees Celsius. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. A radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap.
+	~protect the chemical additives in the coolant from breaking down.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure raises the boiling point by about 1.5 degrees Celsius. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. A radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap.
+	~control the temperature of the heater core.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure raises the boiling point by about 1.5 degrees Celsius. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. A radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap.
+	~prevent the engine coolant from boiling.#Most automotive cooling systems are sealed and pressurized. This is to raise the normal boiling point of the coolant. As a rough guide 1lb of additional pressure raises the boiling point by about 1.5 degrees Celsius. So a 15lb cap will raise the boiling point of the coolant by nearly 22.5 degrees C or 60.75 degrees F. A radiator or pressure cap increases the boiling point of the coolant in proportion to the spring tension in the cap.
+}
+
+
+//name:TQ1639
+::TQ1639::The atmospheric or vacuum valve in a radiator cap is necessary to:{
+	=allow coolant back into the radiator from the recovery tank on cooling.#As coolant is heated inside the block it will expand and fill the overflow reservoir. The vacuum vent valve allows coolant to pass from the recovery tank back into the radiator.
+	~ensure pressure is maintained in the system at all times.#As coolant is heated inside the block it will expand and fill the overflow reservoir. The vacuum vent valve allows coolant to pass from the recovery tank back into the radiator.
+	~stop air gaining entry into the radiator on cooling.#As coolant is heated inside the block it will expand and fill the overflow reservoir. The vacuum vent valve allows coolant to pass from the recovery tank back into the radiator.
+	~allow a thermo-siphon system to operate during warm up.#As coolant is heated inside the block it will expand and fill the overflow reservoir. The vacuum vent valve allows coolant to pass from the recovery tank back into the radiator.
+}
+
+
+//name:TQ1640
+::TQ1640::What is the main function of a separate recovery tank?{
+	=To maintain coolant in the system at all times.#Most modern cooling systems are fitted with a separate recovery tank that captures coolant as it is released from the radiator by the pressure cap. Its role is to maintain coolant in the system at all times and it achieves this in conjunction with the vacuum valve located in the pressure cap.
+	~To stabilize the coolant temperature.#Most modern cooling systems are fitted with a separate recovery tank that captures coolant as it is released from the radiator by the pressure cap. Its role is to maintain coolant in the system at all times and it achieves this in conjunction with the vacuum valve located in the pressure cap.
+	~To increase the system's operating pressure.#Most modern cooling systems are fitted with a separate recovery tank that captures coolant as it is released from the radiator by the pressure cap. Its role is to maintain coolant in the system at all times and it achieves this in conjunction with the vacuum valve located in the pressure cap.
+	~A more convenient location for adding coolant to the system.#Most modern cooling systems are fitted with a separate recovery tank that captures coolant as it is released from the radiator by the pressure cap. Its role is to maintain coolant in the system at all times and it achieves this in conjunction with the vacuum valve located in the pressure cap.
+}
+
+
+//name:TQ1641
+::TQ1641::The primary function of the engine water pump is to:{
+	=circulate the coolant through the engine.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+	~pressurize the cooling system.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+	~circulate the coolant when the thermostat is closed.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+	~pump the heated coolant into the heater core.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+}
+
+
+//name:TQ1642
+::TQ1642::Water is circulated through an automotive cooling system by a:{
+	=centrifugal pump.#The water pump is able to move water from its center vane to the outer vane though velocity and motion. It circulates coolant through the cooling system.
+	~pressure radiator cap.#The water pump is able to move water from its center vane to the outer vane though velocity and motion. It circulates coolant through the cooling system.
+	~viscous coupling.#The water pump is able to move water from its center vane to the outer vane though velocity and motion. It circulates coolant through the cooling system.
+	~roller pump of the positive displacement type.#The water pump is able to move water from its center vane to the outer vane though velocity and motion. It circulates coolant through the cooling system.
+}
+
+
+//name:TQ1643
+::TQ1643::Which of the following is not a primary component of the cooling system?{
+	=Evaporator#The primary components in a vehicle cooling system are: radiator, thermostat, water pump, coolant fan, radiator hoses and heater hoses.
+	~Radiator#The primary components in a vehicle cooling system are: radiator, thermostat, water pump, coolant fan, radiator hoses and heater hoses.
+	~Thermostat#The primary components in a vehicle cooling system are: radiator, thermostat, water pump, coolant fan, radiator hoses and heater hoses.
+	~Water pump#The primary components in a vehicle cooling system are: radiator, thermostat, water pump, coolant fan, radiator hoses and heater hoses.
+}
+
+
+//name:TQ1644
+::TQ1644::Coolant hoses vary in diameter depending on:{
+	=the volume of coolant that passes through them.#Heater hoses carry a smaller volume of coolant compared to radiator hoses.
+	~the number of engine cylinders.#Heater hoses carry a smaller volume of coolant compared to radiator hoses.
+	~their location on the vehicle.#Heater hoses carry a smaller volume of coolant compared to radiator hoses.
+	~the quantity of refrigerant in the system.#Heater hoses carry a smaller volume of coolant compared to radiator hoses.
+}
+
+
+//name:TQ1645
+::TQ1645::A temperature indicator is used to:{
+	=send readings to a temperature gauge or warning lamp.#A temperature indicator is used in addition to a temperature gauge to inform the driver of the current coolant temperature to give a warning of potential overheating situations. Some modern vehicles use sensors that monitor cylinder head material temperature instead of coolant temperature.
+	~warn of excessive tire temperature.#A temperature indicator is used in addition to a temperature gauge to inform the driver of the current coolant temperature to give a warning of potential overheating situations. Some modern vehicles use sensors that monitor cylinder head material temperature instead of coolant temperature.
+	~control the AC compressor.#A temperature indicator is used in addition to a temperature gauge to inform the driver of the current coolant temperature to give a warning of potential overheating situations. Some modern vehicles use sensors that monitor cylinder head material temperature instead of coolant temperature.
+	~prevent the windscreen washer bottle freezing.#A temperature indicator is used in addition to a temperature gauge to inform the driver of the current coolant temperature to give a warning of potential overheating situations. Some modern vehicles use sensors that monitor cylinder head material temperature instead of coolant temperature.
+}
+
+
+//name:TQ1646
+::TQ1646::Which of the following is an undesirable effect of electrolysis in a motor vehicle?{
+	=Corrosion.#Electrolysis is a chemical and electrical process occurring when two different metals are in contact with the presence of moisture.
+	~Generation of electrical charge.#Electrolysis is a chemical and electrical process occurring when two different metals are in contact with the presence of moisture.
+	~Interference.#Electrolysis is a chemical and electrical process occurring when two different metals are in contact with the presence of moisture.
+	~Reverse current flow.#Electrolysis is a chemical and electrical process occurring when two different metals are in contact with the presence of moisture.
+}
+
+
+//name:TQ1647
+::TQ1647::Thermo switches commonly operate on what principle?{
+	=Bi-metallic strip.#Thermo switches can be used to switch actuators on and off based upon set temperatures.
+	~Landing strip.#Thermo switches can be used to switch actuators on and off based upon set temperatures.
+	~Plastic strip.#Thermo switches can be used to switch actuators on and off based upon set temperatures.
+	~Bi-polar strip.#Thermo switches can be used to switch actuators on and off based upon set temperatures.
+}
+
+

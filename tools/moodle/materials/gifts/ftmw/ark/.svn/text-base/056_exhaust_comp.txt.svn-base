@@ -1,0 +1,250 @@
+// question: 27237  name: HAQ1034 
+::HAQ1034::[html]The exhaust manifold is bolted to the cylinder ................. or onto the exhaust ports.{
+	=%100%head#
+}
+
+
+// question: 27238  name: HAQ1035 
+::HAQ1035::[html]The length of the passages in the exhaust manifold should be designed so that pulses of exhaust gases from one ................. assist the flow of gases from another.{
+	=%100%cylinder#
+}
+
+
+// question: 27239  name: HAQ1036 
+::HAQ1036::[html]The engine pipe is attached to the ................. of the exhaust manifold.{
+	=%100%outlet#
+}
+
+
+// question: 27240  name: HAQ1037 
+::HAQ1037::[html]The system needs flexible mountings to allow for engine movement, and prevent noise and vibration being transmitted into the vehicle .................{
+	=%100%body#
+}
+
+
+// question: 27241  name: HAQ1038 
+::HAQ1038::[html]Rubber mountings are popular in front-wheel drive exhaust systems because of rubber's natural ................. effect.{
+	=%100%dampening#
+}
+
+
+// question: 27242  name: HAQ1039 
+::HAQ1039::[html]Some exhaust systems have extractor pipes, sometimes called '.................' - one pipe for each exhaust port.{
+	=%100%headers#
+}
+
+
+// question: 27243  name: HAQ1040 
+::HAQ1040::[html]The extractor pipes also provide a ................. effect - helping remove exhaust gases from the cylinders.{
+	=%100%scavenging#
+}
+
+
+// question: 27244  name: HAQ1041 
+::HAQ1041::[html]The muffler is located in the exhaust system between the exhaust manifold and the ................. outlet.{
+	=%100%exhaust#
+}
+
+
+// question: 27245  name: HAQ1042 
+::HAQ1042::[html]The muffler slows down the gases and breaks up the pulsating sound waves, and so reduces the .................{
+	=%100%noise#
+}
+
+
+// question: 27246  name: HAQ1043 
+::HAQ1043::[html]Some exhaust systems use a ................. as well as a muffler.{
+	=%100%resonator#
+}
+
+
+// question: 27247  name: HAQ1044 
+::HAQ1044::[html]A catalytic converter is used to convert unacceptable exhaust ................., such as carbon monoxide, certain hydrocarbons and oxides of nitrogen into less dangerous substances.{
+	=%100%pollutants#
+}
+
+
+// question: 27248  name: HAQ1045 
+::HAQ1045::[html]A catalytic converter fits into an exhaust system like a muffler. It is located close to the ................. manifold so that it can reach its operating temperature as soon as possible.{
+	=%100%exhaust#
+}
+
+
+// question: 27249  name: HAQ1046 
+::HAQ1046::[html]A catalytic converter operates by starting and then maintaining a chemical reaction in the exhaust .................{
+	=%100%gases#
+}
+
+
+// question: 27250  name: HAQ1047 
+::HAQ1047::[html]There is a flexible connection between an engine pipe and an intermediate .................{
+	=%100%pipe#
+}
+
+
+// question: 27251  name: HAQ1048 
+::HAQ1048::[html]Its main functions are to allow engine movement and reduce ................. without passing it along the exhaust - especially in front wheel drive vehicles.{
+	=%100%vibration#
+}
+
+
+// question: 27252  name: HAQ1049 
+::HAQ1049::[html]The most common applications for ceramic coatings are on the exhaust system, intake manifolds, and exhaust .................{
+	=%100%headers#
+}
+
+
+// question: 27253  name: HAQ1050 
+::HAQ1050::[html]Firstly, ceramic coatings protect the headers from rust and corrosion; and secondly, they reduce heat ................. which can be translated into high engine output.{
+	=%100%loss#
+}
+
+
+// question: 27254  name: HAQ1051 
+::HAQ1051::[html]Externally, the use of an oil-shedding coating in the the valve train location area, or valley as it is sometimes referred to, can assist the speed of the oil used to lubricate the valve train in it's return to the .................{
+	=%100%sump#
+}
+
+
+// question: 27255  name: HAQ1052 
+::HAQ1052::[html]Noise cancellation is a system that prevents the sound waves leaving the exhaust system by canceling them out inside the .................{
+	=%100%muffler#
+}
+
+
+// question: 27256  name: HAQ1053 
+::HAQ1053::[html]A moveable ................. fitted within the exhaust system is used to change the amount of exhaust back-pressure.{
+	=%100%valve#
+}
+
+
+// question: 27257  name: HAQ1054 
+::HAQ1054::[html]Any restriction to exhaust flow in the exhaust system creates .................{
+	=%100%back-pressure#
+	=%100%back pressure#
+}
+
+
+// question: 27258  name: HAQ1055 
+::HAQ1055::[html]Thermal expansion refers to the way some materials ................. when they're heated.{
+	=%100%expand#
+}
+
+
+// question: 27259  name: HAQ1056 
+::HAQ1056::[html]An engine ................. system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool.{
+	=%100%exhaust#
+}
+
+
+// question: 27260  name: HAQ1057 
+::HAQ1057::[html]................. in the exhaust system are designed to allow expansion to happen.{
+	=%100%mountings#
+}
+
+
+// question: 27261  name: HAQ1058 
+::HAQ1058::[html]If more ................. is forced into the cylinder, then more fuel can be burned and more power produced with each stroke.{
+	=%100%air#
+}
+
+
+// question: 27262  name: HAQ1059 
+::HAQ1059::[html]A supercharger compresses the air intake to above atmospheric pressure which increases the ................. air density to the engine.{
+	=%100%inlet#
+}
+
+
+// question: 27263  name: HAQ1060 
+::HAQ1060::[html]When the cylinder intake ................. opens, atmospheric pressure pushes air into the cylinder as the piston is lowered.{
+	=%100%valve#
+}
+
+
+// question: 27264  name: HAQ1061 
+::HAQ1061::[html]Air pressure is increased by the compressor on the way in to the engine, more power is produced by combustion, and the ................. gases exit much more rapidly, making the timings and exhaust sizing less important.{
+	=%100%exhaust#
+}
+
+
+// question: 27265  name: HAQ1062 
+::HAQ1062::[html]The supercharger includes a ................. valve system which allows the supercharger to 'idle' when 'high power' is not required, turning off the pressure and allowing the engine to run as a naturally aspirated engine.{
+	=%100%bypass#
+	=%100%by pass#
+	=%100%by-pass#
+}
+
+
+// question: 27266  name: HAQ1063 
+::HAQ1063::[html]A turbocharger or supercharger is used to increase the volume of air in the engine cylinder by ................. the air above atmospheric pressure.{
+	=%100%compressing#
+}
+
+
+// question: 27267  name: HAQ1064 
+::HAQ1064::[html]The purpose of an intercooler is to reduce the intake air temperature up to 390 degrees Fahrenheit, or 200 degrees Celsius, before it enters the ................. manifold.{
+	=%100%intake#
+}
+
+
+// question: 27268  name: HAQ1065 
+::HAQ1065::[html]In the liquid operated intercooler system the air is fed through small tubes in a heat ................., and the vehicle coolant absorbs the heat and transfers it to the engine cooling system.{
+	=%100%exchanger#
+}
+
+
+// question: 27269  name: HAQ1066 
+::HAQ1066::[html]Sound travels through the air by producing pressure waves. The rate at which these waves reach our ears is called .................{
+	=%100%frequency#
+}
+
+
+// question: 27270  name: HAQ1067 
+::HAQ1067::[html]The mufflers and resonators in the engine ................. system reduce these sounds to an acceptable level.{
+	=%100%exhaust#
+}
+
+
+// question: 27271  name: HAQ1068 
+::HAQ1068::[html]Back-pressure in an exhaust system refers to a build-up of ................. in the system that interferes with the outward flow of exhaust gases.{
+	=%100%pressure#
+}
+
+
+// question: 27272  name: HAQ1069 
+::HAQ1069::[html]Back-pressure can be caused by a blockage in a ................. or a similar restriction.{
+	=%100%muffler#
+}
+
+
+// question: 27232  name: HAQ3722 
+::HAQ3722::[html]The primary components of the automotive exhaust system are: Exhaust manifold; Engine pipe; .............. converter; Exhaust brackets; Muffler & components.{
+	=%100%catalytic#
+}
+
+
+// question: 27233  name: HAQ3723 
+::HAQ3723::[html]In performance type vehicles, the exhaust manifold is often replaced with .................{
+	=%100%extractors#
+}
+
+
+// question: 27234  name: HAQ3724 
+::HAQ3724::[html]The engine pipe is attached to the exhaust manifold. It takes the gases away through the catalytic converter, then through the ................. system to the outside environment.{
+	=%100%muffler#
+}
+
+
+// question: 27235  name: HAQ3725 
+::HAQ3725::[html]These are usually rubber-mounted supports that help isolate the vibrations of the exhaust from the main body of the vehicle. Rubber is preferred because of its natural ................. effect.{
+	=%100%dampening#
+}
+
+
+// question: 27236  name: HAQ3726 
+::HAQ3726::[html]Many manufacturers use a resonator in the exhaust system. It is located between the muffler and the exhaust .................{
+	=%100%outlet#
+}
+
+
+

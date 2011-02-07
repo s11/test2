@@ -1,0 +1,79 @@
+//name:TQ1559
+::TQ1559::Technicians are repairing an engine that has failed. They are working on a disassembled engine: Technician A says that a crankshaft would require regrinding if it was scored and discolored. Technician B says that a crankshaft would require regrinding if it had scratches and journal roughness. Who is right?{
+	~Technician A.#Technician B is correct as although one might regrind a gouged crankshaft, discoloration indicates an over heat condition that may have changed the temper characteristics of the metal.
+	=Technician B.#Technician B is correct as although one might regrind a gouged crankshaft, discoloration indicates an over heat condition that may have changed the temper characteristics of the metal.
+	~Both Technician A & Technician B.#Technician B is correct as although one might regrind a gouged crankshaft, discoloration indicates an over heat condition that may have changed the temper characteristics of the metal.
+	~Neither Technician A or Technician B.#Technician B is correct as although one might regrind a gouged crankshaft, discoloration indicates an over heat condition that may have changed the temper characteristics of the metal.
+}
+
+
+//name:TQ1560
+::TQ1560::Technicians are repairing an engine that has failed. They are working on a disassembled engine: Technician A says that the components need to be checked before cleaning to save unnecessary time cleaning failed components. Technician B says that you need to clean the components first before you can inspect them properly.{
+	~Technician A.#Technician B is correct. Before the parts are examined beyond a quick visual inspection, they need to be cleaned. Depending on their condition, everything from the block and disassembled heads to the crankshaft and all the covers may need to be put into the jet wash for degreasing.
+	=Technician B.#Technician B is correct. Before the parts are examined beyond a quick visual inspection, they need to be cleaned. Depending on their condition, everything from the block and disassembled heads to the crankshaft and all the covers may need to be put into the jet wash for degreasing.
+	~Both Technician A and Technician B.#Technician B is correct. Before the parts are examined beyond a quick visual inspection, they need to be cleaned. Depending on their condition, everything from the block and disassembled heads to the crankshaft and all the covers may need to be put into the jet wash for degreasing.
+	~Neither Technician A or Technician B.#Technician B is correct. Before the parts are examined beyond a quick visual inspection, they need to be cleaned. Depending on their condition, everything from the block and disassembled heads to the crankshaft and all the covers may need to be put into the jet wash for degreasing.
+}
+
+
+//name:TQ1561
+::TQ1561::When reconditioning an engine, the cylinder bores in the block are the only major component that will require machining.{
+	=FALSE#This is false. Some of the other major components that could require machining include the crankshaft, cylinder head, block misalignment.
+	~TRUE#This is false. Some of the other major components that could require machining include the crankshaft, cylinder head, block misalignment.
+}
+
+
+//name:TQ1562
+::TQ1562::When machining the cylinder bores, the machines is set to:{
+	=slightly under the required size to allow for honing to finish size.#The boring machine will cut the cylinder wall to fractionally less than whatever bore you will need, and the honing machine will later expand it to the exact specification.
+	~slightly under the required size to allow for polishing the cylinder walls to finish size.#The boring machine will cut the cylinder wall to fractionally less than whatever bore you will need, and the honing machine will later expand it to the exact specification.
+	~the required size to allow for polishing the cylinder walls to finish size.#The boring machine will cut the cylinder wall to fractionally less than whatever bore you will need, and the honing machine will later expand it to the exact specification.
+	~To the required size and then hone to cylinder to allow for manufacturer's recommended clearances.#The boring machine will cut the cylinder wall to fractionally less than whatever bore you will need, and the honing machine will later expand it to the exact specification.
+}
+
+
+//name:TQ1563
+::TQ1563::When machining a cylinder head, the amount of metal removed will and/or can:{
+	=increase the compression ratio and decrease the safety margin between the piston and cylinder head.#The more metal shaved off the heads, the more the compression ratio raises in the combustion chamber and the closer the valves will be to the tops of the piston when they open.
+	~increase the thickness of the head gasket required to maintain the safety margin between the piston and cylinder head.#The more metal shaved off the heads, the more the compression ratio raises in the combustion chamber and the closer the valves will be to the tops of the piston when they open.
+	~require the compression ratio to be restored by the use of a thicker head gasket and sealant.#The more metal shaved off the heads, the more the compression ratio raises in the combustion chamber and the closer the valves will be to the tops of the piston when they open.
+	~lower the effective compression ratio of the engine.#The more metal shaved off the heads, the more the compression ratio raises in the combustion chamber and the closer the valves will be to the tops of the piston when they open.
+}
+
+
+//name:TQ1564
+::TQ1564::When machining the connecting rods, each cap is kept with its rod and, one by one, their ends are very slightly reground. The next step is to:{
+	=hone each rod and big end cap to return the big end back to a perfect circle.#One by one each rod is honed to return the big end back to a perfect circle. The size is checked frequently during the process and when they are close to specification, they are left to cool for a while.
+	~polish each rod and big end cap to return the big end back to a perfect circle.#One by one each rod is honed to return the big end back to a perfect circle. The size is checked frequently during the process and when they are close to specification, they are left to cool for a while.
+	~ream each rod and big end cap to return the big end back to a perfect circle.#One by one each rod is honed to return the big end back to a perfect circle. The size is checked frequently during the process and when they are close to specification, they are left to cool for a while.
+	~re-machine each rod and big end cap to return the big end back to a perfect circle.#One by one each rod is honed to return the big end back to a perfect circle. The size is checked frequently during the process and when they are close to specification, they are left to cool for a while.
+}
+
+
+//name:TQ1565
+::TQ1565::When fitting semi-floating piston pins:{
+	=the small end of the connecting rod is heated up to enable the piston pin to be fitted.#With semi-floating pins the small end of the rod is too tight for the piston pin to pass through, if the metal is at room temperature. But when the end of the rod is heated up, the opening will expand.
+	~the piston is heated up to enable the piston pin to be fitted.#With semi-floating pins the small end of the rod is too tight for the piston pin to pass through, if the metal is at room temperature. But when the end of the rod is heated up, the opening will expand.
+	~both the end of the rod and piston are heated up and held in place by a circlip during fitting.#With semi-floating pins the small end of the rod is too tight for the piston pin to pass through, if the metal is at room temperature. But when the end of the rod is heated up, the opening will expand.
+	~the end of the rod and the piston pin holes have a small amount of float so the pin is held in place by two circlips during fitting.#With semi-floating pins the small end of the rod is too tight for the piston pin to pass through, if the metal is at room temperature. But when the end of the rod is heated up, the opening will expand.
+}
+
+
+//name:TQ1566
+::TQ1566::The main purpose of honing a cylinder bore is:{
+	=to enlarge the cylinder bore to the exact size for the pistons and leave a fine crosshatch pattern of light scratches on the walls of the cylinder for oil lubrication.#The honing process does two things. First, it enlarges the cylinder bore to the exact size that is needed to give the specified amount of clearance between the piston and the cylinder wall. Second, it leaves a fine crosshatch pattern of light scratches on the walls of the cylinder that are necessary to retain microscopic beads of oil. This film of oil seals the piston rings to the cylinder walls and keep the compression inside the combustion chambers.
+	~leave a fine crosshatch pattern of light scratches on the walls of the cylinder for oil lubrication.#The honing process does two things. First, it enlarges the cylinder bore to the exact size that is needed to give the specified amount of clearance between the piston and the cylinder wall. Second, it leaves a fine crosshatch pattern of light scratches on the walls of the cylinder that are necessary to retain microscopic beads of oil. This film of oil seals the piston rings to the cylinder walls and keep the compression inside the combustion chambers.
+	~enlarge the cylinder bore to the exact size for the pistons.#The honing process does two things. First, it enlarges the cylinder bore to the exact size that is needed to give the specified amount of clearance between the piston and the cylinder wall. Second, it leaves a fine crosshatch pattern of light scratches on the walls of the cylinder that are necessary to retain microscopic beads of oil. This film of oil seals the piston rings to the cylinder walls and keep the compression inside the combustion chambers.
+	~try to maintain all the cylinders within tolerance.#The honing process does two things. First, it enlarges the cylinder bore to the exact size that is needed to give the specified amount of clearance between the piston and the cylinder wall. Second, it leaves a fine crosshatch pattern of light scratches on the walls of the cylinder that are necessary to retain microscopic beads of oil. This film of oil seals the piston rings to the cylinder walls and keep the compression inside the combustion chambers.
+}
+
+
+//name:TQ1567
+::TQ1567::Once the cylinder bores are at their final sizes the new piston rings need to be checked. This is done by:{
+	=fitting a ring into the newly honed cylinder, squaring it up and measuring the gap between the ring ends with a feeler gauge.#Use a feeler gauge to check that the ring gap is at the specification shown in the repair manual. Some types of rings are called 'file to fit' or 'custom gap' rings.
+	~fitting a ring into the newly honed cylinder, squaring it up and measuring the gap between the ring ends with a dial gauge.#Use a feeler gauge to check that the ring gap is at the specification shown in the repair manual. Some types of rings are called 'file to fit' or 'custom gap' rings.
+	~fitting a ring into the newly honed cylinder and measuring the gap between the ring ends with a ruler.#Use a feeler gauge to check that the ring gap is at the specification shown in the repair manual. Some types of rings are called 'file to fit' or 'custom gap' rings.
+	~fitting a ring into the newly honed cylinder and observing that the gap will not foul in the piston.#Use a feeler gauge to check that the ring gap is at the specification shown in the repair manual. Some types of rings are called 'file to fit' or 'custom gap' rings.
+}
+
+

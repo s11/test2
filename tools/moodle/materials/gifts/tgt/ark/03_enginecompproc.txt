@@ -1,0 +1,54 @@
+'//name:TQ1528
+::TQ1528::Why would you need to make sure the compression tester is the right type for the engine you are testing?{
+	=Diesel (CI) engines operate at much higher compression pressures than gasoline (SI) engines.#After the test, reinstall the spark plugs by hand to prevent cross threading. Make sure the spark plugs thread into the hole 5 complete threads (once they 'start') before using a ratchet, or tension wrench to tighten them.
+	~Different compression testers have different fittings, and it is important to get a tight seal.#After the test, reinstall the spark plugs by hand to prevent cross threading. Make sure the spark plugs thread into the hole 5 complete threads (once they 'start') before using a ratchet, or tension wrench to tighten them.
+	~Some compression testers measure pounds per square inch, some measure kilopascals.#After the test, reinstall the spark plugs by hand to prevent cross threading. Make sure the spark plugs thread into the hole 5 complete threads (once they 'start') before using a ratchet, or tension wrench to tighten them.
+	~The compression tester must be matched to the octane rating of the fuel the engine uses.#After the test, reinstall the spark plugs by hand to prevent cross threading. Make sure the spark plugs thread into the hole 5 complete threads (once they 'start') before using a ratchet, or tension wrench to tighten them.
+}
+
+
+//name:TQ1529
+::TQ1529::What instrument would you use to check engine idle speed?{
+	=Tachometer.#Checking the idle speed can only be done with a tachometer, which measures the engine revolutions per minute (rpm).
+	~Odometer.#Checking the idle speed can only be done with a tachometer, which measures the engine revolutions per minute (rpm).
+	~Multimeter.#Checking the idle speed can only be done with a tachometer, which measures the engine revolutions per minute (rpm).
+	~Idlemeter.#Checking the idle speed can only be done with a tachometer, which measures the engine revolutions per minute (rpm).
+}
+
+
+//name:TQ1530
+::TQ1530::With OBD II, when would you use the scan tool to clear a diagnostic trouble code in the vehicle?{
+	=After the fault has been corrected.#The standard procedure for diagnosing an OBD II vehicle requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~As soon as you have recorded the code.#The standard procedure for diagnosing an OBD II vehicle requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~When you think you have identified the cause of the problem.#The standard procedure for diagnosing an OBD II vehicle requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~As soon as you have verified that the fault exists.#The standard procedure for diagnosing an OBD II vehicle requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+}
+
+
+//name:TQ1531
+::TQ1531::Cam belts are primarily used on vehicles with:{
+	=overhead camshaft.#The number of pulleys driven by the cam belt will differ from manufacturer to manufacturer. A simple OHC fitment will have three pulleys, whereas a complex DOHC 'vee' engine fitment will have 8 pulleys.
+	~vee' configuration engine.#The number of pulleys driven by the cam belt will differ from manufacturer to manufacturer. A simple OHC fitment will have three pulleys, whereas a complex DOHC 'vee' engine fitment will have 8 pulleys.
+	~engine block camshaft.#The number of pulleys driven by the cam belt will differ from manufacturer to manufacturer. A simple OHC fitment will have three pulleys, whereas a complex DOHC 'vee' engine fitment will have 8 pulleys.
+	~eccentric cams.#The number of pulleys driven by the cam belt will differ from manufacturer to manufacturer. A simple OHC fitment will have three pulleys, whereas a complex DOHC 'vee' engine fitment will have 8 pulleys.
+}
+
+
+//name:TQ1532
+::TQ1532::When manually applying tension to a newly fitted belt, what tool would you use?{
+	=A pry bar.#Loosen the adjustment fastener, then wedge the pry bar between the alternator and a strong part of the engine and pull in the direction that will apply tension to the belt. 
+	~A tension guage.#Loosen the adjustment fastener, then wedge the pry bar between the alternator and a strong part of the engine and pull in the direction that will apply tension to the belt. 
+	~A belt tensioner.#Loosen the adjustment fastener, then wedge the pry bar between the alternator and a strong part of the engine and pull in the direction that will apply tension to the belt. 
+	~A pulley clamp.#Loosen the adjustment fastener, then wedge the pry bar between the alternator and a strong part of the engine and pull in the direction that will apply tension to the belt. 
+}
+
+
+//name:TQ1533
+::TQ1533::What happens if a serpentine belt is not squarely aligned in the pulley grooves?{
+	=The belt will be thrown off the pulley wheels.#Serpentine-type belts have a flat profile with a number of grooves running lengthwise along the belt. These grooves are the exact reverse of the grooves in the outer edge of the pulley wheels; they increase the contact surface area, as well as prevent the belt from slipping off the wheel as it rotates.
+	~The belt will wear unevenly.#Serpentine-type belts have a flat profile with a number of grooves running lengthwise along the belt. These grooves are the exact reverse of the grooves in the outer edge of the pulley wheels; they increase the contact surface area, as well as prevent the belt from slipping off the wheel as it rotates.
+	~The pulleys will be pulled out of alignment and vibrate.#Serpentine-type belts have a flat profile with a number of grooves running lengthwise along the belt. These grooves are the exact reverse of the grooves in the outer edge of the pulley wheels; they increase the contact surface area, as well as prevent the belt from slipping off the wheel as it rotates.
+	~The pulley wheels will be very noisy in operation.#Serpentine-type belts have a flat profile with a number of grooves running lengthwise along the belt. These grooves are the exact reverse of the grooves in the outer edge of the pulley wheels; they increase the contact surface area, as well as prevent the belt from slipping off the wheel as it rotates.
+}
+
+

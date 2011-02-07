@@ -1,0 +1,126 @@
+//name:TQ0652
+::TQ0652::Parking brakes are:{
+	=mechanically operated.#Manufacturers still install mechanically activated park brakes.
+	~hydraulically operated.#Manufacturers still install mechanically activated park brakes.
+	~both mechanically and hydraulically operated.#Manufacturers still install mechanically activated park brakes.
+	~electrically operated.#Manufacturers still install mechanically activated park brakes.
+}
+
+
+//name:TQ0653
+::TQ0653::Air operated brakes are predominantly used on:{
+	=heavy commercial vehicles.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+	~light commercial vehicles.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+	~four wheel drive vehicles.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+	~passenger cars towing a trailer.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+}
+
+
+//name:TQ0654
+::TQ0654::Heavy goods carrying vehicles require extra braking in situations where friction brakes tend to absorb greater heat. Some manufacturers have overcome this situation by:{
+	=fitting an exhaust brake.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+	~increasing the applied air pressure.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+	~increasing the size of the brake chambers.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+	~fitting cooling fins to the brake stations.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+}
+
+
+//name:TQ0655
+::TQ0655::One benefit of using an exhaust or engine brake is:{
+	=increased brake life.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+	~increased friction-brake temperatures.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+	~decreased brake life.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+	~lower fuel consumption.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+}
+
+
+//name:TQ0656
+::TQ0656::All passenger vehicles must have at least:{
+	=two independent braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~one independent braking system.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~two combined braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~three independent braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+}
+
+
+//name:TQ0657
+::TQ0657::A vehicle is kept in motion by:{
+	=kinetic energy.#Kinetic energy is the energy of motion.
+	~potential energy.#Kinetic energy is the energy of motion.
+	~friction.#Kinetic energy is the energy of motion.
+	~retardation energy.#Kinetic energy is the energy of motion.
+}
+
+
+//name:TQ0658
+::TQ0658::Air brakes are normally used on heavy vehicles because: {
+	=the compressed air can provide the heavy braking forces needed.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+	~the compressed airflow keeps the braking surfaces cool.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+	~the compressed air keeps dust and dirt away from truck brakes.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+	~the compressed air is safer because it is not flammable.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+}
+
+
+//name:TQ0659
+::TQ0659::Which of these statements is true?{
+	=Disc brakes need more force to operate them than drum brakes.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+	~Drum brake shoes press inwards against a rotating disc.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+	~ABS brakes lock the  wheels to prevent them from turning under heavy braking loads.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+	~Disc brake linings expand against the inside of the wheel.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+}
+
+
+//name:TQ0660
+::TQ0660::A braking system that uses wheel speed sensors and an electronic control unit is called:{
+	=an anti-lock brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+	~a servo-assisted drum brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+	~an electronic disc brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+	~an automatic emergency brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+}
+
+
+//name:TQ0661
+::TQ0661::The electrically-activated brakes in a trailer are usually which type of brake?{
+	=Drum-type friction brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+	~Disc-type hydraulic brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+	~Anti-lock brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+	~Electronic transmission brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+}
+
+
+//name:TQ0662
+::TQ0662::How do trailer brakes cope with the varying load weights that might be carried?{
+	=There is a driver controllable manual overide that can be adjusted to suit the load.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+	~The brakes are self-adjusting, based on mass sensors in the suspension.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+	~Trailer brakes apply consistent pressure across the minimum and maximum load range the trailer is designed to carry.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+	~Heavy loads cause a secondary friction brake to be automatically operated as well.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+}
+
+
+//name:TQ0663
+::TQ0663::Why is engine braking also known as compression braking?{
+	=It uses the resistance of the engine during the  compression stroke to slow momentum.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+	~It uses engine power to compress the hydraulic fluid in the braking system and increase brake force.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+	~It uses a compressed air brake booster connected to an engine-driven compressor.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+	~Because it can only be used with diesel, or compression ignition engines.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+}
+
+
+//name:TQ0664
+::TQ0664::Push-starting a car uses the same basic principle as:{
+	=Compression braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+	~Electronic braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+	~Anti-lock braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+	~Regenerative braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+}
+
+
+//name:TQ0665
+::TQ0665::Which of these statements is true?{
+	=Some parking brakes are connected to the transmisssion system not the wheels.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Parking brakes always operate on the rear wheels.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Hybrid vehicles don't have a parking brake at all.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Some vehicles have a transmission brake instead of a parking brake.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+}
+
+

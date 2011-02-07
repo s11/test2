@@ -1,0 +1,15 @@
+.box
+  = resource.terms_and_conditions.content
+
+- form_for(resource) do |f|
+  .notice
+    = check_box_tag :accepted_flag
+    = label_tag :accepted_flag, 'Yes, I agree to the above Terms & Conditions'
+    %br
+    = f.submit "Submit Acceptance", :style => "display: none"
+
+- content_for(:onload) do
+  :plain
+    $('#accepted_flag').click(function() {
+      $('#terms_and_conditions_acceptance_submit').toggle($(this).attr('checked'));
+    });

@@ -1,0 +1,27 @@
+//name:TQ1520
+::TQ1520::What assists in controlling lateral movement of the crankshaft?{
+	=Crankshaft thrust bearing flanges.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+	~Main bearing shells.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+	~Big end bearings.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+	~Crankshaft lateral bearings.#One main bearing has thrust faces which accept and limit the end movement of the crankshaft. These can be in the form of flanges that are part of the bearing.
+}
+
+
+//name:TQ1525
+::TQ1525::Why does a vehicle with automatic transmission use a light drive plate instead of a flywheel?{
+	=The torque converter adds extra weight needed.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+	~Automatic transmissions absorb engine vibration.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+	~Automatic transmission engines idle faster.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+	~Automatics are not as powerful.#On a car with automatic transmission, the flywheel is usually called a drive or flex plate. The drive plate is lighter than a conventional flywheel because of the weight provided by the torque converter.
+}
+
+
+//name:TQ1527
+::TQ1527::What holds the spring-loaded valve stems in place?{
+	=Valve guides.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+	~Valve sleeves.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+	~Stem seats.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+	~Stem tubes.#The valve is held in place by a valve guide, with a spring on its stem. A rocker arm is attached to a stationary shaft that allows the arm to pivot. The rocker arm compresses and releases the valve spring, so that the valve opens and closes.
+}
+
+

@@ -1,0 +1,54 @@
+//name:TQ0484
+::TQ0484::Ball joints are mounted at the outer ends of the control arms and:{
+	=tie-rod ends.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+	~Pitman arms.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+	~swivel joints.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+	~steering track rods.#As the suspension deflects, they let the control arms move up and down, and let the wheel and hub assembly turn for steering.
+}
+
+
+//name:TQ0485
+::TQ0485::In a steering box arrangement, the component that connects the steering gear to the steering linkage is the:{
+	=Pitman arm.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+	~tie rod.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+	~worm shaft.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+	~center link.#When the linkage is behind it is protected by the cross-member from possible damage and the position of the steering box reduces the length of the steering column. Steering wheel movement is relayed through the steering gear and Pitman arm to a center track rod. The center track rod is connected to the Pitman arm at one end and to a steering idler arm at the other end.
+}
+
+
+//name:TQ0486
+::TQ0486::The center link is supported on one end by the Pitman arm and on the other end by the:{
+	=idler arm.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+	~ball joint.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+	~steering knuckle.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+	~steering gear.#The idler arm assembly is bolted to the vehicle frame and the idler arm is positioned parallel to the Pitman arm. It can then relay the steering box movement accurately to the opposite side.
+}
+
+
+//name:TQ0487
+::TQ0487::The steering system center link is supported by the:{
+	=idler arm and Pitman arm.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+	~idler arm and steering arm.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+	~steering arm and Pitman arm.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+	~Pitman arm and linkage booster.#The idler arm is attached between the opposite side of the center link from the Pitman arm and the vehicle's frame to hold the center link at the proper height.
+}
+
+
+//name:TQ0488
+::TQ0488::The upper end of the idler arm is bolted to:{
+	=the vehicle frame.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+	~the steering gear.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+	~the steering spindle.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+	~the suspension mountings.#The idler arm acts as a pivot for the steering linkage and as such must be bolted to the vehicle's frame.
+}
+
+
+//name:TQ0489
+::TQ0489::A voided bush:{
+	=allows the unit it supports to comply with a controlled amount of movement in the direction of the void.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+	~is used in steering components because it is lighter than a non-voided bush.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+	~is used in spring shackles because it is stronger than a non-vioded bush.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+	~can be used as a replacement to a non-voided bush.#In control arm applications the rubber bush may be molded with a voided section. This is known as a compliance bush because it allows the unit or component to comply with a controlled amount of movement in the direction of the void.
+}
+
+

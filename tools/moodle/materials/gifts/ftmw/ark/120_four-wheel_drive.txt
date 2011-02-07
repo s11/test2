@@ -1,0 +1,91 @@
+// question: 31121  name: HAQ2454 
+::HAQ2454::[html]Each propeller shaft has a universal joint at both ends, to transmit the drive through a varying angle, and a sliding joint incorporated in the shaft between them, to accommodate changes in ................. length.{
+	=%100%shaft#
+}
+
+
+// question: 31122  name: HAQ2455 
+::HAQ2455::[html]A constant velocity joint in each shaft allows for steering movement while continuing to transmit the .................{
+	=%100%drive#
+}
+
+
+// question: 31123  name: HAQ2456 
+::HAQ2456::[html]The mass of the vehicle, and all forces from forward motion and side thrusts, are transferred from the wheel directly to the axle ................., through the tapered roller bearings.{
+	=%100%housing#
+}
+
+
+// question: 31124  name: HAQ2457 
+::HAQ2457::[html]The final gear ................. reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.{
+	=%100%ratio#
+}
+
+
+// question: 31125  name: HAQ2458 
+::HAQ2458::[html]The crown wheel is bolted to a ................. case, and drive is transmitted through the case and differential gears and axle shafts to the road wheels.{
+	=%100%differential#
+}
+
+
+// question: 31126  name: HAQ2459 
+::HAQ2459::[html]Taper roller bearings support the differential case and the ................. in the carrier.{
+	=%100%pinion#
+}
+
+
+// question: 31127  name: HAQ2460 
+::HAQ2460::[html]Drive is transmitted from a helical gear splined to the output shaft, through an idler, to the output shaft pinions. They are free to rotate on needle roller bearings on the rear section of the ................. shaft.{
+	=%100%output#
+}
+
+
+// question: 31128  name: HAQ2461 
+::HAQ2461::[html]When two-wheel drive, high range, is selected, the engagement sleeve engages the dog teeth of the smaller output pinion. This locks the ................. to the shaft and provides a high-output speed range.{
+	=%100%pinion#
+}
+
+
+// question: 31129  name: HAQ2462 
+::HAQ2462::[html]Drive is transmitted from the ................. output to the large idler pinion, through the smaller idler pinion, to the larger. locked, output pinion.{
+	=%100%transmission#
+}
+
+
+// question: 31130  name: HAQ2463 
+::HAQ2463::[html]When the vehicle is using a two-wheel drive range, the front axle drive shafts, final drive assembly and front propeller shaft all turn with the road wheels, but do not transmit any .................{
+	=%100%drive#
+}
+
+
+// question: 31131  name: HAQ2464 
+::HAQ2464::[html]When 'lock' is selected on this manually-engaged type, it acts on this sleeve. It has external splines into the free-wheel hub body, and ................. splines to engage a hub on the axle shaft.{
+	=%100%internal#
+}
+
+
+// question: 31132  name: HAQ2465 
+::HAQ2465::[html]In a four-wheel drive range, the drive is transmitted from the axle shaft, through the ................., to the hub and road wheel.{
+	=%100%clutch#
+}
+
+
+// question: 31133  name: HAQ2466 
+::HAQ2466::[html]The differential gears allow the rear wheels to rotate at different ................. when the vehicle is turning, while continuing to transmit an equal turning effort to each wheel.{
+	=%100%speeds#
+}
+
+
+// question: 31134  name: HAQ2467 
+::HAQ2467::[html]In a turn, side-swiveling of the front wheels for steering makes the front wheels travel a ................. distance than the rear wheels.{
+	=%100%greater#
+}
+
+
+// question: 31135  name: HAQ2468 
+::HAQ2468::[html]Since front and rear ................. shafts are locked together at the transfer case, the difference in speed cannot be absorbed in the transmission, and the transmission drive line can be subjected to torsional stress.{
+	=%100%propeller#
+}
+
+
+

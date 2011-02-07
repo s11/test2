@@ -1,0 +1,88 @@
+//name:TQ0283
+::TQ0283::The intake manifold on a carbureted engine carries:{
+	=air and fuel.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+	~fuel only.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+	~air only.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+	~fuel and water.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+}
+
+
+//name:TQ0284
+::TQ0284::Air flow through the venturi of a carburetor results in:  {
+	=increased air speed and lower pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+	~reduced air speed and pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+	~increased air speed and pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+	~reduced air speed and higher pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+}
+
+
+//name:TQ0285
+::TQ0285::Breaking up liquid gasoline into fine droplets by spraying it is called:{
+	=atomization.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+	~vaporization.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+	~ionization.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+	~venturi effect.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+}
+
+
+//name:TQ0286
+::TQ0286::In a carburetor fuel system, the fuel in the float chamber is acted on by:{
+	=atmospheric pressure.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+	~fuel pump pressure.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+	~fuel line pressure.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+	~gravity.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+}
+
+
+//name:TQ0287
+::TQ0287::What is the correct ratio of air to gasoline fuel by volume?{
+	=11000:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+	~15:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+	~14.7:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+	~8:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+}
+
+
+//name:TQ0288
+::TQ0288::By volume, how much air is needed to consume 1 liter of gasoline?{
+	=11,000 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~11 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~110 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~1,100 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~110,000 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+}
+
+
+//name:TQ0289
+::TQ0289::By weight, how much filtered air is needed by an average gasoline engine to consume one kilogram or 2.2 lbs of gasoline?{
+	=15 kgs or 33 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+	~5 kgs or 11 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+	~25 kgs or 55 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+	~30 kgs or 66 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+}
+
+
+//name:TQ0290
+::TQ0290::In a carbureted fuel system air and fuel are mixed in the correct ratio for all operating conditions by the:{
+	=carburetor.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+	~fuel filter.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+	~fuel pump.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+	~manifold.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+}
+
+
+//name:TQ0272
+::TQ0272::Why is gasoline or petrol an ideal automotive fuel?{
+	=Because it easily mixes with air to form vapor, and is a volatile fuel.#As gasoline or petrol becomes more scarce new methods of reducing fuel consumption or the development of alternative fuels will need to occur. To be successful they will need to be as convenient as petroleum products.
+	~Because it easily mixes with air to form vapor, and is a non-volatile fuel.#As gasoline or petrol becomes more scarce new methods of reducing fuel consumption or the development of alternative fuels will need to occur. To be successful they will need to be as convenient as petroleum products.
+	~Because it doesn't readily mix with air to form vapor, and is a volatile fuel.#As gasoline or petrol becomes more scarce new methods of reducing fuel consumption or the development of alternative fuels will need to occur. To be successful they will need to be as convenient as petroleum products.
+}
+
+
+//name:TQ0342
+::TQ0342::The ignition quality of diesel fuel is determined by the:{
+	=cetane number.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+	~octane number.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+	~octane rating.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+	~compression rating.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+}

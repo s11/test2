@@ -1,0 +1,2118 @@
+//name:TQ0944
+::TQ0944::A material with more free electrons is commonly referred to as:{
+	=a conductor.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+	~a resistor.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+	~an insulator.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+	~a semi-conductor.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+}
+
+
+//name:TQ0945
+::TQ0945::All matter is made up of:{
+	=atoms.#An atom is the smallest component of an element having the chemical properties of that element.
+	~electrons.#An atom is the smallest component of an element having the chemical properties of that element.
+	~protons.#An atom is the smallest component of an element having the chemical properties of that element.
+	~nucleus.#An atom is the smallest component of an element having the chemical properties of that element.
+}
+
+
+//name:TQ0946
+::TQ0946::When an atom has an equal number of protons and electrons it is said to:{
+	=have no overall charge.#This is because the positive and negative charges cancel each other.
+	~have minimal charge.#This is because the positive and negative charges cancel each other.
+	~be overcharged.#This is because the positive and negative charges cancel each other.
+	~be undercharged.#This is because the positive and negative charges cancel each other.
+}
+
+
+//name:TQ0947
+::TQ0947::An excess of electrons will give the atom a:{
+	=negative charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+	~positive charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+	~neutral charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+	~atomic charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+}
+
+
+//name:TQ0948
+::TQ0948::Conventional current flow is from:{
+	=positive to negative.#This is an old theory of current flow. Modern theory uses electron current flow.
+	~AC to DC.#This is an old theory of current flow. Modern theory uses electron current flow.
+	~DC to AC.#This is an old theory of current flow. Modern theory uses electron current flow.
+	~negative to positive.#This is an old theory of current flow. Modern theory uses electron current flow.
+}
+
+
+//name:TQ0949
+::TQ0949::For electrons to move in a circuit they need a complete pathway and:{
+	=a force to make them move.#The force is called Electromotive Force (EMF).
+	~a rise in temperature.#The force is called Electromotive Force (EMF).
+	~insulators to hold them in.#The force is called Electromotive Force (EMF).
+	~a switch.#The force is called Electromotive Force (EMF).
+}
+
+
+//name:TQ0950
+::TQ0950::Two factors affect the strength of current flowing in a circuit. They are:{
+	=EMF and resistance.#EMF is measured in volts.
+	~resistance and protons.#EMF is measured in volts.
+	~EMF and protons.#EMF is measured in volts.
+	~EMF and neutrons.#EMF is measured in volts.
+}
+
+
+//name:TQ0951
+::TQ0951::Electron current flow is from:{
+	=negative to positive.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+	~AC to DC.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+	~DC to AC.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+	~positive to negative.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+}
+
+
+//name:TQ0952
+::TQ0952::By using the vehicle chassis as a ground, the weight of the vehicle can be reduced.{
+	=TRUE#Since the chassis is made of metal and a redundant ground wire is also made of metal, using the chassis to ground a circuit removes weight and complexity within the automotive electrical system.
+	~FALSE#Since the chassis is made of metal, and a redundant ground wire is also made of metal, using the chassis to ground a circuit removes weight and complexity within the automotive electrical system.
+}
+
+
+//name:TQ0953
+::TQ0953::Technician A says semi conductors are made from 'N' and 'P' material.  Technician B says the electrical resistance of semi conductors is higher than that of an insulator.  Who is correct?{
+	=Technician A#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+	~Technician B#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+	~Both Technician A & Technician B.#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+	~Neither Technician A or Technician B.#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+}
+
+
+//name:TQ0954
+::TQ0954::When the 'P' region of a diode is connected to a negative pole of a battery, and the 'N' region to a positive pole, the negative pole:{
+	=the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+	~the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+	~the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+	~the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+}
+
+
+//name:TQ0955
+::TQ0955::Find the value of R if the voltage applied to a circuit is 14 V and the current flow is 2 A.{
+	=7 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+	~14 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+	~12 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+	~28 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+}
+
+
+//name:TQ0956
+::TQ0956::Find the power output of a circuit if the current is 2 A and the resistance is 7 Ohms.{
+	=28 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+	~14 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+	~9 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+	~98 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+}
+
+
+//name:TQ0957
+::TQ0957::Electrochemical energy in a vehicle is produced by the:{
+	=battery.#The battery in a vehicle is a source of Electromotive Force (EMF).
+	~thermocouple.#The battery in a vehicle is a source of Electromotive Force (EMF).
+	~coil pack.#The battery in a vehicle is a source of Electromotive Force (EMF).
+	~alternator.#The battery in a vehicle is a source of Electromotive Force (EMF).
+}
+
+
+//name:TQ0958
+::TQ0958::What is the popular name for an electrochemical cell?{
+	=A battery.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+	~A galvanometer.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+	~A fuel cell.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+	~A catalytic cell.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+}
+
+
+//name:TQ0959
+::TQ0959::Static electricity can be induced by rubbing together two:{
+	=insulators.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+	~conductors.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+	~resistors.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+	~semiconductors.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+}
+
+
+//name:TQ0960
+::TQ0960::Photo-voltaic cells generate electricity from:{
+	=light.#A solar cell is an example of a photo-voltaic cell.
+	~magnetism.#A solar cell is an example of a photo-voltaic cell.
+	~heat.#A solar cell is an example of a photo-voltaic cell.
+	~pressure.#A solar cell is an example of a photo-voltaic cell.
+}
+
+
+//name:TQ0961
+::TQ0961::A piezo-electric device generates electricity when:{
+	=pressure is applied.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+	~it's heated.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+	~light strikes it.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+	~it's in a magnetic field.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+}
+
+
+//name:TQ0962
+::TQ0962::Technician A says that in an electromagnetic device electricity is produced by heat. Technician B says that in a piezo-electric device electricity is produced by pressure. Who is correct?{
+	~Technician A.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+	=Technician B.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+	~Both Technician A & Technician B.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+	~Neither Technician A or Technician B.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+}
+
+
+//name:TQ0963
+::TQ0963::A thermocouple produces electrical energy when it is:{
+	=heated.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+	~cooled.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+	~rubbed.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+	~magnetized.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+}
+
+
+//name:TQ0964
+::TQ0964::Technician A says moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Technician B says that alternators produce alternating current.  Who is correct?{
+	~Technician A.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+	~Technician B.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+	=Both Technician A & Technician B.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+	~Neither Technician A or Technician B.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+}
+
+
+//name:TQ0965
+::TQ0965::Which of the following statements is correct?{
+	=A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+	~A relay uses a magnetic field created by a small current to control a larger current whereas a solenoid uses a magnetic field created by a small voltage to control a large voltage.#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+	~A relay uses the magnetic field created by a large current to control a small current and a solenoid uses electromagnetic induction to create lateral movement#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+	~A solenoid uses electromagnetic induction to operate a switch whereas a relay uses electromagnetic induction to create lateral movement.#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+}
+
+
+//name:TQ0966
+::TQ0966::A positive ion is created during electrolysis by:{
+	=removing electrons.#A lack or removal of electrons creates a positive charge.
+	~adding electrons.#A lack or removal of electrons creates a positive charge.
+	~adding protons.#A lack or removal of electrons creates a positive charge.
+	~removing protons.#A lack or removal of electrons creates a positive charge.
+}
+
+
+//name:TQ0967
+::TQ0967::By removing electrons during a chemical reaction:{
+	=a positive ion is created.#A lack or removal of electrons creates a positive charge.
+	~electrons are added.#A lack or removal of electrons creates a positive charge.
+	~protons are added.#A lack or removal of electrons creates a positive charge.
+	~protons are removed.#A lack or removal of electrons creates a positive charge.
+}
+
+
+//name:TQ0968
+::TQ0968::The current flow in a lead acid battery flows in one direction only. What is this called?{
+	=Direct Current or DC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+	~Alternating Current or AC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+	~Positive Current or PC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+	~Negative Current or NC.#In a lead acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a circuit. It flows in one direction only so it is called direct current, or DC.
+}
+
+
+//name:TQ0969
+::TQ0969::Resistance is measured in:{
+	=Ohms.#Electrical resistance is the measure of how much an object resists the passage of an electrical current. Resistance is measured in Ohms.
+	~Volts.#Electrical resistance is the measure of how much an object resists the passage of an electrical current. Resistance is measured in Ohms.
+	~Watts.#Electrical resistance is the measure of how much an object resists the passage of an electrical current. Resistance is measured in Ohms.
+	~Current.#Electrical resistance is the measure of how much an object resists the passage of an electrical current. Resistance is measured in Ohms.
+}
+
+
+//name:TQ0970
+::TQ0970::What is an example of the heating effects of electricity?{
+	=All of these.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+	~A headlight bulb.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+	~A rear window demister.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+	~Circuit protection from excessive current flow.#As current flows through motor vehicle circuits, most of the electrical energy is transformed into other kinds of energy.
+}
+
+
+//name:TQ0971
+::TQ0971::Electricity can have a magnetic effect.{
+	=TRUE#Current passed through a coil of wire creates a magnetic field. Turning the current on and off can activate a mechanical relay, or create the rotary motion of an electric motor, such as a starter motor.
+	~FALSE#Current passed through a coil of wire creates a magnetic field. Turning the current on and off can activate a mechanical relay, or create the rotary motion of an electric motor, such as a starter motor.
+}
+
+
+//name:TQ0972
+::TQ0972::An ammeter must always be connected:{
+	=in series with the circuit.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+	~in parallel to the circuit.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+	~across the battery terminals.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+	~across the earth.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+}
+
+
+//name:TQ0973
+::TQ0973::A technician connects a voltmeter in parallel in a circuit to measure a load. Technician A says this will provide a reading of the potential difference in volts. Technician B says that this will also show the amperage flowing in the circuit. Who is correct?{
+	=Technician A.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+	~Technician B.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+	~Both Technician A & Technician B.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+	~Neither Technician A or Technician B.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+}
+
+
+//name:TQ0974
+::TQ0974::Technician A says that to test a component for resistance a technician must calibrate the ammeter. Technician B says that to test a component for resistance a technician must check the battery charge. Who is correct?{
+	~Technician A.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+	~Technician B.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+	~Both Technician A & Technician B.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+	=Neither Technician A or Technician B.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+}
+
+
+//name:TQ0975
+::TQ0975::Technician A says that the meter that forms a parallel circuit when connected is the ammeter. Technician B says that the meter that forms a series circuit when connected is the ohmmeter. Who is correct?{
+	~Technician A.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+	~Technician B.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+	~Both Technician A & Technician B.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+	=Neither Technician A or Technician B.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+}
+
+
+//name:TQ0976
+::TQ0976::Technician A says that the meter that is connected in parallel is the ohmmeter. Technician B says that the meter that is connected in series is the ammeter. Who is correct?{
+	~Technician A.#Technician B is correct because the Ohmmeter is used to measure resistance.
+	=Technician B.#Technician B is correct because the Ohmmeter is used to measure resistance.
+	~Both Technician A & Technician B.#Technician B is correct because the Ohmmeter is used to measure resistance.
+	~Neither Technician A or Technician B.#Technician B is correct because the Ohmmeter is used to measure resistance.
+}
+
+
+//name:TQ0977
+::TQ0977::The gauge used to measure current is known as:{
+	=an ammeter and it must be connected in series with the circuit.#Ammeters measure current flow.
+	~an ammeter and it must be connected in parallel to the circuit.#Ammeters measure current flow.
+	~a voltmeter and it must be connected across the battery terminals.#Ammeters measure current flow.
+	~a current meter.#Ammeters measure current flow.
+}
+
+
+//name:TQ0978
+::TQ0978::A fully charged battery that has been disconnected has the potential to do work so it is referred to as a:{
+	=source of energy.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~source of current.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~source of resistance.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~source of electrons#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+}
+
+
+//name:TQ0979
+::TQ0979::Select the correct word to complete the statement. The power in Watts being consumed by a lamp is found by taking the voltage to the lamp and __________ the current going through it.{
+	=multiplying it by#The formula is written V x I 
+	= P.
+	~dividing it by#The formula is written V x I 
+	= P.
+	~subtracting it from#The formula is written V x I 
+	= P.
+	~adding it to#The formula is written V x I 
+	= P.
+}
+
+
+//name:TQ0980
+::TQ0980::'Work' is only achieved when energy is:{
+	=released.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+	~stored.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+	~captured.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+	~harnessed.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+}
+
+
+//name:TQ0981
+::TQ0981::'Energy' has the potential to:{
+	=do work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+	~infer work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+	~store work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+	~release work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+}
+
+
+//name:TQ0982
+::TQ0982::The formula for calculating power is:{
+	=P &#61; V x I#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+	~P &#61; R x I#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+	~P &#61; V x R#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+	~P &#61; E x V#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+}
+
+
+//name:TQ0983
+::TQ0983::The unit of 'power' is the:{
+	=Watt.#Power is a measure of the rate at which an amount of work is done.
+	~Ampere.#Power is a measure of the rate at which an amount of work is done.
+	~Ohm.#Power is a measure of the rate at which an amount of work is done.
+	~Volt.#Power is a measure of the rate at which an amount of work is done.
+}
+
+
+//name:TQ0984
+::TQ0984::Watts are calculated from the formula:{
+	=voltage times current.#The formula is written V x I 
+	= P.
+	~current divided by voltage.#The formula is written V x I 
+	= P.
+	~the reciprocal of voltage times current.#The formula is written V x I 
+	= P.
+	~voltage divided by current.#The formula is written V x I 
+	= P.
+}
+
+
+//name:TQ0985
+::TQ0985::'Work' is measured as the amount of:{
+	=released energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+	~stored energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+	~captured energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+	~harnessed energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+}
+
+
+//name:TQ0986
+::TQ0986::An automotive battery is best known to be a:{
+	=source of energy.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~Source of current.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~Source of resistance.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~Source of electrons.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+}
+
+
+//name:TQ0987
+::TQ0987::Optical fiber has several advantages over other technology. Why is this?{
+	=It is less expensive and thinner; it can carry much more data than copper cables; it has less signal degradation over length; and it has less interference. Optical fiber is also non-flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+	~It is less expensive and thinner. However, it carries much less data than copper cables and has more signal degradation over length, but with less interference. Optical fiber is also non-flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+	~It is more expensive but thicker; it can carry much more data than copper cables; it has less signal degradation over length; and it has less interference. Optical fiber is also flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+	~It is less expensive and thinner; it can carry much more data than copper cables; but it has more signal degradation over length; and more interference. Optical fiber is also non-flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+}
+
+
+//name:TQ0988
+::TQ0988::According to Ohm's Law current equals what?{
+	=Voltage divided by resistance.#The formula is written V/R &#61; I.
+	~Resistance divided by voltage.#The formula is written V/R &#61; I.
+	~The reciprocal of voltage times resistance.#The formula is written V/R &#61; I.
+	~Voltage times resistance.#The formula is written V/R &#61; I.
+}
+
+
+//name:TQ0989
+::TQ0989::Technician A says that in a 24 volt circuit that draws 6 amps the resistance is 0.5 ohms. Technician B says that in a 12 volt circuit that draws 6 amps the resistance is 2 ohms. Who is correct?{
+	~Technician A.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+	=Technician B.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+	~Both Technician A & Technician B.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+	~Neither Technician A or Technician B.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+}
+
+
+//name:TQ0990
+::TQ0990::Technician A says that a circuit has 3 Ohms of resistance. As the system operates at 12 volts the amperage must be 4 amps. Technician B says that a circuit has 3 Ohms of resistance. As the system operates at 24 volts the amperage must be 12 amps. Who is correct?{
+	=Technician A.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+	~Technician B.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+	~Both Technician A & Technician B.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+	~Neither Technician A or Technician B.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+}
+
+
+//name:TQ0991
+::TQ0991::When more branches are added to a parallel circuit the overall circuit resistance:{
+	=decreases.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+	~depends on current flow.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+	~increases.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+	~stays the same.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+}
+
+
+//name:TQ0992
+::TQ0992::Current in a series circuit:{
+	=is the same in all parts of the circuit.#A break in any part of the series circuit stops current flow in the whole circuit.
+	~is always Direct Current.#A break in any part of the series circuit stops current flow in the whole circuit.
+	~varies irregularly from point to point.#A break in any part of the series circuit stops current flow in the whole circuit.
+	~steadily declines around the circuit.#A break in any part of the series circuit stops current flow in the whole circuit.
+}
+
+
+//name:TQ0993
+::TQ0993::Putting a resistor into a circuit will cause:{
+	=a drop in voltage across the resistor.#The voltage drop creates a potential difference in the circuit.
+	~a rise in voltage across the resistor.#The voltage drop creates a potential difference in the circuit.
+}
+
+
+//name:TQ0994
+::TQ0994::An example of a series-parallel circuit in a vehicle is the:{
+	=panel lights.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+	~headlights.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+	~indicators.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+	~trailer lights.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+}
+
+
+//name:TQ0995
+::TQ0995::Technician A says when the resistances in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  Technician B says all components in a parallel circuit are connected directly to the voltage supply. Who is correct?{
+	~Technician A#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+	~Technician B.#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+	=Both Technician A & Technician B.#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+	~Neither Technician A or Technician B.#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+}
+
+
+//name:TQ0996
+::TQ0996::Which of the following statements about cables and resistance is correct?{
+	=The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+	~The longer the cable, the lower the resistance and the smaller the diameter, the higher the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+	~The longer the cable, the higher the resistance and the smaller the diameter, the lower the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+	~The longer the cable, the lower the resistance and the smaller the diameter, the lower the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+}
+
+
+//name:TQ0997
+::TQ0997::Technician A says CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Technician B says data, such as vehicle speed, engine temperature, cannot be shared, thus increasing the number of sensors.{
+	=Technician A.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+	~Technician B.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+	~Both Technician A & Technician B.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+	~Neither Technician A or Technician B.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+}
+
+
+//name:TQ0998
+::TQ0998::To conduct a 'continuity' test with a DVOM circuit power is:{
+	=off#If the circuit power is not disconnected then circuit voltage will disrupt the reading or damage the meter.
+	~on#If the circuit power is not disconnected then circuit voltage will disrupt the reading or damage the meter.
+}
+
+
+//name:TQ0999
+::TQ0999::When using a non-powered test lamp the clamp should be attached to:{
+	=a suitable earth close to the component to be tested.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+	~a suitable power supply close to the component to be tested.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+	~a suitable earth as far from the component to be tested as possible.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+	~a suitable power supply as far away from the component to be tested as possible.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+}
+
+
+//name:TQ1000
+::TQ1000::If the bulb of an incandescent lead lamp breaks:{
+	=the exposed filament connections can pass electric current to anything that touches them.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+	~the exposed filament connections can pass hydraulic current to anything that touches them.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+	~the exposed filament connections will melt.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+	~the exposed filament connections will repair themselves.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+}
+
+
+//name:TQ1001
+::TQ1001::When checking continuity with a DVOM:{
+	=the power supplied to the circuit during operation MUST be switched OFF.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+	~the power supplied to the circuit during operation MUST be switched ON.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+	~the reading will be given on Volts.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+	~the reading will be given in Amperes.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+}
+
+
+//name:TQ1002
+::TQ1002::When using a DVOM to test voltage:{
+	=insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+	~insert the red probe lead into the 'common' input port, and the black probe lead into the 'Volt/Ohms' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+	~insert the black probe lead into the 'common' input port, and the red probe lead into the 'Amps' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+	~insert the red probe lead into the 'common' input port, and the black probe lead into the 'Amps' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+}
+
+
+//name:TQ1003
+::TQ1003::How is a capacitor discharged?{
+	=When the circuit is closed between its terminals.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When the circuit is opened between its terminals.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When both surfaces are positively charged.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+	~When both surfaces are negatively charged.#When a circuit is closed between its terminals, the capacitor releases charge. It is then said to be discharged.
+}
+
+
+//name:TQ1004
+::TQ1004::The term 'insulator' refers to a material that:{
+	=will not readily allow current to flow through it.#A good insulator has no free electrons. The electrons are strongly bound to the atom and do not stray from the electron rings.
+	~Has a low resistance factor.#A good insulator has no free electrons. The electrons are strongly bound to the atom and do not stray from the electron rings.
+}
+
+
+//name:TQ1005
+::TQ1005::Fuses prevent circuit damage by:{
+	=stopping excessive current flow.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~reducing wiring length.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~limiting voltage increases.#The heating effect of excessive current flow through a fuse causes it to blow.
+	~decreasing circuit resistance.#The heating effect of excessive current flow through a fuse causes it to blow.
+}
+
+
+//name:TQ1006
+::TQ1006::By switching a small current in the relay, a set of contacts controls:{
+	=a larger current.#Transistors can also be used to perform this function.
+	~a smaller current.#Transistors can also be used to perform this function.
+	~no current.#Transistors can also be used to perform this function.
+	~temperature.#Transistors can also be used to perform this function.
+}
+
+
+//name:TQ1007
+::TQ1007::What is the most common automotive conductor material?{
+	=Copper.#Copper is a better conductor then aluminum.
+	~Aluminum.#Copper is a better conductor then aluminum.
+	~Carbon impregnated fiberglass or linen.#Copper is a better conductor then aluminum.
+}
+
+
+//name:TQ1008
+::TQ1008::Interference is often referred to as:{
+	=noise.#Shielding is used in wiring that is susceptible to interference.
+	~slip.#Shielding is used in wiring that is susceptible to interference.
+	~crackle.#Shielding is used in wiring that is susceptible to interference.
+	~pop.#Shielding is used in wiring that is susceptible to interference.
+}
+
+
+//name:TQ1009
+::TQ1009::If a wire is described as being metric size of 8.0 it is:{
+	=8.0mm cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~8.0cm cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~1/4 inch cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+	~0.8 inches cross sectional area.#There are two scales used for measuring wire sizes - Metric and AWG
+}
+
+
+//name:TQ1010
+::TQ1010::What AWG wire will be required to carry 20 Amperes for 6 metres?{
+	=12#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~14#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~10#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+	~16#As wire length increases, so does resistance. The greater the length of wire, the larger the cross sectional area needs to be.
+}
+
+
+//name:TQ1011
+::TQ1011::The purpose of the ballast resistor is to:{
+	=drop the nominal battery voltage to approx half its value for ignition coil operation.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation.
+	~increase the nominal battery voltage to approx double for ignition coil operation.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation
+	~maintain exactly 12V for ignition coil operation.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation
+	~connect the ignition switch to the negative side of the ignition coil.#The ballast resistor is used to reduce the voltage to the ignition coil for stabilised operation
+}
+
+
+//name:TQ1012
+::TQ1012::The type of solder that incorporates the flux is referred to as:{
+	=rosin cored solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+	~cored solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+	~flux cored solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+	~tinning solder.#A common type of solder is rosin cored solder, however solder may contain different flux agents.  Therefore flux solder could contain any type of flux.
+}
+
+
+//name:TQ1013
+::TQ1013::Technician A says that solder typically used in automotive electrical applications is 40% Tin and 60% lead.  Technician B says a better solder joint is achieved if the wires are not twisted before placing them through the terminal.  Who is correct?{
+	~Technician A.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+	=Technician B.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+	~Both Technician A & Technician B.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+	~Neither Technician A or Technician B.#Technician B is correct. Solder typically used in automotive electrical applications is 60% Tin and 40% Lead.  A better solder joint is achieved if the wires are not twisted before placing them through the terminal.
+}
+
+
+//name:TQ1014
+::TQ1014::Technician A says that removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Technician B says removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.  Who is correct?{
+	~Technician A.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+	~Technician B.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+	=Both Technician A & Technician B.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+	~Neither Technician A or Technician B.#Both Technican A and Technician B are correct. Removing too much insulation from a wire can also remove wire strands, reducing its current carrying ability.  Removing more than half an inch or 1.2 centimeters of insulation at a time can also stretch and damage the core.
+}
+
+
+//name:TQ1015
+::TQ1015::The most effective and safest tool to use to strip insulation from electrical wire is a:{
+	=set of wire strippers.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+	~knife.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+	~set of side cutters.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+	~set of combination pliers.#The most effective and safest tool to use to strip insulation from electrical wire is a set of wire strippers.
+}
+
+
+//name:TQ1016
+::TQ1016::Technician A says that when installing a terminal to electrical wire the stripped wire should protrude out the end of the terminal. Technician B says color coded terminals indicate which anvil to crimp the terminal with.  Who is correct?{
+	~Technician A.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+	=Technician B.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+	~Both Technician A & Technician B.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+	~Neither Technician A or Technician B.#Technician B is correct. When installing an terminal to electrical wire the stripped wire should NOT protrude out the end of the terminal. Colour coded on the terminals indicate which anvil to crimp the treminal with.
+}
+
+
+//name:TQ1017
+::TQ1017::When installing wire into a terminal it is important the stripped part of the wire:{
+	=does not extend beyond the insulated part of the terminal. #When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+	~should protrude out the end of the terminal.#When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+	~does not contact any part of the terminal#When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+	~does not contact any part of the insulator.#When installing wire into a terminal it is important the stripped part of the wire does not extend beyond the insulated part of the terminal.
+}
+
+
+//name:TQ1018
+::TQ1018::What is the number value of a green band in the first position on a resistor?{
+	=5#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+	~2#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+	~7#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+	~1#To identify its value, each resistor is marked with four or five colored bands. Resistors are used to control current flow in a circuit, and are rated by their resistance value and their power rating. Only the resistance value is marked. The resistor's power rating is determined by its size.
+}
+
+
+//name:TQ1019
+::TQ1019::Which of these is NOT a type of resistor?{
+	=Stationary resistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+	~Thermistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+	~Variable resistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+	~Metal Oxide Varistor.#Types of resistors include: Fixed resistors, Veriable resistors, Thermistors and Metal Oxide Varistors.
+}
+
+
+//name:TQ1020
+::TQ1020::An application of zener diodes in vehicles is the:{
+	=voltage regulator.#In order for the zener action to work the zener diode must be connected in reverse bias into the circuit.
+	~ignition coil.#In order for the zener action to work the zener diode must be connected in reverse bias into the circuit.
+	~LED.#In order for the zener action to work the zener diode must be connected in reverse bias into the circuit.
+	~lighting.#In order for the zener action to work the zener diode must be connected in reverse bias into the circuit.
+}
+
+
+//name:TQ1021
+::TQ1021::One function of a diode is to:{
+	=allow current flow in one direction only.#The diode passes current when connected in forward bias mode and blocks current when connected in reverse bias.
+	~convert DC to AC.#The diode passes current when connected in forward bias mode and blocks current when connected in reverse bias.
+	~allow voltage to be applied.#The diode passes current when connected in forward bias mode and blocks current when connected in reverse bias.
+	~allow current to flow in either direction.#The diode passes current when connected in forward bias mode and blocks current when connected in reverse bias.
+}
+
+
+//name:TQ1022
+::TQ1022::A resistor that decreases its resistance as temperature increases is known as a:{
+	=NTC resistor.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+	~PTC resistor.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+	~MAP sensor.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+	~potentiometer.#An example of an application of a NTC thermistor is an engine temperature sender unit in a vehicle.
+}
+
+
+//name:TQ1023
+::TQ1023::A positive temperature coefficient (PTC) resistor's resistance:{
+	=increases as temperature increases.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+	~decreases as temperature increases.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+	~remains the same as temperature changes.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+	~changes as voltage changes.#PTC resistors are useful as current limiting protective devices in circuits, instead of fuses.
+}
+
+
+//name:TQ1024
+::TQ1024::A small current in the transistor base allows ____________ through the emitter-collector junction.{
+	=a larger current to flow#Using a small current to control a larger current can be called amplification.
+	~a smaller current to flow#Using a small current to control a larger current can be called amplification.
+	~no current to flow#Using a small current to control a larger current can be called amplification.
+	~a decreasing current#Using a small current to control a larger current can be called amplification.
+}
+
+
+//name:TQ1025
+::TQ1025::A variable resistor with three contact points that can increase or decrease its resistance in an electrical circuit is known as a:{
+	=potentiometer.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+	~vane-type sensor.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+	~MAP sensor.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+	~thermistor.#Some flap or vane type air flow sensors use potentiometers to provide an electrical output signal that is relative to the amount of air flowing into the engine.
+}
+
+
+//name:TQ1026
+::TQ1026::In a charged lead acid cell the electrolyte acid/water mixture is:{
+	=stronger.#Charge can be measured by using a hydrometer.
+	~weaker.#Charge can be measured by using a hydrometer.
+	~all acid.#Charge can be measured by using a hydrometer.
+	~all water.#Charge can be measured by using a hydrometer.
+}
+
+
+//name:TQ1027
+::TQ1027::In a discharged lead acid cell the active material of both plates is:{
+	=lead sulfate.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+	~lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+	~sponge lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+	~electrolyte.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a discharged state both set of plates are lead sulfate.
+}
+
+
+//name:TQ1028
+::TQ1028::The active material on the positive plate in a fully charged lead-acid battery is:{
+	=lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+	~lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+	~lead oxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+	~lead sulfate.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates from lead peroxide and spongy lead to lead sulfate. In a charged state the positive plates are lead peroxide.
+}
+
+
+//name:TQ1029
+::TQ1029::When charging a lead acid cell the active material of the positive plate changes from lead sulfate to:{
+	=lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~sponge lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~electrolyte.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+}
+
+
+//name:TQ1030
+::TQ1030::In an automotive lead acid battery, the negative plate when the battery is charged consists of:{
+	=sponge lead.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead sulfate.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead peroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+	~lead hydroxide.#A chemical reaction takes place when batteries are charged and discharged which changes the chemical composition of the plates.
+}
+
+
+//name:TQ1031
+::TQ1031::The potentially explosive gas given off when charging a battery is:{
+	=hydrogen.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+	~oxygen.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+	~helium.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+	~nitrogen.#Always ensure that no sparks or naked flames are used around lead acid batteries, particularly when charging or if they have been recently charged.
+}
+
+
+//name:TQ1032
+::TQ1032::Technician A says that the electrolyte allows the escape of hydrogen gas. Technician B says that the electrolyte allows transfer of heat away from the battery. Who is correct?{
+	=Technician A.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+	~Technician B.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+	~Both Technician A & Technician B.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+	~Neither Technician A or Technician B.#Neither technician is correct because the electrolyte provides for an electrical (chemical) connection and physical separation of charges between the positive and negative plates.
+}
+
+
+//name:TQ1033
+::TQ1033::An assembly consisting of a parallel group of negative plates, a parallel group of positive plates, separators and electrolyte is referred to as a:{
+	=battery.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+	~series accumulator.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+	~unit.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+	~battery.#An automotive lead acid battery develops approximately 2 volts of electromotive force per cell. A typical vehicle battery has 6 cells with an EMF across the terminals of 12 volts.
+}
+
+
+//name:TQ1034
+::TQ1034::The electrolyte in an automotive lead acid battery is:{
+	=dilute sulfuric acid.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+	~hydrochloric acid.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+	~sulfur dioxide.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+	~nitric acid.#A hydrometer is used to measure the specific gravity of the electrolyte. Essentially it is measuring the amount of acid in the electrolyte.
+}
+
+
+//name:TQ1035
+::TQ1035::Technician A says that the negative plates of the battery are immersed in distilled water. Technician B says that the positive plates of the battery are immersed in dilute hydrochloric acid. Who is correct?{
+	=Technician A.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+	~Technician B.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+	~Both Technician A & Technician B.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+	~Neither Technician A or Technician B.#Neither technician is correct because the fluid used in the conventional automotive battery is a mixture of dilute sulfuric acid and distilled water known as electrolyte.
+}
+
+
+//name:TQ1036
+::TQ1036::Technician A says that there are two types of battery cells, primary (non-rechargable) and secondary.  Technician B says there are two types of secondary cells, wet and dry.  Who is correct?{
+	=Technician A.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+	~Technician B.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+	~Both Technician A & Technician B.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+	~Neither Technician A or Technician B.#Both Technician A & Technician B are correct. There are two types of battery cells, primary (non-rechargable) and secondary (rechargable).  There are two types of secondary cells, wet and dry.
+}
+
+
+//name:TQ1037
+::TQ1037::Name two types of battery chargers that are used in automotive applications.{
+	=Trickle charger & high rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+	~Trickle charger & low rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+	~Super charger & high rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+	~Dry cell charger & high rate charger.#The high rate charger is designed to charge the battery relatively quickly. The high rate charger should only be used for short periods. The trickle charger is designed to charge a battery over a longer period of time, 24 hours or more.
+}
+
+
+//name:TQ1038
+::TQ1038::Technician A says that the positive post on a battery can be identified by being a larger size than the negative terminal. Technician B says that the positive post on a battery can be identified by the + or POS marking on the casing next to the terminal. Who is correct?{
+	~Technician A.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+	~Technician B.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+	=Both Technician A & Technician B.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+	~Neither Technician A or Technician B.#Both technicians are correct and in addition sometimes the terminals are also color coded, the positive being red and the negative being blue.
+}
+
+
+//name:TQ1039
+::TQ1039::The hydrometer reading for a fully charged battery is:{
+	=1250 - 1300.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+	~1150 - 1200.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+	~1200 - 1250.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+	~1300 - 1350.#Accurate hydrometer readings cannot be taken if fresh water has recently been added to the battery. To obtain a correct reading the battery must be charged for at least 8 hours to mix the electrolyte.
+}
+
+
+//name:TQ1040
+::TQ1040::What type of water should you use to top up battery electrolyte levels?{
+	=De-mineralized or distilled.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+	~Mineralized or still water.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+	~Tap water.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+	~Salt water.#Do not use tap water to top up a battery. The minerals in the water can damage the battery.
+}
+
+
+//name:TQ1041
+::TQ1041::Technician A says that battery efficiency is improved by low temperatures.  Technician B says that specific gravity tests can indicate cold cranking amps (CCA). Who is correct?{
+	~Technician A.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+	~Technician B.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+	~Both Technician A & Technician B.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+	=Neither Technician A or Technician B.#Neither technician is correct because the specific gravity of the electrolyte is affected by temperature (for a true reading the temp has to be 80 degrees F/26 degrees C) . Secondly the CCA rating is a capacitance rating at 0 degrees F/-18 degrees C and the specific gravity reading cannot indicate this.
+}
+
+
+//name:TQ1042
+::TQ1042::Battery terminal corrosion can be treated by:{
+	=using baking soda.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+	~pouring cold water on it.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+	~pouring freezing cold water on it.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+	~using salt water.#Bicarbonate of soda is alkaline. It neutralizes the acid build up on the terminals. Alkaline is the opposite of acidic. Be careful that the bicarbonate of soda does not get into the cells of the battery.
+}
+
+
+//name:TQ1043
+::TQ1043::What is the correct sequence for removing a battery?{
+	=Disconnecting the negative terminal and then the positive terminal before removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnecting it before removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnecting it after removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnecting the positive terminal and then the negative terminal before removal.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+}
+
+
+//name:TQ1044
+::TQ1044::When disconnecting automotive battery terminals on a vehicle with a negative ground system, which of the following statements is correct?{
+	=Disconnect the negative terminal first.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+	~Disconnect the positive terminal first.#The negative terminal is disconnected first to ensure that no accidental sparks are created when disconnecting the positive terminal.
+}
+
+
+//name:TQ1045
+::TQ1045::Technician A says that when electrolyte is low the battery should be topped up with distilled water. Technician B says that when electrolyte is low the battery should be topped up with a mixture of acid and water. Who is correct?{
+	=Technician A.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+	~Technician B.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+	~Both Technician A & Technician B.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+	~Neither Technician A or Technician B.#Technician A is correct because when the battery loses fluid from the cells during charging it is only the water that is lost not the acid. To add more acid would cause the required chemical ratio to be incorrect.
+}
+
+
+//name:TQ1046
+::TQ1046::Name the three general types of ignition system.{
+	=Breaker,  electronic and direct.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+	~Breaker, direct and indirect.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+	~Electronic, direct and indirect.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+	~Direct, indirect and semi-direct.#All vehicle ignition systems are designed to produce a high voltage electrical spark at the spark plug. There are three fundamental types: breaker, electronic and direct.
+}
+
+
+//name:TQ1047
+::TQ1047::The three requirements for electro-magnetic induction are:{
+	=a conductor, a magnetic field and relative movement.#If any one of the three requirements (a conductor, magnetic field and relative movement) is not in place then electro-magnetic induction cannot take place.
+	~a conductor, electrons and a magnetic field.#If any one of the three requirements (a conductor, magnetic field and relative movement) is not in place then electro-magnetic induction cannot take place.
+	~electrons, protons and current flow.#If any one of the three requirements (a conductor, magnetic field and relative movement) is not in place then electro-magnetic induction cannot take place.
+	~amps, volts and ohms.#If any one of the three requirements (a conductor, magnetic field and relative movement) is not in place then electro-magnetic induction cannot take place.
+}
+
+
+//name:TQ1048
+::TQ1048::Which of the following DOES NOT affect the value of induced EMF in a coil of wire?{
+	=the length of the magnet.#The amount of EMF induced is proportional to the strength of the magnetic field, the speed at which the magnetic flux cuts the conductors and the number of turns of wire.
+	~the strength of the magnetic field.#The amount of EMF induced is proportional to the strength of the magnetic field, the speed at which the magnetic flux cuts the conductors and the number of turns of wire.
+	~the speed at which the magnet rotates.#The amount of EMF induced is proportional to the strength of the magnetic field, the speed at which the magnetic flux cuts the conductors and the number of turns of wire.
+	~the number of turns of wire.#The amount of EMF induced is proportional to the strength of the magnetic field, the speed at which the magnetic flux cuts the conductors and the number of turns of wire.
+}
+
+
+//name:TQ1049
+::TQ1049::What kind of coil is used to step up the nominal battery voltage needed to bridge the gap across the spark plug electrodes?{
+	=Induction coil.#The induction coil operates according to Faraday's law.
+	~Nominal battery coil.#The induction coil operates according to Faraday's law.
+	~Alternator coil.#The induction coil operates according to Faraday's law.
+	~Stationary magnetic coil.#The induction coil operates according to Faraday's law.
+}
+
+
+//name:TQ1050
+::TQ1050::The purpose of a distributor is to:{
+	=Distribute the high-tension voltage surges to individual spark plugs in the correct sequence at the correct time in the engine cycle.#Many engines do not use a distributor but use a wasted spark ignition system with multiple coil packs instead.
+	~Distribute the high-tension voltage surges to the individual spark plug at the correct point in the engine cycle.#Many engines do not use a distributor but use a wasted spark ignition system with multiple coil packs instead.
+}
+
+
+//name:TQ1051
+::TQ1051::What components do the spark plug or high tension (HT) leads connect?{
+	=Spark distribution unit and the spark plug.#Spark plugs leads carry high voltage surges, therefore they have thick insulation to avoid the high voltage breaking down the insulation.
+	~Electronic control unit and the spark plug.#Spark plugs leads carry high voltage surges, therefore they have thick insulation to avoid the high voltage breaking down the insulation.
+}
+
+
+//name:TQ1052
+::TQ1052::A vacuum advance unit advances ignition timing by moving the distributor base plate:{
+	=against the direction of distributor shaft rotation.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+	~at wide throttle openings only.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+	~according to engine speed.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+	~in the direction of distributor shaft rotation.#Advancing the ignition timing as the engine speeds up ensures that the air fuel mixture has enough time to burn efficiently and produce maximum power.
+}
+
+
+//name:TQ1053
+::TQ1053::Timing can be advanced relative to engine speed in contact breaker ignition systems by a:{
+	=centrifugal advance mechanism.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+	~moveable breaker plate.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+	~scissors type distributor drive gear.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+	~ballast resistor.#Two systems provide for the timing to be advanced, mechanical advance relative to engine speed and vacuum advance relative to engine load.
+}
+
+
+//name:TQ1054
+::TQ1054::In relation to the ignition system, suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise. {
+	=This increases the firing voltage needed at the spark plug.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+	~This reduces the firing voltage needed at the spark plug.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+	~This increases the firing voltage needed at the ingition switch.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+	~This reduces the firing voltage needed at the ignition switch.#Suddenly depressing the accelerator to increase speed, or to maintain speed when hill-climbing, causes cylinder pressures to rise increasing the firing voltage needed at the spark plug. 
+}
+
+
+//name:TQ1055
+::TQ1055::The level of plug firing voltage depends on many factors, such as:{
+	=mixture density, turbulance, cylinder pressure, spark plug gap and resistance in the secondary circuit.#The level of plug firing voltage depends on many factors, such as:
+	~mixture pressure, turbulance density, spark plug gap and resistance in the secondary circuit.#The level of plug firing voltage depends on many factors, such as mixture density, turbulance, cylinder pressure, spark plug gap and resistance in the secondary circuit.
+	~mixture turbulance, cylinder pressure, spark plug density and resistance in the secondary circuit.#The level of plug firing voltage depends on many factors, such as mixture density, turbulance, cylinder pressure, spark plug gap and resistance in the secondary circuit.
+	~mixture density, turbulance, cylinder pressure, spark plug gap and resistance in the primary circuit.#The level of plug firing voltage depends on many factors, such as mixture density, turbulance, cylinder pressure, spark plug gap and resistance in the secondary circuit.
+}
+
+
+//name:TQ1056
+::TQ1056::A 4-stroke 4-cylinder engine runs at 2400 RPM. In one minute the distributor contacts will open and close:{
+	=4800 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+	~9600 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+	~2400 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+	~1200 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+}
+
+
+//name:TQ1057
+::TQ1057::An excessive distributor dwell angle in contact breaker ignition systems can be corrected by:{
+	=increasing the contact gap.#This has the effect of reducing the time the points are closed.
+	~decreasing the contact gap.#This has the effect of reducing the time the points are closed.
+	~advancing the ignition timing.#This has the effect of reducing the time the points are closed.
+	~retarding the ignition timing.#This has the effect of reducing the time the points are closed.
+}
+
+
+//name:TQ1058
+::TQ1058::The dwell angle is the number of degrees of distributor rotation that the:{
+	=breaker points are closed.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~breaker points are open.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~rotor turns between sparks.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~engine cranks over before starting.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+}
+
+
+//name:TQ1059
+::TQ1059::Exciter diodes are used in some alternators to:{
+	=supply current from phase windings to rotor.#The rotor is the field winding so the exciter diodes provide field current.
+	~connect phase windings to rectifier diodes.#The rotor is the field winding so the exciter diodes provide field current.
+	~start alternator charging.#The rotor is the field winding so the exciter diodes provide field current.
+	~indicate the alternator is charging.#The rotor is the field winding so the exciter diodes provide field current.
+}
+
+
+//name:TQ1060
+::TQ1060::A magnetic field surrounds the coil when:{
+	=the ignition switch is on and the points are closed.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~the ignition switch is on and the points are open.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~the ignition switch is off and the points are open.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~the ignition switch is off and the points are closed.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+}
+
+
+//name:TQ1061
+::TQ1061::A spark occurs at the spark plug when the contact points:{
+	=open.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+	~close.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+	~ignition switch is turned on.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+	~ignition switch is turned off.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+}
+
+
+//name:TQ1062
+::TQ1062::The capacitor in the ignition system assists in ensuring the spark is:{
+	=maintained for 2-3 Degrees of crankshaft rotation.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+	~maintained for 15-20 Degrees of crankshaft rotation.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+	~stopped quickly.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+	~extinguished.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+}
+
+
+//name:TQ1063
+::TQ1063::The voltage output of the secondary windings compared to the primary winding is approximately:{
+	=100 times more.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+	~1,000 times more.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+	~10 times more.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+	~the same.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+}
+
+
+//name:TQ1064
+::TQ1064::A ballast resistor fitted to a coil ignition system is by-passed during engine cranking to ensure that:{
+	=maximum battery voltage is applied to the coil.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+	~maximum current is supplied to the starter motor.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+	~ignition timing is advanced to aid starting.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+	~it is not burned out by the high starter current.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+}
+
+
+//name:TQ1065
+::TQ1065::The device which reduces voltage to the coil and assists the coil to produce a high output under adverse conditions is the:{
+	=ballast resistor.#When by-passed during startup the ballast resistor aids in engine cold starts.
+	~ignition switch.#When by-passed during startup the ballast resistor aids in engine cold starts.
+	~distributor cap.#When by-passed during startup the ballast resistor aids in engine cold starts.
+	~breaker points.#When by-passed during startup the ballast resistor aids in engine cold starts.
+}
+
+
+//name:TQ1066
+::TQ1066::The power flow through the primary circuit is from: {
+	=the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.#The power flow through the primary circuit in an ignition system is from:
+	~the positive terminal of the battery, ignition switch, negative terminal of the ignition coil, positive terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.#The power flow through the primary circuit is from the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.
+	~the negative terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.#The power flow through the primary circuit is from the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.
+	~the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker fixed contact point, the moving contact point, to ground.#The power flow through the primary circuit is from the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.
+}
+
+
+//name:TQ1067
+::TQ1067::Technician A says centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  Technician B says as engine speed increases there is more time for the mixture to be ignited.  Who is correct?{
+	=Technician A.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+	~Technician B.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+	~Both Technician A and Technician B.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+	~Neither Technician A or Technician B.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+}
+
+
+//name:TQ1068
+::TQ1068::High tension ignition leads are heavily insulated to prevent:{
+	=high voltage leakage.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+	~water corroding the metal conductor core.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+	~damage from vibration.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+	~interference with radio & television reception.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+}
+
+
+//name:TQ1069
+::TQ1069::These days the center cores of all spark plug leads are made from copper wire.{
+	=FALSE#The electrodes of spark plugs need to withstand high temperatures and harsh conditions. They are made of high strength precious metals like platinum and iridium.
+	~TRUE#The electrodes of spark plugs need to withstand high temperatures and harsh conditions. They are made of high strength precious metals like platinum and iridium.
+}
+
+
+//name:TQ1070
+::TQ1070::The ignition coil has a primary and secondary winding of how many turns?{
+	=300 and 30,000.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+	~30 and 3,000.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+	~3,000 and 30.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+	~3 and 300.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+}
+
+
+//name:TQ1071
+::TQ1071::The names of the windings in the ignition coil are the:{
+	=primary and secondary.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+	~big and small.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+	~large and small.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+	~high-tension and low-tension.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+}
+
+
+//name:TQ1072
+::TQ1072::What component does the battery act in conjunction with to supply current to the ignition system?{
+	=The alternator.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+	~The starter motor.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+	~The distributor.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+	~The ignition switch.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+}
+
+
+//name:TQ1073
+::TQ1073::During cranking, the ballast resistor:{
+	=is bypassed.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+	~is saturated.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+	~becomes more conductive.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+	~boosts cranking voltage.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+}
+
+
+//name:TQ1074
+::TQ1074::When the ignition switch is in the 'OFF' position:{
+	=all non-essential circuits are deactivared but the steering column lock is disabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+	~all non-essential circuits are deactivared and the steering column lock is enabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+	~all non-essential circuits are activared but the steering column lock is disabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+	~all non-essential circuits are activared and the steering column lock is enabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+}
+
+
+//name:TQ1075
+::TQ1075::The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  {
+	=They are opened and closed by the distributor cam with the rotation of the engine.#How are the contact breakers operated?
+	~They are opened and closed by the distributor cam with the rotation of the starter motor.#The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  They are opened and closed by the distributor cam with the rotation of the engine.
+	~They are opened and closed by the engine cam with the rotation of the engine.#The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  They are opened and closed by the distributor cam with the rotation of the engine.
+	~They are opened and closed by the engine cam with the rotation of the starter motor.#The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  They are opened and closed by the distributor cam with the rotation of the engine.
+}
+
+
+//name:TQ1076
+::TQ1076::Technician A says a capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper.  Technician B says the waxed paper is called a diode.  Who is correct?{
+	=Technician A.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+	~Technician B.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+	~Both Technician A and Technician B.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+	~Neither Technician A or Technician B.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+}
+
+
+//name:TQ1077
+::TQ1077::Technician A says the purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  Technician B says the number of cam lobes on the distributor cam corresponds to the half the number of engine cylinders as the distributor turns at half engine speed.  Who is correct?{
+	=Technician A.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+	~Technician B.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+	~Both Technician A and Technician B.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+	~Neither Technician A or Technician B.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+}
+
+
+//name:TQ1078
+::TQ1078::Technician A says the induction type distributor uses magnetic fields to control the ignition circuit.  Technician B says engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.  Who is correct?
+{
+	~Technician A.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+	~Technician B.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+	=Both Technician A and Technician B.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+
+}
+
+
+//name:TQ1079
+::TQ1079::Technician A says that spark plugs should operate within a temperature range of 40-80 degrees C.  Technician B says the temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.  Who is correct?{
+	~Technician A.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+	=Technician B.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+	~Both Technician A and Technician B.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+	~Neither Technician A or Technician B.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+}
+
+
+//name:TQ1080
+::TQ1080::The spark plug insulator is made from:{
+	=aluminium oxide ceramic.#The spark plug insulator is made from aluminium oxide ceramic.
+	~nickel oxide ceramic.#The spark plug insulator is made from aluminium oxide ceramic.
+	~platinum oxide ceramic.#The spark plug insulator is made from aluminium oxide ceramic.
+	~natural rubber.#The spark plug insulator is made from aluminium oxide ceramic.
+}
+
+
+//name:TQ1081
+::TQ1081::In a distributorless system, the optimum timing for ignition is determined by the:{
+	=electronic control unit.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+	~centrifugal advance mechanism.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+	~vacuum advance mechanism.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+	~both the centrifugal and vacuum advance mechanisms.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+}
+
+
+//name:TQ1082
+::TQ1082::How many blades and windows does the interrupter ring have compared to the number of cylinders?{
+	=the same.#Each blade and interrupter set produces one spark per cylinder.
+	~half as many.#Each blade and interrupter set produces one spark per cylinder.
+	~twice as many.#Each blade and interrupter set produces one spark per cylinder.
+	~no relationship.#Each blade and interrupter set produces one spark per cylinder.
+}
+
+
+//name:TQ1083
+::TQ1083::What job does the Hall effect device perform in an electronic ignition system?{
+	=It provides a signal to switch primary circuit.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+	~It times the spark.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+	~It switches the high tension current.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+	~It provides vacuum advance.#The Hall effect device uses the effect of magnetism on a semiconductor to switch an electronic circuit.
+}
+
+
+//name:TQ1084
+::TQ1084::What part of the interrupter ring is positioned between the air gap of the Hall device to allow current flow through the primary winding of the ignition coil?{
+	=Blade.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+	~Window.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+	~Rotor.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+	~Ballast resistor.#The blade interrupts the magnetic field which switches the Hall device to control the primary current in the coil.
+}
+
+
+//name:TQ1085
+::TQ1085::In induction type systems, a pulse generator produces a voltage of positive polarity when the reluctor teeth:{
+	=approach the stator teeth.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+	~align with the stator teeth.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+	~leave the stator teeth.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+	~are stationary.#When the reluctor teeth leave the stator teeth a negative voltage is produced.
+}
+
+
+//name:TQ1086
+::TQ1086::The dwell control circuit:{
+	=varies dwell angle to suit engine need.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+	~ensures constant dwell angle.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+	~ensures a long dwell period at low engine speed.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+	~ensures a short dwell period at high engine speed.#The dwell control circuit ensures that the ignition circuit has sufficient energy to fire the spark plugs.
+}
+
+
+//name:TQ1087
+::TQ1087::In an optical distributor a rotor plate has slits equal to the number of cylinders. Number 1 cylinder is identified by a:{
+	=wider slit.#The number of slits will equal the number of cylinders in the engine.
+	~narrower slit.#The number of slits will equal the number of cylinders in the engine.
+	~no slit.#The number of slits will equal the number of cylinders in the engine.
+	~many slits.#The number of slits will equal the number of cylinders in the engine.
+}
+
+
+//name:TQ1088
+::TQ1088::What information do the 360 one degree slits provide to the ECU?{
+	=engine RPM and crank angle position.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+	~crank angle and number 1 cylinder position.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+	~engine RPM and number 1 cylinder position.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+	~none of these answers.#Other slits provide information on the correct spark timing. There are the same number of these slits as there are cylinders in the engine.
+}
+
+
+//name:TQ1089
+::TQ1089::The induction winding is connected to the ignition module and forms part of:{
+	=the internal module control circuit.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+	~the ignition coil.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+	~advance control circuit.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+	~battery control circuit.#The induction winding is connected to the ignition module and forms part of the internal module control circuit.
+}
+
+
+//name:TQ1090
+::TQ1090::When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC:{
+	=transistor T0 is switched off.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+	~transistor T0 is switched on.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+	~transistor T1 is switched off.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+	~transistor T2 is switched off.#When the blade of the Hall Effect interrupter ring is positioned between the magnet and the IC transistor T0 is switched off.
+}
+
+
+//name:TQ1091
+::TQ1091::What controls the timing for the distributorless ignition system?{
+	=An electronic control unit or ECU.#Timing for the distributorless ignition system is controlled by an electronic control unit or ECU. The ECU decides the best time to fire the spark plugs. 
+The ECU makes its decision on the best time to fire the spark plugs based on information received from sensors.
+	~A dual crank sensor.#Timing for the distributorless ignition system is controlled by an electronic control unit or ECU. The ECU decides the best time to fire the spark plugs. 
+The ECU makes its decision on the best time to fire the spark plugs based on information received from sensors.
+	~An engine management control module.#Timing for the distributorless ignition system is controlled by an electronic control unit or ECU. The ECU decides the best time to fire the spark plugs. 
+The ECU makes its decision on the best time to fire the spark plugs based on information received from sensors.
+	~The throttle position sensor.#Timing for the distributorless ignition system is controlled by an electronic control unit or ECU. The ECU decides the best time to fire the spark plugs. 
+The ECU makes its decision on the best time to fire the spark plugs based on information received from sensors.
+}
+
+
+//name:TQ1092
+::TQ1092::In direct fire ignition what is the cylinder on compression stroke called?{
+	='Event cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+	~'Waste cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+	~'Spark cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+	~'Companion cylinder'#Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a spark plug. These two plugs are on companion cylinders. That is, cylinders where the pistons reach top dead center at the same time. The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the 'waste cylinder'.
+}
+
+
+//name:TQ1093
+::TQ1093::What is on advantage of a system which employs an individual coil for each cylinder?{
+	=It eliminates the necessity for high tension leads.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+	~It allows the engine managament control module to minimise voltage leakage from high tension leads.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+	~It prolongs the life of the sparkplug.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+	~It elimates the need for a 'Waste cylinder'.#With each coil connected directly to its sparkplug eliminates the necessity for high tension leads and reduces the possibility of voltage leakage.
+}
+
+
+//name:TQ1094
+::TQ1094::Identification of each pair of cylinders is provided by:{
+	=a dual crank sensor attached to the engine timing cover.#The ECU receives information from a range of sensors such as: the MAP sensor, the throttle position sensor, cam angle sensor, crank angle sensor, engine speed sensor and coolant temperature sensor.
+	~the distributor.#The ECU receives information from a range of sensors such as: the MAP sensor, the throttle position sensor, cam angle sensor, crank angle sensor, engine speed sensor and coolant temperature sensor.
+	~the distributor cap.#The ECU receives information from a range of sensors such as: the MAP sensor, the throttle position sensor, cam angle sensor, crank angle sensor, engine speed sensor and coolant temperature sensor.
+	~the ECU.#The ECU receives information from a range of sensors such as: the MAP sensor, the throttle position sensor, cam angle sensor, crank angle sensor, engine speed sensor and coolant temperature sensor.
+}
+
+
+//name:TQ1095
+::TQ1095::Companion cylinders on engines fitted with waste spark ignition:{
+	=have pistons at top dead center at the same time.#One piston is on the power stroke and the other is on the exhaust stroke.
+	~have pistons on compression at the same time.#One piston is on the power stroke and the other is on the exhaust stroke.
+	~have individual coils for each cylinder.#One piston is on the power stroke and the other is on the exhaust stroke.
+	~fire consecutively in the firing order.#One piston is on the power stroke and the other is on the exhaust stroke.
+}
+
+
+//name:TQ1096
+::TQ1096::What type of tool is most suitable for the removal of spark plugs?{
+	=A spark plug socket wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+	~An open ended spanner/wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+	~An adjustable spanner/wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+	~A ring spanner/wrench.#Spark plugs should be removed using a spark plug socket wrench. This usually has a rubber insert to protect the plug while it is being removed.
+}
+
+
+//name:TQ1097
+::TQ1097::Technician A says spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Technician B says light brown deposits on the spark plug indicate the plug is overheating.  Who is correct? {
+	=Technician A.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+	~Technician B.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+	~Both Technician A and Technician B.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+	~Neither Technician A or Technician B.#Technician A is correct. Spark plug bodies are brittle and fragile and you should always use a proper spark plug socket to remove them.  Light brown deposits on the spark plug indicate the plug is operating correctly. 
+}
+
+
+//name:TQ1098
+::TQ1098::Technician A says after adjusting the contact point gap to check the dwell angle with the engine speed between 2500 and 300 RPM. Technician B says the points gap is more important than the dwell and the dwell can be brought back to within acceptable limits by adjusting the points irrespective of the dwell angle.  Who is correct?{
+	~Technician A.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+	~Technician B.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+	=Both Technician A and Technician B.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. After adjusting the contact point gap, check the dwell angle with the engine speed between 2500 and 3000 RPM. Dwell is more important than the points gap. Dwell can be brought back to within acceptable limits by adjusting the points irrespective of the desired points gap.
+}
+
+
+//name:TQ1099
+::TQ1099::To adjust the contact points:{
+	=locate the heel of the rubbing block so it rides on the cam of the distributor shaft.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+	~locate the heel of the rubbing block so it rides on the low point of the distributor shaft.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+	~remove the distributor cap, start the engine and adjust the dwell angle to manufacturers specifications.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+	~emove the distributor cap, start the engine and adjust the points gap to manufacturers specifications.#To adjust the contact points locate the heel of the rubbing block so it rides on the cam of the distributor shaft.
+}
+
+
+//name:TQ1100
+::TQ1100::Which of the following statements about ignition timing is correct?{
+	=Ignition timing that is 'ahead' means the timing is 'advanced' and 'behind' means the timing is 'retarded'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+	~Ignition timing that is 'behind' means the timing is 'advanced' and 'ahead' means the timing is 'retarded'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+	~Ignition timing that is 'ahead' means the timing is 'positive' and 'behind' means the timing is 'negative'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+	~Ignition timing that is 'ahead' means the timing is 'negative' and 'behind' means the timing is 'positive'.#Ignition timing that is advanced is ahead of the timing mark and ignition timing that is retarded is behind the timing mark.
+}
+
+
+//name:TQ1101
+::TQ1101::The timing light pickup cable should be attached to which high tension lead?{
+	=No. 1 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+	~No. 3 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+	~No. 4 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+	~No. 2 Cylinder.#The timing mark on the crankshaft pulley normally relates to No. 1 cylinder Top Dead Centre.
+}
+
+
+//name:TQ1102
+::TQ1102::How many phases does a typical automotive alternator have?{
+	=Three.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~Two.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~One.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~None.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+}
+
+
+//name:TQ1103
+::TQ1103::The main advantage of alternators is that they:{
+	=all of these.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+	~do not need current regulators.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+	~produce high output at low speeds.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+	~can with stand much higher driven speeds.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+}
+
+
+//name:TQ1104
+::TQ1104::The alternator converts:{
+	=mechanical energy to electrical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~mechanical energy to chemical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~electrical energy to mechanical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~chemical energy to electrical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+}
+
+
+//name:TQ1105
+::TQ1105::What does the rotating magnet in a very simple alternator induce in the stationary windings?{
+	=An alternating current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A variable current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A constant current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A direct current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+}
+
+
+//name:TQ1106
+::TQ1106::In addition to recharging the battery the alternator is required to:{
+	=supply current to the electrical circuits.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+	~provide a means of adjusting belt tension.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+	~provide an additional fuel source for more power.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+	~absorb belt vibrations.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+}
+
+
+//name:TQ1107
+::TQ1107::When the engine is not running, current to operate electrical circuits is supplied by the:{
+	=battery.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+	~alternator.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+	~starter.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+	~rectifier.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+}
+
+
+//name:TQ1108
+::TQ1108::The alternating current in an alternator stator is rectified to direct current by:{
+	=means of power diodes.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~using exciter diodes.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~using a rotor instead of an armature.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~the use of two slip rings.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+}
+
+
+//name:TQ1109
+::TQ1109::In an alternator the initial excitation current from the battery is supplied to the:{
+	=rotor field winding.#Current flows to the rotor field coil via the voltage regulator.
+	~stator windings.#Current flows to the rotor field coil via the voltage regulator.
+	~positive diodes.#Current flows to the rotor field coil via the voltage regulator.
+	~negative diodes.#Current flows to the rotor field coil via the voltage regulator.
+}
+
+
+//name:TQ1110
+::TQ1110::The maximum current output of an alternator is regulated by:{
+	=the design of the stator winding.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+	~the rectifier diodes.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+	~the regulator.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+	~the field diodes.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+}
+
+
+//name:TQ1111
+::TQ1111::The main purpose of the regulator is to:{
+	=regulate alternator output by controlling current to the rotor field circuit.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+	~regulate the rectifier diodes by controlling field current.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+	~regulate alternator speed by controlling field current.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+	~regulate the field diodes by controlling field current.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+}
+
+
+//name:TQ1112
+::TQ1112::In the star method of connection, 1 end of each phase winding is taken to a central point where they are connected together. The other end of each winding is connected in the:{
+	=bridge rectifier circuit.#Each winding is always part of a complete circuit.
+	~ground circuit.#Each winding is always part of a complete circuit.
+	~live circuit.#Each winding is always part of a complete circuit.
+	~delta circuit.#Each winding is always part of a complete circuit.
+}
+
+
+//name:TQ1113
+::TQ1113::In a high voltage charging system:{
+	=less current is needed to deliver the same amount of power.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+	~more current is needed to deliver the same amount of power.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+	~less current is is needed to deliver twice the amount of power.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+	~current and power are unaffected.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+}
+
+
+//name:TQ1114
+::TQ1114::The main purpose of a cooling fan is to:{
+	=provide a cooling air flow.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+	~support the pulley.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+	~support the fan belt.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+	~drive the alternator.#When replacing a fan ensure the replacement provides cooling in the correct direction. Where a fan must turn in a specific direction, the direction of rotation is marked with an arrow.
+}
+
+
+//name:TQ1115
+::TQ1115::The main purpose of the end frames is to:{
+	=support the bearings.#When servicing the end frames make sure the bearings have not been turning in the housing.
+	~prevent dust intrusion.#When servicing the end frames make sure the bearings have not been turning in the housing.
+	~stop vibration.#When servicing the end frames make sure the bearings have not been turning in the housing.
+	~insulate the alternator.#When servicing the end frames make sure the bearings have not been turning in the housing.
+}
+
+
+//name:TQ1116
+::TQ1116::How many diodes does a basic automotive alternator rectifier have?{
+	=3 positive and 3 negative.#The alternator has a full-bridge 3-phase rectifier.
+	~6 positive and 6 negative.#The alternator has a full-bridge 3-phase rectifier.
+	~1 positive and 1 negative.#The alternator has a full-bridge 3-phase rectifier.
+	~None.#The alternator has a full-bridge 3-phase rectifier.
+}
+
+
+//name:TQ1117
+::TQ1117::What is the minimum number of diodes in the alternator 3 phase rectifier?{
+	=Six.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+	~Nine.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+	~Three.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+	~One.#The six diodes in a rectifier make use of diode action, current flow in one direction, to steer the output current from the stator and rectify it into DC.
+}
+
+
+//name:TQ1118
+::TQ1118::The main purpose of the slip rings and brushes is to:{
+	=complete an electrical connection with the rotor winding.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+	~prevent arcing.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+	~stop vibration.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+	~lubricate the bearings.#The brushes for the alternator carry the relatively small current of the field circuit. Usually less then 4 amps.
+}
+
+
+//name:TQ1119
+::TQ1119::The stator is made up of:{
+	=laminated iron core and 3 phase windings.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~3 phase windings and end frames.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~laminated core and bearings.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~laminated core and permanent magnets.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+}
+
+
+//name:TQ1120
+::TQ1120::The device that converts the AC stator output to DC at the B+ terminal on the alternator is the:{
+	=rectifier.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~rotor.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~stator.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~regulator.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+}
+
+
+//name:TQ1121
+::TQ1121::Technician A says that the end frame supports the alternator brush holders. Technician B says that the alternator brushes ride on the slip rings. Who is correct?{
+	~Technician A.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+	~Technician B.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+	=Both Technician A & Technician B.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct because the brushes are mounted on the end frame but the brushes make electrical contact with the slip rings.
+}
+
+
+//name:TQ1122
+::TQ1122::What materials are used in the construction of the rotor?{
+	=Wire, iron and steel.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+	~Aluminum, iron and steel.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+	~Wire, plastic and steel.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+	~Wire, iron and aluminum.#The rotor is an electromagnet that is contstructed from wire, irong and steel and usually has 8 to 12 poles and rotates freely in the alternator.
+}
+
+
+//name:TQ1123
+::TQ1123::When setting the meter for a charging system voltage check, the meter should be set to:{
+	=volts DC.#Vehicle electrical systems work on a Direct Current principle.
+	~volts AC.#Vehicle electrical systems work on a Direct Current principle.
+	~amps.#Vehicle electrical systems work on a Direct Current principle.
+	~Ohms.#Vehicle electrical systems work on a Direct Current principle.
+}
+
+
+//name:TQ1124
+::TQ1124::With the engine at 2000rpm, the voltage reading on the meter should be:{
+	=13.7-14.4 V#A specified voltage increase should be noted with engine running.
+	~12.0-11.0 V#A specified voltage increase should be noted with engine running.
+	~10.0-12.0 V#A specified voltage increase should be noted with engine running.
+	~15.2-16.0 V#A specified voltage increase should be noted with engine running.
+}
+
+
+//name:TQ1125
+::TQ1125::Which of the following statements is correct?{
+	=Disconnect the battery negative terminal prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+	~Do not interfere with battery connections prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+	~Completely remove the battery prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+	~Ensure that the battery is discharged prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+}
+
+
+//name:TQ1126
+::TQ1126::Vehicle alternators are designed for use on what type of earth system?{
+	=Negative.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+	~Positive.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+	~Alternating.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+	~Weak.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+}
+
+
+//name:TQ1127
+::TQ1127::Two commonly used types of engine drive belt are:{
+	=V and serpentine type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+	~V and terpentine type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+	~W and serpentine type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+	~V and W type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+}
+
+
+//name:TQ1128
+::TQ1128::There are two types of drive belts. What are they? {
+	=V-type and serpentine type.#There are two types of drive belts: V-type and serpentine type. 
+	~W-type and serpentine type.#There are two types of drive belts: V-type and serpentine type. 
+	~W-type and V-type.#There are two types of drive belts: V-type and serpentine type. 
+	~X-type and serpentine type.#There are two types of drive belts: V-type and serpentine type. 
+}
+
+
+//name:TQ1129
+::TQ1129::What should be done when the drive belt(s) are removed?{
+	=Inspect drive and driven pulleys.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+	~Start the engine.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+	~Lubricate the pulleys.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+	~Use abrasive tape of the pulleys to give them better grip.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+}
+
+
+//name:TQ1130
+::TQ1130::Do all vehicles have an automatic spring tensioning system or are some manually adjusted?{
+	=Both types are available, depending on the vehicle.#Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+	~All vehicles have an automatic spring tensioning system. #Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+	~All vehicles require a technician to manually adjust the tension on the belt.#Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+	~None of these, as belts do not stretch.#Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+}
+
+
+//name:TQ1131
+::TQ1131::The motor effect is at its strongest when the magnetic field and the conductor are at:{
+	=90 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+	~180 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+	~270 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+	~360 degrees.#When the magnetic field and the conductor are at right angles to each other or 90 degrees it produces the strongest turning force.
+}
+
+
+//name:TQ1132
+::TQ1132::Series-wound starter motors produce maximum torque:{
+	=at stall.#They also draw maximum current at stall.
+	~at high speed.#They also draw maximum current at stall.
+	~just when the engine starts.#They also draw maximum current at stall.
+	~at all speeds.#They also draw maximum current at stall.
+}
+
+
+//name:TQ1133
+::TQ1133::Starter motors with electromagnetic field windings for light vehicles are classified as:{
+	=series-wound motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+	~parallel motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+	~shunt motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+	~non-polarized motors.#Series-wound motors produce the high torque necessary to turn over the engine.
+}
+
+
+//name:TQ1134
+::TQ1134::The field coils of a starter motor are wound around the:{
+	=pole shoes.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+	~frame.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+	~carcass.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+	~armature.#The pole shoes and the housing act together to concentrate the magnetic field of the field coils so that maximum starter motor output is delivered for the electrical energy used.
+}
+
+
+//name:TQ1135
+::TQ1135::The main characteristic of a series-wound starter motor is:{
+	=high torque at low speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~low current at low speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~high torque at high speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~high current flow at high speed.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+}
+
+
+//name:TQ1136
+::TQ1136::When the starter motor starts under load:{
+	=it draws high current and produces high torque.#The starter motor draws maximum current and produces maximum torque at stall.
+	~it draws low current and produces high torque.#The starter motor draws maximum current and produces maximum torque at stall.
+	~it draws high current and produces low torque.#The starter motor draws maximum current and produces maximum torque at stall.
+	~it draws low current and produces low torque.#The starter motor draws maximum current and produces maximum torque at stall.
+}
+
+
+//name:TQ1137
+::TQ1137::The starter armature is rubbing on the field coils. Technician A says the bushings need to be replaced. Technician B says the brush springs are weak. Who is correct?{
+	=Technician A.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+	~Technician B.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+	~Both Technician A & Technician B.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+	~Neither Technician A or Technician B.#Technician A is correct because if the starter bushings/bearings are worn there will be excessive side movement in the armature to allow the rubbing to occur. Weak brush springs will not contribute to this situation.
+}
+
+
+//name:TQ1138
+::TQ1138::During cranking the starter motor pinion gear meshes with the:{
+	=ring gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+	~cluster gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+	~idler gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+	~timing gear.#The outer edge of the flywheel or drive plate has a gear called a ring gear. The electric starter pinion engages on this gear to rotate the engine for starting.  
+}
+
+
+//name:TQ1139
+::TQ1139::The starter motor pinion engages the:{
+	=ring gear.#If the pinion fails to engage then the engine will not turn over.
+	~torque converter.#If the pinion fails to engage then the engine will not turn over.
+	~pressure plate assembly.#If the pinion fails to engage then the engine will not turn over.
+	~clutch plate assembly.#If the pinion fails to engage then the engine will not turn over.
+}
+
+
+//name:TQ1140
+::TQ1140::When operated, the starter motor solenoid moves the pinion to engage with a:{
+	=ring gear.#If the pinion fails to engage then the engine will not turnover.
+	~torque converter.#If the pinion fails to engage then the engine will not turnover.
+	~pressure plate assembly.#If the pinion fails to engage then the engine will not turnover.
+	~clutch plate assembly.#If the pinion fails to engage then the engine will not turnover.
+}
+
+
+//name:TQ1141
+::TQ1141::The starter motor converts:{
+	=electrical energy into mechanical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~electrical energy into chemical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~mechanical energy into chemical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~mechanical energy into electrical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+}
+
+
+//name:TQ1142
+::TQ1142::It is desirable for a starter motor to produce:{
+	=high turning effort at low speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~low turning effort at low speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~low turning effort at high speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+	~high turning effort at high speeds.#The current draw of the starter motor decreases as its speed increases and the load decreases.
+}
+
+
+//name:TQ1143
+::TQ1143::In the starter motor switching mechanism, there are two windings with different resistance values. Which of the two has a low resistance value?{
+	=The pull-in winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+	~The hold-in winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+	~The armature winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+	~The field winding.#The pull-in winding operates until the solenoid contacts close and battery voltage is applied to both sides of the pull in winding which stops current flow in the winding.
+}
+
+
+//name:TQ1144
+::TQ1144::When activated the starter solenoid:{
+	=engages the pinion and switches current to the motor.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+	~engages the pinion.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+	~switches current to the motor.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+	~none of these actions.#It has two windings; a pull in winding which draws relatively heavy current; and a hold in winding which draws less current.
+}
+
+
+//name:TQ1145
+::TQ1145::What MUST be done when jump starting a vehicle fitted with electronic control units?{
+	=On the vehicle being started, turn ALL systems off before connecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+	~Turn the headlights on before connecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+	~Turn on the headlights on the slave vehicle before disconnecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+	~Turn off ALL systems on the slave vehicle before connecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+}
+
+
+//name:TQ1146
+::TQ1146::Which of the following is the most correct when connecting booster leads to start a vehicle with a discharged battery?{
+	=Positive to positive, and negative to engine block.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+	~Positive to positive, and negative to engine valve cover.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+	~Positive to positive, and negative to engine intake manifold.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+	~Positive to positive, and negative to negative.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+}
+
+
+//name:TQ1147
+::TQ1147::Why is it good practice to switch on the headlamps of the vehicle with the discharged battery prior to disconnecting the service battery?{
+	=To absorb any sudden increase in voltage as the alternator increases its output.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+	~To test the vehicle lighting system.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+	~To eliminate the risk of battery explosion.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+	~To protect your jump leads.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+}
+
+
+//name:TQ1148
+::TQ1148::Which of the following must be disconnected in order to crank the engine?{
+	=Ignition system.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+	~Ignition switch.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+	~Igniter.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+	~Battery earth.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+}
+
+
+//name:TQ1149
+::TQ1149::When checking a starting system, what is the best form of meter to use for voltage?{
+	=A DVOM.#DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+	~A voltmeter only.#DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+	~An ammeter only.#DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+	~Any of these.# DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+}
+
+
+//name:TQ1150
+::TQ1150::When undertaking a cranking engine test what voltage should be available in the system to ensure that it is in good condition? {
+	=Above 10.25 volts.#If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+	~Below 9.6 volts.# If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+	~Between 10.25 and 9.6 volts.# If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+	~Above 11.8 volts.# If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+}
+
+
+//name:TQ1151
+::TQ1151::1) What is bulb power measured in? and 2) What does this indicate?{
+	=1) Watts, 2) power consumption.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Volts, 2) EMF.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Volts, 2) current flow.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Watts, 2) brightness.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+}
+
+
+//name:TQ1152
+::TQ1152::A lamp filament does not burn out because air in the lamp is replaced with:{
+	=inert gas.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~oxygen.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~air.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~nitrogen.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+}
+
+
+//name:TQ1153
+::TQ1153::Bulb filaments are normally made from:{
+	=tungsten.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~aluminum.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~steel.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~copper.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+}
+
+
+//name:TQ1154
+::TQ1154::The power consumed by headlight bulbs is normally measured in:{
+	=watts.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~volts.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~amps.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~ohms.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+}
+
+
+//name:TQ1155
+::TQ1155::A 24V 21W bulb consumes more power than a 12 V 21W bulb.{
+	=FALSE#21 watt refers to the rate at which the bulb does work. Bulbs are designed to use energy as defined by their rated wattage at a certain voltage. Both bulbs are doing the same amount of work.
+	~TRUE#21 watt refers to the rate at which the bulb does work. Bulbs are designed to use energy as defined by their rated wattage at a certain voltage. Both bulbs are doing the same amount of work.
+}
+
+
+//name:TQ1156
+::TQ1156::What type of electronic device is an LED?{
+	=An LED is like a normal 'forward biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~An LED is like a normal 'reverse biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~An LED is like a normal 'forward biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+	~An LED is like a normal 'reverse biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+}
+
+
+//name:TQ1157
+::TQ1157::LED lights operate on the same principles as a:{
+	=normal 'forward biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~normal 'reverse biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~normal 'forward biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+	~normal 'reverse biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+}
+
+
+//name:TQ1158
+::TQ1158::The emergency flasher system operates which lights on the vehicle?{
+	=Both front and rear turn signals at the same time.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+	~Stop lights.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+	~Headlamps.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+	~Front and rear fog lamps.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+}
+
+
+//name:TQ1159
+::TQ1159::Cornering lights are on at all times to assist drivers see the curb and any obstacles that may not be illuminated by the headlights.{
+	=FALSE#Cornering lights turn on only when the headlights and turn signal switches are on, so they only come on when the vehicle is turning a corner, and turn off automatically when the turn signal turns off.
+	~TRUE#Cornering lights turn on only when the headlights and turn signal switches are on, so they only come on when the vehicle is turning a corner, and turn off automatically when the turn signal turns off.
+}
+
+
+//name:TQ1160
+::TQ1160::Driving lights should be wired so that they only operate when high beam is operating. Why is this?{
+	=This safety feature ensures that driving lights turn off when the headlights are dipped from high to low beam.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+	~This safety feature ensures that driving lights turn on when the headlights are dipped from high to low beam.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+	~This safety feature ensures that driving lights turn off when the headlights turn on.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+	~This safety feature ensures that driving lights turn on when the headlights turn off.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+}
+
+
+//name:TQ1161
+::TQ1161::Fog lights are usually mounted lower then headlights and tend to be aimed to strike the road a short distance in front of the vehicle. Why is this?{
+	=The light from the fog light is normally reflected up into the fog. This reduces the light reflected into the driver's eyes, providing better visibility.#Sometimes fog lights have different colored reflectors, eg yellow. Some manufacturers believe that the yellow light better penetrates the fog, giving the driver better vision.
+	~Because the driving lights turn on when the headlights are dipped from high to low beam and so they are not needed to shine over greater distances.#Sometimes fog lights have different colored reflectors, eg yellow. Some manufacturers believe that the yellow light better penetrates the fog, giving the driver better vision.
+	~The light from the fog light is normally reflected down. This increases the light reflected into the driver's eyes, providing better visibility.#Sometimes fog lights have different colored reflectors, eg yellow. Some manufacturers believe that the yellow light better penetrates the fog, giving the driver better vision.
+}
+
+
+//name:TQ1162
+::TQ1162::The main beam of a vehicle's head lights provides a:{
+	=bright light for highway driving.#Headlights can be supported by the use of other lights like driving lights.
+	~spot light for highway driving.#Headlights can be supported by the use of other lights like driving lights.
+	~spot light for higher speed driving.#Headlights can be supported by the use of other lights like driving lights.
+	~bright light for urban driving.#Headlights can be supported by the use of other lights like driving lights.
+}
+
+
+//name:TQ1163
+::TQ1163::Drivers using High Intensity Discharge or HID lights are able to see the road approximately:{
+	=300 feet or 100 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+	~400 feet or 120 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+	~500 feet or 150 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+	~600 feet or 200 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+}
+
+
+//name:TQ1164
+::TQ1164::Indicators or turn lights are used to let other road users know that:{
+	=the driver is about to change the direction of their travel depending on what side the lights are activated.#A flasher unit connected in series with the lights causes them to flash.
+	~the driver is about to make a right hand turn.#A flasher unit connected in series with the lights causes them to flash.
+	~the vehicle is about to make a left hand turn.#A flasher unit connected in series with the lights causes them to flash.
+	~the driver is intending to reverse the vehicle.#A flasher unit connected in series with the lights causes them to flash.
+}
+
+
+//name:TQ1165
+::TQ1165::Some types of headlights can improve forward lighting while cornering. How does this work?{
+	=This type of headlight swivels through the horizontal plane so that the headlight turns into the corner as the driver turns the steering wheel.#Better lighting into a corner can also be achieved by connecting a white cornering light that is connected to the indicators and focused into the corners.
+	~This type of headlight is connected by a linkage to the suspension system that turns the headlight into the corner as the road wheels turn.#Better lighting into a corner can also be achieved by connecting a white cornering light that is connected to the indicators and focused into the corners.
+	~This type of headlight swivels through the vertical plane so that the headlight turns into the corner as the driver turns the steering wheel.#Better lighting into a corner can also be achieved by connecting a white cornering light that is connected to the indicators and focused into the corners.
+}
+
+
+//name:TQ1166
+::TQ1166::How are the stop lamp bulbs connected in relation to each other?{
+	=In parallel.#Most lighting systems on the vehicle are connected in parallel.
+	~In series.#Most lighting systems on the vehicle are connected in parallel.
+	~In series/parallel.#Most lighting systems on the vehicle are connected in parallel.
+	~None of these answers.#Most lighting systems on the vehicle are connected in parallel.
+}
+
+
+//name:TQ1167
+::TQ1167::Which of the following is not a part of the reverse light circuit?{
+	=Brake light switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Reverse light switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Ignition switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Vehicle battery.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+}
+
+
+//name:TQ1168
+::TQ1168::Wiring diagrams give information about:{
+	=electrical circuits and their components.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~voltage applied to a circuit.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~current flow to components.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~circuit resistance.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+}
+
+
+//name:TQ1169
+::TQ1169::Wiring diagrams enable technicians to:{
+	=trace the location of components and their connections when a system is faulty.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~trace the voltage applied through a particular circuit.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~work out the current flow to components.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~work out the component circuit resistance.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+}
+
+
+//name:TQ1170
+::TQ1170::The headlight circuit normally consists of:{
+	=battery, fusible link and fuses, switch, relays, dipper switch, headlight assemblies, main beam indicator lamp and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+	~battery, fusible link, switch, relays, dipper switch, headlight assemblies, main beam indicator lamp and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+	~battery, fusible link and fuses, switch, headlight assemblies, a beam indicator lamp and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+	~battery, fuses, switch, relays, dipper switch, headlight assemblies and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+}
+
+
+//name:TQ1171
+::TQ1171::Even the most basic vehicles include many electronically controlled systems. If each electronic system had its own ECU, harness and sensors, the weight of the added components would negate any efficiency it provided. How can this be overcome?{
+	=By the use of a multiplexed serial communications network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+	~By the use of a multiplexed parallel communications network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+	~By the use of a single serial data network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+	~By the use of a serial-parallel network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+}
+
+
+//name:TQ1172
+::TQ1172::Why are vehicles fitted with lighting systems in parallel to each other?{
+	=Because if one system fails the others can still work independently of the failed system.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+	~Because it is simpler to construct in the first place.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+	~Because one system operates off the other and it is easier to trace faults when a lamp fails.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+	~Because one fuse can be used for all systems.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+}
+
+
+//name:TQ1173
+::TQ1173::When carrying out a lighting and peripheral systems check, if a bulb does not operate, what should be checked first?{
+	=Fuse.#Be sure to work in a systematic manner so as not to miss any components.
+	~Battery electrolyte level.#Be sure to work in a systematic manner so as not to miss any components.
+	~Reverse light switch.#Be sure to work in a systematic manner so as not to miss any components.
+	~Brake light switch.#Be sure to work in a systematic manner so as not to miss any components.
+}
+
+
+//name:TQ1174
+::TQ1174::When checking the lighting system on a vehicle how can you ensure that you do not miss a faulty bulb or another component during your inspection?{
+	=Work in a systematic manner.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+	~Get someone to check it after you have finished.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+	~Do the internal check first, then the external check.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+	~Do the external check first, then the internal check.#Always be sure to work in a systematic manner or you could miss a faulty bulb or another component.
+}
+
+
+//name:TQ1175
+::TQ1175::Before attempting to change a bulb, what should be checked?{
+	=Fuse.#Be sure to work in a systematic manner so as not to miss any components.
+	~Ignition switch.#Be sure to work in a systematic manner so as not to miss any components.
+	~Hazard light switch.#Be sure to work in a systematic manner so as not to miss any components.
+	~Door contact switch.#Be sure to work in a systematic manner so as not to miss any components.
+}
+
+
+//name:TQ1176
+::TQ1176::When checking and changing an exterior light bulb what important task must you undertake as part of the process?{
+	=Before replacing the bulb, check the bulb holder for corrosion. #Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+	~Make sure that the power is turned off.#Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+	~Ensure that the battery is isolated.#Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+	~Check the battery voltage.#Before replacing any bulb, always check the bulb holder for corrosion. Clean off any corrosion with abrasive tape or an approved solvent.
+}
+
+
+//name:TQ1177
+::TQ1177::Many vehicles use halogen light bulbs. What must you avoid when handling halogen bulbs?{
+	=Touching the glass.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+	~Touching the metal.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+	~Disconnecting the bulb.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+	~Touching the terminal.#Touching the glass can leave a residue that may cause the bulb to burn out prematurely.
+}
+
+
+//name:TQ1178
+::TQ1178::Why must you always make sure that you replace a bulb with one of exactly the same type?{
+	=Mis-matched bulbs can cause cause ligthing intensity issues.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+	~It doesn't make any difference.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+	~They will aim in the wrong direction.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+	~Because it will not fit in the holder.#When changing light bulbs make sure that you replace a bulb with one of exactly the same type so they always show the same intensity in lumens.
+}
+
+
+//name:TQ1179
+::TQ1179::Which of the following is not a requirement when carrying out a headlamp aim check?{
+	=Spare tyre pressure correct.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+	~Tyre pressures correct.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+	~Regional legislation.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+	~Vehicle level.#Always adhere to manufacturer's and legal requirements when checking headlamp aim.
+}
+
+
+//name:TQ1180
+::TQ1180::Although the principle of aiming headlights is the same in the majority of cases, the legal rules can differ from region to region.{
+	=TRUE#The legal rules for where headlights should be aimed can differ from region to region. Be sure to check the requirements for your location.
+	~FALSE#The legal rules for where headlights should be aimed can differ from region to region. Be sure to check the requirements for your location.
+}

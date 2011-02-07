@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/db
+svn://curfew.jbpub.com/online
+
+
+
+2009-12-28T07:26:23.111763Z
+3668
+johnm
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+sql
+dir
+
+xml
+dir
+
+netsuite_client_customer_mapping.csv
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+4f187ff6d8fa8e027b71fa8ab23b1e5c
+2009-01-13T05:45:09.345453Z
+2050
+johnm
+
+migrate
+dir
+
+csv
+dir
+

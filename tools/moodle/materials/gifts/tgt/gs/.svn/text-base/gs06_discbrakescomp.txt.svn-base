@@ -1,0 +1,90 @@
+//name:TQ0704
+::TQ0704::Technician A says that the disc brake rotor must be checked for parallelism. Technician B says that the disc brake rotor must be checked for run-out. Who is correct?{
+	~Technician A.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+	~Technician B.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+	=Both Technician A and Technician B.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+	~Neither Technician A nor Technician B.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+}
+
+
+//name:TQ0705
+::TQ0705::There are two main types of disc brake caliper:{
+	=fixed and sliding.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+	~fixed and stationary.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+	~stationary and sliding.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+	~disc and drum.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+}
+
+
+//name:TQ0706
+::TQ0706::Some manufacturers fit audible warning sensors to their disc brake linings. The purpose of this sensor is to:{
+	=warn the driver that the disc brake linings are worn down and need replacing before they damage the rotor.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+	~warn the driver that the disc brake linings are worn down to the rotor.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+	~warn the driver that the disc brake linings are worn down to the stator.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+	~indicate to the driver that the brakes are being applied.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+}
+
+
+//name:TQ0707
+::TQ0707::The coefficient of friction between the brake pad and its disc depends on the:{
+	=materials of the pad and disc.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+	~speed of the disc.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+	~pressure between pad and disc.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+	~area of the pad.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+}
+
+
+//name:TQ0708
+::TQ0708::Disc brake rotors are usually made of:{
+	=cast iron.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+	~aluminum.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+	~stainless steel.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+	~grey iron.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+}
+
+
+//name:TQ0709
+::TQ0709::The major components of a disc brake assembly are:{
+	=rotor, caliper and disc pads.#The major components of the disc brake station are the rotor, caliper and disc pads.
+	~stator, wheel cylinder and brake lining.#The major components of the disc brake station are the rotor, caliper and disc pads.
+	~rotator, wheel cylinder and brake lining.#The major components of the disc brake station are the rotor, caliper and disc pads.
+	~brake drum, caliper and disc pads.#The major components of the disc brake station are the rotor, caliper and disc pads.
+}
+
+
+//name:TQ0710
+::TQ0710::The proportioning valve is designed to:{
+	=decrease braking at the rear wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+	~increase braking at the front wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+	~increase braking at the rear wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+	~decrease braking at the front wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+}
+
+
+//name:TQ0711
+::TQ0711::Potential rear wheel lock-up on heavy braking can be controlled by:{
+	=a proportioning valve.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+	~a residual pressure valve.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+	~a pressure differential switch.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+	~bleeding at regular intervals.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+}
+
+
+//name:TQ0712
+::TQ0712::The function of the proportioning valve is to distribute the braking effort between:{
+	=the front and rear brakes under heavy braking application according to how the load is distributed across the vehicle.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+	~the rear brakes under heavy braking application according to how the load is distributed across the vehicle.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+	~the front and rear brakes under heavy braking application.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+	~Disc brake systems and drum brake systems.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+}
+
+
+//name:TQ0714
+::TQ0714::Which of these statements is true?{
+	=Disc brakes generate more heat, but brake fade is less likely than with drum brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+	~Disc brakes generate more heat, so brake fade is more likely than with drum brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+	~Drum brakes have a larger surface area so they generate more heat than disc brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+	~Drum brakes have a larger surface area, so they need greater clamping force than disc brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+}
+
+

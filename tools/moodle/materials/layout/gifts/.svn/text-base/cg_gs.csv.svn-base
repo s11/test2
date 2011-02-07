@@ -1,0 +1,193 @@
+map,category,test_type,qn_category,gift_filename
+CDX GS 5.1 Quizzes & Tests,Safety & Information,Topic Group Test,hazemerg,01_hazemerg.txt
+,,,perspropsafety,01_perspropsafety.txt
+,,,infoproc,01_infoproc.txt
+,,,bodydesigns,gs01_bodydesigns.txt
+,,,driveconfig,gs01_driveconfig.txt
+,,,vehinspectproc,01_vehinspecproc.txt
+,,Find-The-Missing Word,hazemerg,001-GS_hazards_emergencies.txt
+,,,personalsafety,002-GS_personal_safety.txt
+,,,infoproc,003-GS_information_procedures.txt
+,,,bodydesigns,004-GS_body_designs.txt
+,,,driveconfig,005-GS_drive_configurations.txt
+,,,vehicleinspectproc,006-GS_vehicle_inspection_procedures.txt
+,Tools & Equipment,Topic Group Test,toolequipfund,gs02_toolequipfund.txt
+,,,powertools,02_powertools.txt
+,,,useelecpowertools,02_useelecpowertools.txt
+,,,useairpowertools,02_useairpowertools.txt
+,,,commworkshoptools,02_commworkshoptools.txt
+,,,usemeasuretools,02_usemeasuretools.txt
+,,,useworkshopequip,02_useworkequip.txt
+,,Find-The-Missing Word,toolsequipfundas,007-GS_tools_equip_fundamentals.txt
+,,,powertools,008-GS_power_tools.txt
+,,,useelecpowertools,009-GS_using_elec_power_tools.txt
+,,,useairpowertools,010-GS_using_air_power_tools.txt
+,,,commonworkshoptools,011-GS_common_workshop_tools.txt
+,,,usemeasuretools,012-GS_using_measuring_tools.txt
+,,,useworkshopequip,013-GS_using_workshop_equipment.txt
+,Engines,Topic Group Test,enginefundamentals,gs03_enginefundamentals.txt
+,,,valvesvalvetrains,gs03_valvesvalvetrains.txt
+,,,camshaftsdrives,gs03_camshaftsdrives.txt
+,,,pistons,gs03_pistons.txt
+,,,crankshaftassemblies,gs03_crankshaftassemblies.txt
+,,,enginecompproc,03_enginecompproc.txt
+,,,coolingfundamentals,gs03_coolingfundamentals.txt
+,,,coolingsystems,gs03_coolingsystems.txt
+,,,coolsyscomp,03_coolsyscomp.txt
+,,,coolingsysproc,03_coolsysproc.txt
+,,,oil,gs03_oil.txt
+,,,lubricationsys,gs03_lubricationsys.txt
+,,,lubricationsyscomp,gs03_lubricationsyscomp.txt
+,,,lubeproc,03_lubricationproc.txt
+,,Find-The-Missing Word,enginefundas,014-GS_engine_fundamentals.txt
+,,,valves,015-GS_valves_valve_trains.txt
+,,,camshafts,016-GS_camshafts_drives.txt
+,,,pistons,017-GS_pistons.txt
+,,,cranshaft,018-GS_crankshaft_assemblies.txt
+,,,enginesproc,019-GS_engines_procedures.txt
+,,,coolingfundas,020-GS_cooling_fundamentals.txt
+,,,coolingsys,021-GS_cooling_systems.txt
+,,,coolingsyscomp,022-GS_cooling_system_components.txt
+,,,coolingsysproc,023-GS_cooling_system_procedures.txt
+,,,oil,024-GS_oil.txt
+,,,lubesys,025-GS_lubrication_systems.txt
+,,,lubesyscomp,026-GS_lubrication_system_components.txt
+,,,lubeproc,027-GS_lubrication_procedures.txt
+,Fuel Systems,Topic Group Test,intakeexhaustsys,gs04_intakeexhaustsys.txt
+,,,intakeexhaustsyscomp,gs04_intakeexhaustsyscomp.txt
+,,,intakesysproc,04_intakesysproc.txt
+,,,fuelsysprinc,gs04_fuelsysprinc.txt
+,,,carbsyscomp,gs04_carbsyscomp.txt
+,,,efifuelsysprinc,gs04_efifuelsysprinc.txt
+,,,efifuelsyscomp,04_efifuelsyscomp.txt
+,,,fuelsysproc,04_fuelsysproc.txt
+,,,creationemissions,gs04_creationemissions.txt
+,,,typesemissions,gs04_typesemissions.txt
+,,,emissioncontrol,gs04_emissioncontrol.txt
+,,,odb,04_obd.txt
+,,,emissionsproc,04_emissionsproc.txt
+,,Find-The-Missing Word,intakeexhaustsys,028-GS_intake_exhaust_systems.txt
+,,,intakeexhaustsyscomp,029-GS_intake_exhaust_components.txt
+,,,intakesysproc,030-GS_intake_sys_procedure.txt
+,,,fuelsysprinc,031-GS_fuel_system_principles.txt
+,,,carbsyscomp,032-GS_carbureted_system_components.txt
+,,,efiprinciples,033-GS_efi_system_principles.txt
+,,,eficomp,034-GS_efi_system_components.txt
+,,,fuelsysproc,035-GS_fuel_system_procedures.txt
+,,,creationemissions,036-GS_creation_of_emissions.txt
+,,,emissiontypes,037-GS_types_of_emissions.txt
+,,,emissionscontrol,038-GS_emission_control.txt
+,,,obd,039-GS_onboard_diagnostics.txt
+,,,emissionproc,040-GS_emissions_procedures.txt
+,Steering & Suspension,Topic Group Test,steerprinc,05_steerprinc.txt
+,,,steerboxescolumns,gs05_steerboxescolumns.txt
+,,,steerarmscomps,gs05_steerarmscomps.txt
+,,,steesysproc,05_steersysproc.txt
+,,,suspfundpric,05_suspfundpric.txt
+,,,typesofsusp,gs05_typesofsusp.txt
+,,,typesofsprings,gs05_typesofsprings.txt
+,,,frontsusptypescomp,05_frontsusptypescomp.txt
+,,,rearsusptypescomp,05_rearsusptypescomp.txt
+,,,suspsysproc,05_suspsysproc.txt
+,,,tiretypescharac,gs05_tiretypescharac.txt
+,,,tireconstruct,gs05_tireconstruct.txt
+,,,wheelalignfund,gs05_wheelalignfund.txt
+,,,wheelstiresproc,05_wheelstiresproc.txt
+,,Find-The-Missing Word,steeringprinc,041-GS_steering_principles.txt
+,,,steeringboxes,042-GS_steering_boxes_columns.txt
+,,,steeringarms,043-GS_steering_arms_components.txt
+,,,steeringsysproc,044-GS_steering_system_procedures.txt
+,,,suspfundas,045-GS_susp_fundamental_principles.txt
+,,,typessusp,046-GS_types_of_suspension.txt
+,,,typessprings,047-GS_types_of_springs.txt
+,,,frontsuspcomp,048-GS_front_susp_types_components.txt
+,,,rearsuspcomp,049-GS_rear_susp_types_components.txt
+,,,suspsysproc,050-GS_susp_system_procedures.txt
+,,,tiretypescharacteristics,051-GS_tire_types_characteristics.txt
+,,,tireconstruction,052-GS_tire_construction.txt
+,,,wheelalignfundas,053-GS_wheel_align_fundamentals.txt
+,,,wheelstiresproc,054-GS_wheels_tires_procedures.txt
+,Brakes,Topic Group Test,brakingfund,gs06_brakingfund.txt
+,,,brakesyscomp,gs06_brakesyscomp.txt
+,,,drumbrakescomp,gs06_drumbrakescomp.txt
+,,,discbrakescomp,gs06_discbrakescomp.txt
+,,,antilockbrakesyscomp,gs06_antilockbrakesyscomp.txt
+,,,brakesproc,06_brakesproc.txt
+,,Find-The-Missing Word,brakingfundas,055-GS_braking_fundamentals.txt
+,,,brakingsyscomp,056-GS_braking_system_components.txt
+,,,drumbrakecomp,057-GS_drum_brakes_components.txt
+,,,discbrakecomp,058-GS_disc_brakes_components.txt
+,,,antilockbrakingsyscomp,059-GS_antilock_braking_sys_comp.txt
+,,,brakesproc,060-GS_brakes_procedures.txt
+,Transmissions,Topic Group Test,clutches,gs07_clutches.txt
+,,,gearboxlayoutop,gs07_gearboxlayoutop.txt
+,,,autotransfundas,gs07_autotransfundas.txt
+,,,autotransproc,07_autotransproc.txt
+,,,basiclayouts,gs07_basiclayouts.txt
+,,,frontwhldrive,gs07_frontwhldrive.txt
+,,,rearwhldrive,gs07_rearwhldrive.txt
+,,,finadriveproc,07_finaldriveproc.txt
+,,Find-The-Missing Word,clutches,061-GS_clutches.txt
+,,,gearboxlayoutop,062-GS_gearbox_layout_op.txt
+,,,clutchesmanualproc,063-GS_clutches_manual_trans_proc.txt
+,,,autotransfundas,064-GS_automatic_trans_fundamentals.txt
+,,,autotransproc,065-GS_automatic_trans_procedures.txt
+,,,basiclayouts,066-GS_basic_layouts.txt
+,,,frontwheeldrive,067-GS_front-wheel_drive.txt
+,,,rearwheeldrive,068-GS_rear-wheel_drive.txt
+,,,finaldrivesproc,069-GS_final_drives_procedures.txt
+,Electrics & Electronics,Topic Group Test,electfund,gs08_elecfund.txt
+,,,sourceselec,08_sourceselec.txt
+,,,effectselec,gs08_effectselec.txt
+,,,circuitsmeasure,gs08_circuitsmeasurement.txt
+,,,electestproc,08_electestproc.txt
+,,,electricalcomp,gs08_electricalcomp.txt
+,,,wiresproc,08_wiresconnproc.txt
+,,,batteries,08_batteries.txt
+,,,batteryproc,08_batterymainproc.txt
+,,,ignitionsys,gs08_ignitionsys.txt
+,,,contactbreakcomp,gs08_contactbreakcomp.txt
+,,,distribsys,gs08_distribsys.txt
+,,,ignitionproc,08_igproc.txt
+,,,chargingstarting,gs08_chargingstarting.txt
+,,,chargingproc,08_chargingproc.txt
+,,,startingproc,08_startingproc.txt
+,,,lighting,gs08_lighting.txt
+,,,typeslights,gs08_typeslights.txt
+,,,lightingcircuits,gs08_lightingcircuits.txt
+,,,lightingproc,08_lightingproc.txt
+,,Find-The-Missing Word,elecfundas,070-GS_electrical_fundamentals.txt
+,,,sourceselec,071-GS_sources_of_electricity.txt
+,,,effectselec,072-GS_effects_of_electricity.txt
+,,,circuitsmeasure,073-GS_circuits_measurement.txt
+,,,electestproc,074-GS_electrical_testing_procedures.txt
+,,,electriccomp,075-GS_electrical_components.txt
+,,,wires,076-GS_wires_connectors_procedures.txt
+,,,batteres,077-GS_batteries.txt
+,,,batteryproc,078-GS_battery_maintenance_proc.txt
+,,,ignitionsys,079-GS_ignition_systems.txt
+,,,contactbreakcomp,080-GS_contact_breaker_components.txt
+,,,distributorsys,081-GS_distributorless_systems.txt
+,,,ignitionproc,082-GS_ignition_procedures.txt
+,,,chargingstarting,083-GS_charging_starting.txt
+,,,chargingproc,084-GS_charging_procedures.txt
+,,,startingroc,085-GS_starting_procedures.txt
+,,,lighting,086-GS_lighting.txt
+,,,lightingtypes,087-GS_types_of_lights.txt
+,,,lightingcircuits,088-GS_lighting_circuits.txt
+,,,lightingproc,089-GS_lighting_procedures.txt
+,HVAC,Topic Group Test,hvacbasicprinc,gs09_hvacbasicprinc.txt
+,,,airconcomp,gs09_airconcomp.txt
+,,,climatecontrol,gs09_climatecontrol.txt
+,,,hvacproc,09_hvacproc.txt
+,,Find-The-Missing Word,hvacbasicprinc,090-GS_hvac_basic_principles.txt
+,,,airconcomp,091-GS_aircon_components.txt
+,,,climatecontrol,092-GS_climate_control.txt
+,,,hvacproc,093-GS_hvac_procedures.txt
+,Associated Studies,Topic Group Test,activelisten,11_activelistening.txt
+,,,artspeaking,11_artofspeaking.txt
+,,,peopleskills,11_peopleskills.txt
+,,,effectiveread,11_effectivereading.txt
+,,,writing,11_writingatwork.txt
+,,,researching,11_researching.txt
+,,Find-The-Missing Word,communication,094-GS_communication.txt

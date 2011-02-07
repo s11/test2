@@ -1,0 +1,58 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/annotate_models
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+tasks
+dir
+
+lib
+dir
+
+ChangeLog
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+17183cfff8bf3daef5caaac2dba7e66b
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+README
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+1584d33a28eca3bccb7ae644600aaef0
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+

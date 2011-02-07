@@ -1,0 +1,15 @@
+development:
+  bin_path: '/opt/local/bin'
+  allow_star: true
+  mem_limit: 256M
+
+staging:
+  bin_path: '/usr/local/bin'
+  allow_star: true
+  mem_limit: 256M
+
+production:
+  bin_path: '/usr/local/bin'
+  allow_star: true
+  mem_limit: 256M
+

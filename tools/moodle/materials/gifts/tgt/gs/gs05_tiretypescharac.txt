@@ -1,0 +1,43 @@
+//name:TQ0588
+::TQ0588::The main function of grooves in the tread pattern is to:{
+	=clear water from the contact patch.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~reduce road noise intrusion.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~indicate when the tire is worn out.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+	~increase traction on dry surfaces.#Grooves in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed and for road adhesion to be maintained.
+}
+
+
+//name:TQ0589
+::TQ0589::Tubeless tires have no inner tubes because they have:{
+	=a soft-rubber inner-casing liner.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~high-tensile steel beads.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~an increased number of casing plies.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+	~a special outer-casing compound.#In tubeless tire construction a soft rubber liner prevents air leaks into the plies.
+}
+
+
+//name:TQ0590
+::TQ0590::In radial tires the bracing belt cords run:{
+	=15¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~40¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~70¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+	~90¯ to the direction of travel.#Radial ply tires always have a two-piece construction including a one or multiple-layered carcass and a multiple-layered belt structure. The cords go radially from one bead wire to another. The belts are at a small angle to each other (15-20 degrees).
+}
+
+
+//name:TQ0591
+::TQ0591::Radial ply tires have:{
+	=softer sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~larger sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~smaller sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+	~stiffer sidewalls than bias ply tires.#Reduced material thickness in the sidewall section means the tire sidewalls are softer and heat up less. Also the high speed strength is further increased.
+}
+
+
+//name:TQ0597
+::TQ0597::Technician A says tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed. Technician B says the tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle, however, using other wheels and tires is allowable.  Who is correct?{
+	=Technician A.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Both Technician A and Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+	~Neither Technician A nor Technician B.#Technician A is correct. Tire sidewall markings include the maker's name, the rim size, the type of tire construction, aspect ratio, maximum load and speed, The tire placard lists the wheel and tire sizes approved by the manufacturer for the vehicle. Using other wheels and tires MAY BE ILLEGAL.
+}

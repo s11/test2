@@ -1,0 +1,53 @@
+// question: 31370  name: HAQ3035 
+::HAQ3035::[html]The electronic control unit evaluates the signals from the .............................. to determine the operating conditions, and controls actuators to move dampers and valves that control the volume, temperature and direction of the air delivered by the system.{
+	=%100%sensors#
+}
+
+
+// question: 31371  name: HAQ3036 
+::HAQ3036::[html]The climate control system can be operated in .............................. mode, where the operation is similar to a normal heater and air conditioner system. The driver determines where the air is delivered, the volume of air delivered and its temperature.{
+	=%100%manual#
+}
+
+
+// question: 31372  name: HAQ3037 
+::HAQ3037::[html]In full automatic mode the electronic control unit receives signals from sensors and controls the flaps and .............................. of the two systems, to create a blend of air that matches the temperature selected by the occupants.{
+	=%100%valves#
+}
+
+
+// question: 31373  name: HAQ3038 
+::HAQ3038::[html]The electronic control unit receives signals in the form of .............................. from the ambient air temperature sensor, the cabin air temperature sensor, the coolant temperature sensor, the evaporator temperature sensor, sun load sensor and the control panel.{
+	=%100%voltages#
+}
+
+
+// question: 31374  name: HAQ3039 
+::HAQ3039::[html]The electronic control unit compares these voltage values with values stored in its memory. If a difference in values occurs the electronic control unit changes the position of ..............................{
+	=%100%actuators#
+}
+
+
+// question: 31375  name: HAQ3843 
+::HAQ3843::[html]A ventilation system is fitted to vehicles to make the environment in the cabin comfortable for its occupants. It can duct air to the windscreen for .............................., or temperature-controlled air to the foot well and to face and side vents, for occupant comfort.{
+	=%100%demisting#
+}
+
+
+// question: 31376  name: HAQ3844 
+::HAQ3844::[html]Air for the ventilation system can be sourced from outside the vehicle, usually from apertures located below the .............................., or recirculated from within the cabin.{
+	=%100%windscreen#
+	=%100%windshield#
+}
+
+
+// question: 31377  name: HAQ3845 
+::HAQ3845::[html]The Fan Speed Switch controls an electric motor that has a barrel type fan attached. When operating, it forces air at the chosen speed through the ducting into the .............................. compartment, via the heating and cooling components.{
+	=%100%passenger#
+}
+
+
+// question: 31378  name: HAQ3846 
+::HAQ3846::[html]When fitted, the air conditioning .............................. will chill the incoming air to cool the occupants if required.{
+	=%100%evaporator#
+}

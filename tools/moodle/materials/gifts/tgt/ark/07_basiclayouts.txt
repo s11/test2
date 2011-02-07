@@ -1,0 +1,79 @@
+//name:TQ0892
+::TQ0892::Four-wheel drive vehicles normally have a two-wheel drive arrangement for sealed road use and a selectable four-wheel drive arrangement for off road use, whereas all-wheel drives use permanent four-wheel drive in all operational conditions.{
+	=TRUE#Four-wheel drive vehicles are designed to normally have a two-wheel drive arrangement for sealed road use and a selectable four-wheel drive arrangement for off road use, whereas all-wheel drives uses a permanent four-wheel drive arrangement in all operational conditions. 
+	~FALSE#Four-wheel drive vehicles are designed to normally have a two-wheel drive arrangement for sealed road use and a selectable four-wheel drive arrangement for off road use, whereas all-wheel drives uses a permanent four-wheel drive arrangement in all operational conditions. 
+}
+
+
+//name:TQ0893
+::TQ0893::What is the difference between four-wheel drive and all-wheel drive?{
+	=All-wheel drive drives all wheels at all times.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+	~There is no difference.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+	~Four-wheel drive drives all wheels at all times.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+	~All-wheel drive is only useful off road.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+}
+
+
+//name:TQ0894
+::TQ0894::What is the main difference between conventional four-wheel drive and all-wheel drive? {
+	=In all-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels, and through the front final drive to the front wheels at all times.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+	~In all-wheel drive vehicles, drive is automatically transmitted through the rear final drive to the rear wheels on demand.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+	~In all-wheel drive vehicles, drive is automatically transmitted through the front final drive to the front wheels on demand.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+	~They are the same.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+}
+
+
+//name:TQ0895
+::TQ0895::Technician A says that certain drive shaft configurations use constant velocity joints and not simple cross and rollers. Technician B says that certain vehicle applications use axle shafts that resemble short drive shafts. Who is correct?{
+	=Technician A.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+	~Technician B.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+	~Both Technician A & Technician B.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+	~Neither Technician A or Technician B.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+}
+
+
+//name:TQ0896
+::TQ0896::Changes in length between the transmission and the final drive are catered for by:{
+	=a sliding spline.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+	~a rubber tripod coupling.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+	~flexible engine mounts.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+	~a cross and roller assembly.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+}
+
+
+//name:TQ0897
+::TQ0897::Vehicles with independent rear suspension transfer the drive to each driving road wheel through:{
+	=external drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+	~internal drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+	~solid drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+	~flexible drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+}
+
+
+//name:TQ0898
+::TQ0898::Technician A says that the tail shaft bushing supports the rear of the drive shaft. Technician B says that the center bearing supports the front of the drive shaft. Who is correct?{
+	=Technician A.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+	~Technician B.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+	~Both Technician A & Technician B.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+	~Neither Technician A or Technician B.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+}
+
+
+//name:TQ0899
+::TQ0899::Any difference in speed between front and rear axles in full-time 4WD vehicles is catered for by:{
+	=a third differential between front and rear axles.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+	~the front and rear axle differentials.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+	~engaging neutral.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+	~engaging low range.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+}
+
+
+//name:TQ0900
+::TQ0900::Technician A says a transfer case is necessary so front drive can be disconnected.  Technician B says the transfer case provides high and low range.  Who is correct?{
+	=Technician A.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+	~Technician B.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+	~Both Technician A & Technician B.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+	~Neither Technician A or Technician B.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+}
+
+

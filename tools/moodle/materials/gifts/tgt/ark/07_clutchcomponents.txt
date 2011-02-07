@@ -1,0 +1,72 @@
+//name:TQ0762
+::TQ0762::The driven member of a clutch assembly is the:{
+	=clutch disc.#The driven center-plate is also called a clutch disc or friction disc.
+	~transmission input shaft.#The driven center-plate is also called a clutch disc or friction disc.
+	~pressure plate cover.#The driven center-plate is also called a clutch disc or friction disc.
+	~face of the flywheel.#The driven center-plate is also called a clutch disc or friction disc.
+}
+
+
+//name:TQ0763
+::TQ0763::The linings of a clutch plate when disengaged are held slightly apart by spring steel segments. This is to:{
+	=assist in a smooth take-up of the drive.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~allow the linings to rotate on engagement.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~prevent the clutch from slipping at high speeds.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~circulate air through the linings at all times.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+}
+
+
+//name:TQ0764
+::TQ0764::The spring hub arrangement on the clutch center plate is designed to:{
+	=absorb torsional vibrations and shock loads.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+	~supplement clamping force during violent engagement.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+	~prevent clutch slip at high speed.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+	~ensure positive clutch engagement.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+}
+
+
+//name:TQ0765
+::TQ0765::The two linings of a clutch plate are held apart by a spring steel segment to which they are riveted. This is so that:{
+	=the clutch can engage smoothly.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~the clutch is prevented from slipping under light loads.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~air can circulate through the linings when the clutch is engaged.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~the linings can rotate when the clutch is engaged.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+}
+
+
+//name:TQ0766
+::TQ0766::What is the purpose of the spring steel segments in the clutch center plate?{
+	=To provide a cushioning effect during engagement of the clutch.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~To act as a link between the two center plate surfaces.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~To hold the two center plate surfaces apart.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~To provide a cushioning effect during disengagement of the clutch.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+}
+
+
+//name:TQ0767
+::TQ0767::In a typical clutch disc torsional vibration is absorbed by heavy:{
+	=coil springs in the center plate.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+	~cushion bolts.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+	~waved pads.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+	~friction pads.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+}
+
+
+//name:TQ0768
+::TQ0768::The pressure plate is connected to the cover by:{
+	=spring steel drive straps.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+	~2 fulcrum rings attached to the diaphragm.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+	~rivets attached through the diaphragm.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+	~the bolts that attach the cover to the flywheel.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+}
+
+
+//name:TQ0769
+::TQ0769::The throw-out bearing is moved against the presure plate by movement of the:{
+	=clutch fork.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+	~clutch pedal spring.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+	~center support hub.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+	~clutch knife.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+}
+
+

@@ -1,0 +1,70 @@
+// question: 29505  name: HAQ2433 
+::HAQ2433::[html]The propeller shaft transfers the drive from the .............................. to the final drive.{
+	=%100%transmission#
+}
+
+
+// question: 29506  name: HAQ2434 
+::HAQ2434::[html]The propeller shaft normally has a .............................. tubular construction, and in this example, yokes are welded to each end to accept universal joints.{
+	=%100%hollow#
+}
+
+
+// question: 29507  name: HAQ2435 
+::HAQ2435::[html]The rear joint connects to a flanged yoke designed to mate with a companion flange on the final drive pinion, while the front joint links to an internally splined slip yoke, which engages with splines on the transmission .............................. shaft.{
+	=%100%output#
+}
+
+
+// question: 29508  name: HAQ2436 
+::HAQ2436::[html]On the outside of the slip yoke, a bearing surface supports the front end of the propeller shaft in a plain bearing, in the transmission .............................. housing.{
+	=%100%extension#
+}
+
+
+// question: 29509  name: HAQ2437 
+::HAQ2437::[html]A Hooke's joint or cross-and-roller joint consists of a steel cross with four hardened bearing .............................. mounted on needle rollers in hardened caps, which locate the cross in the eyes of the yokes.{
+	=%100%journals#
+}
+
+
+// question: 29510  name: HAQ2438 
+::HAQ2438::[html]The cross swiveling in the yokes conflicts with the rotation, and in each revolution the velocity of the yoke changes every 90 degrees. Cross-and-roller type joints are a non-constant .............................. joints.{
+	=%100%velocity#
+}
+
+
+// question: 29511  name: HAQ2439 
+::HAQ2439::[html]The effect of the changing velocity can be eliminated by having identical joints at each end of the propeller shaft in phase with each other, and by having the input and output drives ..............................{
+	=%100%parallel#
+}
+
+
+// question: 29512  name: HAQ2440 
+::HAQ2440::[html]In some cases a type of constant-velocity joint is fitted to the front end of the .............................. shaft.{
+	=%100%propeller#
+}
+
+
+// question: 29513  name: HAQ2441 
+::HAQ2441::[html]A number of balls, retained by a spherical cage, are carried in angular grooves in each .............................., and these balls transfer the drive from one race to the other.{
+	=%100%race#
+}
+
+
+// question: 29514  name: HAQ2442 
+::HAQ2442::[html]In a conventional rear wheel drive, a crown wheel and .............................. transfers the drive through ninety degrees, and provides a final gear reduction to the driving road wheels.{
+	=%100%pinion#
+}
+
+
+// question: 29515  name: HAQ2443 
+::HAQ2443::[html]Taper roller bearings support the pinion in the carrier. The companion flange splines engage with the pinion splines, to transfer the drive from the .............................. shaft.{
+	=%100%propeller#
+}
+
+
+// question: 29516  name: HAQ2444 
+::HAQ2444::[html]The crown wheel is bolted to the differential case, which is supported in the carrier by taper roller .............................., retained by bearing caps and bolts.{
+	=%100%bearings#
+}

@@ -1,0 +1,58 @@
+// question: 30005  name: HAQ2545 
+::HAQ2545::[html]As current flows through motor vehicle circuits, most of the .............................. energy is transformed into other kinds of energy.{
+	=%100%electrical#
+}
+
+
+// question: 30006  name: HAQ2546 
+::HAQ2546::[html]Headlamps transform it into intense .............................. that makes the bulb filaments glow white hot and produce light.{
+	=%100%heat#
+}
+
+
+// question: 30007  name: HAQ2547 
+::HAQ2547::[html]Chemical effects of electricity depend on ions - electrically charged atoms or groups of atoms. If an atom, or a group of atoms, gain electrons, they become negatively-charged. If they lose electrons they become .............................. charged.{
+	=%100%positively#
+}
+
+
+// question: 30008  name: HAQ2548 
+::HAQ2548::[html]When two different metals are immersed in an electrolyte, one loses electrons and becomes ..............................{
+	=%100%positive#
+}
+
+
+// question: 30009  name: HAQ2549 
+::HAQ2549::[html]In a lead-acid battery, the electrical and chemical differences between the sets of plates creates a potential difference which makes the current flow in a ..............................{
+	=%100%circuit#
+}
+
+
+// question: 30010  name: HAQ2550 
+::HAQ2550::[html]It flows in one direction only, so it is called direct current, or .............................. As electrons move from one set of plates to the other, the same compounds form on the plates.{
+	=%100%DC#
+}
+
+
+// question: 30011  name: HAQ2551 
+::HAQ2551::[html]In each half-cell is a chemical undergoing either oxidation or reduction. In a full electrochemical cell, one side must be losing electrons (oxidation) in to its electrode while the other half-cell gains electrons (..............................).{
+	=%100%reduction#
+}
+
+
+// question: 30012  name: HAQ2552 
+::HAQ2552::[html]When current passes through a conductor, a magnetic field is created around it. When wire is wound into a coil, it produces a much .............................. magnetic field.{
+	=%100%stronger#
+}
+
+
+// question: 30013  name: HAQ2553 
+::HAQ2553::[html]Changing magnetic fields, according to Faraday's law of induction, can induce an electric field and thus an electric current; similar currents can be induced by .............................. moving in a fixed magnetic fields.{
+	=%100%conductors#
+}
+
+
+// question: 30014  name: HAQ2554 
+::HAQ2554::[html]Magnetism is seen whenever electrically charged particles are in motion. This can arise from movement of electrons in an electric current, resulting in '..............................'.{
+	=%100%electromagnetism#
+}

@@ -1,0 +1,77 @@
+//name:TQ1159
+::TQ1159::Cornering lights are on at all times to assist drivers see the curb and any obstacles that may not be illuminated by the headlights.{
+	=FALSE#Cornering lights turn on only when the headlights and turn signal switches are on, so they only come on when the vehicle is turning a corner, and turn off automatically when the turn signal turns off.
+	~TRUE#Cornering lights turn on only when the headlights and turn signal switches are on, so they only come on when the vehicle is turning a corner, and turn off automatically when the turn signal turns off.
+}
+
+
+//name:TQ1160
+::TQ1160::Driving lights should be wired so that they only operate when high beam is operating. Why is this?{
+	=This safety feature ensures that driving lights turn off when the headlights are dipped from high to low beam.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+	~This safety feature ensures that driving lights turn on when the headlights are dipped from high to low beam.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+	~This safety feature ensures that driving lights turn off when the headlights turn on.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+	~This safety feature ensures that driving lights turn on when the headlights turn off.#In addition to this, driving lights should also have a separate on-off switch so they can be turned off even when the high beam is on.
+}
+
+
+//name:TQ1161
+::TQ1161::Fog lights are usually mounted lower then headlights and tend to be aimed to strike the road a short distance in front of the vehicle. Why is this?{
+	=The light from the fog light is normally reflected up into the fog. This reduces the light reflected into the driver's eyes, providing better visibility.#Sometimes fog lights have different colored reflectors, eg yellow. Some manufacturers believe that the yellow light better penetrates the fog, giving the driver better vision.
+	~Because the driving lights turn on when the headlights are dipped from high to low beam and so they are not needed to shine over greater distances.#Sometimes fog lights have different colored reflectors, eg yellow. Some manufacturers believe that the yellow light better penetrates the fog, giving the driver better vision.
+	~The light from the fog light is normally reflected down. This increases the light reflected into the driver's eyes, providing better visibility.#Sometimes fog lights have different colored reflectors, eg yellow. Some manufacturers believe that the yellow light better penetrates the fog, giving the driver better vision.
+}
+
+
+//name:TQ1162
+::TQ1162::The main beam of a vehicle's head lights provides a:{
+	=bright light for highway driving.#Headlights can be supported by the use of other lights like driving lights.
+	~spot light for highway driving.#Headlights can be supported by the use of other lights like driving lights.
+	~spot light for higher speed driving.#Headlights can be supported by the use of other lights like driving lights.
+	~bright light for urban driving.#Headlights can be supported by the use of other lights like driving lights.
+}
+
+
+//name:TQ1163
+::TQ1163::Drivers using High Intensity Discharge or HID lights are able to see the road approximately:{
+	=300 feet or 100 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+	~400 feet or 120 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+	~500 feet or 150 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+	~600 feet or 200 meters.#HID lights illuminate much further than a halogen light, which is about 200 feet or 60 meters.
+}
+
+
+//name:TQ1164
+::TQ1164::Indicators or turn lights are used to let other road users know that:{
+	=the driver is about to change the direction of their travel depending on what side the lights are activated.#A flasher unit connected in series with the lights causes them to flash.
+	~the driver is about to make a right hand turn.#A flasher unit connected in series with the lights causes them to flash.
+	~the vehicle is about to make a left hand turn.#A flasher unit connected in series with the lights causes them to flash.
+	~the driver is intending to reverse the vehicle.#A flasher unit connected in series with the lights causes them to flash.
+}
+
+
+//name:TQ1165
+::TQ1165::Some types of headlights can improve forward lighting while cornering. How does this work?{
+	=This type of headlight swivels through the horizontal plane so that the headlight turns into the corner as the driver turns the steering wheel.#Better lighting into a corner can also be achieved by connecting a white cornering light that is connected to the indicators and focused into the corners.
+	~This type of headlight is connected by a linkage to the suspension system that turns the headlight into the corner as the road wheels turn.#Better lighting into a corner can also be achieved by connecting a white cornering light that is connected to the indicators and focused into the corners.
+	~This type of headlight swivels through the vertical plane so that the headlight turns into the corner as the driver turns the steering wheel.#Better lighting into a corner can also be achieved by connecting a white cornering light that is connected to the indicators and focused into the corners.
+}
+
+
+//name:TQ1166
+::TQ1166::How are the stop lamp bulbs connected in relation to each other?{
+	=In parallel.#Most lighting systems on the vehicle are connected in parallel.
+	~In series.#Most lighting systems on the vehicle are connected in parallel.
+	~In series/parallel.#Most lighting systems on the vehicle are connected in parallel.
+	~None of these answers.#Most lighting systems on the vehicle are connected in parallel.
+}
+
+
+//name:TQ1167
+::TQ1167::Which of the following is not a part of the reverse light circuit?{
+	=Brake light switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Reverse light switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Ignition switch.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+	~Vehicle battery.#Reversing lights are white lights fitted to the rear of all vehicles. They provide light for vision behind the vehicle and to warn others that the vehicle is reversing.
+}
+
+

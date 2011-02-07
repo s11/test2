@@ -1,0 +1,111 @@
+// question: 24993  name: HAQ0488 
+::HAQ0488::[html]In a 2-stroke engine the inlet and exhaust ports are open and closed by the movement of the .................{
+	=%100%pistons#
+}
+
+
+// question: 24994  name: HAQ0489 
+::HAQ0489::[html]Intake occurs when the air-fuel mixture enters the .................{
+	=%100%crankcase#
+}
+
+
+// question: 24995  name: HAQ0490 
+::HAQ0490::[html]The last of the five events of combustion is ................., removing leftover gases.{
+	=%100%exhaust#
+}
+
+
+// question: 24996  name: HAQ0491 
+::HAQ0491::[html]In one 2-stroke cycle, the ................. does 1 revolution.{
+	=%100%crankshaft#
+}
+
+
+// question: 24997  name: HAQ0493 
+::HAQ0493::[html]In a 2-stroke cycle, only ................. stroke delivers energy to the crankshaft.{
+	=%100%one#
+	=%100%1#
+}
+
+
+// question: 24998  name: HAQ0494 
+::HAQ0494::[html]Calling an engine 2-stroke means its engine cycle has 2 strokes. As in a 4-stroke engine, a stroke is the distance from top dead center to ................. dead center.{
+	=%100%bottom#
+}
+
+
+// question: 24999  name: HAQ0495 
+::HAQ0495::[html]In a 2-stroke engine, as it rises, the top of the piston covers the ................. port and the transfer port.{
+	=%100%exhaust#
+}
+
+
+// question: 25000  name: HAQ0496 
+::HAQ0496::[html]Pressure below the piston falls until it is less than outside air pressure. This pressure difference forces more mixture into the .................{
+	=%100%crankcase#
+}
+
+
+// question: 25001  name: HAQ0497 
+::HAQ0497::[html]As the piston reaches top dead center, mixture already there ignites, and expansion of gases starts to drive the piston .................{
+	=%100%downward#
+}
+
+
+// question: 25002  name: HAQ0498 
+::HAQ0498::[html]The bottom of the piston covers the inlet port as the top of the piston uncovers the exhaust port. Opening the exhaust port starts the ................. process.{
+	=%100%scavenging#
+}
+
+
+// question: 25003  name: HAQ0499 
+::HAQ0499::[html]The crankcase has a hole open to the crankcase chamber, and a rotary valve cover attached to the .................{
+	=%100%carburettor#
+	=%100%carburetor#
+}
+
+
+// question: 25004  name: HAQ0500 
+::HAQ0500::[html]Some 2-stroke engines such as outboard motors use an intake system with a reed valve. It is a small flexible metal plate that covers the inlet port, and it can be attached to the ................., or to the inlet port.{
+	=%100%crankcase#
+}
+
+
+// question: 25005  name: HAQ0501 
+::HAQ0501::[html]The reed valve opens and closes automatically, according to changes in ................. in the crankcase.{
+	=%100%pressure#
+}
+
+
+// question: 25006  name: HAQ0502 
+::HAQ0502::[html]Air-fuel mixture enters and circulates in the sealed crankcase below the .................{
+	=%100%piston#
+}
+
+
+// question: 25007  name: HAQ0503 
+::HAQ0503::[html]A spark plug ignites the air-fuel mixture and it .................{
+	=%100%burns#
+}
+
+
+// question: 25008  name: HAQ0504 
+::HAQ0504::[html]Pressure from the expanding gases pushes the piston down in a power stroke. The top of the piston uncovers the ................. port and lets exhaust gases escape.{
+	=%100%exhaust#
+}
+
+
+// question: 25009  name: HAQ0505 
+::HAQ0505::[html]Notice which events occur above the piston. Compression of the air-fuel mixture into the combustion chamber. Combustion for the ................. stroke. And scavenging of the exhaust gases.{
+	=%100%power#
+}
+
+
+// question: 25010  name: HAQ0506 
+::HAQ0506::[html]The transfer of mixture from the crankcase, through the ................. port and into the combustion chamber occurs below the piston.{
+	=%100%transfer#
+}
+
+
+

@@ -1,0 +1,62 @@
+//name:TQ1481
+::TQ1481::All cylinder  blocks are made with ribs, webs and fillets to provide rigidity but:{
+	=keep weight to a minimum.#The cylinder block is the largest part of the engine.  Its upper section carries the cylinders and pistons. Normally, the lower section forms the crankcase, and supports the crankshaft.
+	~keep weight high.#The cylinder block is the largest part of the engine.  Its upper section carries the cylinders and pistons. Normally, the lower section forms the crankcase, and supports the crankshaft.
+	~keep the overall shape of the block.#The cylinder block is the largest part of the engine.  Its upper section carries the cylinders and pistons. Normally, the lower section forms the crankcase, and supports the crankshaft.
+	~maintain the shape of the waterjackets.#The cylinder block is the largest part of the engine.  Its upper section carries the cylinders and pistons. Normally, the lower section forms the crankcase, and supports the crankshaft.
+}
+
+
+//name:TQ1482
+::TQ1482::Cylinder blocks are usually made of either iron or:{
+	=aluminum.#It can be cast in one piece from grey iron. Or it can be alloyed with other metals like nickel or chromium.   
+	~steel.#It can be cast in one piece from grey iron. Or it can be alloyed with other metals like nickel or chromium.   
+	~copper.#It can be cast in one piece from grey iron. Or it can be alloyed with other metals like nickel or chromium.   
+	~titanium.#It can be cast in one piece from grey iron. Or it can be alloyed with other metals like nickel or chromium.   
+}
+
+
+//name:TQ1483
+::TQ1483::Cylinder sleeves are used in some engines because they:{
+	=can be made of a harder material.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. The block can be made of one kind of iron that's light and easy to cast, while the sleeve uses another kind that is better able to stand up to wear and tear.
+	~allow cam-ground pistons to be fitted.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. The block can be made of one kind of iron that's light and easy to cast, while the sleeve uses another kind that is better able to stand up to wear and tear.
+	~reduce the effects of expansion.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. The block can be made of one kind of iron that's light and easy to cast, while the sleeve uses another kind that is better able to stand up to wear and tear.
+	~improve heat transfer.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston' rings. The block can be made of one kind of iron that's light and easy to cast, while the sleeve uses another kind that is better able to stand up to wear and tear.
+}
+
+
+//name:TQ1484
+::TQ1484::What is the main benefit claimed for a wet sleeve?{
+	=Heat is transferred directly to the coolant.#With a wet sleeve, the outer surface is part of the water-jacket around the cylinder. It's called wet because it has coolant against its outer surface. This helps speed up heat transfer between the sleeve and coolant.
+	~It is easier to re-bore than a cast sleeve.#With a wet sleeve, the outer surface is part of the water-jacket around the cylinder. It's called wet because it has coolant against its outer surface. This helps speed up heat transfer between the sleeve and coolant.
+	~The wet sleeve doesn't corrode as quickly.#With a wet sleeve, the outer surface is part of the water-jacket around the cylinder. It's called wet because it has coolant against its outer surface. This helps speed up heat transfer between the sleeve and coolant.
+	~The cooling water cannot enter the sump.#With a wet sleeve, the outer surface is part of the water-jacket around the cylinder. It's called wet because it has coolant against its outer surface. This helps speed up heat transfer between the sleeve and coolant.
+}
+
+
+//name:TQ1485
+::TQ1485::Dry cylinder sleeves are normally pressed into the block because they:{
+	=must not move during operation.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. However to ensure that they do not move during normal operation they are normally pressed into their location.
+	~allow cam-ground pistons to be fitted.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. However to ensure that they do not move during normal operation they are normally pressed into their location.
+	~reduce the effects of expansion.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. However to ensure that they do not move during normal operation they are normally pressed into their location.
+	~improve heat transfer.#Cylinder sleeves are used in engine blocks to provide a hard-wearing material for pistons and piston rings. However to ensure that they do not move during normal operation they are normally pressed into their location.
+}
+
+
+//name:TQ1486
+::TQ1486::The connecting rod connects the piston to the:{
+	=crankshaft.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+	~camshaft.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+	~bearing.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+	~gudgeon pin.#The connecting rod connects the piston to the crankshaft. It is fastened to the piston at its little end by a piston or gudgeon pin.
+}
+
+
+//name:TQ1487
+::TQ1487::Grey iron is a form of cast iron and is used because:{
+	=it resists heat and corrosion and can be cast into many different shapes.#Many vehicle components are manufactured using a casting process. Gray iron is an ideal material for this process in both cost and ease of manufacture.
+	~it is not brittle and can absorb shocks.#Many vehicle components are manufactured using a casting process. Gray iron is an ideal material for this process in both cost and ease of manufacture.
+	~it contains silicon, manganese and phosphorus which accelerates engine wear.#Many vehicle components are manufactured using a casting process. Gray iron is an ideal material for this process in both cost and ease of manufacture.
+}
+
+

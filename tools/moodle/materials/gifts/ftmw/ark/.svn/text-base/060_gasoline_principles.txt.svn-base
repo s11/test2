@@ -1,0 +1,157 @@
+// question: 27436  name: HAQ1114 
+::HAQ1114::[html]Petroleum or ................. oil is taken out of the ground as a mix of impurities and highly flammable compounds of hydrogen and carbon, called hydrocarbons.{
+	=%100%crude#
+}
+
+
+// question: 27437  name: HAQ1115 
+::HAQ1115::[html]If liquid gasoline vaporises in the fuel line, bubbles of vapor can block the flow of fuel and stop the engine. This is called vapor .................{
+	=%100%lock#
+}
+
+
+// question: 27438  name: HAQ1116 
+::HAQ1116::[html]This is increasing the demand for high ................. pure paraffin (alkane) components, such as Alkylate, and is forcing refineries to add processing units to reduce the benzene content.{
+	=%100%octane#
+}
+
+
+// question: 27439  name: HAQ1117 
+::HAQ1117::[html]Some contaminants, in particular mercaptans and hydrogen sulfide must be removed from gasoline because they cause ................. in engines.{
+	=%100%corrosion#
+}
+
+
+// question: 27440  name: HAQ1118 
+::HAQ1118::[html]The most important characteristic of gasoline is its Research Octane Number (RON) or octane rating, which is a measure of how resistant gasoline is to premature detonation (.................).{
+	=%100%knocking#
+}
+
+
+// question: 27441  name: HAQ1119 
+::HAQ1119::[html]Romania is a supplier of 'light-sweet' crude oil, which, when ................., resulted in a gasoline with an 87 rating (DON).{
+	=%100%distilled#
+}
+
+
+// question: 27442  name: HAQ1120 
+::HAQ1120::[html]Using a fuel with a higher octane lets an engine be run at a higher ................. ratio without having problems with knock.{
+	=%100%compression#
+}
+
+
+// question: 27443  name: HAQ1121 
+::HAQ1121::[html]Special ................. are used to slow down the rate of combustion.{
+	=%100%additives#
+}
+
+
+// question: 27444  name: HAQ1122 
+::HAQ1122::[html]Octane rating is a measure of how well a gasoline ................. detonation.{
+	=%100%resists#
+}
+
+
+// question: 27445  name: HAQ1123 
+::HAQ1123::[html]Dieseling may even cause an engine to run ................. for a short time.{
+	=%100%backwards#
+}
+
+
+// question: 27446  name: HAQ1124 
+::HAQ1124::[html]Dieseling can be prevented by a special ................. in the carburetor idle circuit that cuts off fuel when the ignition is turned off.{
+	=%100%valve#
+}
+
+
+// question: 27447  name: HAQ1125 
+::HAQ1125::[html]The term stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete ................. of the fuel.{
+	=%100%combustion#
+}
+
+
+// question: 27448  name: HAQ1126 
+::HAQ1126::[html]If the actual mixture fed to the engine contains more air (a leaner ratio), then some oxygen is left in the .................{
+	=%100%exhaust#
+}
+
+
+// question: 27449  name: HAQ1127 
+::HAQ1127::[html]To combat this modern petrol engines are fitted with ................. converters in the exhaust that remove this CO along with any hydrocarbons left over due to poor combustion.{
+	=%100%catalytic#
+}
+
+
+// question: 27451  name: HAQ1129 
+::HAQ1129::[html]The density of air is its mass per unit .................{
+	=%100%volume#
+}
+
+
+// question: 27452  name: HAQ1130 
+::HAQ1130::[html]And if there is a larger mass of air, it will contain ................. more oxygen.{
+	=%100%proportionally#
+}
+
+
+// question: 27453  name: HAQ1131 
+::HAQ1131::[html]The density of air in the atmosphere changes at different ................., and altitudes.{
+	=%100%temperatures#
+}
+
+
+// question: 27454  name: HAQ1132 
+::HAQ1132::[html]The amount of oxygen in air directly affects how well it  supports ................., so it can be important in determining an air-fuel ratio for an engine.{
+	=%100%combustion#
+}
+
+
+// question: 27455  name: HAQ1133 
+::HAQ1133::[html]The purpose of any fuel supply system is to deliver fuel to the engine in a form in which it can mix with air to form a ................. mixture.{
+	=%100%combustible#
+}
+
+
+// question: 27456  name: HAQ1134 
+::HAQ1134::[html]The fuel must be finely ................. to mix with the air.{
+	=%100%atomised#
+	=%100%atomized#
+}
+
+
+// question: 27457  name: HAQ1135 
+::HAQ1135::[html]The necessity to atomise fuel is why injection systems deliver the fuel under .................{
+	=%100%pressure#
+}
+
+
+// question: 27458  name: HAQ1136 
+::HAQ1136::[html]The fuel filter is .................{
+	=%100%directional#
+}
+
+
+// question: 27459  name: HAQ1137 
+::HAQ1137::[html]In a gasoline engine, the position of the .................-plate controls the volume of air, or air-fuel mixture, entering the manifold.{
+	=%100%throttle#
+}
+
+
+// question: 27460  name: HAQ1138 
+::HAQ1138::[html]At idle speed, the pistons draw air away from the manifold at a faster rate than it can pass the  throttle-plate into the manifold. A high vacuum, or a ................. exists.{
+	=%100%depression#
+}
+
+
+// question: 27461  name: HAQ1139 
+::HAQ1139::[html]Some engine management systems signal changes in atmospheric pressure by using a ................. pressure sensor in the ECU.{
+	=%100%barometric#
+}
+
+
+// question: 27462  name: HAQ1140 
+::HAQ1140::[html]Due to the fact that above sea level, air pressure is ................., to maintain correct air-fuel ratio, a vehicle has to reduce the amount of fuel delivered to the engine.{
+	=%100%reduced#
+}
+
+

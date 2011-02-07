@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/views/diagnostics
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-14T03:01:36.395477Z
+3536
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+attempts
+dir
+
+information
+dir
+
+scenarios
+dir
+
+systems
+dir
+

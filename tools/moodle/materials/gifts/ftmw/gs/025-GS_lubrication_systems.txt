@@ -1,0 +1,96 @@
+// question: 24537  name: HAQ0932 
+::HAQ0932::[html]A lubrication system distributes oil through the ..............................{
+	=%100%engine#
+}
+
+
+// question: 24538  name: HAQ0933 
+::HAQ0933::[html]The oil is stored in the .............................., bolted to the bottom of the engine block.{
+	=%100%sump#
+}
+
+
+// question: 24539  name: HAQ0934 
+::HAQ0934::[html]A .............................. is usually provided to remove particles of dirt from the oil, and the circulation of the oil assists with the cooling of the internals parts.{
+	=%100%filter#
+}
+
+
+// question: 24540  name: HAQ0938 
+::HAQ0938::[html]Oil won't flow up into the engine by itself so a .............................. collects it through a pickup tube and a strainer, and forces it through an oil filter, then into passageways in the engine block, called galleries.{
+	=%100%pump#
+}
+
+
+// question: 24541  name: HAQ0939 
+::HAQ0939::[html]Holes drilled in the .............................. webs allow the main bearings to supply oil to the big-end bearings.{
+	=%100%crankshaft#
+}
+
+
+// question: 24542  name: HAQ0940 
+::HAQ0940::[html]It is called a ..............................-sump lubrication system because the oil is kept in the sump ready for the next time it's used.{
+	=%100%wet#
+}
+
+
+// question: 24543  name: HAQ0941 
+::HAQ0941::[html]In a dry sump system, the oil falls to the bottom of the engine into an oil collection ..............................{
+	=%100%pan#
+}
+
+
+// question: 24544  name: HAQ0942 
+::HAQ0942::[html]The cooler and oil filter are usually on the same mounting on the ..............................{
+	=%100%cylinder-block#
+	=%100%cylinder block#
+}
+
+
+// question: 24545  name: HAQ0943 
+::HAQ0943::[html]For small 2-stroke engines, the oil and fuel are ..............................{
+	=%100%pre-mixed#
+	=%100%premixed#
+}
+
+
+// question: 24546  name: HAQ0944 
+::HAQ0944::[html]A mixture of air, oil and fuel passes through a sealed crankcase on its way to the combustion chamber. That makes the crankcase part of the fuel intake system so it can't be used as a ..............................{
+	=%100%sump#
+}
+
+
+// question: 24547  name: HAQ0945 
+::HAQ0945::[html]An engine-driven oil pump takes oil from a tank and pumps a measured amount directly into the .............................. where it will mix with the fuel and lubricate the internal engine parts.{
+	=%100%engine#
+}
+
+
+// question: 24548  name: HAQ0946 
+::HAQ0946::[html]The .............................. delivers the correct amount of oil for the engine speed and the throttle setting, which makes it a more precise system than running the engine on a fixed oil-gasoline mixture.{
+	=%100%pump#
+}
+
+
+// question: 24549  name: HAQ3713 
+::HAQ3713::[html]Engine oil performs many other functions apart from lubricating moving components. Two other functions are .............................. protection and noise suppression.{
+	=%100%corrosion#
+}
+
+
+// question: 24550  name: HAQ3714 
+::HAQ3714::[html].............................. build up in the engine due to the accumulation of combustion by-products and moisture.{
+	=%100%acids#
+}
+
+
+// question: 24551  name: HAQ3715 
+::HAQ3715::[html]As oil is pumped through the engine it is forced between moving components. This protects the components from wear and acts as a shock absorber .............................. the shock loads between those parts and quietening the engine operation.{
+	=%100%dampening#
+}
+
+
+// question: 24552  name: HAQ3716 
+::HAQ3716::[html]The oil also coats all the internal walls of the .............................. providing an insulating barrier to noise.{
+	=%100%engine#
+}

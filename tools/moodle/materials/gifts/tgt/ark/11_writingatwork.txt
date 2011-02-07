@@ -1,0 +1,55 @@
+//name:TQ1395
+::TQ1395::What information is not required on a Job Sheet?{
+	=Inspection details.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+	~Our company or service providers.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+	~Our customer.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+	~The service operations.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+}
+
+
+//name:TQ1396
+::TQ1396::What are the steps in a business writing process?{
+	=Step 1 - Think, Step 2 - Draft, Step 3 - Finalize.#The three steps in business writing include Think, Draft, Finalize.
+	~Step 1 - Think, Step 2 - Check, Step 3 - Draft.#The three steps in business writing include Think, Draft, Finalize.
+	~Step 1 - Draft, Step 2 - Think, Step 3 -  Finalize.#The three steps in business writing include Think, Draft, Finalize.
+	~Step 1 - Choose, Step 2 - Analyze, Step 3 - Check.#The three steps in business writing include Think, Draft, Finalize.
+}
+
+
+//name:TQ1397
+::TQ1397::What should we pay particular attention to when we draft a document?{
+	=Thoughts and ideas.#The key steps in drafting a document include thoughts and ideas.
+	~Specific details.#The key steps in drafting a document include thoughts and ideas.
+	~Choice of words.#The key steps in drafting a document include thoughts and ideas.
+	~Order of the content.#The key steps in drafting a document include thoughts and ideas.
+}
+
+
+//name:TQ1398
+::TQ1398::The purpose of an inspection report is to: {
+	=help check that all systems are operational and safe#By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+	~help you diagnose any faults reported by the customer #By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+	~record any scratch and dent damage on a vehicle before servicing it.#By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+	~help a supervisor to check repair work carried out by a technician#By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+}
+
+
+//name:TQ1399
+::TQ1399::If you come across a defective piece of equipment in the workplace, what should you do?{
+	=Tag the defective item and remove it from use.#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Tell any of your co-workers near the item#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Use it very carefully#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Put the item in a secure place#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Tell your supervisor#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+}
+
+
+//name:TQ1400
+::TQ1400::When should you fill out an accident report?{
+	=As soon as possible after the accident has occurred.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+	~When the injured person was not using equipment correctly, according to manufacturer's instructions.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+	~Once the medical report confirms that the accident was sufficiently serious.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+	~When no supervisor was present.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+}
+
+

@@ -1,0 +1,162 @@
+// question: 26688  name: HAQ1925 
+::HAQ1925::[html]A ................. brake for when it's stationary (usually operated by hand but in some incidences are foot actuated, that is apply/release)to provide a parking phase.{
+	=%100%park#
+}
+
+
+// question: 26689  name: HAQ1926 
+::HAQ1926::[html]A basic braking system has a: brake pedal, ................. cylinder to provide hydraulic pressure.{
+	=%100%master#
+}
+
+
+// question: 26690  name: HAQ1927 
+::HAQ1927::[html]The driver pushes the brake pedal; it applies force (.................) to the piston in the master cylinder.{
+	=%100%mechanical#
+}
+
+
+// question: 26691  name: HAQ1928 
+::HAQ1928::[html]The piston applies pressure (.................) to the fluid in the cylinder, the lines transfer the pressure (undimmished in all directions within the confines of the brake lines) to the wheel cylinders, and the wheel cylinders at the wheel assemblies apply the brakes.{
+	=%100%hydraulic#
+}
+
+
+// question: 26692  name: HAQ1929 
+::HAQ1929::[html]When brakes are applied to a moving vehicle, they absorb the vehicle's ................. energy.{
+	=%100%kinetic#
+}
+
+
+// question: 26697  name: HAQ1930 
+::HAQ1930::[html]Low coefficient of friction for a pair of surfaces means they ................. move easily over each other.{
+	=%100%can#
+}
+
+
+// question: 26698  name: HAQ1931 
+::HAQ1931::[html]High coefficient of friction for a pair of surfaces means they ................. move easily over each other.{
+	=%100%cannot#
+}
+
+
+// question: 26699  name: HAQ1932 
+::HAQ1932::[html]If you make them very flat and smooth, and remove all surface contaminants in a vacuum, the smooth flat surfaces will actually adhere to each other, making what is called a '.................'.{
+	=%100%cold weld#
+}
+
+
+// question: 26700  name: HAQ1933 
+::HAQ1933::[html]A common way to reduce friction is by using a ................. such as oil that is placed between the two surfaces, often dramatically lessening the coefficient of friction.{
+	=%100%lubricant#
+}
+
+
+// question: 26701  name: HAQ1934 
+::HAQ1934::[html]The science of friction and lubrication is called .................{
+	=%100%tribology#
+}
+
+
+// question: 26702  name: HAQ1935 
+::HAQ1935::[html]In physics, a lever (from Old French levier, the agent noun to lever 'to raise', c. f. levant) is a rigid object that is used with an appropriate fulcrum or ................. point to multiply the mechanical force that can be applied to another object.{
+	=%100%pivot#
+}
+
+
+// question: 26703  name: HAQ1936 
+::HAQ1936::[html]This is also termed ................. advantage, and is one example of the principle of moments. The principle of leverage can also be derived using Newton's laws of motion and modern statics.{
+	=%100%mechanical#
+}
+
+
+// question: 26704  name: HAQ1937 
+::HAQ1937::[html]The force applied (at end points of the lever) is ................. to the ratio of the length of the lever arm measured  between the fulcrum and application point of the force applied at each end of the lever.{
+	=%100%proportional#
+}
+
+
+// question: 26705  name: HAQ1938 
+::HAQ1938::[html]Pulleys change the ................. of a tension force on a flexible material, e.g. a rope or cable. In addition, pulleys can be 'added together' to create mechanical advantage, by having the flexible material looped over several pulleys in turn.{
+	=%100%direction#
+}
+
+
+// question: 26706  name: HAQ1939 
+::HAQ1939::[html]Hydraulic brake systems use a incompressible fluid, such as brake fluid or oil, to transmit forces from one location to another within the fluid. Most automobiles use hydraulics in the ................. systems.{
+	=%100%braking#
+}
+
+
+// question: 26707  name: HAQ1940 
+::HAQ1940::[html]Hydraulic pressure can transmit increased force. Since pressure is force per ................., the same pressure applied over different areas can produce different forces - larger and smaller.{
+	=%100%unit area#
+}
+
+
+// question: 26708  name: HAQ1941 
+::HAQ1941::[html]Pressure is sometimes measured not as an absolute pressure, but relative to ................. pressure; such measurements are sometimes called gauge pressure.{
+	=%100%atmospheric#
+}
+
+
+// question: 26709  name: HAQ1942 
+::HAQ1942::[html]Pressure acts in all directions at a point inside a gas. At the surface of a gas, the pressure force acts ................. to the surface.{
+	=%100%perpendicular#
+}
+
+
+// question: 26710  name: HAQ1943 
+::HAQ1943::[html]In automobiles, fade, or brake fade is the reduction in stopping power caused by a buildup of heat in the braking  surfaces (and in the case of drum brakes the change in dimension of components in response to heat). Owing to their configuration this is more prevalent in ................. brakes.{
+	=%100%drum#
+}
+
+
+// question: 26711  name: HAQ1944 
+::HAQ1944::[html]................. brakes are much more resistant to brake fade and have come to be a  standard feature in front brakes for most vehicles but the brake rotors can become warped due to excessive heating.{
+	=%100%disc#
+}
+
+
+// question: 26712  name: HAQ1945 
+::HAQ1945::[html]When running down a long  downgrade that would require braking simply select a ................. gear (for automatic transmissions this may necessitate a brief application of the throttle after selecting the gear).{
+	=%100%lower#
+}
+
+
+// question: 26713  name: HAQ1946 
+::HAQ1946::[html]Regenerative braking is any technology that allows a vehicle to recapture and store part of the ................. energy that would ordinarily be lost when braking.{
+	=%100%kinetic#
+}
+
+
+// question: 26714  name: HAQ1947 
+::HAQ1947::[html]Electric railway vehicles feed the recaptured energy back into the grid, while road vehicles store it for re-acceleration using ................., batteries or capacitors.{
+	=%100%flywheels#
+}
+
+
+// question: 26715  name: HAQ1948 
+::HAQ1948::[html]Older dynamic brake systems generally used the electricity to provide heat or just passed it through large banks of ................. to dissipate the energy.{
+	=%100%resistors#
+}
+
+
+// question: 26693  name: HAQ3748 
+::HAQ3748::[html]Drum brakes have a drum attached to the wheel ................., and braking occurs by means of brake shoes, expanding against the inside of the drum.{
+	=%100%hub#
+}
+
+
+// question: 26695  name: HAQ3750 
+::HAQ3750::[html]Disc brakes require ................. forces to operate them than drum brakes.{
+	=%100%greater#
+}
+
+
+// question: 26696  name: HAQ3751 
+::HAQ3751::[html]The ................. braking system prevents wheel-lock or skidding, no matter how hard brakes are applied, or how slippery the road surface.{
+	=%100%antilock#
+}
+
+

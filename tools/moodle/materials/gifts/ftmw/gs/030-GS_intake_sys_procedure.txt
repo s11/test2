@@ -1,0 +1,16 @@
+// question: 24645  name: HAQ1070 
+::HAQ1070::[html]The air cleaner on a multi-port fuel injected vehicle is typically located in a rectangular box within the air .............................. system.{
+	=%100%induction#
+}
+
+
+// question: 24646  name: HAQ1071 
+::HAQ1071::[html]Engines with carburetors or throttle body injection usually have a large round air filter mounted on top of the .............................. body.{
+	=%100%throttle#
+}
+
+
+// question: 24647  name: HAQ1072 
+::HAQ1072::[html]Clean the .............................. of the filter housing to make sure that the new filter will seal properly when fitted.{
+	=%100%inside#
+}

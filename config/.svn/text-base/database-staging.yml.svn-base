@@ -1,0 +1,22 @@
+staging: &defaults
+  adapter: mysql
+  encoding: utf8
+  reconnect: true
+  database: content_reporting
+  username: root
+  password: 13et0N3!
+  host: cashmere.jbpub.com
+  pool: 5
+
+
+# TODO: Investigate wether it's possible to use the same connection instead of reconnecting for each client?
+cdx_moodle:
+  <<: *defaults
+  database: moodle_master2
+
+cdx_jbp:
+  adapter: sqlserver
+  mode: ODBC
+  dsn: yequel
+  username: CDXaccess
+  password: R4b9mhFntx

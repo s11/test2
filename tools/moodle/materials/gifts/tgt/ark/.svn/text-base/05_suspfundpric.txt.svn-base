@@ -1,0 +1,69 @@
+//name:TQ0510
+::TQ0510::The purpose of shock absorbers is to:{
+	=dampen spring oscillation.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~compensate for weak springs.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~increase wheel bounce.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~support the weight of the vehicle.#The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+}
+
+
+//name:TQ0511
+::TQ0511::The purpose of the complete suspension system is to:{
+	=isolate the vehicle body from road shocks and vibration.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from vibrations.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from road shocks.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+	~isolate the vehicle body from the road.#The purpose of a vehicle suspension system is to isolate the vehicle body from road shocks and vibration. A major design objective is to reduce the un-sprung weight of the system, which in turn increases the effectiveness of the system. 
+}
+
+
+//name:TQ0512
+::TQ0512::The sprung mass of a vehicle refers to the:{
+	=mass supported by the springs.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the suspension.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the wheel and brake assemblies.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+	~mass of the springs.#The sprung mass is that part of the vehicle supported by the springs such as the body, the frame, the engine and associated parts.
+}
+
+
+//name:TQ0513
+::TQ0513::One major objective in the design of the suspension system is to:{
+	=reduce the unsprung weight of the vehicle.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from vibrations.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from road shocks.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+	~isolate the vehicle body from the road.#In many vehicles a major objective is to reduce the un-sprung weight of the system which in turn increases the effectiveness of the system.
+}
+
+
+//name:TQ0514
+::TQ0514::The forces that cause a wheel and tire to bounce are created by the:{
+	=suspension movement.#Vehicle ride and handling can be improved by keeping unsprung mass as low as possible. When large and heavy wheel assemblies encounter a bump or pothole, they experience a larger reaction force, sometimes large enough to make the tire lose contact with the road surface.
+	~strut assembly.#Vehicle ride and handling can be improved by keeping unsprung mass as low as possible. When large and heavy wheel assemblies encounter a bump or pothole, they experience a larger reaction force, sometimes large enough to make the tire lose contact with the road surface.
+	~shock absorber.#Vehicle ride and handling can be improved by keeping unsprung mass as low as possible. When large and heavy wheel assemblies encounter a bump or pothole, they experience a larger reaction force, sometimes large enough to make the tire lose contact with the road surface.
+}
+
+
+//name:TQ0515
+::TQ0515::Which of the following vehicle components is not part of the unsprung mass?{
+	=The chassis.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+	~The brakes.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+	~The tires.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+	~The wheels.#Unsprung mass includes the components that follow the road contours, such as wheels, tires, brake assemblies and any part of the steering and suspension not supported by the springs.
+}
+
+
+//name:TQ0516
+::TQ0516::Generally the unsprung weight of a vehicle should be kept as low as possible.{
+	=TRUE#Unsprung weight relates to how well the wheel assembly not supported by the suspension spring action can change direction and recover from the direction change.  The lighter the unsprung weight the less harshness is transmitted back to the vehicle frame/unibody.
+	~FALSE#Unsprung weight relates to how well the wheel assembly not supported by the suspension spring action can change direction and recover from the direction change.  The lighter the unsprung weight the less harshness is transmitted back to the vehicle frame/unibody.
+}
+
+
+//name:TQ0517
+::TQ0517::When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must:{
+	=be located longitudinally, and laterally, while still having the freedom to move vertically.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located longitudinally, and laterally, while still having the freedom to move horizontally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located , vertically and laterally, while still having the freedom to move longitudinally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+	~be located longitudinally, and vertically, while still having the freedom to move laterally.#When a vehicle is in motion, driving thrust, braking torque, and cornering must be transferred to the frame of the vehicle, but the wheel units must be located longitudinally, and laterally, while still having the freedom to move vertically to allow for suspension movement.
+}
+
+

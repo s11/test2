@@ -1,0 +1,70 @@
+%style{ :type => "text/css", :media => "screen" }
+  :sass
+    .label
+      :font-weight bold
+      :text-align right
+      :padding-right 10px
+
+.h1
+  %h1
+    Contact CDX Global
+  
+%table{:border => 0}
+  %tr
+    %td.label{:width => '170px'} Customer Support Email:
+    %td
+      %a{ :href => "mailto:support@cdxglobal.com" }
+        support@cdxglobal.com
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label Customer Support Website:
+    %td
+      %a{ :href => "http://www.cdxglobal.com/support", :target => "_blank" }
+        www.cdxglobal.com/support
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label General Email:
+    %td
+      %a{ :href => "mailto:info@cdxglobal.com?subject=Enquiry from CDX Plus Online" }
+        info@cdxglobal.com
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label General Website:
+    %td
+      %a{ :href => "http://www.cdxglobal.com", :target => "_blank" }
+        www.cdxglobal.com
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label{:rowspan => 7, :valign => 'top', :width => '170px'} Head Office:
+    %td Jones and Bartlett Publishers 
+  %tr
+    %td 40 Tall Pine Drive
+  %tr
+    %td Sudbury, MA 01776
+  %tr
+    %td USA
+  %tr
+    %td Toll Free: 1(800)832 0034
+  %tr
+    %td Switchboard: 1(978)443 5000
+  %tr
+    %td Fax: 1(978)443 8000
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label USA and Canada:
+    %td Free Phone: 1 866 212 7603
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label UK:
+    %td Free Phone: 0 800 028 4754
+  %tr
+    %td{:colspan => 2} &nbsp;
+  %tr
+    %td.label Ireland:
+    %td Free Phone: 1 800 556 168

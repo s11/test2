@@ -1,0 +1,126 @@
+//name:TQ1334
+::TQ1334::Air density is expressed as a ratio of what?{
+	=Mass per unit volume.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+	~Mass times air pressure.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+	~Volume times air pressure.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+	~Oxygen percentage per unit volume.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+}
+
+
+//name:TQ1335
+::TQ1335::Back-pressure is the name used to describe:{
+	=a build-up of pressure in an exhaust system.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+	~the air pressure in the rear tires.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+	~the difference in pressure between the intake and outlet of a pump.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+	~the resistance to the circulation of coolant in a radiator.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+}
+
+
+//name:TQ1336
+::TQ1336::Bernoulli's principle states that when fluid is flowing through a pipe and the diameter narrows:{
+	=the fluid pressure lowers and the fluid speed increases.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+	~the fluid temperature goes up and and the fluid pressure increases.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+	~the fluid slows down and the fluid pressure increases.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+	~the fluid pressure decreases and the fluid temperature goes up.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+}
+
+
+//name:TQ1337
+::TQ1337::Carbon monoxide emissions are produced during combustion as a result of:{
+	=incomplete combustion of carbon and carbon compounds.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+	~using fuel with an incorrect octane rating.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+	~incomplete combustion of nitrous oxide residues.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+	~worn piston rings allowing cylinder leakage.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+}
+
+
+//name:TQ1338
+::TQ1338::A closed loop is part of:{
+	=a feedback information system.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+	~a battery safety harness.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+	~an audio alarm system.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+	~vehicle engine hoist equipment.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+}
+
+
+//name:TQ1339
+::TQ1339::The frequency of sound pressure waves refers to:{
+	=the rate at which pressure waves reach our ears.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+	~the elapsed time between a wave peak and its following trough.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+	~the amplitude, or height, of each pressure wave.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+	~the rate at which the pitch of the sound is increasing or decreasing.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+}
+
+
+//name:TQ1340
+::TQ1340::A potentiometer is:{
+	=a mechanically variable resistor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+	~an electrically variable resistor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+	~a mechanically variable conductor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+	~an electronically variable conductor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+}
+
+
+//name:TQ1341
+::TQ1341::Why does a regular pressure gauge read zero when it's not in use?{
+	=Because the gauge only indicates air pressure above atmospheric pressure.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+	~Because the gauge must always be calibrated to the relative ambient pressure before use.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+	~Because the gauge must be connected to a pressure source before a reading can be taken.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+	~Because there is no pressure inside the gauge.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+}
+
+
+//name:TQ1342
+::TQ1342::The chemically correct stoichiometric ratio for normal engine operation is:{
+	=14.7 kg of air to one kilo of fuel.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+	~14.7 kilos of fuel to one kilo of air.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+	~14 parts of air to 7 parts of fuel.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+	~14.7 cubic feet or cubic meters of air to one cubic foot or meter of fuel.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+}
+
+
+//name:TQ1343
+::TQ1343::The tachometer indicates engine RPM.  It is connected to:{
+	=the negative terminal of the ignition coil.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+	~the wheel speed sensors.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+	~the crankshaft drive pulley.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+	~the number one cylinder spark plug.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+}
+
+
+//name:TQ1344
+::TQ1344::Thermal expansion refers to:{
+	=the way some materials expand when they are heated.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+	~the rate at which heat is lost to the environment.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+	~the rate at which heat is transferred through a material.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+	~the speed at which combustion occurs in a cylinder.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+}
+
+
+//name:TQ1345
+::TQ1345::The carburetor venturi is the name used to describe:{
+	=the place where the intake passage narrows.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+	~the nozzle from where the fuel is drawn.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+	~the fuel reservoir.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+	~the valve controlling the flow of air-fuel mixture in the intake system.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+}
+
+
+//name:TQ1346
+::TQ1346::Volumetric efficiency is a measure of:{
+	=the air-fuel mixture burned in the cylinder.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+	~the internal volume of each cylinder.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+	~the combined volume of the combustion chambers in all the cylinders.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+	~the volume of air held in the plenum chamber.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+}
+
+
+//name:TQ1347
+::TQ1347::Atmospheric pressure is approximately:{
+	=101.3 kPa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+	~10.13 kPa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+	~1013 kPa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+	~101.3 Pa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+}
+
+

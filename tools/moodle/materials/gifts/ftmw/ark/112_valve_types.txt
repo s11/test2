@@ -1,0 +1,87 @@
+// question: 30697  name: HAQ2324 
+::HAQ2324::[html]The basic action of the valves in the hydraulic system can be summarized in a simple line diagram. The ................. regulating valve maintains line pressure in the system.{
+	=%100%primary#
+}
+
+
+// question: 30698  name: HAQ2325 
+::HAQ2325::[html]Line pressure is directed to the manual ................. and to the throttle valve at all times.{
+	=%100%valve#
+}
+
+
+// question: 30699  name: HAQ2326 
+::HAQ2326::[html]The ................. regulating valve determines the pressure in the converter and in the lubricating circuits.{
+	=%100%secondary#
+}
+
+
+// question: 30700  name: HAQ2328 
+::HAQ2328::[html]Governor pressure is directed to one end of the shift valves, while throttle valve ................. is directed to the other end.{
+	=%100%pressure#
+}
+
+
+// question: 30701  name: HAQ2329 
+::HAQ2329::[html]The hydraulic system of the Borg Warner 35 transmission has a number of regulating and ................. valves. They can be readily identified in a hydraulic circuit diagram.{
+	=%100%control#
+}
+
+
+// question: 30702  name: HAQ2330 
+::HAQ2330::[html]One of the valves in a hydraulic system controls fluid pump output to maintain the required line pressure in the system. Line pressure is the highest ................. in the transmission and all other pressures are derived from line pressure.{
+	=%100%pressure#
+}
+
+
+// question: 30703  name: HAQ2331 
+::HAQ2331::[html]One of the valves in a hydraulic system shares a common bore with the downshift or ................. valve and both are influenced in their position and operation by the downshift cam, connected by a Bowden cable to the accelerator linkage.{
+	=%100%kickdown#
+	=%100%kick down#
+	=%100%kick-down#
+}
+
+
+// question: 30704  name: HAQ2332 
+::HAQ2332::[html]The resultant throttle valve, or T.V. pressure, varies from zero at closed ................. to line pressure at full throttle.{
+	=%100%throttle#
+}
+
+
+// question: 30705  name: HAQ2333 
+::HAQ2333::[html]The wider the throttle opening, the greater the T.V. pressure, and the higher the road ................. will be before an upshift will occur.{
+	=%100%speed#
+}
+
+
+// question: 30706  name: HAQ2334 
+::HAQ2334::[html]The 1-2 and 2-3 shift valves are control valves which are supplied with line pressure from the ................. valve.{
+	=%100%manual#
+}
+
+
+// question: 30707  name: HAQ2335 
+::HAQ2335::[html]The 1-2 and 2-3 shift valves' position and movement is determined by a spring plus T.V. pressure acting at one end, opposed by ................. pressure acting at the other end.{
+	=%100%governor#
+}
+
+
+// question: 30708  name: HAQ2336 
+::HAQ2336::[html]When vehicle speed is low, governor pressure is .................{
+	=%100%low#
+}
+
+
+// question: 30709  name: HAQ2337 
+::HAQ2337::[html]Another valve is included in the ................. valve combination. When the accelerator is depressed fully, the downshift valve supplies line pressure on to the spring end of the shift valve.{
+	=%100%throttle#
+}
+
+
+// question: 30710  name: HAQ2338 
+::HAQ2338::[html]Another valve is provided to make line pressure and throttle pressure sensitive to road ................. and ensures these pressures are cut-back at higher road speeds to allow smooth upshifts to take place.{
+	=%100%speed#
+}
+
+
+

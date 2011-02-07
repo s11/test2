@@ -1,0 +1,81 @@
+//name:TQ0810
+::TQ0810::The compound gear set is used in an automatic transmission instead of the simple gear set because the:{
+	=compound gear set provides more ratios.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~compound gear set is stronger.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~simple gear set is not as strong.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~compound gear set is easier to use.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+}
+
+
+//name:TQ0811
+::TQ0811::The Ravigneaux gear set consists of:{
+	=2 sun gears, 2 pinion sets and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~1 sun gear, 2 pinion sets and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~2 sun gears, 2 pinion sets and 2 ring gears.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~1 sun gear, 1 pinion set and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+}
+
+
+//name:TQ0812
+::TQ0812::The Simpson gear set consists of:{
+	=1 common sun gear, 2 pinion sets and 2 ring gears.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~2 sun gears, 2 pinion sets and 2 ring gears.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~2 sun gears, 2 pinion sets and 1 ring gear.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~1 sun gear, 1 pinion set and 1 ring gear.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+}
+
+
+//name:TQ0813
+::TQ0813::In some automatic transmissions the steel clutch plates in the clutch packs are dished. This is designed to:{
+	=apply the clutch smoothly.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+	~prevent clutch squeal.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+	~apply the clutch quickly.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+	~assist in draining fluid from the plates.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+}
+
+
+//name:TQ0814
+::TQ0814::The lining material on some bands and clutches is grooved to:{
+	=dissipate oil on application.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+	~withstand higher temperatures.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+	~retain oil for lubrication.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+	~withstand higher pressures.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+}
+
+
+//name:TQ0815
+::TQ0815::In reference to planetary gears the term idling indicates that the:{
+	=planet gears are turning and their carrier is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~sun gear is turning and the ring gear is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~ring gear is turning and the sun gear is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~planet carrier is turning and the planet gears are stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+}
+
+
+//name:TQ0816
+::TQ0816::When a relief valve is fitted in a clutch operating piston or cylinder it is designed to:{
+	=prevent clutch engagement after the fluid is released.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+	~assist with clutch application.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+	~prevent clutch slip under load.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+	~act as a timing device for clutch application.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+}
+
+
+//name:TQ0817
+::TQ0817::The simple planetary gear set consists of:{
+	=sun, planet and ring gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, moon and star gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, star and universal gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, planet and universal gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+}
+
+
+//name:TQ0818
+::TQ0818::The brake band is released by:{
+	=applying hydraulic pressure to the opposite side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+	~applying spring pressure to the opposite side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+	~applying hydraulic pressure to the apply side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+	~applying spring pressure to the apply side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+}
+
+

@@ -1,0 +1,43 @@
+//name:TQ0998
+::TQ0998::To conduct a 'continuity' test with a DVOM circuit power is:{
+	=off#If the circuit power is not disconnected then circuit voltage will disrupt the reading or damage the meter.
+	~on#If the circuit power is not disconnected then circuit voltage will disrupt the reading or damage the meter.
+}
+
+
+//name:TQ0999
+::TQ0999::When using a non-powered test lamp the clamp should be attached to:{
+	=a suitable earth close to the component to be tested.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+	~a suitable power supply close to the component to be tested.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+	~a suitable earth as far from the component to be tested as possible.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+	~a suitable power supply as far away from the component to be tested as possible.#When using a non-powered test lamp the clamp should be attached to a suitable earth close to the component to be tested.
+}
+
+
+//name:TQ1000
+::TQ1000::If the bulb of an incandescent lead lamp breaks:{
+	=the exposed filament connections can pass electric current to anything that touches them.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+	~the exposed filament connections can pass hydraulic current to anything that touches them.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+	~the exposed filament connections will melt.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+	~the exposed filament connections will repair themselves.#If the bulb of an incandescent lead lamp breaks, turn the lamp off at the wall socket, as the exposed filament connections can pass electric current to anything that touches them including you.
+}
+
+
+//name:TQ1001
+::TQ1001::When checking continuity with a DVOM:{
+	=the power supplied to the circuit during operation MUST be switched OFF.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+	~the power supplied to the circuit during operation MUST be switched ON.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+	~the reading will be given on Volts.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+	~the reading will be given in Amperes.#When checking continuity with a DVOM the power supplied to the circuit during operation MUST be switched OFF  The reading will be in Ohms.
+}
+
+
+//name:TQ1002
+::TQ1002::When using a DVOM to test voltage:{
+	=insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+	~insert the red probe lead into the 'common' input port, and the black probe lead into the 'Volt/Ohms' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+	~insert the black probe lead into the 'common' input port, and the red probe lead into the 'Amps' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+	~insert the red probe lead into the 'common' input port, and the black probe lead into the 'Amps' input port.#When using a DVOM to test voltage insert the black probe lead into the 'common' input port, and the red probe lead into the 'Volt/Ohms' input port.
+}
+
+

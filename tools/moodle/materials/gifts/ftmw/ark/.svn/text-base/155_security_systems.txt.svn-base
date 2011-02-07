@@ -1,0 +1,59 @@
+// question: 32955  name: HAQ3104 
+::HAQ3104::[html]Microdots are small plastic particles that can have either the VIN or a unique number printed on to them. They are almost invisible to the naked eye, but can be seen by using an ................. light and a magnifying glass.{
+	=%100%ultra-violet#
+	=%100%ultra violet#
+	=%100%ultraviolet#
+}
+
+
+// question: 32956  name: HAQ3105 
+::HAQ3105::[html]Door lock systems can be manual entry, where a key has to be inserted into the door lock and turned; or keyless, where a button on the key or key fob is pressed; or the door unlocks ................. as a driver carrying the correct security device approaches the vehicle.{
+	=%100%automatically#
+}
+
+
+// question: 32957  name: HAQ3106 
+::HAQ3106::[html]Further enhancement allowed manufacturers to introduce a security system that automatically ................. the doors once the vehicle had reached a preset speed. This feature is mandatory in some countries.{
+	=%100%locked#
+}
+
+
+// question: 32958  name: HAQ3107 
+::HAQ3107::[html]Remote control keys and key fobs transmit a coded signal that is received by the vehicles theft deterrent module. If the code meets preset criteria, the module ................. a switch that enables either the drivers' door or all doors to be locked and unlocked as required.{
+	=%100%closes#
+}
+
+
+// question: 32959  name: HAQ3108 
+::HAQ3108::[html]For the remote key and computer to exchange information, wireless communication is needed. High frequency electromagnetic fields known as '.................' or RF is used.{
+	=%100%Radio Frequency#
+	=%100%radio frequency#
+}
+
+
+// question: 32960  name: HAQ3109 
+::HAQ3109::[html]Some vehicles actively transmit a radio code looking for a specific key.  When the driver leaves the vehicle and the key is out of range the theft deterrent module ................. the vehicle.{
+	=%100%locks#
+}
+
+
+// question: 32961  name: HAQ3110 
+::HAQ3110::[html]Theft deterrent systems - ................. sensors detect any movement inside the cabin.{
+	=%100%Ultrasonic#
+	=%100%ultrasonic#
+}
+
+
+// question: 32962  name: HAQ3111 
+::HAQ3111::[html]The immobilization system is enabled by pressing the lock button on the remote key, locking the doors manually with the door key, or when a period of time has elapsed, typically 15 seconds, ................. the engine has stopped.{
+	=%100%after#
+}
+
+
+// question: 32963  name: HAQ3112 
+::HAQ3112::[html]Most systems use a coded system known as '.................'. The coded data transmitted and received between the key fob and theft deterrent computer randomly changes.{
+	=%100%rolling codes#
+}
+
+
+

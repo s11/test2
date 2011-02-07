@@ -1,0 +1,59 @@
+//name:TQ0181
+::TQ0181::A dynamometer measures:{
+	=power and torque.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+	~heat and energy.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+	~power.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+	~torque.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+}
+
+
+//name:TQ0182
+::TQ0182::A hydrometer measures:{
+	=specific gravity.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+	~specific heat.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+	~scientific gravity.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+	~scientific heat.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+}
+
+
+//name:TQ0183
+::TQ0183::Specific gravity' means the relative density of the fluid in comparison to the density of water.{
+	=TRUE#Water has a specific gravity of 1. Heavier or more dense substances have a number higher than 1. Substances lighter than water are rated less than 1
+	~FALSE#Water has a specific gravity of 1. Heavier or more dense substances have a number higher than 1. Substances lighter than water are rated less than 1
+}
+
+
+//name:TQ0184
+::TQ0184::The basic measuring functions of a DVOM are:{
+	=Volts, Ohms, Amps.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+	~Volts, Ohms, Watts.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+	~Volts, Ohms, Resistance.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+	~Volts, Watts, Resistance.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+}
+
+
+//name:TQ0185
+::TQ0185::What are most pressure testers or gauges designed to read at atmospheric pressure as a base measurement?{
+	=0#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+	~10#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+	~14.7#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+	~1#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+}
+
+
+//name:TQ0186
+::TQ0186::A scan tool cannot reset or cancel diagnostic trouble codes.{
+	=FALSE#When faults have been rectified, the scan tool can also reset or clear the DTCs.
+	~TRUE#When faults have been rectified, the scan tool can also reset or clear the DTCs.
+}
+
+
+//name:TQ0187
+::TQ0187::A test light is a tool for testing:{
+	=circuits.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+	~gauges.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+	~fuses.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+	~light bulbs.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+}
+
+

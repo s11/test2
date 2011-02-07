@@ -1,0 +1,108 @@
+//name:TQ1102
+::TQ1102::How many phases does a typical automotive alternator have?{
+	=Three.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~Two.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~One.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+	~None.#The typical 3 phase automotive alternator stator is wound in a star or delta configuration.
+}
+
+
+//name:TQ1103
+::TQ1103::The main advantage of alternators is that they:{
+	=all of these.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+	~do not need current regulators.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+	~produce high output at low speeds.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+	~can with stand much higher driven speeds.#Alternators also do not require current regulators. They can withstand much higher driven speeds which better suits modern vehicles, and they also produce a high output at relatively low speeds.
+}
+
+
+//name:TQ1104
+::TQ1104::The alternator converts:{
+	=mechanical energy to electrical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~mechanical energy to chemical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~electrical energy to mechanical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~chemical energy to electrical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+}
+
+
+//name:TQ1105
+::TQ1105::What does the rotating magnet in a very simple alternator induce in the stationary windings?{
+	=An alternating current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A variable current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A constant current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A direct current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+}
+
+
+//name:TQ1106
+::TQ1106::In addition to recharging the battery the alternator is required to:{
+	=supply current to the electrical circuits.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+	~provide a means of adjusting belt tension.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+	~provide an additional fuel source for more power.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+	~absorb belt vibrations.#In more recent years automotive alternators have considerably increased in capacity to keep up with the electrical demands of the modern vehicle.
+}
+
+
+//name:TQ1107
+::TQ1107::When the engine is not running, current to operate electrical circuits is supplied by the:{
+	=battery.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+	~alternator.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+	~starter.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+	~rectifier.#The battery is a source of electromotive force (EMF) and stores electrical energy through chemical reactions.
+}
+
+
+//name:TQ1108
+::TQ1108::The alternating current in an alternator stator is rectified to direct current by:{
+	=means of power diodes.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~using exciter diodes.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~using a rotor instead of an armature.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+	~the use of two slip rings.#There are 6 power diodes in the 3 phase full wave bridge rectifier in a vehicle alternator.
+}
+
+
+//name:TQ1109
+::TQ1109::In an alternator the initial excitation current from the battery is supplied to the:{
+	=rotor field winding.#Current flows to the rotor field coil via the voltage regulator.
+	~stator windings.#Current flows to the rotor field coil via the voltage regulator.
+	~positive diodes.#Current flows to the rotor field coil via the voltage regulator.
+	~negative diodes.#Current flows to the rotor field coil via the voltage regulator.
+}
+
+
+//name:TQ1110
+::TQ1110::The maximum current output of an alternator is regulated by:{
+	=the design of the stator winding.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+	~the rectifier diodes.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+	~the regulator.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+	~the field diodes.#The term inductive reactance is the electrical term used to describe the current limiting feature designed into the stator.
+}
+
+
+//name:TQ1111
+::TQ1111::The main purpose of the regulator is to:{
+	=regulate alternator output by controlling current to the rotor field circuit.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+	~regulate the rectifier diodes by controlling field current.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+	~regulate alternator speed by controlling field current.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+	~regulate the field diodes by controlling field current.#Alternator regulators can regulate field current via a set of contact points or electronically using semiconductors.
+}
+
+
+//name:TQ1112
+::TQ1112::In the star method of connection, 1 end of each phase winding is taken to a central point where they are connected together. The other end of each winding is connected in the:{
+	=bridge rectifier circuit.#Each winding is always part of a complete circuit.
+	~ground circuit.#Each winding is always part of a complete circuit.
+	~live circuit.#Each winding is always part of a complete circuit.
+	~delta circuit.#Each winding is always part of a complete circuit.
+}
+
+
+//name:TQ1113
+::TQ1113::In a high voltage charging system:{
+	=less current is needed to deliver the same amount of power.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+	~more current is needed to deliver the same amount of power.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+	~less current is is needed to deliver twice the amount of power.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+	~current and power are unaffected.#By using Ohm's law we can see that the current (A) is relative to the voltage (V) and power (W).
+}
+
+

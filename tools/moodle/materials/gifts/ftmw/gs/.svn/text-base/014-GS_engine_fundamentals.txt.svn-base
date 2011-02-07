@@ -1,0 +1,160 @@
+// question: 23951  name: HAQ0478 
+::HAQ0478::[html]Mixture enters through an .............................. port that is opened and closed by an inlet valve. This is called Intake.{
+	=%100%inlet#
+}
+
+
+// question: 23952  name: HAQ0479 
+::HAQ0479::[html]The piston .............................. the air-fuel mixture into a smaller volume.{
+	=%100%compresses#
+}
+
+
+// question: 23953  name: HAQ0480 
+::HAQ0480::[html]The burning gases expand rapidly, and push the piston down the cylinder until it reaches .............................. dead center.{
+	=%100%bottom#
+}
+
+
+// question: 23954  name: HAQ0481 
+::HAQ0481::[html]The crankshaft forces the piston back up the cylinder, pushing leftover gases out past an .............................. valve.{
+	=%100%exhaust#
+}
+
+
+// question: 23956  name: HAQ0483 
+::HAQ0483::[html]The 4 strokes must include the 5 key events common to all internal combustion engines - Intake, Compression, .............................., Power & Exhaust.{
+	=%100%ignition#
+}
+
+
+// question: 23957  name: HAQ0484 
+::HAQ0484::[html]The intake stroke starts with the exhaust valve closed, the inlet valve opening, and the .............................. at its highest point, top dead center.{
+	=%100%piston#
+}
+
+
+// question: 23959  name: HAQ0486 
+::HAQ0486::[html]The piston moves up, squeezing the air-fuel mixture into a smaller and smaller volume, which .............................. it.{
+	=%100%compresses#
+}
+
+
+// question: 23961  name: HAQ0494 
+::HAQ0494::[html]Calling an engine 2-stroke means its engine cycle has 2 strokes. As in a 4-stroke engine, a stroke is the distance from top dead center to .............................. dead center.{
+	=%100%bottom#
+}
+
+
+// question: 23962  name: HAQ0495 
+::HAQ0495::[html]In a 2-stroke engine, as it rises, the top of the piston covers the .............................. port and the transfer port.{
+	=%100%exhaust#
+}
+
+
+// question: 23963  name: HAQ0496 
+::HAQ0496::[html]Pressure below the piston falls until it is less than outside air pressure. This pressure difference forces more mixture into the ...............................{
+	=%100%crankcase#
+}
+
+
+// question: 23964  name: HAQ0497 
+::HAQ0497::[html]As the piston reaches top dead center, mixture already there ignites, and expansion of gases starts to drive the piston ...............................{
+	=%100%downward#
+}
+
+
+// question: 23965  name: HAQ0498 
+::HAQ0498::[html]The bottom of the piston covers the inlet port as the top of the piston uncovers the exhaust port. Opening the exhaust port starts the .............................. process.{
+	=%100%scavenging#
+}
+
+
+// question: 23966  name: HAQ0539 
+::HAQ0539::[html]A piston-engine is called .............................. because the pistons move back and forth over the same path.{
+	=%100%reciprocating#
+}
+
+
+// question: 23967  name: HAQ0540 
+::HAQ0540::[html]A rotary engine has a rotor, not a piston, and it's called rotary because the rotor has a .............................. motion. It does not reciprocate.{
+	=%100%planetary#
+}
+
+
+// question: 23968  name: HAQ0541 
+::HAQ0541::[html]The rotor is roughly .............................. in shape and it turns inside a housing which is a particular geometric shape called an epitrochoid curve.{
+	=%100%triangular#
+}
+
+
+// question: 23969  name: HAQ0604 
+::HAQ0604::[html]In 4-stroke diesel engines, the example model uses what is called .............................. injection.{
+	=%100%direct#
+}
+
+
+// question: 23970  name: HAQ0605 
+::HAQ0605::[html]Unlike the gasoline engine, .............................. alone enters the cylinder on the intake stroke.{
+	=%100%air#
+}
+
+
+// question: 23971  name: HAQ0606 
+::HAQ0606::[html].............................., forcing the air into a small volume.{
+	=%100%compression#
+}
+
+
+// question: 23972  name: HAQ0607 
+::HAQ0607::[html].............................., burning the mixture.{
+	=%100%ignition#
+}
+
+
+// question: 23973  name: HAQ0608 
+::HAQ0608::[html]And .............................., removing leftover gases. This brings the system back to where it began, ready for another cycle.{
+	=%100%exhaust#
+}
+
+
+// question: 23974  name: HAQ0623 
+::HAQ0623::[html]Diesel blocks are usually made of .............................., and heavier than in a gasoline engine.{
+	=%100%cast iron#
+}
+
+
+// question: 23975  name: HAQ0624 
+::HAQ0624::[html]Machined into the engine block are the .............................. which are usually in the form of detachable sleeves or liners.{
+	=%100%cylinders#
+}
+
+
+// question: 23976  name: HAQ0625 
+::HAQ0625::[html]The engine block is sealed at one end by a deep-section piece of metal or alloy called a cylinder .............................., which houses the valves and injectors.{
+	=%100%head#
+}
+
+
+// question: 23977  name: HAQ3464 
+::HAQ3464::[html]The cylinder block is the .............................. part of the engine.{
+	=%100%largest#
+}
+
+
+// question: 23978  name: HAQ3465 
+::HAQ3465::[html]All cylinder blocks are made with ribs, webs and fillets to provide .............................. but also keep weight to a minimum.{
+	=%100%rigidity#
+}
+
+
+// question: 23979  name: HAQ3466 
+::HAQ3466::[html]The piston itself, its rings, and the piston pin, also known as the .............................. pin, are together called the piston assembly.{
+	=%100%gudgeon#
+}
+
+
+// question: 23980  name: HAQ3467 
+::HAQ3467::[html]The big end of the connecting rod has a detachable cap, and carries 2 halves of the big end bearing. The big end is attached to the crankshaft at the .............................. journal.{
+	=%100%crankpin#
+}

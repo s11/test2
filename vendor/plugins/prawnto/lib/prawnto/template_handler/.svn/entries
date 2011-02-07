@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/prawnto/lib/prawnto/template_handler
+svn://curfew.jbpub.com/online
+
+
+
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+compile_support.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+83121952c37d4b283db2273e1ef0ef10
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+

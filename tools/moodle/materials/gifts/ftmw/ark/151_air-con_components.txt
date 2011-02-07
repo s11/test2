@@ -1,0 +1,209 @@
+// question: 32743  name: HAQ3009 
+::HAQ3009::[html]The air-conditioning compressor circulates refrigerant through the air-conditioning system. It is normally driven by a belt from the engine .................{
+	=%100%crankshaft#
+}
+
+
+// question: 32744  name: HAQ3010 
+::HAQ3010::[html]Four basic types of air-conditioning compressor are used. Reciprocating Piston, Rotary Vane, Scroll and Axial Piston. The ................. type is one of the most common.{
+	=%100%Axial Piston#
+	=%100%axial piston#
+}
+
+
+// question: 32745  name: HAQ3011 
+::HAQ3011::[html]Each pumping chamber has a set of inlet and discharge valves. The inlet reed valves are connected to the ................. port of the compressor by drillings.{
+	=%100%inlet#
+}
+
+
+// question: 32746  name: HAQ3012 
+::HAQ3012::[html]A ................. plate is attached to the drive plate at an angle.{
+	=%100%swash#
+}
+
+
+// question: 32747  name: HAQ3013 
+::HAQ3013::[html]As the volume above a piston increases, the refrigerant is drawn into the cylinder through the inlet ................. valves.{
+	=%100%reed#
+}
+
+
+// question: 32748  name: HAQ3014 
+::HAQ3014::[html]In light vehicle applications the condenser is normally positioned in front of the ................. where it is exposed to maximum ram air flow when the vehicle is in motion.{
+	=%100%radiator#
+}
+
+
+// question: 32749  name: HAQ3015 
+::HAQ3015::[html]The ................. is usually made as a continuous coil of thin tube meshed with a compact series of fins surrounding it.{
+	=%100%condenser#
+}
+
+
+// question: 32750  name: HAQ3016 
+::HAQ3016::[html]The ................. is mounted in the passenger compartment and is positioned so that air from the cabin interior can be passed across its external surface.{
+	=%100%evaporator#
+}
+
+
+// question: 32751  name: HAQ3017 
+::HAQ3017::[html]The receiver drier is normally mounted in the high pressure line, between the condenser and the .................{
+	=%100%TX valve#
+}
+
+
+// question: 32752  name: HAQ3018 
+::HAQ3018::[html]High pressure liquid enters the receiver drier and passes down through the ................. and desiccant material.{
+	=%100%filter#
+}
+
+
+// question: 32753  name: HAQ3019 
+::HAQ3019::[html]It exits via the ................. tube at the bottom of the canister and moves on to the expansion valve.{
+	=%100%pick-up#
+	=%100%pick up#
+	=%100%pickup#
+}
+
+
+// question: 32754  name: HAQ3020 
+::HAQ3020::[html]Hoses and pipes must be capable of withstanding the high pressures and ................. that are found inside the air-conditioning system, as well as being able to flex and withstand the vibrations and movement of the engine.{
+	=%100%temperatures#
+}
+
+
+// question: 32755  name: HAQ3021 
+::HAQ3021::[html]Hoses are used to connect the inlet and outlet ports of the ................. to the air-conditioning system.{
+	=%100%compressor#
+}
+
+
+// question: 32756  name: HAQ3022 
+::HAQ3022::[html]Pipes are rigid tubes of ................. often found connecting components that are fixed to the body of the vehicle.{
+	=%100%metal#
+}
+
+
+// question: 32757  name: HAQ3023 
+::HAQ3023::[html]The thermal expansion valve, the TX valve, is constructed of cadmium plated steel or of .................{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 32758  name: HAQ3024 
+::HAQ3024::[html]Three types of TX valves are commonly used: These are - Internally equalized; ................. equalized; and H block.{
+	=%100%Externally#
+	=%100%externally#
+}
+
+
+// question: 32759  name: HAQ3025 
+::HAQ3025::[html]If the temperature of the fins drops to O&deg;C (or 32&deg;F) or below, ice will form on the fins, restrict the air flow and prevent heat being transferred to the .................{
+	=%100%refrigerant#
+}
+
+
+// question: 32760  name: HAQ3026 
+::HAQ3026::[html]A thermostat is used to monitor the temperature of the evaporator ................. and control system operation within set limits.{
+	=%100%fins#
+}
+
+
+// question: 32761  name: HAQ3027 
+::HAQ3027::[html]The bellows is positioned to open and close a set of ................. which form part of the electrical circuit to the compressor clutch.{
+	=%100%contacts#
+}
+
+
+// question: 32762  name: HAQ3028 
+::HAQ3028::[html]When the temperature at the evaporator fins falls below the minimum setting, the fluid in the capillary tube contracts, reducing the size of the .................{
+	=%100%bellows#
+}
+
+
+// question: 32763  name: HAQ3029 
+::HAQ3029::[html]The increased temperature is applied to the fluid in the capillary tube causing an increase in ................. at the bellows.{
+	=%100%pressure#
+}
+
+
+// question: 32764  name: HAQ3030 
+::HAQ3030::[html]R-134-A is a refrigerant suitable for use in automotive air-conditioning systems. It is an HFC or .................{
+	=%100%Hydrofluorocarbon#
+	=%100%Hydro-flurocarbon#
+	=%100%Hydro fluorocarbon#
+	=%100%hydro-flurocarbon#
+	=%100%hydrofluorocarbon#
+	=%100%hydro fluorocarbon#
+}
+
+
+// question: 32765  name: HAQ3031 
+::HAQ3031::[html]R-134-A has a boiling point of minus 26.2 deg C. All its other refrigerant characteristics are similar to R-12. The only difference being that its operating pressures and temperatures in the evaporator and condenser are slightly ................. than for R-12.{
+	=%100%higher#
+}
+
+
+// question: 32766  name: HAQ3032 
+::HAQ3032::[html]High pressure switches are mounted in the high pressure side of the system and have their switch contacts in series with the compressor ................. circuit.{
+	=%100%clutch#
+}
+
+
+// question: 32767  name: HAQ3033 
+::HAQ3033::[html]If the pressure exceeds the switch setting, the switch will open circuit the compressor clutch and the compressor will stop circulating .................{
+	=%100%refrigerant#
+}
+
+
+// question: 32768  name: HAQ3034 
+::HAQ3034::[html]Low pressure switches are mounted in the low pressure side of the system and are also connected in series with the ................. clutch.{
+	=%100%compressor#
+}
+
+
+// question: 32769  name: HAQ3836 
+::HAQ3836::[html]Most vehicles contain a heated ................. window.{
+	=%100%rear#
+}
+
+
+// question: 32770  name: HAQ3837 
+::HAQ3837::[html]Close inspection reveals that there are many small ................. wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.{
+	=%100%resistance#
+}
+
+
+// question: 32771  name: HAQ3838 
+::HAQ3838::[html]Heating elements can also be fitted to ................. mirrors to keep them free of frosting and fogging.{
+	=%100%exterior#
+}
+
+
+// question: 32772  name: HAQ3839 
+::HAQ3839::[html]More recent vehicle designs use a similar wire embedded within fixed glass as a ................. antenna.{
+	=%100%radio#
+}
+
+
+// question: 32773  name: HAQ3840 
+::HAQ3840::[html]A heater core is a ................. like device used in heating the cabin of a vehicle.{
+	=%100%radiator#
+}
+
+
+// question: 32774  name: HAQ3841 
+::HAQ3841::[html]The heater core itself is a small radiator that is usually located under the ................. of the vehicle. It consists of conductive piping that is coiled within aluminum fins to increase surface area.{
+	=%100%dashboard#
+}
+
+
+// question: 32775  name: HAQ3842 
+::HAQ3842::[html]Once the engine has warmed up, the coolant is kept at a more or less constant temperature by the .................{
+	=%100%thermostat#
+}
+
+
+

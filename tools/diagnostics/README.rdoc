@@ -1,0 +1,99 @@
+SYNOPSIS
+
+  import --system system_name --scenario scenario_name [--force --practice] csv_filename
+
+DESCRIPTION
+
+  Will import a single scenario into a new or existing diagnostics system.
+
+PARAMETERS
+
+  system_name
+    The name of the diagnostics system that the scenario exists in or will be created within
+
+  scenario_name
+    The name of the scenario to create or update the content for
+
+  -f, --force
+    Force overwriting the specified scenario if it already exists
+
+  -p, --practice
+    Flag the scenario as being a practice scenario
+
+  -h, --help
+
+Example usage:
+
+./import.rb --system "Engine Repair" --scenario "Scenario 1" -f ./content/51/scenarios/engine_repair/em_scenario_01.csv
+./import.rb --system "Engine Repair" --scenario "Scenario 2" -f ./content/51/scenarios/engine_repair/em_scenario_02.csv
+./import.rb --system "Engine Repair" --scenario "Scenario 3" -f ./content/51/scenarios/engine_repair/em_scenario_03.csv
+./import.rb --system "Engine Repair" --scenario "Scenario 4" -f ./content/51/scenarios/engine_repair/em_scenario_04.csv
+./import.rb --system "Engine Repair" --scenario "Scenario 5" -f ./content/51/scenarios/engine_repair/em_scenario_05.csv
+
+./import.rb --system "Automatic Transmission" --scenario "Scenario 1" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_01.csv
+./import.rb --system "Automatic Transmission" --scenario "Scenario 2" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_02.csv
+./import.rb --system "Automatic Transmission" --scenario "Scenario 3" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_03.csv
+./import.rb --system "Automatic Transmission" --scenario "Scenario 4" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_04.csv
+./import.rb --system "Automatic Transmission" --scenario "Scenario 5" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_05.csv
+./import.rb --system "Automatic Transmission" --scenario "Scenario 6" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_06.csv
+./import.rb --system "Automatic Transmission" --scenario "Scenario 7" -f ./content/51/scenarios/automatic_transmission/atrans_scenario_07.csv
+
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 1" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_01.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 2" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_02.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 3" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_03.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 4" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_04.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 5" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_05.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 6" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_06.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 7" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_07.csv
+./import.rb --system "Manual Transmission & Drive Train" --scenario "Scenario 8" -f ./content/51/scenarios/manual_transmission/mtrans_scenario_08.csv
+
+./import.rb --system "Suspension & Steering" --scenario "Scenario 1" -f ./content/51/scenarios/suspension_steering/st_scenario_01.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 2" -f ./content/51/scenarios/suspension_steering/st_scenario_02.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 3" -f ./content/51/scenarios/suspension_steering/st_scenario_03.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 4" -f ./content/51/scenarios/suspension_steering/st_scenario_04.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 5" -f ./content/51/scenarios/suspension_steering/st_scenario_05.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 6" -f ./content/51/scenarios/suspension_steering/st_scenario_06.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 7" -f ./content/51/scenarios/suspension_steering/st_scenario_07.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 8" -f ./content/51/scenarios/suspension_steering/st_scenario_08.csv
+./import.rb --system "Suspension & Steering" --scenario "Scenario 9" -f ./content/51/scenarios/suspension_steering/st_scenario_09.csv
+
+./import.rb --system "Brakes" --scenario "Scenario 1" -f ./content/51/scenarios/brakes/br_scenario_01.csv
+./import.rb --system "Brakes" --scenario "Scenario 2" -f ./content/51/scenarios/brakes/br_scenario_02.csv
+./import.rb --system "Brakes" --scenario "Scenario 3" -f ./content/51/scenarios/brakes/br_scenario_03.csv
+./import.rb --system "Brakes" --scenario "Scenario 4" -f ./content/51/scenarios/brakes/br_scenario_04.csv
+./import.rb --system "Brakes" --scenario "Scenario 5" -f ./content/51/scenarios/brakes/br_scenario_05.csv
+./import.rb --system "Brakes" --scenario "Scenario 6" -f ./content/51/scenarios/brakes/br_scenario_06.csv
+./import.rb --system "Brakes" --scenario "Scenario 7" -f ./content/51/scenarios/brakes/br_scenario_07.csv
+./import.rb --system "Brakes" --scenario "Scenario 8" -f ./content/51/scenarios/brakes/br_scenario_08.csv
+./import.rb --system "Brakes" --scenario "Scenario 9" -f ./content/51/scenarios/brakes/br_scenario_09.csv
+./import.rb --system "Brakes" --scenario "Scenario 10" -f ./content/51/scenarios/brakes/br_scenario_10.csv
+
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 1" -f ./content/51/scenarios/electrical_electronic/ee_scenario_01.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 2" -f ./content/51/scenarios/electrical_electronic/ee_scenario_02.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 3" -f ./content/51/scenarios/electrical_electronic/ee_scenario_03.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 4" -f ./content/51/scenarios/electrical_electronic/ee_scenario_04.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 5" -f ./content/51/scenarios/electrical_electronic/ee_scenario_05.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 6" -f ./content/51/scenarios/electrical_electronic/ee_scenario_06.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 7" -f ./content/51/scenarios/electrical_electronic/ee_scenario_07.csv
+./import.rb --system "Electrical & Electronics" --scenario "Scenario 8" -f ./content/51/scenarios/electrical_electronic/ee_scenario_08.csv
+
+./import.rb --system "HVAC" --scenario "Scenario 1" -f ./content/51/scenarios/hvac/hvac_scenario_01.csv
+./import.rb --system "HVAC" --scenario "Scenario 2" -f ./content/51/scenarios/hvac/hvac_scenario_02.csv
+./import.rb --system "HVAC" --scenario "Scenario 3" -f ./content/51/scenarios/hvac/hvac_scenario_03.csv
+./import.rb --system "HVAC" --scenario "Scenario 4" -f ./content/51/scenarios/hvac/hvac_scenario_04.csv
+./import.rb --system "HVAC" --scenario "Scenario 5" -f ./content/51/scenarios/hvac/hvac_scenario_05.csv
+./import.rb --system "HVAC" --scenario "Scenario 6" -f ./content/51/scenarios/hvac/hvac_scenario_06.csv
+./import.rb --system "HVAC" --scenario "Scenario 7" -f ./content/51/scenarios/hvac/hvac_scenario_07.csv
+./import.rb --system "HVAC" --scenario "Scenario 8" -f ./content/51/scenarios/hvac/hvac_scenario_08.csv
+./import.rb --system "HVAC" --scenario "Scenario 9" -f ./content/51/scenarios/hvac/hvac_scenario_09.csv
+./import.rb --system "HVAC" --scenario "Scenario 10" -f ./content/51/scenarios/hvac/hvac_scenario_10.csv
+
+./import.rb --system "Engine Performance" --scenario "Scenario 1" -f ./content/51/scenarios/engine_performance/ep_scenario_01.csv
+./import.rb --system "Engine Performance" --scenario "Scenario 2" -f ./content/51/scenarios/engine_performance/ep_scenario_02.csv
+./import.rb --system "Engine Performance" --scenario "Scenario 3" -f ./content/51/scenarios/engine_performance/ep_scenario_03.csv
+./import.rb --system "Engine Performance" --scenario "Scenario 4" -f ./content/51/scenarios/engine_performance/ep_scenario_04.csv
+./import.rb --system "Engine Performance" --scenario "Scenario 5" -f ./content/51/scenarios/engine_performance/ep_scenario_05.csv
+./import.rb --system "Engine Performance" --scenario "Scenario 6" -f ./content/51/scenarios/engine_performance/ep_scenario_06.csv
+./import.rb --system "Engine Performance" --scenario "Scenario 7" -f ./content/51/scenarios/engine_performance/ep_scenario_07.csv
+
+./import.rb --system "Practice" --scenario "Practice Scenario 1" -p -f ./content/51/scenarios/practice/prac_scenario_01.csv

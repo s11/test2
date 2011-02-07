@@ -1,0 +1,66 @@
+// question: 32631  name: HAQ2957 
+::HAQ2957::[html]Check instrumentation - In a darkened area, turn on the .................{
+	=%100%ignition#
+}
+
+
+// question: 32632  name: HAQ2958 
+::HAQ2958::[html]Check the car horn - Make sure the car horn is working. If the horn is not working, locate it under the hood with the help of the manufacturer's manual. Check the wiring to make sure there is a good .................{
+	=%100%contact#
+}
+
+
+// question: 32633  name: HAQ2959 
+::HAQ2959::[html]Check interior lights - With the interior light switch in the correct position, open the driver's side door to make sure the interior lights work. If any of these lights do not operate, you may need to replace a bulb, or a .................{
+	=%100%fuse#
+}
+
+
+// question: 32634  name: HAQ2960 
+::HAQ2960::[html]Access the bulb - Determine the method used to secure the lamp unit or lens cover and remove the cover to expose the .................{
+	=%100%bulb#
+}
+
+
+// question: 32635  name: HAQ2961 
+::HAQ2961::[html]Inspect the bulb holder to make sure there is no .................{
+	=%100%corrosion#
+}
+
+
+// question: 32636  name: HAQ2962 
+::HAQ2962::[html]Insert the new bulb into the bulb holder, depress it fully, turn it ................. and release it.{
+	=%100%clockwise#
+}
+
+
+// question: 32637  name: HAQ2963 
+::HAQ2963::[html]Assessing headlight operation is always best carried out in a low light environment. Switch the vehicle headlights on to low beam, then switch to ................. beam.{
+	=%100%high#
+}
+
+
+// question: 32638  name: HAQ2964 
+::HAQ2964::[html]Access the lamp socket - Unplug the ................. connector at the back of the lamp unit.{
+	=%100%electrical#
+}
+
+
+// question: 32639  name: HAQ2965 
+::HAQ2965::[html]Replace the lamp unit and the retaining ring or bulb assembly, and then re-plug the .................{
+	=%100%connector#
+}
+
+
+// question: 32641  name: HAQ2967 
+::HAQ2967::[html]Turn the headlights on to a ................. beam setting. The center of the illuminating beams should be in the lower right quadrants of the chart or wall markings.{
+	=%100%low#
+}
+
+
+// question: 32642  name: HAQ2968 
+::HAQ2968::[html]If necessary, locate the adjustment ................. on the headlight and turn them so the lights point to the correct places.{
+	=%100%screws#
+}
+
+

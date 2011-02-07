@@ -1,0 +1,25 @@
+//name:TQ1104
+::TQ1104::The alternator converts:{
+	=mechanical energy to electrical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~mechanical energy to chemical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~electrical energy to mechanical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+	~chemical energy to electrical energy.#The alternator uses the principles of electromagnetism to convert mechanical energy to electrical energy.
+}
+
+
+//name:TQ1105
+::TQ1105::What does the rotating magnet in a very simple alternator induce in the stationary windings?{
+	=An alternating current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A variable current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A constant current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+	~A direct current flow.#Alternating current cannot be used to charge a vehicle battery therefore the alternating current must be converted to direct current by the rectifier to charge the battery.
+}
+
+
+//name:TQ1141
+::TQ1141::The starter motor converts:{
+	=electrical energy into mechanical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~electrical energy into chemical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~mechanical energy into chemical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+	~mechanical energy into electrical energy.#The starter motor converts electrical energy to mechanical energy using the principles of electromagnetism.
+}

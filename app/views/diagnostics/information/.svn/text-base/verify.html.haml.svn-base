@@ -1,0 +1,14 @@
+#information
+  %h1 Information
+  
+  %p
+  Now select the best procedure to Verify the cause of the problem and move on.  You will lose points if you don't pick the best choice, but you can return and select again.
+    
+  %p
+    Hints: If you make a poor choice you will be offered the chance to receive a hint upon returning to the Identify step.
+    
+  %p
+    If you are unsure with verification test is appropriate, consult with your instructor.
+    
+  = render :partial => 'points'
+  = render :partial => 'scores'

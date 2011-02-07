@@ -1,0 +1,28 @@
+// question: 31235  name: HAQ2917 
+::HAQ2917::[html]A lamp bulb consists of a fine coil of tungsten wire, called a .............................., enclosed in a clear glass envelope from which all air has been removed.{
+	=%100%filament#
+}
+
+
+// question: 31236  name: HAQ2918 
+::HAQ2918::[html]The lamp circuit wiring is connected to the bulb by means of spring contact plungers or by blades which touch the bulb contacts, or by electrical terminals held in place by ..............................{
+	=%100%friction#
+}
+
+
+// question: 31237  name: HAQ2919 
+::HAQ2919::[html]Each filament has a different light output and is operated by separate .............................., usually in a stop-light/tail-light combination.{
+	=%100%circuits#
+}
+
+
+// question: 31238  name: HAQ2920 
+::HAQ2920::[html]All bulbs have letters and numbers stamped on the bulb which indicate the .............................. consumed by bulb operation at the nominal operating voltage.{
+	=%100%power#
+}
+
+
+// question: 31239  name: HAQ2921 
+::HAQ2921::[html]In a 12V / 21W bulb the filament will consume 21 .............................. of power when 12 volts is applied across the filament.{
+	=%100%watts#
+}

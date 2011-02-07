@@ -1,0 +1,80 @@
+// question: 27096  name: HAQ0998 
+::HAQ0998::[html]On a carbureted engine, the intake system is part of the ................. system.{
+	=%100%fuel#
+}
+
+
+// question: 27097  name: HAQ0999 
+::HAQ0999::[html]In a basic system, air enters the air cleaner for filtering, then passes into the ................. where it mixes with the required amount of fuel.{
+	=%100%carburettor#
+	=%100%carburetor#
+}
+
+
+// question: 27098  name: HAQ1000 
+::HAQ1000::[html]This can be achieved by using a ................. inlet valve to admit more charge into the combustion chamber; by using large, free-flowing intake manifolds; or by using extra carburetors.{
+	=%100%larger#
+}
+
+
+// question: 27099  name: HAQ1001 
+::HAQ1001::[html]Pressure from an electric ................. supplies fuel to electrically controlled injectors.{
+	=%100%pump#
+}
+
+
+// question: 27100  name: HAQ1002 
+::HAQ1002::[html]Fuel is sprayed into the top-center of the intake .................{
+	=%100%manifold#
+}
+
+
+// question: 27101  name: HAQ1003 
+::HAQ1003::[html]Multi-point injection has a fuel injector in each inlet port going to each .................{
+	=%100%cylinder#
+}
+
+
+// question: 27102  name: HAQ1004 
+::HAQ1004::[html]The two main components of the 4-stroke intake system are the air cleaner and the intake .................{
+	=%100%manifold#
+}
+
+
+// question: 27103  name: HAQ1005 
+::HAQ1005::[html]But in a diesel engine, fuel is delivered separately and the intake system carries ................. only.{
+	=%100%air#
+}
+
+
+// question: 27104  name: HAQ1006 
+::HAQ1006::[html]To achieve scavenging in the time available, 2-stroke diesels use an engine-driven air pump, usually called a .................{
+	=%100%blower#
+}
+
+
+// question: 27105  name: HAQ1007 
+::HAQ1007::[html]Output can also be improved by using large, free-flowing intake manifolds, and by increasing the number, or the size, of inlet ................. per cylinder to admit more charge into the combustion chamber.{
+	=%100%valves#
+}
+
+
+// question: 27106  name: HAQ1008 
+::HAQ1008::[html]The exhaust system does several jobs. It has to reduce the ................. of the exhausting gases to acceptable levels.{
+	=%100%noise#
+}
+
+
+// question: 27107  name: HAQ1009 
+::HAQ1009::[html]In this simplified model, burned gases exit the cylinder through the ................. port and pass into the exhaust manifold.{
+	=%100%exhaust#
+}
+
+
+// question: 27108  name: HAQ1010 
+::HAQ1010::[html]The engine pipe is connected to the outlet of the manifold which carries the exhaust gases to the ................., which reduces exhaust noise.{
+	=%100%muffler#
+}
+
+
+

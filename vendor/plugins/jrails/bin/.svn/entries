@@ -1,0 +1,41 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/jrails/bin
+svn://curfew.jbpub.com/online
+
+
+
+2009-08-08T05:06:27.114300Z
+3055
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+jrails
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+c136086c701b058078b88c7d3ad8ac07
+2009-08-08T05:06:27.114300Z
+3055
+johnm
+has-props
+

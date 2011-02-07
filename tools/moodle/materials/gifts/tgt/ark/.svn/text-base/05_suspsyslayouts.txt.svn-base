@@ -1,0 +1,52 @@
+//name:TQ0567
+::TQ0567::Trailing arms, or control rods, are used to position the axle: {
+	=longitudinally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~diagonally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~vertically.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+	~horizontally.#Control rods have flexible rubber mountings at each end where they locate on the axle housing, and on the chassis frame. They would allow the axle to move laterally if it were not restrained. Any such movement has to be controlled to keep correct alignment with the front wheels, and the vehicle frame. 
+}
+
+
+//name:TQ0568
+::TQ0568::In commercial vehicles, metallic bushes are commonly used as shackle bushes for:{
+	=leaf springs.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+	~coil springs.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+	~torsion springs.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+	~steering linkages.#Bushes, or bushings, act as bearings at suspension fulcrum points, to allow for movement of the component, while maintaining its alignment.
+}
+
+
+//name:TQ0569
+::TQ0569::What's another word for a 'driven' rear axle?{
+	=A 'live' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+	~A 'swinging' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+	~A 'dead' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+	~A 'geared' axle.#A 'driven' rear axle can be fitted to a range of different types of suspension.
+}
+
+
+//name:TQ0570
+::TQ0570::In front suspension systems, coil springs can only be used with driven or 'live' axle layouts.{
+	=FALSE#A number of different layouts are used in front suspension systems, incorporating either a driven or 'live' axle; or a non-driven or 'dead' axle.
+	~TRUE#A number of different layouts are used in front suspension systems, incorporating either a driven or 'live' axle; or a non-driven or 'dead' axle.
+}
+
+
+//name:TQ0571
+::TQ0571::Which of these is not an independent rear suspension layout?{
+	=Axle beam; torsion bar; trailing arm; panhard rod; coil springs and strut.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+	~Coil springs; drive shafts; cross member; universal joints and lower suspension link.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+	~Coil springs & strut; splined sections; lateral wishbone and external drive shafts.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+	~Torsion bar; upper wishbone; lower wishbone and torsion bar adjustment.#A number of different layouts are used in independent driven or 'live' axle rear suspension systems.
+}
+
+
+//name:TQ0572
+::TQ0572::Which of these components could not form part of a 'dead' axle assembly?{
+	=Differential.#A non-driven or 'dead' axle can have a number of different layouts.
+	~Panhard rods.#A non-driven or 'dead' axle can have a number of different layouts.
+	~Torsion bar.#A non-driven or 'dead' axle can have a number of different layouts.
+	~Coil springs.#A non-driven or 'dead' axle can have a number of different layouts.
+}
+
+

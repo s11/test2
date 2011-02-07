@@ -1,0 +1,304 @@
+// question: 22897  name: HAQ0373 
+::HAQ0373::[html]Permissible .............................. levels (PEL) - Maximum concentrations of chemicals stipulated by law for chemicals and dusts.{
+	=%100%exposure#
+}
+
+
+// question: 22899  name: HAQ0375 
+::HAQ0375::[html]Confined space - In the 1990s, specific requirements for air sampling and use of a ".............................. system" when working inside tanks, manholes, pits, bins, and similar enclosed areas.{
+	=%100%buddy#
+}
+
+
+// question: 22900  name: HAQ0376 
+::HAQ0376::[html]Hazard Communication (HazCom) - Also known as the "Right to .............................." standard, it was issued as 29CFR1910.1200 in November 25, 1983.{
+	=%100%know#
+}
+
+
+// question: 22904  name: HAQ0377 
+::HAQ0377::[html]Each sign has four components; Signal word; Background color; Text; .............................. message.{
+	=%100%pictorial#
+}
+
+
+// question: 22905  name: HAQ0378 
+::HAQ0378::[html].............................. rooms are usually used when a lot of noise is made by operating equipment.{
+	=%100%soundproof#
+}
+
+
+// question: 22906  name: HAQ0379 
+::HAQ0379::[html]There are special work areas that are defined by .............................. lines. These show the hazardous zone around certain machines and areas.{
+	=%100%painted#
+}
+
+
+// question: 22907  name: HAQ0380 
+::HAQ0380::[html]Check for air quality. There should be good .............................. and very little chemical fumes or smell.{
+	=%100%ventilation#
+}
+
+
+// question: 22908  name: HAQ0381 
+::HAQ0381::[html]Locate and observe the use of the exhaust .............................. hose, pump and outlet that's used on the vehicle's exhaust pipes.{
+	=%100%extraction#
+}
+
+
+// question: 22909  name: HAQ0382 
+::HAQ0382::[html]In the case of a building fire, the procedure will involve leaving a building and moving to an ".............................. point" outside.{
+	=%100%assembly#
+}
+
+
+// question: 22910  name: HAQ0383 
+::HAQ0383::[html]When securing a workshop for evacuation, if you have time, turn off the .............................. supply to all operating equipment.{
+	=%100%electrical#
+}
+
+
+// question: 22911  name: HAQ0384 
+::HAQ0384::[html]Once you have all met at the appropriate assembly point, .............................. your co-workers and report anyone missing to your supervisor.{
+	=%100%count#
+}
+
+
+// question: 22912  name: HAQ0385 
+::HAQ0385::[html]Because fuel vapor is invisible and .............................. than air, it can spread unseen across a wide area and a source of ignition can be quite some distance from the original spillage.{
+	=%100%heavier#
+}
+
+
+// question: 22913  name: HAQ0386 
+::HAQ0386::[html]Make sure that all potential sources of ignition have been removed from the area, and .............................. the battery on the vehicle.{
+	=%100%disconnect#
+}
+
+
+// question: 22914  name: HAQ0387 
+::HAQ0387::[html]Never .............................. anywhere near a tank or any kind of fuel line.{
+	=%100%weld#
+}
+
+
+// question: 22915  name: HAQ0388 
+::HAQ0388::[html]There should be a workshop fire .............................. and fire officers.{
+	=%100%warden#
+}
+
+
+// question: 22916  name: HAQ0389 
+::HAQ0389::[html]Methanol is heavier than water and burns with an .............................. flame.{
+	=%100%invisible#
+}
+
+
+// question: 22917  name: HAQ0390 
+::HAQ0390::[html]If the fire is indoors, you should be standing .............................. the fire and the nearest safe exit.{
+	=%100%between#
+}
+
+
+// question: 22918  name: HAQ0391 
+::HAQ0391::[html]"E" class fires need .............................. to feed the fire.{
+	=%100%electricity#
+}
+
+
+// question: 22919  name: HAQ0392 
+::HAQ0392::[html]The MSDS should always be clearly .............................. and located near the product's storage area.{
+	=%100%visible#
+}
+
+
+// question: 22920  name: HAQ0393 
+::HAQ0393::[html]Always check the MSDS revision date to ensure that you're reading the most .............................. update.{
+	=%100%recent#
+}
+
+
+// question: 22921  name: HAQ0394 
+::HAQ0394::[html]Note the .............................. and trade names for the material, who manufactures it, and the emergency telephone  number to call.{
+	=%100%chemical#
+}
+
+
+// question: 22922  name: HAQ0395 
+::HAQ0395::[html]Check the "threshold limit values" or TLVs. The .............................. of this material in the air you breathe in your workshop must not exceed these figures.{
+	=%100%concentration#
+}
+
+
+// question: 22923  name: HAQ0396 
+::HAQ0396::[html]Don't use .............................. to clean dust from brake and clutch components.{
+	=%100%compressed-air#
+	=%100%compressed air#
+}
+
+
+// question: 22924  name: HAQ0397 
+::HAQ0397::[html].............................. is non-flammable even at very high temperatures and is extremely flexible and durable.{
+	=%100%asbestos#
+}
+
+
+// question: 22925  name: HAQ0398 
+::HAQ0398::[html]Do not use .............................. to clean brake components as it does not clean brake fluid, is absorbed into brake lining material and causes brake seals to swell.{
+	=%100%kerosene#
+}
+
+
+// question: 22926  name: HAQ0399 
+::HAQ0399::[html]The solvent will .............................. after a short time. Once the task is complete, empty the contents of the cleaning tray into the waste oil tank.{
+	=%100%evaporate#
+}
+
+
+// question: 22931  name: HAQ0400 
+::HAQ0400::[html]Only authorized, fully trained, and .............................. drivers should be given responsibility to move vehicles.{
+	=%100%licensed#
+	=%100%licenced#
+}
+
+
+// question: 22932  name: HAQ0401 
+::HAQ0401::[html]Only the most skilled and experienced drivers available should be allowed to test higher .............................. vehicles.{
+	=%100%performance#
+}
+
+
+// question: 22933  name: HAQ0402 
+::HAQ0402::[html]Make sure that .............................. and visiting drivers to your workshop are aware of your rules for moving cars.{
+	=%100%customers#
+}
+
+
+// question: 22934  name: HAQ0403 
+::HAQ0403::[html]If you don't follow the correct safety precautions, concentrations of .............................. from exhaust gases can quickly build to toxic levels.{
+	=%100%fumes#
+}
+
+
+// question: 22936  name: HAQ0404 
+::HAQ0404::[html]Catalytic converters are .............................. effective when the exhaust gases are relatively cool.{
+	=%100%less#
+}
+
+
+// question: 22935  name: HAQ0405 
+::HAQ0405::[html]The best solution is to directly couple the vehicle's exhaust pipe to an exhaust extraction equipment hose so that the fumes will be .............................. away from the enclosed space and into the open air.{
+	=%100%ventilated#
+}
+
+
+// question: 22937  name: HAQ0406 
+::HAQ0406::[html]Coming into frequent or prolonged personal contact with used engine oil can cause dermatitis and other skin disorders, including some forms of ...............................{
+	=%100%cancer#
+}
+
+
+// question: 22938  name: HAQ0407 
+::HAQ0407::[html]Avoid direct contact with used oil as far as possible, by always using protective clothing, which is cleaned or replaced regularly, and by following safe work practices, which .............................. the possibility of accidental spills.{
+	=%100%minimise#
+	=%100%minimize#
+}
+
+
+// question: 22939  name: HAQ0408 
+::HAQ0408::[html]If you have been in contact with used engine oil, you should regularly .............................. your skin for signs of damage or deterioration.{
+	=%100%check#
+}
+
+
+// question: 22940  name: HAQ0409 
+::HAQ0409::[html]Cleaning products, especially solvents, can be toxic or flammable, especially when used in high ...............................{
+	=%100%concentrations#
+}
+
+
+// question: 22941  name: HAQ0410 
+::HAQ0410::[html]Wherever possible, use the least hazardous materials available, and in the .............................. quantities practical for any given task.{
+	=%100%smallest#
+}
+
+
+// question: 22942  name: HAQ0411 
+::HAQ0411::[html]When ventilation is poor, it may be necessary to use flexible .............................. to remove fumes and vapors from inside vehicles you are working on.{
+	=%100%ducting#
+}
+
+
+// question: 22943  name: HAQ0412 
+::HAQ0412::[html]All electrical switches and fuses should be clearly .............................. so that you know which circuits and functions they control.{
+	=%100%labelled#
+	=%100%labeled#
+}
+
+
+// question: 22944  name: HAQ0413 
+::HAQ0413::[html]Electric socket outlets should be at least .............................. meter above floor level to reduce the risk of igniting spilt fuel or other flammable liquids.{
+	=%100%one#
+	=%100%1#
+}
+
+
+// question: 22945  name: HAQ0414 
+::HAQ0414::[html]If you need to use an extension lead, make sure that it is made of flexible cable - not the stiffer type of  domestic cabling - and that it is fitted with an .............................. wire.{
+	=%100%earth#
+	=%100%earthed#
+}
+
+
+// question: 22946  name: HAQ0415 
+::HAQ0415::[html]All hand lamps should be 'double-insulated' or 'all-insulated'. The bulbs are very vulnerable to .............................. and must not be used without this protection.{
+	=%100%impact#
+}
+
+
+// question: 22947  name: HAQ0416 
+::HAQ0416::[html].............................. bulbs present an extreme fire hazard if broken in the presence of flammable vapors or liquids and should not be used in repair shops.{
+	=%100%incandescent#
+}
+
+
+// question: 22927  name: HAQ3454 
+::HAQ3454::[html]In some countries, lifting equipment is subject to statutory .............................. and certification.{
+	=%100%testing#
+}
+
+
+// question: 22928  name: HAQ3455 
+::HAQ3455::[html]Before using lifting equipment, make sure that the most recent inspection recorded is still within the prescribed .............................. limit, and that the certificate has not expired.{
+	=%100%time#
+}
+
+
+// question: 22929  name: HAQ3456 
+::HAQ3456::[html]If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the .............................. of all of the lifting equipment in your workplace.{
+	=%100%serviceability#
+}
+
+
+// question: 22930  name: HAQ3457 
+::HAQ3457::[html]Refer to the manufacturer's .............................. to find out how often they recommend maintenance tests on lifting equipment and make sure that these occur.{
+	=%100%handbook#
+}
+
+
+// question: 22901  name: HAQ3777 
+::HAQ3777::[html]Fires and .............................. are a constant hazard wherever there are flammable fuels.{
+	=%100%explosions#
+}
+
+
+// question: 22902  name: HAQ3778 
+::HAQ3778::[html]Hazardous .............................. and other chemicals can burn or blind as well as contribute to many kinds of illness.{
+	=%100%solvents#
+}
+
+
+// question: 22903  name: HAQ3779 
+::HAQ3779::[html].............................. and report all accidents and injuries whenever they happen, and do everything you can to make sure they never happen again.{
+	=%100%document#
+}

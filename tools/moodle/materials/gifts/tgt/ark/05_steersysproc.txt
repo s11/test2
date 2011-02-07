@@ -1,0 +1,176 @@
+//name:TQ0490
+::TQ0490::All of the following concerning checking power steering fluid are true, except:{
+	=the fluid must be cold for an accurate check.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+	~some reservoirs have fluid level marks on the body.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+	~the fluid must be at operating temperature for an accurate check.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+	~always top off with the recommended fluid.#The fluid must be at normal operating temperature. As some fluids absorb heat they expand.
+}
+
+
+//name:TQ0491
+::TQ0491::Technician A says that automatic transmission fluid may be used to top off all power steering systems. Technician B says that power steering fluid should only be checked when there is a leak. Who is correct?{
+	~Technician  A.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+	~Technician B.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+	~Both Technician A and Technician B.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+	=Neither Technician A nor Technician B.#Neither technician is correct as fluid specifications are custom to the application.  Therefore, it is not wise to use ATF as steering fluid without checking the manufacturer's recommendations.  Also, power steering systems may develop leaks that are not externally visible.  Therefore the fluid check is an important component of regular maintenance.
+}
+
+
+//name:TQ0492
+::TQ0492::Technician A says that any fluid drained from the power steering system must not be reused and must be disposed of in an environmentally appropriate manner. Technician B says that only new power steering fluid should be used to fill the system. Who is correct?{
+	~Technician A.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+	~Technician B.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+	=Both Technician A and Technician B.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+	~Neither Technician A nor Technician B.#Both technicians are correct because any fluid drained from the power steering system must not be reused and must be disposed of properly. New power steering fluid should be used to fill the system.
+}
+
+
+//name:TQ0493
+::TQ0493::Technician A says when flushing the power steering system reservoir the engine should not be running. Technician B says when flushing the power steering system it is normally done from the low pressure side. Who is correct?{
+	~Technician A.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+	~Technician B.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+	=Both Technician A and Technician B.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+	~Neither Technician A nor Technician B.#Both technicians are correct because when flushing the power steering system reservoir the engine should not be running and the flushing is normally done from the low pressure side.
+}
+
+
+//name:TQ0494
+::TQ0494::All of the following statements about checking a power steering system are true, except:{
+	=when undertaking a pressure test leave the shutoff valve closed for several minutes to build pressure.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+	~when making a pressure test make sure connections are correct before starting the engine.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+	~always top off the reservoir with the recommended power steering fluid.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+	~check for fluid level and leaks before testing.#A hydraulic pump is driven from the engine to provide pressure to help the driver. The power steering system is designed so that even if the engine or the power steering system fails, the vehicle can still be controlled. However, much more driver effort is required.
+}
+
+
+//name:TQ0495
+::TQ0495::When conducting a power steering pressure test never leave the shutoff valve closed for more than:{
+	=five seconds.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+	~five minutes.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+	~one minute.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+	~twenty seconds.#Do not leave the control valve closed for more than five seconds as the pump could be damaged.
+}
+
+
+//name:TQ0496
+::TQ0496::Technician A says that when undertaking a flow test, the shut-off valve should be closed to build pressure. Technician B says that when undertaking a pressure test, the shut-off valve should only be closed for a maximum of 5 seconds. Who is correct?{
+	~Technician A.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+	=Technician B.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+	~Both Technician A & Technician B - binary cannot be both.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+	~Neither Technician A or Technician B.#Technician B is correct because serious damage can occur if the shut-off valve is closed for too long.
+}
+
+
+//name:TQ0497
+::TQ0497::Technician A says that when conducting a power steering pressure test never leave the shut-off valve closed for more than five seconds. Technician B says that when conducting a power steering flow test never leave the shut-off valve closed for more than one minute. Who is correct?{
+	=Technician A.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+	~Technician B.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+	~Both Technician A & Technician B.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+	~Neither Technician A or Technician B.#Technician A is correct. If the shut-off valve is closed for longer than 5 seconds at a time then damage can occur to the system. In a power steering flow test the shut-off valve is not closed.
+}
+
+
+//name:TQ0498
+::TQ0498::Looseness in the steering mechanism is known as:{
+	=lash.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+	~clearance.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+	~tolerance.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+	~free play.#The recirculating ball design also has a perceptible lash or 'dead spot' on center where a minute turn of the steering wheel in either direction does not move the steering apparatus. This is easily adjustable via a screw on the end of the steering box to account for wear, but it cannot be entirely eliminated or the mechanism begins to wear very rapidly.  
+}
+
+
+//name:TQ0499
+::TQ0499::Play in the rack and pinion steering system is commonly caused by loose mounts or faulty tie rod ends.{
+	=TRUE#Each end of the rack is protected from dirt and water by a flexible, synthetic, rubber bellows attached to the rack housing and to the tie rod. The bellows extend and collapse as the tie-rods move away from and towards the housing as the rack moves. If there is any wear in these joints, it will allow play in the steering system.
+	~FALSE#Each end of the rack is protected from dirt and water by a flexible, synthetic, rubber bellows attached to the rack housing and to the tie rod. The bellows extend and collapse as the tie-rods move away from and towards the housing as the rack moves. If there is any wear in these joints, it will allow play in the steering system.
+}
+
+
+//name:TQ0500
+::TQ0500::A parallelogram arrangement is normally used on a steering system with a steering box.{
+	=TRUE#Parallelogram arrangement steering systems are not compact but are more rugged than rack and pinion. These systems use a steering box.
+	~FALSE#Parallelogram arrangement steering systems are not compact but are more rugged than rack and pinion. These systems use a steering box.
+}
+
+
+//name:TQ0501
+::TQ0501::Technician A says if the bellows is torn when checking a rack and pinion steering system then it is a good indicator that the rack and pinion may have suffered accelerated wear but it may not be worn out. Technician B says if the bellows on the steering box is torn then it is a good indicator that the box is worn out and the assembly should be changed. Who is correct?{
+	=Technician A.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+	~Technician B.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+	~Both Technician A and Technician B.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+	~Neither Technician A nor Technician B.#Technician A is correct as the protective bellows is located in a harsh environment and subject to wear and tear.  Further inspection is required to determine if the rack is in good order.
+}
+
+
+//name:TQ0502
+::TQ0502::Technician A says that the method for checking spring loaded track rod ends is the same as for checking preloaded track rod ends. Technician B says different methods should be used when checking different types of tie rod ends, depending on the type. Who is correct?{
+	~Technician A.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+	=Technician B.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+	~Both Technician A and Technician B.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+	~Neither Technician A nor Technician B.#Technician B is correct because different methods should be used when checking different types of tie rod ends depending on the type. Refer to the shop manual.
+}
+
+
+//name:TQ0503
+::TQ0503::There is more than one type of tie rod end used on motor vehicles. They are known as:{
+	=Pre-loaded and spring-loaded types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+	~Pitman and drop arm types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+	~Spring-loaded and Pitman types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+	~Pre-loaded and drop arm types.#Tie rods are either designed using pre-loaded or spring-loaded configuration.
+}
+
+
+//name:TQ0504
+::TQ0504::Technician A says to check ball joint wear the jack can be placed under the lower control arm. Technician B says to check ball joint wear the jack can be placed under the frame. Who is correct?{
+	~Technician A.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+	~Technician B.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+	=Both Technician A & Technician B.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+	~Neither Technician A or Technician B.#Both technicians are correct because where the jack is placed depends on the type of suspension layout.
+}
+
+
+//name:TQ0505
+::TQ0505::Which of the following should be replaced when wheel bearings are repacked?{
+	=Cotter pin.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+	~Safety washer.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+	~Slotted nut.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+	~All of these.#As the cotter pin must stop the nut from coming loose, it must be replaced each time it is removed from the system.
+}
+
+
+//name:TQ0506
+::TQ0506::Technician A says that when changing wheel bearings you can leave the old race in position and fit the new bearing to it. Technician B says that when changing wheel bearings you can change either the race or the roller bearing depending on the amount of wear in the components. Who is correct?{
+	~Technician A.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+	~Technician B.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+	~Both Technician A and Technician B.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+	=Neither Technician A nor Technician B.#Neither technician is correct as new bearings always require new bearing races. Refer to the shop manual.
+}
+
+
+//name:TQ0507
+::TQ0507::Technician A says that when repacking the wheel bearings with grease it is best to do it by hand. Technician B says that when repacking the wheel bearings with grease you must use only the recommended type of grease. Who is correct?{
+	~Technician A.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+	~Technician B.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+	=Both Technician A and Technician B.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+	~Neither Technician A nor Technician B.#Both technicians are correct because hand packing a wheel bearing with grease is a recommended routine.  You must also be certain to use only the recommended type of grease.
+}
+
+
+//name:TQ0508
+::TQ0508::Technician A says that sealed wheel bearings can be repacked if care is used. Technician B says that all the old grease should be removed from tapered roller bearings before repacking.  Who is correct?{
+	~Technician A.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+	=Technician B.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+	~Both Technician A & Technician B.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+	~Neither Technician A or Technician B.#Technician B is correct because any time grease is added to taper roller bearings they should be cleaned first. Sealed bearings are not able to have lubricant added without damaging the seals.
+}
+
+
+//name:TQ0509
+::TQ0509::A correctly tensioned drive belt will have a tension equivalent to:{
+	=1.25 cm/30cm of belt (0.5'/1').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+	~2.5 cm/30cm of belt (1'/1').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+	~1.25 mm/30cm of belt (0.05'/1').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+	~1.25 cm/3m of belt (0.5'/10').#A correctly tensioned will be able to deflect about 1.25 centimeters for each 30cm of belt (half an inch for each foot).
+}
+
+

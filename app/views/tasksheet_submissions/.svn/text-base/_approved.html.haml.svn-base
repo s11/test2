@@ -1,0 +1,10 @@
+- information_box do
+  - if current_user.role.student?
+    %p Tasksheets that you have submitted and that have been Approved by an instructor are listed below.
+
+  - else
+    %p 
+      Approved Tasksheets for groups you are instructor for are listed below. You can refine the tasksheets displayed using the |
+      filters. You can Reject tasksheets that have been Approved by mistake.
+
+    %p Click Save Changes to save.

@@ -1,0 +1,156 @@
+// question: 26992  name: HAQ2070 
+::HAQ2070::[html]A typical ABS is composed of a central ................. unit, four speed sensors (one for each wheel), and two or more hydraulic valves on the brake circuit.{
+	=%100%electronic#
+}
+
+
+// question: 26993  name: HAQ2071 
+::HAQ2071::[html]The antilock braking system prevents wheels locking or skidding, no matter how hard brakes are applied, or how slippery the road surface. Steering stays under control and ................. distances are generally reduced.{
+	=%100%stopping#
+}
+
+
+// question: 26994  name: HAQ2072 
+::HAQ2072::[html]In a 3-channel system, the hydraulic control unit uses 3  solenoid valves to control brake pressure and prevent them locking. The valves are in ................. with the brake master cylinder and the brake circuits.{
+	=%100%series#
+}
+
+
+// question: 26995  name: HAQ2073 
+::HAQ2073::[html]When activated, the ABS causes the brake pedal to ................. noticeably.{
+	=%100%pulse#
+}
+
+
+// question: 26996  name: HAQ2074 
+::HAQ2074::[html]It is worth noting that the ................. a vehicle is, the more it will benefit from ABS.{
+	=%100%heavier#
+}
+
+
+// question: 26998  name: HAQ2076 
+::HAQ2076::[html]Brake force is affected by - ................. Coeffiecient - road surface condition;{
+	=%100%Friction#
+}
+
+
+// question: 26999  name: HAQ2077 
+::HAQ2077::[html]However, even though the ABS is passive during normal braking, its control module is  constantly monitoring for rapid ................. of any of the wheels.{
+	=%100%deceleration#
+}
+
+
+// question: 27000  name: HAQ2078 
+::HAQ2078::[html]It is normal in an ABS for the valves in the hydraulic control unit to keep changing position as they change the brake pressure that's being applied. These changes in position may cause rapid ................. to be felt through the brake pedal.{
+	=%100%pulsations#
+}
+
+
+// question: 27001  name: HAQ2079 
+::HAQ2079::[html]The master cylinder is connected to the brake pedal via a .................{
+	=%100%pushrod#
+}
+
+
+// question: 27002  name: HAQ2080 
+::HAQ2080::[html]Low pressure areas in front of each piston can cause air to be drawn into the system. To prevent this, there are ................. grooves in the primary piston and the seal.{
+	=%100%recuperating#
+}
+
+
+// question: 27003  name: HAQ2081 
+::HAQ2081::[html]Fluid at ................. pressure flows through the inlet port, and past these grooves. When the primary piston is returned fully, any extra fluid coming back from the brake units displaces fluid into the reservoir, through the compensating port.{
+	=%100%atmospheric#
+}
+
+
+// question: 27004  name: HAQ2082 
+::HAQ2082::[html]If fluid is returned from the rear brake circuit, the secondary and primary pistons tend to be ................. apart.{
+	=%100%forced#
+}
+
+
+// question: 27005  name: HAQ2083 
+::HAQ2083::[html]During lock-up, a command current to the solenoid coil causes the armature and valve to move upward, and isolate the brake circuit from the master cylinder. That keeps the pressure between the solenoid and the brake circuit ................. - whether or not the master cylinder hydraulic pressure rises.{
+	=%100%constant#
+}
+
+
+// question: 27006  name: HAQ2084 
+::HAQ2084::[html]In normal, non-ABS braking, brake pedal force is transmitted to the master cylinder, then through the ................. valve to the brake unit at the wheel.{
+	=%100%solenoid#
+}
+
+
+// question: 27007  name: HAQ2085 
+::HAQ2085::[html]If the sensors signal continuing excessive wheel deceleration, the Control Module sends a ................. current to the solenoid valve.{
+	=%100%larger#
+}
+
+
+// question: 27008  name: HAQ2086 
+::HAQ2086::[html]A wheel sensor consists of a ................. rotor that rotates with the wheels, and a pickup.{
+	=%100%toothed#
+}
+
+
+// question: 27009  name: HAQ2087 
+::HAQ2087::[html]On a wheel speed sensor, as each tooth of the rotor passes the pickup, a small ................. is induced in the pickup.{
+	=%100%voltage#
+}
+
+
+// question: 27010  name: HAQ2088 
+::HAQ2088::[html]These pulses are sent as input signals to the electronic control unit which processes them, to operate the ................. control unit.{
+	=%100%hydraulic#
+}
+
+
+// question: 27011  name: HAQ2089 
+::HAQ2089::[html]The electronic control unit receives ................. from different sources.{
+	=%100%signals#
+}
+
+
+// question: 27012  name: HAQ2090 
+::HAQ2090::[html]The electronic control unit receives signals from different sources. A switch at the brake pedal provides a brake- operating signal. Another in the ................. system signals the engine is operating.{
+	=%100%ignition#
+}
+
+
+// question: 27013  name: HAQ2091 
+::HAQ2091::[html]Another input to the ECU is from the wheel ................. sensors. These signals are used to control the hydraulic control unit and anticipate wheel lock.{
+	=%100%speed#
+}
+
+
+// question: 27014  name: HAQ2092 
+::HAQ2092::[html]If a wheel starts to lock, the electronic control unit operates the ................. valves to reduce hydraulic pressure appropriately.{
+	=%100%solenoid#
+}
+
+
+// question: 26988  name: HAQ3772 
+::HAQ3772::[html]The antilock braking system is designed to prevent wheels locking or ................., no matter how hard brakes are applied, or how slippery the road surface.{
+	=%100%skidding#
+}
+
+
+// question: 26989  name: HAQ3773 
+::HAQ3773::[html]The primary components of the ABS braking system are: Electronic control unit (ECU); Hydraulic control unit or ............; Power booster & master cylinder assembly; Wheel sensor unit.{
+	=%100%modulator#
+}
+
+
+// question: 26990  name: HAQ3774 
+::HAQ3774::[html]The power booster and master cylinder assembly is mounted on the ................. and is activated when the driver pushes down on the brake pedal.{
+	=%100%firewall#
+}
+
+
+// question: 26991  name: HAQ3775 
+::HAQ3775::[html]The wheel sensor unit consists of a tooth rotor that rotates with the road wheels and a pick-up that is located in the wheel .................{
+	=%100%hub#
+}
+
+

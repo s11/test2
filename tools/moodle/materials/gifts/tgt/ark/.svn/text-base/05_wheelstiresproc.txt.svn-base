@@ -1,0 +1,89 @@
+//name:TQ0625
+::TQ0625::Under what circumstance would you fully deflate a tire?{
+	=Prior to removing it from the road wheel.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+	~When checking the treads.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+	~When checking the sidewall for flexibility.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+	~When inserting a plug repair kit.#One MUST fully deflate a tire before attempting to remove it from the wheel.
+}
+
+
+//name:TQ0626
+::TQ0626::When checking tire pressures you must make sure that the gauge is accurate. If the gauge is reading high it could lead to the tire being:{
+	=under-inflated.#Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important. Therefore you should ensure the tire inflation gauge being used is accurate.
+	~over-inflated.#Since both too little and too much inflation pressure sacrifices some of the tire's performance, maintaining the 'right' inflation pressure is very important. Therefore you should ensure the tire inflation gauge being used is accurate.
+}
+
+
+//name:TQ0627
+::TQ0627::Excessive wear in the middle of a tire tread could indicate:{
+	=over-inflation.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+	~under-inflation.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+	~wheels not running parallel.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+	~excessive negative camber.#Over-inflation has resulted in the central tread area being forced into contact with the road causing rapid or crown wear.
+}
+
+
+//name:TQ0628
+::TQ0628::When the tread wear indicators appear as a solid line across the tire that indicates that new tires will soon be required.{
+	=FALSE#Tread wear indicators indicate when a tire has reached its safe and useful life. The indication is of replacement - not continued service.
+	~TRUE#Tread wear indicators indicate when a tire has reached its safe and useful life. The indication is of replacement - not continued service.
+}
+
+
+//name:TQ0629
+::TQ0629::Because asymmetric tires can only be fitted to a wheel in one way they can only be used on one side of a vehicle and the wheels cannot be rotated.{
+	=FALSE#Asymmetric tires are generally also directional tires and must be mounted and used on one side of the vehicle as per manufacturer recommendations but they can be rotated front to rear and vice versa.
+	~TRUE#Asymmetric tires are generally also directional tires and must be mounted and used on one side of the vehicle as per manufacturer recommendations but they can be rotated front to rear and vice versa.
+}
+
+
+//name:TQ0630
+::TQ0630::Because some tires are also directional they can only be used on one side of a vehicle.{
+	=TRUE#Directional tires must be mounted and used on one side of the vehicle as per manufacturer recommendations.
+	~FALSE#Directional tires must be mounted and used on one side of the vehicle as per manufacturer recommendations.
+}
+
+
+//name:TQ0631
+::TQ0631::It is recommended that you should replace the valve core when initially inflating a new tire that has just been placed on a rim.{
+	=FALSE#The valve core will limit tire inflation volume and will limit the bead setting process.
+	~TRUE#The valve core will limit tire inflation volume and will limit the bead setting process.
+}
+
+
+//name:TQ0632
+::TQ0632::Technician A says that hub nuts should be tightened with an air wrench because the wrench air pressure settings ensure that the nuts do not get over tightened. Technician B says that lug nuts should be tightened and checked with a torque wrench. Who is correct?{
+	~Technician A.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+	=Technician B.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+	~Both Technician A and Technician B.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+	~Neither Technician A nor Technician B.#Technician B is correct as tightening procedures must be carefully followed. Hub nuts must be seated and then torque tightened to the manufacturer's specifications.
+}
+
+
+//name:TQ0633
+::TQ0633::Technician A says that radial tires should be fitted as indicated with the direction of rotation indicator on the side wall. Technician B says that asymmetric or directional tires should be fitted in the direction of rotation. Who is correct?{
+	~Technician A.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+	~Technician B.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+	=Both Technician A and Technician B.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+	~Neither Technician A nor Technician B.#Both technicians are correct as directional tires are also asymmetric tires and must be mounted as per the vehicle manufacturer's recommendation.
+}
+
+
+//name:TQ0634
+::TQ0634::The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about:{
+	=12.5 kPa for each 2¯C (1 PSI for each 10¯F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2¯C (1 PSI for each 10¯F) the tire is above its normal operating temperature.
+	~125 kPa for each 2¯C (10 PSI for each 10¯F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2¯C (1 PSI for each 10¯F) the tire is above its normal operating temperature.
+	~1.25 kPa for each 2¯C (0.1 PSI for each 10¯F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2¯C (1 PSI for each 10¯F) the tire is above its normal operating temperature.
+	~12.5 kPa for each 20¯C (1 PSI for each 100¯F) the tire is above its normal operating temperature.#The tire pressures should be checked when the tires are cold. On average, the pressure in a tire will increase by about 12.5 kPa for each 2¯C (1 PSI for each 10¯F) the tire is above its normal operating temperature.
+}
+
+
+//name:TQ0635
+::TQ0635::Technician A says that wheel weights should be removed before checking the balance of a wheel.  Technician B says the weight of the vehicle must be on the tyres before tightening the lug nuts. Who is correct?{
+	~Technician A.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+	=Technician B.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+	~Neither Technician A nor Technician B.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+	~Both Technician A and Technician B.#Technician B is correct. Wheel weights should not be removed before checking the balance of a wheel.  The weight of the vehicle must be on the tyres before tightening the lug nuts.
+}
+
+

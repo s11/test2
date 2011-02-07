@@ -1,0 +1,77 @@
+//name:TQ1454
+::TQ1454::What type of valves are normally used in a 2-stroke diesel engine?{
+	=Exhaust valves.#The piston covers and uncovers the inlet ports in a 2-stroke diesel engine.
+	~Inlet valves.#The piston covers and uncovers the inlet ports in a 2-stroke diesel engine.
+	~Inlet and exhaust valves.#The piston covers and uncovers the inlet ports in a 2-stroke diesel engine.
+	~No valves.#The piston covers and uncovers the inlet ports in a 2-stroke diesel engine.
+}
+
+
+//name:TQ1455
+::TQ1455::In a two-stroke diesel engine the process of moving the exhaust gases out and the new air into the cylinder is called scavenging. {
+	=TRUE#The piston uncovers the inlet ports and the blower delivers fresh air into the cylinder. Incoming air scavenges exhaust gases out of the cylinder. Without effective scavenging, diesel engines lose efficiency.
+	~FALSE#The piston uncovers the inlet ports and the blower delivers fresh air into the cylinder. Incoming air scavenges exhaust gases out of the cylinder. Without effective scavenging, diesel engines lose efficiency.
+}
+
+
+//name:TQ1456
+::TQ1456::Intake air in a two-stroke diesel engine is normally assisted by the use of a blower.{
+	=TRUE#Before the piston reaches bottom dead centre, the exhaust valve opens and burned gases escape. The inlet port is uncovered and it admits fresh air from the blower. The piston reaches bottom dead centre.
+	~FALSE#Before the piston reaches bottom dead centre, the exhaust valve opens and burned gases escape. The inlet port is uncovered and it admits fresh air from the blower. The piston reaches bottom dead centre.
+}
+
+
+//name:TQ1457
+::TQ1457::What is the main difference between the intake strokes of a 4-stroke gasoline and a 4-stroke diesel engine?{
+	=Unlike the gasoline engine, only air enters the cylinder on the intake stroke of a diesel engine.#At the end of the compression stroke of a diesel engine, an injector sprays fuel into the combustion chamber. It mixes with the very hot compressed air and ignites.
+	~There is no difference, just like the gasoline engine, air alone enters the cylinder on the intake stroke of a diesel engine.#At the end of the compression stroke of a diesel engine, an injector sprays fuel into the combustion chamber. It mixes with the very hot compressed air and ignites.
+	~Unlike the diesel engine, air alone enters the cylinder on the intake stroke in a gasoline engine.#At the end of the compression stroke of a diesel engine, an injector sprays fuel into the combustion chamber. It mixes with the very hot compressed air and ignites.
+	~Unlike the gasoline engine, air and fuel together enter the cylinder on the intake stroke of a diesel engine.#At the end of the compression stroke of a diesel engine, an injector sprays fuel into the combustion chamber. It mixes with the very hot compressed air and ignites.
+}
+
+
+//name:TQ1458
+::TQ1458::How many power strokes are produced in two revolutions of the crankshaft in a 4-stroke diesel engine?{
+	=One.#In one 4-stroke cycle, the crankshaft does 2 revolutions. In those 2 revolutions it does 4 strokes, and only 1 stroke out of 4 delivers new energy to turn the crankshaft.
+	~Two.#In one 4-stroke cycle, the crankshaft does 2 revolutions. In those 2 revolutions it does 4 strokes, and only 1 stroke out of 4 delivers new energy to turn the crankshaft.
+	~Three.#In one 4-stroke cycle, the crankshaft does 2 revolutions. In those 2 revolutions it does 4 strokes, and only 1 stroke out of 4 delivers new energy to turn the crankshaft.
+	~Four.#In one 4-stroke cycle, the crankshaft does 2 revolutions. In those 2 revolutions it does 4 strokes, and only 1 stroke out of 4 delivers new energy to turn the crankshaft.
+}
+
+
+//name:TQ1459
+::TQ1459::Injectors for diesel engines spray fuel into the:{
+	=combustion chamber.#Direct injection means fuel is injected directly into the chamber. The cylinder head usually has a flat surface and the combustion chamber is formed in the piston crown. At top dead centre, there is very little clearance between the cylinder head and the top of the piston.
+	~intake manifold.#Direct injection means fuel is injected directly into the chamber. The cylinder head usually has a flat surface and the combustion chamber is formed in the piston crown. At top dead centre, there is very little clearance between the cylinder head and the top of the piston.
+	~air cleaner.#Direct injection means fuel is injected directly into the chamber. The cylinder head usually has a flat surface and the combustion chamber is formed in the piston crown. At top dead centre, there is very little clearance between the cylinder head and the top of the piston.
+	~exhaust manifold.#Direct injection means fuel is injected directly into the chamber. The cylinder head usually has a flat surface and the combustion chamber is formed in the piston crown. At top dead centre, there is very little clearance between the cylinder head and the top of the piston.
+}
+
+
+//name:TQ1460
+::TQ1460::Why are diesel engines also known as compression ignition engines?{
+	=The heat produced by compresssing the air ignites the fuel.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+	~Ignition occurs at the beginning of the compression stroke.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+	~The fuel-air mixture is compressed by the ignition process.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+	~Compressed air is injected into the combustion chamber.#Diesel engine components are exposed to higher operating temperatures, pressures, and forces than gasoline engines of similar size. Because their compression ratios are higher, there is no need for an ignition system as in a gasoline engine, and their engine parts are usually heavier or more rugged than those of similar output gasoline engines. 
+}
+
+
+//name:TQ1461
+::TQ1461::What are the three phases of combustion in a compression ignition engine?{
+	=Ignition delay, flame spread, and direct burning.#The sudden sharp pressure rise during the flame spread phase is the cause of 'diesel knock', the main disadvantage of the CI engine.
+	~Ignition increase, flame spread and direct burning.#The sudden sharp pressure rise during the flame spread phase is the cause of 'diesel knock', the main disadvantage of the CI engine.
+	~Ignition delay, flameout and direct burning.#The sudden sharp pressure rise during the flame spread phase is the cause of 'diesel knock', the main disadvantage of the CI engine.
+	~Ignition delay, flame spread and complete burning.#The sudden sharp pressure rise during the flame spread phase is the cause of 'diesel knock', the main disadvantage of the CI engine.
+}
+
+
+//name:TQ1462
+::TQ1462::In a 4-stroke diesel engine, to what volume is the air in the cylinder compressed?{
+	=To about one sixteenth of its original volume.#When the piston reaches top dead center, the air is compressed to about one-sixteenth of its original volume. This is higher compression than in a similar petrol engine. Compressing the air also heats it.
+	~To about a quarter of its original volume.#When the piston reaches top dead center, the air is compressed to about one-sixteenth of its original volume. This is higher compression than in a similar petrol engine. Compressing the air also heats it.
+	~To about one eighth of its original volume.#When the piston reaches top dead center, the air is compressed to about one-sixteenth of its original volume. This is higher compression than in a similar petrol engine. Compressing the air also heats it.
+	~To about one twentieth of its original volume.#When the piston reaches top dead center, the air is compressed to about one-sixteenth of its original volume. This is higher compression than in a similar petrol engine. Compressing the air also heats it.
+}
+
+

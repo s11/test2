@@ -1,0 +1,40 @@
+- user = current_client.users.find(params[:owner_ids])
+- if user.present?
+  %h2== Tasksheet Report for #{user.try(:fullname)} (#{user.username})
+
+%table#listing{ :style => "width: auto; margin: auto", :width => "auto" }
+  %thead.ui-widget-header
+    %tr
+      %th{ :rowspan => 2 } Tasksheet Number
+      %th{ :rowspan => 2 } Description
+
+      - if user.menu_version.has_natef_selection?
+        %th{ :colspan => 2 } NATEF
+
+      %th{ :rowspan => 2 } Completed On
+      %th{ :rowspan => 2 } Grade
+      %th{ :rowspan => 2 } Average
+
+    - if user.menu_version.has_natef_selection?
+      %tr
+        %th Priority
+        %th Reference
+      
+  - @report_table.each_pair do |tasksheet, submissions|
+    %tbody{ :class => cycle(:odd, :even) }
+      %tr.centre{ :style => "vertical-align: top" }
+        %td{ :rowspan => submissions.size }= tasksheet.number
+        %td.left{ :rowspan => submissions.size }= tasksheet.description
+
+        - if user.menu_version.has_natef_selection?
+          %td{ :rowspan => submissions.size }= tasksheet.natef_task_areas.first.natef_priority
+          %td{ :rowspan => submissions.size }= tasksheet.natef_task_areas.first.natef_reference
+
+        %td{ :nowrap => :nowrap }= submissions.first.completed_on
+        %td= submissions.first.grade
+        %td{ :rowspan => submissions.size, :style => "vertical-align: middle" }= "%0.1f" % (submissions.map(&:grade).sum / submissions.size.to_f)
+
+      - submissions[1..-1].each do |submission|
+        %tr.centre
+          %td= submission.completed_on
+          %td= submission.grade

@@ -1,0 +1,81 @@
+//name:TQ1445
+::TQ1445::There are three common hybrid systems in automotive use. What are their names?{
+	=Series, parallel, and series-parallel.#The series-hybrid system uses a small fuel-burning engine to drive a generator for electricity which in turn provides power to one or more electric motors which drive the wheels. When the traction storage batteries need recharging, the engine starts up to run the generator for recharging. In the parallel-hybrid system there are two power paths. Either the fuel burning (heat) engine, the electric propulsion system, or both, power the wheels. For longer trips, the heat engine provides primary power to the vehicle with the electric motor assisting under peak loads. Variations to these two basic systems exist such as the series-parallel.
+	~Series, parallel-series, and series-parallel.#The series-hybrid system uses a small fuel-burning engine to drive a generator for electricity which in turn provides power to one or more electric motors which drive the wheels. When the traction storage batteries need recharging, the engine starts up to run the generator for recharging. In the parallel-hybrid system there are two power paths. Either the fuel burning (heat) engine, the electric propulsion system, or both, power the wheels. For longer trips, the heat engine provides primary power to the vehicle with the electric motor assisting under peak loads. Variations to these two basic systems exist such as the series-parallel.
+	~Series, parallel, and parallel-series.#The series-hybrid system uses a small fuel-burning engine to drive a generator for electricity which in turn provides power to one or more electric motors which drive the wheels. When the traction storage batteries need recharging, the engine starts up to run the generator for recharging. In the parallel-hybrid system there are two power paths. Either the fuel burning (heat) engine, the electric propulsion system, or both, power the wheels. For longer trips, the heat engine provides primary power to the vehicle with the electric motor assisting under peak loads. Variations to these two basic systems exist such as the series-parallel.
+	~Honda, Toyota and General Motors.#The series-hybrid system uses a small fuel-burning engine to drive a generator for electricity which in turn provides power to one or more electric motors which drive the wheels. When the traction storage batteries need recharging, the engine starts up to run the generator for recharging. In the parallel-hybrid system there are two power paths. Either the fuel burning (heat) engine, the electric propulsion system, or both, power the wheels. For longer trips, the heat engine provides primary power to the vehicle with the electric motor assisting under peak loads. Variations to these two basic systems exist such as the series-parallel.
+}
+
+
+//name:TQ1446
+::TQ1446::What is the purpose of a hybrid vehicle?{
+	=Hybrid vehicles are designed to drive like conventionally powered vehicles, while producing significantly lower emissions and increased fuel economy.#The lighter, cleaner, more fuel efficient hybrid-electric vehicle (HEV) uses an electric motor to serve as a supplemental power source for peak-load conditions. In a conventional vehicle, the engine must rev up to reach peak torque and horse power.
+	~Hybrid vehicles are designed to drive like conventionally powered vehicles, while producing significantly higher emissions and lower fuel economy.#The lighter, cleaner, more fuel efficient hybrid-electric vehicle (HEV) uses an electric motor to serve as a supplemental power source for peak-load conditions. In a conventional vehicle, the engine must rev up to reach peak torque and horse power.
+	~Hybrid vehicles are designed to drive like conventionally powered vehicles, while producing significantly higher emissions and higher fuel economy.#The lighter, cleaner, more fuel efficient hybrid-electric vehicle (HEV) uses an electric motor to serve as a supplemental power source for peak-load conditions. In a conventional vehicle, the engine must rev up to reach peak torque and horse power.
+	~Hybrid vehicles are designed to drive like conventionally powered vehicles, while producing significantly lower emissions and lower fuel economy.#The lighter, cleaner, more fuel efficient hybrid-electric vehicle (HEV) uses an electric motor to serve as a supplemental power source for peak-load conditions. In a conventional vehicle, the engine must rev up to reach peak torque and horse power.
+}
+
+
+//name:TQ1447
+::TQ1447::In the series-parallel hybrid arrangement what component provides the energy to drive the vehicle away from rest?{
+	=The battery.#The traction storage batteries serve as an 'on-demand' energy source under load. Thus, with the hybrid, the fuel burning (heat) engine can be downsized and run at peak efficiency (peak-torque RPM) to propel the vehicle and to run the battery-charging generator. In some cases, planetary gear sets and continuously variable speed transmissions (CVT) further optimize economy and performance. All components are harmoniously 'load-controlled' by sophisticated computer algorithms programmed into high-speed integrated power modules.
+	~Electric motor/generator.#The traction storage batteries serve as an 'on-demand' energy source under load. Thus, with the hybrid, the fuel burning (heat) engine can be downsized and run at peak efficiency (peak-torque RPM) to propel the vehicle and to run the battery-charging generator. In some cases, planetary gear sets and continuously variable speed transmissions (CVT) further optimize economy and performance. All components are harmoniously 'load-controlled' by sophisticated computer algorithms programmed into high-speed integrated power modules.
+	~The power divider.#The traction storage batteries serve as an 'on-demand' energy source under load. Thus, with the hybrid, the fuel burning (heat) engine can be downsized and run at peak efficiency (peak-torque RPM) to propel the vehicle and to run the battery-charging generator. In some cases, planetary gear sets and continuously variable speed transmissions (CVT) further optimize economy and performance. All components are harmoniously 'load-controlled' by sophisticated computer algorithms programmed into high-speed integrated power modules.
+	~The gasoline engine.#The traction storage batteries serve as an 'on-demand' energy source under load. Thus, with the hybrid, the fuel burning (heat) engine can be downsized and run at peak efficiency (peak-torque RPM) to propel the vehicle and to run the battery-charging generator. In some cases, planetary gear sets and continuously variable speed transmissions (CVT) further optimize economy and performance. All components are harmoniously 'load-controlled' by sophisticated computer algorithms programmed into high-speed integrated power modules.
+}
+
+
+//name:TQ1448
+::TQ1448::The series-parallel hybrid system uses an electric motor to drive the vehicle:{
+	=at low loads and speeds, and a gasoline engine when loads and speeds increase.#If the electric motor is used to deliver power in higher torque demand situations, when driving the vehicle at low loads and speeds, then the gasoline engine can be optimized for running efficiently at higher speeds.
+	~at high loads and speeds, and a gasoline engine when loads and speeds are low.#If the electric motor is used to deliver power in higher torque demand situations, when driving the vehicle at low loads and speeds, then the gasoline engine can be optimized for running efficiently at higher speeds.
+	~at high loads and speeds, and a gasoline engine when loads and speeds increase.#If the electric motor is used to deliver power in higher torque demand situations, when driving the vehicle at low loads and speeds, then the gasoline engine can be optimized for running efficiently at higher speeds.
+	~at low loads and speeds, and a gasoline engine when loads and speeds are low.#If the electric motor is used to deliver power in higher torque demand situations, when driving the vehicle at low loads and speeds, then the gasoline engine can be optimized for running efficiently at higher speeds.
+}
+
+
+//name:TQ1449
+::TQ1449::The motor control unit controls:{
+	=the delivery of electric current to and from the battery and the electric motors.#A control unit determines the best balance of engine and electric power to achieve the most efficient vehicle operation.
+	~battery charging only.#A control unit determines the best balance of engine and electric power to achieve the most efficient vehicle operation.
+	~electric motors only.#A control unit determines the best balance of engine and electric power to achieve the most efficient vehicle operation.
+	~motor speed only.#A control unit determines the best balance of engine and electric power to achieve the most efficient vehicle operation.
+}
+
+
+//name:TQ1450
+::TQ1450::In a series-parallel hybrid system the gasoline motor:{
+	=drives the vehicle and charges the battery.#The combustion engine operates within its most efficient range resulting in a vehicle that reduces exhaust emissions by 80% to 90% compared to conventional vehicles.
+	~drives the vehicle only.#The combustion engine operates within its most efficient range resulting in a vehicle that reduces exhaust emissions by 80% to 90% compared to conventional vehicles.
+	~charges the battery only.#The combustion engine operates within its most efficient range resulting in a vehicle that reduces exhaust emissions by 80% to 90% compared to conventional vehicles.
+	~does none of these.#The combustion engine operates within its most efficient range resulting in a vehicle that reduces exhaust emissions by 80% to 90% compared to conventional vehicles.
+}
+
+
+//name:TQ1451
+::TQ1451::The Toyota Prius hybrid vehicle uses what kind of internal combustion engine?{
+	=An Atkinson cycle engine.#The gasoline/electric Prius HEV uses a 1.5 liter, 16 valve, 4 cylinder 'low-rev' Atkinson cycle engine with reduced pumping losses and maximized thermal efficiency and fuel economy.
+	~A Miller cycle engine.#The gasoline/electric Prius HEV uses a 1.5 liter, 16 valve, 4 cylinder 'low-rev' Atkinson cycle engine with reduced pumping losses and maximized thermal efficiency and fuel economy.
+	~An Otto cycle engine.#The gasoline/electric Prius HEV uses a 1.5 liter, 16 valve, 4 cylinder 'low-rev' Atkinson cycle engine with reduced pumping losses and maximized thermal efficiency and fuel economy.
+	~An Abrams cycle engine.#The gasoline/electric Prius HEV uses a 1.5 liter, 16 valve, 4 cylinder 'low-rev' Atkinson cycle engine with reduced pumping losses and maximized thermal efficiency and fuel economy.
+}
+
+
+//name:TQ1452
+::TQ1452::In a gasoline/electric hybrid vehicle, what does the inverter do?{
+	=It turns AC current into DC current, and vice versa.#The motor control unit contains an inverter that is used to change the alternating current produced by both motors into direct current to charge the battery and to convert the direct current from the battery into alternating current to power the electric motors.
+	~It reverses the polarity of the electric motor for braking.#The motor control unit contains an inverter that is used to change the alternating current produced by both motors into direct current to charge the battery and to convert the direct current from the battery into alternating current to power the electric motors.
+	~It converts heat from braking friction into electricity.#The motor control unit contains an inverter that is used to change the alternating current produced by both motors into direct current to charge the battery and to convert the direct current from the battery into alternating current to power the electric motors.
+	~It switches the drive from the electric motor to the gasoline engine and vice versa.#The motor control unit contains an inverter that is used to change the alternating current produced by both motors into direct current to charge the battery and to convert the direct current from the battery into alternating current to power the electric motors.
+}
+
+
+//name:TQ1453
+::TQ1453::In a series-parallel hybrid system, during deceleration and braking:{
+	=the combustion engine is turned off.#During deceleration and braking the combustion engine is turned off. Inertia from the wheels drives the electric motor/generator, using the current produced to charge the battery.
+	~the combustion engine, if running, provides inertia braking.#During deceleration and braking the combustion engine is turned off. Inertia from the wheels drives the electric motor/generator, using the current produced to charge the battery.
+	~both the combustion engine and the electric motor are turned off.#During deceleration and braking the combustion engine is turned off. Inertia from the wheels drives the electric motor/generator, using the current produced to charge the battery.
+	~the combustion engine is turned on.#During deceleration and braking the combustion engine is turned off. Inertia from the wheels drives the electric motor/generator, using the current produced to charge the battery.
+}
+
+

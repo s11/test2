@@ -1,0 +1,97 @@
+//name:TQ1614
+::TQ1614::Adequate air circulation over the fins of a stationary air-cooled engine is provided by:{
+	=an engine-driven fan.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+	~convection currents as the fins heat up.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+	~natural air movement.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+	~heat radiating to the lubricating oil.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+}
+
+
+//name:TQ1615
+::TQ1615::Cooling fins on the cylinders of an air-cooled engine:{
+	=provide increased surface area.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+	~reduce engine noise.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+	~improve engine strength.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+	~reduce the severity of burns.#Air cooled engines normally operate by having a number of cooling fins to increase the contact surface area that air can pass over and dissipate the heat. On a moving motorcycle the air through this system works quite effectively. However in a stationary air-cooled automotive engine, air needs to be forced over the fins. This is normally done by using an engine-driven fan and ducting to direct the air over the fins.
+}
+
+
+//name:TQ1616
+::TQ1616::When overhauling an air-cooled engine it is necessary to ensure that all fins are clean and intact to:{
+	=maintain correct heat transfer.#Air-cooled engines normally operate by having a number of cooling fins to increase the contact surface that air can pass over and dissipate the heat. When overhauling an air-cooled engine it is necessary to ensure that all fins are clean and intact to maintain correct heat transfer.
+	~prevent exhaust leaks.#Air-cooled engines normally operate by having a number of cooling fins to increase the contact surface that air can pass over and dissipate the heat. When overhauling an air-cooled engine it is necessary to ensure that all fins are clean and intact to maintain correct heat transfer.
+	~assist the engine in warming up.#Air-cooled engines normally operate by having a number of cooling fins to increase the contact surface that air can pass over and dissipate the heat. When overhauling an air-cooled engine it is necessary to ensure that all fins are clean and intact to maintain correct heat transfer.
+	~prevent oil leaks.#Air-cooled engines normally operate by having a number of cooling fins to increase the contact surface that air can pass over and dissipate the heat. When overhauling an air-cooled engine it is necessary to ensure that all fins are clean and intact to maintain correct heat transfer.
+}
+
+
+//name:TQ1617
+::TQ1617::How does air cooling work best?{
+	=On engines exposed to a high airflow.#Air cooling uses air to carry away heat. It works best on engines exposed to a high airflow. Cooling fins make exposed surface area as large as possible, allowing more heat to radiate away.
+	~On engines exposed to a low airflow.#Air cooling uses air to carry away heat. It works best on engines exposed to a high airflow. Cooling fins make exposed surface area as large as possible, allowing more heat to radiate away.
+	~On larger internal combustion engines.#Air cooling uses air to carry away heat. It works best on engines exposed to a high airflow. Cooling fins make exposed surface area as large as possible, allowing more heat to radiate away.
+	~On engines with separate liquid cooled systems.#Air cooling uses air to carry away heat. It works best on engines exposed to a high airflow. Cooling fins make exposed surface area as large as possible, allowing more heat to radiate away.
+}
+
+
+//name:TQ1618
+::TQ1618::An engine operating below the designed operating temperature will:{
+	=increase cylinder, piston, and piston ring wear.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear.
+	~produce the same power as an engine operating at the correct temperature.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear.
+	~have no detrimental effect on engine life.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear.
+	~enable a longer useful life for engine lubricating oil.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear.
+}
+
+
+//name:TQ1619
+::TQ1619::Circulation of coolant in a modern cooling system is assisted by:{
+	=an engine-driven centrifugal pump.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+	~the action of the cooling fan.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+	~a viscous coupling.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+	~an electrically-driven coolant pump and fan.#The circulation of coolant in a modern cooling system is assisted by an engine-driven centrifugal pump. The purpose of the pump is to ensure that all cylinders receive an adequate flow of coolant to dissipate heat.
+}
+
+
+//name:TQ1620
+::TQ1620::Natural circulation of coolant in a cooling system is called:{
+	=thermo-siphon.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However, because of modern vehicle design and the use of cross-flow radiators an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+	~induction thermo-flow.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However, because of modern vehicle design and the use of cross-flow radiators an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+	~convention-circulation.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However, because of modern vehicle design and the use of cross-flow radiators an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+	~thermo-flow.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However, because of modern vehicle design and the use of cross-flow radiators an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+}
+
+
+//name:TQ1621
+::TQ1621::Reducing the warm-up cycle for an engine by closing the thermostat will help prevent:{
+	=excess engine wear.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear. Having the thermostat closed during the warm-up cycle helps to reduce this excess engine wear.
+	~chemical breakdown in the coolant.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear. Having the thermostat closed during the warm-up cycle helps to reduce this excess engine wear.
+	~the engine stalling on take-off.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear. Having the thermostat closed during the warm-up cycle helps to reduce this excess engine wear.
+	~aeration of the coolant.#An engine operating below the designed operating temperature will suffer from excessive fuel consumption and produce higher exhaust emissions. The engine will also suffer from increased cylinder, piston, and piston ring wear. Having the thermostat closed during the warm-up cycle helps to reduce this excess engine wear.
+}
+
+
+//name:TQ1622
+::TQ1622::Thermo-siphon circulation of coolant in an automotive cooling system is termed:{
+	=convection.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However because of modern vehicle design and the use of cross-flow radiators, an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+	~absorption.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However because of modern vehicle design and the use of cross-flow radiators, an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+	~radiation.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However because of modern vehicle design and the use of cross-flow radiators, an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+	~conduction.#The natural circulation of liquid coolant in a cooling system is known as 'thermo-siphon' and operates on the principle of convection. However because of modern vehicle design and the use of cross-flow radiators, an engine-driven centrifugal pump must be used to achieve coolant flow through the system.
+}
+
+
+//name:TQ1623
+::TQ1623::Coolant is circulated through the cooling system of a vehicle by means of a centrifugal pump and:{
+	=convection currents.#As coolant is heated inside the block the thermal characteristics will cause the warmer coolant to rise and the cooler coolant to fall. This is convection.
+	~conduction currents.#As coolant is heated inside the block the thermal characteristics will cause the warmer coolant to rise and the cooler coolant to fall. This is convection.
+	~radiation currents.#As coolant is heated inside the block the thermal characteristics will cause the warmer coolant to rise and the cooler coolant to fall. This is convection.
+	~induction currents.#As coolant is heated inside the block the thermal characteristics will cause the warmer coolant to rise and the cooler coolant to fall. This is convection.
+}
+
+
+//name:TQ1624
+::TQ1624::Where does the water pump force coolant through in the engine block?{
+	=Passages called waterjackets.#The coolant collects heat by conduction, and becomes hot itself. Heated coolant then returns to the radiator for cooling.
+	~Passages called radiator fins.#The coolant collects heat by conduction, and becomes hot itself. Heated coolant then returns to the radiator for cooling.
+	~Coolant bypass inlets.#The coolant collects heat by conduction, and becomes hot itself. Heated coolant then returns to the radiator for cooling.
+	~Thermostat fins.#The coolant collects heat by conduction, and becomes hot itself. Heated coolant then returns to the radiator for cooling.
+}

@@ -1,0 +1,72 @@
+//name:TQ0573
+::TQ0573::Technician A says that if a shock absorber is being replaced because of wear or damage, the shock absorber on the opposite side only needs to be replaced if it is also worn or damaged. Technician B says that if a strut is being replaced because of wear or damage, the strut on the opposite side should also be replaced. Who is correct?{
+	~Technician A.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+	=Technician B.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+	~Both Technician A & Technician B.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+	~Neither Technician A or Technician B.#Technician B is correct because suspension components should always be changed as a pair or vehicle handling stability could be affected in operation.
+}
+
+
+//name:TQ0574
+::TQ0574::Technician A says that shock absorbers sometimes leak when they are worn out. Technician B says that shock absorbers can be worn out but may not leak. Who is correct?{
+	~Technician A.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+	~Technician B.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+	=Both Technician A and Technician B.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+	~Neither Technician A nor Technician B.#Both technicians are correct as shock absorbers that leak are obviously damaged. However shocks may be ineffective at dampening oscillations but not exhibits signs of leakage.
+}
+
+
+//name:TQ0575
+::TQ0575::The car continues to bounce after going over a bump. Technician A says the problem is bad shock absorbers. Technician B says the problem is a bad steering knuckle. Who is correct?{
+	=Technician A.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+	~Technician B.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+	~Both Technician A & Technician B.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+	~Neither Technician A or Technician B.#Technician A is correct because continuous oscillations indicate that the shock absorbers are worn out.
+}
+
+
+//name:TQ0576
+::TQ0576::How many bounces or oscillations after release are permissible when testing shock absorbers? Technician A says two to four (2-4) for some types of shock absorber. Technician B says three to four (3-4) for some types of shock absorber. Who is correct?{
+	~Technician A.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+	~Technician B.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+	~Both Technician A & Technician B.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+	=Neither Technician A or Technician B.#Neither technician is correct. There should only be one (1) bounce or oscillation after release. Any more indicates a faulty shock absorber. The type of shock absorber is irrelevant.
+}
+
+
+//name:TQ0577
+::TQ0577::When lubricating a suspension component, if grease starts to appear from around the protective boot it means:{
+	=too much grease has been applied.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+	~enough grease has been applied.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+	~you should keep adding grease until clean grease appears.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+	~you should adjust the pressure of the grease gun.#Add enough grease to see the seal or rubber boot rise slightly. Under no circumstances should you overfill a lubricated joint with grease. This can rupture the seal or rubber boot or bellows. 
+}
+
+
+//name:TQ0578
+::TQ0578::When using high pressure grease guns to lubricate chassis components, it is important that:{
+	=seals or rubber boots are not damaged.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+	~grease does not enter the hydraulic brake system.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+	~grease does not lubricate the coil springs.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+	~the steering component preload is not reduced.#High pressure grease guns may inject too much grease too quickly. Care must be used or damage to boots may occur.
+}
+
+
+//name:TQ0579
+::TQ0579::Technician A says that steering joints need to be lubricated with a grease gun. Technician B says that some types of steering joints are sealed units and do not need lubricating. Who is correct?{
+	~Technician A.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+	~Technician B.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+	=Both Technician A and Technician B.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+	~Neither Technician A nor Technician B.#Both technicians are correct because steering joints need to be lubricated with a grease gun, but some types of steering joints are sealed units and do not need lubricating.
+}
+
+
+//name:TQ0580
+::TQ0580::Before checking the vehicle ride height:{
+	=make sure tire pressures are correct.#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+	~check the vehicle is fully loaded.#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+	~remove the spare tire.#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+	~adjust the tire pressures to 100 kPa (14 PSI)#Before checking the vehicle ride height make sure tire pressures are correct otherwise an incorrect result will be given.
+}
+
+

@@ -1,0 +1,71 @@
+!!! XML
+!!! strict
+%html{ html_attrs('en-AU') }
+  %head
+    %meta{ 'http-equiv' => 'Content-Type', :content => 'text/html;charset=utf-8'  }
+    %meta{ 'http-equiv' => 'Content-Script-Type', :content => 'text/javascript'   }
+
+    - if protect_against_forgery?
+      %meta{:name => 'authenticity_token', :content => form_authenticity_token}
+
+    %title= h(@title || "CDX Online")
+    
+    = javascript_include_tag :defaults, 'cookie', 'ui-classnameoptions', 'form_prompt', 'jqRollover', 'ui-button', 'ui-buttonset'
+    = stylesheet_link_tag 'main', 'cupertino', 'ui-button', 'diagnostics', :media => 'screen, projection'
+
+    -# Use this to load controller / action specific javascript libs
+    - if yield(:head)
+      = yield(:head)
+      
+    /[if lt IE 7]
+      = stylesheet_link_tag 'ie6hacks'
+      
+    :javascript
+      //google analyitics snippet
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      try {
+      var pageTracker = _gat._getTracker("UA-1846188-31");
+      pageTracker._trackPageview();
+      } catch(err) {}
+  %body
+    #navigation
+      #version
+        == Hi #{link_to current_user.fullname, profile_path} (#{link_to "Logout", logout_path}) from #{link_to_if(current_user.role.supervisor?, current_client.name, account_path)} &middot; #{current_menu_version}
+    
+      - if @breadcrumbs
+        = render :partial => 'layouts/breadcrumb'
+    
+    #content-wrapper
+      #content
+        -# Errors take precedence over notices
+        - if flash[:error]
+          .ui-widget
+            .ui-state-error.ui-corner-all{ :style => "padding: 0.7em" }
+              %span.ui-icon.ui-icon-alert{ :style => "float: left; margin-right: .3em;" }
+              %strong ALERT:
+              = flash[:error]
+          %br
+        - elsif flash[:notice] && !params[:controller].eql?('dashboard')
+          .ui-widget
+            .ui-state-highlight.ui-corner-all{ :style => "padding: 0.7em" }
+              %span.ui-icon.ui-icon-info{ :style => "float: left; margin-right: .3em;" }
+              %strong Notice:
+              = flash[:notice]
+          %br
+      
+        = yield
+    
+    #sidebar
+      = render :partial => 'layouts/search'
+      = render :partial => 'layouts/content_menu'
+      = render :partial => 'layouts/menu'
+      = render :partial => 'layouts/color_legend'
+
+- if yield(:onload)
+  :javascript
+    jQuery(function($) { 
+      #{ yield(:onload) }        
+      new jqRollover("a.rollover");
+      $('html, body').animate({scrollTop:0}, 'slow'); // Make IE scroll to the top of the page even when the link is anchored (eg. when using tabs)
+    });

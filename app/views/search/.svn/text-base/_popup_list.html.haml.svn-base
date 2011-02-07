@@ -1,0 +1,20 @@
+- @search.each_with_weighting do |category_item, weight|
+  %div{:class => "result #{cycle(:odd, :even)}"}
+    .title
+      == [#{category_item.item_type}] #{category_item.item.name}
+
+    .description
+      %p
+        = highlight(category_item.item.search_content, params[:query].split) || category_item.item.search_content
+
+    .category.right
+      == [Found in: #{category_item.category.self_and_ancestors.map { |c| c.name } * ' > '}]
+
+:javascript
+  $(document).ready(function() {
+    $('div.description p').expander({
+      slicePoint: 500,
+      expandText: "<button class='ui-button ui-widget ui-state-default ui-button-size-small ui-corner-all'>Read more</button>",
+      userCollapseText: "<button class='ui-button ui-widget ui-state-default ui-button-size-small ui-corner-all'>Collapse</button>"
+    });
+  });

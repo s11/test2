@@ -1,0 +1,79 @@
+// question: 33455  name: HAQ3359 
+::HAQ3359::[html]Grey iron is a cast iron that contains ................. in the form of graphite, plus silicon, manganese and phosphorus.{
+	=%100%carbon#
+}
+
+
+// question: 33456  name: HAQ3360 
+::HAQ3360::[html]The fractured surface of a cast iron with graphite appears ................., hence the name.{
+	=%100%grey#
+}
+
+
+// question: 33457  name: HAQ3361 
+::HAQ3361::[html]Turbulence refers to the swirling motion of a ................. or a gas.{
+	=%100%liquid#
+}
+
+
+// question: 33459  name: HAQ3362 
+::HAQ3362::[html]Without turbulence, the air-fuel mixture can form local areas of high ................. and temperature that can cause detonation during combustion.{
+	=%100%pressure#
+}
+
+
+// question: 33460  name: HAQ3363 
+::HAQ3363::[html]The exhaust valve opens at bottom dead center, then closes at top dead center before the new air-fuel mixture enters the .................{
+	=%100%cylinder#
+}
+
+
+// question: 33461  name: HAQ3364 
+::HAQ3364::[html]The exhaust valve opens a little ................. bottom dead center, and stays open a little past top dead center.{
+	=%100%before#
+}
+
+
+// question: 33462  name: HAQ3365 
+::HAQ3365::[html]When an intake valve closes after bottom dead center, and the exhaust valve closes after top dead center, it is called .................{
+	=%100%lag#
+}
+
+
+// question: 33463  name: HAQ3366 
+::HAQ3366::[html]When an intake valve opens before top dead center and the exhaust valve opens before bottom dead center, it is called .................{
+	=%100%lead#
+}
+
+
+// question: 33464  name: HAQ3367 
+::HAQ3367::[html]On the exhaust stroke, the intake and exhaust valve are open at the same time for a few degrees around top dead center. This is called valve .................{
+	=%100%overlap#
+}
+
+
+// question: 33465  name: HAQ3368 
+::HAQ3368::[html]The standard measure of size is called displacement. Displacement is the volume a piston displaces in the cylinder as it moves from its lowest point, or bottom dead center, to its highest point, top dead center. This is also called ................. volume.{
+	=%100%swept#
+}
+
+
+// question: 33466  name: HAQ3369 
+::HAQ3369::[html]Engine size is then the sum of the displacements of all of the ................. of the engine.{
+	=%100%cylinders#
+}
+
+
+// question: 33467  name: HAQ3370 
+::HAQ3370::[html]Another guide to engine power is Compression ratio. It compares two volumes in the cylinder. One is swept volume plus ................. volume.{
+	=%100%clearance#
+}
+
+
+// question: 33458  name: HAQ3850 
+::HAQ3850::[html]Turbulence helps to maximise the mixing of air and fuel, which helps make sure the ................. process occurs efficiently.{
+	=%100%combustion#
+}
+
+
+

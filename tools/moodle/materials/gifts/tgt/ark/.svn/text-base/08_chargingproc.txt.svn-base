@@ -1,0 +1,72 @@
+//name:TQ1123
+::TQ1123::When setting the meter for a charging system voltage check, the meter should be set to:{
+	=volts DC.#Vehicle electrical systems work on a Direct Current principle.
+	~volts AC.#Vehicle electrical systems work on a Direct Current principle.
+	~amps.#Vehicle electrical systems work on a Direct Current principle.
+	~Ohms.#Vehicle electrical systems work on a Direct Current principle.
+}
+
+
+//name:TQ1124
+::TQ1124::With the engine at 2000rpm, the voltage reading on the meter should be:{
+	=13.7-14.4 V#A specified voltage increase should be noted with engine running.
+	~12.0-11.0 V#A specified voltage increase should be noted with engine running.
+	~10.0-12.0 V#A specified voltage increase should be noted with engine running.
+	~15.2-16.0 V#A specified voltage increase should be noted with engine running.
+}
+
+
+//name:TQ1125
+::TQ1125::Which of the following statements is correct?{
+	=Disconnect the battery negative terminal prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+	~Do not interfere with battery connections prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+	~Completely remove the battery prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+	~Ensure that the battery is discharged prior to disconnecting the alternator.#Power supplies should be isolated to eliminate the possibility of shorting directly to the engine or vehicle body.
+}
+
+
+//name:TQ1126
+::TQ1126::Vehicle alternators are designed for use on what type of earth system?{
+	=Negative.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+	~Positive.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+	~Alternating.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+	~Weak.#In vehicles that use negative earth, alternators are commonly earthed through their casing to the engine.
+}
+
+
+//name:TQ1127
+::TQ1127::Two commonly used types of engine drive belt are:{
+	=V and serpentine type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+	~V and terpentine type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+	~W and serpentine type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+	~V and W type.#Engine drive belts are commonly used to drive the myriad auxiliaries fitted to the modern vehicle such as PAS, A/C, air pump, alternator etc.
+}
+
+
+//name:TQ1128
+::TQ1128::There are two types of drive belts. What are they? {
+	=V-type and serpentine type.#There are two types of drive belts: V-type and serpentine type. 
+	~W-type and serpentine type.#There are two types of drive belts: V-type and serpentine type. 
+	~W-type and V-type.#There are two types of drive belts: V-type and serpentine type. 
+	~X-type and serpentine type.#There are two types of drive belts: V-type and serpentine type. 
+}
+
+
+//name:TQ1129
+::TQ1129::What should be done when the drive belt(s) are removed?{
+	=Inspect drive and driven pulleys.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+	~Start the engine.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+	~Lubricate the pulleys.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+	~Use abrasive tape of the pulleys to give them better grip.#With the drive belt(s) removed, it is the ideal time to check pulleys and bearings etc.
+}
+
+
+//name:TQ1130
+::TQ1130::Do all vehicles have an automatic spring tensioning system or are some manually adjusted?{
+	=Both types are available, depending on the vehicle.#Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+	~All vehicles have an automatic spring tensioning system. #Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+	~All vehicles require a technician to manually adjust the tension on the belt.#Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+	~None of these, as belts do not stretch.#Many vehicles require a technician to manually adjust the tension on the belt. Other vehicles have an automatic spring tensioning system. Depending on the system used on the particular vehicle, you should always follow the manufacturer's service instructions. 
+}
+
+

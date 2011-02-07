@@ -1,0 +1,30 @@
+.progress-container, .progress-container-blank
+  :border 1px solid #ccc
+  :width 95%
+  :min-width 50px
+  :margin 0 auto
+  :padding 1px
+  :float left
+
+  & > div
+    :background-color #ACE97C
+    :height 12px
+
+.progress-container-blank
+  :border 1px solid transparent
+
+.tasksheet 
+  :position relative
+
+  .graph
+    :width 75px
+    img
+      :margin 0
+      :padding 0
+      :vertical-align middle
+
+  .label
+    :position absolute
+    :top 2px
+    :left 1em
+    :bottom 2px

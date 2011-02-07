@@ -1,0 +1,1683 @@
+## 20100131
+
+* Added the API changes required to manage access packs for clients:
+
+  - Added assign\_access\_packs(start\_id, finish\_id) instance method to Client model to assign AccessPacks in the range to the
+    client in question
+  - Added AccessPack.block\_free?(start\_id, finish\_id) class method which returns true if none of the AccessPacks in the given
+    range have been assigned
+  - Added API::AccessPacksController to manage access packs
+  - Layout turned off for ApiController
+  - Confirgured routes for access pack assignment
+
+* Removed Prawn requirement. Not used.
+* Updated Hoptoad by rplacing plugin with gem.
+* Removed preinitializer.rb. Again, not required.
+
+## 20091229
+
+* Diagnostics was missing a few scenarios which I've now added (closes #1598, #1485, #1599)
+* Added text to TGT report (closes #1496)
+* Removed a couple of jQuery calls that were erroring out for IE (closes #1492)
+* Fixed a tasksheet submission user search issue (closes #1490)
+* Fixed print support links on ASE2008 tasksheet summary pages (closes #1440)
+* Uploaded new tasksheet alignment map versions (closes #1423)
+* Fixed an issue where sending a message to more than a few groups would cause an error (closes #1609)
+
+## 20091228
+
+* Added note about MSSql adapter dependencies and versions to environment.rb
+* All print support materials for the Alberta menu have had their paths adjusted to work
+* Refactored PrintSupportController and added :x\_sendfile option to get Apache to take over sending the file.
+
+## 20091224
+
+* Reverted inherited\_resource gem to 0.9.4. Odd things happening with has_scope.
+* Updated gem versions to latest for HAML, inherited\_resources and thinking_sphinx
+* Updated to Rails v2.3.5
+* Adjusted Sphinx memory limit down to 256M in production and staging environments
+* Added preinitializer to load frubygems
+* Update Moodle DB instance creation SQL to *not* try to insert into the new view regime
+
+## 20091221
+
+* Updated SQL when creating a client to reflect new DB settings and use of VIEWs for Q&T content
+
+## 20091216
+
+* Fixed production DB name
+* Now correctly using the production environment in production :)
+* Configured production deploy and runtime environments
+* Added modifications to reflect the new domain (cdxplus.com)
+
+  - Added a migration to update the client\_ole\_url and client_spare3
+  - Added migration to change the default allowed URLs
+  - Updated Moodle hostname when creating a Client
+
+## 20091215
+
+* Updated database-staging.yml to reflect correct DB
+* Split out the staging environment to individual config files (database-staging.yml and application-stagging.yml)
+* Modified the username uniqueness constraint to now correctly use the deleted\_at field
+* Adjusted post deploy:update\_code task to link assets to shared/assets instead
+* Modifed staging deploy to reflect Capistrano API changes
+
+## 20091214
+
+* Updated all occurrences of "/fourtwo" in various places in the code
+* Removed all references to staging\_johnm and staging\_roberto
+* Configured staging deploy scripts to deploy to concave.jbpub.com
+* Fixed CSV assessment report output to remove number of attempts (closes #1612). Also tweaked PDF output to include attempts again.
+* Update HAML, Inherited Resources, Searchlogic and Thinking-sphing gem versions
+
+## 20091122
+
+* Added statistics rake tasks for activity logs calculations
+* Added DailyActivityLog model and associated table which is a daily activity total sum for each user and category item
+* Updated authlogic, inherited\_resources, prawn and thinking_sphinx gem versions
+
+## 20091116
+
+* Updated externals to point to curfew.jbpub.com
+
+## 20091111
+
+* Update HAML and thinking-sphix gem versions
+
+## 20091109
+
+* Reverted thinking-sphinx back to older version. New one is a bit flaky.
+* Modified Moodle role assignement code
+* Updated thinking-sphinx and searchlogic gem versions
+
+## 20091104
+
+* Reworked the Moodle::User.assign\_global\_role code to fixup supervisor permissions (closes #1517)
+* Add 'required' labal to username when creating a user (closes #1477)
+* Extended the user search to include student id and year level. Added a class group dropdown. Resolves #1518
+* Added ".csv" suffix to CSV dump of users (closes #1515)
+
+## 20091102
+
+* Individial tasksheet report changes:
+
+  - Now ignoring class group
+  - Streamlined search to handle non-NATEF enabled menus
+  - Fixed issue where title always getting the first user instead of by provided ID
+  - NATEF columns now not displayed on non-ASE menus
+
+* Can now get NATEF task areas directly from TasksheetSubmission
+* Added prawn gem and prawnto plugin for generating PDFs
+* Updated HAML and thinking-sphinx gem versions
+
+## 20091030
+
+* #1513 Trials will now update the username (ie. NS contact email address) if it's changed since the last trial
+* #1514 Added hook to client creation process that makes sure the supervisor is associated with the alreday existing Moodle supervisor
+
+## 20091029
+
+* #1509 Tasksheets submissions have been limited to accepting complete\_on dates between the current date and 1 year prior to
+* Added validates_timeliness plugin to add date validations
+* Removed spurious logger statements
+* Removed is_paranoid dependency. Causing a few issues wrt. reporting. Handling destroy manually now for Client (which was the only model in use)
+
+## 20091025
+
+* Fixed a typo in tasksheet\_submissions. Was supposed to be a comma.
+
+## 20091024
+
+* #1499 Fixed an issue with Moodle not auto-assigning the proper role to new users
+* Added thinking\_sphinx capistrano helpers to Capistrano deploy script
+* Added lib definition to thinking-sphinx gem to make it load properly
+* Installed shuber-sortable as a plugin instead of using github
+* Removed all references to github for gems. The following will need to be done to facilitate the move:
+
+  > sudo gem install gemcutter
+  > sudo gem tumble
+  
+  Make sure that http://gemcutter.org/ is the first in the list:
+  
+  > sudo gem source
+
+  Finally, install the gems from the Rails application ROOT directory:
+  
+  > sudo rake gems:install
+  
+  To list application gem dependencies and install status:
+  
+  > rake gems
+
+## 20091015
+
+* #1415 & #1435 
+
+  - Updated migration include moodle\_master2
+  - Added migration update all TGTs marks to be displayed out of 10
+
+## 20091014
+
+* #1484 Was caused by an update to HAML (the templating language) gem which fixed a bug Rob was taking advantage of in Diagnostics. HTML attributes need to be separated by commas and *not* spaces as it was appearing.
+
+## 20091013
+
+* Fixed an issue where updating the supervisor password did nothing
+* #1468 & #1456 Final changes to client API
+* #1411 Incorrectly excluded v4.1 TGTs instead of FTMW tests
+* #1397 Individual CSV export for assessment report fixed
+* #1476 Initial solution was bunk. Reverted and properly fixed it by limiting the disgnostics results query
+* Removed disabled log statements from last commit
+* #1476 Fixed diagnostics report to properly filter on user type
+* #1479 Added student name to individual tasksheet report
+* #1481 Draft and Sent message listings were failing if any of the message recipients included a deleted user
+* #1482 Now exporting non-ASE tasksheet reports correctly
+* Added methods to extract the supervisor first and lastnames from the request prior to creating the client
+* Removed superfluous stages from Capistrano deploy script
+* Removed rubaidhstrano plugin. Was interferring with deployment
+
+## 20091012
+
+* Forgot one reference to deleted\_at for the class_groups_users table
+* Added a migration to convert the content\_lookup VIEW to a table
+* Added a missing\_activity\_logs table
+* Changed migration to not drop the deprecated\_class\_groups\_users table
+* Fixed up the CSV export on all reports (a couple had the columns displaced)
+* Added username and removed user\_id column on reports
+* Fixed a bug in CSV export of activity report which was incorrectly including the student_id column in the total
+* Added a toggle checkbox into the user list table
+* Split up the searchlogic code into it's own method in UsersController
+* Added a migration to remove the timestamps and lock\_version from the class\_groups\_users table. Modified any ClassGroup queries to reflect the change.
+* Added ability to export student and instructors to CSV. Class groups are listed as a comma-delimited string within the class\_groups column
+* Added bullet gem which is used to display notifications when queries may be further optimised
+* Forgot to add annotate\_models plugin to repository 
+* Added fast\_remote\_cache to speed up deployment
+* Added superdeploy plugin which adds some nice extra funtionality to Capistrano
+
+## 20091011
+
+* Annotated all models with annotate\_models plugin
+* Adjusted menu routes to include :show action
+* Added scope to allow easier filtering of clients
+* Added serialization\_options to API controller to allow for fine grained control over XML export. Used mainly to exclude certain model attributes.
+* Added a MenuVersionsController
+
+## 20091007
+
+* Fixed up client validation which was not scoping the netsuite\_customer\_id against the deleted\_at field. Also cleaned up the model validations on create
+* client\_statistics migraton column names changed to better reflect their function
+* Fixed up a couple of minor calculation errors on ActivityLog scopes
+* Moved client statistics calculations into Client model where is belongs (instead of the NS script)
+* Client.statistics association set to delete\_all
+* Added validation to ClientStatistic which checks that there is at least one session for an entry
+* Added ClientStatistics model with association to Client
+* Added a clients\_statistics table which wil be used to sync data to NS and for district reporting
+* Automatically focus on 'Access Code' when logging in via browser
+
+## 20091005
+
+* Fixed up API pagination and search queries
+
+## 20091004
+
+* Added pagination defaults to API controller collections
+* Some sweet refactoring to add search, pagination and record count functionality to all API controllers
+* Removed custom collection and create methods for api/clients\_controller; let InheritedResources deal with it.
+* Added count action to districts and clients controller (for pagination)
+* Client now using is\_paranoid instead of hand-rolled
+* Simplified API routes significantly
+* Removed and superfluous views and helpers for API controllers
+* ApiController now inherits from ActionController::Base instead of InheritedResources::Base as that brings all the HTML-only filters etc which slows things down.
+* (re)Added semanticart-is\_paranoid-0.9.6 gem dependency. Much more comfortable with a gem instead of my hand-rolled solution
+* Move districts and districts\_schools to content\_reporting database. This is a departure from previous iterations but makes logical sense keeping it in the context of CDX Automotive
+
+  - Created districts and districts\_clients tables
+  - Added migration to convert data from the above district\_reporting tables to the nes tables
+  - Added District model and added associations to Client (and reverse)
+  - Added new API routes in order for district reporting to access via web service
+
+* Removed all migrations which brought pre-v5.1 to v5.1. They'll be archived in the repo.
+* Updated RSpec and Cucumber support files
+
+## 20091002
+
+* Fix to trials when the firstName was left out in NetSuite (which I thought had been disabled)
+
+## 20091001
+
+* #1460 v5.1 NetSuite data sync issues:
+
+  - Trial usage data NS sync script fixed
+  - Client summary NS sync script fixed
+
+* #1458 Added User.undelete method to clear out the deleted\_at field
+
+## 20090930
+
+* #1459 Fixed small bug in trial users script where users were being assigned the menu ID and not the new v5.1 MenuVersion ID
+* #1429 Added Client.fix\_moodle\_user\_data\_associations method to realign the quiz data with the correct users on an instance-by-instance basis.
+* #1448 Changed the auto-submit on menu change to fire the 'click' event on the Filter button instead of submitting the form. Tested in IE.
+
+## 20090928
+
+* #1418 Fixed an issue which would show no results when drilling down to an individual quiz
+* #1405 Fixed issue with AssessmentView generator where parts weren't being properly recognised. Issue affected RedSeal and ASE4 as well.
+
+## 20090925
+
+* #1453 There is no print support for Alberta. Added a has\_print\_support? flag on MenuVersion to indicate if a menu has print support.
+* #1454 Fixed issue where selecting "Off" for a user on tasksheet submission would save it as a 0 grade
+* #1448 Assessment reports will now auto-submit / filter when the version is changed so that category selection ids are correctly populated
+
+## 20090924
+
+* #1439 Tasksheet reports now work in all menus
+* #1399 Tasksheet report displaying percentage correctly. Was incorrectly displaying number of submitted tasksheets as a percentage.
+* NetSuite trial requests changed to remove all launcher-unfriendly chars from email addresses
+* Performance tweak for finding a random topic summary for the dashboard. No longer need to load in all the ids for the specific MenuVersion.
+* Tweak user session password generation slightly to use Rails builting ActiveSupport::SecureRandom
+
+## 20090918
+
+* Compressed Moodlev51 quizzes sql
+* #1405 AssessmentView tweaks to try and fix the issue
+* #1410 Last user not being able to log in was a messaging issue and the dashboard display. If a message was sent and the sender was deleted, would cause problems.
+* #1411 FTMW quizzes report link no longer appears in menu versions 4.1
+* #1434 Fixed privacy issue where a student could filter by class group and get all students for that group.
+* CDX Online API rewrite. Much simpler now, although error message missing. Much could be improved.
+* Updated HAML version to 2.2.5
+
+## 20090917
+
+* Updated authlogic, searchlogic, settingslogic, haml and thinking-sphinx gems to latest versions
+
+## 20090913
+
+* Production deploy now uses default ruby-enterprise path
+* Account menu selection changed:
+
+  - Global menus only allow side-grade to other globals and upgrade
+  - Custom menus only upgrade is available ie. MITO yes, Pearson no
+  - Downgrade impossible
+
+* Big typo in categories/show.html.haml
+
+## 20090912
+
+* Fix issue when user has not viewed any content previously. Caused error on dashboard.
+* Removed all migration that update the activity\_logs table
+* Bah ... comitted an empty migration to drop the log\_topics table
+* class\_groups\_users can't have a primary key
+* Added client existence test to 20090729002201\_create\_class\_groups\_from\_instructor\_assignments.rb
+* class\_groups table needs an id ... not sure what happened there
+* Removed all reference to log\_topics association / TopicLog model
+* Added migration to drop log\_topics table
+* Removed all migrationg referencing log\_topics table as it is no longer used
+* Added latest moodle\_v51.sql file to repo
+* Corrected production mode Account menu setup label to "Default Menu Setup"
+* Tweaked 20090730131115\_alter\_tasksheet\_submissions\_table.rb to 
+
+  - Make a copy of the tasksheet\_submissions\_table and
+  - Ensure that the users are correctly added to the new instructor group
+
+* Added exception to disable print support for Alberta menu
+* Renamed heirarchical\_root to has\_heirarchical\_root on MenuVersion
+* Renamed Menu fields to allow for easier reading of code:
+
+  - custom -> is\_custom
+  - client\_locked -> is\_client\_locked
+  - natef\_selection -> has\_natef\_selection
+
+* #1225, #1226 MITO and Pearson exceptions to the dashboard
+
+  - Added 'custom\_dashboard' field to menus table
+  - Disabled print support for both menus
+
+* Slight tweak to report cell to avoid wrapping
+* Added a message when no report results were found.
+* Fix report student link issue I just broke
+* Added preference to allow individual reports per report type. For now only Tasksheet report has a subreport for the users.
+* Updated searchlogic to v2.3.4
+* #1050 HTML version of individual tasksheet report done
+* Updated thinking-sphinx gem to v1.2.10
+* Report filter option for "All columns" now works as expected
+* Added a feature to filter reports based on user role
+* #1369 Added links to enable drilling down to the individual student report
+
+## 20090911
+
+* #1368 Added note tasksheet report indicating that the CSV export is in seconds
+* #1370
+
+  - Minor justification issue with averages column
+  - Added class average row for tasksheet report
+  - All columns now display with the same width
+
+* #1373 Fixed typos on menu selection screen
+* Modified the bulk tasksheet submission class group selector to only display class groups with students associated
+* #1379 Added dashboard blurb warning supervisors and instructors about not having selected any tasksheets
+* #1384 Could not select a tasksheet submission grade for all students if a student had already had a submission for th given tasksheet. Now keyed to the completed on data.
+
+## 20090909
+
+* Readded tasksheet bar graphs from v5.0. Tested in IE6.
+* Fixed an issue where a tasksheet submission falls outside of the selected instance NATEF areas caused a fault
+* #1104 Activity report category drilldown fixed
+* Added ability to select all NATEF taskareas (ASE* only) by clicking header ie. "Task Area for Reporting"
+* Updated collectiveidea-awesome\_nested\_set to v1.4.2
+
+## 20090908
+
+* Fixed assessment report issue
+* #1358 Fixed. Forgot to add my TimeZone monkey-patch initialiser
+* Changed report filter menu dropdown to include all menu and their associated versions
+* #1346 Different menus now available via the Menu Version dropdown
+
+  - Added Client.assigned\_menu\_versions which returns all menu versions currently selected for all the users and the instance
+  - Tweaked default scope for MenuVersion which was causing problems on joins as the table wasn't specified
+
+* More time zone work
+
+  - Time zone selection now validated against ActiveSupport::TimeZone::ZONES
+  - Moved time zone determination to the User model
+  - Moved other zones we cater to outside of the USA & Canada into the quick pick selection
+
+## 20090907
+
+* Another slight tweak to time zone stuff ... was setting time zone to Eastern if instance was set. Duh. Too tired obviously.
+* Bah ... setting timezone without a user / instance :-( Fixed.
+* Fix User model to correctly use the instance's time zone
+* Tweaked report filter to take UTC into account. Quite fiddly.
+* Added ability to switch timezones on an instance-by-instance basis. Defaults to "Eastern Time (US & Canada)".
+* Switch default timezone to UTC and added a migration to convert all DATETIME's to UTC
+* #1348 Added search-box explanatory text
+* #1349 Added supplemental text to account video selection blurb
+* Minor fix for dashborad recent items
+* #1351 Misnamed CSV files as PDFs. Fixed, although Windows is braindead by ignoring the Content-Type switch (was being set correctly) and just using the filename suffix
+* Modifed "Recently Viewed" to only display items in the users current menu
+* Update the following gems:
+
+  - searchlogic
+  - awesome\_nested\_set
+
+* Updated to Rails v2.3.4 which mainly security fixes to Rails
+
+## 20090903
+
+* #1303 When creating a user, now redirects back to user list instead of the newly created user
+* #1331 Fleshed out the logons counts on the account subscription tab
+* #1336 Fixed typo
+* #1341 Tasksheet report blurb added
+* #1343 Diagnostics report blurb added
+* #1345 Changed name of instructor for Paul
+
+## 20090901
+
+* #1329 Can't replicate the error locally, so here's a best-guess fix for the activity rpeorts for supervisor issue
+* #1132 Activity report for students fixed, in fact student reports now should work for all types of report
+* #1286 Results for CSV studet upload were being displayed on the "Student Import" tab. Moved to a notice.
+* #1323 Button styling JS failing for IE. Removed and replaced with static CSS classes
+* #1322 Removed IE7.js from login layout which removes the script error
+* #1325 Changing video size no longer redirects to profile (related to #1304)
+* #1306 Missed yellow background for instructions
+* Fixed indentation typo in report template
+* #1302 Tweaked message when no instructors are defined
+* #1304 Fixed an issue when changing the supervisor's password would render the update page. Removed page and redirected to profile.
+* #1314 Fixed issue with notice of tasksheet outside of NATEF area persisting
+* #1305 Fixed tasksheet submission listing
+* Updated josevalim-inherited\_resources to v0.9.1
+* #1317 Final exam instructions added
+* #1316 Pratice exams instructions added
+* #1315 FTMW instructions added
+* #1312 TGT instructions added
+* #1306 Activity report instructions added
+* #1308 Dates now displaying  in US form
+
+## 20090901
+
+* #1289 Add "Click here to update" link for tasksheet subscriptions tasksheet box
+* #1291 Tweaked expires on column
+* #1296 Renamed newuser* to user* in sample CSV file
+* #1291 Changed expires on to date instead of plain english
+* #1299 Notification alert tweaked for instructors
+* #1298 Menu column now display "Default" instead of blank. Also changed instructions.
+* #1279 Added message advising customers that they should upgrade if they are on a "lesser" menu
+* #1291 If an instance has access packs assigned, then a new column for students will now appear displaying the expiry dates of students
+* #1143 Tweak between\_dates scope to include up last second of the end date (ie. end of the day)
+
+## 20090831
+
+* #1268 Partial fix: Dashboard subscription informationo is now not displayed for students
+* #1271 Uncommented PDF / CSV export options. Wasn't thinking when I disabled it.
+* #1272 Formatting changes for dashboard tasksheet submission box
+* #1283 Duplicate username now displays as expected.
+* Tweak User : Moodle::User association.
+
+  - Now as has\_one instead of a belongs\_to
+  - Removed moodle\_user\_id via migration
+  - Removed all references to User.moodle\_user\_id
+
+* #1143 Assessment Report fixes
+  
+  - Missed an 'icq' reference. Replaced with 'userid'
+  - Tweak assessment report again: Only use timestart when filtering by date
+  - Update to assessment report to use 'username' instead of 'icq'
+  - First attempt at fixing Online <-> Moodle issue
+
+## 20090830
+
+* Attempted fix for assessment reports
+* Tweak TasksheetReport to look purdier
+* More optimisations by adding indices for ActivityLog and Users table
+* Tweaked ActivityReport again ... looking much better
+* Moodle DB connection was referring to moodle\_master. Changed to moodle\_master2,
+* ActivityReport now more accurate - MySQL's temporal maths leaves something to be desired
+* Combined class\_groups schema migrations into 20090726004916\_create\_groups.rb
+
+## 20090829
+
+* Further tweaks to 20090729002201\_create\_class\_groups\_from\_instructor\_assignments.rb
+* Removed reference to ClientProperty in 20090627234747\_add\_client\_id\_to\_client\_properties.rb
+* 20090518022613\_add\_tasksheetid\_to\_certification\_natef.rb modified to pure SQL as NatefCertification no longer exists
+* Changed 20090729002201\_create\_class\_groups\_from\_instructor\_assignments.rb to also scan tasksheet submissions when creating class groups
+* Combined a couple of tasksheet submission related migrations
+* #1266 Activity report totals now calculate properly
+* Updated gem versions for josevalim-inherited\_resources (v0.9) and binarylogic-searchlogic (v2.3.2)
+* #1244 Removed email data from template
+* #1256 Bulk student upload formatting
+* #1264 Removed "Year Level" column from instructor list
+* #1253 Added remaining student details to CSV import screen
+* #1161 Correctly displays the results of the CSV import
+
+## 20090828
+
+* #1246 Multiple student deletion enabled
+* #1247 Grade type filter added for diagnostics report
+* Fixed an issue where Average couldn't be selected for grade type filter
+
+## 20090827
+
+* #1142 Again... Was caching too aggresively and the video size was fixed after first instantiation
+* #1226 Created MITO menu by duplicating NZ one
+* #1142 Video size selector fix
+* #1231 Remove :slatoT ("Totals:" in reverse) from activity report
+* #1233 Grade filter removed from activity report
+* #1235 Client prefix / Access code now case insensitive
+* #1105 Black carrots have been added to all report columns :-)
+* Removed logger statement I accidentally left in
+* Centre activity report cells
+
+## 20090826
+
+* #821 By popular demand (stress 'demand') Diagnostics report up
+* #1223 Removed no longer wanter text from subscription box on dashboard
+* Removed all old report support files ie. helpers, aggregators, views etc
+* Added diagnostic\_exams association on Client and User models which allows for easier and context aware querying
+* Added some helpful scopes on Diagnostics::Exam
+* Refactored sql\_aggregation\_method out to Report model as it's used in a couple of reports.
+* Added chain\_select.rjs to views/diagnostics/scenrarios and tweaked routes slightly to allow access to it
+* Added migration to add indices for all foreign keys in diagnostics
+* Removed unused report data aggregators
+* Optimisation cut down load times for dashboard (too many SQL statements for "Recent Items")
+* #1195 IE6 tweaks. Looks better, but still rubbish. Arghhh!
+* #1131 Attempted fix for supervisor's not being able to submit tasksheets 
+* #1184 All class forms requiring the selection of 1 or more class groups (ie. CSV import, profiles etc) have been changed to checkboxen
+* #1218 Renamed "Name" column to 'Content Menu'
+* Updated thinking-sphinx, searchlogic and HAML gems
+
+## 20090825
+
+* Small but sweet change enabling ASE (whichever one) priorities on Tasksheet report. Fiddly as f*#k, but managed to cut out a stack of code I had written - good result.
+  
+  - Only selected NATEF areas available in ASE* menus
+  - PDF, CSV currently disabled. Will be reenabled shortly
+  - Category selection should work
+  - Still works in other menus
+
+* #1217 Adding users is no longer broken
+* #1055 Tweak for flash vids
+* #1205 Wasn't fixed. Trying again.
+
+## 20090824
+
+* #1185 Renamed v6.0 back to v5.1
+* #1196 Client prefix renamed to Access Code
+* #1202 Added feedback when message subject or body is missing
+* #1205 Fixed issue with class group selection displaying non-unique entries in tasksheet submission
+* Added menu selection dropdown on user profiles. Available for instructors and supervisors only.
+* MenuVersion now has a 'has\_diagnostics' flag which replaces the method
+* Template tweaks 
+* Fixed a display issue when subject and body aren't filled in
+* Hacky fix to IE6.
+* Added bracketted username to message recipient dropdown
+* Tweak view message to correctly indicate newlines
+* #1186 Added "Re:" to subject when replying to a message
+* #1187 Added a logout link to the header
+
+## 20090823
+
+* Stoopid typos hindering sending a message to multiple groups. Fixed.
+* Tweak environment file
+* Messaging
+
+  - Fixed the user search when selecting recipients for messages
+  - Can now properly select recipient class groups for a mesage. The class groups will be expanded to users when the state of a message changes from 'unsent' to 'sent'.
+  - Default sorting of messages is descending by date
+  - ...other template tweaks
+
+* Updated the following gems:
+
+  - searchlogic v2.3.0 (finally re-adds OR-conditions meaning I can cleanup some code)
+  - settingslogic v2.0.2 (Created an appropriate Settings model as per the docs)
+  - thoughtbot-paperclip v2.3.1
+
+## 20090821
+
+* User lists weren't sorting (duh!)
+* Fix a small TS view issue with the dashboard. Wasn't eager-loading associated data.
+* First cut of the Tasksheet report to show I'm heading in the correct direction (I'm tired). Some notes before I hit the sack:
+
+  - ASE priorities not specified yet
+  - PDFs and CSV generation will crash (easy once the report has solidified)
+  - Column sorting a little flaky
+  - Student report not done yet
+
+## 20090820
+
+* Fix so that task areas aren't wiped when the menu changes
+* #1121 Fixed issue where tasksheets could be submitted outside of the selected NATEF areas for ASE menus
+
+  - Removed P1, P2 and P3 priority columns on ClientNatefCertifiedAreas table
+  - Added index to 'description' field on natef\_task\_areas table
+  - Added a convenience instance method 'is\_tasksheet\_submission\_allowed?(tasksheet\_id)' which returns true if the selected tasksheet falls within the allowable task areas
+
+* #1174 Import classgroups implemented. Mistakenly deployed a template that wasn't backed by code.
+* #1175 Username was being validated twice for uniquness. Removed the non-authlogic one.
+* #1180 Moved diagnostics to a new renamed Assessments menu with the Moodle Q&Ts. The menu has also been moved up above reports.
+* #1153 Fixed typo for notice message when an instructor doesn't blong to any groups
+* #1166 Removed extraneous link on dashboard
+* #1126 Forgot the user list heading
+* Fixed an issue where the supervisor was not counted as an instructor when determining whether a class group has instructors
+* Student TS layout tweaks and information inclusion
+* Fix missing layout issue when searching
+* Slight refactoring of the search code to display messages when a search term was not provided or there were no results.
+* Minor tweak to User model so that it'll create the moodle user if one isn't present
+* Tweaked colours of information box so as to be able to distinguish between it and genuine notices
+* Removed all flash notices from various places around the place and replaced with a layout one
+* Instructor / Supervisor tasksheet submission tweaks
+
+  - Information blocks
+  - Can now bulk select via header rows on Pending, Approved and Rejected lists
+  - Confirmation dialog before saving changes
+
+## 20090819
+
+* Accordian child links now indented slightly
+* The flash videos are on the same server as the WMVs. Removing server message; if they can't access the WMVs then they certainly won't be able to access the Flash vids.
+* Separated topic navigation links from application helper in to a 'content' helper
+* Created an "information\_box" helper to help wrapping information sections
+* Account changes (from v6 Change doc)
+
+  - Tab and menu naming alignment
+  - Added instructions all over the place
+  - Fixed issue where checkbox wasn't working correctly (overrode the click() event)
+
+* #1159 Changed button to "Import Students"
+* #1157 Fixed exception when deleting a user
+
+## 20090818
+
+* Moved JS include to head again. Was making the site seem laggy.
+* Bulk student import via CSV implemented
+
+  - Fixed error when CSV file was not selected
+  - Fixed stupid route bug for sample CSV download
+  - Removed attachement\_fu plugin in favour of thoughbot-paperclip gem
+  - Created a CsvFilesController so as not to clutter the UsersController
+  - Sample CSV file renamed to `sample\_students.csv` and columns no longer user have been removed
+  - Menu link no longer red :-)
+
+* #1099 Terms and Conditions implemented
+
+  - Added migration to remove the client\_prefix abd username columns
+  - Truncated acceptances table. Have everyone reaccept
+  - Added TermsAndConditionsAcceptancesController
+  - Setup appropriate associations between users, T&Cs and acceptances
+
+* #1021 Added summarytxt and summarytxtz classes to handle the new zoom in/out method for new topics
+
+## 20090817
+
+* Another small tweak to the unknown TS message
+* #1119 Overzealous caching of IMMI and Alberta accordian menus. Fixed.
+* Removed debug statement from bulk TS submission
+* Another stupid TS submission error
+* #1117 Now displays a message when the tasksheet is invalid
+* #1116 Sync's naming of menus and tabs for tasksheet submission
+* #1115 Fixed mis- *cough* -spelling of "Practice"
+* #1139 Added report name to the breadcrumb trail and added detail to the tab
+* #1134 Missed updating the print support when I changed the version from v5.1 to v6.0 earlier today
+* Tasksheet bulk submission now submitting for all students ... not just the first. Doh.
+* Tasksheet submission fixes:
+
+  - User and class/group filtering working again
+  - Tasksheet submissions correctly being assigned to the classgroup
+  - Removed all option from bulk tasksheet submission
+
+* Duh ... forgot to include the new templates I created for the last commit
+* Bug fixin' to mix things up:
+
+  - #1130 Tasksheets can only be submitted against class groups. Added further checks and explanatory text on failure.
+  - #1128 Messaging box on dashboard was shaded white. Made it a proper header
+  - #1126 Update 'Class / Group' to 'Classes / Groups' on user edit form
+  - #1129 / #1124 Duplicate username would cause problems. Reverted to not-so-smarty-pants Rails default wrt. new template
+
+* Fixed up PDF and CSV export for Activity & Assessment reports
+* Converted v5.1 to v6.0 where appropriate
+* Table row hover was happening globally. Fixed.
+* Tweaked the report look-n-feel
+* Highest / Average / Lowest added to assessment reports
+* Removed logger statements
+* Doing username comparisons with BINARY() ... I can't believe how much MySQL sucks: http://dev.mysql.com/doc/refman/5.0/en/charset-binary-op.html
+* Fixed a nasty bug that was not creating the Moodle::User correctly
+
+## 20090815
+
+* Make sure the moodle\_user\_id update method talks to the proper DB
+* Switched the direction of the User -> Moodle::User association and removed previous hacky
+* Can now do client.moodle\_users which is *very* handy due to the reversal of the moodle user <-> user association
+* Arghhh ... brain failure. Fixed up deleted\_at default scope for User model which I'd removed because I was smoking crack
+* Correctly assigning the icq attribute when creating the associated moodle user
+* Now that we're tracking the CDX Online user ID in the moodle :icq, there was a chicken-egg problem during login. Fixed.
+* Fixed some more inconsistencies with form labels wrt firstname / lastname etc.
+* Readded number of attempts to assessment report
+* Added AssessmentViews controller. Just for report chain\_selects at the moment.
+* Changed "Surname" to "Last Name" throughout the code
+* Fixed some typos in student tasksheet submission text
+
+## 20090814
+
+* Added convenience methods to get the moodle users and moodle user ids for an instance
+* Reverse association from the moodle user to user works again (forgot to change the foreign key)
+
+* Added Client.assign\_user\_ids\_to\_moodle\_users to assign moodle users to a proper user id
+* Removed all\_users scope from Client
+* Removed the last vestiges of 'x' strewn throughout the code. Woot!
+* Removed moodle\_user method and replaced it with a proper association
+* Added proper indexing to the assessment\_views table
+* AssessmentView's nested set is now correctly scoped to the menu\_version\_id
+* Increased sphinx indexing memort to 1GB
+* Added iphone Mime type alias for kicks and giggles
+* NATEF selection now enabled for ASE menus only (2, 4 and 8 Core)
+* NatefClient model renamed to ClientNatefCertifiedArea and the association updated accordingly
+* client\_natef table now known as client\_natef\_certified\_areas
+* Added migration to add the Foundation & Safety tasksheets to natef\_task\_areas table
+* Renamed NatefCertification model to NatefTaskArea
+* Added new table (ostensibly a copy of certification\_natef wuthout tasksheet\_number and more lax constraints which will be removed later) called natef\_task\_areas
+* Fixed stupid bug I introduced with class groupd yesterday
+* Moved tasksheet submission filter into a partial
+
+## 20090813
+
+* Added dashboard blurb for tasksheet submissions
+* Supervisor can now see all tasksheet submissions, instructors only those associated with groups they belong to
+* Cleaned up the tasksheet list for students. We can assume the student know's his firstname, lastname and student id.
+* Modified class\_groups many-2-many users association to flag as deleted and ignore deleted when selecting. For future use.
+* Added timestamps to class\_groups\_users association table via migration
+* Class groups can now be copied. Redirected to the newly created copy.
+* Class group column on tasksheet submission lists added. Conditional on no classgroup filtering
+* Class group option for submitting a tasksheet now conditional on the student having class groups
+* Fixed a bug where deselecting all groups for a user had no affect when saving
+* Fixed dropdown for messaging. Was not displaying all users.
+
+## 20090812
+
+* All pending submissions now displayon dashboard instead of those just assigned groups (#1109)
+* Styling of pagination links (#1106)
+* Added disclaimer to dashboard (#1110)
+
+## 20090811
+
+* Updated collectiveidea-awesome\_nested\_set gem to 1.3.0
+* User management fixes:
+
+  - Fixed issue with email address not being stored
+  - Added a menu\_version\_id to clients table and renamed content\_version to created\_under\_version to better reflect it's purpose
+  - Added menu\_version\_id to users table and removed menu\_pref and content\_version columns as they are no longer needed
+  - Users can again be assigned to different menus within an instance
+    
+* Fixed an issue where a user with no menu\_pref set (ie. no menu) would not properly default to the instance menu
+* Reorganised the menu selection page for accounts. Now when menu change is performed, all users for that instance get changed to the same map for the instances version ie. version is now the same across users
+* Tasksheet submission can now (shock, horror!) be approved / rejected
+* Split out application\_helper into organised subs 
+* Removed random dashboard image
+* Fixed up print support and it's now only displayed for v5.0 and v5.1 menus
+* Added a migration to add menu\_version\_id column to the assessment\_views table
+* Increased mem\_limit available for sphnix indexing
+* Now only displaying JPGs on dashboard
+* Purdy random dashboard image to replace 
+* Student tasksheet submission work ready to commit
+* Updated freelancing-god-thinking-sphinx to 1.2.7
+* More dashboard changes for Matt
+* Substaintially increased the Activity report speed. Was obviously having a "Duh" moment the other day.
+* More tweaking of dashboard
+* Class / Groups menu moved to user management
+
+## 20090810
+
+* PDF and CSV export links added back to the report
+* Exports to seconds instead of what Excel or Numbers understands as a time for CSV export
+* Fixed PDF and CSV export for activity report
+* A stack of small changes to the Dashboard
+* Fixed a slight misunderstanding I had about the Moodle-auth process. Cleartext moodle session password now being save correctly.
+* Simplified the generation of the per-session moodle password. UserSession adjusted the User record already .. take advantage of that
+* Home link in breadcrumb list now called 'Dadhboard'
+* Was stupidly caching the size selector on video pages. Moved out of cache statement.
+* Added hooks to track all relevant activity
+
+  * After filter on ApplicationController to close the last entry
+  * After filter on Topics- & TasksheetsController to create a new entry
+
+* Now checks that the element type is correct before creating an ActivityLog entry
+* Added new 'by\_element\_type' scope to ActivityLog
+
+## 20090809
+
+* Added "Did you know...?" to dashboard
+* Added a random\_category\_item method to MenuVersion. Limited to topics with summaries currently.
+* Added a topic summary column and modified the cdx:search:build:topics task to populate it (only applies to v5.0+ topics)
+* First iteration of the dashboard
+* New messages count now only displays when there are new messages
+* Content menu caching readded. Wasnt working due to a conditional :onload in the main application layout
+* Added pagination and ordering to reports
+* Added initialiser to monkeypatch Ruport::Data::Table and give writeable access to the data
+* Updated freelancing-god-thinking-sphinx to v1.2.6
+
+## 20090808
+
+* Refactored chained\_select to be much simpler and easier to read
+* Changing the menu version in a report filter will reset the category selection list (ids are different)
+* Added ui-selectmenu to the mix for purdy dropdowns in place of the unwieldy customize\_dropdown
+* Changed video selector to fix in with general LnF. Icons need redoing.
+* Updated jquery-ui.js as the one provided with jRails doesn't include the widgets
+* Updated jRails version and dependent javascripts
+
+## 20090807
+
+* Complete rework of the chained select
+* Moved user methods from activity class into parent Report class as they'll be useful to all reports
+* Added a chain\_select RJS to the categories controller
+* Report filter and report list now in their own partials
+* Report's now default to the current\_menu and current\_menu\_version
+* Added a convenience method MenuVersion.root\_categories
+* Readded categories filter to Report::Activity
+* Put the .not-linked back into the reports .. will knock them off as I go
+* Added seconds\_to\_duration helper which converts seconds to a "h:m:s" format
+* Removed all "report\_filters", old report controllers
+
+## 20090806
+
+* Separated the aggregators out of the Ruport controllers
+* Added report associations to Client (through :user) and User
+* Added a menu\_version to Client (identical to the User variant) which find the correct menu\_version for the gven menu and content\_version
+* Added a new activity\_logs table, a conversion migration from clientuser\_log and transitioned the User and Client models to use the new table
+* Converted all activity log aggregation methods to use the new activity\_logs table
+* Default scope for MenuVersion now sorts by version descending
+* Added new polymorphic reports resource as well as Report::Activity, Report::Assessment, Report::Diagnostics and Report::Tasksheet models.
+* Tweaked routes slightly
+
+## 20090805
+
+* Fixed a bug setting the moodle database when there is no user session
+* Removed 'change\_moodle\_db' from accounts\_controller. Was supposed be in ApplicationController *doh*
+* Migration to tweak the log\_topics indices to better reflect the new world order
+* Migration to populate the category\_item\_id columns on the log tables
+* Migration to swap the :idx\_item index's columns around. Seems has\_many\_polymorphs does a lookup solely on the item\_type which wasn't finding an index
+* Tweaked flash videos to allow fullScreen
+* Missed the print support link for non-accordian menus. Re-added.
+* "return false" statements in application controller unnecessary as a redirect will halt the filter chain (since Rails v2.0). Learn something every day.
+* Minor update to the v51\_content\_tables\_complete.sql
+
+## 20090804
+
+* Added db/sql/v51\_content\_tables\_complete.sql which is all the maps converted from v5.0 & v4.1, plus the new v5.1 maps imported as well as the topics and tasksheets scraped
+* Removed ContentController and moved functionality into PrintSupport controller
+* Updated maptool's README to reflect the proper menu names from the old schema
+* Moved the content conversion routines from the migration into a raks task (lib/tasks/content.rake)
+* Moved search content import tasks into their own rake file (lib/tasks/search.rake)
+* Added a migration to add a content\_lookup VIEW to facilitate converting from the old content schema to the new improved one
+* Removed 20090721190400\_convert\_menus.rb migration. Replcaed by rake tasks.
+* Remove caching on content menu for test
+* Tweak :onhead placement for heirarchical menu
+* Pulled Advanced Studies in IMI up a level
+* Maptool now removes all asterisks
+* Removed print support rows from all maps
+* Updated maptool to be compatible with the new optional 'level' column in maps
+* Fixed an issue with the account menu change list appearing outside of it's tab (from MattC)
+* Added PrintSupport and Dashboard controllers. PrintSupportController will supercede ContentController and allow us to remove the printsupport from the maps and into something more manageable.
+* Migration to add a boolean 'heirarchical\_root' column (for want of a better name) to signify the menu\_version's listing in the sidebar be more than one level. Applies to IMI and Alberta mainly.
+* Adjusted content menu to reflect the new heirarchical\_root flag
+* Cucumber has been updated. Update supporting files in app.
+* Moved onload functionality out of application.js and into the layouts and cleaned up login page (#1053)
+
+## 20090803
+
+* Fixed problem when entering bogus data into tasksheet submission list date filter [#1089]
+* Almost a complete rewrite of the forward / next category item code. Work properly now.
+* Renamed \_navigation.haml to \_navigation.html.haml for consistency
+* Simplfied and moved next / previous CategoryItem helper methods into the CategoryItem model where it belongs. Fixed navigation forward / back item links.
+* Removed unrequired helpers
+* Forcing user search to belowercased dues to case sensitive collation on users table [#1078]
+* Changed user management link in menu to allow switching whilst in user management [#1075]
+* Fixed up column sorting in user management [#1077]
+* Silence parentheses warning in scenarios\_controllerme
+* Now displaying all menus in the account controll when not in production
+* Tweaked menu tool to enable creation of the menu if it --force option provided
+* Split the TasksheetSubmission list daterangepicker into 2 fields and added field labels to the filter box
+* Removed not-linked class for Diagnostics. It's been linked.
+* Removed sessions controller and associated files. It's been supersceded by UserSesssions from authlogic.
+* Removed CSS for videosize and colour legend
+* Updated freelancing-god-thinking-sphinx again ... busy beavers. Now on v1.2.5.
+
+## 20090802
+
+* form\_prompt and daterangepicker don't work well together. Disable former for the moment.
+* Fixed alignment in tasksheet submissions filter for IE
+* Bah ... still trying to display video size selector insidebar :-(
+* Added some useful custom time formats
+* Tasksheet management now tentatively working. Think it could use a rethink, but keeping as is for the moment.
+
+  - Can now get the tasksheets the user has submitted directly ie. 'some\_user.tasksheets'
+  - More thorough TasksheetSubmission validations
+  - Scope on TasksheetSubmission to handle the daterangepicker output 
+
+* Added the über-cool daterangepicker jQuery widget and associated SASS
+* Updated freelancing-god-thinking-sphinx and binarylogic-searchlogic gems
+
+## 20090731
+
+* Quick commit to readd the video size selector. Now located on the video page itself.
+* Forgot to switch video display template to use flash\_vieo prference instead of attribute
+* NATEF reference column removed for menus other than ASE
+* Aligned search box prompt text. Woot!
+* Tweak to tasksheet submission filter
+* Updated freelancing-god-thinking-sphinx gem to v1.2.2
+
+## 20090730
+
+* Added pending, approved and rejected TasksheetSubmission collection routes. Switched menu and tasksheet submission tab paths accordingly
+* Added a scope to Tasksheet model to allow LIKE searching of the various fields
+* Migration to associate Tasksheet submissions with the new class groups (where possible) and remove old columns as well as associated code
+* Added a couple of comments to the routes.rb file regarding the number of routes
+* Removed duplicate :require\_user before filters from a couple of diagnostic controllers. Already specified in ApplicationController
+* Added 'Bulk Submission' tab to tasksheet management tabs for instructors and supervisors
+* Added bulk\_new and bulk\_create tasksheet submission routes and adjusted the menu paths according to user role
+* Removed the clients\_controller which has been replaced by the singleton accounts\_controller
+* Moved print support controller (content\_controller) up the routes list
+* Removed instructor dropdown from single tasksheet submission form
+* Specified case sensitive uniqueness comparison for User's username. It's true by default, but it's *very* important
+* Enabled access to tasksheet tracking for all menus via the 'tasksheet\_tracking' preference
+* Now validating that a user is associated with a client on creation. If I remember correctly this was complicated by the composite primary.
+* Removed flash\_video column from clients table and switched to using a preference instead
+* More commenting for the User model - scope for more code removal as a result
+* Removed popup javascript
+* Removed stripper plugin as we've been using the gem version for a while now
+* Supervisor's menu is now set to reflect the instance's menu. Should stiffle support cases where there was a mismatch.
+* Missed two occurences of the locked\_menu\_preference client column. Removed.
+* Style tweak for selected UI elements
+* Added migration to remove uncessary columns from the clients table
+* Removed references to the following columns on the clients table:
+
+  - client\_active
+  - client\_supervisor
+  - locked\_menu\_preference
+  - subs\_expiry
+  - client\_database\_server\_url
+  - client\_database\_user
+  - client\_database\_passwd
+  - client\_products\_code
+  - ole\_cookie\_prefix
+
+* Added ASE 2core and 4core examples to the maptool's README
+* Removed 20090729130147\_add\_images\_to\_ase51\_roots.rb migration ... maps required for it to run. Need to move the images into the map preferably.
+* Removed experimental popup JS from application.js
+* Commented out diagnostics CSS in application layout template as it's not been committed
+* Fleshed out Account section of the system:
+
+  - Removed unused update.html.haml template
+  - Subscription / Account information now displayed
+  - Instance-wide menu change now possible
+
+* Added fiddly migration to convert preferences table to MyISAM. Columns needed tweaking.
+
+## 20090729
+
+* All menu options in accounts and menu have been made conditional on:
+
+  - The menu not being a custom menu (ie. MITO etc)
+  - The menu not being flagged as client\_locked (ie. GS)
+  - The prefers\_menu\_change? preferences returning true
+
+* Added migration to fix up the menus which are locked ie. a client won't see the menu change option
+* Argh... IE sux and can't handle hashes with even commas. Errant comma removed from imageflow initiating javascript.
+* Introduction of imageFlow front page for ASE
+
+  - Import of images required
+  - Migration to add image\_filename to categories table. This should enable us to add the appropriate images to the various maps
+  - Migration to add images to the appropriate ASE v5.1 root categories. (NOTE: Image should really go in the maps)
+  - Modified the imageflow.js to remove the domReadyEvent. Will use jQuery's instead.
+
+* Added column 'client\_locked' to the menus table which determines if a client can change from the menu. In general, the client\_locked and custom boolean field will be the same, but it's not guaranteed eg. General Service menu.
+* Added appropriate scopes to Menu model
+* Moved Info & Help link to main content menu (as requested by MattC)
+* Adjusted menu to point to the ProfilesController instead
+* Removed 'students' association from User model
+* Added migration to convert "instructor" column from User model into ClassGroups
+* Remove instructor, city, country\_name, region\_id, country\_id, country, institution columns
+
+  - Migraiton to facilitate column removal
+  - Removed references to above columns from all code I could find.
+
+* ThinkingSphinx pagination bug fixed in latest version of the plugin. Removed the use of will\_paginate to compensate.
+* Updated cucumber scripts (in case we ever use it)
+* Updated the following gems: binarylogic-searchlogic (v2.1.12), freelancing-god-thinking-sphinx (v1.2.1)
+
+## 20090728
+
+* Temporary fix for bug with an already existing class group
+* Fixed typo in Info & Help [#1054]
+* Another tweak to topic navigation titles [#1024]
+* Added titles to the topic navigation [#1024]
+* Slight modification to topic styles for images [#1049]
+* Added number search result paging info [#1060] with query terms [#1057]
+* Fixed lack of search results. Sphinx does auto-pagination it seems [#1062]
+* Fixed up search box [#1043]
+* Added a fix for page scroll in IE
+* Bug fixed where the moodle user wasn't getting the new crypted password when saving a user
+* Fixed bug in class groups when no users are selected
+* Cleaned up the user management
+
+  - Add student / instructor links in the sidebar menu disappear if there are no remaining places
+  - Added new tab to user list. Split up into \_list and \_new partials
+  - Search filter works again
+  - Fixed bug when a class group wasn't selected for a user
+
+* Another attempt at closing the accordian menu [#1044]
+
+## 20090727
+
+* User records can now be assigned to multiple class / groups
+* Accordian menu now collapsed by default [#1044]
+* Redirect to class group edit page after creation to allow assigning of students
+* Dumb-stupid-bug-fix: habtm's *cannot* have an id column or else ActiveRecord screws up the association. Arghhhh! Migration added to remove the offending column. Mofo took ages to diagnose.
+* Class groups controller to manage an instances class groups
+* Added excerpt for search items where the search term is in the category
+* Modified search match mode to 'extended' instead of 'all'
+
+## 20090726
+
+* Fix for name clash between searchlogic and thinkingsphinx. All searcglogic call's to be called 'searchlogic' instead of 'search'.
+* More tweaks with search formatting. Very spiffy results and look now.
+* Modified search to add content to topics and tasksheets tables instead, saving space and making the search faster. Also allows us to switch to Sphinx (later)or alternative later)
+
+  - Migration to facilitate changes
+  - Updated rake content import task
+  - Re-added thinking-sphinx into the mix
+
+* Fix template when creating new users
+* Modification to the class groups conversion migration. Was fubar'd.
+* More styling of user management
+* Removed query\_trace and query-analyzer plugins. Still active in production and very verbose. Added ignores so they can be added locally if required.
+* Cleanup of nasty looking user management pages
+* Diagnostics is now only shown if the menu allows it *and* it's enabled for the client (prefers\_diagnostics)
+* Fixed a couple of small template issues when editing a user
+* Removed class\_group column remanants from User and Moodle::User models
+* Added migration to convert user.class\_group to new ClassGroup
+* Removed old class\_groups method on the client. Now a proper association
+* Removed unneeded JS loads from sessions.html.haml
+* All main menus are now checked against the client preference ie. client.prefers\_videos? etc. The following preferences are tweakablt on a per-client basis:
+
+  - *menu\_change* - Enables changing of the menu
+  - *colour\_legend* - Enables display the colour legend in the sidebar
+  - *location\_change* - Enables users to select their location
+  - *messaging* - Enables messaging
+  - *assessments* - Enabled Moodle (or other assesstment software in the furture)
+  - *diagnostics* - Enables the diagnostics tool
+  - *search* - Enables search
+  - *reports* - Enables reports
+  - *videos* - Enables videos
+  - *video\_size\_selection* - Enables video size selector
+  - *flash\_video* - Enables flash video
+
+* Created partial for search box in sidebar
+* Performance tweak: migration to add index for netsuite\_customer\_id
+* Added migration to convert client properties to preferences
+* Moved ClientProperty model into models/old
+* Moved onload JS to bottom of page for performance reasons
+* Hooked User and Client model into preferences (has\_preferences)
+* Added migration to create a preferences table for pluginaweek-preferences. Useful for dynamic polymorphic preference setting.
+* Removed profile and account show.html.haml templates as they weren't being used
+* Added ClassGroup model and association table to User and Client to handle class groups properly
+* Added a style to flag links in the sidebar that aren't functional yet
+* Fixed partial template loading issue when viewing a received message
+
+## 20090725
+
+* Fix for fubar'd profile tab
+* Fix for misaligned search Go button in IE
+* Fix for IE raising error with trailing comma
+* Added http://github.com/pluginaweek/preferences for slightly more flexible model preferences 
+* Moved messaging over to http://github.com/pluginaweek/has\_messages as my 2 day effort more than a year ago sucks the big one:
+
+  - has\_messages added as a plugin and modified to remove hard-coded sorting. We want to do that on the fly via searchlogic if possible
+  - Migration to rename old messaging tables. Old models moved to old/* namespace. Don't delete .. migrations depend on them being available.
+  - New sent\_messages and draft\_messages routes
+  - Migration to add new messaging tables
+  - Modified message models to track parent message on reply
+  - Recipient selection for messages using Facebook like token import. Doesn't handle groups yet
+  - It's now possible to bulk delete messages
+  - Message sender and recipients are polymorphic which means that it will allow non-users to send messages. CDX -> Client technically possible; interface missing
+  - Lots-and-lots-and-lots of stylesheet tweaking
+
+## 20090724
+
+* Part 2
+
+  * Added javascript :onload section for JS that needs to be execute when the page has finished loading. Use content\_for(:onload).
+  * Added JS to properly clear out search box when focused / unfocussed (jquery.form\_prompt.js)
+  * Added more verbose reporting of menu converstion from old (pre v5.1) content table schema. Lists topics and tasksheets now.
+  * Slightly more robust Print Support handling. Page can now theoreticallu be assigned to the root Print Support category.
+  * Video selector semi-functional again. Brok'd site.
+
+* Part 1
+
+  * Path fix in Tasksheets
+  * Next / previous links to navigate betwen topics working again, although there is a slight issue with it working in tasksheet lists.
+  * "I brok'd it" ... categories not displaying due to braindead-sleep-deprived-me. Fixed.
+  * Refactoring of Messaging controller and templates proceeding
+
+    - Dumped a stack of code that's no longer necessary
+    - Added JSON respond\_to for index method on Users controller. This populates the message recipient list.
+    - to\_json on User model overwritten to only return id and names
+    - Testing a couple of options re: facebook style recipient selection (for supers and instructors only)
+    - More style tweaking *sigh*
+
+  * Change video size for WMVs moved into the new profiles controller instead of users
+  * Added a title to the TasksheetSubmission and Messaging controllers
+  * Removed user\_properties table and it's user association. No longer being used.
+  * Removed is\_paranoid as it doesn't handle deleted\_at in the future. Will accomplish what we want via scopes and a couple of well-places destroy methods.
+
+## 20090723
+
+* Added a ProfilesController which to handle the current users profile (much like the AccountsController)
+* Changed layout .haml templates to .html.haml for consistency and easier specing
+* Removed RoleMenuController and associated files
+* Messaging, Quizzes & Tests moved into the new sidebar menu accordian
+* All used layout now have set to XHTML 1.0 Strict
+* Removed old role menu buttons (yay!) in favour of new layout
+* Application now only allows one session per user. Logging in from another launcher / browser will automagically log other users out.
+* Changed account video selection to radio buttons
+
+## 20090722
+
+* Styling of users controller
+* Reverted input styling for IE *sigh*
+* Added cookie.js and configured the tabs to remember the last active tab. Note that the url anchor overrides this.
+* Fixed accounts\_controller so that it knows which class it's supposed to be tracking
+* Migration to remove menu\_pref default of 0 and nullify those records that have been set to 0. NULL now signifies that the client menu be used
+* Modified user model so that it will delegate to it's client if it has no menu set
+* Client video selection (flash or WMV) now functioning
+* Renamed latest buttons JS's to ui-* instead of ui.*
+* More style tweaking
+* Added ui.button widget code from jQuery dev branch as it looks sweet
+* Removed Settings.video.type application setting in favour of client based flag
+* Added migration to allow instance based selection of video type via a flash\_video boolean column. Defaults to false.
+* Added an alternative layout to replace the role menus. Just a mock-up.
+* Fixed up display issues with messaging. Almost purdy again.
+* Tweak <FORM> margins and padding for IE.
+* Links can now be made popups just by assigning the 'popup' class to them
+* More IE popup tweaks
+* Add popup layout to cater for braindead IE
+* Reverted to JS popup *cough* instead of Thickbox
+* Altered look-n-feel just enough to be different
+* Adjusted search box putting text into search box itself as requested
+* Added sidebar background
+* Added Accounts controller and singleton route. Now handles all client related config options accessible via the tabs.
+* Added README for the maptool
+* Removed menus and menu\_versions controllers and associated helpers/views/specs
+
+## 20090721
+
+* Seems order is not guaranteed for has\_many\_polymorphs and sortable gem. Add proper ordering to the associations.
+* Fixed HTML not found for DVOM's
+* Changed and renamed old convert\_menus migration to reflect the new map organisation
+
+  - Tweaked for the DVOMs
+  - .. and again
+
+* Fixed up DVOM template which was mistakenly empty
+* Rearranged routes completely so that we have easy access to a topic or tasksheet's category and adjusted to following to suit:
+
+  - Fixed map menu in sidebar
+  - Adjusted breadcrumb trail
+  - Topic navigation massage to accomodate new routes
+
+* Adjusted the maptool to update the DVOM and HA for the topic's CategoryItem
+* Moved has\_dvom? and has\_knowledge\_check? methods from Topic to CategoryItem
+* Added migration to add HA and DVOM fields to the categories\_items table
+* Moved maptool and associated CSV files into the new RAILS\_ROOT/tools directory
+* Adjusted maptool to only changed topics if the menu is ARK as all other maps are derived from that
+* Added migration to extend thelenght of Topic.description fields
+* Updated maptool to allow overwriting when importing a map
+* Updated map structure to properly destroy dependents when removed
+* Added more checks when importing to test that a topic has the same attributes
+* More tweaking of role menu Look-n-Feel
+* Fixed a routing path bug in messaging when creating a new message
+* Removed top border from category topic list
+* Updated HAML gem to v2.2.2
+* Updated to Rails v2.3.3 which was released this morning (See http://weblog.rubyonrails.org/2009/7/20/rails-2-3-3-touching-faster-json-bug-fixes for details)
+* Added Settings.session.timeout to application configuration file. Defaults to 1 hour of idle time [#786]
+* Disabled and removed remember\_me functionality when loggin in
+
+## 20090720
+
+* Cleaned up categories listing to add section partitions
+* Added ability to change menu version in staging and development environments
+* Assigned categories and category\_items as :delete\_all dependents of menu\_version model
+* Some tweaks to the role menus. Borders weren't showing up.
+* Added a migration to add the missing non-NATEF tasksheets
+* Removed diagnostics and info&help rows from maps. Not required and the maptool will barf if they're included.
+* Readded menu selector when editing single users
+* Installed git://github.com/miknight/jrails.git plugin
+* Removed db/schema dir. We have one DB now
+* Renamed User.spare2 to video\_size so I'll know what it is tomorrow
+
+## 20090719
+
+* Wired up the navigation info button using thickbox instead of a new browser window.
+* Added jQuery thickbox (See http://jquery.com/demo/thickbox/) to be used instead of the info popup
+* Topic category for the current\_user's menu & version now correctly ascertained
+* Fixed issue with template expecting a current\_user, even if not logged in
+* Added updated CSV menu map files from AndrewT email 20090717)
+* Breadcrumb navigation working
+* Added video\_size alias for spare2 on the User model
+* Added new Settings.video.type to determine whether videos are to be displayed as FLV or WMV. Defaults to WMV.
+* Readded the video size selector. Not hooked in yet.
+* Moved previous and next topic into topic / tasksheet display
+* Ported fix for invalid timezone lookup on Moodle sync from 5.0 branch
+* Updated awesome\_nested\_set and searchlogic gem versions
+
+## 20090717
+
+* Fixed UserSession resource route to allow both GET and POST requests
+* Reverted new session template to POST path
+
+## 20090716
+
+* Added 'main' gem. It's used to parse command line options [#796]
+
+## 20090715
+
+* Page header now correctly displays the current users version
+* Added acts\_as\_reportable to Menu and MenuVersion models for the map import tool list command [#796]
+* Fixed a typo for the settinglogic gem which was incorrectly associating itself with the 'searchlogic' lib
+* Fixed a bug where the users menu was incorrectly returning the client's when it shouldn't have
+* Added a migration to allow NULL on the legacy\_publish\_topic\_\_id column on the categories\_items table
+* Added CSV map files under db. They'll need to committed again once the errors have been fixed [#796]
+* Added maptool to import a content map CSV file [#796]. Usage as follows:
+
+  `./script/custom/maptool import name="ASE" version=51 db/maps/51/ase.csv`
+
+  The 'name' keyword must be exactly that contained in the menus table ie. ARK is in fact "CDX ARK".
+  If you need a list of the menus, you can do:
+  
+  `./script/custom/maptool list`
+
+  Use `maptool help`, `maptool import help`, `maptool list help` at any time for help.
+
+* Added route to diagnostics tool. Will need to properly specified when the tool is finally imported.
+* Added "Diagnostics" link to menu on sidebar.
+
+## 20090713
+
+* Updated the remaining topic elements (lots-o-tweaking). Reintroduced iframe as our ststic assets are shot.
+* Removed borders from linked images (affects FF and probably IE)
+
+## 20090712
+
+* Now setting RAILS\_ENV in capstrano staging tasks
+* Adjusted / Simplified the routes as we're always working with the context of a client. Adjusted paths and templates accordingly
+* All access to CDX online must now be authenticated again
+* Configured application to authenticate against the supplied client\_prefix, username and password
+
+  - Stripped a ton of old authentication / manual encryption code from the User model
+  - Authentication is scoped to a client supplied via the client\_prefix
+
+* Added binarylogic-authlogic gem
+* Changed settingslogic and searchlogic to gihub's binarylogic-searchlogic and binarylogic-settingslogic respectively
+* Removed :file\_store as cache method. Use default :memory\_store for now. Should use memcache in production.
+* Removed Passenger patch for config.action\_controller.relative\_url\_root. No longer require with the latest version
+* Readded thumblemonks-loadmodel to the gems list as the API currently depends on it and Rails won't start without it
+* Tweaked the staging DB settings
+* Configured staging DB auth details
+* Added post-deploy task to link to the online assets when deploying to the staging server
+* Removed ThinkingSphinx tasks from Rakefile
+* Removed production specific YAML files in favour of a single one (ie. application and database)
+* Modifed staging\_* environments for the new staging server. Branched environments (\_johnm, \_roberto) will need the repository specifically set
+* Rearranged the migrations to allow them to be run in the newly created staging environments (if necessary)
+* Combined some migrations for tables whose structure is becoming more secure
+
+## 20090710
+
+* Added 3 new environments to allow for separate staging environments on the staging server (#779):
+
+  - staging
+  - staging\_johnm
+  - staging\_roberto
+
+* Modified database.yml.sample to include the new DBs (We can probably do away with the production.yml file soon) (#779)
+* Added three new Capistrano deployment targets as per the new environments (#779)
+* Lot's of search display tweaking and result checking (#789)
+* Added search routes (for Online and from Moodle) (#789)
+
+## 20090709
+
+* Added Hpricot back into the mix. Used for parsing HTML in scripts, most notably the search content fields for topics and tasksheets.
+* Added rake task to import content for searching:
+  
+  `
+  rake cdx:search:build:all         # Import all tasksheet and topic content for search
+  rake cdx:search:build:tasksheets  # Import Tasksheet PDF content for search
+  rake cdx:search:build:topics      # Import Topic HTML content for search
+  rake cdx:search:clear:all         # Clear all search content
+  rake cdx:search:clear:tasksheets  # Clear all tasksheets search content
+  rake cdx:search:clear:topics      # Clear all topic search content
+  `
+  
+### NOTES
+  1. Only topic HTML files and tasksheets are processed
+  2. You must have 'pdftotext' installed from the Poppler package http://poppler.freedesktop.org/ which is availble in ports and as a RPM
+
+* Added migration to add search\_name, search\_description and search\_content to category\_items table
+* Added svn:ignore for CSS files in public/stylesheets
+* Removed ThinkingSphinx gem fron config
+
+## 20090708
+
+* Added thinking-sphinx gem for search implementation
+* Added thinking-sphinx rake tasks
+* Basic structure of topic navigation implemented and displaying properly
+* Added topic navigation images
+* Added condition to ignore "Info & Help" link in sidebar menu category list. Not sure why it's part of the menu structure at all?
+* Removed some unused helpers
+
+## 20090707
+
+* Cleaned up role menu pages
+* Activated vidtute rollover on all pages
+* Added SearchController
+* Removed legacy CDX namespaced client and user views, helpers and specs.
+* Split main.sass into logical sub-sass's
+* Added jqRollover.js to replace previous image rollover (should theoretically be a CSS solution, but JS a little more x-browser compatible)
+* Added next / previous links to sidebar. Still needs linking.
+* Copied courseware/images to assets/images
+* Removed some extraneous temp work I accidentally left in
+* Inadvertantly introduced typo in menu\_version named scope. Fixed.
+* Added is\_paranoid behaviour to menu and menu\_versions
+* Tasksheets displaying correctly
+* Topic display work done.
+
+  - Now displaying static HTML data (from public/assets)
+  - Caching enabled as some image path src manipulation in places when first rendered
+
+* Add FK indices to categories\_items table
+* Added caching to the following areas:
+
+  - Categories
+  - Topics
+  - Page layout sections (ie. menu, colour\_legend etc., role menus)
+
+* Explain why CategoryItem model needs it's table\_name set in the comments
+* Removed legacy\_protection files. No longer required in anticipation of proper authentication.
+* Some minor route work wrt. category items.
+* Moved content routes to beginning of routes.rb which should improve performance (albeit only slightly)
+* Removed lingering category\_item files (controller, views, specs etc). Replaced with Topics and Tasksheets.
+* Added show template to display tasksheets.
+* Readded topics\_controller with a single show action
+* svn:ignore'ing config/amazon\_s3.yml & config/rackspace\_cloudfiles.yml
+* Removed all topic model flavours in favour of a single Topic.
+* Added a migration to convert Topic.type column to Topic.kind
+* Routes changed slightly to accomodate topics and tasksheets controller
+* Removed topics\_controller and related spec in favour of a new category\_items controller
+* Fixed up error in topic group listing
+* Fixed up a display issue with inconsistent category column widths ... aka "the pitfalls of &nbsp;"
+* Colouring now sorted for category listings
+* Colour legend and category colours now match for the first time *evar*
+* Fixed routes I messed with yesterday so that the root page is displayable.
+* Updated HAML and sortable gem versions
+* Converted this file to proper Markdown (just titles)
+
+## 20090706
+
+* Readded cdx\_content connection to database.yml.sample - temporarily required for migrations. Will be deprecated later.
+* Modified create\_menus migration to correctly index the menu name
+* Modified create\_menu\_versions migration to correctly index the menu and version
+* Added FK indexes on migrations where appropriate
+* Combined log table migrations into one migration. Should reduce the time it takes when run.
+* Escaped \_'s in .mdown files. Don't need everything in italic.
+* Moved CHANGELOG.rdoc to CHANGELOG.mdown (CTRL-OPTION-COMMAND-P to convert to HTML in TextMate)
+* Added TODO.mdown to track things still needing to be done. Please adjust as necessary.
+* Removed content related resources (menu, version, category, topic) in favour of the simpler static routes: category & topic
+* Updated settingslogic gem version to 1.0.4
+* Renamed javascripts.new to javascripts. Missed that one when removing the legacy JS libs.
+* database.yml.sample changes:
+
+  - Removed superfluous connections. Using the one-true-DB ie. content\_reporting
+  - Added test and production environment connections
+  - Added rspec. rspec-rails and remarkable\_rails gems to test environment
+
+* Added remarkable\_rails to RSpec helper
+* Removed migrations pre-5.1 fork to clear things up and make things more manageable. All migrations before and including 20090508051543 have been removed.
+
+## 20090629
+
+!!!WOOT!!!! One database to rule them all!
+
+[MAJOR] Readded a migration to completely reorganise the menus, categories, topics & tasksheets etc. Menus displaying properly. Topics still need work.
+
+[MAJOR] Merged a MASSIVE amount of code (from local branch) to remove composite\_primary\_key dependency and have a straight user\_id FK. Goodbye pain in the arse.
+        - Migrations to clean up the user table. All column with an empty string have been set to NULL 
+        - Migration fo add user\_id columns to those table that previously required the client\_prefix, username columns. The old columns are still accessible for legacy apps.
+        - Removed the javascript in favour of relying just on jQuery. Too many unused and unneeded scripts from all over the place
+
+Still to do:
+
+  - Tasksheet management for supervisors & instructors (1 day)
+  - Messaging needs to be rewritten (1 - 2 days)
+  - Topic display (1 day)
+  - Video selection in sidebar (a few hours)
+
+Othe changes...
+
+* Added a singular ClientController resource. Think of it as a place for client configuration. Will primarily be for changing the instance's menu.
+* Clean up the routes signifacntly.
+* Added a current\_content\_version column to the users table and removed the user\_properties table.
+* Fixed a bug where sorted categories where incorrectly scoped against the menu\_version instead of the menu\_version\_id
+* Added swf\_fu for easy embedding of flash files
+* Updated plugins
+  - Remove has\_many\_polymorphs gems and installed it correctly (via plugin)
+  - Replaced acts\_as\_list plugin with sortable gem
+  - Replcaed redhillonrails\_stripper plugin for harukizaemon-stripper gem
+  - Update the following gems / plugins:
+
+    searchlogic
+    query-analyzer
+    query\_trace
+··
+  - Removed the following superfluous gems:
+
+    libxml-ruby
+    giraffesoft-timeline\_fu
+    hpricot
+    mislav-will\_paginate
+    thumblemonks-load\_model
+
+  - Removed the following superfluous plugins:
+
+    acts\_as\_list
+    acts\_as\_paranoid
+    acts\_as\_versioned
+    default\_value\_for
+    redhillonrails\_stripper
+    yaml\_db
+
+## 20090623
+
+* Disabled ActiveRecord session store. Use cookies instead.
+* Client.deleted\_users scope was slightly incorrect by not including users which are flagged to be deleted at a later date.
+* Modified Client model so that it uses the users table directly instead of the stoopid individual users table.
+* Moved sass files into app/stylesheets
+* Forgot to copy the 'users' table from cdxenroldb\_v4. Modifed migration accordingly.
+* Removed app/models/base.rb. No need.
+* Moved the following models out of the 'cdx' namespace:
+
+  access\_pack.rb
+  client.rb
+  client\_property.rb
+  client\_upgrades.rb
+  country.rb
+  csv\_file.rb
+  net\_suite\_trial\_request.rb
+  region.rb
+  user.rb
+  user\_property.rb
+
+* Removed cdx namespace completely. This affects all aspects of the application including migrations.
+* Updated RSpec and Cucumber scripts
+* Added an information\_controller for non-menu content ie. home and miscellaneous info pages
+
+## 20090622
+
+* Added migration create duplicates of the following tables into the content\_reporting DB:
+  
+  clients
+  client\_properties
+  client\_upgrades
+  countries
+  csv\_files
+  netsuite\_trial\_requests
+  regions
+  registrations
+  user\_properties
+
+  Also renames the 'registrations' table to 'access\_packs'.
+
+  NOTE: The views have not been moved as we don't want to use them anymore.
+
+* Removed /tools directory. Hasn't been used in more than a year and no longer required.
+* Removed "self." from User and Client when superfluos.
+* Polished up Client.assigned\_instructors to not load the entire student list into memory.
+* Refactored client and user destroy methods slightly to be more Railsy
+* Creating a new user now uses client and supervisor defaults for institution, city, region and country
+* Removed User.update\_without\_callbacks
+* Something odd wrt composite\_primary\_keys and the magic attributes of created\_at and updated\_at. Touching manually for now.
+* Removed xml output from the users\_controller
+* Moved much of the moodle\_user initialisation code into the Moodle::User class where it belongs
+* Removed mass update of all users when the client's time zone is changed. Does not allow for different timezone on a per user basis.
+* Client's now time\_zone defaults to the clients time\_zone if it hasn't been set
+
+## 20090620
+
+* Refactored the time\_zone offset calculation code into it's own method
+* Doh! Removed ActiveRecord::RecordNotSaved catchall from User ... very bad practise. Eat your own dog-food!
+* Renamed "delete\_moodle\_user" to "destroy\_moodle\_user" to keep it in line with Rails naming conventions
+* Updated will\_paginate and load\_mdoel versions
+* Merged changes from trunk
+
+## 20090530
+
+* Some tweaking to the migrations. clientuser\_log one now taks just over an hour (which is better btw)
+* Use has\_many\_polymorphs gem for the categories instead of manually doing it
+* Updated version of various gem.plugins
+
+## 20090528
+
+* Some minor reformatting of the key standardisation migrations.
+* Now dropping indices on clienuser\_log and log\_topics tables before doing anything. Speeds things up considerably.
+* Moved standardisation migrations to be run before the content refactoring. We want to add category\_item\_ids to the log\_topic and clientuser\_log tables when converting.
+* Removed deprecated :secret option from forgery protection in ApplicationController
+* Refactored the clientuser\_log and log\_topics migrations to disable / enable keys instead of dumping
+* Added migration to add category\_item\_id to clientuser\_log and log\_topics table
+* Sorted gems to environment.rb and added appropriate source if from Github
+
+## 20090527
+
+* More work on the client\_prefix / username standardisation migration
+* For performance reasons separated the clientuser\_log and log\_topics changes to their own migration
+* Fixed up the config directory to be v2.3.2 compatible ie. a lot of the functionality has been moved into specific initialisers
+
+## 20090525
+
+* Upgraded Rails to v2.3.2
+* Fixed relative\_url\_root for the application in development and production environments
+* Upgraded composite\_primary\_keys gem
+* Removed v2.3.2 incompatible plugins: unobtrusive\_date\_picker and 12\_hour\_time
+* Replaced query\_trace plugin with query-analyzer plugins
+* Fixed custom validates\_uniqueness\_of on User
+* Added a migration to standardise the client\_prefix and username columns on the various tables which were previously all over the place
+
+
+## 20090521
+
+* Added migration to drop the content databases
+* Added some error output for the farked-up / nonsense entries in some of the maps
+* Added legacy\_publich\_topic\_id to the category\_items table
+* Changes categories table indices for better performance on importing data
+
+## 20090520
+
+* Added migration to fix up the nested set columns in the content\_db categories.
+* Separated topic types into their own classes int he Topic namespace ie. Topic::Theory, Topic::Procedure etc.
+* Added acts\_as\_list plugin
+* More content / menu structure changes
+
+  * Categories can now have either Tasksheets or Topics attached to them via the CategoryItem association
+  * Renamed boolead attributes to has\_* for better readbility
+  * Added proper indexing on the current (old) category and topic tables. Faster conversion as a result.
+
+## 20090518
+
+* Preliminary work refactoring content structure:
+
+  * New Menu, MenuVersion, Category and Topic tables in the content\_reporting database
+  * Added tasksheets\_categories association table
+  * Added tasksheet\_id to the certification\_natef table instead of the tasksheet number
+  * Removed Hpricot dependency from the environment.rb. Seems it's being loaded elsewhere.
+
+## 20090326
+
+* Added the ability to filter users on all reports by the instructor they're assigned to
+
+## 20090323
+
+* Added a column to the clients table to set the length of time a newly created access pack is valid for.
+* Fix row ordering when excluding columns/rows (Resolves #684)
+* Fix formatting of /session/new
+* Updated AssessmentReportFilter such that client without any Moodle data will still display the report (Fixes #671)
+* Added SessionsController which acts as a preliminary first page for the OS X launcher
+
+## 20090319
+
+* Fixed pagination in reports to be filter aware.
+* Added support back in for filtering out users without data.
+* Added support back in for filtering out columns without data.
+
+## 20090318
+
+* Disabled the controls to exclude rows without values and columns without values from the report filter to avoid confusion while they're broken.
+
+## 20090318
+
+* Removed an extraneous print statement from AssessmentView.rebuild\_quiz\_map
+* Updated mislav-will\_paginate gem to 2.3.8
+
+## 20090317
+
+* Added some useful scopes to TopicLog model
+
+## 20090316
+
+* Updated RSpec and Cucumbers stuff in the hope that one days we'll get a chance to write unit tests
+* Added latest NATEF2008 tasksheets
+
+## 20090314
+
+* Refactored the TopicLog generation considerably so that it
+  * Resets bogus entries over 4 hours to be 4 hours (we still need to find the cause of those entries)
+  * Correctly applies user\_id and category\_id fields
+  * Performs significantly faster than the previous version
+
+* Slight rewrite of Content::Menu.versions method
+
+## 20090313
+
+* Added timestamp and lock\_version columns to the tasksheets table
+* Added tasksheet\_id, timestamp and lock\_version columns to tasksheet submissions table. Also added placeholder for client\_id and user\_ids for later use.
+* Cleaned up the date selector for each report
+ * Added last\_record\_date and first\_record\_date methods to the ReportFilter's
+ * Added date\_picker\_start\_classes and date\_picker\_end\_classes which limit the datepickers on each report
+
+## 20090305
+
+* Removed the footnotes plugin. It slows down development mode so much it's almost unusable
+
+## 20090304
+
+* Fixed a TasksheetReport column sorting issue
+* Now not creating a link on the sorted column on all reports
+
+## 20090303
+
+* Changes to address #634
+  * Added a new rake task to import new NATEF tasksheets (mainly for 2008).
+  * Added validations and some more useful scopes for NatefCertification
+  * Tasksheet number, title and shortname are now readonly.
+  * Tasksheet now has a reference to it's NatefCertification
+  * Added reverse relationship from TasksheetSubmission to Tasksheet.
+* Updated the PDF reports to include the total at the bottom of each column. #630
+
+## 20090226
+
+* Now updating the NS field 'custentity\_online\_allocated\_students' instead of NS calculating it. NS can't use calculated field in reports.
+* Refactored the users and all\_users methods in ReportFilter to use scopes rather than SQL statements. This also fixes #620.
+* Added a migration to remove duplicate users and fix the bogus index
+* Seems the libxml gem is required somewhere. Need to track this down.
+
+## 20090224
+
+* Commented out libxml gem requirement. I'm pretty sure this was only used for bacth script.
+* Updated the versions of a few require gems (will\_paginate & searchlogic)
+* load\_model can't handle CPK so we have to load the user manually in the api/users controller
+* to\_xml won't handle CPK either so export on the AR attributes has directly
+* Updated some TODO comments for the Client model
+* Added timeline\_fu gem. This should allow us to track who does what and when which should be useful for tech support *cough*.
+* Moved rake task cdx:netsuite:clients:update\_customer\_ids task to netsuite:clients:update\_customer\_ids
+* Added limerick\_rake for some handy rake tasks (See http://github.com/thoughtbot/limerick\_rake)
+* Moved CHANGELOG to CHANGELOG.rdoc and converted to rdoc
+
+## 20090204
+
+* Expanded search and pagination functionality for Client API
+
+## 20090203
+
+* Added a migration to blank out all client\_pwd's if it doesn't correspond to the supervisor's password
+* Fixed a bug where the client\_pwd wasn't being updated if the supervisor updated their details
+
+## 20090203
+
+* Massaged the NetSuite rake tasks to 1) work and 2) work correctly :-)
+
+## 20090126
+
+* Configured to now only deploy off 'tags/stable'
+* Makes a copy of the deployment target's application.yaml
+
+## 20090124
+
+* Creation of CDX Online clients greatly improved. Moodle stuff now in Moodle::Base where it should be.
+* Re-worked validations for users and clients
+* Some work to deal with non-standard primary keys on Client and User withn the API context
+* Country and Region controller (api) now using load\_model and caching
+* Optimised Moodle DB creation SQL. Now CREATING tables from moodle\_master2
+* Added a migration to clean up the defaults and type of the clients table columns
+* Removed lastaccessed column as it hasn't been used anywhere and the updated\_at column can be use if it is
+* Users resource now nested in the clients recours (routing)
+* Added an application.yml.sample file which will need to be copied in dev mode. Sets up some application-wide defaults using Settings.whatever. See SettingLogic gem for more details.
+* Various updated to config.gem versions
+
+## 20080628
+
+* Fixed another bug in activity reports where all users wasn't filtering correctly on dates and content version [944]
+* Fixed a bug in activity report where the content version wasn't being set on initial load (but was find after filter) [943]
+* Introduced the CHANGELOG file to track changes

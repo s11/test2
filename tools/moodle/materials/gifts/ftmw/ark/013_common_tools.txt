@@ -1,0 +1,275 @@
+// question: 23707  name: HAQ0087 
+::HAQ0087::[html]The handle on a box wrench is ................. than the open-end wrench.{
+	=%100%longer#
+}
+
+
+// question: 23708  name: HAQ0088 
+::HAQ0088::[html]The hammer you use depends on the part you're striking. The hammer face MUST ALWAYS BE ................. than the part you're hammering.{
+	=%100%softer#
+}
+
+
+// question: 23709  name: HAQ0089 
+::HAQ0089::[html]The ball-pein hammer gets its name from the ball on the rounded face. It's usually used for flattening, or '.................', a rivet.{
+	=%100%peining#
+}
+
+
+// question: 23710  name: HAQ0090 
+::HAQ0090::[html]If you can't find a hammer that matches the size of the job, pick a ................. hammer as a rule of thumb.{
+	=%100%larger#
+}
+
+
+// question: 23711  name: HAQ0091 
+::HAQ0091::[html]Combination pliers are the mostly commonly used in a workshop.  However, sometimes you'll use ................. lock pliers.{
+	=%100%channel#
+}
+
+
+// question: 23712  name: HAQ0092 
+::HAQ0092::[html]The most common hammer in an automotive  workshop is the ball pein or engineer's hammer.  It's usually used for flattening, or peining, a .................{
+	=%100%rivet#
+}
+
+
+// question: 23713  name: HAQ0093 
+::HAQ0093::[html]In some cases a soft-face hammer should be used for the job. Some are very soft with rubber or plastic heads through to those using brass or .................{
+	=%100%copper#
+}
+
+
+// question: 23714  name: HAQ0094 
+::HAQ0094::[html]The most common mallet in the workshop has a head made of hard rubber. It's a special purpose tool, and is often used for moving things into place where it is important not to ................. the item being moved.{
+	=%100%damage#
+}
+
+
+// question: 23715  name: HAQ0095 
+::HAQ0095::[html]The head on a 'dead blow hammer' is either made of ................., or it's hollow with lead shot inside.{
+	=%100%lead#
+}
+
+
+// question: 23716  name: HAQ0096 
+::HAQ0096::[html]The most common kind of chisel is a flat chisel. It's made of high-quality steel, and the end is tempered and ................. because it has to be harder than any of the metals you're likely to want to cut with it.{
+	=%100%hardened#
+}
+
+
+// question: 23717  name: HAQ0097 
+::HAQ0097::[html]A 'cross cut' chisel is so named because the sharpened edge is across the blade .................{
+	=%100%width#
+}
+
+
+// question: 23718  name: HAQ0098 
+::HAQ0098::[html]The gasket scraper should be kept ................. to make it easy to remove all traces of the old gasket and sealing compound.{
+	=%100%sharp#
+}
+
+
+// question: 23719  name: HAQ0099 
+::HAQ0099::[html]The hacksaw blade should be inserted into the frame so that it only cuts on the ................. stroke.{
+	=%100%forward#
+}
+
+
+// question: 23720  name: HAQ0100 
+::HAQ0100::[html]After the job is done, the tension on the hacksaw blade should be ................., to prevent the frame from distorting over time.{
+	=%100%loosened#
+}
+
+
+// question: 23721  name: HAQ0101 
+::HAQ0101::[html]Flying ................. are normal when using the abrasive cut-off saw, the range of these should be limited by placing a safety screen around the job.{
+	=%100%sparks#
+}
+
+
+// question: 23722  name: HAQ0102 
+::HAQ0102::[html]If the tip of the screwdriver blade isn't clean and square, it should be .................{
+	=%100%reshaped#
+}
+
+
+// question: 23723  name: HAQ0103 
+::HAQ0103::[html]The Phillips tip screwdriver fits a ................. recess while the pozidrive fits into slots with parallel sides in the head of the screw.{
+	=%100%tapered#
+}
+
+
+// question: 23724  name: HAQ0104 
+::HAQ0104::[html]Allen keys come in either the metric or Imperial system, and are categorized in millimeters or fractions of an inch, according to the distance across opposite ................. of the hexagon.{
+	=%100%flats#
+}
+
+
+// question: 23725  name: HAQ0105 
+::HAQ0105::[html]An impact driver may be necessary for a screw or a bolt that's ................. or over tightened.{
+	=%100%rusty#
+}
+
+
+// question: 23726  name: HAQ0106 
+::HAQ0106::[html]The jaws on a vice are ................. to give extra grip and they're also very hard, which means that when the vice is done up tightly, the jaws can mark whatever they're gripping.{
+	=%100%serrated#
+}
+
+
+// question: 23727  name: HAQ0107 
+::HAQ0107::[html]Some things can be awkward to grip vertically in a plain vice, so there's another style called an ................. vice.{
+	=%100%offset#
+	=%100%off-set#
+}
+
+
+// question: 23728  name: HAQ0108 
+::HAQ0108::[html]A G-clamp's name comes from its .................{
+	=%100%shape#
+}
+
+
+// question: 23729  name: HAQ0109 
+::HAQ0109::[html]The size used to describe a spanner/wrench is the distance across the ................. of the nut or bolt to be turned.{
+	=%100%flats#
+}
+
+
+// question: 23730  name: HAQ0110 
+::HAQ0110::[html]There are many types of spanners/wrenches. Choosing the correct one to use to do the job usually depends on two things: 1. How ................. is the fastener? In other words how much force is going to be applied to it?{
+	=%100%tight#
+}
+
+
+// question: 23731  name: HAQ0111 
+::HAQ0111::[html]There are many types of spanners/wrenches. Choosing the correct one to use to do the job usually depends on two things: 2. How ................. is the fastener? - how much room is there to get the spanner onto the fastener, and then turn it.{
+	=%100%accessible#
+}
+
+
+// question: 23732  name: HAQ0112 
+::HAQ0112::[html]When being used it's always possible a spanner/wrench will slip. Always try to ................. what will happen if it does before putting a lot tension onto it.{
+	=%100%anticipate#
+}
+
+
+// question: 23733  name: HAQ0113 
+::HAQ0113::[html]The combination spanner/wrench provides the user with the best features of each of the other types. It has a ring on one end for gripping and ................. the fastener's hold, and an open ended spanner of the same size on the other end.{
+	=%100%breaking#
+}
+
+
+// question: 23734  name: HAQ0114 
+::HAQ0114::[html]There is also a special socket that only has 6 flats instead of the common 12 point design. It's specially made for ................. wrenches that exert a lot more pressure than turning sockets by hand.{
+	=%100%impact#
+}
+
+
+// question: 23735  name: HAQ0115 
+::HAQ0115::[html]Many fasteners are located in positions where access can be difficult. Many lengths of ................. are available to bring the drive point out to where a handle can be attached.{
+	=%100%extensions#
+}
+
+
+// question: 23736  name: HAQ0116 
+::HAQ0116::[html]A ................. brace is the fastest way to spin a nut on or off a thread by hand, but it can't apply much torque to the nut, so it's mainly used to remove a nut that's already been loosened, or to run the nut onto the thread until it begins to tighten.{
+	=%100%wheel#
+}
+
+
+// question: 23737  name: HAQ0117 
+::HAQ0117::[html]Most pliers are limited by their size in what they can grip. Multi-grips overcome that with a moveable .................{
+	=%100%pivot#
+}
+
+
+// question: 23738  name: HAQ0118 
+::HAQ0118::[html]Vice grips are general purpose pliers. They can also be used as temporary ................. in case a free hand is needed elsewhere.{
+	=%100%clamps#
+}
+
+
+// question: 23739  name: HAQ0119 
+::HAQ0119::[html]Nippers or pincer pliers have a cutting edge at right angles to their length. They are designed to get a grip on and cut through anything sticking out from a surface. ................. them on the curve of the jaws gives leverage too.{
+	=%100%rolling#
+}
+
+
+// question: 23740  name: HAQ0120 
+::HAQ0120::[html]Bolt cutters cut heavy wire, rods, and bolts. Their ................. joints and long handles give the leverage and cutting pressure that's needed for heavy gauge materials.{
+	=%100%compound#
+}
+
+
+// question: 23741  name: HAQ0121 
+::HAQ0121::[html]................. snips are designed to cut soft metals. They're easy to use because the handles are spring loaded open and double pivoted for extra leverage.{
+	=%100%aviation#
+}
+
+
+// question: 23742  name: HAQ0122 
+::HAQ0122::[html]A torque wrench is also known as a tension wrench. It is used to tighten fasteners, to a ................. tension (torque) by the use of a movable scale that allows how tightly the nut or bolt is being done up.{
+	=%100%pre-determined#
+	=%100%predetermined#
+}
+
+
+// question: 23743  name: HAQ0123 
+::HAQ0123::[html]The pipe wrench grips pipes and tubes and it can exert a lot of force to turn them. The jaws are hardened and ................., and increasing the pressure also increases the risk of marking or even gouging metal from the pipe.{
+	=%100%serrated#
+}
+
+
+// question: 23744  name: HAQ0124 
+::HAQ0124::[html]One specialized wrench is an oil filter removing tool, which gives that extra ................. when oil filters are tight.{
+	=%100%leverage#
+}
+
+
+// question: 23745  name: HAQ0125 
+::HAQ0125::[html]A coarse file leaves a ................. finish.{
+	=%100%rough#
+}
+
+
+// question: 23746  name: HAQ0126 
+::HAQ0126::[html]The full list of grades in flat files, from rough to smooth, is: rough; coarse bastard; ................. cut; smooth; and dead smooth.{
+	=%100%second#
+}
+
+
+// question: 23747  name: HAQ0127 
+::HAQ0127::[html]Files should be cleaned after use. If they're clogged, they can be cleaned by a tool that's really part of the family called a filecard or ...................{
+	=%100%filebrush#
+	=%100%file brush#
+	=%100%file-brush#
+}
+
+
+// question: 23748  name: HAQ0128 
+::HAQ0128::[html]A thread file cleans clogged or distorted threads. It has 8 different surfaces that match different thread .................. so the right face must be used.{
+	=%100%dimensions#
+}
+
+
+// question: 23749  name: HAQ0129 
+::HAQ0129::[html]A torque wrench tightens bolts and nuts using the .................. on the end, which takes any sockets and accessories.{
+	=%100%drive#
+}
+
+
+// question: 23750  name: HAQ0130 
+::HAQ0130::[html]What makes using a torque wrench a special way to tighten fasteners is a .................. that shows how tightly the nut or bolt is being done up.{
+	=%100%scale#
+}
+
+
+// question: 23751  name: HAQ0131 
+::HAQ0131::[html]Manufacturers don't specify .................. settings for every nut and bolt, but when they do, it's important, and that's why the torque wrench is such an important tool.{
+	=%100%torque#
+}
+
+
+

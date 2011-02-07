@@ -1,0 +1,55 @@
+// question: 28835  name: HAQ1596 
+::HAQ1596::[html]When an engine is running, some of the air/fuel mixture and some of the exhaust gases can squeeze past the piston rings in the cylinder and leak into the .................{
+	=%100%crankcase#
+}
+
+
+// question: 28836  name: HAQ1597 
+::HAQ1597::[html]If the PCV valve is not working properly, the engine may idle less smoothly, the fuel efficiency will drop, and the oil will become ................. and less effective.{
+	=%100%contaminated#
+}
+
+
+// question: 28837  name: HAQ1598 
+::HAQ1598::[html]The PCV valve is usually located next to the valve cover of the engine, or in the intake .................{
+	=%100%manifold#
+}
+
+
+// question: 28838  name: HAQ1599 
+::HAQ1599::[html]If you remove the hose from the PCV valve attached to the valve cover, leaving the valve in place, and put your finger over the opening of the hose, you should feel .................{
+	=%100%suction#
+}
+
+
+// question: 28839  name: HAQ1600 
+::HAQ1600::[html]Remove the PCV valve and inspect it for deposits. If it can be taken apart, then you can clean it with PCV solvent or lacquer .................{
+	=%100%thinners#
+}
+
+
+// question: 28840  name: HAQ1601 
+::HAQ1601::[html]The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is .................{
+	=%100%repaired#
+}
+
+
+// question: 28841  name: HAQ1602 
+::HAQ1602::[html]Locate the scan tool access point and connect the scan tool using the appropriate ................. for the vehicle.{
+	=%100%connector#
+}
+
+
+// question: 28842  name: HAQ1603 
+::HAQ1603::[html]Any fault indicated by the diagnostic trouble codes will need to be corrected ................. you clear the codes.{
+	=%100%before#
+}
+
+
+// question: 28843  name: HAQ1604 
+::HAQ1604::[html]After repair - Run the scan tool diagnostic program and navigate through each system again to check the codes do not .................{
+	=%100%reactivate#
+}
+
+
+

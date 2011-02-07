@@ -1,0 +1,9 @@
+ul#topic_navigation
+  :list-style-type none
+  :text-align center
+
+  li
+    :display inline
+    :padding 0 1em
+    a
+      :display inline

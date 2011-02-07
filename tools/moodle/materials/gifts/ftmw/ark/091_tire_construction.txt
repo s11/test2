@@ -1,0 +1,199 @@
+// question: 29725  name: HAQ1834 
+::HAQ1834::[html]A tire provides a ................. between the vehicle and the road, to reduce the transmission of road shocks.{
+	=%100%cushion#
+}
+
+
+// question: 29726  name: HAQ1835 
+::HAQ1835::[html]The air in the tire supports the vehicle's mass, and the ................. provides frictional contact with the road surface, so the vehicle can maneuver for normal use.{
+	=%100%tread#
+}
+
+
+// question: 29727  name: HAQ1836 
+::HAQ1836::[html]During construction, the tread is positioned and the uncured tire is consolidated by ................., before it is placed in the mold.{
+	=%100%rollers#
+}
+
+
+// question: 29728  name: HAQ1837 
+::HAQ1837::[html]During the molding and curing stage, the tire is subjected to high temperature and pressure, and it takes on its final fixed identity, with its own distinctive tread pattern. It is then trimmed and checked for balance and quality before it is inflated, and run under load against a ................. drum.{
+	=%100%rotating#
+}
+
+
+// question: 29729  name: HAQ1838 
+::HAQ1838::[html]Running a tire under load is a final check for ride .................{
+	=%100%uniformity#
+}
+
+
+// question: 29730  name: HAQ1839 
+::HAQ1839::[html]The cross-ply tire is the older form. It is constructed of 2 or more plies or layers of textile casing cords, positioned ................. from bead to bead.{
+	=%100%diagonally#
+}
+
+
+// question: 29731  name: HAQ1840 
+::HAQ1840::[html]On a cross-ply tire, a latticed criss-crossed structure is formed, with alternate  layers crossing over each other, and laid with the cord angles in ................. directions.{
+	=%100%opposite#
+}
+
+
+// question: 29732  name: HAQ1841 
+::HAQ1841::[html]During cornering, stiff sidewalls can ................. the tread and partially lift it off the road surface, and that reduces the friction between the road and the tire.{
+	=%100%distort#
+}
+
+
+// question: 29733  name: HAQ1842 
+::HAQ1842::[html]Stiff sidewalls can also make tires run at a high .................{
+	=%100%temperature#
+}
+
+
+// question: 29734  name: HAQ1843 
+::HAQ1843::[html]Modern tires are made from a range of materials. The rubber is mostly synthetic, with ................. black added to increase strength and toughness. When used in the tread, this combination gives a long life.{
+	=%100%carbon#
+}
+
+
+// question: 29735  name: HAQ1844 
+::HAQ1844::[html]The plies are made from cords of fabric, coated with .................{
+	=%100%rubber#
+}
+
+
+// question: 29736  name: HAQ1845 
+::HAQ1845::[html]Natural rubber is weaker than the synthetic version. It's used mainly in .................{
+	=%100%sidewalls#
+}
+
+
+// question: 29737  name: HAQ1846 
+::HAQ1846::[html]Cords of synthetic fabric have high ................. strength. They resist stretching, but are flexible under load.{
+	=%100%tensile#
+}
+
+
+// question: 29738  name: HAQ1847 
+::HAQ1847::[html]Newer cord materials use fewer plies. A modern steel-belted radial with a 6-ply rating may have just 2 plies in its sidewall. Having fewer plies makes the tire more .................{
+	=%100%flexible#
+}
+
+
+// question: 29739  name: HAQ1848 
+::HAQ1848::[html]Hysteresis can best be described as the energy ................., usually in the form of a build up of heat, when a section of vulcanized rubber is deformed in a regular, constant manner.{
+	=%100%lost#
+}
+
+
+// question: 29740  name: HAQ1849 
+::HAQ1849::[html]The more you subject a tire to ................. and deformation the more heat will build up within the tire.{
+	=%100%flexing#
+}
+
+
+// question: 29741  name: HAQ1850 
+::HAQ1850::[html]The overall tire size must allow sufficient ................. between the tire and the vehicle frame.{
+	=%100%clearance#
+}
+
+
+// question: 29742  name: HAQ1851 
+::HAQ1851::[html]All manufacturers mold information about the tire into its .................{
+	=%100%sidewall#
+}
+
+
+// question: 29743  name: HAQ1852 
+::HAQ1852::[html]The aspect ratio of a tire is the ratio of its height to its width. It is usually given as a ................. The lower a tire's aspect ratio, the wider the tire is in relation to its height.{
+	=%100%percentage#
+}
+
+
+// question: 29744  name: HAQ1853 
+::HAQ1853::[html]The profile of cross-ply tires was reduced to between 78 and 82%, called a super low section. However the ................. of cross-ply tires makes them unsuitable for further reduction in profile.{
+	=%100%stiffness#
+}
+
+
+// question: 29745  name: HAQ1854 
+::HAQ1854::[html]Information on tire aspect ratio is now included in the ................. marking, together with the type of construction, and the speed rating.{
+	=%100%sidewall#
+}
+
+
+// question: 29746  name: HAQ1855 
+::HAQ1855::[html]The speed rating of the tire is given by the letter code, which indicates ................. recommended speed for that tire.{
+	=%100%maximum#
+}
+
+
+// question: 29747  name: HAQ1856 
+::HAQ1856::[html]Totally metric types are also manufactured. For example: 190 is the section width in millimeters. The aspect ratio is 65%. The speed rating is H, for up to 210 kilometers per hour. R indicates ................. ply construction.{
+	=%100%radial#
+}
+
+
+// question: 29748  name: HAQ1857 
+::HAQ1857::[html]Although tire markings may remain traditional, say, 255,45, Z-R 17, there is a worldwide move towards an I-S-O metric standard which uses letters: P for passenger, LT for light truck, C for .................{
+	=%100%commercial#
+}
+
+
+// question: 29749  name: HAQ1858 
+::HAQ1858::[html]................. tread patterns are designed to provide a range of attributes during particular driving conditions.{
+	=%100%directional#
+}
+
+
+// question: 29750  name: HAQ1859 
+::HAQ1859::[html]An ................. on the tire sidewall indicates the designed direction of forward travel.{
+	=%100%arrow#
+}
+
+
+// question: 29751  name: HAQ1860 
+::HAQ1860::[html]Asymmetric tread tires are generally ................. tires and must be fitted to the road wheel in accordance with the fitting instructions to ensure that they perform as designed under operating conditions.{
+	=%100%directional#
+}
+
+
+// question: 29752  name: HAQ1861 
+::HAQ1861::[html]The tread wear number comes from testing the tire in  ................. conditions.{
+	=%100%controlled#
+}
+
+
+// question: 29753  name: HAQ1862 
+::HAQ1862::[html]The ................. the number, the longer the life expectancy of the tread.{
+	=%100%higher#
+}
+
+
+// question: 29754  name: HAQ1863 
+::HAQ1863::[html]A traction rating is a ................. based indicator system.{
+	=%100%letter#
+}
+
+
+// question: 29755  name: HAQ1864 
+::HAQ1864::[html]The traction rating is based on the tire's ability to stop a vehicle on wet concrete and asphalt in a straight-line situation. It does not indicate the tire's ................. ability.{
+	=%100%cornering#
+}
+
+
+// question: 29756  name: HAQ1865 
+::HAQ1865::[html]It is important to note that the test and relevant rating does not indicate ................. resistance, dry or snow traction capacity, or cornering capability in wet, dry or snow conditions.{
+	=%100%hydroplaning#
+}
+
+
+// question: 29757  name: HAQ1866 
+::HAQ1866::[html]The temperature rating is a measure of how well the tire dissipates ................. and how well it handles the buildup of heat.{
+	=%100%heat#
+}
+
+
+

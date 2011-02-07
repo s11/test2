@@ -1,0 +1,148 @@
+// question: 23797  name: HAQ0132 
+::HAQ0132::[html]To make a single flare, the pipe level is placed into the ................. level with the top of the flaring bars.{
+	=%100%anvil#
+}
+
+
+// question: 23798  name: HAQ0133 
+::HAQ0133::[html]Turning the ................. screw completes the forming of the double flare.{
+	=%100%feed#
+}
+
+
+// question: 23799  name: HAQ0134 
+::HAQ0134::[html]A pipe cutter is more convenient and neater than a saw when cutting pipes and metal tubing. As the tool turns around the pipe the screw increases the ................., driving the wheel deeper and deeper through the pipe until it finally cuts right through.{
+	=%100%pressure#
+}
+
+
+// question: 23800  name: HAQ0135 
+::HAQ0135::[html]There is also larger version of the pipe cutter that's used for cutting ................. pipes.{
+	=%100%exhaust#
+}
+
+
+// question: 23801  name: HAQ0136 
+::HAQ0136::[html]To mark a line with a scriber, draw it ................. you, and keep it angled in the direction it's going to travel so it doesn't dig into the surface being marked.{
+	=%100%towards#
+}
+
+
+// question: 23802  name: HAQ0137 
+::HAQ0137::[html]................. are used to mark up circles and arcs.{
+	=%100%dividers#
+}
+
+
+// question: 23803  name: HAQ0138 
+::HAQ0138::[html]Engineer's blue is similar to marking dye. The blue marks on the housing indicate the ................. areas which must be removed to obtain a flat surface.{
+	=%100%high#
+}
+
+
+// question: 23804  name: HAQ0139 
+::HAQ0139::[html]Tools that measure the difference between any two points can be divided up according to how ................. they do it.{
+	=%100%accurately#
+}
+
+
+// question: 23805  name: HAQ0140 
+::HAQ0140::[html]The micrometer must be kept ................., especially along surfaces that do the measuring.{
+	=%100%clean#
+}
+
+
+// question: 23806  name: HAQ0141 
+::HAQ0141::[html]Roundness and squareness sometimes need measuring.  The crankshaft can be rotated in vee blocks. If it's bent, it will show on the ................. gauge.{
+	=%100%dial#
+}
+
+
+// question: 23807  name: HAQ0142 
+::HAQ0142::[html]To check whether something is square, parallel, flat, or true, a ................. edge is used.{
+	=%100%straight#
+}
+
+
+// question: 23808  name: HAQ0143 
+::HAQ0143::[html]A try ................. is a rectangular blade fitted at precisely 90 degrees to a solid stock.{
+	=%100%square#
+}
+
+
+// question: 23809  name: HAQ0144 
+::HAQ0144::[html]Modern vehicles still use a range of thread patterns but due to ................. it's getting much simpler.{
+	=%100%standardisation#
+	=%100%standardization#
+}
+
+
+// question: 23810  name: HAQ0145 
+::HAQ0145::[html]The pitch of a thread is the distance between the crests.  It's measured by a thread pitch ................., which come in sets.{
+	=%100%gauge#
+}
+
+
+// question: 23811  name: HAQ0146 
+::HAQ0146::[html]Fine threads give more grip for a given ................. than coarse threads.{
+	=%100%torque#
+}
+
+
+// question: 23812  name: HAQ0147 
+::HAQ0147::[html]The thread on the ................. stud for example, is coarse on the end that screws into the cylinder head, and fine for the steel nut that tightens the exhaust manifold to the cylinder head.{
+	=%100%engine#
+}
+
+
+// question: 23813  name: HAQ0148 
+::HAQ0148::[html]The die nut has a ................. shape to fit a spanner and it's mostly used to clean up threads that have been damaged.{
+	=%100%hexagonal#
+}
+
+
+// question: 23814  name: HAQ0149 
+::HAQ0149::[html]A ................. screw is made of hard material that cuts a mirror image of itself into the hole as you turn it.{
+	=%100%self-tapping#
+	=%100%self tapping#
+}
+
+
+// question: 23815  name: HAQ0150 
+::HAQ0150::[html]A self-locking or ................. nut can have a plastic or nylon insert.{
+	=%100%Nylock#
+}
+
+
+// question: 23816  name: HAQ0151 
+::HAQ0151::[html]Chemical compounds help prevent fasteners loosening. This creates a strong bond between the threads, but one that stays ................., so in future they can be separated with a spanner if necessary.{
+	=%100%plastic#
+}
+
+
+// question: 23817  name: HAQ0152 
+::HAQ0152::[html]An anti-seize compound ................. the chemical reaction that can make this happen and it prevents threads and fasteners from sticking together.{
+	=%100%neutralises#
+	=%100%neutralizes#
+}
+
+
+// question: 23818  name: HAQ0153 
+::HAQ0153::[html]Larger bolts and nuts must sometimes be tightened to a specified level - tight enough to hold components together but not so tight that the component or the fastener could fail. This level of tightness is called a torque .................{
+	=%100%specification#
+}
+
+
+// question: 23819  name: HAQ0154 
+::HAQ0154::[html]The most common pullers have 2 or 3 legs which ................. the part to be removed.{
+	=%100%grip#
+}
+
+
+// question: 23820  name: HAQ0155 
+::HAQ0155::[html]When using pullers, a center bolt is screwed in, producing a '.................' or pulling action which extracts the part.{
+	=%100%jacking#
+}
+
+
+

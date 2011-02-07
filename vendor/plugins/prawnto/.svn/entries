@@ -1,0 +1,85 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/prawnto
+svn://curfew.jbpub.com/online
+
+
+
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+eb650022851b87828fefe8325dc75f1b
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+
+tasks
+dir
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+7300c19ce8a86bdf6a262c19965d17ed
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+
+lib
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+c05bf005b322d0e4418171720a1fd981
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+
+README
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+e95a09e7765902d813fac5028fe859cb
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+

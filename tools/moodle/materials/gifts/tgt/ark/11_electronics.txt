@@ -1,0 +1,54 @@
+//name:TQ1365
+::TQ1365::Which of the following is NOT an electronic device?{
+	=Cable terminator.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+	~Transistor.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+	~Resistor.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+	~Semiconductor circuit.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+}
+
+
+//name:TQ1366
+::TQ1366::Which of these devices operates according to Faraday's law?{
+	=Ignition induction coil.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+	~Light emitting diode.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+	~Electrical circuit breaker.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+	~Lead acid battery.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+}
+
+
+//name:TQ1367
+::TQ1367::A stepper motor rotates in a series of precise steps, controlled:{
+	=by a microprocessor.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+	~by friction clutch plates.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+	~by a planetary gear set.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+	~by electronically variable cams.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+}
+
+
+//name:TQ1368
+::TQ1368::The main subatomic particles are the:{
+	=protons, neutrons, and electrons#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+	~nucleons, protons, and electrons.#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+	~electrons, proteins, and neutrons.#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+	~neutrinos, electrodes, and protons.#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+}
+
+
+//name:TQ1369
+::TQ1369::Tolerance is expressed as:{
+	=a plus or minus percentage.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+	~a variant in degrees.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+	~a comparative ratio.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+	~a specific number of microns.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+}
+
+
+//name:TQ1370
+::TQ1370::A transformer is an electrical device that:{
+	=steps voltage up or down.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+	~converts kinetic energy into potential energy.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+	~converts static electricity into EMF.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+	~steps amperage up or down.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+}
+
+

@@ -1,0 +1,116 @@
+/*
+Sass::SyntaxError: Undefined variable: "!colour_activity".
+on line 11 of /data/opt/deploy/cdx-online/releases/20100209133832/app/stylesheets/colour_legend.sass
+
+7:     :text-align center
+8:   th
+9:     :width 10px
+10:     &.activity
+11:       :background-color = !colour_activity
+12:     &.assessment
+13:       :background-color = !colour_assessment
+14:     &.theory
+15:       :background-color = !colour_theory
+16:     &.procedure
+17:       :background-color = !colour_procedure
+
+
+Backtrace:
+/data/opt/deploy/cdx-online/releases/20100209133832/app/stylesheets/colour_legend.sass:11
+/data/opt/deploy/cdx-online/releases/20100209133832/app/stylesheets/colour_legend.sass:11
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/script/variable.rb:27:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/prop_node.rb:99:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:181:in `_perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:158:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `map'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:193:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/rule_node.rb:159:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:181:in `_perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:158:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `map'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:193:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/rule_node.rb:159:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:181:in `_perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:158:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `map'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:193:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/rule_node.rb:159:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:181:in `_perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:158:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `map'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/import_node.rb:35:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:181:in `_perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:158:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `map'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:202:in `perform_children'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:193:in `perform!'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:181:in `_perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:158:in `perform'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/tree/node.rb:103:in `render'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:96:in `update_stylesheet'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:82:in `update_stylesheets'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:77:in `each'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:77:in `update_stylesheets'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:75:in `each'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:75:in `update_stylesheets'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin.rb:62:in `check_for_updates'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/haml-2.2.16/rails/../lib/sass/plugin/rails.rb:18:in `process'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:106:in `call'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/rack/request_handler.rb:92:in `process_request'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_request_handler.rb:207:in `main_loop'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/railz/application_spawner.rb:385:in `start_request_handler'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/railz/application_spawner.rb:343:in `handle_spawn_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/utils.rb:184:in `safe_fork'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/railz/application_spawner.rb:341:in `handle_spawn_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:352:in `__send__'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:352:in `main_loop'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:196:in `start_synchronously'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:163:in `start'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/railz/application_spawner.rb:209:in `start'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/spawn_manager.rb:262:in `spawn_rails_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server_collection.rb:126:in `lookup_or_add'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/spawn_manager.rb:256:in `spawn_rails_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server_collection.rb:80:in `synchronize'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/spawn_manager.rb:255:in `spawn_rails_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/spawn_manager.rb:154:in `spawn_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/spawn_manager.rb:287:in `handle_spawn_application'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:352:in `__send__'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:352:in `main_loop'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/lib/phusion_passenger/abstract_server.rb:196:in `start_synchronously'
+/opt/ruby-enterprise-1.8.6-20090610/lib/ruby/gems/1.8/gems/passenger-2.2.8/bin/passenger-spawn-server:61
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Sass::SyntaxError: Undefined variable: \"!colour_activity\".\A on line 11 of /data/opt/deploy/cdx-online/releases/20100209133832/app/stylesheets/colour_legend.sass\A \A 7:     :text-align center\A 8:   th\A 9:     :width 10px\A 10:     &.activity\A 11:       :background-color = !colour_activity\A 12:     &.assessment\A 13:       :background-color = !colour_assessment\A 14:     &.theory\A 15:       :background-color = !colour_theory\A 16:     &.procedure\A 17:       :background-color = !colour_procedure\A "; }

@@ -1,0 +1,54 @@
+//name:TQ1145
+::TQ1145::What MUST be done when jump starting a vehicle fitted with electronic control units?{
+	=On the vehicle being started, turn ALL systems off before connecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+	~Turn the headlights on before connecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+	~Turn on the headlights on the slave vehicle before disconnecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+	~Turn off ALL systems on the slave vehicle before connecting the slave battery.#Devices are available to stop any sparks or electrical surges damaging vehicle electronics. They are usually fitted in parallel to the terminals of the battery being jump started. Sometimes the device is fitted into the jumper leads.
+}
+
+
+//name:TQ1146
+::TQ1146::Which of the following is the most correct when connecting booster leads to start a vehicle with a discharged battery?{
+	=Positive to positive, and negative to engine block.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+	~Positive to positive, and negative to engine valve cover.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+	~Positive to positive, and negative to engine intake manifold.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+	~Positive to positive, and negative to negative.#Because the starter motor is bolted to the engine block, connecting the negative booster lead to the engine block provides a better circuit.
+}
+
+
+//name:TQ1147
+::TQ1147::Why is it good practice to switch on the headlamps of the vehicle with the discharged battery prior to disconnecting the service battery?{
+	=To absorb any sudden increase in voltage as the alternator increases its output.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+	~To test the vehicle lighting system.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+	~To eliminate the risk of battery explosion.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+	~To protect your jump leads.#Always adhere to manufacturer's recommended or best practice procedures to protect both yourself and the vehicle.
+}
+
+
+//name:TQ1148
+::TQ1148::Which of the following must be disconnected in order to crank the engine?{
+	=Ignition system.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+	~Ignition switch.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+	~Igniter.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+	~Battery earth.#In order to crank the engine, the ignition system must be disabled. How this is done will depend upon the vehicle system.
+}
+
+
+//name:TQ1149
+::TQ1149::When checking a starting system, what is the best form of meter to use for voltage?{
+	=A DVOM.#DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+	~A voltmeter only.#DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+	~An ammeter only.#DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+	~Any of these.# DVOMs come in many forms. Always follow the specific manufacturer's instructions in the use of the meter or you could seriously damage the meter or electrical circuit.
+}
+
+
+//name:TQ1150
+::TQ1150::When undertaking a cranking engine test what voltage should be available in the system to ensure that it is in good condition? {
+	=Above 10.25 volts.#If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+	~Below 9.6 volts.# If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+	~Between 10.25 and 9.6 volts.# If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+	~Above 11.8 volts.# If the reading remains above 10.25 Volts then the system is in good condition. If the reading is below 10.25 Volts then this may indicate a fault with the starting system and further investigation is required.
+}
+
+

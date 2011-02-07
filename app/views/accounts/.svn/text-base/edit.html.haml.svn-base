@@ -1,0 +1,31 @@
+- form_for(resource, :url => resource_path, :method => :put) do |f|
+  #tabs
+    = render :partial => 'tabs'
+
+    #tabs-subscription= render :partial => 'subscription', :locals => { :f => f }
+
+    - if Rails.env.staging?
+      #tabs-menu= render :partial => 'menu', :locals => { :f => f }
+    - else
+      - if current_menu.is_custom? || current_menu.is_client_locked?
+        - if current_client.menu_version.has_later_version?
+          #tabs-menu= render :partial => 'menu', :locals => { :f => f }
+      - else
+        #tabs-menu= render :partial => 'menu', :locals => { :f => f }
+
+    - if current_menu.id == 2
+      #tabs-natef= render :partial => 'natef', :locals => { :f => f }
+
+    #tabs-video= render :partial => 'video', :locals => { :f => f }
+
+      
+- content_for(:onload) do
+  :plain
+    $('#tabs').tabs();
+
+    $('#tabs-menu .menu').click(function() {
+      var state = $(this).find('input:checkbox').attr('radio');
+      $(this).find('input:radio').attr('checked', !state);
+      $('#tabs-menu .menu').removeClass('selected');
+      $(this).toggleClass('selected');
+    });

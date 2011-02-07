@@ -1,0 +1,45 @@
+//name:TQ1595
+::TQ1595::Before refitting the engine to the vehicle, ensure:{
+	=that engine bay is clean and free from noticeable defects or modifications, and the chassis is secured in position.#Clean the engine bay and ensure it has not been modified or restored in any way. You need to check it very carefully. Make sure the workspace around and under the car is clean and the chassis securely positioned once again.
+	~that the chassis is secured in position.#Clean the engine bay and ensure it has not been modified or restored in any way. You need to check it very carefully. Make sure the workspace around and under the car is clean and the chassis securely positioned once again.
+	~that you have a second person available for help if you run into trouble.#Clean the engine bay and ensure it has not been modified or restored in any way. You need to check it very carefully. Make sure the workspace around and under the car is clean and the chassis securely positioned once again.
+	~that the paint is dry and does not get scratched during installation.#Clean the engine bay and ensure it has not been modified or restored in any way. You need to check it very carefully. Make sure the workspace around and under the car is clean and the chassis securely positioned once again.
+}
+
+
+//name:TQ1596
+::TQ1596::If an automatic transmission is fitted to the engine before it is inserted into the engine bay then:{
+	=the torque converter should be filled with fluid but the transmission itself should be empty.#If you are hoisting the engine and automatic transmission together, you should have fluid in the torque converter, but none in the transmisssion. That way, none will leak out the rear tailshaft while it's angled for the install.
+	~both the torque converter and the transmission should be installed empty of fluid.#If you are hoisting the engine and automatic transmission together, you should have fluid in the torque converter, but none in the transmisssion. That way, none will leak out the rear tailshaft while it's angled for the install.
+	~both the torque converter and the transmission should be installed full of fluid.#If you are hoisting the engine and automatic transmission together, you should have fluid in the torque converter, but none in the transmisssion. That way, none will leak out the rear tailshaft while it's angled for the install.
+	~ensure the new transmission mounting is fitted first.#If you are hoisting the engine and automatic transmission together, you should have fluid in the torque converter, but none in the transmisssion. That way, none will leak out the rear tailshaft while it's angled for the install.
+}
+
+
+//name:TQ1597
+::TQ1597::When lowering the engine into the engine bay, ensure that:{
+	=the engine mounts line up and the securing bolts can be attached.#Sometimes the mounts are difficult to align and it seems like the engine position needs to move toward the rear of the chassis to allow the mounts to drop in place. If this happens, either loosen the lower halves of the mounts on the frame, loosen the bolts that hold the transmission to its frame crossmember, or pry the lower halves over as someone else slowly lowers the motor.
+	~the engine mounts line up by rocking the engine backwards and forwards until they get close and the weight of the engine forces them into place.#Sometimes the mounts are difficult to align and it seems like the engine position needs to move toward the rear of the chassis to allow the mounts to drop in place. If this happens, either loosen the lower halves of the mounts on the frame, loosen the bolts that hold the transmission to its frame crossmember, or pry the lower halves over as someone else slowly lowers the motor.
+	~the engine mountings are let off until the engine is in position.#Sometimes the mounts are difficult to align and it seems like the engine position needs to move toward the rear of the chassis to allow the mounts to drop in place. If this happens, either loosen the lower halves of the mounts on the frame, loosen the bolts that hold the transmission to its frame crossmember, or pry the lower halves over as someone else slowly lowers the motor.
+	~all the mounting brackets are loose to make alignment easier.#Sometimes the mounts are difficult to align and it seems like the engine position needs to move toward the rear of the chassis to allow the mounts to drop in place. If this happens, either loosen the lower halves of the mounts on the frame, loosen the bolts that hold the transmission to its frame crossmember, or pry the lower halves over as someone else slowly lowers the motor.
+}
+
+
+//name:TQ1598
+::TQ1598::When re-connecting the exhaust pipes:{
+	=fit new exhaust gaskets to the engine pipes.#The gasket set for the engine may or may not have exhaust gaskets. If the old ones are not reusable, fit a new set now.
+	~the old gaskets can be re-fitted with exhaust putty sealant.#The gasket set for the engine may or may not have exhaust gaskets. If the old ones are not reusable, fit a new set now.
+	~the old gaskets can be re-fitted without any sealant.#The gasket set for the engine may or may not have exhaust gaskets. If the old ones are not reusable, fit a new set now.
+	~fit new exhaust gaskets to the engine pipes and seal the outside with a muffler putty type hardening compound.#The gasket set for the engine may or may not have exhaust gaskets. If the old ones are not reusable, fit a new set now.
+}
+
+
+//name:TQ1599
+::TQ1599::The last engine peripheral to be connected is usually:{
+	=the series of vacuum lines.#The last steps are usually connecting the series of vacuum lines and linkages. Pictures, good notes and clear labels are vital, as many of these hoses and linkages look alike.
+	~the oil filter.#The last steps are usually connecting the series of vacuum lines and linkages. Pictures, good notes and clear labels are vital, as many of these hoses and linkages look alike.
+	~the starter motor and alternator.#The last steps are usually connecting the series of vacuum lines and linkages. Pictures, good notes and clear labels are vital, as many of these hoses and linkages look alike.
+	~the power steering pump and reservoir.#The last steps are usually connecting the series of vacuum lines and linkages. Pictures, good notes and clear labels are vital, as many of these hoses and linkages look alike.
+}
+
+

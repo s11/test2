@@ -1,0 +1,214 @@
+//name:TQ0207
+::TQ0207::An air leak between the air-cleaner and the carburetor would:{
+	=allow dirt to enter the engine.#Any abrasives that enter the engine can cause wear and damage.
+	~have no effect at all.#Any abrasives that enter the engine can cause wear and damage.
+	~cause the engine to run rich.#Any abrasives that enter the engine can cause wear and damage.
+	~cause the engine to run lean.#Any abrasives that enter the engine can cause wear and damage.
+}
+
+
+//name:TQ0208
+::TQ0208::The air cleaner system performs another function apart from cleaning the intake air. What is it?{
+	=It helps silence the resonate frequency of the incoming air. #The air cleaner also has a silencing effect, muffling noise produced by the air entering the engine.  
+	~It regulates the volume of air required.#The air cleaner also has a silencing effect, muffling noise produced by the air entering the engine.  
+	~It performs no other function.#The air cleaner also has a silencing effect, muffling noise produced by the air entering the engine.  
+	~It cools the incoming air.#The air cleaner also has a silencing effect, muffling noise produced by the air entering the engine.  
+}
+
+
+//name:TQ0209
+::TQ0209::What determines the position of the air cleaner assembly?{
+	=A combination of available space and hood (bonnet) profile. #The air cleaner on any engine can be in a range of positions.  Position is usually decided by how much space there is, or by the hood (bonnet) profile.  
+	~The hood (bonnet) profile of the vehicle. #The air cleaner on any engine can be in a range of positions.  Position is usually decided by how much space there is, or by the hood (bonnet) profile.  
+	~The amount of space available in the engine compartment. #The air cleaner on any engine can be in a range of positions.  Position is usually decided by how much space there is, or by the hood (bonnet) profile.  
+	~The size of the engine. #The air cleaner on any engine can be in a range of positions.  Position is usually decided by how much space there is, or by the hood (bonnet) profile.  
+}
+
+
+//name:TQ0210
+::TQ0210::Technician A says that replacing the air cleaner element with a clean one will make the engine return to and run in designed and prescribed engine value limits and the system will not normally need to be readjusted before putting the vehicle back into use. Technician B says that changing an oil filter element will make the engine run more evenly because of increased oil flow. Who is correct?{
+	=Technician A.#Technician A is correct because air filter element replacement is a normal service item that does not require engine calibration changes.
+	~Technician B.#Technician A is correct because air filter element replacement is a normal service item that does not require engine calibration changes.
+	~Both Technician A and Technician B.#Technician A is correct because air filter element replacement is a normal service item that does not require engine calibration changes.
+	~Neither Technician A nor Technician B.#Technician A is correct because air filter element replacement is a normal service item that does not require engine calibration changes.
+}
+
+
+//name:TQ0211
+::TQ0211::A dry air-cleaner removes impurities from the air by:{
+	=passing the air through a pleated element.#An air cleaner filters air that passes through it to stop harmful particles reaching the engine.  
+	~causing the air to change direction suddenly.#An air cleaner filters air that passes through it to stop harmful particles reaching the engine.  
+	~passing the air through an impregnated foam.#An air cleaner filters air that passes through it to stop harmful particles reaching the engine.  
+	~rotating the air through a wire mesh.#An air cleaner filters air that passes through it to stop harmful particles reaching the engine.  
+}
+
+
+//name:TQ0212
+::TQ0212::The spinning motion of air flowing into an air cleaner is called centrifugal action. This action increases the air path and filtering capabilities.{
+	=TRUE#Centrifugal force throws the heavier dirt particles outwards. They can collect in a separate bowl at the bottom of the cleaner.  
+	~FALSE#Centrifugal force throws the heavier dirt particles outwards. They can collect in a separate bowl at the bottom of the cleaner.  
+}
+
+
+//name:TQ0213
+::TQ0213::What is the most common type of air cleaner system used on vehicles?{
+	=Pleated paper based dry-element type. #The most common air cleaner is called a dry-element type. It has a replaceable dry-element of pleated paper or cellulose fiber that doesn't need to be wet or use oil to act as a filter.  
+	~Oil bath type. #The most common air cleaner is called a dry-element type. It has a replaceable dry-element of pleated paper or cellulose fiber that doesn't need to be wet or use oil to act as a filter.  
+	~Flame arresting type. #The most common air cleaner is called a dry-element type. It has a replaceable dry-element of pleated paper or cellulose fiber that doesn't need to be wet or use oil to act as a filter.  
+	~Metal gauze type. #The most common air cleaner is called a dry-element type. It has a replaceable dry-element of pleated paper or cellulose fiber that doesn't need to be wet or use oil to act as a filter.  
+}
+
+
+//name:TQ0214
+::TQ0214::What percentage of impurities can a cyclone pre-cleaner exclude?{
+	=0.9#An efficient cyclone pre-cleaner can remove up to 90% of particles before they reach the main element.  
+	~0.6#An efficient cyclone pre-cleaner can remove up to 90% of particles before they reach the main element.  
+	~0.3#An efficient cyclone pre-cleaner can remove up to 90% of particles before they reach the main element.  
+	~0.1#An efficient cyclone pre-cleaner can remove up to 90% of particles before they reach the main element.  
+}
+
+
+//name:TQ0215
+::TQ0215::Where would you mount a cyclone pre-cleaner?{
+	=Before the main air filter.#This cleaning system removes large particles from the air stream and effectively prolongs the life of the small micron filtration element.
+	~After the main air filter. #This cleaning system removes large particles from the air stream and effectively prolongs the life of the small micron filtration element.
+	~In between the fuel intake and the injectors. #This cleaning system removes large particles from the air stream and effectively prolongs the life of the small micron filtration element.
+	~In between the air intake and the injectors. #This cleaning system removes large particles from the air stream and effectively prolongs the life of the small micron filtration element.
+}
+
+
+//name:TQ0216
+::TQ0216::What is the main reason that most paper air cleaner filters are pleated?{
+	=There is more surface area for filtering.#The paper is pleated because that gives a much larger surface area in the space. The element is designed to be fine enough to trap impurities, but porous enough to let air through easily.  
+	~They are cheaper to produce. #The paper is pleated because that gives a much larger surface area in the space. The element is designed to be fine enough to trap impurities, but porous enough to let air through easily.  
+	~They help to reduce air intake noise.#The paper is pleated because that gives a much larger surface area in the space. The element is designed to be fine enough to trap impurities, but porous enough to let air through easily.  
+	~They are stronger.#The paper is pleated because that gives a much larger surface area in the space. The element is designed to be fine enough to trap impurities, but porous enough to let air through easily.  
+}
+
+
+//name:TQ0217
+::TQ0217::The turbine of a turbocharger is driven by:{
+	=the outgoing exhaust gases. #The turbocharger uses the exhaust flow from the engine to spin a turbine, which in turn spins an air pump.
+	~the incoming induction air. #The turbocharger uses the exhaust flow from the engine to spin a turbine, which in turn spins an air pump.
+	~a belt drive from the engine crankshaft. #The turbocharger uses the exhaust flow from the engine to spin a turbine, which in turn spins an air pump.
+	~an engine-driven turbo fan. #The turbocharger uses the exhaust flow from the engine to spin a turbine, which in turn spins an air pump.
+}
+
+
+//name:TQ0218
+::TQ0218::Turbocharger bearings require constant cooling because:{
+	=the turbine is driven by hot exhaust gases which could cause overheating.#A turbocharger uses energy that's normally wasted through the exhaust. Exhaust gases enter a turbine and make it spin. The more gases, the faster it spins. 
+	~the turbocharger is close to the engine block. #A turbocharger uses energy that's normally wasted through the exhaust. Exhaust gases enter a turbine and make it spin. The more gases, the faster it spins. 
+	~a compressor heats the intake air.#A turbocharger uses energy that's normally wasted through the exhaust. Exhaust gases enter a turbine and make it spin. The more gases, the faster it spins. 
+	~the shaft spins at over 100 000 RPM. #A turbocharger uses energy that's normally wasted through the exhaust. Exhaust gases enter a turbine and make it spin. The more gases, the faster it spins. 
+}
+
+
+//name:TQ0219
+::TQ0219::Technician A says that superchargers are driven by exhaust gases. Technician B says that turbochargers are belt driven. Who is correct?{
+	~Technician A.#Neither technician is correct as turbochargers are driven by exhaust gases and superchargers are belt or gear driven.
+	~Technician B.#Neither technician is correct as turbochargers are driven by exhaust gases and superchargers are belt or gear driven.
+	~Both Technician A & Technician B.#Neither technician is correct as turbochargers are driven by exhaust gases and superchargers are belt or gear driven.
+	=Neither Technician A or Technician B.#Neither technician is correct as turbochargers are driven by exhaust gases and superchargers are belt or gear driven.
+}
+
+
+//name:TQ0220
+::TQ0220::Technician A says that turbocharger speeds can exceed 100,000 RPM. Technician B says that turbocharger bearings are pressure lubricated from the engine oil system. Who is correct?{
+	~Technician A.#Both technicians are correct because when the turbocharger is driven by the exhaust gases it can exceed 100,000 RPM and turbochargers are lubricated by the engine oil.
+	~Technician B.#Both technicians are correct because when the turbocharger is driven by the exhaust gases it can exceed 100,000 RPM and turbochargers are lubricated by the engine oil.
+	=Both Technician A & Technician B.#Both technicians are correct because when the turbocharger is driven by the exhaust gases it can exceed 100,000 RPM and turbochargers are lubricated by the engine oil.
+	~Neither Technician A or Technician B.#Both technicians are correct because when the turbocharger is driven by the exhaust gases it can exceed 100,000 RPM and turbochargers are lubricated by the engine oil.
+}
+
+
+//name:TQ0221
+::TQ0221::Although cooler air is more dense and therefore provides for a better air/fuel mixture, some air intake systems have heaters built into them to assist in the initial warm up cycle of the engine. Why is this?{
+	=Fuel does not readily vaporize with very cold air. The heater only operates during the warm up cycle and is not used during normal operation.#Cooler air is more dense, so it contains more oxygen which should help the fuel burn more efficiently, but fuel doesn't vaporize very well in cold air.  
+	~The heater is required to make the air more dense. #Cooler air is more dense, so it contains more oxygen which should help the fuel burn more efficiently, but fuel doesn't vaporize very well in cold air.  
+	~Fuel readily vaporizes in cold conditions. The heater is there as a starting aid only.#Cooler air is more dense, so it contains more oxygen which should help the fuel burn more efficiently, but fuel doesn't vaporize very well in cold air.  
+	~The heater is required to make the air less dense. #Cooler air is more dense, so it contains more oxygen which should help the fuel burn more efficiently, but fuel doesn't vaporize very well in cold air.  
+}
+
+
+//name:TQ0222
+::TQ0222::Vaporization of the fuel for a cold engine can be assisted by:{
+	=a heated air intake system.#The intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.  
+	~delay valves in the fuel line. #The intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.  
+	~PCV valve operation. #The intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.  
+	~EGR valve operation.#The intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.  
+}
+
+
+//name:TQ0223
+::TQ0223::What is the purpose of the thermostatic valve fitted to some air cleaners?{
+	=To control how much hot air enters the intake .#On vehicles with emission controls, air cleaners use a thermostatic valve to control how much hot air enters the air cleaner.  
+	~To stop air flow when the engine is cold. #On vehicles with emission controls, air cleaners use a thermostatic valve to control how much hot air enters the air cleaner.  
+	~To supply hot air when the engine is hot.#On vehicles with emission controls, air cleaners use a thermostatic valve to control how much hot air enters the air cleaner.  
+	~To stop coolant flow when the engine is cold.#On vehicles with emission controls, air cleaners use a thermostatic valve to control how much hot air enters the air cleaner.  
+}
+
+
+//name:TQ0224
+::TQ0224::Intake manifold heating is designed to:{
+	=assist fuel vaporization at low temperatures.#Manifold heating aids in the vaporization of the air/fuel mixture. To do this, the intake manifold is provided with a controlled system of heating. This system of heating must heat the mixture enough to aid in vaporization without heating it to the point of reducing volumetric efficiency.
+	~prevent vapor locks.#Manifold heating aids in the vaporization of the air/fuel mixture. To do this, the intake manifold is provided with a controlled system of heating. This system of heating must heat the mixture enough to aid in vaporization without heating it to the point of reducing volumetric efficiency.
+	~increase engine operating temperatures.#Manifold heating aids in the vaporization of the air/fuel mixture. To do this, the intake manifold is provided with a controlled system of heating. This system of heating must heat the mixture enough to aid in vaporization without heating it to the point of reducing volumetric efficiency.
+	~assist fuel atomization at low temperatures.#Manifold heating aids in the vaporization of the air/fuel mixture. To do this, the intake manifold is provided with a controlled system of heating. This system of heating must heat the mixture enough to aid in vaporization without heating it to the point of reducing volumetric efficiency.
+}
+
+
+//name:TQ0225
+::TQ0225::A heated air intake system is often used on a cold engine to:{
+	=assist in the vaporization of the fuel.#This intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.
+	~reduce the number of delay valves in the fuel line.#This intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.
+	~assist PCV valve operation.#This intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.
+	~assist EGR valve operation.#This intake manifold has a water-jacket under the carburetor mounting. Hot coolant from the cooling system flows through the water-jacket and heats the manifold. Heating is required in a carbureted engine to provide better vaporization of the air/fuel mixture.
+}
+
+
+//name:TQ0226
+::TQ0226::Are intake manifolds always made of light alloys?{
+	=No, many vehicles use intake manifolds made from special reinforced plastics. #Traditionally, intake manifolds were normally made of light alloy metal castings, however in approximately 70% of modern vehicles the intake manifold is made from special heat resistant polymers and plastics. Manifolds using this type of construction lighten manifold weight by up to 50% and contribute to higher fuel efficiency. 
+	~Yes, many vehicles use intake manifolds made from metal alloys with special reinforced plastics embedded into the materials. #Traditionally, intake manifolds were normally made of light alloy metal castings, however in approximately 70% of modern vehicles the intake manifold is made from special heat resistant polymers and plastics. Manifolds using this type of construction lighten manifold weight by up to 50% and contribute to higher fuel efficiency. 
+	~Yes, vehicles use intake manifolds made from metal alloys. #Traditionally, intake manifolds were normally made of light alloy metal castings, however in approximately 70% of modern vehicles the intake manifold is made from special heat resistant polymers and plastics. Manifolds using this type of construction lighten manifold weight by up to 50% and contribute to higher fuel efficiency. 
+	~No, vehicles only use intake manifolds made from special reinforced plastics. #Traditionally, intake manifolds were normally made of light alloy metal castings, however in approximately 70% of modern vehicles the intake manifold is made from special heat resistant polymers and plastics. Manifolds using this type of construction lighten manifold weight by up to 50% and contribute to higher fuel efficiency. 
+}
+
+
+//name:TQ0227
+::TQ0227::On a carbureted engine air and fuel is carried into the engine cylinders by the:{
+	=intake manifold.#On many cars the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber.
+	~air cleaner pipe.#On many cars the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber.
+	~unit injector.#On many cars the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber.
+	~jet unit.#On many cars the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber.
+}
+
+
+//name:TQ0228
+::TQ0228::The primary components of the automotive intake system are:{
+	=intake manifold, throttle body/carburetor, air induction components.#The primary components of the automotive intake system are: intake manifold, throttle body/carburetor, and air induction components such as air cleaner and ducting.
+	~intake manifold, carburetor.#The primary components of the automotive intake system are: intake manifold, throttle body/carburetor, and air induction components such as air cleaner and ducting.
+	~carburetor, air induction components.#The primary components of the automotive intake system are: intake manifold, throttle body/carburetor, and air induction components such as air cleaner and ducting.
+	~air cleaner, ducting, intake manifold.#The primary components of the automotive intake system are: intake manifold, throttle body/carburetor, and air induction components such as air cleaner and ducting.
+}
+
+
+//name:TQ0229
+::TQ0229::In many EFI engine vehicles, the air cleaner is mounted away from the engine. This is because:{
+	=it is mounted where it can get cool, clean air, which is then carried to the throttle body.#In many vehicles, the air cleaner is mounted where it can get cool, clean air. This air is then carried to the throttle body by a long, flexible duct.
+	~it is mounted with enough space to heat up the air before entering the throttle body.#In many vehicles, the air cleaner is mounted where it can get cool, clean air. This air is then carried to the throttle body by a long, flexible duct.
+	~it is mounted with enough space to cool down the air before entering the throttle body#In many vehicles, the air cleaner is mounted where it can get cool, clean air. This air is then carried to the throttle body by a long, flexible duct.
+	~it is mounted as close as possible to the throttle body.#In many vehicles, the air cleaner is mounted where it can get cool, clean air. This air is then carried to the throttle body by a long, flexible duct.
+}
+
+
+//name:TQ0230
+::TQ0230::What is the term whereby the incoming air is compressed so that a greater volume and mass of air is forced into a cylinder during the intake stroke?{
+	=Forced induction.#In a naturally aspirated engine, one without forced induction, volumetric efficiency can never be 100%. With forced induction, the incoming air is compressed, so that a greater volume and mass of air is forced into the cylinder during the intake stroke. That takes the volumetric efficiency to above 100%
+	~Volumetric efficiency.#In a naturally aspirated engine, one without forced induction, volumetric efficiency can never be 100%. With forced induction, the incoming air is compressed, so that a greater volume and mass of air is forced into the cylinder during the intake stroke. That takes the volumetric efficiency to above 100%
+	~Forced efficiency.#In a naturally aspirated engine, one without forced induction, volumetric efficiency can never be 100%. With forced induction, the incoming air is compressed, so that a greater volume and mass of air is forced into the cylinder during the intake stroke. That takes the volumetric efficiency to above 100%
+	~Volumetric induction.#In a naturally aspirated engine, one without forced induction, volumetric efficiency can never be 100%. With forced induction, the incoming air is compressed, so that a greater volume and mass of air is forced into the cylinder during the intake stroke. That takes the volumetric efficiency to above 100%
+}
+
+

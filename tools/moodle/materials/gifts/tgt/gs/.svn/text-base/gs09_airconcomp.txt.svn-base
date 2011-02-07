@@ -1,0 +1,30 @@
+//name:TQ1228
+::TQ1228::If a refrigerant system flexible rubber hose blows out, is it possible to fit any rubber hose until we can source the correct part?{
+	=No#Refrigerant hose is made for the purpose of transporting refrigerant. Other types of hoses may leak refrigerant or break down in the presence of refrigerant.
+	~Yes#Refrigerant hose is made for the purpose of transporting refrigerant. Other types of hoses may leak refrigerant or break down in the presence of refrigerant.
+}
+
+
+//name:TQ1234
+::TQ1234::What has been done to prevent the wrong lubricant or refrigerant being installed during servicing?{
+	=The service ports have been changed.#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+	~Warning labels have been affixed to the parts#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+	~Modern air-conditioning systems are smaller than older air-conditioning systems.#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+	~Modern air-conditioning systems are larger than older air-conditioning systems.#Service ports on air-conditioning systems have been changed so that the service equipment for an R-12 system cannot be connected to an R-134-A system.
+}
+
+
+//name:TQ1235
+::TQ1235::It is important the refrigerant has a low boiling point.{
+	=TRUE#The refrigerant is used to absorb, transfer, and release heat in the air-conditioning circuit.
+	~FALSE#The refrigerant is used to absorb, transfer, and release heat in the air-conditioning circuit.
+}
+
+
+//name:TQ1239
+::TQ1239::How does the heater element demist the glass in a rear window?{
+	=Electrical resistance causes wires embedded in the glass to heat up.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+	~Heat is conducted from the engine block to the heater element via insulated copper connections.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+	~Steam from the cooling system is circulated through the narrow tubes of the heater element around the edges of the window.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+	~Warm air is gently blown upwards over the heater element to warm the inside of the glass surface of the window.#There are many small resistance wires embedded within the glass and crossing from one side to the other. When the rear demister switch is turned on, electrical current flows through the wire causing it to heat.
+}

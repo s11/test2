@@ -1,0 +1,136 @@
+// question: 28959  name: HAQ1605 
+::HAQ1605::[html]A ................. steering system has a steering wheel, a main-shaft, universal joints, and an intermediate shaft. When the steering is turned, movement is transferred by the shafts to the pinion.{
+	=%100%rack-and-pinion#
+}
+
+
+// question: 28960  name: HAQ1606 
+::HAQ1606::[html]A steering system with ................. gearing, provides a gear reduction, and a 90 degree change in direction. It has more parts and joints than the rack type, but it is more robust, and may be used on heavier vehicles.{
+	=%100%worm#
+}
+
+
+// question: 28961  name: HAQ1607 
+::HAQ1607::[html]4-wheel steering can be controlled mechanically, through a direct connection, between the front and rear steering boxes. Or it can be .................-controlled.{
+	=%100%computer#
+}
+
+
+// question: 28962  name: HAQ1608 
+::HAQ1608::[html]The steering system must provide control over the direction of travel of the vehicle; good ................. for parking the vehicle.{
+	=%100%manoeuvrability#
+	=%100%maneuverability#
+}
+
+
+// question: 28963  name: HAQ1609 
+::HAQ1609::[html]The steering system must provide control over the direction of travel of the vehicle;  smooth ................. from turns.{
+	=%100%recovery#
+}
+
+
+// question: 28964  name: HAQ1610 
+::HAQ1610::[html]The steering system must provide control over the direction of travel of the vehicle;  and minimum ................. of road shocks from the road surface.{
+	=%100%transmission#
+}
+
+
+// question: 28965  name: HAQ1611 
+::HAQ1611::[html]The steering box converts the rotary motion of the steering wheel, to the linear motion needed to steer the vehicle. It also gives the driver a ................. advantage.{
+	=%100%mechanical#
+}
+
+
+// question: 28966  name: HAQ1612 
+::HAQ1612::[html]The rack is supported at the other end in the rack housing, or tube, by a bush, normally of nylon. Nylon is used because it has a low coefficient of ................., and low wear rates.{
+	=%100%friction#
+}
+
+
+// question: 28967  name: HAQ1613 
+::HAQ1613::[html]The pinion is supported by 2 bearings in the rack housing. These bearings are ................. to keep the pinion in the correct position, relative to the rack, and to eliminate free play.{
+	=%100%pre-loaded#
+	=%100%pre loaded#
+}
+
+
+// question: 28968  name: HAQ1614 
+::HAQ1614::[html]Each end of the rack is protected from dirt and water by a flexible, synthetic, rubber ................., attached to the rack housing and to the tie rod.{
+	=%100%bellows#
+}
+
+
+// question: 28977  name: HAQ1615 
+::HAQ1615::[html]4-wheel steering can be ................. controlled or it can be mechanical.{
+	=%100%computer#
+}
+
+
+// question: 28978  name: HAQ1616 
+::HAQ1616::[html]A mechanically controlled steering system has a direct connection between the front and rear steering boxes, or the rear wheels can be mounted on special, compliant .................{
+	=%100%mounts#
+}
+
+
+// question: 28979  name: HAQ1617 
+::HAQ1617::[html]A ................. pump is driven from the engine, to provide  pressure to help the driver.{
+	=%100%hydraulic#
+}
+
+
+// question: 28980  name: HAQ1618 
+::HAQ1618::[html]The relationships between the steering system, the wheel positions, and the suspension system, form what is called the steering .................{
+	=%100%geometry#
+}
+
+
+// question: 28969  name: HAQ3735 
+::HAQ3735::[html]The primary components of the rack and pinion steering system are: Rubber .................; Pinion; Rack; Inner ball joint or socket; Tie-rod.{
+	=%100%bellows#
+}
+
+
+// question: 28970  name: HAQ3736 
+::HAQ3736::[html]The rack slides in the housing and is moved by the action of the meshed pinion into the teeth of the rack. It normally has an adjustable ................. opposite the pinion to control their meshing, and a nylon bush at the other end.{
+	=%100%bush#
+}
+
+
+// question: 28971  name: HAQ3737 
+::HAQ3737::[html]The inner ball joint is attached to the tie-rod, to allow for ................. movement and slight changes in steering angles.{
+	=%100%suspension#
+}
+
+
+// question: 28972  name: HAQ3738 
+::HAQ3738::[html]The primary components of the recirculating ball and nut steering system are: ................. arm shaft; Idler arm; Track rod or center link; Tie-rod; Tie-rod end; Adjustment sleeve.{
+	=%100%Pitman#
+	=%100%pitman#
+}
+
+
+// question: 28973  name: HAQ3739 
+::HAQ3739::[html]The pitman arm shaft is attached to the steering box by a ................. and nut.{
+	=%100%spline#
+}
+
+
+// question: 28974  name: HAQ3740 
+::HAQ3740::[html]The idler arm is attached to the chassis and is positioned ................. to the pitman arm.{
+	=%100%parallel#
+}
+
+
+// question: 28975  name: HAQ3741 
+::HAQ3741::[html]The tie rods connect the track rod to the steering arms that are located on the steering .................{
+	=%100%knuckles#
+}
+
+
+// question: 28976  name: HAQ3742 
+::HAQ3742::[html]Tie rod ends are attached to the tie-rod shaft. These pivot as the ................. is extended or retracted when the vehicle is negotiating turns.{
+	=%100%rack#
+}
+
+
+

@@ -1,0 +1,88 @@
+//name:TQ0800
+::TQ0800::Fluid velocity is increased in a torque converter by:{
+	=the shape of the turbine blades.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~decreasing fluid pressure.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~the action of the stator.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~increasing fluid pressure.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+}
+
+
+//name:TQ0801
+::TQ0801::The torque converter has three components. They are:{
+	=turbine, impeller and stator.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbine, propeller and clutch.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbo, impeller and clutch.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbo, propeller and stator.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+}
+
+
+//name:TQ0802
+::TQ0802::The torque converter impeller turns:{
+	=with the engine.#The impeller is driven by the engine and turns at crankshaft speed.
+	~with the gearbox.#The impeller is driven by the engine and turns at crankshaft speed.
+	~the gearbox.#The impeller is driven by the engine and turns at crankshaft speed.
+	~the engine.#The impeller is driven by the engine and turns at crankshaft speed.
+}
+
+
+//name:TQ0803
+::TQ0803::The torque converter stator sits on a central hub that is attached to a:{
+	=one way clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~two way clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~reversing clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~reversible clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+}
+
+
+//name:TQ0804
+::TQ0804::The torque converter turbine turns:{
+	=the gearbox.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~with the gearbox.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~with the engine.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~the engine.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+}
+
+
+//name:TQ0810
+::TQ0810::The compound gear set is used in an automatic transmission instead of the simple gear set because the:{
+	=compound gear set provides more ratios.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~compound gear set is stronger.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~simple gear set is not as strong.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~compound gear set is easier to use.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+}
+
+
+//name:TQ0811
+::TQ0811::The Ravigneaux gear set consists of:{
+	=2 sun gears, 2 pinion sets and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~1 sun gear, 2 pinion sets and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~2 sun gears, 2 pinion sets and 2 ring gears.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~1 sun gear, 1 pinion set and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+}
+
+
+//name:TQ0812
+::TQ0812::The Simpson gear set consists of:{
+	=1 common sun gear, 2 pinion sets and 2 ring gears.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~2 sun gears, 2 pinion sets and 2 ring gears.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~2 sun gears, 2 pinion sets and 1 ring gear.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~1 sun gear, 1 pinion set and 1 ring gear.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+}
+
+
+//name:TQ0815
+::TQ0815::In reference to planetary gears the term idling indicates that the:{
+	=planet gears are turning and their carrier is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~sun gear is turning and the ring gear is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~ring gear is turning and the sun gear is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~planet carrier is turning and the planet gears are stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+}
+
+
+//name:TQ0817
+::TQ0817::The simple planetary gear set consists of:{
+	=sun, planet and ring gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, moon and star gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, star and universal gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, planet and universal gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+}

@@ -1,0 +1,361 @@
+%link{ :href => "../Style.css", :rel => "stylesheet", :type => "text/css" }
+.h1
+  %h1
+    Getting started
+.pagecontent
+  %table{ :cellspacing => "0", :border => "0", :cellpadding => "0" }
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          Open CDX Plus by running the launcher program and logging in.
+        = image_tag "navigation/login_iconandscrn.jpg", :height => "286", :width => "650"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          How to navigate CDX+ Online
+    %tr
+      %td{ :colspan => "2" }
+        &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          You can get to any of the content items in CDX Plus with no more than THREE clicks
+        %p
+          %strong
+            1. First Click
+          &ndash; Choose a main      content category from the Main Menu at the left of screen.&nbsp; This will open up the whole menu      tree for that content area
+        = image_tag "navigation/front_mainmenu.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          %strong
+            2. Second Click
+          &ndash; Now we have four menu columns to choose from: The Main Menu; Topic Area; Topic Group; and Topics.&nbsp; For more detailed information before you select a particular topic, click on any Topic Area title, or Topic Group title &ndash; or click on any Topic listed in the right hand column.
+        = image_tag "navigation/menu_allareas.jpg", :height => "541", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          %strong
+            3. Third Click
+          &ndash; Clicking on a Topic title brings up an introductory web page like this one.&nbsp; There will usually be at least several other related elements linked to this topic that you can select from this Icon Bar&hellip;
+          %br
+        = image_tag "navigation/topicpage.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          \&hellip;for instance, this icon will play the video sequence for this      topic&hellip;
+        = image_tag "navigation/videopage.jpg", :height => "541", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          \&hellip;and this one will download a Handout Activity Sheet for this      topic as a PDF document.
+        = image_tag "navigation/ha.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          This is what each icon means:
+        = image_tag "navigation/toolbar_withlabels.jpg", :height => "200", :width => "415", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          And here is what all the other controls do:
+    %tr
+      %td{ :colspan => "2" }
+        &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Breadcrumbs
+        %p
+          These show you where you are, and the path to get there.
+        = image_tag "navigation/breadcrumbs.jpg", :height => "20", :width => "563", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Back and Forward
+        %p
+          These two buttons work just the same as the Back and Forward buttons on a regular browser.
+        = image_tag "navigation/backforward.gif", :height => "67", :width => "160", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Previous and Next
+        %p
+          These two buttons jump you forwards to the next topic in the menu sequence or back to the previous topic.
+        = image_tag "navigation/prevnext.gif", :height => "46", :width => "140", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Search
+        %p
+          This lets you find any word or phrase in the entire program.
+        = image_tag "navigation/search.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Summary Zoom
+        %p
+          Click the 'plus' button to enlarge the Summary text so that even the students at the back of the class can read it clearly (click 'minus' to shrink it again).
+        = image_tag "navigation/summaryzoom.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          CDX Plus Online Messaging
+        %p
+          Even when you're not face to face, you still need to be able to communicate with your CDX Plus Online students.
+        %p
+          CDX Plus Online now includes a secure messaging system that lets you give out assignments for an individual student or a whole class group at once, or answer your students' technical or administrative questions, or respond to their excuses, or coach remote students, or set remedial work for absentees.... all without leaving CDX Plus Online.
+        = image_tag "navigation/messaging_combo.jpg", :height => "640", :width => "700", :style => "margin-left:20px"
+        %p
+          With CDX Plus Online you don't need to share your email address with everyone in your class, and you don't need to know fifty or more different email addresses to communicate effectively with your students. All you need is a CDX login....it's that simple.
+        %ul
+          %li{ :style => "margin-bottom:5px;" }
+            Send a message to one, a select few, or all of them at once.
+          %li{ :style => "margin-bottom:5px;" }
+            Next time they logon to CDX Plus Online, your message will be waiting.
+          %li{ :style => "margin-bottom:5px;" }
+            They can read it, respond to it, save it, or delete it.
+          %li
+            When they respond, their message will be waiting for you next time you go to the CDX messaging system or the next time you logon to CDX Plus Online.
+            %br
+            &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Print Support Materials
+        %p
+          These pages give you easy access to each of the Tasksheets, Handout Activity Sheets, and Workshop Procedure Guides &ndash; all in the one place.  From here you can also print out collections of print support documents all at once, by Category, by Topic Area, or by Topic Group.
+        = image_tag "navigation/printsupportmaterials.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          %strong
+            Tasksheets
+          %br
+          = image_tag "navigation/numberbullets01.jpg", :height => "15", :width => "15"
+          Select a category in this column and you can then view or and print any individual tasksheet or group of tasksheets in that category.
+        %p
+          = image_tag "navigation/numberbullets02.jpg", :height => "15", :width => "15"
+          In this column you can choose to view or print all of the tasksheets in that category, all at once.
+        %p
+          %strong
+            Handout Activity Sheets
+          %br
+          = image_tag "navigation/numberbullets03.jpg", :height => "15", :width => "15"
+          Selecting a Topic Area List in this column lets you view or print individual Handout Activity Sheets, or all those sheets in any Topic Group.
+        %p
+          = image_tag "navigation/numberbullets04.jpg", :height => "15", :width => "15"
+          This link gives you all the Handout Activity Sheets in the whole category, all at once.
+        %p
+          %strong
+            Workshop Procedure Guides
+          %br
+          = image_tag "navigation/numberbullets05.jpg", :height => "15", :width => "15"
+          Selecting a Topic Area List in this column lets you view or print individual Workshop Procedure Guides, or all those sheets in any Topic Group.
+        %p
+          = image_tag "navigation/numberbullets06.jpg", :height => "15", :width => "15"
+          This link gives you all the Workshop Procedure Guides in the whole category, all at once.
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Individual Menus
+        %p
+          A supervisor can add or delete users and change some system defaults.&nbsp; Supervisors can also see the Instructor menu.
+        = image_tag "navigation/supervisormenu.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          Instructors can change some student details, and run Activity reports and Test results reports.
+        = image_tag "navigation/instructormenu.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %p
+          Students can change their password, assign themselves to a particular class or group, and check their own results for any assessments they have undertaken.
+        = image_tag "navigation/studentmenu.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Quizzes and Tests
+        %p
+          This links you to all the different types of assessment with recorded results.
+        = image_tag "navigation/quiztest.jpg", :height => "495", :width => "650", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Video Size Selector
+        %p
+          This lets you choose a smaller or larger video playing size to suit the speed of your Internet connection.
+        = image_tag "navigation/vidsizeselector.gif", :height => "152", :width => "280", :style => "margin-left:20px"
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Reports
+        %p
+          Instructors have access to a flexible set of reports, covering student activity as well as test/exam results.
+        %p
+          To get to these reports, select '
+          %em
+            Instructor Menu
+          ' from the main menu panel.
+        = image_tag "navigation/instructormenu.jpg", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+        %p
+          %strong
+            Student Activity Report
+        = image_tag "navigation/reports_studactivity.jpg", :border => "0", :height => "521", :width => "650", :style => "margin-left:20px"
+        %p
+        %p
+          %strong
+            Selecting the menu group
+          %br
+          = image_tag "navigation/numberbullets01.jpg", :height => "15", :width => "15"
+          &nbsp;You may have different groups of students using CDX with different menu structures. &nbsp;The report information is different for each group so it is stored in different datasets. The tabs at the top of the report screen let you switch from one menu group to another.
+        %p
+          %strong
+            Filtering the data:
+          %br
+          For each report, you can then filter the results by a number of different criteria, so you get just the information you need.
+        %p
+          %strong
+            \&hellip; by content area
+          %br
+          = image_tag "navigation/numberbullets02.jpg", :height => "15", :width => "15"
+          &nbsp;
+          = image_tag "navigation/numberbullets03.jpg", :height => "15", :width => "15"
+          &nbsp;
+          = image_tag "navigation/numberbullets04.jpg", :height => "15", :width => "15"
+          &nbsp;You can see exactly which parts of CDXPlus your students have been engaging with, by subject category
+          %em
+            [2]
+          , by topic area
+          %em
+            [3]
+          , or even by topic group
+          %em
+            [4]
+          \.&nbsp;
+        %p
+          %strong
+            \&hellip;by date range
+          %br
+          = image_tag "navigation/numberbullets05.jpg", :height => "15", :width => "15"
+          &nbsp;You can also set a time duration for this report by selecting start and finish dates.&nbsp;
+        %p
+          %strong
+            \&hellip;by student group
+          %br
+          = image_tag "navigation/numberbullets06.jpg", :height => "15", :width => "15"
+          &nbsp;The report can include all students, or only students in a particular group.&nbsp;
+        %p
+          = image_tag "navigation/numberbullets07.jpg", :height => "15", :width => "15"
+          &nbsp;Then select 'Filter Results' to display what you have chosen.
+        %p
+          %strong
+            Sorting the data:
+          %br
+          = image_tag "navigation/numberbullets08.jpg", :height => "15", :width => "15"
+          &nbsp;Your report rows can then be sorted by clicking on the name of the column you want the table to sort by.
+        %p
+          %strong
+            Saving and exporting the report:
+          %br
+          = image_tag "navigation/numberbullets09.jpg", :height => "15", :width => "15"
+          &nbsp;
+          = image_tag "navigation/numberbullets10.jpg", :height => "15", :width => "15"
+          &nbsp;Export the report data to a .csv file
+          %em
+            [9]
+          , or save it for printing in .pdf format
+          %em
+            [10]
+          \.
+        %p
+          &nbsp;
+    %tr
+      %td
+        &nbsp;
+      %td
+        &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          Troubleshooting
+        %p
+          If your login details don&rsquo;t bring up the CDX Plus Program when you select &lsquo;
+          %strong
+            Login
+          \&rsquo;, then make sure you have entered them correctly and select the &lsquo;Not starting?&rsquo; system diagnostics button.
+        = image_tag "navigation/diagnostics_notstarting.jpg", :style => "margin-left:20px"
+        %p
+          &nbsp;
+        %p
+          This will bring up a new box, select &lsquo;
+          %strong
+            Start Tests
+          \&rsquo;. This should tell you why the program is not loading.
+        = image_tag "navigation/diagnostics_startdiagscn.jpg", :style => "margin-left:20px"
+        %p
+          If that does not help you, or your IT department advisor, contact
+          %strong
+            CDX Customer Support
+          \.
+        %p
+          &nbsp;
+    %tr
+      %td{ :colspan => "2" }
+        %strong
+          CDX Contact/Customer Support
+        %p
+          Web support:
+          %a{ :href => "http://www.cdxglobal.com/support" }
+            %strong
+              www.cdxglobal.com/support
+        %p
+          Email support:
+          %a{ :href => "mailto:support@cdxglobal.com?subject=Support requesst from CDX Plus Online 4.2" }
+            %strong
+              support@cdxglobal.com
+        %p
+          Contact information:
+          %a{ :href => "http://www.cdxglobal.com/contact/index.html" }
+            %strong
+              www.cdxglobal.com/contact
+    %tr
+      %td
+        &nbsp;
+      %td
+        &nbsp;

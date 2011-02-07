@@ -1,0 +1,67 @@
+// question: 32301  name: HAQ2796 
+::HAQ2796::[html]Each ignition coil serves two cylinders, with each end of the secondary winding attached by a high tension lead to a .................{
+	=%100%spark plug#
+}
+
+
+// question: 32302  name: HAQ2797 
+::HAQ2797::[html]The cylinder on compression stroke is said to be the 'event cylinder' and the cylinder on the exhaust stroke is the '................. cylinder'.{
+	=%100%waste#
+}
+
+
+// question: 32303  name: HAQ2798 
+::HAQ2798::[html]When the crankshaft rotates through one revolution, the roles are reversed and the waste cylinder becomes the event cylinder. Firing of both plugs again takes place, and this cylinder now drives its piston down on the ................. stroke.{
+	=%100%power#
+}
+
+
+// question: 32304  name: HAQ2799 
+::HAQ2799::[html]The firing process occurs on each pair of companion cylinders as they approach the ................. dead center position.{
+	=%100%top#
+}
+
+
+// question: 32305  name: HAQ2800 
+::HAQ2800::[html]A major difference between the DIS and conventional system (contact breaker point type) is that a conventional ignition fires on the compression stroke from the center electrode to the ................. electrode.{
+	=%100%ground#
+}
+
+
+// question: 32306  name: HAQ2801 
+::HAQ2801::[html]In systems which employ an individual coil for each ................., the coils can be placed in an insulated cassette with each coil connected directly to its spark plug.{
+	=%100%cylinder#
+}
+
+
+// question: 32307  name: HAQ2802 
+::HAQ2802::[html]This eliminates the necessity for ................. leads and reduces the possibility of voltage leakage.{
+	=%100%high tension#
+}
+
+
+// question: 32308  name: HAQ2803 
+::HAQ2803::[html]Sensor inputs to an engine management control module allows the E.C.M. to determine ignition firing order and to set ignition ................. according to operating conditions.{
+	=%100%timing#
+}
+
+
+// question: 32309  name: HAQ2804 
+::HAQ2804::[html]In an EI system, the contact breaker points are replaced by an angular ................. of some kind - either optical, where a vaned rotor breaks a light beam, or more commonly using a Hall effect sensor, which responds to a rotating magnet mounted on a suitable shaft.{
+	=%100%sensor#
+}
+
+
+// question: 32310  name: HAQ2805 
+::HAQ2805::[html]Timing for the distributorless ignition system is controlled by an ................. control unit or ECU. The ECU decides the best time to fire the spark plugs.{
+	=%100%electronic#
+}
+
+
+// question: 32311  name: HAQ2806 
+::HAQ2806::[html]Once the ECU has evaluated all the sensor information it makes a decision on when to fire the .................{
+	=%100%spark plugs#
+}
+
+
+

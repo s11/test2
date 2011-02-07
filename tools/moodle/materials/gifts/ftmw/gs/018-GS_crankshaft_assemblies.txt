@@ -1,0 +1,59 @@
+// question: 24102  name: HAQ0788 
+::HAQ0788::[html]On a car with .............................. transmission, the flywheel is very heavy, and its momentum helps smooth out engine operation.{
+	=%100%manual#
+}
+
+
+// question: 24103  name: HAQ0789 
+::HAQ0789::[html]The flywheel links the crankshaft to the transmission, through the ...............................{
+	=%100%clutch#
+}
+
+
+// question: 24104  name: HAQ0790 
+::HAQ0790::[html]The outer edge of the flywheel or drive plate has a gear called a .............................. gear.{
+	=%100%ring#
+}
+
+
+// question: 24105  name: HAQ3469 
+::HAQ3469::[html]The crankshaft turns because of the forces transmitted through the .............................. .{
+	=%100%connecting rods#
+	=%100%connecting-rods#
+}
+
+
+// question: 24106  name: HAQ3470 
+::HAQ3470::[html]The Crankshaft is held in place in the engine block by main bearings at points called ...............................{
+	=%100%journals#
+}
+
+
+// question: 24107  name: HAQ3471 
+::HAQ3471::[html]The crankshaft also needs to be located to stop lateral movement. This is done by using .............................. between the connecting rod and the crankshaft are connecting rod bearings.{
+	=%100%flanges#
+}
+
+
+// question: 24108  name: HAQ3472 
+::HAQ3472::[html]On the rear of the crankshaft is a heavy ............................... It stores up energy from the power stroke and helps keep the crankshaft.{
+	=%100%flywheel#
+}
+
+
+// question: 24109  name: HAQ3473 
+::HAQ3473::[html]The valve is held in place by a valve guide, with a .............................. on its stem.{
+	=%100%spring#
+}
+
+
+// question: 24110  name: HAQ3474 
+::HAQ3474::[html]The rocker arm .............................. and releases the valve spring, so that the valve opens and closes.{
+	=%100%compresses#
+}
+
+
+// question: 24111  name: HAQ3475 
+::HAQ3475::[html]Cams are attached to a camshaft. In modern vehicles it's usually mounted over the cylinder head and is called an .............................. camshaft.{
+	=%100%overhead#
+}

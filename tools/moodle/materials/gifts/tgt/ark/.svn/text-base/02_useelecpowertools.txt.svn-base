@@ -1,0 +1,55 @@
+//name:TQ0112
+::TQ0112::What personal protection should you wear when using an angle grinder?{
+	=Eye, ear, full face protection and coveralls.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+	~Ear, full face protection and coveralls.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+	~Eye, ear protection and coveralls.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+	~Eye, ear and full face protection.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+}
+
+
+//name:TQ0113
+::TQ0113::The abrasive disc or cutting wheel is attached to the grinder by a:{
+	=flange and nut.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+	~screw and nut.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+	~washer and nut.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+	~flange and screw.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+}
+
+
+//name:TQ0114
+::TQ0114::What personal protection should you wear when using a bench grinder?{
+	=Full-face protection, ear protection, leather gloves and a leather apron.#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+	~Full-face protection, ear protection, and leather gloves .#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+	~Full-face protection, ear protection and a leather apron.#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+	~Full-face protection, leather gloves and a leather apron.#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+}
+
+
+//name:TQ0115
+::TQ0115::Certain safety attachments MUST be in place before operating the bench grinder. They are:{
+	=all of these.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~wheel guard.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~safety shield.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~tool rest.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~water pot.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+}
+
+
+//name:TQ0116
+::TQ0116::How do you test the high pressure water flow from a pressure cleaner?{
+	=Point the wand toward the ground and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+	~Point the wand toward the engine bay and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+	~Point the wand toward a concealed part of the chassis and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+	~Point the wand toward your hand and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+}
+
+
+//name:TQ0117
+::TQ0117::What is a good cleaning agent for brake components?{
+	=Water.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+	~Kerosene.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+	~Detergent.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+	~Solvent.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+}
+
+

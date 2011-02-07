@@ -1,0 +1,62 @@
+- previous_item = category_item.previous_item
+- next_item     = category_item.next_item
+
+.ui-widget.ui-widget-content.ui-corner-all{ :style => "padding: 1em"}
+  %table{ :cellspacing => 0, :cellpadding => 0 }
+    %tr
+      -# FIXME: Clean me up!
+      - if previous_item
+        - if previous_item.item.class == Topic
+          %td.left= link_to image_tag("off/previous.gif"), category_topic_path(previous_item.category, previous_item.item), :alt => "Previous Content Item", :title => "Previous Content Item", :class => "rollover"
+        - else previous_item.item.class == Tasksheet
+          %td.left= link_to image_tag("off/previous.gif"), category_tasksheet_path(previous_item.category, previous_item.item), :alt => "Previous Content Item", :title => "Previous Content Item", :class => "rollover"
+      - else
+        %td.left= image_tag("inactive/previous.gif")
+
+      %td{ :width => "100%" }
+        %ul.topic-navigation
+          %li= link_to_unless_current image_tag("#{params[:action] == "show" ? 'active' : 'off'}/html.gif", :title => "Topic Introduction"), category_topic_path(category, resource), :class => "rollover"
+
+          - if resource.kind.procedure?
+            - if resource.has_video?
+              %li= link_to_unless_current image_tag("#{params[:action] == "video" ? 'active' : 'off'}/vidsee.gif", :title => "Video Sequence"), video_category_topic_path(category, resource), :class => "rollover"
+            - else
+              %li= image_tag("inactive/vidsee.gif", :title => "Video Sequence")
+
+          - elsif resource.kind.theory?
+            - if resource.has_video?
+              %li= link_to_unless_current image_tag("#{params[:action] == "video" ? 'active' : 'off'}/vidknow.gif", :title => "Video Sequence"), video_category_topic_path(category, resource), :class => "rollover"
+            - else
+              %li= image_tag("inactive/vidknow.gif", :title => "Video Sequence")
+  
+          - if resource.has_knowledge_check?
+            %li= link_to_unless_current image_tag("#{params[:action] == "knowledge_check" ? 'active' : 'off'}/kc.gif", :title => "Knowledge Check"), knowledge_check_category_topic_path(category, resource), :class => "rollover"
+          - else
+            %li= image_tag("inactive/kc.gif", :title => "Knowledge Check")
+    
+          - if category_item.has_dvom?
+            %li= link_to_unless_current image_tag("#{params[:action] == "dvom" ? 'active' : 'off'}/dvom.gif", :title => "DVOM"), dvom_category_topic_path(category, resource), :class => "rollover"
+          - else
+            %li= image_tag("inactive/dvom.gif", :title => "DVOM")
+
+          - if resource.has_workshop_procedure_guide?
+            %li= link_to_unless_current image_tag("#{params[:action] == "workshop_procedure_guide" ? 'active' : 'off'}/ws.gif", :title => "Worksheet"), workshop_procedure_guide_category_topic_path(category, resource), :class => "rollover"
+          - else
+            %li= image_tag("inactive/ws.gif", :title => "Worksheet")
+
+          - if category_item.has_handout_activity_sheet?
+            %li= link_to_unless_current image_tag("#{params[:action] == "handout_activity_sheet" ? 'active' : 'off'}/ha.gif", :title => "Handout Activity"), handout_activity_sheet_category_topic_path(category, resource), :class => "rollover"
+          - else
+            %li= image_tag("inactive/ha.gif", :title => "Handout Activity")
+
+          %li
+            = link_to image_tag("off/help.gif", :title => "Icon Help"), info_category_topic_path(category, resource), :class => "rollover popup"
+
+      -# FIXME: Clean me up!
+      - if next_item
+        - if next_item.item.class == Topic
+          %td.right= link_to image_tag("off/next.gif"), category_topic_path(next_item.category, next_item.item), :alt => "Next Content Item", :title => "Next Content Item", :class => "rollover"
+        - else next_item.item.class == Tasksheet
+          %td.right= link_to image_tag("off/next.gif"), category_tasksheet_path(next_item.category, next_item.item), :alt => "Next Content Item", :title => "Next Content Item", :class => "rollover"
+      - else
+        %td.right= image_tag("inactive/next.gif")

@@ -1,0 +1,53 @@
+//name:TQ1376
+::TQ1376::What is NOT the best use of a questioning skill?{
+	=Deliver a message.#Avoid delivering a message during questioning skill practice.
+	~Gather information.#Avoid delivering a message during questioning skill practice.
+	~Learn something from someone.#Avoid delivering a message during questioning skill practice.
+	~Find out someone's ideas or opinions.#Avoid delivering a message during questioning skill practice.
+}
+
+
+//name:TQ1377
+::TQ1377::Which of the following is a FALSE statement?{
+	=We use open questions to find out specific details.#Open questions are used to begin dialog, not determine specific details.
+	~Open questions encourage listeners to speak.#Open questions are used to begin dialog, not determine specific details.
+	~It is a good way to start a conversation with open questions.#Open questions are used to begin dialog, not determine specific details.
+	~Open questions let listeners explain their thoughts and feelings.#Open questions are used to begin dialog, not determine specific details.
+}
+
+
+//name:TQ1378
+::TQ1378::Which of the following is a FALSE statement?{
+	=Yes/No questions encourage further discussion from listeners.#Yes/No questions do not open dialog whereas open ended questions do.
+	~Yes/No questions are used to check facts and details.#Yes/No questions do not open dialog whereas open ended questions do.
+	~Yes/No questions allow listeners to answer just 'Yes' or 'No'.#Yes/No questions do not open dialog whereas open ended questions do.
+	~We use yes/no questions to confirm listeners' responses.#Yes/No questions do not open dialog whereas open ended questions do.
+}
+
+
+//name:TQ1379
+::TQ1379::What are the three parts to phone communication? 	{
+	=Part 1 - Greeting, Part 2 - Exchanging messages, Part 3  - Finishing the call.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+	~Part 1 - Exchanging messages, Part 2 - Taking messages, Part 3 - Leaving messages.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+	~Part 1 - Thinking, Part 2 - Greeting, Part 3 - Finishing the call.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+	~Part 1 - Exchanging messages, Part 2 - Checking messages, Part 3 - Finishing the call.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+}
+
+
+//name:TQ1380
+::TQ1380::Which step of the speaking process can't we do in the normal way when we are talking to someone on the phone?{
+	=Present#The three steps include Think, Present, Check. The presentation is the most difficult since you are unable to use visual clues as to their understanding and acceptance.
+	~Think.#The three steps include Think, Present, Check. The presentation is the most difficult since you are unable to use visual clues as to their understanding and acceptance.
+	~Clarify.#The three steps include Think, Present, Check. The presentation is the most difficult since you are unable to use visual clues as to their understanding and acceptance.
+}
+
+
+//name:TQ1381
+::TQ1381::What are the steps in a speaking process?{
+	=Step 1 - Think, Step 2 - Present, Step 3 - Check.#The three steps in a speaking process include Think, Present, Check.
+	~Step 1 - Check, Step 2 - Think, Step 3 - Present.#The three steps in a speaking process include Think, Present, Check.
+	~Step 1 - Present, Step 2 - Analyze, Step 3  -Check.#The three steps in a speaking process include Think, Present, Check.
+	~Step 1 - Think, Step 2 - Present, Step 3 - Analyze.#The three steps in a speaking process include Think, Present, Check.
+}
+
+

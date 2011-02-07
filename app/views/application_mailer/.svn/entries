@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/views/application_mailer
+svn://curfew.jbpub.com/online
+
+
+
+2008-08-27T00:52:22.082776Z
+1153
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+pearson_trial_signup_notification.html.erb
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+049e6cd72e242c6ba44c7a9f028e42e3
+2008-08-27T00:11:07.193277Z
+1151
+johnm
+

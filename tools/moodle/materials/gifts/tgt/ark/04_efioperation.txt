@@ -1,0 +1,142 @@
+//name:TQ0372
+::TQ0372::In a fuel system, closed loop control is used to maintain:{
+	=the ratio of the air/fuel mixture.#A closed loop system uses feedback on the air/fuel mixture from the oxygen sensor fitted in the exhaust of the vehicle.
+	~a constant fuel pressure.#A closed loop system uses feedback on the air/fuel mixture from the oxygen sensor fitted in the exhaust of the vehicle.
+	~coolant temperature within close limits.#A closed loop system uses feedback on the air/fuel mixture from the oxygen sensor fitted in the exhaust of the vehicle.
+	~a constant fuel flow.#A closed loop system uses feedback on the air/fuel mixture from the oxygen sensor fitted in the exhaust of the vehicle.
+}
+
+
+//name:TQ0373
+::TQ0373::For closed loop control of the air-fuel mixture the control unit needs a signal from the:{
+	=oxygen sensor.#A closed loop system utilizes feedback on the air/fuel mixture by using the oxygen sensor fitted in the exhaust of the vehicle.
+	~water temperature sensor.#A closed loop system utilizes feedback on the air/fuel mixture by using the oxygen sensor fitted in the exhaust of the vehicle.
+	~boost sensor.#A closed loop system utilizes feedback on the air/fuel mixture by using the oxygen sensor fitted in the exhaust of the vehicle.
+	~knock sensor.#A closed loop system utilizes feedback on the air/fuel mixture by using the oxygen sensor fitted in the exhaust of the vehicle.
+}
+
+
+//name:TQ0374
+::TQ0374::In terms of the catalytic conversion of undesirable emissions from a spark ignition engine, the stoichiometric point is also known as the:{
+	=operating window.#The stoichiometric ratio is the air/fuel ratio required for complete combustion and is 14.7:1 (by mass).
+	~efficiency point.#The stoichiometric ratio is the air/fuel ratio required for complete combustion and is 14.7:1 (by mass).
+	~looping point.#The stoichiometric ratio is the air/fuel ratio required for complete combustion and is 14.7:1 (by mass).
+	~drop point.#The stoichiometric ratio is the air/fuel ratio required for complete combustion and is 14.7:1 (by mass).
+}
+
+
+//name:TQ0375
+::TQ0375::In which operating condition is there no feedback from the oxygen sensor to the ECU?{
+	=Cold starting.#The oxygen sensor must warm up to its operating temperature before if can accurately provide feedback. Therefore the vehicle runs in open loop mode, no feedback is provided until operating temperature is reached.
+	~Normal operating temperature.#The oxygen sensor must warm up to its operating temperature before if can accurately provide feedback. Therefore the vehicle runs in open loop mode, no feedback is provided until operating temperature is reached.
+	~When the engine is running hot.#The oxygen sensor must warm up to its operating temperature before if can accurately provide feedback. Therefore the vehicle runs in open loop mode, no feedback is provided until operating temperature is reached.
+	~Never - there is always feedback from the oxygen sensor to the ECU.#The oxygen sensor must warm up to its operating temperature before if can accurately provide feedback. Therefore the vehicle runs in open loop mode, no feedback is provided until operating temperature is reached.
+}
+
+
+//name:TQ0376
+::TQ0376::Monitoring oxygen content of exhaust gas allows for close control of:{
+	=air/fuel mixtures.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. 
+	~exhaust gas recirculation.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. 
+	~the volume of intake air.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. 
+	~fuel pressure and flow.#Gasoline engines run best when the air/fuel mixture is correct. The air/fuel mixture must be controlled to reduce exhaust pollutant emissions. 
+}
+
+
+//name:TQ0377
+::TQ0377::The use of a lambda sensor as part of engine management is a good example of a closed loop system.{
+	=TRUE#The Lambda sensor determines the exhaust gas oxygen (or lack of) and sends this signal back to the ECM where corrections in the air/fuel ratio may be made.
+	~FALSE#The Lambda sensor determines the exhaust gas oxygen (or lack of) and sends this signal back to the ECM where corrections in the air/fuel ratio may be made.
+}
+
+
+//name:TQ0378
+::TQ0378::What is the mode of injection when injection is timed to commence at the same point in the cycle for every cylinder?{
+	=Sequential.#In sequential injection the injectors operate in a sequence that follows the firing order of the engine.
+	~Grouped.#In sequential injection the injectors operate in a sequence that follows the firing order of the engine.
+	~Both simultaneous and grouped.#In sequential injection the injectors operate in a sequence that follows the firing order of the engine.
+	~Simultaneous.#In sequential injection the injectors operate in a sequence that follows the firing order of the engine.
+}
+
+
+//name:TQ0379
+::TQ0379::When might a sequential mode EFI system operate in a simultaneous mode?{
+	=At high speeds.#An ECU can operate the engine in different modes i.e. sequential or simultaneous depending on engine temperature and load.
+	~Never - that is why it's called sequential.#An ECU can operate the engine in different modes i.e. sequential or simultaneous depending on engine temperature and load.
+	~During acceleration.#An ECU can operate the engine in different modes i.e. sequential or simultaneous depending on engine temperature and load.
+	~At low speeds.#An ECU can operate the engine in different modes i.e. sequential or simultaneous depending on engine temperature and load.
+}
+
+
+//name:TQ0380
+::TQ0380::The job of the EFI ECU is to:{
+	=process data received from sensors and use the results to operate the injectors.#The EFI ECU receives data from various sensors and uses a map to calculate and control various actuators.
+	~send data to the body control unit to operate the injectors.#The EFI ECU receives data from various sensors and uses a map to calculate and control various actuators.
+	~send data to the engine management sensors.#The EFI ECU receives data from various sensors and uses a map to calculate and control various actuators.
+	~operate the ABS system.#The EFI ECU receives data from various sensors and uses a map to calculate and control various actuators.
+}
+
+
+//name:TQ0381
+::TQ0381::In addition to auxilliary air device and DC motor controlled idle speed control systems, what can be used to finely control idle speed? {
+	=Ignition timing.#Advancing and retarding ignition timing can raise or lower engine RPM.
+	~Variable valve timing.#Advancing and retarding ignition timing can raise or lower engine RPM.
+	~EGR.#Advancing and retarding ignition timing can raise or lower engine RPM.
+	~Secondary air injection.#Advancing and retarding ignition timing can raise or lower engine RPM.
+}
+
+
+//name:TQ0382
+::TQ0382::Which of the following is increased to help cold starting and provide cranking enrichment?{
+	=Injector pulse width.#Modern fuel injection systems use the existing injectors but increase the pulse width for cold start situations thus injecting more fuel.
+	~Spark voltage.#Modern fuel injection systems use the existing injectors but increase the pulse width for cold start situations thus injecting more fuel.
+	~Intake air temperature.#Modern fuel injection systems use the existing injectors but increase the pulse width for cold start situations thus injecting more fuel.
+	~Intake valve lift.#Modern fuel injection systems use the existing injectors but increase the pulse width for cold start situations thus injecting more fuel.
+}
+
+
+//name:TQ0383
+::TQ0383::The angular position of the vane air flow meter is sent to the ECU as a:{
+	=DC voltage.#Modern engine management systems commonly use a 5V DC reference system for sensors. Most modern vehicles now use a hot wire Mass Air Flow meter (MAF)
+	~AC voltage.#Modern engine management systems commonly use a 5V DC reference system for sensors. Most modern vehicles now use a hot wire Mass Air Flow meter (MAF)
+	~current.#Modern engine management systems commonly use a 5V DC reference system for sensors. Most modern vehicles now use a hot wire Mass Air Flow meter (MAF)
+	~resistance.#Modern engine management systems commonly use a 5V DC reference system for sensors. Most modern vehicles now use a hot wire Mass Air Flow meter (MAF)
+}
+
+
+//name:TQ0384
+::TQ0384::A manifold pressure sensor provides an electrical signal to the ECU relative to:{
+	=inlet manifold pressure.#Inlet manifold pressure sensors (MAP) can be mounted directly onto the inlet manifold or in close proximity to the manifold connected via a small bore connecting hose.
+	~exhaust manifold pressure.#Inlet manifold pressure sensors (MAP) can be mounted directly onto the inlet manifold or in close proximity to the manifold connected via a small bore connecting hose.
+	~engine speed.#Inlet manifold pressure sensors (MAP) can be mounted directly onto the inlet manifold or in close proximity to the manifold connected via a small bore connecting hose.
+	~engine position.#Inlet manifold pressure sensors (MAP) can be mounted directly onto the inlet manifold or in close proximity to the manifold connected via a small bore connecting hose.
+}
+
+
+//name:TQ0385
+::TQ0385::A long and narrow intake is beneficial to which RPM range?{
+	=Low.#Variable intake systems vary the inlet manifold tract length depending on engine operating ranges/speeds.
+	~High.#Variable intake systems vary the inlet manifold tract length depending on engine operating ranges/speeds.
+	~Low and High.#Variable intake systems vary the inlet manifold tract length depending on engine operating ranges/speeds.
+	~Mid.#Variable intake systems vary the inlet manifold tract length depending on engine operating ranges/speeds.
+}
+
+
+//name:TQ0386
+::TQ0386::How does the ECU open the solenoid operated injection valves?{
+	=By grounding them.#The ECU is a powerful computer that controls injector operation depending upon input signals from various sensors.
+	~By supplying a DC voltage pulse.#The ECU is a powerful computer that controls injector operation depending upon input signals from various sensors.
+	~By supplying an AC voltage pulse.#The ECU is a powerful computer that controls injector operation depending upon input signals from various sensors.
+	~By sending a CAN data signal to the injector.#The ECU is a powerful computer that controls injector operation depending upon input signals from various sensors.
+}
+
+
+//name:TQ0387
+::TQ0387::Positive connections are made to components via:{
+	=the tachometric relay.#Components of the engine management system are rarely supplied power from the ECU. Most ECUs work on a pure ground control principle.
+	~the ignition coil.#Components of the engine management system are rarely supplied power from the ECU. Most ECUs work on a pure ground control principle.
+	~the ECU.#Components of the engine management system are rarely supplied power from the ECU. Most ECUs work on a pure ground control principle.
+	~the auxilliary air valve.#Components of the engine management system are rarely supplied power from the ECU. Most ECUs work on a pure ground control principle.
+}
+
+

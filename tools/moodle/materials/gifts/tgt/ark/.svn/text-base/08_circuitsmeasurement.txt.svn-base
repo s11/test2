@@ -1,0 +1,232 @@
+//name:TQ0972
+::TQ0972::An ammeter must always be connected:{
+	=in series with the circuit.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+	~in parallel to the circuit.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+	~across the battery terminals.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+	~across the earth.#Ammeters measure current flow so they need to be connected in series with the circuit they are measuring.
+}
+
+
+//name:TQ0973
+::TQ0973::A technician connects a voltmeter in parallel in a circuit to measure a load. Technician A says this will provide a reading of the potential difference in volts. Technician B says that this will also show the amperage flowing in the circuit. Who is correct?{
+	=Technician A.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+	~Technician B.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+	~Both Technician A & Technician B.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+	~Neither Technician A or Technician B.#Technician A is correct because he is using a voltmeter in parallel to measure potential difference or voltage drop across a particular load in the circuit, whereas an ammeter is placed in series in the circuit and measures the current flow in the complete circuit.
+}
+
+
+//name:TQ0974
+::TQ0974::Technician A says that to test a component for resistance a technician must calibrate the ammeter. Technician B says that to test a component for resistance a technician must check the battery charge. Who is correct?{
+	~Technician A.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+	~Technician B.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+	~Both Technician A & Technician B.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+	=Neither Technician A or Technician B.#Neither technician is correct. The process is that the power source must be disconnected first before a meter can be used to check the resistance value.
+}
+
+
+//name:TQ0975
+::TQ0975::Technician A says that the meter that forms a parallel circuit when connected is the ammeter. Technician B says that the meter that forms a series circuit when connected is the ohmmeter. Who is correct?{
+	~Technician A.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+	~Technician B.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+	~Both Technician A & Technician B.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+	=Neither Technician A or Technician B.#Neither technician is correct because the meter that forms a parallel circuit when connected is the voltmeter and the meter that forms a series circuit when connected is the ammeter.
+}
+
+
+//name:TQ0976
+::TQ0976::Technician A says that the meter that is connected in parallel is the ohmmeter. Technician B says that the meter that is connected in series is the ammeter. Who is correct?{
+	~Technician A.#Technician B is correct because the Ohmmeter is used to measure resistance.
+	=Technician B.#Technician B is correct because the Ohmmeter is used to measure resistance.
+	~Both Technician A & Technician B.#Technician B is correct because the Ohmmeter is used to measure resistance.
+	~Neither Technician A or Technician B.#Technician B is correct because the Ohmmeter is used to measure resistance.
+}
+
+
+//name:TQ0977
+::TQ0977::The gauge used to measure current is known as:{
+	=an ammeter and it must be connected in series with the circuit.#Ammeters measure current flow.
+	~an ammeter and it must be connected in parallel to the circuit.#Ammeters measure current flow.
+	~a voltmeter and it must be connected across the battery terminals.#Ammeters measure current flow.
+	~a current meter.#Ammeters measure current flow.
+}
+
+
+//name:TQ0978
+::TQ0978::A fully charged battery that has been disconnected has the potential to do work so it is referred to as a:{
+	=source of energy.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~source of current.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~source of resistance.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~source of electrons#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+}
+
+
+//name:TQ0979
+::TQ0979::Select the correct word to complete the statement. The power in Watts being consumed by a lamp is found by taking the voltage to the lamp and __________ the current going through it.{
+	=multiplying it by#The formula is written V x I &#61; P.
+	~dividing it by#The formula is written V x I &#61; P.
+	~subtracting it from#The formula is written V x I &#61; P.
+	~adding it to#The formula is written V x I &#61; P.
+}
+
+
+//name:TQ0980
+::TQ0980::'Work' is only achieved when energy is:{
+	=released.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+	~stored.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+	~captured.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+	~harnessed.#Energy stored has the potential do work, but for work to occur the energy has to be released.
+}
+
+
+//name:TQ0981
+::TQ0981::'Energy' has the potential to:{
+	=do work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+	~infer work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+	~store work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+	~release work.#Energy stored is not working, it only has the potential to do work.  For work to occur, the energy must be released.
+}
+
+
+//name:TQ0982
+::TQ0982::The formula for calculating power is:{
+	=P &#61;  V x I#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+	~P &#61; R x I#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+	~P &#61; V x R#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+	~P &#61; E x V#Other formulas involving power are  I &#61; P/V and V &#61; P/I
+}
+
+
+//name:TQ0983
+::TQ0983::The unit of 'power' is the:{
+	=Watt.#Power is a measure of the rate at which an amount of work is done.
+	~Ampere.#Power is a measure of the rate at which an amount of work is done.
+	~Ohm.#Power is a measure of the rate at which an amount of work is done.
+	~Volt.#Power is a measure of the rate at which an amount of work is done.
+}
+
+
+//name:TQ0984
+::TQ0984::Watts are calculated from the formula:{
+	=voltage times current.#The formula is written V x I &#61; P.
+	~current divided by voltage.#The formula is written V x I &#61; P.
+	~the reciprocal of voltage times current.#The formula is written V x I &#61; P.
+	~voltage divided by current.#The formula is written V x I &#61; P.
+}
+
+
+//name:TQ0985
+::TQ0985::'Work' is measured as the amount of:{
+	=released energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+	~stored energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+	~captured energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+	~harnessed energy.#An example of work is when you move 100lbs a distance of 10ft. To achieve this energy is released. Power on the other hand equals the work divided by the time it takes to do the work.
+}
+
+
+//name:TQ0986
+::TQ0986::An automotive battery is best known to be a:{
+	=source of energy.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~Source of current.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~Source of resistance.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+	~Source of electrons.#A source of electrical energy is known as Electromotive Force or EMF. It's measured in volts.
+}
+
+
+//name:TQ0987
+::TQ0987::Optical fiber has several advantages over other technology. Why is this?{
+	=It is less expensive and thinner; it can carry much more data than copper cables; it has less signal degradation over length; and it has less interference. Optical fiber is also non-flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+	~It is less expensive and thinner. However, it carries much less data than copper cables and has more signal degradation over length, but with less interference. Optical fiber is also non-flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+	~It is more expensive but thicker; it can carry much more data than copper cables; it has less signal degradation over length; and it has less interference. Optical fiber is also flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+	~It is less expensive and thinner; it can carry much more data than copper cables; but it has more signal degradation over length; and more interference. Optical fiber is also non-flammable, lightweight and flexible.#Optical fiber is being used much more often in automotive applications. You should be careful around optical fiber installations. Do not pull or tug on the connections as damage may result.
+}
+
+
+//name:TQ0988
+::TQ0988::According to Ohm's Law current equals what?{
+	=Voltage divided by resistance.#The formula is written V/R &#61; I.
+	~Resistance divided by voltage.#The formula is written V/R &#61; I.
+	~The reciprocal of voltage times resistance.#The formula is written V/R &#61; I.
+	~Voltage times resistance.#The formula is written V/R &#61; I.
+}
+
+
+//name:TQ0989
+::TQ0989::Technician A says that in a 24 volt circuit that draws 6 amps the resistance is 0.5 ohms. Technician B says that in a 12 volt circuit that draws 6 amps the resistance is 2 ohms. Who is correct?{
+	~Technician A.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+	=Technician B.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+	~Both Technician A & Technician B.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+	~Neither Technician A or Technician B.#Technician B is correct because using Ohms law the formula V/A &#61; R or E/I &#61; R provides us with the answer of 2 Ohms.
+}
+
+
+//name:TQ0990
+::TQ0990::Technician A says that a circuit has 3 Ohms of resistance. As the system operates at 12 volts the amperage must be 4 amps. Technician B says that a circuit has 3 Ohms of resistance. As the system operates at 24 volts the amperage must be 12 amps. Who is correct?{
+	=Technician A.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+	~Technician B.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+	~Both Technician A & Technician B.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+	~Neither Technician A or Technician B.#Technician A is correct because using Ohms law the formula V/R &#61; I or E/R &#61; I provides us with the answer of 4 Amps.
+}
+
+
+//name:TQ0991
+::TQ0991::When more branches are added to a parallel circuit the overall circuit resistance:{
+	=decreases.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+	~depends on current flow.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+	~increases.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+	~stays the same.#When more branches are added to a parallel circuit the overall resistance decreases. Current flow increases as the resistance of a circuit decreases.
+}
+
+
+//name:TQ0992
+::TQ0992::Current in a series circuit:{
+	=is the same in all parts of the circuit.#A break in any part of the series circuit stops current flow in the whole circuit.
+	~is always Direct Current.#A break in any part of the series circuit stops current flow in the whole circuit.
+	~varies irregularly from point to point.#A break in any part of the series circuit stops current flow in the whole circuit.
+	~steadily declines around the circuit.#A break in any part of the series circuit stops current flow in the whole circuit.
+}
+
+
+//name:TQ0993
+::TQ0993::Putting a resistor into a circuit will cause:{
+	=a drop in voltage across the resistor.#The voltage drop creates a potential difference in the circuit.
+	~a rise in voltage across the resistor.#The voltage drop creates a potential difference in the circuit.
+}
+
+
+//name:TQ0994
+::TQ0994::An example of a series-parallel circuit in a vehicle is the:{
+	=panel lights.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+	~headlights.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+	~indicators.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+	~trailer lights.#The dimmer circuit is connected in series with the parallel-connected panel lights.
+}
+
+
+//name:TQ0995
+::TQ0995::Technician A says when the resistances in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  Technician B says all components in a parallel circuit are connected directly to the voltage supply. Who is correct?{
+	~Technician A#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+	~Technician B.#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+	=Both Technician A & Technician B.#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+	~Neither Technician A or Technician B.#Both technicians are correct. When the resistance's in a parallel circuit are not equal, then the current divides in accordance with the value of each resistance, but the total current flow is still the sum of the currents flowing in each branch.  All components in a parallel circuit are connected directly to the voltage supply.
+}
+
+
+//name:TQ0996
+::TQ0996::Which of the following statements about cables and resistance is correct?{
+	=The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+	~The longer the cable, the lower the resistance and the smaller the diameter, the higher the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+	~The longer the cable, the higher the resistance and the smaller the diameter, the lower the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+	~The longer the cable, the lower the resistance and the smaller the diameter, the lower the resistance.#The resistance of a cable affects how much current it can carry. The resistance of a cable is determined by its length and its diameter. The longer the cable, the higher the resistance and the smaller the diameter, the higher the resistance.
+}
+
+
+//name:TQ0997
+::TQ0997::Technician A says CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Technician B says data, such as vehicle speed, engine temperature, cannot be shared, thus increasing the number of sensors.{
+	=Technician A.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+	~Technician B.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+	~Both Technician A & Technician B.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+	~Neither Technician A or Technician B.#CAN BUS uses two thin wires to multiplex all the control units and their sensors to each other. Data, such as vehicle speed, engine temperature, is shared, thus REDUCING the number of sensors.
+}
+
+

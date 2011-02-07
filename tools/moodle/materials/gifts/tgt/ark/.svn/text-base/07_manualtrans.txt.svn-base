@@ -1,0 +1,111 @@
+//name:TQ0770
+::TQ0770::Bearings used in manual transmissions are normally designed to cater for:{
+	=radial loads and thrust loads.#Radial loads try to force the gears and shafts apart. The bearing therefore carries the load along its radius. Thrust loads are applied along the length of the components, so the bearing must cater for side thrusts.
+	~radial loads only.#Radial loads try to force the gears and shafts apart. The bearing therefore carries the load along its radius. Thrust loads are applied along the length of the components, so the bearing must cater for side thrusts.
+	~thrust loads only.#Radial loads try to force the gears and shafts apart. The bearing therefore carries the load along its radius. Thrust loads are applied along the length of the components, so the bearing must cater for side thrusts.
+}
+
+
+//name:TQ0771
+::TQ0771::Taper roller bearings fitted in pairs are able to sustain:{
+	=both radial and thrust loads.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+	~dynamic loads only.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+	~thrust loads only.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+	~radial loads only.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+}
+
+
+//name:TQ0772
+::TQ0772::What is the overall gear ratio if the transmission ratio is 2.4:1 and the final drive ratio is 3.5:1?{
+	=8.4:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1.46:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~5.9:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+}
+
+
+//name:TQ0773
+::TQ0773::Compared to a gear ratio of 1:1, when a gear ratio of 0.8:1 is selected at a given engine speed the output shaft speed is:{
+	=increased and the torque is decreased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+	~decreased and the torque is increased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+	~increased and the torque is increased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+	~decreased and the torque is decreased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+}
+
+
+//name:TQ0774
+::TQ0774::The effect of changing to a lower gear ratio at a given engine speed is to rotate the driving wheels:{
+	=slower with increased torque.#A manual transmission allows the driver to directly vary the gear ratio between the engine and the driving road wheels. This allows engine torque to be varied to suit load and speed requirements.
+	~slower with decreased torque.#A manual transmission allows the driver to directly vary the gear ratio, between the engine and the driving road wheels. This allows engine torque to be varied, to suit load and speed requirements.
+	~faster with decreased torque.#A manual transmission allows the driver to directly vary the gear ratio, between the engine and the driving road wheels. This allows engine torque to be varied, to suit load and speed requirements.
+	~faster with increased torque.#A manual transmission allows the driver to directly vary the gear ratio, between the engine and the driving road wheels. This allows engine torque to be varied, to suit load and speed requirements.
+}
+
+
+//name:TQ0775
+::TQ0775::The gear ratio of a particular gear set can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.{
+	=TRUE#This ratio of DRIVEN over DRIVER at the input - 2 to 1 - is then multiplied by the output ratio which has a DRIVEN to DRIVER ratio of 3 to 1. 
+	~FALSE#This ratio of DRIVEN over DRIVER at the input - 2 to 1 - is then multiplied by the output ratio which has a DRIVEN to DRIVER ratio of 3 to 1. 
+}
+
+
+//name:TQ0776
+::TQ0776::The lower the gear selected in the transmission system the greater the torque multiplication available to the road wheels.{
+	=TRUE#The lower the gear ratio, the lower the speed. This in turn produces higher torque.
+	~FALSE#The lower the gear ratio, the lower the speed. This in turn produces higher torque.
+}
+
+
+//name:TQ0777
+::TQ0777::What is the overall gear ratio if the transmission ratio is 2.5:1 and the final drive ratio is 3.5:1?{
+	=8.75:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~6:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1.4:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+}
+
+
+//name:TQ0778
+::TQ0778::What is the ratio of a differential that has a 39 tooth ring gear and an 11 tooth drive pinion gear?{
+	=3.54:1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+	~3.78: 1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+	~4.11 :1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+	~3.91 :1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+}
+
+
+//name:TQ0779
+::TQ0779::Selecting a higher gear:{
+	=reduces engine speed:#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+	~increases engine speed.#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+	~reduces engine power.#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+	~increases engine power.#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+}
+
+
+//name:TQ0780
+::TQ0780::Selecting a lower gearbox ratio increases the transmitted:{
+	=torque.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+	~speed.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+	~power.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+	~drive.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+}
+
+
+//name:TQ0781
+::TQ0781::The function of an interlocking device in a transmission is to:{
+	=prevent selection of more than one gear at any one time.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+	~lock the gear selector shaft in the selected position.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+	~prevent reverse engagement when the vehicle is moving.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+	~lock the gear to the main shaft when a gear is selected.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+}
+
+
+//name:TQ0782
+::TQ0782::Some lip type oil seals used in transmissions can be hydro-dynamic by design. What does this mean?{
+	=The flutes in the oil seal allow the seal to create a pumping action as the shaft rotates to retain the oil more efficiently.#Seals can be hydro-dynamic type seals with helical flutes molded into the sealing lip. The flutes create a pumping action as the shaft rotates, so any oil at the sealing edge is drawn back inside the casing. Since the flutes are molded in one direction during manufacture, care must be taken to ensure they are correctly applied by considering the direction of shaft rotation.
+	~The flutes in the oil seal allow the seal to stop the natural pumping action of the seal as the shaft rotates to retain the oil more efficiently.#Seals can be hydro-dynamic type seals with helical flutes molded into the sealing lip. The flutes create a pumping action as the shaft rotates, so any oil at the sealing edge is drawn back inside the casing. Since the flutes are molded in one direction during manufacture, care must be taken to ensure they are correctly applied by considering the direction of shaft rotation.
+	~The flutes in the oil seal are simply there as an identification mark.#Seals can be hydro-dynamic type seals with helical flutes molded into the sealing lip. The flutes create a pumping action as the shaft rotates, so any oil at the sealing edge is drawn back inside the casing. Since the flutes are molded in one direction during manufacture, care must be taken to ensure they are correctly applied by considering the direction of shaft rotation.
+}
+
+

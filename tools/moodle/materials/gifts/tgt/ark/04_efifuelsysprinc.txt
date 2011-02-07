@@ -1,0 +1,133 @@
+//name:TQ0307
+::TQ0307::Carbureted fuel systems can never be as efficient as electronically controlled fuel injection systems.{
+	=TRUE#Carburetors have been used in the industry for years and these are simple devices but the mechanical reaction time of a carburetor will never match the speed and accuracy of a fuel injection system.
+	~FALSE#Carburetors have been used in the industry for years and these are simple devices but the mechanical reaction time of a carburetor will never match the speed and accuracy of a fuel injection system.
+}
+
+
+//name:TQ0308
+::TQ0308::Intake manifold heating is not normally used with multi-point injection because the:{
+	=the manifold carries air only.#Intake manifolds of carburetor or EFI throttle body injection systems are heated so that the air/fuel mixture remains atomized as it passes into the engine.
+	~fuel is heated by a warm-up regulator.#Intake manifolds of carburetor or EFI throttle body injection systems are heated so that the air/fuel mixture remains atomized as it passes into the engine.
+	~plenum chamber is used for vaporization.#Intake manifolds of carburetor or EFI throttle body injection systems are heated so that the air/fuel mixture remains atomized as it passes into the engine.
+	~atomizing the fuel is unnecessary.#Intake manifolds of carburetor or EFI throttle body injection systems are heated so that the air/fuel mixture remains atomized as it passes into the engine.
+}
+
+
+//name:TQ0309
+::TQ0309::The air runner pipes from the plenum chamber to the cylinders on an air intake system are:{
+	=normally the same size and length.#In multi-point injection systems, the air required for the combustion of the fuel is led from the air filter, through the throttle valve, and into the common manifold, or plenum chamber. From here, individual intake runners, or pipes, branch off to each cylinder. All of these pipes are of equal length.
+	~the same length, but different diameter depending on the cylinder firing order.#In multi-point injection systems, the air required for the combustion of the fuel is led from the air filter, through the throttle valve, and into the common manifold, or plenum chamber. From here, individual intake runners, or pipes, branch off to each cylinder. All of these pipes are of equal length.
+	~the same internal volume but of different length and diameter depending on the location of the plenum chamber.#In multi-point injection systems, the air required for the combustion of the fuel is led from the air filter, through the throttle valve, and into the common manifold, or plenum chamber. From here, individual intake runners, or pipes, branch off to each cylinder. All of these pipes are of equal length.
+	~always the same diameter regardless of length.#In multi-point injection systems, the air required for the combustion of the fuel is led from the air filter, through the throttle valve, and into the common manifold, or plenum chamber. From here, individual intake runners, or pipes, branch off to each cylinder. All of these pipes are of equal length.
+}
+
+
+//name:TQ0310
+::TQ0310::What measures the volume of air that is taken into the engine?{
+	=Air flow meter.#There are a number of different types of airflow meters including, karmen vortex, hot wire and mass air flow sensor (MAF).
+	~Air flow spectrometer.#There are a number of different types of airflow meters including, karmen vortex, hot wire and mass air flow sensor (MAF).
+	~Air flow sensor.#There are a number of different types of airflow meters including, karmen vortex, hot wire and mass air flow sensor (MAF).
+	~Air pressure sensor.#There are a number of different types of airflow meters including, karmen vortex, hot wire and mass air flow sensor (MAF).
+}
+
+
+//name:TQ0311
+::TQ0311::If the airflow meter is not fully sealed to prevent additional air from entering it will cause the engine to:{
+	=run lean.#Unmetered airflow into the engine will result in an air to fuel ratio that is leaner than anticipated.
+	~run cold.#Unmetered airflow into the engine will result in an air to fuel ratio that is leaner than anticipated.
+	~run hot.#Unmetered airflow into the engine will result in an air to fuel ratio that is leaner than anticipated.
+	~not start.#Unmetered airflow into the engine will result in an air to fuel ratio that is leaner than anticipated.
+	~run rich.#Unmetered airflow into the engine will result in an air to fuel ratio that is leaner than anticipated.
+}
+
+
+//name:TQ0312
+::TQ0312::The injectors in multi-point fuel injection usually spray fuel directly into the:{
+	=intake port.#Multi point fuel injection system injectors are fitted in such a way that they are able spray fuel into the intake system.   
+	~air cleaner.#Multi point fuel injection system injectors are mounted in such a way that they spray fuel into the intake manifold.   
+	~throttle body.#Multi point fuel injection system injectors are mounted in such a way that they spray fuel into the intake manifold.   
+	~engine cylinder.#Multi point fuel injection system injectors are mounted in such a way that they spray fuel into the intake manifold.   
+}
+
+
+//name:TQ0313
+::TQ0313::A basic gasoline throttle body fuel injection system can be fitted with:  {
+	=either one or two fuel injectors.#Carburetors were replaced with throttle body fuel injection systems (also known as single point or central fuel injection systems) that incorporated electrically controlled fuel-injector valves into the throttle body. 
+	~either two or three fuel injectors.#Carburetors were replaced with throttle body fuel injection systems (also known as single point or central fuel injection systems) that incorporated electrically controlled fuel-injector valves into the throttle body. 
+	~one fuel injector.#Carburetors were replaced with throttle body fuel injection systems (also known as single point or central fuel injection systems) that incorporated electrically controlled fuel-injector valves into the throttle body. 
+	~two fuel injectors.#Carburetors were replaced with throttle body fuel injection systems (also known as single point or central fuel injection systems) that incorporated electrically controlled fuel-injector valves into the throttle body. 
+}
+
+
+//name:TQ0314
+::TQ0314::In a basic gasoline multi-point fuel injection system, the fuel injectors are placed:{
+	=in the intake manifold near to the intake ports in the cylinder head.#A multi-point injection system, also called port injection, has an injector in the port (air/fuel passage) going to each cylinder. Gasoline is sprayed into each intake port and toward each intake valve. Therefore the term multi-point (more than one location) fuel injection is used.
+	~in a throttle body unit on the intake manifold.#A multi-point injection system, also called port injection, has an injector in the port (air/fuel passage) going to each cylinder. Gasoline is sprayed into each intake port and toward each intake valve. Therefore the term multi-point (more than one location) fuel injection is used.
+	~directly into the engine cylinders.#A multi-point injection system, also called port injection, has an injector in the port (air/fuel passage) going to each cylinder. Gasoline is sprayed into each intake port and toward each intake valve. Therefore the term multi-point (more than one location) fuel injection is used.
+	~into a plenum chamber.#A multi-point injection system, also called port injection, has an injector in the port (air/fuel passage) going to each cylinder. Gasoline is sprayed into each intake port and toward each intake valve. Therefore the term multi-point (more than one location) fuel injection is used.
+}
+
+
+//name:TQ0315
+::TQ0315::The injectors in a single-point fuel injection usually spray fuel directly into the:{
+	=throttle body.#Single point fuel injection system injectors are mounted in such a way that they spray into the throttle body of the intake manifold.
+	~air cleaner.#Single point fuel injection system injectors are mounted in such a way that they spray into the throttle body of the intake manifold.
+	~inlet valve.#Single point fuel injection system injectors are mounted in such a way that they spray into the throttle body of the intake manifold.
+	~engine cylinder.#Single point fuel injection system injectors are mounted in such a way that they spray into the throttle body of the intake manifold.
+}
+
+
+//name:TQ0316
+::TQ0316::In a basic gasoline multi-point fuel injection system, the fuel injectors are controlled by:{
+	=the electronic control unit.#The actual operating time of the injectors depends very much on battery voltage. The response time to lift the injector needle to the fully-open position is about 1 millisecond. If battery voltage is low, this response time is longer and the engine receives less fuel. The ECU can compensate for this delay in opening time by extending the duration of the injection pulse. In more sophisticated engine management systems the control unit can control additional functions such as ignition timing, injection modes, idle speed, cooling fans, and fuel pump operation. To do this however, more inputs are needed.
+	~atmospheric pressure.#The actual operating time of the injectors depends very much on battery voltage. The response time to lift the injector needle to the fully-open position is about 1 millisecond. If battery voltage is low, this response time is longer and the engine receives less fuel. The ECU can compensate for this delay in opening time by extending the duration of the injection pulse. In more sophisticated engine management systems the control unit can control additional functions such as ignition timing, injection modes, idle speed, cooling fans, and fuel pump operation. To do this however, more inputs are needed.
+	~engine speed.#The actual operating time of the injectors depends very much on battery voltage. The response time to lift the injector needle to the fully-open position is about 1 millisecond. If battery voltage is low, this response time is longer and the engine receives less fuel. The ECU can compensate for this delay in opening time by extending the duration of the injection pulse. In more sophisticated engine management systems the control unit can control additional functions such as ignition timing, injection modes, idle speed, cooling fans, and fuel pump operation. To do this however, more inputs are needed.
+	~the fuel pump.#The actual operating time of the injectors depends very much on battery voltage. The response time to lift the injector needle to the fully-open position is about 1 millisecond. If battery voltage is low, this response time is longer and the engine receives less fuel. The ECU can compensate for this delay in opening time by extending the duration of the injection pulse. In more sophisticated engine management systems the control unit can control additional functions such as ignition timing, injection modes, idle speed, cooling fans, and fuel pump operation. To do this however, more inputs are needed.
+}
+
+
+//name:TQ0317
+::TQ0317::In a basic gasoline throttle body fuel injection system the fuel injector is placed in:{
+	=a throttle body unit on the intake manifold.#A single-point injection system, also called throttle body injection (TBI), has the injector nozzles in a throttle body assembly on top of the engine. Fuel is sprayed into the top center of the intake manifold.
+	~a throttle body unit on the exhaust manifold.#A single-point injection system, also called throttle body injection (TBI), has the injector nozzles in a throttle body assembly on top of the engine. Fuel is sprayed into the top center of the intake manifold.
+	~the carburetor venturi.#A single-point injection system, also called throttle body injection (TBI), has the injector nozzles in a throttle body assembly on top of the engine. Fuel is sprayed into the top center of the intake manifold.
+}
+
+
+//name:TQ0318
+::TQ0318::In multi-point EFI systems fuel is transferred from the tank to the fuel rail by the:{
+	=fuel pump.#EFI systems use electric fuel pumps because the system has to be pressurized before the engine can be started.
+	~fuel filter.#EFI systems use electric fuel pumps because the system has to be pressurized before the engine can be started.
+	~fuel regulator.#EFI systems use electric fuel pumps because the system has to be pressurized before the engine can be started.
+	~fuel accumulator.#EFI systems use electric fuel pumps because the system has to be pressurized before the engine can be started.
+}
+
+
+//name:TQ0319
+::TQ0319::When all of the injectors operate at the same time the system is called:{
+	=simultaneous.#In simultaneous mode all the injectors operate at the same time and inject once for each revolution of the engine.
+	~early.#In simultaneous mode all the injectors operate at the same time and inject once for each revolution of the engine.
+	~sequential.#In simultaneous mode all the injectors operate at the same time and inject once for each revolution of the engine.
+	~grouped.#In simultaneous mode all the injectors operate at the same time and inject once for each revolution of the engine.
+}
+
+
+//name:TQ0320
+::TQ0320::What controls the quantity of fuel delivered in a multi point injection system?{
+	=Injector pulse width.#Injector pulse width is the duration for which the injector is energised and thus open.
+	~Varying fuel pressure.#Injector pulse width is the duration for which the injector is energised and thus open.
+	~Inlet manifold vacuum.#Injector pulse width is the duration for which the injector is energised and thus open.
+	~Camshaft position.#Injector pulse width is the duration for which the injector is energised and thus open.
+}
+
+
+//name:TQ0321
+::TQ0321::The Oxygen sensor measures:{
+	=the quantity of residual oxygen present in the exhaust gas.#Oxygen sensors (HO2S) measure the residual oxygen content in the exhaust gas. Excess oxygen &#61; weak mixture, and low oxygen	&#61; rich mixture.
+	~the quantity of unburnt fuel present in the exhaust gas.#Oxygen sensors (HO2S) measure the residual oxygen content in the exhaust gas. Excess oxygen &#61; weak mixture, and low oxygen &#61; rich mixture.
+	~the carbon monoxide levels in the exhaust gas.#Oxygen sensors (HO2S) measure the residual oxygen content in the exhaust gas. Excess oxygen &#61; weak mixture, and low oxygen	&#61; rich mixture.
+	~the hydrocarbon levels in the exhaust gas.#Oxygen sensors (HO2S) measure the residual oxygen content in the exhaust gas. Excess oxygen &#61; weak mixture, and low oxygen	&#61; rich mixture.
+}
+
+

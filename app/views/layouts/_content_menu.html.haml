@@ -1,0 +1,33 @@
+%br
+- if current_menu_version.has_heirarchical_root?
+  - cache([current_menu, current_menu_version.version]) do
+    #content-level-menu
+      - current_menu_version.categories.roots.each do |level|
+        - unless ['Diagnostics'].include?(level.name)
+          %h3= link_to level.name, '#'
+          %div
+            - level.children.each do |category|
+              %li= link_to image_tag("little_red_triangle.gif") + category.name, category
+
+    #content-menu.ui-widget.ui-corner-all.ui-widget-content
+      - if current_menu_version.has_print_support?
+        = link_to image_tag("little_red_triangle.gif") + "Print Support", print_support_path
+
+      = link_to image_tag("little_red_triangle.gif") + "Info & Help", info_help_path
+
+  - content_for(:onload) do
+    $("#content-level-menu").accordion({autoHeight: false, navigation: true, collapsible: true, active: false});
+
+- else
+  - cache([current_menu, current_menu_version.version]) do
+    #content-menu
+      .ui-widget.ui-corner-all.ui-widget-content
+        - current_menu_version.categories.roots.each do |category|
+          = link_to(image_tag("little_red_triangle.gif") + category.name, category) unless ['Info & Help', 'Print Support', 'Diagnostics'].include?(category.name)
+
+        -# Print support enabled only for v5.0 & v5.1 menus except Pearson, MITO and NZ
+        -# FIXME: NZ (and thus MITO) need print support
+        - if current_menu_version.has_print_support?
+          = link_to image_tag("little_red_triangle.gif") + "Print Support", print_support_path
+
+        = link_to image_tag("little_red_triangle.gif") + "Info & Help", info_help_path

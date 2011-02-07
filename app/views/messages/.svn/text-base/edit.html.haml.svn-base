@@ -1,0 +1,20 @@
+#message-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  = render :partial => "messages/tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - form_for(resource) do |f|
+      = render :partial => 'form', :locals => { :f => f }
+
+- content_for(:head) do
+  = javascript_include_tag "fcbkcomplete"
+  = stylesheet_link_tag 'fcbkcomplete'
+
+- content_for(:onload) do
+  :plain
+    $("#message_recipient_ids").fcbkcomplete({
+      json_url: "/messages/recipient_list.json",
+      json_cache: true,
+      filter_case: false,
+      filter_hide: true,
+      newel: false
+    });

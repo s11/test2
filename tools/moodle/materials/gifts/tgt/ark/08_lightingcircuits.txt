@@ -1,0 +1,45 @@
+//name:TQ1168
+::TQ1168::Wiring diagrams give information about:{
+	=electrical circuits and their components.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~voltage applied to a circuit.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~current flow to components.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~circuit resistance.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+}
+
+
+//name:TQ1169
+::TQ1169::Wiring diagrams enable technicians to:{
+	=trace the location of components and their connections when a system is faulty.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~trace the voltage applied through a particular circuit.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~work out the current flow to components.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+	~work out the component circuit resistance.#Vehicle wiring diagrams can be very complicated and often many diagrams are made for a single vehicle, with individual diagrams drawn for each major circuit.
+}
+
+
+//name:TQ1170
+::TQ1170::The headlight circuit normally consists of:{
+	=battery, fusible link and fuses, switch, relays, dipper switch, headlight assemblies, main beam indicator lamp and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+	~battery, fusible link, switch, relays, dipper switch, headlight assemblies, main beam indicator lamp and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+	~battery, fusible link and fuses, switch, headlight assemblies, a beam indicator lamp and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+	~battery, fuses, switch, relays, dipper switch, headlight assemblies and wiring.#Thermal circuit breakers are sometimes used in headlights systems instead of fuses.
+}
+
+
+//name:TQ1171
+::TQ1171::Even the most basic vehicles include many electronically controlled systems. If each electronic system had its own ECU, harness and sensors, the weight of the added components would negate any efficiency it provided. How can this be overcome?{
+	=By the use of a multiplexed serial communications network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+	~By the use of a multiplexed parallel communications network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+	~By the use of a single serial data network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+	~By the use of a serial-parallel network to reduce the need for additional wiring.#Multiplexing works by sending many signals at different frequencies at the same time across a single conductor.
+}
+
+
+//name:TQ1172
+::TQ1172::Why are vehicles fitted with lighting systems in parallel to each other?{
+	=Because if one system fails the others can still work independently of the failed system.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+	~Because it is simpler to construct in the first place.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+	~Because one system operates off the other and it is easier to trace faults when a lamp fails.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+	~Because one fuse can be used for all systems.#Strategies like separate fuses and circuits and the use of circuit breakers provide some redundancy in vehicle electrical circuits.
+}
+
+

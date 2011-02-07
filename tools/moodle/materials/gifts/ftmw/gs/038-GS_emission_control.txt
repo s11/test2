@@ -1,0 +1,89 @@
+// question: 24867  name: HAQ1546 
+::HAQ1546::[html]Early vehicles vented the fuel tank through the .............................. cap into the atmosphere.{
+	=%100%filler#
+}
+
+
+// question: 24868  name: HAQ1547 
+::HAQ1547::[html]A vacuum relief valve can relieve low pressure in the tank when the temperature drops. This will also stop the tank from .............................. if its internal pressure falls below atmospheric  pressure.{
+	=%100%collapsing#
+}
+
+
+// question: 24869  name: HAQ1548 
+::HAQ1548::[html]If the tank's internal pressure exceeds the set value of the relief valve, it can stop the tank from ..............................{
+	=%100%rupturing#
+}
+
+
+// question: 24870  name: HAQ1549 
+::HAQ1549::[html]A liquid vapor-.............................. may be connected to the tank by a number of tubes.{
+	=%100%separator#
+}
+
+
+// question: 24871  name: HAQ1550 
+::HAQ1550::[html]A storage device is used to store the fuel vapors. The fuel tank breathes through this storage device. Some vehicles use the engine ..............................{
+	=%100%crankcase#
+}
+
+
+// question: 24872  name: HAQ1551 
+::HAQ1551::[html]Older catalytic converters converted hydrocarbons and carbon monoxide into water and carbon dioxide, but were not able to convert the oxides of ..............................{
+	=%100%nitrogen#
+}
+
+
+// question: 24873  name: HAQ1552 
+::HAQ1552::[html]The converter uses two different types of catalysts to reduce the pollutants: a .............................. catalyst and an oxidation catalyst.{
+	=%100%reduction#
+}
+
+
+// question: 24874  name: HAQ1553 
+::HAQ1553::[html]The term 'three-way' is in relation to the three .............................. emissions the converter is designed to reduce: carbon monoxide, hydrocarbons or volatile organic compounds, known as VOCs, produced from evaporated unburned fuel, and nitrogen oxides.{
+	=%100%regulated#
+}
+
+
+// question: 24875  name: HAQ1554 
+::HAQ1554::[html]The exhaust gases first pass over the reduction catalyst in the converter. The platinum and .............................. coating helps to reduce the oxides of nitrogen, together known as 'NOX' emissions.{
+	=%100%rhodium#
+}
+
+
+// question: 24876  name: HAQ1555 
+::HAQ1555::[html]The exhaust gases flow over the oxidation catalyst in the converter. This has the effect of reducing any  unburned hydrocarbons and carbon monoxide by oxidizing them over the platinum and .............................. coating.{
+	=%100%palladium#
+}
+
+
+// question: 24877  name: HAQ1564 
+::HAQ1564::[html]While the engine is running, some gases from combustion leak between the piston rings and the cylinder walls, down into the crankcase. This leakage is called ..............................{
+	=%100%blow-by#
+	=%100%blow by#
+}
+
+
+// question: 24878  name: HAQ1565 
+::HAQ1565::[html]To prevent pressure build-up, the crankcase must be ..............................{
+	=%100%ventilated#
+}
+
+
+// question: 24879  name: HAQ1566 
+::HAQ1566::[html]The crankcase ventilation system is designed to remove more air than just blow-by, so there's a fresh air intake, usually at the air .............................., to direct filtered air to the crankcase.{
+	=%100%cleaner#
+}
+
+
+// question: 24880  name: HAQ1567 
+::HAQ1567::[html]Fresh air intake is usually as far as possible from the .............................. valve.{
+	=%100%PCV#
+}
+
+
+// question: 24881  name: HAQ1568 
+::HAQ1568::[html]Gases that can't be handled through the vacuum system, are directed back through the inlet connection to the air cleaner, where they join the carburetter intake air, and are drawn into the cylinders for ..............................{
+	=%100%burning#
+}

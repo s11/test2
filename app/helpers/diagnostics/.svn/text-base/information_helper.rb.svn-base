@@ -1,0 +1,2 @@
+module Diagnostics::InformationHelper
+end

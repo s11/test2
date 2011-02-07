@@ -1,0 +1,109 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/rails_plugins/net_suite
+svn://curfew.jbpub.com/online
+
+
+
+2008-12-08T23:38:58.498951Z
+1937
+johnm
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+34e5b2fdaaf69c6efcb1ec333a9d2fbc
+2008-11-23T21:02:19.780968Z
+1820
+johnm
+
+tasks
+dir
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+0f0469876ac108aa6b3b17efa99c8602
+2008-12-01T01:17:59.779749Z
+1891
+johnm
+
+lib
+dir
+
+install.rb
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+cbe738c10eba4ae2da8c6859c9723e44
+2008-11-23T21:02:19.780968Z
+1820
+johnm
+
+MIT-LICENSE
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+ef8a8411d1f142aee549cd9a00a720d5
+2008-11-23T21:02:19.780968Z
+1820
+johnm
+
+uninstall.rb
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+2a5fc883fe7f8dfe22ced24643d59ad4
+2008-11-23T21:02:19.780968Z
+1820
+johnm
+
+README
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+fa55bf377e40689e96f5899c46bb74b1
+2008-11-23T21:02:19.780968Z
+1820
+johnm
+

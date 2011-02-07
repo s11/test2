@@ -1,0 +1,252 @@
+//name:TQ1181
+::TQ1181::Heat is a form of energy which means it can be destroyed.{
+	=FALSE#Energy cannot be destroyed. By doing work it can be changed from one state to another.
+	~TRUE#Energy cannot be destroyed. By doing work it can be changed from one state to another.
+}
+
+
+//name:TQ1182
+::TQ1182::The amount of heat required to cause a change of state in a substance is called:{
+	=latent heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+	~controllable heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+	~sensible heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+	~specific heat.#Two changes of state occur in the air-conditioning system. One at the condenser where high pressure vapor changes to high pressure liquid, and one at the evaporator where low pressure liquid changes to low pressure vapor.
+}
+
+
+//name:TQ1183
+::TQ1183::As refrigerants boil and become vapor they:{
+	=absorb heat from surrounding objects.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~lose latent heat.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~add heat to surrounding objects.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~release BTUs of heat.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+}
+
+
+//name:TQ1184
+::TQ1184::Evaporation is a change of state from a:{
+	=liquid to a vapor.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~solid to a liquid.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~vapor to a liquid.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+	~vapor to a solid.#The process of boiling a liquid refrigerant so it becomes vapor is known as a change of state of the refrigerant. The refrigerant has changed from a liquid to a gas.
+}
+
+
+//name:TQ1185
+::TQ1185::Refrigerant enters the evaporator as a:{
+	=low pressure atomized liquid.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+	~low pressure vapor.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+	~high pressure gas.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+	~high pressure liquid.#The low pressure atomized liquid quickly turns to vapor as it absorbs heat from the relatively warm air flowing over the surface of the evaporator.
+}
+
+
+//name:TQ1186
+::TQ1186::Refrigerant in the air-conditioning system is in a high pressure state as it enters the evaporator core.{
+	=FALSE#The thermostatic expansion valve changes the high pressure liquid entering it into low pressure atomized liquid.
+	~TRUE#The thermostatic expansion valve changes the high pressure liquid entering it into low pressure atomized liquid.
+}
+
+
+//name:TQ1187
+::TQ1187::Refrigerant is contained within the air-conditioning system. The refrigerant must have a:{
+	=low boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+	~medium boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+	~intermediate boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+	~high boiling point.#There are different types of refrigerant each with its own properties. All have low boiling points. That's what makes them a good refrigerant. Always ensure you use the correct refrigerant as per manufacturers' requirements.
+}
+
+
+//name:TQ1188
+::TQ1188::The refrigerant in an A/C system is drawn into the compressor as:{
+	=low pressure vapor.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~high pressure vapor.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~high pressure liquid.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~low pressure liquid.#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+}
+
+
+//name:TQ1189
+::TQ1189::The thermostatic expansion valve or orifice tube converts high pressure liquid refrigerant into low pressure liquid refrigerant.{
+	=TRUE#The expansion valve or orifice tube ensures a change of state occurs in the refrigerant. High pressure liquid enters the valve or tube and low pressure liquid exits. It quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+	~FALSE#The expansion valve or orifice tube ensures a change of state occurs in the refrigerant. High pressure liquid enters the valve or tube and low pressure liquid exits. It quickly turns to vapor by absorbing heat from the relatively warm air flowing over the surface of the evaporator.
+}
+
+
+//name:TQ1190
+::TQ1190::Which of the following describes the refrigerant as it leaves the condenser in a normally operating air-conditioning system?{
+	=High pressure liquid.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+	~Low pressure vapor.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+	~Low pressure liquid.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+	~High pressure vapor.#Refrigerant enters the condenser as a high pressure vapor and leaves a high pressure liquid.
+}
+
+
+//name:TQ1191
+::TQ1191::Which of these components is used to change the vaporized refrigerant to liquid?{
+	=Condenser.#Changing the high pressure vapor into a high pressure liquid in the condenser is called changing the state of the refrigerant.
+	~Evaporator.#Changing the high pressure vapor into a high pressure liquid in the condenser is called changing the state of the refrigerant.
+	~Compressor.#Changing the high pressure vapor into a high pressure liquid in the condenser is called changing the state of the refrigerant.
+}
+
+
+//name:TQ1192
+::TQ1192::The air-conditioning component that changes high pressure vaporized refrigerant into a liquid is known as the:{
+	=condenser.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~compressor.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~thermostatic expansion valve.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+	~evaporator.#In order to condense the high pressure vapor into a high pressure liquid heat must be removed from the refrigerant. The condenser does this and must have a good flow of ram air through it to assist in cooling the refrigerant.
+}
+
+
+//name:TQ1193
+::TQ1193::The air-conditioning compressor converts low pressure liquid refrigerant into high pressure liquid refrigerant.{
+	=FALSE#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+	~TRUE#If liquid refrigerant enters the compressor it will damage it. Remember liquid cannot be compressed.
+}
+
+
+//name:TQ1194
+::TQ1194::The component that transfers heat from the refrigerant to the outside air is called the:{
+	=condenser.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+	~evaporator.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+	~accumulator.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+	~compressor.#The condenser is usually mounted in front of the radiator and requires a good flow of ram air through it to cool the refrigerant.
+}
+
+
+//name:TQ1195
+::TQ1195::The evaporator is where the refrigerant changes from a low pressure liquid to a low pressure gas, absorbing heat from the air in the passenger compartment.{
+	=TRUE#Two changes of state occur in the air-conditioning system. One at the condenser high pressure vapor to high pressure liquid and one at the evaporator low pressure liquid to low pressure vapor.
+	~FALSE#Two changes of state occur in the air-conditioning system. One at the condenser high pressure vapor to high pressure liquid and one at the evaporator low pressure liquid to low pressure vapor.
+}
+
+
+//name:TQ1196
+::TQ1196::Heat applied to one end of a steel bar will travel through the material and the other end will also become heated. What is this method of heat transfer called?{
+	=Conduction.#Metals tend to be very good conductors of heat.
+	~Convection.#Metals tend to be very good conductors of heat.
+	~Radiation.#Metals tend to be very good conductors of heat.
+}
+
+
+//name:TQ1197
+::TQ1197::One of the functions of a basic air-conditioning system is to remove heat from:{
+	=the inside of the passenger compartment only.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+	~the inside of the vehicle.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+	~a vehicle's engine.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+	~a vehicle.#A large amount of heat is generated within the cabin of a vehicle. The heat load comes from the ambient air, sun, engine, exhaust, road surface and passengers.
+}
+
+
+//name:TQ1198
+::TQ1198::An appropriate definition of 'cold' in relation to air-conditioning principles is:{
+	=a relative absence of heat.#Heat can be added or removed to vary the temperature of a substance.
+	~when the interior air temperature is different to the ambient air temperature.#Heat can be added or removed to vary the temperature of a substance.
+	~a change in the degree of heat.#Heat can be added or removed to vary the temperature of a substance.
+	~always present.#Heat can be added or removed to vary the temperature of a substance.
+}
+
+
+//name:TQ1199
+::TQ1199::In relation to air-conditioning principles, heat always:{
+	=travels from the warmer object to the cooler object.#Heat is removed from substances to reduce their temperature.
+	~travels through air.#Heat is removed from substances to reduce their temperature.
+	~remains constant.#Heat is removed from substances to reduce their temperature.
+	~travels to the neutral object.#Heat is removed from substances to reduce their temperature.
+}
+
+
+//name:TQ1200
+::TQ1200::All air-conditioners clean, cool and humidify the air entering the vehicle.{
+	=FALSE#Whilst many refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air, not all do this.
+	~TRUE#Whilst many refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air, not all do this.
+}
+
+
+//name:TQ1201
+::TQ1201::Lowering the temperature of the air entering the cabin also:{
+	=reduces its relative humidity.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~increases cabin air pressure.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~reduces cabin air pressure.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~increases its relative humidity.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+}
+
+
+//name:TQ1202
+::TQ1202::While air-conditioning removes heat from the interior of the vehicle, it also:{
+	=reduces the moisture levels in the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~maintains the moisture levels in the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~increases the moisture levels in the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+	~removes all the moisture from the interior of the vehicle.#Refrigerative air-conditioners like those fitted to vehicles are very good at reducing the humidity of the vent or outlet air.
+}
+
+
+//name:TQ1203
+::TQ1203::All refrigerants can be vented or released into the atmosphere.{
+	=FALSE#Refrigerants must be recycled using a refrigerant recovery unit.
+	~TRUE#Refrigerants must be recycled using a refrigerant recovery unit.
+}
+
+
+//name:TQ1204
+::TQ1204::Hot engine coolant is circulated through the heater core by the:{
+	=cooling system water pump.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+	~heating system radiator fan.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+	~cooling system radiator fan.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+	~air-conditioning compressor.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A leak in the heating system will affect the performance of the vehicle's cooling system.
+}
+
+
+//name:TQ1205
+::TQ1205::What assists the flow of air through the passenger compartment when the vehicle is stationary?{
+	=An electric fan.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+	~Vehicle movement.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+	~The engine fan.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+	~Opening side windows.#The electric fan is usually fitted under the dash and the same motor is usually used for both the air-conditioner and heater.
+}
+
+
+//name:TQ1206
+::TQ1206::What is used as a source of heat for the passenger compartment?{
+	=Heat from the coolant.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+	~An electric heater.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+	~Heat from the engine bay.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+	~Heat from the exhaust.#The heater unit is part of the engine cooling system. Water flow through the heater unit is controlled by a valve connected to the air temperature control.
+}
+
+
+//name:TQ1207
+::TQ1207::If the vehicle's cabin heater fails in its operation the air-conditioning unit can still function normally.{
+	=TRUE#The air-conditioning system is a separate system from the heater unit. Often both the heater radiator and the air-conditioner evaporator are positioned beside each other under the dash.
+	~FALSE#The air-conditioning system is a separate system from the heater unit. Often both the heater radiator and the air-conditioner evaporator are positioned beside each other under the dash.
+}
+
+
+//name:TQ1208
+::TQ1208::The intake of fresh air into the interior of a vehicle is usually drawn from:{
+	=the base of the windshield.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+	~the radiator grill.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+	~below the front bumper.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+	~the engine bay.#It's important that any fresh air intake into the vehicle is taken from a point where it cannot be contaminated by the vehicles exhaust or other dangerous fumes.
+}
+
+
+//name:TQ1209
+::TQ1209::The temperature of the heater is controlled by: (check ALL that apply).{
+	=%50%the heater tap.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+	~%50%a flap in the under dash unit.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+	~engine speed.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+	~vehicle speed.#The liquid side of the heater circuit is connected to the vehicle's cooling system. A heater tap controls the amount of water that flows through the heater radiator. The tap can be controlled by a cable or by an actuator in climate control systems.
+}
+
+
+//name:TQ1210
+::TQ1210::The heater core is normally located:{
+	=under the dash.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+	~in the trunk.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+	~in the parcel shelf.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+	~in the engine compartment.#It is often mounted beside the evaporator in vehicles fitted with integrated air-conditioning systems.
+}
+
+

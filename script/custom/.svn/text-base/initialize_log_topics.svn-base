@@ -1,0 +1,9 @@
+# 
+#  initialize_log_topics
+#  online
+#  
+#  Created by John Meredith on 2008-07-25.
+#  Copyright 2008 CDX Global. All rights reserved.
+# 
+# Client.paginated_each(:conditions => "client_prefix >= 'jocc'", :order => "client_prefix ASC").each do |client|
+Client.paginated_each(:order => "client_prefix ASC") { |client| TopicLog.update_client_log_topics(client) }

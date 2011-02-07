@@ -1,0 +1,19 @@
+- information_box do
+  Select the Task Areas and relevant NATEF Standard year for tasksheet submission. Students will only be able to submit tasksheet for the areas you have selected.
+
+= f.label :prefers_natef_version, "NATEF Version:"
+= f.select :prefers_natef_version, ['2002', '2005', '2008']
+
+%table#listing{ :style => "width: auto; margin: 0 auto" }
+  %thead.ui-widget-header
+    %th Task Area
+    %th{ :width => "30%" }= link_to_function 'Task Area for Reporting', "$('.taskarea').attr('checked', !$('.taskarea').attr('checked') )"
+
+  
+  %tbody
+    - NatefTaskArea.names_by_version(current_client.preferred_natef_version).each do |name|
+      %tr
+        %td= name
+        %td.centre= check_box_tag "natef_certified_areas[#{name}]", true, current_client.natef_certified_areas.by_version(current_client.preferred_natef_version).map(&:description).include?(name), :class => "taskarea"
+
+.centre= update_button_tag

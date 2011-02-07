@@ -1,0 +1,49 @@
+//name:TQ0388
+::TQ0388::The purpose of the ECU is to control the ignition and fuel components on an EFI system.{
+	=Yes, the ECU has the ability to control a number of ignition and fuel system components including the injectors and the fuel pump during operation.#The ECU receives inputs from various sensors, upon which it makes decisions in relation to spark timing and the amount of fuel required by the engine.
+	~No, the ECU only has the ability to control fuel system components.#The ECU receives inputs from various sensors, upon which it makes decisions in relation to spark timing and the amount of fuel required by the engine.
+	~No, the ECU only has the ability to control ignition system components.#The ECU receives inputs from various sensors, upon which it makes decisions in relation to spark timing and the amount of fuel required by the engine.
+}
+
+
+//name:TQ0389
+::TQ0389::The basic function of the ECU is to control the amount of air entering the engine.{
+	=FALSE#The basic function of the ECU is to control the pulse width of the injector. In engine management systems, the ECU controls additional functions such as idle speed, ignition timing, and fuel pump operation.
+	~TRUE#The basic function of the ECU is to control the pulse width of the injector. In engine management systems, the ECU controls additional functions such as idle speed, ignition timing, and fuel pump operation.
+}
+
+
+//name:TQ0390
+::TQ0390::Which of the following is NOT a controlled output of the ECU?{
+	=Intake air volume.#The basic function of the ECU is to control the pulse width of the injector. The intake air volume is determined by the throttle, controlled by the driver of the vehicle.
+	~Pulse width of the injector.#The basic function of the ECU is to control the pulse width of the injector. The intake air volume is determined by the throttle, controlled by the driver of the vehicle.
+	~Speed limiting.#The basic function of the ECU is to control the pulse width of the injector. The intake air volume is determined by the throttle, controlled by the driver of the vehicle.
+	~Ignition timing.#The basic function of the ECU is to control the pulse width of the injector. The intake air volume is determined by the throttle, controlled by the driver of the vehicle.
+}
+
+
+//name:TQ0391
+::TQ0391::The ECU corrects ignition timing to achieve the optimum setting for each operating condition.{
+	=TRUE#Between one spark and the next, the ECU uses data it receives on engine load and speed to determine when the next ignition point will occur. 
+	~FALSE#Between one spark and the next, the ECU uses data it receives on engine load and speed to determine when the next ignition point will occur. 
+}
+
+
+//name:TQ0392
+::TQ0392::When engine speed reaches a programmed maximum, the fuel injection pulses can be suppressed. In some systems the fuel injectors are turned off at a pre-set engine speed. Once the engine speed has slowed to a safe value the injectors are turned back on. What is this called?{
+	=A hard limiter.#Other systems use soft limiters where once a pre-set engine speed has been reached, the injector pulse width is reduced to prevent the engine from turning any faster.
+	~A soft limiter.#Other systems use soft limiters where once a pre-set engine speed has been reached, the injector pulse width is reduced to prevent the engine from turning any faster.
+	~An injection limiter.#Other systems use soft limiters where once a pre-set engine speed has been reached, the injector pulse width is reduced to prevent the engine from turning any faster.
+	~A pulse limiter.#Other systems use soft limiters where once a pre-set engine speed has been reached, the injector pulse width is reduced to prevent the engine from turning any faster.
+}
+
+
+//name:TQ0393
+::TQ0393::When a MIL light comes on during operation of the vehicle, what does it indicate?{
+	=It is a malfunction indicator light and it indicates that there is a fault in the system.#Fault codes are stored by the ECU to assist in diagnosis. They can be read by diagnostic scanning tools.
+	~It is a memory indicator light and it indicates that there is a fault in the ECU memory system.#Fault codes are stored by the ECU to assist in diagnosis. They can be read by diagnostic scanning tools.
+	~It is a manifold indicator light and it indicates that there is a fault in the manifold.#Fault codes are stored by the ECU to assist in diagnosis. They can be read by diagnostic scanning tools.
+	~It is a more internal lubricant warning lamp and indicates that the engine oil needs replenishing.#Fault codes are stored by the ECU to assist in diagnosis. They can be read by diagnostic scanning tools.
+}
+
+

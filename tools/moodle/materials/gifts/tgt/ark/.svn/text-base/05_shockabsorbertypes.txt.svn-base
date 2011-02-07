@@ -1,0 +1,80 @@
+//name:TQ0543
+::TQ0543::The gas used in many gas-pressurized shock absorbers is:{
+	=nitrogen gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+	~hydrogen gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+	~inert gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+	~compressed gas.#The rapid piston movement as the vehicle moves over the road causes the hydraulic fluid to aerate. This reduces the dampening effect and the shock absorber's performance very quickly deteriorates. This condition is called shock absorber dissolve. It can be reduced substantially by pressurizing the fluid with gas, usually nitrogen.
+}
+
+
+//name:TQ0544
+::TQ0544::A standard hydraulic shock absorber is designed to:{
+	=dampen spring oscillations.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~permit use of coil springs instead of leaf springs.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~improve rigidity of spring mountings.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+	~support part of vehicle mass.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut. The strut type uses the same principle of operation but it is considerably larger.  The hydraulic shock absorber provides its dampening action by transferring oil under pressure through valves which restrict the oil flow.
+}
+
+
+//name:TQ0545
+::TQ0545::Shock absorbers convert the energy they absorb into:{
+	=heat.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~fluid pressure.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~driving force.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+	~oil in the reservoir.#The rapid movement of the piston continually forcing the oil backwards and forwards through the valves causes it to heat up as it absorbs the energy of motion of the spring and converts it into heat. The heat is transferred through the outer tube to the outside air. However, the hotter the oil becomes the greater its tendency to aerate. Aeration occurs because of the high velocity of the oil as it passes through the small passages in the valves. If the velocity is high enough, air dissolved in the oil, comes out of solution as small bubbles, and forms a foam.
+}
+
+
+//name:TQ0546
+::TQ0546::The most widely used hydraulic shock absorber is the:{
+	=direct-acting telescopic type.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+	~McPherson strut.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+	~strut type.#The most widely used hydraulic shock absorber is the direct-acting telescopic type. It can be fitted as a self-contained unit, or combined with a suspension strut.
+}
+
+
+//name:TQ0547
+::TQ0547::Load-adjustable shock absorbers fitted to some vehicles are adjusted by:{
+	=a manual set screw and lock nut.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+	~compressed air.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+	~nitrogen gas.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+	~adjustable shock absorber mountings.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment. The position of the valves in the piston can then be changed to vary the number of restrictions the oil has to pass through and to vary the force needed to open the valves.
+}
+
+
+//name:TQ0548
+::TQ0548::In load-adjustable shock absorbers, what does changing the air pressure in the cylinder do?{
+	=Adjust ride height.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+	~Adjust tire pressure.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+	~Adjust spring load.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+	~Adjust dampening rate.#Adjusting the shock absorbers will change the ride height as well as the stiffness of the suspension.
+}
+
+
+//name:TQ0549
+::TQ0549::A shock absorber that can be adjusted for dampening effect is called:{
+	=adjustable rate.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+	~constant rate.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+	~gas pressurized.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+	~air adjustable.#Adjustable rate shock absorbers provide a means of changing the rate of dampening of the spring oscillations to suit varying road conditions or driver preference. This shock absorber has a manual external damper rate adjustment.
+}
+
+
+//name:TQ0550
+::TQ0550::Electronically adjustable shock absorbers alter their damping rate by:{
+	=changing the number of restrictions the oil must pass through.#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+	~changing the viscosity of the oil#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+	~changing the gas pressure inside the shock absorber.#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+	~changing the magnetic field around the spring.#Electronically adjustable shock absorbers alter their damping rate by changing the number of restrictions the oil must pass through.
+}
+
+
+//name:TQ0551
+::TQ0551::In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to:{
+	=2 minutes#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+	~20 seconds#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+	~2 seconds#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+	~20 minutes#In automatic load-adjustable shock absorbers, the compressor run time or exhaust time is limited to 2 minutes.
+}
+
+

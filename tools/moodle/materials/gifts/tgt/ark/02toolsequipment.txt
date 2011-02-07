@@ -1,0 +1,955 @@
+//name:TQ0090
+::TQ0090::What happens to the properties of steel when the amount of carbon is varied? {
+	=Properties such as ductility, hardness and toughness are changed.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+	~Properties such as ductility, hardness and toughness remain the same.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+	~The more carbon that is added the softer the steel becomes.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+	~The more carbon that is added the tougher the steel becomes.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+}
+
+
+//name:TQ0091
+::TQ0091::Hardening and tempering is the process of changing the properties of a metal to provide better performance characteristics.{
+	=TRUE#Hardening through a tempering process reorganizes the metal structure at the atomic level thus creating a more durable characteristic that resists wear or is able to endure higher shock loads.
+	~FALSE#Hardening through a tempering process reorganizes the metal structure at the atomic level thus creating a more durable characteristic that resists wear or is able to endure higher shock loads.
+}
+
+
+//name:TQ0092
+::TQ0092::Heating and then cooling certain kinds of steel changes the way that the elements in the alloy are arranged. {
+	=TRUE#Heating and then swiftly cooling certain kinds of steel results in a harder material consisting of a mass of needle-shaped crystals.
+	~FALSE#Heating and then swiftly cooling certain kinds of steel results in a harder material consisting of a mass of needle-shaped crystals.
+}
+
+
+//name:TQ0093-
+::TQ0093::How is the induction hardening process carried out?{
+	=Induction hardening is done by inducing a high current flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+	~Induction hardening is done by inducing a low current flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+	~Induction hardening is done by inducing a high voltage flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+	~Induction hardening is done by inducing a low voltage flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+}
+
+
+//name:TQ0094
+::TQ0094::How is flame hardening different to induction hardening?{
+	=They both work in a similar fashion but in flame hardening, the material is water-quenched.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+	~They both work in a similar fashion but in flame hardening, the material is not quenched at all.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+	~They both work in a similar fashion but in flame hardening, the material is dry salt quenched.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+	~They both work in a similar fashion but in flame hardening, the material is immersed in an alkaline solution.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+}
+
+
+//name:TQ0095
+::TQ0095::What should be your most important focus when working on a vehicle?{
+	=Your personal safety.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+	~Following the correct service procedure.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+	~Carrying out the task to industry quality standards.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+	~Correct use of tools and equipment.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+}
+
+
+//name:TQ0096
+::TQ0096::When cleaning electrical equipment you should remove any oil or dirt with a:{
+	=clean and dry rag.#Electricity can use many things as a conductor, including a rag moist with water, grease or oil.  Use only a clean and dry rag. Alternatively use an electrical cleaning spray.
+	~oily rag.#Electricity can use many things as a conductor, including a rag moist with water, grease or oil.  Use only a clean and dry rag. Alternatively use an electrical cleaning spray.
+	~clean, wet rag.#Electricity can use many things as a conductor, including a rag moist with water, grease or oil.  Use only a clean and dry rag. Alternatively use an electrical cleaning spray.
+	~greasy rag.#Electricity can use many things as a conductor, including a rag moist with water, grease or oil.  Use only a clean and dry rag. Alternatively use an electrical cleaning spray.
+}
+
+
+//name:TQ0097
+::TQ0097::When cleaning tools, you should use two types of rag. They are:{
+	=oily and dry.#The oily rag is used to clean the tool while the other is used to dry it.
+	~wet and dry.#The oily rag is used to clean the tool while the other is used to dry it.
+	~oily and greasy.#The oily rag is used to clean the tool while the other is used to dry it.
+	~coarse and smooth.#The oily rag is used to clean the tool while the other is used to dry it.
+}
+
+
+//name:TQ0098
+::TQ0098::There are different air tools for different jobs, but they have one common safety characteristic. What is it?{
+	=Air tools are less likely to ignite flammable materials.#All air tools require air to make them operate. The air used to run the tools is provided by a compressor at medium to high pressure and so you should always observe appropriate safety precautions associated with high pressure gases.  
+	~They are lighter and mostly made of insulating rubber.#All air tools require air to make them operate. The air used to run the tools is provided by a compressor at medium to high pressure and so you should always observe appropriate safety precautions associated with high pressure gases.  
+	~You are less likely to get an electric shock.#All air tools require air to make them operate. The air used to run the tools is provided by a compressor at medium to high pressure and so you should always observe appropriate safety precautions associated with high pressure gases.  
+}
+
+
+//name:TQ0099
+::TQ0099::Once a hand tool has been identified as irreparably faulty, you should:{
+	=purchase a replacement and no longer use the faulty tool.#Irreparable tools should be disposed of and no longer used.
+	~dispose of it when a replacement has been purchased.#Irreparable tools should be disposed of and no longer used.
+	~keep on using it until a replacement has been purchased.#Irreparable tools should be disposed of and no longer used.
+	~only use it if absolutely necessary.#Irreparable tools should be disposed of and no longer used.
+}
+
+
+//name:TQ0100
+::TQ0100::Where should the keys of a disabled vehicle be stored?{
+	=In a key cupboard.#Disabled vehicle keys must be stored in an area that offers the best protect from injury and property damage. The best place is in a key cupboard.
+	~With your supervisor.#Disabled vehicle keys must be stored in an area that offers the best protect from injury and property damage. The best place is in a key cupboard.
+	~Above the sun visor.#Disabled vehicle keys must be stored in an area that offers the best protect from injury and property damage. The best place is in a key cupboard.
+	~In the ignition switch.#Disabled vehicle keys must be stored in an area that offers the best protect from injury and property damage. The best place is in a key cupboard.
+	~On the driver's seat.#Disabled vehicle keys must be stored in an area that offers the best protect from injury and property damage. The best place is in a key cupboard.
+}
+
+
+//name:TQ0101
+::TQ0101::Why are air-powered tools safer to use in an inspection pit?{
+	=They will not cause sparks that could ignite flammable gases.#Since pits are low lying areas they can collect heavier than air, flammable vapors, therefore air tools are safer to use in pits than electric tools.
+	~They will not produce flammable gases.#Since pits are low lying areas they can collect heavier than air, flammable vapors, therefore air tools are safer to use in pits than electric tools.
+	~They require a lower, safer voltage to run.#Since pits are low lying areas they can collect heavier than air, flammable vapors, therefore air tools are safer to use in pits than electric tools.
+	~As they run at lower power, they are less likely to cause damage to the car.#Since pits are low lying areas they can collect heavier than air, flammable vapors, therefore air tools are safer to use in pits than electric tools.
+}
+
+
+//name:TQ0102
+::TQ0102::How should you fully deflate a tire prior to performing repair tasks?{
+	=By removing the valve core.#Shop safety requires you to remove the valve core and deflate the tire though a controlled process.
+	~By opening the valve core.#Shop safety requires you to remove the valve core and deflate the tire though a controlled process.
+	~By breaking the bead.#Shop safety requires you to remove the valve core and deflate the tire though a controlled process.
+	~By putting pressure on the 'dead man's hand' control.#Shop safety requires you to remove the valve core and deflate the tire though a controlled process.
+}
+
+
+//name:TQ0103
+::TQ0103::What type of automotive battery cannot be topped up with electrolyte?{
+	=All of these types.#Sealed batteries do not require any maintenance of the electrolyte levels. If these batteries do leak electrolyte discard and replace them.
+	~Low maintenance sealed.#Sealed batteries do not require any maintenance of the electrolyte levels. If these batteries do leak electrolyte discard and replace them.
+	~Lead iron.#Sealed batteries do not require any maintenance of the electrolyte levels. If these batteries do leak electrolyte discard and replace them.
+	~Nickel metal hydride.#Sealed batteries do not require any maintenance of the electrolyte levels. If these batteries do leak electrolyte discard and replace them.
+}
+
+
+//name:TQ0104
+::TQ0104::Adding a label to a piece of equipment that describes the fault found with it is known as:{
+	=tagout.#An example of 'tagout' would be a clear and unavoidable label affixed to a piece of equipment that describes the fault found with it, together with a warning not to use it.
+	~lockout.#An example of 'tagout' would be a clear and unavoidable label affixed to a piece of equipment that describes the fault found with it, together with a warning not to use it.
+	~locktag.#An example of 'tagout' would be a clear and unavoidable label affixed to a piece of equipment that describes the fault found with it, together with a warning not to use it.
+	~taglock.#An example of 'tagout' would be a clear and unavoidable label affixed to a piece of equipment that describes the fault found with it, together with a warning not to use it.
+}
+
+
+//name:TQ0105
+::TQ0105::You should always ensure that a rolling road has reached suitable speed prior to making adjustments to a vehicle.{
+	=FALSE#The rolling road should always be stationary before making adjustments to a vehicle.
+	~TRUE#The rolling road should always be stationary before making adjustments to a vehicle.
+}
+
+
+//name:TQ0106
+::TQ0106::One advantage of an air-operated drill is that:{
+	=it's safer near flammable solvents.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+	~it can be used away from a power source.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+	~it's quieter than an electric drill.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+	~it can take a large range of drill sizes.#Air-operated drills have significant safety advantages over electric drills. They clearly reduce the risk of shock to zero, are safer when used in confined spaces where fumes are present and are smaller in size and construction to their electric counterparts.  
+}
+
+
+//name:TQ0107
+::TQ0107::Why should a special socket be used with an air impact wrench?{
+	=An air impact wrench can damage a normal socket with sudden force.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~The drive square is a special size.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~The wrench spins the socket very quickly.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~It can be used on a variety of nut sizes.#Sockets come in many forms and sizes. It is important, however, to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools as the socket can be damaged. In such cases only special, strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+}
+
+
+//name:TQ0108
+::TQ0108::The purpose of the drill chuck on a drilling machine is to allow:{
+	=a range of drill sizes to be fitted.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+	~the machine to be held with both hands.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+	~the drills to be thrown into a tool box.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+	~morse taper drills to be removed easily.#Bench drilling machines are designed have a range of options for the drill bits they can use. The chuck is normally fitted to the drill shaft using a morse taper. In this way the chuck can be removed and a large drill bit with a morse taper can be fitted directly into the drill shaft. Bench drills also normally have a range of selectable speeds for drilling. 
+}
+
+
+//name:TQ0109
+::TQ0109::Which important specification must be checked before a grinding wheel is installed on a machine?{
+	=The designed maximum rotational speed.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+	~The metal that the wheel is designed to grind.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+	~The material from which the wheel is made.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+	~The direction of rotation of the wheel.#All grinding wheels are designed to have a maximum rotational speed at which they can operate. It is important to make sure that the one selected meets the specification (rotational speed) for the machine (motor) it is being fitted to. If this is not done the grinding wheel can disintegrate when used which would be very dangerous for the person using it at the time.
+}
+
+
+//name:TQ0110
+::TQ0110::Angle grinders use the face of the edge rather than the edge.{
+	=TRUE#Angle grinders use the edge of the wheel and are useful for jobs that can't be reached with a hacksaw.
+	~FALSE#Angle grinders use the edge of the wheel and are useful for jobs that can't be reached with a hacksaw.
+}
+
+
+//name:TQ0111
+::TQ0111::The most common type or style of impact wrench is:{
+	=pneumatic.#Most impact wrenches are air-driven and therefore pneumatic.
+	~hydraulic.#Most impact wrenches are air-driven and therefore pneumatic.
+	~manual.#Most impact wrenches are air-driven and therefore pneumatic.
+	~portable.#Most impact wrenches are air-driven and therefore pneumatic.
+}
+
+
+//name:TQ0112
+::TQ0112::What personal protection should you wear when using an angle grinder?{
+	=Eye, ear, full face protection and coveralls.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+	~Ear, full face protection and coveralls.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+	~Eye, ear protection and coveralls.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+	~Eye, ear and full face protection.#Always wear impact-resistant protective glasses, ear protection and a full-face shield when using an angle grinder. Everyone who uses an angle grinder must receive training and instruction in safe work procedures.
+}
+
+
+//name:TQ0113
+::TQ0113::The abrasive disc or cutting wheel is attached to the grinder by a:{
+	=flange and nut.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+	~screw and nut.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+	~washer and nut.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+	~flange and screw.#The abrasive disc or cutting wheel is attached to the grinder by a flange and nut. The nut is specially designed to fit in a recess in the center of the pad or wheel. It is tightened by a spanner that is provided with the grinder when purchased.
+}
+
+
+//name:TQ0114
+::TQ0114::What personal protection should you wear when using a bench grinder?{
+	=Full-face protection, ear protection, leather gloves and a leather apron.#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+	~Full-face protection, ear protection, and leather gloves .#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+	~Full-face protection, ear protection and a leather apron.#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+	~Full-face protection, leather gloves and a leather apron.#Always wear full-face protection, ear protection, leather gloves and a leather apron.
+}
+
+
+//name:TQ0115
+::TQ0115::Certain safety attachments MUST be in place before operating the bench grinder. They are:{
+	=all of these.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~wheel guard.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~safety shield.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~tool rest.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+	~water pot.#Certain safety attachments MUST be in place before operating the grinder. They are the wheel guard, the see-through safety shield, the tool rest, a water pot and a full-face protector.
+}
+
+
+//name:TQ0116
+::TQ0116::How do you test the high pressure water flow from a pressure cleaner?{
+	=Point the wand toward the ground and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+	~Point the wand toward the engine bay and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+	~Point the wand toward a concealed part of the chassis and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+	~Point the wand toward your hand and test that the water flows at high pressure.#Do not place your hand, or any other part of your body in the stream of water from the high-pressure wand. Avoid getting the high-pressure spray on the exterior paintwork of the vehicle.
+}
+
+
+//name:TQ0117
+::TQ0117::What is a good cleaning agent for brake components?{
+	=Water.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+	~Kerosene.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+	~Detergent.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+	~Solvent.#Never use Kerosene as a general cleaning agent to clean brake components as it does not clean away brake fluid, can be absorbed into lining materials and can cause seals to swell. Alternately a chemical brake cleaner can be used.
+}
+
+
+//name:TQ0119
+::TQ0119::The air gun is a safe and easy way of cleaning disc brakss.{
+	=FALSE#Do not use the air blowgun to clean brake dust from brake components. It will disperse the dust through the workshop.
+	~TRUE#Do not use the air blowgun to clean brake dust from brake components. It will disperse the dust through the workshop.
+}
+
+
+//name:TQ0120
+::TQ0120::An air chisel operates on the same principle as a 'jack hammer'.{
+	=TRUE#The principle is that of an air cylinder applying and releasing pressure on the tool bit.
+	~FALSE#The principle is that of an air cylinder applying and releasing pressure on the tool bit.
+}
+
+
+//name:TQ0121
+::TQ0121::What safety precaution must be taken before pulling on the air chisel trigger?{
+	=Press the chisel bit against the metal piece to be removed.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+	~Connect the air supply.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+	~Regulate the air pressure.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+	~Make sure you are wearing gloves.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+}
+
+
+//name:TQ0122
+::TQ0122::Which special socket should be used with an air impact wrench?{
+	=A strengthened single six-point type.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~A deep wall socket.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~A balanced high-speed socket.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~A heavy-duty multi-hexagon socket.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+}
+
+
+//name:TQ0123
+::TQ0123::Technician A says when tightening lug or wheel nuts a torque wrench must be used. Technician B says that an air wrench can be used but the final tightening should be done with a torque wrench. Who is correct?{
+	~Technician A.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+	~Technician B.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+	=Both Technician A and Technician B.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+	~Neither Technician A nor Technician B.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+}
+
+
+//name:TQ0124
+::TQ0124::Technician A says air drills are not as powerful as electric drills. Technician B says air drills can cause electric sparks if used where flammable materials are present. Who is correct?{
+	=Technician A.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+	~Technician B.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+	~Both Technician A and Technician B.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+	~Neither Technician A nor Technician B.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+}
+
+
+//name:TQ0125
+::TQ0125::Why is the handle of a box wrench 'bent'?{
+	=To provide full hand grip with work clearance.#Tool design plays an important part in function and safety.  The angle allows for distance between the hand and the work surface.
+	~For leverage.#Tool design plays an important part in function and safety.  The angle allows for distance between the hand and the work surface.
+	~To allow for easier fitting.#Tool design plays an important part in function and safety.  The angle allows for distance between the hand and the work surface.
+	~To provide stronger construction.#Tool design plays an important part in function and safety.  The angle allows for distance between the hand and the work surface.
+}
+
+
+//name:TQ0126
+::TQ0126::Why is one end of a chisel made softer than the other?{
+	=It won't chip when hit with a hammer.#Chisels are designed in a range of shapes and sizes. They all have two items that are common to all types. Firstly the blade (cutting edge) is hardened so that it can cut the material it is in contact with, and secondly, the end which comes into contact with the driving tool such as a hammer is softer so that it will not chip and break off.  
+	~It won't damage the bench or vice.#Chisels are designed in a range of shapes and sizes. They all have two items that are common to all types. Firstly the blade (cutting edge) is hardened so that it can cut the material it is in contact with, and secondly, the end which comes into contact with the driving tool such as a hammer is softer so that it will not chip and break off.  
+	~It makes the chisel cheaper to manufacture.#Chisels are designed in a range of shapes and sizes. They all have two items that are common to all types. Firstly the blade (cutting edge) is hardened so that it can cut the material it is in contact with, and secondly, the end which comes into contact with the driving tool such as a hammer is softer so that it will not chip and break off.  
+	~It makes the chisel easier to sharpen.#Chisels are designed in a range of shapes and sizes. They all have two items that are common to all types. Firstly the blade (cutting edge) is hardened so that it can cut the material it is in contact with, and secondly, the end which comes into contact with the driving tool such as a hammer is softer so that it will not chip and break off.  
+}
+
+
+//name:TQ0127
+::TQ0127::Some flat files are available with one smooth edge. What is their correct name?{
+	=A safe edge file.#Files come in a range of shapes and sizes and different ones are used depending on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. 
+	~A warding file.#Files come in a range of shapes and sizes and different ones are used depending on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. 
+	~A square file.#Files come in a range of shapes and sizes and different ones are used depending on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. 
+	~A curved file.#Files come in a range of shapes and sizes and different ones are used depending on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. 
+}
+
+
+//name:TQ0128
+::TQ0128::The recommended method for cleaning metal from file teeth is to:{
+	=wipe across the teeth with a filecard.#It is important to keep files clean in order for them to cut correctly. Using a file card is an effective way of achieving this.  
+	~rub the teeth with the palm of the hand.#It is important to keep files clean in order for them to cut correctly. Using a file card is an effective way of achieving this.  
+	~wash the file in a chemical cleaner.#It is important to keep files clean in order for them to cut correctly. Using a file card is an effective way of achieving this.  
+	~drag the file backwards over soft metal.#It is important to keep files clean in order for them to cut correctly. Using a file card is an effective way of achieving this.  
+}
+
+
+//name:TQ0129
+::TQ0129::What is the purpose of a safe edge on a file?{
+	=It prevents damage when filing into a corner.#Files come in a range of shapes and sizes and different ones are used dependent on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. Many types have a safe edge that allows filing to occur close to a corner without the risk of damage to the component.
+	~A file handle is no longer required.#Files come in a range of shapes and sizes and different ones are used dependent on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. Many types have a safe edge that allows filing to occur close to a corner without the risk of damage to the component.
+	~It removes metal on the forward stroke.#Files come in a range of shapes and sizes and different ones are used dependent on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. Many types have a safe edge that allows filing to occur close to a corner without the risk of damage to the component.
+	~It reduces the risk of injury to the user.#Files come in a range of shapes and sizes and different ones are used dependent on the job. The most important thing to remember when using a file is not to try to use it without a properly sized handle fitted on the tang. Many types have a safe edge that allows filing to occur close to a corner without the risk of damage to the component.
+}
+
+
+//name:TQ0130
+::TQ0130::A soft-faced hammer must be used when:{
+	=damage to the work must be prevented.#Soft-faced hammers such as plastic, brass, or fiber limit or prevent damage to the item being struck.
+	~you only need to tap the work lightly.#Soft-faced hammers such as plastic, brass, or fiber limit or prevent damage to the item being struck.
+	~there is a risk of personal injury.#Soft-faced hammers such as plastic, brass, or fiber limit or prevent damage to the item being struck.
+	~a spark may be a fire hazard.#Soft-faced hammers such as plastic, brass, or fiber limit or prevent damage to the item being struck.
+}
+
+
+//name:TQ0131
+::TQ0131::A fine-toothed hacksaw blade should be used for:{
+	=cutting thin material.#Different blades with varying numbers of teeth are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm. 
+	~cutting thick material.#Different blades with varying numbers of teeth are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm. 
+	~cutting very hard material.#Different blades with varying numbers of teeth are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm. 
+	~cutting material coated with rust.#Different blades with varying numbers of teeth are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm. 
+}
+
+
+//name:TQ0132
+::TQ0132::Hacksaw blades come in a variety of sizes and numbers of teeth for different cutting tasks. How are they graded?{
+	=A blade with many teeth per inch has a fine pitch, one with few teeth per inch has a coarse pitch.#Different blades have varying numbers of teeth depending on their intended application, and are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm.
+	~A blade with many teeth per inch has a coarse pitch, one with few teeth per inch has a fine pitch.#Different blades have varying numbers of teeth depending on their intended application, and are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm.
+	~All blades can be used on all jobs.#Different blades have varying numbers of teeth depending on their intended application, and are designed for cutting different types and thicknesses of materials. You should always consult a manufacturer's chart for details of a particular blade's cutting capabilities. As a general rule thin materials use fine teeth and thicker materials use fewer teeth per inch/mm.
+}
+
+
+//name:TQ0133
+::TQ0133::What is the ideal application for a hole saw?{
+	=Drilling a large hole in sheet metal.#Hole saws can be used for many different reasons. The size of the hole they make is dependent on application. For instance the fitting of radio antennas, or the feeding of pipe work through a firewall. In all cases the edges of the cut metal can be very sharp so it is good practice to use a grommet to line the hole.   
+	~Drilling a large hole in solid steel.#Hole saws can be used for many different reasons. The size of the hole they make is dependent on application. For instance the fitting of radio antennas, or the feeding of pipe work through a firewall. In all cases the edges of the cut metal can be very sharp so it is good practice to use a grommet to line the hole.   
+	~Drilling a small hole in solid steel.#Hole saws can be used for many different reasons. The size of the hole they make is dependent on application. For instance the fitting of radio antennas, or the feeding of pipe work through a firewall. In all cases the edges of the cut metal can be very sharp so it is good practice to use a grommet to line the hole.   
+	~Enlarging a hole in sheet metal.#Hole saws can be used for many different reasons. The size of the hole they make is dependent on application. For instance the fitting of radio antennas, or the feeding of pipe work through a firewall. In all cases the edges of the cut metal can be very sharp so it is good practice to use a grommet to line the hole.   
+}
+
+
+//name:TQ0134
+::TQ0134::Why should hacksaw blade tension be reduced when the hacksaw is not in use?{
+	=It prevents frame distortion.#Hacksaws are useful tools for cutting metal. In order for them to be effective the blade must be held in tension during the cutting process. When they are not being used the tension on the blade should be relaxed to prevent distortion of the frame during storage. Otherwise, when used on a following occasion any distortion in the frame may cause blade breakage.    
+	~It prevents the blade stretching and cracking.#Hacksaws are useful tools for cutting metal. In order for them to be effective the blade must be held in tension during the cutting process. When they are not being used the tension on the blade should be relaxed to prevent distortion of the frame during storage. Otherwise, when used on a following occasion any distortion in the frame may cause blade breakage.    
+	~It prevents blade breakage.#Hacksaws are useful tools for cutting metal. In order for them to be effective the blade must be held in tension during the cutting process. When they are not being used the tension on the blade should be relaxed to prevent distortion of the frame during storage. Otherwise, when used on a following occasion any distortion in the frame may cause blade breakage.    
+	~It makes it easier to change blades.#Hacksaws are useful tools for cutting metal. In order for them to be effective the blade must be held in tension during the cutting process. When they are not being used the tension on the blade should be relaxed to prevent distortion of the frame during storage. Otherwise, when used on a following occasion any distortion in the frame may cause blade breakage.    
+}
+
+
+//name:TQ0135
+::TQ0135::Hacksaw blades are often broken by:{
+	=the blade being too loose.#Proper installation and care of a blade can extend its life dramatically. Do not over-tighten the blade inside the frame.
+	~overheating during use.#Proper installation and care of a blade can extend its life dramatically. Do not over-tighten the blade inside the frame.
+	~the blade being too short.#Proper installation and care of a blade can extend its life dramatically. Do not over-tighten the blade inside the frame.
+	~the blade teeth pitch being too fine.#Proper installation and care of a blade can extend its life dramatically. Do not over-tighten the blade inside the frame.
+}
+
+
+//name:TQ0136
+::TQ0136::One advantage of a Phillips type screwdriver is that:{
+	=it's less likely to slip off the screw.#One advantage of a Phillips type screwdriver is that it is less likely to slip off the screw as the locating point in the screw head resists slippage. However there are different sizes of screws and screwdriver heads and if the wrong size screwdriver head is used in the wrong size screw then the likelihood of slippage and damage to the screw head is increased significantly.
+	~it can be fitted with a plastic handle.#One advantage of a Phillips type screwdriver is that it is less likely to slip off the screw as the locating point in the screw head resists slippage. However there are different sizes of screws and screwdriver heads and if the wrong size screwdriver head is used in the wrong size screw then the likelihood of slippage and damage to the screw head is increased significantly.
+	~it can also be used as a chisel.#One advantage of a Phillips type screwdriver is that it is less likely to slip off the screw as the locating point in the screw head resists slippage. However there are different sizes of screws and screwdriver heads and if the wrong size screwdriver head is used in the wrong size screw then the likelihood of slippage and damage to the screw head is increased significantly.
+	~one size screwdriver fits all screws.#One advantage of a Phillips type screwdriver is that it is less likely to slip off the screw as the locating point in the screw head resists slippage. However there are different sizes of screws and screwdriver heads and if the wrong size screwdriver head is used in the wrong size screw then the likelihood of slippage and damage to the screw head is increased significantly.
+}
+
+
+//name:TQ0137
+::TQ0137::If a screwdriver is the correct size it will:{
+	=neatly fit the slot with the blade across the whole width.#Correct tool sizing prevents damage to components and tools. It also prevents personal injury.
+	~neatly fit the slot with the blade inside the width.#Correct tool sizing prevents damage to components and tools. It also prevents personal injury.
+	~loosely fit the slot with the blade across the whole width.#Correct tool sizing prevents damage to components and tools. It also prevents personal injury.
+	~loosely fit the slot with the blade inside the width.#Correct tool sizing prevents damage to components and tools. It also prevents personal injury.
+}
+
+
+//name:TQ0138
+::TQ0138::Technician A says all cross or Phillips head screwdrivers have the same size bit or head. Technician B says that there are three different sizes of bits or heads. Who is correct?{
+	~Technician A.#Neither technician is correct as cross-head, cross-point, or cruciform screws all have a '+'-shaped slot and are driven by a cross-head screwdriver. They were designed originally for use with mechanical screwing machines. There are four types.
+	~Technician B.#Neither technician is correct as cross-head, cross-point, or cruciform screws all have a '+'-shaped slot and are driven by a cross-head screwdriver. They were designed originally for use with mechanical screwing machines. There are four types.
+	~Both Technician A and Technician B.#Neither technician is correct as cross-head, cross-point, or cruciform screws all have a '+'-shaped slot and are driven by a cross-head screwdriver. They were designed originally for use with mechanical screwing machines. There are four types.
+	=Neither Technician A nor Technician B.#Neither technician is correct as cross-head, cross-point, or cruciform screws all have a '+'-shaped slot and are driven by a cross-head screwdriver. They were designed originally for use with mechanical screwing machines. There are four types.
+}
+
+
+//name:TQ0139
+::TQ0139::A ratchet handle is not recommended for tightening bolts to a high torque value because:{
+	=the ratchet mechanism could be damaged.#The ratchet mechanism used with a socket set is designed to allow the technician to remove/refit a nut/bolt quickly. They are not designed for final tightening of fasteners which require a high torque loading/setting. Misuse in this way could cause the pawl in the ratchet to be damaged.
+	~the bolt could easily be over-tightened.#The ratchet mechanism used with a socket set is designed to allow the technician to remove/refit a nut/bolt quickly. They are not designed for final tightening of fasteners which require a high torque loading/setting. Misuse in this way could cause the pawl in the ratchet to be damaged.
+	~the handle is too short for good leverage.#The ratchet mechanism used with a socket set is designed to allow the technician to remove/refit a nut/bolt quickly. They are not designed for final tightening of fasteners which require a high torque loading/setting. Misuse in this way could cause the pawl in the ratchet to be damaged.
+	~the handle could slip off the bolt.#The ratchet mechanism used with a socket set is designed to allow the technician to remove/refit a nut/bolt quickly. They are not designed for final tightening of fasteners which require a high torque loading/setting. Misuse in this way could cause the pawl in the ratchet to be damaged.
+}
+
+
+//name:TQ0140
+::TQ0140::A socket extension universal joint may be used when:{
+	=the turning force must be applied at an angle.#Socket wrenches have a number of accessories that can be used to gain greater accessibility to fasteners. These include short and long extensions, universal joints, 't' handles and knuckle bars. Each of these items is designed for a slightly different function.
+	~repairing universal joints.#Socket wrenches have a number of accessories that can be used to gain greater accessibility to fasteners. These include short and long extensions, universal joints, 't' handles and knuckle bars. Each of these items is designed for a slightly different function.
+	~the turning force must be increased.#Socket wrenches have a number of accessories that can be used to gain greater accessibility to fasteners. These include short and long extensions, universal joints, 't' handles and knuckle bars. Each of these items is designed for a slightly different function.
+	~turning cannot be achieved with a speed brace.#Socket wrenches have a number of accessories that can be used to gain greater accessibility to fasteners. These include short and long extensions, universal joints, 't' handles and knuckle bars. Each of these items is designed for a slightly different function.
+}
+
+
+//name:TQ0141
+::TQ0141::Which spanner size system is most likely to be used on a 1994 model Japanese vehicle?{
+	=Metric.#There is a range of spanner size systems that have been used in the automotive industry for many years. These days they tend to fall into two groups, metric (commonly used on European and Japanese vehicles) and AF (also known as imperial and commonly used on UK and American vehicles) however in the UK many years ago there was also a system known as Whitworth.  
+	~SAE.#There is a range of spanner size systems that have been used in the automotive industry for many years. These days they tend to fall into two groups, metric (commonly used on European and Japanese vehicles) and AF (also known as imperial and commonly used on UK and American vehicles) however in the UK many years ago there was also a system known as Whitworth.  
+	~Whitworth.#There is a range of spanner size systems that have been used in the automotive industry for many years. These days they tend to fall into two groups, metric (commonly used on European and Japanese vehicles) and AF (also known as imperial and commonly used on UK and American vehicles) however in the UK many years ago there was also a system known as Whitworth.  
+	~ISO/DIN.#There is a range of spanner size systems that have been used in the automotive industry for many years. These days they tend to fall into two groups, metric (commonly used on European and Japanese vehicles) and AF (also known as imperial and commonly used on UK and American vehicles) however in the UK many years ago there was also a system known as Whitworth.  
+}
+
+
+//name:TQ0142
+::TQ0142::Why is a ring spanner more suitable for use on a tight bolt than an open end spanner?{
+	=It grips the bolt head on all 6 corners.#Spanners (or wrenches as they are often known) come in many forms and sizes. They are designed to do different jobs and can have different amounts of tension put on them depending on the type. For instance, a ring spanner is more suitable for use on a tight bolt than an open end spanner because it is able to grip the bolt head on all 6 corners. 
+	~The ring spanner is always longer.#Spanners (or wrenches as they are often known) come in many forms and sizes. They are designed to do different jobs and can have different amounts of tension put on them depending on the type. For instance, a ring spanner is more suitable for use on a tight bolt than an open end spanner because it is able to grip the bolt head on all 6 corners. 
+	~It is much quicker to use.#Spanners (or wrenches as they are often known) come in many forms and sizes. They are designed to do different jobs and can have different amounts of tension put on them depending on the type. For instance, a ring spanner is more suitable for use on a tight bolt than an open end spanner because it is able to grip the bolt head on all 6 corners. 
+	~A wider range of sizes is available.#Spanners (or wrenches as they are often known) come in many forms and sizes. They are designed to do different jobs and can have different amounts of tension put on them depending on the type. For instance, a ring spanner is more suitable for use on a tight bolt than an open end spanner because it is able to grip the bolt head on all 6 corners. 
+}
+
+
+//name:TQ0143
+::TQ0143::An adjustable spanner/wrench should be used:{
+	=when a correct size spanner/wrench is not available.#Spanner wrenches allow quick adjustment and therefore quick utilization.  They are not a replacement for a proper sized tool that can provide adequate torque.
+	~on nuts but not on bolts.#Spanner wrenches allow quick adjustment and therefore quick utilization.  They are not a replacement for a proper sized tool that can provide adequate torque.
+	~when working on many sizes on the same job.#Spanner wrenches allow quick adjustment and therefore quick utilization.  They are not a replacement for a proper sized tool that can provide adequate torque.
+	~when a nut or bolt doesn't need to be very tight.#Spanner wrenches allow quick adjustment and therefore quick utilization.  They are not a replacement for a proper sized tool that can provide adequate torque.
+}
+
+
+//name:TQ0144
+::TQ0144::Technician A says that using a ring spanner or wrench is better than an open ended spanner or wrench. Technician B says using the ring end of combination spanners or wrenches is better than open ended spanners or wrenches. Who is correct?{
+	~Technician A.#Both technicians are correct as whenever you can increase the contact points of a fastener by using a ring spanner or wrench there is less likelihood of damage to the fastener.
+	~Technician B.#Both technicians are correct as whenever you can increase the contact points of a fastener by using a ring spanner or wrench there is less likelihood of damage to the fastener.
+	=Both Technician A and Technician B.#Both technicians are correct as whenever you can increase the contact points of a fastener by using a ring spanner or wrench there is less likelihood of damage to the fastener.
+	~Neither Technician A nor Technician B.#Both technicians are correct as whenever you can increase the contact points of a fastener by using a ring spanner or wrench there is less likelihood of damage to the fastener.
+}
+
+
+//name:TQ0145
+::TQ0145::A torque wrench is recommended for tightening some bolts and nuts because:{
+	=a specified torque setting can be achieved.#Many fasteners are designed to be tightened to a particular torque setting. The setting provides for the optimum tension (tightness) for a given fastener and for the job or component it is designed to hold. Torque wrenches are designed to be able to measure the tension (known as torque) and when used at a particular setting the required specification can be achieved. 
+	~it gives better leverage.#Many fasteners are designed to be tightened to a particular torque setting. The setting provides for the optimum tension (tightness) for a given fastener and for the job or component it is designed to hold. Torque wrenches are designed to be able to measure the tension (known as torque) and when used at a particular setting the required specification can be achieved. 
+	~it makes them easier to remove.#Many fasteners are designed to be tightened to a particular torque setting. The setting provides for the optimum tension (tightness) for a given fastener and for the job or component it is designed to hold. Torque wrenches are designed to be able to measure the tension (known as torque) and when used at a particular setting the required specification can be achieved. 
+	~it minimizes wear and tear on the fastener.#Many fasteners are designed to be tightened to a particular torque setting. The setting provides for the optimum tension (tightness) for a given fastener and for the job or component it is designed to hold. Torque wrenches are designed to be able to measure the tension (known as torque) and when used at a particular setting the required specification can be achieved. 
+}
+
+
+//name:TQ0146
+::TQ0146::Damage can be avoided when gripping a soft metal component in a vice by:{
+	=using soft jaws over the vice faces.#Damage can occur to components when being gripped in the jaws of a vice to be worked on. This can be avoided by using soft jaws over the vice faces as the soft jaw acts as a 'sponge' between the two items.
+	~gripping it where damage doesn't matter.#Damage can occur to components when being gripped in the jaws of a vice to be worked on. This can be avoided by using soft jaws over the vice faces as the soft jaw acts as a 'sponge' between the two items.
+	~gripping it using full contact area.#Damage can occur to components when being gripped in the jaws of a vice to be worked on. This can be avoided by using soft jaws over the vice faces as the soft jaw acts as a 'sponge' between the two items.
+	~gripping the metal very tightly.#Damage can occur to components when being gripped in the jaws of a vice to be worked on. This can be avoided by using soft jaws over the vice faces as the soft jaw acts as a 'sponge' between the two items.
+}
+
+
+//name:TQ0147
+::TQ0147::What is the most common type of pliers?{
+	=Combination pliers.#Some pliers provide a powerful grip on objects and others are designed to cut. Combination pliers can do both - that's why they're the most common type.
+	~Multi-grip pliers.#Some pliers provide a powerful grip on objects and others are designed to cut. Combination pliers can do both - that's why they're the most common type.
+	~Vice-grip pliers.#Some pliers provide a powerful grip on objects and others are designed to cut. Combination pliers can do both - that's why they're the most common type.
+	~Long-nosed pliers.#Some pliers provide a powerful grip on objects and others are designed to cut. Combination pliers can do both - that's why they're the most common type.
+}
+
+
+//name:TQ0148
+::TQ0148::What is a torque wrench also known as?{
+	=A tension wrench.#A torque wrench is also known as a tension wrench. It is designed to tighten bolts and nuts using the drive on the end which takes any sockets and accessories found in an ordinary socket set. It is used to tighten fasteners, to a pre-determined tension (torque) by the use of a movable scale that allows how tightly the nut or bolt is being done up.
+	~An adjustable wrench.#A torque wrench is also known as a tension wrench. It is designed to tighten bolts and nuts using the drive on the end which takes any sockets and accessories found in an ordinary socket set. It is used to tighten fasteners, to a pre-determined tension (torque) by the use of a movable scale that allows how tightly the nut or bolt is being done up.
+	~A leverage wrench.#A torque wrench is also known as a tension wrench. It is designed to tighten bolts and nuts using the drive on the end which takes any sockets and accessories found in an ordinary socket set. It is used to tighten fasteners, to a pre-determined tension (torque) by the use of a movable scale that allows how tightly the nut or bolt is being done up.
+	~A combination wrench.#A torque wrench is also known as a tension wrench. It is designed to tighten bolts and nuts using the drive on the end which takes any sockets and accessories found in an ordinary socket set. It is used to tighten fasteners, to a pre-determined tension (torque) by the use of a movable scale that allows how tightly the nut or bolt is being done up.
+}
+
+
+//name:TQ0149
+::TQ0149::A self-locking nut is locked against the thread by means of:{
+	=an insert usually made of plastic or nylon.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+	~a built-in lock washer.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+	~two nuts which lock together.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+	~small holes which let in Loctite.#There is a range of self locking nuts available, some older types had a fiber or soft metal insert. The more common ones these days are the type with a nylon insert.
+}
+
+
+//name:TQ0150
+::TQ0150::How is a grade 8.8 metric sized bolt identified?{
+	=It has the numbers marked on the head.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+	~It has small indentations on the hexagon.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+	~It has 3 radiating lines on the head.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+	~It has 6 radiating lines on the head.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols.
+}
+
+
+//name:TQ0151
+::TQ0151::It is difficult to tension a castellated nut to an accurate torque setting because:{
+	=it can be pinned only in certain positions.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+	~the slots cause it to work loose.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+	~castellated nuts don't fit torque wrenches properly.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+	~it's always made of a soft metal.#Castellated nuts are not designed to be tensioned with a torque wrench. They are designed to be adjustable and have a range of settings available to them when used with a cotter/split pin as a locking device. The most common automotive use is in adjustable wheel bearings where both a degree of tightness and tolerance is required. 
+}
+
+
+//name:TQ0152
+::TQ0152::What does the grade 8.8 bolt identification refer to?{
+	=How much torque can safely be applied to the bolt.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+	~The pitch of the thread.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+	~The length of the threaded section.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+	~The maximum torque that can be applied.#Most fasteners (nuts and bolts) are provided with identification information on them to enable them to be used for different applications. The information is normally provided in the form of numbers and/or symbols. In this case the identification refers to the tensile strength of the bolt.
+}
+
+
+//name:TQ0153
+::TQ0153::What is the purpose of the flat washer used under a nut?{
+	=To protect the surface underneath the nut.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+	~To protect the underside of the nut.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+	~To prevent the nut from working loose.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+	~To seal the thread to prevent oil leaks.#The purpose of a flat washer used under a nut is normally to protect the metal underneath the nut that it is being tightened on. The nut itself (if a washer is not used) can sometimes pull itself through the hole as it tightens onto its partner fastener (the bolt). The flat washer prevents this. There is a range of washers that can be used including shake-proof and spring which act as locking devices, however the flat washer although not a locking device is the only type of washer that can spread the tensile load inflicted on the components being joined by the fastener.   
+}
+
+
+//name:TQ0154
+::TQ0154::What makes a stud different from a bolt?{
+	=It has a thread on each end and no head.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+	~It has a hex head on one end.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+	~It can only be used on exhaust manifolds.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+	~It must be tightened with an allen key.#Studs are different from bolts as they have a thread on each end and no head. This means a special tool is normally used to fit them into their parent locations. If no tool is available a common practice is to use two nuts locked onto each other to screw the stud into its parent location.
+}
+
+
+//name:TQ0155
+::TQ0155::How is the size of a feeler gauge identified?{
+	=The exact thickness is marked on each feeler strip.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+	~It has small indentations on the blade.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+	~It has radiating lines on the case.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+	~It has radiating lines on the blade.#Feeler gauges are a very important tool as they provide a means of measuring the distance between two objects (normally a desired tolerance) quite accurately.  
+}
+
+
+//name:TQ0156
+::TQ0156::Which combination of equipment would be used to check the straightness of a crankshaft?{
+	=Vee blocks and a dial gauge.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+	~A surface plate and feeler gauges.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+	~A straight edge and feeler gauges.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+	~Vee blocks and a micrometer.#A crankshaft must operate in very close tolerances during operation. If is becomes bent serious consequences in the form of engine failure can occur. In order to ensure that a crankshaft is straight when the engine is being overhauled a combination of Vee blocks and a dial gauge can be used to check the straightness of the crankshaft.  
+}
+
+
+//name:TQ0157
+::TQ0157::When checking a fit, or testing for flatness, how can you check to ensure that the required tolerances are being met?{
+	=By smearing a small amount of engineer's blue on a surface plate it can be used to indicate if the surface to be tested is flat.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+	~By smearing a small amount of engineer's blue on a surface plate it can be used to indicate if the surface to be tested is high or low.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+	~By using a spirit level.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+	~By using a hydrometer level.#The use of engineer's blue in conjunction with a surface plate can be used to indicate if a surface is flat when checking a fit, or testing for flatness. Typically this is used when you have two mating surfaces that need to have very close tolerances when joined together.  
+}
+
+
+//name:TQ0158
+::TQ0158::What is a pipe flaring tool commonly used for?{
+	=Manufacturing metal brake pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+	~Manufacturing flexible brake pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+	~Manufacturing flexible steering pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+	~Manufacturing coolant pipes.#Pipe flaring tools are used for manufacturing different types of pipes used on vehicles. The most common use is for brake pipes, however in some cases they are used to manufacture fuel pipes.
+}
+
+
+//name:TQ0159
+::TQ0159::Which of the following should be used to tap a thread in a 10mm thick steel plate?{
+	=A taper tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+	~A taper tap followed by a bottoming tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+	~An intermediate tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+	~A bottoming tap.#Taps come in sets of three, a taper tap, an intermediate tap and a bottoming (or plug) tap. Depending on the job, one or more may be used. For instance on steel plate, since the tap can pass right through the plate, a taper tap is all that is required. However in a hole that is 'blind', the intermediate and bottoming taps are also used.
+}
+
+
+//name:TQ0160
+::TQ0160::The size of the tapping drill for threads should:{
+	=be determined by reference to the thread table.#Always follow the reference chart if repeatable results are to be obtained.
+	~be equal to the pitch of the thread.#Always follow the reference chart if repeatable results are to be obtained.
+	~not be smaller than the crest diameter of the thread.#Always follow the reference chart if repeatable results are to be obtained.
+	~be determined from the hexagon size of the nut or bolt.#Always follow the reference chart if repeatable results are to be obtained.
+}
+
+
+//name:TQ0161
+::TQ0161::The tools that are used for making or repairing internal and external threads are called:{
+	=taps and dies.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+	~thread files.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+	~thread gauges.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+	~taps and gauges.#The tap cuts a thread on the inside surface of a hole creating a female surface which functions like a nut. The die cuts a thread on a preformed cylindrical rod which creates a male threaded piece which functions like a bolt.
+}
+
+
+//name:TQ0162
+::TQ0162::Why do some screw extractors have a coarse left hand thread?{
+	=They turn the fastener out as they are screwed in.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+	~To match the thread of the fastener.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+	~To aid insertion into the hole.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+	~They are easier to fit.#The coarse left hand thread is needed to extract the right hand threaded fastener.
+}
+
+
+//name:TQ0163
+::TQ0163::What is the term used when the center bolt of a puller is screwed in?{
+	='Jacking'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+	~'Pulling'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+	~'Centering'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+	~'Extracting'#A center bolt is screwed in, producing a 'jacking' or pulling action which extracts the part.
+}
+
+
+//name:TQ0164
+::TQ0164::What punch is designed to mark metal immediately prior to drilling?{
+	=A center punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+	~A prick punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+	~A drill point punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+	~A starter drift pin punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+}
+
+
+//name:TQ0165
+::TQ0165::A center punch is mainly used as a preparation for:{
+	=drilling.#Center punching allows the drill bit to have a start point and avoid wandering.
+	~sawing.#Center punching allows the drill bit to have a start point and avoid wandering.
+	~filing.#Center punching allows the drill bit to have a start point and avoid wandering.
+	~soldering.#Center punching allows the drill bit to have a start point and avoid wandering.
+}
+
+
+//name:TQ0166
+::TQ0166::There are a number of different types of punch. Of the following, which is NOT the name of a type of punch?{
+	=Chisel#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+	~Center#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+	~Wad#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+	~Pin#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+}
+
+
+//name:TQ0167
+::TQ0167::A punch makes an accurate blow at exactly one point. From the following, select the type that would be best for making a hole in fabric.{
+	=A Wad punch#Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+	~A Center punch. #Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+	~A Starter drift punch. #Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+	~A Number or Letter punch.#Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+}
+
+
+//name:TQ0168
+::TQ0168::Why is a 'pop' type rivet also known as a 'blind' rivet?{
+	=It's also known as a 'blind' rivet because there's no need to see or reach the other side of the hole in which the rivet goes to complete the join.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+	~It's also known as a 'blind' rivet because you have to be able to see or reach the other side of the hole in which the rivet goes to complete the join.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+	~It's also known as a 'blind' rivet because it can be used in blind holes.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+	~The statement is incorrect as it is not also known as a blind rivet.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+}
+
+
+//name:TQ0169
+::TQ0169::Name the material you place on the cutting thread of a thread tap to keep the tool sharp.{
+	=Thread cutting compound.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+	~Thread cutting grease.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+	~Thread cutting cement.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+	~Thread chassis grease.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+}
+
+
+//name:TQ0170
+::TQ0170::What is the most important consideration when choosing a gear puller?{
+	=It needs to be large enough for the component you are removing.#Correct sizing of the tool for the job at hand is an important consideration.
+	~The forcing screw needs to be lubricated.#Correct sizing of the tool for the job at hand is an important consideration.
+	~The jaws have to be loose fitting.#Correct sizing of the tool for the job at hand is an important consideration.
+	~The forcing screw needs to be dry.#Correct sizing of the tool for the job at hand is an important consideration.
+}
+
+
+//name:TQ0171
+::TQ0171::Make sure the die is _________ to the shaft of the stud or bolt at the start of the thread cutting process.{
+	=square#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+	~90 degrees#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+	~at right angles#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+	~aligned#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+}
+
+
+//name:TQ0172
+::TQ0172::When turning the 'drive' nut to remove a damaged stud, use the open-ended wrench to turn the bottom drive nut:{
+	=counter-clockwise.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+	~clockwise.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+	~towards the drive nut.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+	~tighter.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+}
+
+
+//name:TQ0173
+::TQ0173::When drilling a hole through the center of the bolt to be removed with a screw extractor:{
+	=drill only to the depth specified in the instructions.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+	~drill all the way through to the bottom of the bolt.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+	~drill exactly half way through the bolt.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+	~drill down the length of the srew extractor so the extractor can seat properly.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+}
+
+
+//name:TQ0174
+::TQ0174::If the feeler gauge you are using is too thick you should:{
+	=use smaller gauges until one fits snugly.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+	~lubricate the gauge and try again.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+	~use a smaller gauge that slides easily under the part.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+	~measure a different section of the component.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+}
+
+
+//name:TQ0175
+::TQ0175::When using a torque wrench with a rating plunger fitted to it, when the plunger 'clicks' out it indicates:{
+	=the set torque has been reached.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+	~you should turn the fastener slightly more.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+	~you should turn the fastener 90 degrees more.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+	~you have over torqued the fastening and it should be backed off one half turn.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+}
+
+
+//name:TQ0176
+::TQ0176::How is a UNF bolt measured?{
+	=All of these.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+	~Length.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+	~Diameter.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+	~Threaded area.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+}
+
+
+//name:TQ0177
+::TQ0177::A vacuum gauge is used to measure the:{
+	=manifold pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+	~absolute pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+	~vacuum pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+	~atmospheric pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+}
+
+
+//name:TQ0178
+::TQ0178::At what angle should the dial indicator pointer be positioned in relation to the component being measured?{
+	=90 degrees#The dial indicator pointer should be positioned at 90 degrees to the face of the component to be measured.
+	~45 degrees#The dial indicator pointer should be positioned at 90 degrees to the face of the component to be measured.
+	~180 degrees
+}
+
+
+//name:TQ0179
+::TQ0179::Why should you always hold a micrometer by the insulating block on the frame?{
+	=Because heat from your hand will cause the frame to expand and give an inaccurate reading.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+	~Because heat from your hand will cause the frame to expand and may cause the components to seize up.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+	~Because if held in any other way you will be unable to hold the micrometer and read the measurements accurately.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+	~Because it is the most comfortable position to hold the micrometer.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+}
+
+
+//name:TQ0180
+::TQ0180::What are the most popular types of tire pressure gauges?{
+	=Pencil type and dial type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+	~Pencil type and valve type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+	~Dial type and valve type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+	~Pocket type and valve type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+}
+
+
+//name:TQ0181
+::TQ0181::A dynamometer measures:{
+	=power and torque.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+	~heat and energy.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+	~power.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+	~torque.#A dynamometer measures engine and/or drivetrain performance to assist in improving efficient power transfer.
+}
+
+
+//name:TQ0182
+::TQ0182::A hydrometer measures:{
+	=specific gravity.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+	~specific heat.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+	~scientific gravity.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+	~scientific heat.#The hydrometer has a suction bulb a clear tube and a float with markings on it. The hydrometer is designed to draw up electrolyte where the specific weight of the water can be measured by the marked float. The higher the concentration of acid in the electrolyte the higher the marked float will rise.
+}
+
+
+//name:TQ0183
+::TQ0183::Specific gravity means the relative density of the fluid in comparison to the density of water.{
+	=TRUE#Water has a specific gravity of 1. Heavier or more dense substances have a number higher than 1. Substances lighter than water are rated less than 1
+	~FALSE#Water has a specific gravity of 1. Heavier or more dense substances have a number higher than 1. Substances lighter than water are rated less than 1
+}
+
+
+//name:TQ0184
+::TQ0184::The basic measuring functions of a DVOM are:{
+	=Volts, Ohms, Amps.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+	~Volts, Ohms, Watts.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+	~Volts, Ohms, Resistance.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+	~Volts, Watts, Resistance.#The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and ohmmeter.
+}
+
+
+//name:TQ0185
+::TQ0185::What are most pressure testers or gauges designed to read at atmospheric pressure as a base measurement?{
+	=0#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+	~10#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+	~14.7#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+	~1#Most gauges are designed to read 'zero' at atmospheric pressure (14.7lbs/sq inch or 1 Bar at sea level) as a base measurement.
+}
+
+
+//name:TQ0186
+::TQ0186::A scan tool cannot reset or cancel diagnostic trouble codes.{
+	=FALSE#When faults have been rectified, the scan tool can also reset or clear the DTCs.
+	~TRUE#When faults have been rectified, the scan tool can also reset or clear the DTCs.
+}
+
+
+//name:TQ0187
+::TQ0187::A test light is a tool for testing:{
+	=circuits.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+	~gauges.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+	~fuses.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+	~light bulbs.#A test light is a basic circuit testing tool. It usually has a light that indicates the presence of an electrical current in the circuit to which it is attached.
+}
+
+
+//name:TQ0188
+::TQ0188::The further the arms and legs of an engine hoist are extended the lower the lifting capacity of the hoist.{
+	=TRUE#The safe lifting capacity at various extensions is marked on the arm. It is important never to exceed the rated weight of the hoist.
+	~FALSE#The safe lifting capacity at various extensions is marked on the arm. It is important never to exceed the rated weight of the hoist.
+}
+
+
+//name:TQ0189
+::TQ0189::All jacks should be regarded as a lifting tool and NOT a supporting tool.{
+	=TRUE#A jack must NOT be used to support the weight of the vehicle during any task which requires the technician to get underneath any part of the vehicle.
+	~FALSE#A jack must NOT be used to support the weight of the vehicle during any task which requires the technician to get underneath any part of the vehicle.
+}
+
+
+//name:TQ0190
+::TQ0190::Which of the following is not a type of vehicle jack?{
+	=Bullet jack#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+	~Trolley jack.#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+	~Farm jack.#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+	~Bottle jack.#Make sure that you always use the correct type of jack with the correct weight-bearing capacity for your task.
+}
+
+
+//name:TQ0191
+::TQ0191::Jack or axle stands are adjustable supports that are used with vehicle jacks and are designed:{
+	=to take the weight of the vehicle after the vehicle has been raised by a jack.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+	~to share the weight of the vehicle with the vehicle jack.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+	~to raise the vehicle enough to allow the jack under the vehicle.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+	~to be used instead of a vehicle jack to raise a vehicle off the ground.#When positioned correctly the vehicle can be lowered onto the stands, and the jack can be moved out of the way.
+}
+
+
+//name:TQ0192
+::TQ0192::In most countries, there are regulations that require hoists to be periodically inspected and certified as fit for use. These inspections usually occur every two years.{
+	=FALSE#Regulations usually require that these inspections occur annually.
+	~TRUE#Regulations usually require that these inspections occur annually.
+}
+
+
+//name:TQ0193
+::TQ0193::An oxyacetylene gauge set has:{
+	=a cylinder pressure and working pressure gauge for each cylinder.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+	~a working pressure gauge.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+	~a cylinder pressure gauge.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+	~a gas flow gauge.#The two gauges on each cylinder allow the user to determine the appropriate flow for best operation.
+}
+
+
+//name:TQ0194
+::TQ0194::When setting up an oxyacetylene torch, what must you do immediately before igniting the torch?{
+	=Check there are no flammable materials or fluids nearby.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+	~Install the correct tip.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+	~Purge the system.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+	~Turn on the gases.#Before you light the torch, check the area you're working in to make sure there are no flammable materials or fluids nearby. Workmates should also be clear of the area, and you must be wearing the right safety equipment.
+}
+
+
+//name:TQ0195
+::TQ0195::Once the wheels have lifted off the floor when using a floor jack, the next step is to:{
+	=check position of jack.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+	~position the jack.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+	~select the jack safety stands.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+	~position the safety stands.#Once the wheels lift off the floor, stop and check the placement of the jack pad under the vehicle to make sure there's no danger of slipping.
+}
+
+
+//name:TQ0196
+::TQ0196::When using a two-post hoist, what should you do once you have lifted the vehicle just far enough for the wheels to be off the floor?{
+	=Check the position of the lifting pads to make sure they have not moved.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+	~Shake the vehicle gently to confirm it is stable on the hoist.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+	~Lift it to working height.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+	~Position the lifting pads under the vehicle lifting points.#Check the position of the lifting pads to make sure they have not moved. Only after you have done this do you shake the vehicle gently to confirm that it is stable on the hoist.
+}
+
+
+//name:TQ0197
+::TQ0197::What types of services are often performed on a four-post hoist?{
+	=All of these.#Four-post hoists allow the vehicle to be positioned and lifted easily. They are often used to lift a vehicle for wheel alignment services and brake repairs.
+	~Wheel alignment services.#Four-post hoists allow the vehicle to be positioned and lifted easily. They are often used to lift a vehicle for wheel alignment services and brake repairs.
+	~Brake repairs.#Four-post hoists allow the vehicle to be positioned and lifted easily. They are often used to lift a vehicle for wheel alignment services and brake repairs.
+}
+
+
+//name:TQ0198
+::TQ0198::When using an engine hoist, the sling should be long enough so when you lift the engine the angle at the top of the sling is about:{
+	=45 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+	~90 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+	~60 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+	~80 degrees.#Leave enough length in the sling so that when the engine is hanging, the angle at the top of the sling is close to 45 degrees and not exceeding 90 degrees.
+}
+
+
+//name:TQ0199
+::TQ0199::Once a piece of metal is no longer 'Red Hot' it is safe to touch.{
+	=FALSE#Even once a metal has cooled enough that it is not glowing red hot it is still hot enough to burn. Use welding gloves and tools that are designed for use in a hot environment.
+	~TRUE#Even once a metal has cooled enough that it is not glowing red hot it is still hot enough to burn. Use welding gloves and tools that are designed for use in a hot environment.
+}
+
+

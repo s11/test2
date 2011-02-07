@@ -1,0 +1,61 @@
+//name:TQ0695
+::TQ0695::One advantage of duo-servo brakes is that they:{
+	=work well in both directions.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+	~can be used with a booster.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+	~wear faster.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+	~resist brake dissolve.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+}
+
+
+//name:TQ0696
+::TQ0696::The backing plate supports the:{
+	=brake shoes and linings, wheel cylinder, brake adjustment mechanism and in some instances, the parking brake mechanism.#All of the brake unit components except the brake drum are mounted on a backing plate bolted to the vehicle axle housing or suspension. The brake drum is not supported by the backing plate.
+	~brake shoes, wheel cylinder, brake drum and in some instances, the parking brake mechanism.#All of the brake unit components except the brake drum are mounted on a backing plate bolted to the vehicle axle housing or suspension. The brake drum is not supported by the backing plate.
+	~Brake shoes and linings, wheel cylinder, brake drum, brake adjustment mechanism and in some instances, the parking brake mechanism.#All of the brake unit components except the brake drum are mounted on a backing plate bolted to the vehicle axle housing or suspension. The brake drum is not supported by the backing plate.
+}
+
+
+//name:TQ0697
+::TQ0697::What brake unit components are mounted on the backing blate?{
+	=All brake unit components except the brake drum.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+	~All brake unit components.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+	~Wheel cylinder and brake drum.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+	~Wheel cylinder and brake shoes.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+}
+
+
+//name:TQ0698
+::TQ0698::Compressed air must never be used to 'dust off' brake assemblies as the dust:{
+	=can be dangerous to health.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+	~is flammable.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+	~will discolor the paint of the car.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+	~will damage the wheel cylinder seals.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+}
+
+
+//name:TQ0699
+::TQ0699::The composition of the friction material on drum brakes affects brake operation. Linings which provide good braking with low pedal pressures:{
+	=tend to lose efficiency when they get hot.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+	~tend to lose efficiency when they cool down.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+	~tend to lose efficiency over time.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+	~tend to gain efficiency when they get hot.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+}
+
+
+::TQ0702::A drum brake shoe is made of:{
+	=steel.#Steel is a good conductor of heat and has excellent wearing qualities.
+	~fiberglass.#Steel is a good conductor of heat and has excellent wearing qualities.
+	~cast iron.#Steel is a good conductor of heat and has excellent wearing qualities.
+	~aluminum.#Steel is a good conductor of heat and has excellent wearing qualities.
+}
+
+
+//name:TQ0703
+::TQ0703::What is the wheel cylinder attached to?{
+	=The backing plate.#Wheel cylinders are bolted to the backing plate.
+	~The brake drum.#Wheel cylinders are bolted to the backing plate.
+	~The brake linings.#Wheel cylinders are bolted to the backing plate.
+	~The brake pedal.#Wheel cylinders are bolted to the backing plate.
+}
+
+

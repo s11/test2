@@ -1,0 +1,46 @@
+// question: 31265  name: HAQ2946 
+::HAQ2946::[html]For motor vehicles and trailers, two red tail lamps operate when the headlight switch is in the park position and the headlight position. The bulbs are connected in .............................. to each other so that the failure of one filament will not cause total circuit failure.{
+	=%100%parallel#
+}
+
+
+// question: 31266  name: HAQ2947 
+::HAQ2947::[html]The park lights operate when the light switch is moved to the .............................. position.{
+	=%100%first#
+}
+
+
+// question: 31267  name: HAQ2948 
+::HAQ2948::[html]When the park light switch is closed current flows from the battery, through the fusible link to the park light .............................., where it is fed through the fuse to the front park lights and to the rear tail and number plate lights.{
+	=%100%switch#
+}
+
+
+// question: 31268  name: HAQ2949 
+::HAQ2949::[html]The .............................. beam only is used in built up areas.{
+	=%100%dip#
+}
+
+
+// question: 31269  name: HAQ2950 
+::HAQ2950::[html]When the headlights are switched on, current is supplied from the .............................., through the fusible link and fuse, across the closed switch contacts to the dipper switch.{
+	=%100%battery#
+}
+
+
+// question: 31270  name: HAQ2951 
+::HAQ2951::[html]In the dip beam position, electrical current can flow from the dipper .............................. contacts through the low beam relay winding to ground.{
+	=%100%switch#
+}
+
+
+// question: 31271  name: HAQ2952 
+::HAQ2952::[html]The layout of electrical circuits and their components are shown as diagrams made up of .............................. and connecting lines.{
+	=%100%symbols#
+}
+
+
+// question: 31272  name: HAQ2953 
+::HAQ2953::[html]A circuit diagram shows the different components of the circuit as simplified and standard pictograms, and the power and signal connections (..............................) between the devices.{
+	=%100%buses#
+}

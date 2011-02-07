@@ -1,0 +1,113 @@
+//name:TQ0530
+::TQ0530::A coil spring in which the wire diameter decreases towards the end is a:{
+	=progressive-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+	~controlled-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+	~adjustable-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+	~constant-rate spring.#Progressive-rate springs become stiffer as they are compressed, unlike single-rate springs which have a fixed spring rate.
+}
+
+
+//name:TQ0531
+::TQ0531::Barrel-shaped springs:{
+	=have longer suspension travel than cylindrical springs.#A spring with a progressive rate deflects readily under a light load, but increases its resistance as the load increases. This gives a softer ride. As conical and barrel-shaped springs compress, they collapse into themselves. This gives a longer suspension travel for the length of the spring than for a cylindrical spring. This gives a softer ride for light-load situations, and a harder ride for heavy load situations.
+	~exhibit constant deflection rate.#A spring with a progressive rate deflects readily under a light load, but increases its resistance as the load increases. This gives a softer ride. As conical and barrel-shaped springs compress, they collapse into themselves. This gives a longer suspension travel for the length of the spring than for a cylindrical spring. This gives a softer ride for light-load situations, and a harder ride for heavy load situations.
+	~give a harder ride under light load.#A spring with a progressive rate deflects readily under a light load, but increases its resistance as the load increases. This gives a softer ride. As conical and barrel-shaped springs compress, they collapse into themselves. This gives a longer suspension travel for the length of the spring than for a cylindrical spring. This gives a softer ride for light-load situations, and a harder ride for heavy load situations.
+}
+
+
+//name:TQ0532
+::TQ0532::Coil springs are color coded at the time of manufacture. What does this code indicate?{
+	=The different load ratings for the spring.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+	~The limit of its safe travel in compression and extension.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+	~The desired location of the spring on a vehicle.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+	~The date and place of manufacture.#Generally, a cylindrical spring with uniform diameter wire and uniform pitch has a constant deflection rate. Its length reduces in direct proportion to the load applied. Manufacturers color code the springs to indicate that spring's particular load rating.
+}
+
+
+//name:TQ0533
+::TQ0533::The coils must always be evenly spaced in a coil spring suspension.{
+	=FALSE#The coils may be evenly spaced, or of uniform pitch, or unevenly spaced. The wire can be the same thickness throughout, or it may taper towards the end of the spring.
+	~TRUE#The coils may be evenly spaced, or of uniform pitch, or unevenly spaced. The wire can be the same thickness throughout, or it may taper towards the end of the spring.
+}
+
+
+//name:TQ0534
+::TQ0534::The stiffness of a coil spring can be increased by:{
+	=increasing the diameter of the wire.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+	~stretching the spring.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+	~reducing the diameter of the wire.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+	~reducing the weight of the spring.#The load carrying ability of the spring depends on the diameter of the wire, the overall diameter of the spring, its shape, and the spacing of the coils.
+}
+
+
+//name:TQ0535
+::TQ0535::The center bolt on leaf springs can be used to:{
+	=locate the axle relative to the spring.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~Clamp the spring to the axle.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~Ensure all leaves carry the same load.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+	~Maintain leaf alignment.#Leaf springs consist of one or more flat springs made of tempered steel. A number of leaves of different length are used to form a multi-leaf spring. They are held together by a center bolt that passes through a hole in the center of each leaf. It's also used to locate the axle on the spring. The axle is then clamped to the spring by U-bolts that wrap around the axle housing and through a spring plate underneath the spring.
+}
+
+
+//name:TQ0536
+::TQ0536::The driving force in a rear-wheel drive vehicle with leaf suspension is transmitted to the vehicle body at the:{
+	=fixed shackle point.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+	~rear axle housing.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+	~tire contact patch.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+	~spring U-bolt.#The spring forms a flexible suspension unit that locates the axle housing longitudinally and laterally. It can sustain the torque reaction on acceleration and the braking torque during deceleration. The driving thrust is transferred through the front half of the spring to the fixed shackle point.
+}
+
+
+//name:TQ0537
+::TQ0537::The longest spring leaf in a spring pack is normally referred to as the:{
+	=main leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+	~support leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+	~primary leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+	~integral Leaf.#The longest leaf called the main leaf, is rolled at both ends to form eyes. These eyes are used to mount the spring to the frame of the vehicle.
+}
+
+
+//name:TQ0538
+::TQ0538::Technician A says that the eye bolts clamp the leaf spring to the chassis. Technician B says that the 'U' Bolts clamp the leaf spring to the axle. Who is correct?{
+	~Technician A.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+	=Technician B.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+	~Both Technician A and Technician B.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+	~Neither Technician A nor Technician B.#Technician B is correct as the leaf is connected to the chassis via a shackle or bracket and through bolt. Leafs are connected to the axle using a U-bolt configuration.
+}
+
+
+//name:TQ0539
+::TQ0539::Some vehicles have rubber springs attached to their coil spring suspensions. What is their purpose?{
+	=To prevent 'metal to metal' contact of the suspension parts when the coil springs are compressed.#Coil springs can look alike but have very different load ratings which are often color coded for identification. They normally use rubber pads to prevent transmission of noise and vibration.
+	~To further increase the load ratings of color coded coil springs.#Coil springs can look alike but have very different load ratings which are often color coded for identification. They normally use rubber pads to prevent transmission of noise and vibration.
+	~To stop suspension noises being transferred to the driver via the chassis composition.#Coil springs can look alike but have very different load ratings which are often color coded for identification. They normally use rubber pads to prevent transmission of noise and vibration.
+}
+
+
+//name:TQ0540
+::TQ0540::A torsion bar used as a suspension spring provides its springing action by:{
+	=twisting around its center.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+	~an integrated shock absorber.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+	~changing its length.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+	~transferring load to the opposite wheel.#The bar is fitted to the control arm in the unloaded condition. As the control arm is raised the bar twists around its center which places it under a torsional load.
+}
+
+
+//name:TQ0541
+::TQ0541::The spring rate of a torsion bar suspension is dependent on the:{
+	=length and diameter or size of the bar.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+	~length of the bar.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+	~location of the mounting brackets.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+	~size or diameter of the bar.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar the stiffer its spring rate.
+}
+
+
+//name:TQ0542
+::TQ0542::Which of these types of torsion bar would have the stiffest spring rating?{
+	=Short and thick.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+	~Long and thick.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+	~Long and thin.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+	~Short and thin.#Spring rate depends on the length of the bar and its diameter. The shorter and thicker the bar, the stiffer its spring rate.
+}
+
+

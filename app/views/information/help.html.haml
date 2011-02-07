@@ -1,0 +1,27 @@
+%table#partitioned
+  %thead
+    %tr
+      %th Topic
+      %th Description
+      %th
+      
+  %tbody
+    %tr.top-border
+      %th= link_to "Using CDX Online", info_pdf_url('using_cdx_online')
+      %td{ :colspan => 2}
+        %strong A printable guide to using CDX Online.
+
+    %tr
+      %th= link_to "Know-See-Do-Prove", info_ksdp_path
+      %td{ :colspan => 2}
+        %strong Color-coded learning so you know what category it is.
+
+    %tr
+      %th= link_to "About CDX Global", info_about_path
+      %td{ :colspan => 2}
+        %strong CDX Global are the world leaders in automotive training.
+
+    %tr
+      %th= link_to "Contacts", info_contacts_path
+      %td{ :colspan => 2}
+        %strong How to contact CDX

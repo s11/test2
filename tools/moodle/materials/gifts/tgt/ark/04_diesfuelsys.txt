@@ -1,0 +1,63 @@
+//name:TQ0342
+::TQ0342::The ignition quality of diesel fuel is determined by the:{
+	=cetane number.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+	~octane number.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+	~octane rating.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+	~compression rating.#Cetane number or CN is to diesel fuel what octane rating is to gasoline. It's a measure of the fuel's combustion quality.
+}
+
+
+//name:TQ0343
+::TQ0343::What is the name given to diesel fuel when its temperature is at the point where the fuel is no longer transparent?{
+	=The 'Cloud Point'.#Cloud Point is the temperature at which waxy solids first appear during cooling of diesel fuel. Keeping diesel fuel at cloud point over an extended period of time or cooling the fuel further will result in more extensive formation of wax solids.
+	~The 'Whey Point'.#Cloud Point is the temperature at which waxy solids first appear during cooling of diesel fuel. Keeping diesel fuel at cloud point over an extended period of time or cooling the fuel further will result in more extensive formation of wax solids.
+	~The 'Freeze Point'.#Cloud Point is the temperature at which waxy solids first appear during cooling of diesel fuel. Keeping diesel fuel at cloud point over an extended period of time or cooling the fuel further will result in more extensive formation of wax solids.
+	~The 'Cetane Point'.#Cloud Point is the temperature at which waxy solids first appear during cooling of diesel fuel. Keeping diesel fuel at cloud point over an extended period of time or cooling the fuel further will result in more extensive formation of wax solids.
+}
+
+
+//name:TQ0344
+::TQ0344::Diesel engine speed is controlled by:{
+	=the quantity of fuel injected into the engine.#The amount of fuel injected is varied to suit the load on the engine and to control engine speed. 
+	~the quantity of air drawn into the engine.#The amount of fuel injected is varied to suit the load on the engine and to control engine speed. 
+	~the ignition timing.#The amount of fuel injected is varied to suit the load on the engine and to control engine speed. 
+	~adjusting camshaft timing.#The amount of fuel injected is varied to suit the load on the engine and to control engine speed. 
+}
+
+
+//name:TQ0345
+::TQ0345::In a diesel fuel system, a leak-off rail returns excess fuel from the injectors to the:{
+	=fuel tank.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+	~fuel injection pump.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+	~inlet manifold.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+	~engine crankcase.#In light commercial diesel engines two fuel lines are used. One carries fuel from the tank to the filters and then to the fuel injection pump. The other is the return line. It carries fuel back to the tank. Fuel is used for lubricating and cooling the injectors, the injector pump, and for bleeding the filters.
+}
+
+
+//name:TQ0346
+::TQ0346::What controls the rising characteristic of a diesel engine fuel injection system?{
+	=The governor system.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+	~The fuel injectors.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+	~The throttle pedal.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+	~The camshaft.#A mechanical governor uses rotating fly weights to control movement of the fuel control rack against a spring. Removing the load from the engine lets its speed rise. Centrifugal force pushes out the weights, which push a sleeve against the spring. The force from the spring tries to push the rack to the maximum fuel position. The force on the sleeve from the fly weights acts against the spring to try to push the rack to the minimum fuel position.
+}
+
+
+//name:TQ0347
+::TQ0347::In a modern diesel engine, what is used to start the ignition process with less noise?{
+	=A pilot injection phase.#Modern diesel-powered vehicles use several phases of fuel injection in order to quieten combustion, increase power and lower exhaust emissions.
+	~A main injection phase.#Modern diesel-powered vehicles use several phases of fuel injection in order to quieten combustion, increase power and lower exhaust emissions.
+	~A post injection phase.#Modern diesel-powered vehicles use several phases of fuel injection in order to quieten combustion, increase power and lower exhaust emissions.
+	~A diesel particulate filter.#Modern diesel-powered vehicles use several phases of fuel injection in order to quieten combustion, increase power and lower exhaust emissions.
+}
+
+
+//name:TQ0348
+::TQ0348::How is better or more complete atomisation of the fuel achieved in a modern diesel fuel injection system?{
+	=Higher fuel pressures.#Modern diesel-powered vehicle fuel systems operate under much higher pressure when compared to the older rotary or in-line pump systems. 
+	~Lower fuel pressures.#Modern diesel-powered vehicle fuel systems operate under much higher pressure when compared to the older rotary or in-line pump systems. 
+	~Thinner fuel.#Modern diesel-powered vehicle fuel systems operate under much higher pressure when compared to the older rotary or in-line pump systems. 
+	~Higher fuel volumes.#Modern diesel-powered vehicle fuel systems operate under much higher pressure when compared to the older rotary or in-line pump systems. 
+}
+
+

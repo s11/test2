@@ -1,0 +1,80 @@
+- attempts = [@exam.attempts.verification, @exam.attempts.identification, @exam.attempts.rectification]
+%div.historyouter
+  %div.history
+
+    - if attempts.flatten.empty?
+      - information_box do
+        %p
+          %b
+            Objective
+          %br
+          Use your automotive knowledge to diagnose and fix this fault, without making poor choices and losing points.  Start by selecting the best procedure to Verify the customers concern.  You will lose points if you don't pick the best choice, but you can return and select again.
+          %br
+          %br
+          If you make two poor choices you will be offered a hint, but taking a hint will also lose points.
+        
+        %p
+          %b
+            Points deductions
+          %br
+          Zero points = Best choice (or one of several 'best' choices).
+          %br
+          One Point = Poor choice, not relevant to this problem, or taking a hint.
+        
+        %p
+          %b
+            Scores
+          %br
+          10   -   Excellent, well done
+          %br
+          8/9  -   Nice try, but there is room for improvement
+          %br
+          7 or less - You need to build your knowledge of this area
+
+    - else
+      %div.beginningtitle
+        Diagnostic Path
+      
+      - unless attempts[0].empty?
+        %div.verifyhistory
+          - attempts[0].each do |va|
+            %div.selection
+              %div.text.choice
+                - if va.verification_id.nil?
+                  Hint selected
+                - else
+                  %a{:href=>"#", :style=>"text-decoration: none; color: black;", :title => "#{va.verification.description}"}
+                    = shorten(va.verification.description)
+              %span.pointsgone.choice
+                = (va.marks_deducted.zero? ? image_tag('icons/tick.png') : image_tag('icons/cross.png'))
+            %br{:clear => 'all'}
+
+      - unless attempts[1].empty?
+        %div.identifyhistory
+          - attempts[1].each do |ia|
+            %div.selection
+              %div.text.choice
+                - if ia.identification_id.nil?
+                  Hint selected
+                - else
+                  %a{:href=>"#", :style=>"text-decoration: none; color: black;", :title=>"#{ia.identification.description}"}
+                    = shorten(ia.identification.description)
+              %span.pointsgone.choice
+                = (ia.marks_deducted.zero? ? image_tag('icons/tick.png') : image_tag('icons/cross.png'))
+            %br{:clear => 'all'}
+  
+      - unless attempts[2].empty?
+        %div.rectifyhistory
+          - attempts[2].each do |ra|
+            %div.selection
+              %div.text.choice
+                - if ra.rectification_id.nil?
+                  Hint selected
+                - else
+                  %a{:href=>"#", :style=>"text-decoration: none; color: black;", :title=>"#{ra.rectification.description}"}
+                    = shorten(ra.rectification.description)
+              %span.pointsgone.choice
+                = (ra.marks_deducted.zero? ? image_tag('icons/tick.png') : image_tag('icons/cross.png'))
+            %br{:clear => 'all'}
+  
+  = render :partial => 'navigation'

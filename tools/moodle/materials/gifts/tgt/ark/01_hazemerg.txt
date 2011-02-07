@@ -1,0 +1,175 @@
+//name:TQ0001
+::TQ0001::In the case of a building fire the procedure will involve leaving a building and:{
+	=assembling at a mustering point.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+	~staying outside until the all clear is given.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+	~going home until the emergency is over.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+	~closing and locking all doors.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+}
+
+
+//name:TQ0002
+::TQ0002::The first rule in the case of an emergency is:{
+	=don't panic#Panicking usually results in decisions that result in more harm than good.
+	~wait for confirmation that it's a real emergency.#Panicking usually results in decisions that result in more harm than good.
+	~ignore the warning, it's probably a 'drill'.#Panicking usually results in decisions that result in more harm than good.
+	~run outside.#Panicking usually results in decisions that result in more harm than good.
+}
+
+
+//name:TQ0003
+::TQ0003::It is safe to repair a fuel tank yourself if you first ensure that all excess fuel has been safely drained.{
+	=FALSE#Fuel vapors are more deadly than liquid fuel in a confined space. Do not repair a fuel tank unless all fuel and fuel vapors have been purged and replaced with an inert gas.
+	~TRUE#Fuel vapors are more deadly than liquid fuel in a confined space. Do not repair a fuel tank unless all fuel and fuel vapors have been purged and replaced with an inert gas.
+}
+
+
+//name:TQ0004
+::TQ0004::The features of a 'caution' sign are: {
+	=yellow background, black text.#Caution is always expressed as yellow with black text.
+	~red background, black text.#Caution is always expressed as yellow with black text.
+	~orange background, black text.#Caution is always expressed as yellow with black text.
+	~green background, black text.#Caution is always expressed as yellow with black text.
+}
+
+
+//name:TQ0005
+::TQ0005::The features of a 'danger' sign are:{
+	=red background, white text.#Danger is always expressed as red with white text.
+	~yellow background, white text.#Danger is always expressed as red with white text.
+	~orange background, white text.#Danger is always expressed as red with white text.
+	~green background, white text.#Danger is always expressed as red with white text.
+}
+
+
+//name:TQ0006
+::TQ0006::The yellow painted lines on a workshop floor indicate:{
+	=a clear zone away from tools and equipment.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+	~where you can walk.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+	~where you should not walk.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+	~an emergency evacuation path.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+}
+
+
+//name:TQ0007
+::TQ0007::Technician A says if an asbestos containment system is not available, the brake assembly should be cleaned by spraying the assembly with brake cleaner while wearing a respirator.  Technician B says if an asbestos containment system is not available, the brake assembly should not be cleaned.  Who is correct?{
+	=Technician A.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+	~Technician B.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+	~Both Technician A & Technician B.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+	~Neither Technician A nor Technician B.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+}
+
+
+//name:TQ0008
+::TQ0008::Engines with catalytic converters can safely be run indoors once the engine has warmed up.{
+	=FALSE#Whilst engines fitted with catalytic converters do emit reduced emissions, they cannot be run in confined spaces as they still emit carbon monoxide.
+	~TRUE#Whilst engines fitted with catalytic converters do emit reduced emissions, they cannot be run in confined spaces as they still emit carbon monoxide.
+}
+
+
+//name:TQ0009
+::TQ0009::Exhaust gases in workshops are a serious health hazard. The best way to get rid of these gases is:{
+	=with an exhaust extraction system.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+	~not to run vehicles in the workshop.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+	~face the exhaust towards the workshop doors.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+	~attach a pipe that vents the gases away from your work area.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+}
+
+
+//name:TQ0010
+::TQ0010::A fire involving gasoline is classed as a:{
+	=B class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~A class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~C class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~D class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~E class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+}
+
+
+//name:TQ0011
+::TQ0011::A fire involving paper or wood is classed as a:{
+	=A class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~B class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~C class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~D class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~E class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+}
+
+
+//name:TQ0012
+::TQ0012::According to the Fire Triangle, which element do you need to remove to extinguish a fire?  {
+	=Fuel, heat or oxygen.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+	~Oxygen and heat.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+	~Heat and fuel.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+	~Fuel and oxygen.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+}
+
+
+//name:TQ0013
+::TQ0013::Material Safety Data Sheets provide information about:{
+	=handling, use and storage of chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+	~ground storage of old chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+	~the purchase requirements of chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+	~the purchase cost of chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+}
+
+
+//name:TQ0014
+::TQ0014::The MSDS should always be:{
+	=clearly visible and located near where the product is stored.#The MSDS is an aid to safety that should be available for users.
+	~available from the supplier.#The MSDS is an aid to safety that should be available for users.
+	~available from the manufacturer.#The MSDS is an aid to safety that should be available for users.
+	~kept in the manager's office.#The MSDS is an aid to safety that should be available for users.
+}
+
+
+//name:TQ0015
+::TQ0015::Why should you disconnect the battery prior to cleaning a vehicle with solvents?{
+	=Because some solvents are highly volatile and can explode.#Sparks from vehicle component operation may cause a fire.  Disconnecting the battery will ensure a safer work place.
+	~Because solvents in contact with the battery can cause it to short out the electrical wiring of the vehicle.#Sparks from vehicle component operation may cause a fire.  Disconnecting the battery will ensure a safer work place.
+	~Because solvents can corrode the battery terminals.#Sparks from vehicle component operation may cause a fire.  Disconnecting the battery will ensure a safer work place.
+}
+
+
+//name:TQ0016
+::TQ0016::Your workplace would will be a much safer place if you:{
+	=know what to do in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+	~rely on the designated safety officer to tell you what to do in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+	~stop and document an unsafe situation in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+	~complete the procedure as quickly as possible in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+}
+
+
+//name:TQ0017
+::TQ0017::How often should maintenance tests usually be carried out on lifting equipment?{
+	=Every 6 months in the case of hoists and lifts.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+	~Every 12 months in the case of hoists and lifts.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+	~Every 2 years in the case of hoists and lifts.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+	~Whenever machinery shows signs of wear or damage.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+}
+
+
+//name:TQ0018
+::TQ0018::Where should you keep keys for all vehicles when not in use?{
+	=Secure and away from the vehicle.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+	~With the vehicle at all times.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+	~With the technician at all times.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+	~In easy reach of the workplace for convenience.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+}
+
+
+//name:TQ0019
+::TQ0019::It is safe to be in prolonged, direct contact with engine oil when wearing protective clothing.{
+	=FALSE#Avoid direct contact as far as possible, by always using protective clothing, which is cleaned or replaced regularly, and by following safe work practices, which minimize the possibility of accidental spills. Used engine oil is a hazardous substance containing many impurities that can damage your skin.
+	~TRUE#Avoid direct contact as far as possible, by always using protective clothing, which is cleaned or replaced regularly, and by following safe work practices, which minimize the possibility of accidental spills. Used engine oil is a hazardous substance containing many impurities that can damage your skin.
+}
+
+
+//name:TQ0020
+::TQ0020::For safety reasons when using portable electrical equipment, you should:{
+	=choose 110-volt or lower voltage tools if they are available.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+	~choose 240-volt 'double-insulated' tools if they are available.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+	~choose 240-volt 'water-proof' tools if they are available.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+	~only use air-operated tools.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+}
+
+

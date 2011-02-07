@@ -1,0 +1,34 @@
+//name:TQ1497
+::TQ1497::The exhaust valve seat is made wider than the inlet valve seat because:{
+	=the exhaust valve seat is subject to higher temperatures in operation.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+	~the seat pressure is higher.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+	~the intake valve is cooled by incoming mixture.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+	~a wider seat allows the use of high-lift cams.#The width of the valve seat is important. A narrow seat is desirable because a thin circular contact with the valve face forms an efficient seal. But a wider seat is better for transferring heat from the valve to the cylinder head. A common compromise is for the inlet valve to have a narrower seat than the exhaust valve.
+}
+
+
+//name:TQ1499
+::TQ1499::Which parts are separated by valve clearance or valve lash?{
+	=The valve tip and the valve train.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+	~The pushrod and the rocker arm.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+	~The valve stem and the valve guide.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+	~The valve and the valve retainer.#The gap between the valve tip and the valve train is called valve clearance or valve lash. This must be maintained when the cam is not applying pressure to open the valve.
+}
+
+
+//name:TQ1500
+::TQ1500::Inlet and exhaust valves are generally located in the:{
+	=cylinder head.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+	~inlet and exhaust manifolds.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+	~cylinder block.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+	~crankcase.#Inlet and exhaust valves fit into a port in the head. The valve face makes a gas-tight seal against the seat.
+}
+
+
+//name:TQ1502
+::TQ1502::Valve seat inserts that match the shape of the valve are commonly made from:{
+	=hardened iron alloy.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+	~polished aluminum.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+	~cast iron.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+	~teflon coated aluminum alloy.#Valve seats are often ground to the same angle as the valve face, but they can differ. The difference is called an interference angle. An interference angle allows for a quick bedding-in of the valve face to the seat on new engines. It may also allow for slight changes in angle as a valve heats and expands.
+}

@@ -1,0 +1,1038 @@
+//name:TQ1289
+::TQ1289::'EMF' stands for 'Electro Motive Force'. In circuit calculations the 'E' is used instead of 'EMF'. What does the letter 'E' represent?{
+	=Volts#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+	~Amps#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+	~Ohms#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+	~Watts#EMF shortened to E is measured in volts and is the potential difference between the positive and negative terminals of a source of electrical energy.
+}
+
+
+//name:TQ1290
+::TQ1290::Identify the unit that is NOT a basic electrical measurement.{
+	=Newton meter#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+	~Volt#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+	~Ampere#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+	~Ohm#Basic electrical measurement units are: Volt (electromotive force); Ampere (current); Ohm (resistance); and Watt (power).
+}
+
+
+//name:TQ1291
+::TQ1291::The SI system defines basic units of measure.{
+	=TRUE#The International System of Units (or 'SI system') is the modern form of the metric system. It is the world's most widely used system of units.
+	~FALSE#The units in the SI system are referred to as basic units.
+}
+
+
+//name:TQ1292
+::TQ1292::Vacuum is a term given to a pressure that is:{
+	=less than atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+	~more than atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+	~the same as atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+	~not related to atmospheric pressure.#The less gas in any given volume, the lower the pressure of that gas. The word 'vacuum' in Latin means 'empty', so a vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure.
+}
+
+
+//name:TQ1293
+::TQ1293::The engine supplies a twisting or rotating force which ultimately turns the vehicle's wheels and propels the vehicle. What is this force called?{
+	=Torque.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+	~Newtons.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+	~Horsepower.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+	~Ratio.#Driving torque is transmitted equally to each axle shaft and wheel. However, when patches of loose gravel or mud are encountered the ratio of torque delivered depends on the traction available at each wheel.
+}
+
+
+//name:TQ1294
+::TQ1294::The SI unit used to measure torque is the:{
+	=newton-meter.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+	~foot-pound.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+	~kilopascal.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+	~PferdestrÑrke.#One newton-meter of torque corresponds to the force of one newton applied to a lever of one meter.
+}
+
+
+//name:TQ1295
+::TQ1295::Velocity is the measurement of what over a period of time?{
+	=Distance traveled.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+	~Area.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+	~Amount of space.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+	~Force per unit area.#Velocity is used when checking speedometers, determining vehicle acceleration performance, and determining fuel consumption.
+}
+
+
+//name:TQ1296
+::TQ1296::The SI unit of pressure commonly used in automotive applications is the:{
+	=kilopascal.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+	~watt.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+	~foot-pound.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+	~volt.#One pascal (Pa) of pressure is equivalent to a perpendicular force of one newton per square meter. Tire pressures are usually expressed in kilopascals (kPa).
+}
+
+
+//name:TQ1297
+::TQ1297::Which of these is a measurement of length?{
+	=Kilometer#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+	~Kilogram#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+	~Kilojoule#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+	~Kilopascal#Length is a measurement of linear distance.  Any time you are using a ruler or a tape measure, you are measuring the linear distance between two points.
+}
+
+
+//name:TQ1298
+::TQ1298::Which has greater mass, an Imperial ton, which contains 2240lbs, or a metric tonne, which contains 1000Kg?{
+	=The metric tonne.#The metric tonne of 1000Kg is slightly heavier.  It has a mass of 1.01 Ton.  A ton has a mass of 0.98 tonne.
+	~The Imperial ton.#The metric tonne of 1000Kg is slightly heavier.  It has a mass of 1.01 Ton.  A ton has a mass of 0.98 tonne.
+	~They are exactly equivalent in mass.#The metric tonne of 1000Kg is slightly heavier.  It has a mass of 1.01 Ton.  A ton has a mass of 0.98 tonne.
+}
+
+
+//name:TQ1299
+::TQ1299::In what way is the metric system for measuring time different from the Imperial system?{
+	=The metric system uses the second as its base unit, the Imperial uses the minute.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+	~The Imperial system uses the second as its base unit, the metric uses the minute.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+	~In the metric system, there are 100 seconds to the minute.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+	~One Imperial second is fractionally longer than one metric second.#Time is one of the few ranges of measurement which uses the same units - in this case, seconds, minutes, hours, etc. - all over the world.
+}
+
+
+//name:TQ1300
+::TQ1300::Which of these measures has the greatest volume?{
+	=One UK gallon#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+	~One US gallon#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+	~Four liters#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+	~They are all identical in volume#One UK gallon is equal to 4.54 liters, and one US gallon is equal to 3.78 liters.  A gallon of gasoline/petrol in the UK is often noted as being more expensive than in the US, but that is partly because a UK gallon of petrol/gasoline contains more fuel. 
+}
+
+
+//name:TQ1301
+::TQ1301::What units would you use in the metric system to measure area?{
+	=Square meters.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+	~Cubic inches.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+	~Square feet.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+	~Cubic meters.#Area is the amount of expanse of a flat or curved surface. The metric system uses square meters (m2). The Imperial system uses square inches (in2).
+}
+
+
+//name:TQ1302
+::TQ1302::The basic unit of energy is the:{
+	=joule.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+	~pascal.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+	~newton.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+	~watt.#A joule (J) is the amount of energy needed to produce one watt of power for one second, or to apply a force of one newton for a distance of one meter.
+}
+
+
+//name:TQ1303
+::TQ1303::In which of these temperature measurements does water boil at 100 degrees (at sea level atmospheirc pressure)?{
+	=Celsius#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+	~Fahrenheit#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+	~Kelvin#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+	~Rankine#The metric system uses degrees Celsius (¯C) for normal use and Kelvin (¯K) for measurement in absolute terms. The Imperial system uses degrees Fahrenheit (¯F) for normal use and degrees Rankine (¯R) for measurement in absolute terms.
+}
+
+
+//name:TQ1304
+::TQ1304::The usual SI measurement of engine power output is the:{
+	=kilowatt.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+	~megawatt.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+	~kilopascal.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+	~horsepower.#Power is the rate at which work is performed, which means it is a measure of the amount of energy required to perform work over a given amount of time.
+}
+
+
+//name:TQ1305
+::TQ1305::The prefix 'Mega' indicates what multiple of a unit?{
+	=A million.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+	~ A billion.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+	~A thousand.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+	~A hundred.#Be careful how you write measurement symbols.  Capital letters matter.  For instance, 1Mm is a megameter, meaning one million meters, but 1mm is a millimeter, meaning one thousandth of a meter.
+}
+
+
+//name:TQ1306
+::TQ1306::Bitumen is a highly viscous, black, organic liquid that is obtained from crude oil.{
+	=TRUE#Bitumen is a highly viscous, black, sticky, organic liquid primarily used as a binding agent for paving roads.
+	~FALSE#Bitumen is a highly viscous, black, sticky, organic liquid primarily used as a binding agent for paving roads.
+}
+
+
+//name:TQ1307
+::TQ1307::Changing the amount of carbon in an alloy, even by small amounts, will dramatically change its properties.{
+	=TRUE#High strength steels are manufactured by altering the amount of carbon in the metal's atomic structure.
+	~FALSE#High strength steels are manufactured by altering the amount of carbon in the metal's atomic structure.
+}
+
+
+//name:TQ1308
+::TQ1308::The amount of carbon required to alloy with iron to form steel is very small, it can be:{
+	=less than 1%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+	~less than 5%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+	~less than 10%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+	~less than 20%#When carbon and other materials are alloyed with iron it forms steel. Changing the amount of carbon will change the hardness, ductility and toughness.
+}
+
+
+//name:TQ1309
+::TQ1309::Must all commercial vehicles display their Gross Vehicle Mass (GVM)?{
+	=When legally required to do so.#The GVM is generally displayed on all commercial vehicles.  This allows the operator to determine the maximum payload that may be carried. In some countries transport regulations require the GVM to be displayed. 
+	~Yes, in all cases.#The GVM is generally displayed on all commercial vehicles.  This allows the operator to determine the maximum payload that may be carried. In some countries transport regulations require the GVM to be displayed. 
+	~No, only goods carrying vehicles.#The GVM is generally displayed on all commercial vehicles.  This allows the operator to determine the maximum payload that may be carried. In some countries transport regulations require the GVM to be displayed. 
+}
+
+
+//name:TQ1310
+::TQ1310::Tempering means heating to a certain temperature, depending on the material, holding it at that temperature for a time, then letting it cool...{
+	=at a controlled rate.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+	~quickly.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+	~slowly.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+	~with an induction coil.#The temperature needed, how long it's held, and how the material is cooled all depend on the material, and the properties that are wanted.
+}
+
+
+//name:TQ1311
+::TQ1311::The two easiest ways to create a partial vacuum are to expand the volume of a sealed gas-filled container; or{
+	=reduce the mass of the gas inside a fixed size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+	~increase the mass of the gas inside a fixed size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+	~maintain the mass of the gas inside a fixed size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+	~reduce the mass of the gas inside a reduced size container.#A vacuum or partial vacuum is the term used to describe a volume of gas with a pressure lower than atmospheric pressure. A vacuum can be created by enlarging the space containing the gas or reducing the volume of the gas in a fixed container.
+}
+
+
+//name:TQ1312
+::TQ1312::The power produced by a wet cell battery is an example of electrolysis.{
+	=FALSE#A wet cell battery, such as a typical lead/acid car battery, works as a result of the reverse of the electrolysis process.
+	~TRUE#A wet cell battery, such as a typical lead/acid car battery, works as a result of the reverse of the electrolysis process.
+}
+
+
+//name:TQ1313
+::TQ1313::Electrolysis can cause:{
+	=corrosion.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+	~electrical charge.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+	~chemical flow.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+	~acid creation.#Electrolysis is a chemical and electrical process. It occurs when two different metals are in contact, in the presence of a moist agent such as water. One of the metals is corroded away.
+}
+
+
+//name:TQ1314
+::TQ1314::The elctrolysis of water separates the water into:{
+	=oxygen and hydrogen.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+	~oxygen and nitrogen.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+	~oxygen and carbon dioxide.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+	~carbon dioxide and hydrogen.#Electrolysis is the process of causing a chemical change in a compound by passing a direct electrical current through it. 
+}
+
+
+//name:TQ1315
+::TQ1315::Engine displacement is also known as:{
+	=swept volume.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+	~engine volume.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+	~cylinder volume.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+	~swept cylinder.#Engine displacement is the volume that is swept as the pistons are moved from top dead center to bottom dead center.
+}
+
+
+//name:TQ1316
+::TQ1316::Engine displacement is the volume of air/fuel mixture an engine can draw in during one complete engine cycle.{
+	=TRUE#Each individual cylinder swept volume is added together to get the total engine displacement.
+	~FALSE#Each individual cylinder swept volume is added together to get the total engine displacement.
+}
+
+
+//name:TQ1317
+::TQ1317::Total engine displacement is:{
+	=the sum of the volume of all cylinders of the engine from top dead center to bottom dead center.#Engine displacement is defined as the total volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+	~the sum of all cylinders of the engine from top dead center to bottom dead center plus the volume above top dead center.#Engine displacement is defined as the volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+	~the sum of all cylinders of the engine above top dead center.#Engine displacement is defined as the volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+	~the volume of one cylinder from top dead center to bottom dead center.#Engine displacement is defined as the volume of air/fuel mixture an engine can draw in during one complete engine cycle.
+}
+
+
+//name:TQ1318
+::TQ1318::Aluminum is an alloy designed to be hard enough to make pistons.{
+	=FALSE#Aluminum by itself it too soft, but when mixed with other materials, alloys are produced that are ideal as pistons.
+	~TRUE#Aluminum by itself it too soft, but when mixed with other materials, alloys are produced that are ideal as pistons.
+}
+
+
+//name:TQ1319
+::TQ1319::In an engine, the torque drives the:{
+	=wheels.#Engine output refers to the torque and power produced by an engine.
+	~engine.#Engine output refers to the torque and power produced by an engine.
+	~fuel pump.#Engine output refers to the torque and power produced by an engine.
+	~alternator.#Engine output refers to the torque and power produced by an engine.
+}
+
+
+//name:TQ1320
+::TQ1320::The power range of an engine can be described by its:{
+	=load factor.#The 'load factor' gives its load and speed as an average over a certain period.
+	~lag factor.#The 'load factor' gives its load and speed as an average over a certain period.
+	~power factor.#The 'load factor' gives its load and speed as an average over a certain period.
+	~engine factor.#The 'load factor' gives its load and speed as an average over a certain period.
+}
+
+
+//name:TQ1321
+::TQ1321::The pressure and temperature of a gas are linked. As pressure goes up, temperature:{
+	=goes up.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+	~goes down.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+	~stays the same.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+	~fluctuates up and down.#For a fixed amount of gas, higher temperatures produce higher pressures and lower temperatures produce lower pressures.
+}
+
+
+//name:TQ1322
+::TQ1322::As volume falls, pressure:{
+	=rises.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+	~falls.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+	~stays the same.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+	~fluctuates up and down.#Pressure and volume are in what is called an inverse relation. As one rises, the other falls.
+}
+
+
+//name:TQ1323
+::TQ1323::Heating gas particles makes them move faster, and they exert less pressure on the surfaces of their container.{
+	=FALSE#Heated particles exert greater pressure on the surfaces of their container, until eventually, they are able to do work..
+	~TRUE#Heated particles exert greater pressure on the surfaces of their container, until eventually, they are able to do work..
+}
+
+
+//name:TQ1324
+::TQ1324::The higher the engine's compression ratio the more powerful the engine.{
+	=TRUE#Compression ratio compares swept volume plus clearance volume.
+	~FALSE#Compression ratio compares swept volume plus clearance volume.
+}
+
+
+//name:TQ1325
+::TQ1325::Which of the following statements about grey iron is true?{
+	=It is brittle and cannot absorb shocks.#Grey iron resists heat and corrosion and is used for many automotive components.
+	~It is brittle and absorbs shocks.#Grey iron resists heat and corrosion and is used for many automotive components.
+	~Grey iron contains no carbon.#Grey iron resists heat and corrosion and is used for many automotive components.
+	~It is ductile and absorbs shocks.#Grey iron resists heat and corrosion and is used for many automotive components.
+}
+
+
+//name:TQ1326
+::TQ1326::Turbulence helps make sure the combustion process occurs more:{
+	=efficiently.#Turbulence refers to the swirling motion of a liquid or a gas.
+	~quickly.#Turbulence refers to the swirling motion of a liquid or a gas.
+	~precisely.#Turbulence refers to the swirling motion of a liquid or a gas.
+	~slowly.#Turbulence refers to the swirling motion of a liquid or a gas.
+}
+
+
+//name:TQ1327
+::TQ1327::When an intake valve closes after bottom dead center, and the exhaust valve closes after top dead center, it's called:{
+	=lag.#Different engines use different timings. Manufacturer specifications contain the exact information.
+	~valve overlap.#Different engines use different timings. Manufacturer specifications contain the exact information.
+	~lead.#Different engines use different timings. Manufacturer specifications contain the exact information.
+	~intake overlap.#Different engines use different timings. Manufacturer specifications contain the exact information.
+}
+
+
+//name:TQ1328
+::TQ1328::In practice, the intake valve usually opens later than top dead center, and stays open a little past bottom dead center.{
+	=FALSE#The intake valve usually opens earlier than top dead center, and stays open a little past bottom dead center.
+	~TRUE#The intake valve usually opens earlier than top dead center, and stays open a little past bottom dead center.
+}
+
+
+//name:TQ1329
+::TQ1329::If water is put under higher than atmospheric pressure:{
+	=it boils at a higher temperature.#Changing water pressure changes the temperature at which it boils.
+	~it boils at a lower temperature.#Changing water pressure changes the temperature at which it boils.
+	~it boils at standard 'boiling point'.#Changing water pressure changes the temperature at which it boils.
+	~it doesn't boil.#Changing water pressure changes the temperature at which it boils.
+}
+
+
+//name:TQ1330
+::TQ1330::When can centrifugal force be useful?{
+	=When coolant enters a coolant pump moving the liquid outward.#Centrifugal force is a force pulling outward on a rotating body.
+	~When a flywheel is out of balance.#Centrifugal force is a force pulling outward on a rotating body.
+	~When a vehicle is turning a corner.#Centrifugal force is a force pulling outward on a rotating body.
+	~When a vehicle is moving in a straight line.#Centrifugal force is a force pulling outward on a rotating body.
+}
+
+
+//name:TQ1331
+::TQ1331::What is a positive use for electrolysis?{
+	=Manufacturing chemicals.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+	~Renovating corroded components.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+	~Cleaning dirty tools.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+	~Polishing camshafts.#There are many positive uses for electrolysis, particularly in the manufacture of chemicals, such as gases, metals, and other materials.
+}
+
+
+//name:TQ1332
+::TQ1332::Thermo-switches can be:{
+	=mechanical or electrical.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+	~electronic or magnetic.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+	~mechanical or magnetic.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+	~electrical or chemical.#Thermo-switches are designed to switch on or off when the temperature reaches a certain level.
+}
+
+
+//name:TQ1333
+::TQ1333::How do you make the thermo-switch break the circuit?{
+	=By cooling it.#Cooling the thermo-switch produces the opposite effect of heating it, breaking the circuit.
+	~By reversing the current.#Cooling the thermo-switch produces the opposite effect. Breaking the circuit, and closing the passage.
+	~By turning off the current.#Cooling the thermo-switch produces the opposite effect. Breaking the circuit, and closing the passage.
+	~By reducing the voltage.#Cooling the thermo-switch produces the opposite effect. Breaking the circuit, and closing the passage.
+}
+
+
+//name:TQ1334
+::TQ1334::Air density is expressed as a ratio of what?{
+	=Mass per unit volume.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+	~Mass times air pressure.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+	~Volume times air pressure.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+	~Oxygen percentage per unit volume.#This means a volume of air at high density has a higher mass than the same volume at low density. And if there is a larger mass of air, it will contain proportionally more oxygen.
+}
+
+
+//name:TQ1335
+::TQ1335::Back-pressure is the name used to describe:{
+	=a build-up of pressure in an exhaust system.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+	~the air pressure in the rear tires.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+	~the difference in pressure between the intake and outlet of a pump.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+	~the resistance to the circulation of coolant in a radiator.#Back-pressure in an exhaust system refers to a build-up of pressure in the system that interferes with the outward flow of exhaust gases. This area of high pressure acts as a kind of wall to stop gas flow.  It can be caused by a blockage in a muffler or a similar restriction.
+}
+
+
+//name:TQ1336
+::TQ1336::Bernoulli's principle states that when fluid is flowing through a pipe and the diameter narrows:{
+	=the fluid pressure lowers and the fluid speed increases.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+	~the fluid temperature goes up and and the fluid pressure increases.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+	~the fluid slows down and the fluid pressure increases.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+	~the fluid pressure decreases and the fluid temperature goes up.#This principle is used in a carburetor to mix air with fuel. As the air passes through the narrower Venturi, the speed of the air flow increases, but the pressure inside the tube drops. This low pressure air passes over a small inlet which is connected to a fuel supply, drawing a small amount of fuel vapor into the air flow.
+}
+
+
+//name:TQ1337
+::TQ1337::Carbon monoxide emissions are produced during combustion as a result of:{
+	=incomplete combustion of carbon and carbon compounds.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+	~using fuel with an incorrect octane rating.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+	~incomplete combustion of nitrous oxide residues.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+	~worn piston rings allowing cylinder leakage.#Carbon monoxide, chemical symbol CO, is a colorless, odorless, tasteless, flammable, and highly toxic gas. It is a product of the incomplete combustion of carbon and carbon compounds, and it burns in air with a blue flame, producing carbon dioxide or CO2.
+}
+
+
+//name:TQ1338
+::TQ1338::A closed loop is part of:{
+	=a feedback information system.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+	~a battery safety harness.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+	~an audio alarm system.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+	~vehicle engine hoist equipment.#A closed loop is part of a feedback system that collects information on how a system is operating & feeds that information back to affect how the system is working.
+}
+
+
+//name:TQ1339
+::TQ1339::The frequency of sound pressure waves refers to:{
+	=the rate at which pressure waves reach our ears.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+	~the elapsed time between a wave peak and its following trough.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+	~the amplitude, or height, of each pressure wave.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+	~the rate at which the pitch of the sound is increasing or decreasing.#Frequency is measured in cycles per second, where a cycle is the distance between waves, or wavelength. The higher the frequency, the higher the pitch of the sound.
+}
+
+
+//name:TQ1340
+::TQ1340::A potentiometer is:{
+	=a mechanically variable resistor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+	~an electrically variable resistor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+	~a mechanically variable conductor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+	~an electronically variable conductor.#A potentiometer can be linear or circular in construction, and  it has three electrical connecting points. Two are at the ends of the resistor, and a third is attached to a center sliding contact, arranged to move across the resistor. A reference voltage is applied to the resistor, so that a steady current flows through it.
+}
+
+
+//name:TQ1341
+::TQ1341::Why does a regular pressure gauge read zero when it's not in use?{
+	=Because the gauge only indicates air pressure above atmospheric pressure.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+	~Because the gauge must always be calibrated to the relative ambient pressure before use.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+	~Because the gauge must be connected to a pressure source before a reading can be taken.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+	~Because there is no pressure inside the gauge.#Absolute pressure equals gauge pressure plus atmospheric pressure.  If absolute pressure is to be measured, an Absolute Pressure Gauge would be required, and it would read 101.3 kilo-Pascals or 14.7 PSI when not in use. 
+}
+
+
+//name:TQ1342
+::TQ1342::The chemically correct stoichiometric ratio for normal engine operation is:{
+	=14.7 kg of air to one kilo of fuel.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+	~14.7 kilos of fuel to one kilo of air.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+	~14 parts of air to 7 parts of fuel.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+	~14.7 cubic feet or cubic meters of air to one cubic foot or meter of fuel.#The term Stoichiometric ratio describes the chemically correct air-fuel ratio necessary to achieve complete combustion of the fuel. It is represented by the Greek letter, lambda.
+}
+
+
+//name:TQ1343
+::TQ1343::The tachometer indicates engine RPM.  It is connected to:{
+	=the negative terminal of the ignition coil.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+	~the wheel speed sensors.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+	~the crankshaft drive pulley.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+	~the number one cylinder spark plug.#The pulses from the ignition primary circuit are used as an input to operate the tachometer. At idle speed, the frequency of the pulse is steady. As the engine speed rises, the frequency of the pulse increases, as the tachometer indicates.
+}
+
+
+//name:TQ1344
+::TQ1344::Thermal expansion refers to:{
+	=the way some materials expand when they are heated.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+	~the rate at which heat is lost to the environment.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+	~the rate at which heat is transferred through a material.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+	~the speed at which combustion occurs in a cylinder.#Components that are subject to heating have to allow for this expansion in their design. An engine exhaust system is subjected to very hot exhaust gases so its components expand and contract as they heat and cool. Mountings in the system are designed to allow this to happen.
+}
+
+
+//name:TQ1345
+::TQ1345::The carburetor venturi is the name used to describe:{
+	=the place where the intake passage narrows.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+	~the nozzle from where the fuel is drawn.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+	~the fuel reservoir.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+	~the valve controlling the flow of air-fuel mixture in the intake system.#A venturi is the name for a narrower more restricted area in a fluid passage. As fluid passes through a venturi, the fluid pressure drops and its speed increases.
+}
+
+
+//name:TQ1346
+::TQ1346::Volumetric efficiency is a measure of:{
+	=the air-fuel mixture burned in the cylinder.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+	~the internal volume of each cylinder.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+	~the combined volume of the combustion chambers in all the cylinders.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+	~the volume of air held in the plenum chamber.#Volumetric efficiency compares the volume of air entering a cylinder during intake to the internal volume of the cylinder when the piston is at bottom dead centre. It is usually expressed as a percentage.
+}
+
+
+//name:TQ1347
+::TQ1347::Atmospheric pressure is approximately:{
+	=101.3 kPa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+	~10.13 kPa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+	~1013 kPa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+	~101.3 Pa#Standard atmospheric pressure is calculated as the average air pressure at sea-level. However, atmospheric pressure reduces as altitude rises above sea level.
+}
+
+
+//name:TQ1348
+::TQ1348::Technician A says that liquids transmit force. Technician B says that liquids increase force. Who is correct?{
+	=Technician A.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+	~Technician B.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+	~Both Technician A and Technician B.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+	~Neither Technician A nor Technician B.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+}
+
+
+//name:TQ1349
+::TQ1349::Asbestos is a heat-resistant material that is no longer used to manufacture insulations and brake linings because:{
+	=it causes a very dangerous form of cancer.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+	~much cheaper alternatives have been invented.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+	~it aggravates skin and other allergies.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+	~reliable supplies are no longer readily available.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+}
+
+
+//name:TQ1350
+::TQ1350::In a hydraulic system, 'bleeding' means:{
+	=removing any air from the system.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+	~the system has a slow leak.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+	~removing a proportion of the hydraulic fluid.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+	~topping up the system until the excess fluid 'bleeds' out.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+}
+
+
+//name:TQ1351
+::TQ1351::The coefficient of friction:{
+	=measures the friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+	~reduces friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+	~increases the friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+	~eliminates the friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+}
+
+
+//name:TQ1352
+::TQ1352::Dampening:{
+	=reduces the bouncing effect of oscillation.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+	~extends the allowed travel distance in coil springs.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+	~prevents universal steering joints from drying out.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+	~is the effect produced by the rubber stops at the ends of coil springs.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+}
+
+
+//name:TQ1353
+::TQ1353::Electronic stability control senses when a driver is losing control, and:{
+	=reduces engine speed, and applies brakes.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+	~controls steering, applies brakes, and reduces engine speed.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+	~controls steering and applies brakes.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+	~reduces engine speed and adjusts steering and suspension.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+}
+
+
+//name:TQ1354
+::TQ1354::The helix is a shape:{
+	=described by an inclined plane wrapped around a cylinder#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+	~created by the intersection of a circle with a parabola.#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+	~formed by a series of concentric circles.#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+	~made by intertwining two  spirals with similar dimensions.#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+}
+
+
+//name:TQ1355
+::TQ1355::When pressure is applied in a hydraulic system:{
+	=the force delivered can vary but without loss of pressure.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+	~the force is always delivered without variation or loss of pressure.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+	~the force is delivered without variation but with some pressure loss due to fluid compression.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+	~the force delivered can vary but with some pressure loss due to fluid compression.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+}
+
+
+//name:TQ1356
+::TQ1356::A lever with the fulcrum between the load and the effort is known as a: {
+	=lever of the first order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+	~lever of the second order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+	~lever of the third order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+	~lever of the fourth order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+}
+
+
+//name:TQ1357
+::TQ1357::The force that causes a vehicle to slow down when the brakes are applied is:{
+	=a combination of rolling fiction and sliding friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+	~rolling friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+	~static friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+	~a combination of static friction and rolling friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+}
+
+
+//name:TQ1358
+::TQ1358::Traction control is a feature that:{
+	=reduces wheel spin during acceleration and braking.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+	~increases the effective friction of tires by dynamically adjusting wheel alignment geometry.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+	~reduces rolling friction during acceleration.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+	~is only fitted to 4WD and SUV vehicles for off-road use.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+}
+
+
+//name:TQ1359
+::TQ1359::Components that form part of the unsprung weight of the vehicle typically include:{
+	=wheels, brakes, tires.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+	~wheels, brakes, chassis, springs.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+	~steering system, suspension system, wheels.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+	~body, chassis, engine, transmission.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+}
+
+
+//name:TQ1360
+::TQ1360::The temperature at which absolute zero is defined is:{
+	=-273 degrees Celsius or - 460 Fahrenheit.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+	~-459 degrees Kelvin.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+	~-169 degrees Celsius or -273 degrees Fahrenheit.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+	~0 degrees Celsius or 32 degrees Fahrenheit.#The theoretical temperature at which no further heat loss is possible, and at which all molecular movement would cease is called absolute zero.
+}
+
+
+//name:TQ1361
+::TQ1361::Identify the particle that does NOT form part of an atom:{
+	=molecule.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+	~proton.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+	~electron.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+	~neutron.#An atom is made up of protons, neutrons and electrons which bond together into stable groups of atoms called 'molecules'.
+}
+
+
+//name:TQ1362
+::TQ1362::In an electrical charge what is defined as the total amount of electrical charge represented by one ampere of current passing a point in one second.{
+	=A Coulomb.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+	~A Volt.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+	~An electrometer.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+	~An electromagnetic field.#An electrical charge is a quantity of electrical energy that is held by an object such as a battery. A quantity of charge is known as 'Q', and it is measured in Coulombs, which has the symbol 'C'.
+}
+
+
+//name:TQ1363
+::TQ1363::Good conductors have:{
+	=low resistance. #Conductors are materials that allow an electric current to pass with low resistance.
+	~high resistance.#Conductors are materials that allow an electric current to pass with low resistance.
+	~semiconductor properties.#Conductors are materials that allow an electric current to pass with low resistance.
+	~infinite resistance.#Conductors are materials that allow an electric current to pass with low resistance.
+}
+
+
+//name:TQ1364
+::TQ1364::The acid solution in a battery is called an:{
+	=electrolyte.#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+	~battery water.#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+	~de-mineralized water.#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+	~pure sulfuric acid#An electrolyte is a substance that contains free ions and conducts electricity, usually a liquid.
+}
+
+
+//name:TQ1365
+::TQ1365::Which of the following is NOT an electronic device?{
+	=Cable terminator.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+	~Transistor.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+	~Resistor.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+	~Semiconductor circuit.#Electronic devices and circuits perform a very wide range of useful tasks, including receiving sensory inputs and converting them into electrical signals; controlling, processing, and distributing information; converting and distributing electric power; and creating or detecting electromagnetic fields and currents.
+}
+
+
+//name:TQ1366
+::TQ1366::Which of these devices operates according to Faraday's law?{
+	=Ignition induction coil.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+	~Light emitting diode.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+	~Electrical circuit breaker.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+	~Lead acid battery.#Most automotive ignition systems use an induction coil, to step up the nominal battery voltage of 12 volts to the voltage needed to bridge the gap across the spark plug electrodes. These induction coils operate according to Faraday's law.
+}
+
+
+//name:TQ1367
+::TQ1367::A stepper motor rotates in a series of precise steps, controlled:{
+	=by a microprocessor.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+	~by friction clutch plates.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+	~by a planetary gear set.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+	~by electronically variable cams.#Stepper motors do not use brushes and commutators, as they are usually controlled by a microprocessor electronically switching a set of stationary electromagnets.
+}
+
+
+//name:TQ1368
+::TQ1368::The main subatomic particles are the:{
+	=protons, neutrons, and electrons#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+	~nucleons, protons, and electrons.#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+	~electrons, proteins, and neutrons.#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+	~neutrinos, electrodes, and protons.#At the center of every atom is a nucleus, comprised of a number of protons and (with the exception of hydrogen) neutrons. Each distinct chemical element has a unique number of protons, coupled with a number of neutrons, which can vary.  Electrons orbit around and exist outside of the nucleus of an atom. 
+}
+
+
+//name:TQ1369
+::TQ1369::Tolerance is expressed as:{
+	=a plus or minus percentage.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+	~a variant in degrees.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+	~a comparative ratio.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+	~a specific number of microns.#For example, if a resistor with a value of 1000 ohms and a tolerance of plus or minus 5% is required, then any resistor with a resistance from 950-1050 ohms would be acceptable for that task.
+}
+
+
+//name:TQ1370
+::TQ1370::A transformer is an electrical device that:{
+	=steps voltage up or down.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+	~converts kinetic energy into potential energy.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+	~converts static electricity into EMF.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+	~steps amperage up or down.#A transformer is a simple electrical machine most commonly used to change voltage levels from one value to another in different parts of electrical circuits.
+}
+
+
+//name:TQ1371
+::TQ1371::Listening is a three-step process. {
+	=FALSE#Listening is a two-step process. The first step is to look and hear, the second step is to check and analyze.
+	~TRUE#Listening is a two-step process. The first step is to look and hear, the second step is to check and analyze.
+}
+
+
+//name:TQ1372
+::TQ1372::What is NOT the role of a listener in the communication process?{
+	=Being an observer.#The listener's role during the communication process is not observation, rather it should be listening.
+	~Welcome the speaker.#The listener's role during the communication process is not observation, rather it should be listening.
+	~Let the speaker know that their message is understood.#The listener's role during the communication process is not observation, rather it should be listening.
+	~Show empathy.#The listener's role during the communication process is not observation, rather it should be listening.
+}
+
+
+//name:TQ1373
+::TQ1373::Which statement is FALSE?{
+	=We cannot empathize with someone unless we agree with them.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+	~Empathy helps us overcome mental barriers.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+	~To empathize with someone is to see the situation from their point of view.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+	~When we empathize with someone, we acknowledge their positions, feelings and concerns.#Empathy does not mean agreement. Empathy is the acceptance and emotional acknowledgement of their position.
+}
+
+
+//name:TQ1374
+::TQ1374::Which statement is FALSE?{
+	=We need to show empathy only when we're listening, not speaking.#Empathy is communicated through spoken words and body language.
+	~We should think before we speak.#Empathy is communicated through spoken words and body language.
+	~We shouldn't make assumptions about listeners.#Empathy is communicated through spoken words and body language.
+	~Our message should be clear and precise.#Empathy is communicated through spoken words and body language.
+}
+
+
+//name:TQ1375
+::TQ1375::As a listener and active participant, we can encourage the flow of a conversation.{
+	=TRUE#We can encourage the flow of communication by welcoming the speaker, letting them know that we understand their message, and acknowledging their feelings and concerns.
+	~FALSE#We can encourage the flow of communication by welcoming the speaker, letting them know that we understand their message, and acknowledging their feelings and concerns.
+}
+
+
+//name:TQ1376
+::TQ1376::What is NOT the best use of a questioning skill?{
+	=Deliver a message.#Avoid delivering a message during questioning skill practice.
+	~Gather information.#Avoid delivering a message during questioning skill practice.
+	~Learn something from someone.#Avoid delivering a message during questioning skill practice.
+	~Find out someone's ideas or opinions.#Avoid delivering a message during questioning skill practice.
+}
+
+
+//name:TQ1377
+::TQ1377::Which of the following is a FALSE statement?{
+	=We use open questions to find out specific details.#Open questions are used to begin dialog, not determine specific details.
+	~Open questions encourage listeners to speak.#Open questions are used to begin dialog, not determine specific details.
+	~It is a good way to start a conversation with open questions.#Open questions are used to begin dialog, not determine specific details.
+	~Open questions let listeners explain their thoughts and feelings.#Open questions are used to begin dialog, not determine specific details.
+}
+
+
+//name:TQ1378
+::TQ1378::Which of the following is a FALSE statement?{
+	=Yes/No questions encourage further discussion from listeners.#Yes/No questions do not open dialog whereas open ended questions do.
+	~Yes/No questions are used to check facts and details.#Yes/No questions do not open dialog whereas open ended questions do.
+	~Yes/No questions allow listeners to answer just 'Yes' or 'No'.#Yes/No questions do not open dialog whereas open ended questions do.
+	~We use yes/no questions to confirm listeners' responses.#Yes/No questions do not open dialog whereas open ended questions do.
+}
+
+
+//name:TQ1379
+::TQ1379::What are the three parts to phone communication? 	{
+	=Part 1 - Greeting, Part 2 - Exchanging messages, Part 3  - Finishing the call.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+	~Part 1 - Exchanging messages, Part 2 - Taking messages, Part 3 - Leaving messages.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+	~Part 1 - Thinking, Part 2 - Greeting, Part 3 - Finishing the call.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+	~Part 1 - Exchanging messages, Part 2 - Checking messages, Part 3 - Finishing the call.#The three parts in phone communication include Greeting, Exchanging messages, Finishing the call.
+}
+
+
+//name:TQ1380
+::TQ1380::Which step of the speaking process can't we do in the normal way when we are talking to someone on the phone?{
+	=Present#The three steps include Think, Present, Check. The presentation is the most difficult since you are unable to use visual clues as to their understanding and acceptance.
+	~Think.#The three steps include Think, Present, Check. The presentation is the most difficult since you are unable to use visual clues as to their understanding and acceptance.
+	~Clarify.#The three steps include Think, Present, Check. The presentation is the most difficult since you are unable to use visual clues as to their understanding and acceptance.
+}
+
+
+//name:TQ1381
+::TQ1381::What are the steps in a speaking process?{
+	=Step 1 - Think, Step 2 - Present, Step 3 - Check.#The three steps in a speaking process include Think, Present, Check.
+	~Step 1 - Check, Step 2 - Think, Step 3 - Present.#The three steps in a speaking process include Think, Present, Check.
+	~Step 1 - Present, Step 2 - Analyze, Step 3  -Check.#The three steps in a speaking process include Think, Present, Check.
+	~Step 1 - Think, Step 2 - Present, Step 3 - Analyze.#The three steps in a speaking process include Think, Present, Check.
+}
+
+
+//name:TQ1382
+::TQ1382::What skills do you need when receiving instructions?{
+	=All of these things.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+	~Active listening.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+	~Listening feedback.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+	~Speaking and questioning.#The key receiving instructions skills include active listening, listening feedback, speaking and questioning.
+}
+
+
+//name:TQ1383
+::TQ1383::Which statement is TRUE?{
+	=All of these answers.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+	~A good team player needs to be committed to the team goal.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+	~Working in a team allows us to learn new things from others.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+	~Good communication helps a team to work together efficiently.#Good team players are committed to the team goal. Working in a team allows learning from others. Good communication helps a team to work more efficiently.
+}
+
+
+//name:TQ1384
+::TQ1384::What is the customer 's primary objective when bringing their vehicle in for a service?{
+	=All of these answers.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+	~Having the task done in a reasonable time frame.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+	~Having the task done correctly the first time.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+	~Having the task done at an appropriate cost.#Customer expectations generally include completing the tasks in a reasonable time, fixing it right the first time, and completing the task within reasonable cost.
+}
+
+
+//name:TQ1385
+::TQ1385::Which statement is TRUE?{
+	=Our customer service can influence people to choose us over our competitors.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+	~Internal customers are outside our organization.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+	~External customers are in the same organization with us.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+	~All of these answers.#Customer service is a key differentiation tool that a business can use to persuade customers to do business with them.
+}
+
+
+//name:TQ1386
+::TQ1386::Which statement is FALSE?{
+	=People tend to believe our verbal message over the non-verbal one.#Non-verbal cues are much stronger than verbal messaging.
+	~Non-verbal language can add meanings to our verbal language.#Non-verbal cues are much stronger than verbal messaging.
+	~We can't rely on non-verbal clues alone when we're communicating.#Non-verbal cues are much stronger than verbal messaging.
+	~None of these answers.#Non-verbal cues are much stronger than verbal messaging.
+}
+
+
+//name:TQ1387
+::TQ1387::What are the steps in a reading process?{
+	=Step 1 - Know, Step 2 - Choose, Step 3 - Read.#The three steps in reading include Know, Choose, Read.
+	~Step 1 - Know, Step 2 - Check, Step 3 - Choose.#The three steps in reading include Know, Choose, Read.
+	~Step 1 - Choose, Step 2 - Check, Step 3 -  Know.#The three steps in reading include Know, Choose, Read.
+	~Step 1 - Know, Step 2 - Check, Step 3 - Read.#The three steps in reading include Know, Choose, Read.
+}
+
+
+//name:TQ1388
+::TQ1388::What will contribute to a good reading environment?{
+	=All of these aspects.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+	~A roomy desk and an ergonomically-designed chair.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+	~Good lighting.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+	~Quiet area.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+}
+
+
+//name:TQ1389
+::TQ1389::Reading is a three step process. Which of these has the correct steps in the correct order?{
+	=The first step is to know. The second step is to choose. The last step is to read.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~The first step is to choose. The second step is to know. The last step is to read.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~The first step is to read. The second step is to choose. The last step is to know.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~The first step is to choose. The second step is to know. The last step is to read.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+}
+
+
+//name:TQ1390
+::TQ1390::Of the following, what are possible reasons for the purpose of reading?{
+	=All of the other answers.#How we intend to use the information changes what we choose to read and how we read it.
+	~To use the information quickly .#How we intend to use the information changes what we choose to read and how we read it.
+	~To understand the information.#How we intend to use the information changes what we choose to read and how we read it.
+	~To remember the information.#How we intend to use the information changes what we choose to read and how we read it.
+}
+
+
+//name:TQ1391
+::TQ1391::To use an absorbing reading method, which of the following do we  need to be able to do:{
+	=Review the information regularly.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+	~Look for a particular piece of information.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+	~Read through a table of contents.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+	~All of the other answers.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+}
+
+
+//name:TQ1392
+::TQ1392::What is not a reading process?{
+	=To convey the information.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~To use the information quickly.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~To understand the information.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~To remember the information.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+}
+
+
+//name:TQ1393
+::TQ1393::If Debbie reads only the parts she needs to know, what reading method is this?{
+	=Selective reading#Selective reading is useful when we are looking for a particular piece of information.
+	~Comprehending reading#Selective reading is useful when we are looking for a particular piece of information.
+	~Absorbing reading#Selective reading is useful when we are looking for a particular piece of information.
+	~Inspection reading#Selective reading is useful when we are looking for a particular piece of information.
+}
+
+
+//name:TQ1394
+::TQ1394::If Chuck can remember an article he read in the newspaper, what reading method did he use?{
+	=Absorbing reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+	~Selective reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+	~Comprehending reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+	~Inspection reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+}
+
+
+//name:TQ1395
+::TQ1395::What information is not required on a Job Sheet?{
+	=Inspection details.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+	~Our company or service providers.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+	~Our customer.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+	~The service operations.#A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal contract between us, as the service provider, and our customer.
+}
+
+
+//name:TQ1396
+::TQ1396::What are the steps in a business writing process?{
+	=Step 1 - Think, Step 2 - Draft, Step 3 - Finalize.#The three steps in business writing include Think, Draft, Finalize.
+	~Step 1 - Think, Step 2 - Check, Step 3 - Draft.#The three steps in business writing include Think, Draft, Finalize.
+	~Step 1 - Draft, Step 2 - Think, Step 3 -  Finalize.#The three steps in business writing include Think, Draft, Finalize.
+	~Step 1 - Choose, Step 2 - Analyze, Step 3 - Check.#The three steps in business writing include Think, Draft, Finalize.
+}
+
+
+//name:TQ1397
+::TQ1397::What should we pay particular attention to when we draft a document?{
+	=Thoughts and ideas.#The key steps in drafting a document include thoughts and ideas.
+	~Specific details.#The key steps in drafting a document include thoughts and ideas.
+	~Choice of words.#The key steps in drafting a document include thoughts and ideas.
+	~Order of the content.#The key steps in drafting a document include thoughts and ideas.
+}
+
+
+//name:TQ1398
+::TQ1398::The purpose of an inspection report is to: {
+	=help check that all systems are operational and safe#By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+	~help you diagnose any faults reported by the customer #By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+	~record any scratch and dent damage on a vehicle before servicing it.#By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+	~help a supervisor to check repair work carried out by a technician#By following the checklist in the report, we can test all the components in a systematic way and ensure that they are operational or serviceable. We should report any defects we find to our supervisor so they can be brought to the customers attention.
+}
+
+
+//name:TQ1399
+::TQ1399::If you come across a defective piece of equipment in the workplace, what should you do?  (check all that apply){
+	=Tag the defective item and remove it from use.#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Tell any of your co-workers near the item#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~use it very carefully#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Put the item in a secure place#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+	~Tell your supervisor#Whenever we come across any defective equipment, we should tag the defective items and put them in a secured area so no-one else can use them by mistake,  complete an equipment defect report, and notify our supervisor.
+}
+
+
+//name:TQ1400
+::TQ1400::When should you fill out an accident report?{
+	=As soon as possible after the accident has occurred.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+	~When the injured person was not using equipment correctly, according to manufacturer's instructions.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+	~Once the medical report confirms that the accident was sufficiently serious.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+	~When no supervisor was present.#To make sure that the information is accurate an accident report should be completed as soon as practically possible while we still remember the facts of the accident.
+}
+
+
+//name:TQ1401
+::TQ1401::What are the steps in the researching process?{
+	=Step 1 - Define, Step 2 - Locate, Step 3 - Analyze.#The three steps in researching include Define, Locate, Analyze.
+	~Step 1 - Locate, Step 2 - Analyze, Step 3 - Define.#The three steps in researching include Define, Locate, Analyze.
+	~Step 1 - Analyze, Step 2 - Draft, Step 3 - Define.#The three steps in researching include Define, Locate, Analyze.
+	~Step 1 - Think, Step 2 - Define, Step 3 - Locate.#The three steps in researching include Define, Locate, Analyze.
+}
+
+
+//name:TQ1402
+::TQ1402::Which statement is TRUE?{
+	=All of these answers.#Primary sources of information are subjective. Secondary sources can gained be through second hand experience. A secondary source is normally more generic than a primary one.
+	~A primary source of information is subjective.#Primary sources of information are subjective. Secondary sources can gained be through second hand experience. A secondary source is normally more generic than a primary one.
+	~Secondary sources can be second hand experience.#Primary sources of information are subjective. Secondary sources can gained be through second hand experience. A secondary source is normally more generic than a primary one.
+	~Information from a secondary source is normally more generic.#Primary sources of information are subjective. Secondary sources can gained be through second hand experience. A secondary source is normally more generic than a primary one.
+}
+
+
+//name:TQ1403
+::TQ1403::What is the best process for problem solving?{
+	=Define the real problem; look for information or clues which can help us; work out the best solution.#Researching is like conducting an investigation. Following this three step process will help you arrive at the best answer to your problem.
+	~Estimate what the solution might be; define what the real problem is, confirm this by checking online information sources.#Researching is like conducting an investigation. Following this three step process will help you arrive at the best answer to your problem.
+	~Define the problem; look for information or clues which can help us find the cause; test the best solution.#Researching is like conducting an investigation. Following this three step process will help you arrive at the best answer to your problem.
+	~Put all the pieces of information together to work out what the answer or the best solution should be.#Researching is like conducting an investigation. Following this three step process will help you arrive at the best answer to your problem.
+}
+
+
+//name:TQ1404
+::TQ1404::When looking for information to help you solve a problem which primary source might you use?{
+	=People who have direct experience of a similar problem.#The primary sources of information are people who have direct experience with the same or similar problem.  These people can be: us, if we observe a situation or conduct an experiment ourselves, or other people.
+	~Print based resources such as manuals and textbooks.#The primary sources of information are people who have direct experience with the same or similar problem.  These people can be: us, if we observe a situation or conduct an experiment ourselves, or other people.
+	~Audiovisual materials such as video or DVDs.#The primary sources of information are people who have direct experience with the same or similar problem.  These people can be: us, if we observe a situation or conduct an experiment ourselves, or other people.
+	~Computer-based sources such as websites or CD-ROMs.#The primary sources of information are people who have direct experience with the same or similar problem.  These people can be: us, if we observe a situation or conduct an experiment ourselves, or other people.
+}
+
+
+//name:TQ1405
+::TQ1405::When undertaking a troubleshooting exercise on a vehicle which of the following might you use?{
+	=A combination of these as required.#Information comes in various formats including, print, audiovisual, and computer-based.
+	~CD-ROMs and websites. #Information comes in various formats including, print, audiovisual, and computer-based.
+	~Videos, Microfiche, phone. #Information comes in various formats including, print, audiovisual, and computer-based.
+	~Manuals, textbooks, workbooks, magazines and journals.#Information comes in various formats including, print, audiovisual, and computer-based.
+}
+
+
+//name:TQ1406
+::TQ1406::What are the primary formats for information?{
+	=All of the other answers#We are living in the information age. Information is readily available everywhere.
+	~Print#We are living in the information age. Information is readily available everywhere.
+	~Audiovisual#We are living in the information age. Information is readily available everywhere.
+	~Computer-based#We are living in the information age. Information is readily available everywhere.
+}
+
+

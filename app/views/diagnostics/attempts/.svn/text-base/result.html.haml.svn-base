@@ -1,0 +1,66 @@
+%div.allcontent
+  = render :partial => 'headerbar'
+  = render :partial => 'history'
+
+  %div.content{:id=>"#{@exam.completed ? 'complete' : ''}"}
+    %div.problem
+      %h1
+        &nbsp;
+      %p
+        = @scenario.problem.description
+        
+      - unless current_user.student? or @exam.completed
+        = render :partial => 'instructor_guide'
+
+      - unless @scenario.symptoms.empty?
+        = render :partial => 'symptoms'
+      
+      - if @exam.show_hint?(@attempt.classification)
+        %h2
+          &nbsp;
+        %p.hint
+          = @exam.scenario.hints.find_by_classification(@attempt.classification).message
+
+    %div.optionchoices{:id=>"#{@exam.completed ? 'resolution' : ''}"}
+      %h1{:id=>"result#{abbr(@attempt.classification)}"}
+        &nbsp;
+      %p
+        = @attempt.result
+
+      - if @exam.completed
+        - if @exam.marks_remaining > 0
+          %h2#success
+            &nbsp;
+          %h3
+            You have successfully solved the problem.
+          %p
+            You can now return to the scenarios page and select another scenario to attempt.
+          %div.resolution
+            %div.moveontonew
+              = link_to image_tag('diagnostics/back_scenarios.png'), session[:scenario_list]
+        - else
+          %h2#notsuccess
+            &nbsp;
+          %h3
+            You have not successfully solved the problem within the 10 points allocated to you.
+          %p
+            You can now choose to attempt this problem again or move on to another problem.
+          %div.resolution
+            %div.moveontonew
+              = link_to image_tag('diagnostics/back_scenarios.png'), session[:scenario_list]
+              
+      - else
+        - if @attempt.marks_deducted.zero?
+          %h2#bestchoice
+            &nbsp;
+          - if @attempt.verify?
+            %h3
+              = 'Congratulations, you have selected the correct test to verify that the problem exists.  Now select the "Move On" button to identify the cause of the problem'
+          - elsif @attempt.identify?
+            %h3
+              = 'Congratulations, you have selected the correct test to identify the cause of the problem.  Now select the "Move On" button to rectify the problem'
+        - else
+          %h2#poorchoice
+            &nbsp;
+          %h3
+            = "1 point has been deducted.  Return to the #{abbr(@attempt.classification).capitalize} (previous) step"

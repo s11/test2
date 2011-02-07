@@ -1,0 +1,145 @@
+// question: 30725  name: HAQ2339 
+::HAQ2339::[html]The Primary ................. valve has a number of lands, including one larger land which provides a differential area.{
+	=%100%regulating#
+}
+
+
+// question: 30726  name: HAQ2340 
+::HAQ2340::[html]The spring end of the ................. is subject to throttle pressure through a circuit connection from the throttle valve and the lower end is subject to modulator pressure acting on the lower face of the bottom land.{
+	=%100%valve#
+}
+
+
+// question: 30727  name: HAQ2341 
+::HAQ2341::[html]In operation, fluid from the ................. enters the valve through the orifice and acts against the differential area.{
+	=%100%pump#
+}
+
+
+// question: 30728  name: HAQ2342 
+::HAQ2342::[html]As pump pressure rises, the valve moves upwards against its ................. and excess fluid can then pass across the two large valleys to the ports in line with them.{
+	=%100%spring#
+}
+
+
+// question: 30729  name: HAQ2343 
+::HAQ2343::[html]Fluid from the lower port of the primary regulator valve acts on the end face of the ................. regulating valve and raises it against its' spring.{
+	=%100%secondary#
+}
+
+
+// question: 30730  name: HAQ2344 
+::HAQ2344::[html]High line pressure is required to hold a band or apply a clutch securely to prevent slippage when the accelerator is depressed and a high ................. is transmitted.{
+	=%100%torque#
+}
+
+
+// question: 30731  name: HAQ2345 
+::HAQ2345::[html]Applying throttle pressure to the spring end of the ................. regulating valve lifts line pressure. Applying modulator pressure to the opposite end reduces it.{
+	=%100%primary#
+}
+
+
+// question: 30732  name: HAQ2346 
+::HAQ2346::[html]At closed throttle, the throttle valve is at rest and line pressure is blocked off by a ................. Throttle pressure is zero.{
+	=%100%land#
+}
+
+
+// question: 30733  name: HAQ2347 
+::HAQ2347::[html]Fluid at line pressure is now metered into the ................. valve circuits and a T.V. pressure is quickly established.{
+	=%100%throttle#
+}
+
+
+// question: 30734  name: HAQ2348 
+::HAQ2348::[html]T.V. pressure is directed back through the circuits to the spring end of the primary regulator valve to assist the spring in opposing the force of fluid coming from the ................. and acting on the valves' differential area via the orifice.{
+	=%100%pump#
+}
+
+
+// question: 30735  name: HAQ2349 
+::HAQ2349::[html]The modulator valve assembly is in two sections and consists of a modulator valve and a modulator plug and .................{
+	=%100%spring#
+}
+
+
+// question: 30736  name: HAQ2350 
+::HAQ2350::[html]Throttle pressure is directed to the ................. valve and separates the valve and plug by moving the valve to the right and forcing the plug to the left against the compression of the spring.{
+	=%100%modulator#
+}
+
+
+// question: 30737  name: HAQ2351 
+::HAQ2351::[html]If the accelerator is fully depressed for heavy acceleration, high modulator pressure will force the regulator valve upwards to oppose ................. pressure and spring pressure.{
+	=%100%throttle#
+}
+
+
+// question: 30738  name: HAQ2352 
+::HAQ2352::[html]A road speed will be reached when ................. pressure will be high enough to overcome throttle pressure and force the modulator valve to the left which in turn forces the modulator plug fully to the left.{
+	=%100%governor#
+}
+
+
+// question: 30739  name: HAQ2353 
+::HAQ2353::[html]Throttle pressure, acting through the ................. in the circuit, helps to move the throttle valve to the left against its regulating spring.{
+	=%100%orifice#
+}
+
+
+// question: 30740  name: HAQ2354 
+::HAQ2354::[html]Rotation of the ................. throws out the bob-weight and this causes the valve to uncover the line pressure supply port so that fluid under pressure flows through the port and exerts a thrust on the face of the valve.{
+	=%100%governor#
+}
+
+
+// question: 30741  name: HAQ2355 
+::HAQ2355::[html]The action of the governor valve produces a fluid ................. at the outlet which is proportional to the force acting on the bob-weight.{
+	=%100%pressure#
+}
+
+
+// question: 30742  name: HAQ2356 
+::HAQ2356::[html]For any given value of line pressure, the result is a governor pressure which increases with .................{
+	=%100%speed#
+}
+
+
+// question: 30743  name: HAQ2357 
+::HAQ2357::[html]The governor pressure developed acts on the end of the 1-2 shift valve and as road speed ................. it becomes high enough to overcome the opposing forces of the spring and throttle pressure.{
+	=%100%increases#
+}
+
+
+// question: 30744  name: HAQ2358 
+::HAQ2358::[html]For downshifts to occur, the vehicle speed must be somewhat ................. than the speed at which upshifts occur.{
+	=%100%less#
+}
+
+
+// question: 30745  name: HAQ2359 
+::HAQ2359::[html]The shift spread provided prevents the transmission from 'hunting' up and down between two ratios and is referred to as shift speed '.................'.{
+	=%100%hysteresis#
+}
+
+
+// question: 30746  name: HAQ2360 
+::HAQ2360::[html]Additional force can be provided to force a 2-1 downshift under 'kickdown' conditions. This is provided by the kickdown portion of the kickdown/ ................. valve combination.{
+	=%100%throttle#
+}
+
+
+// question: 30747  name: HAQ2361 
+::HAQ2361::[html]From the end of its bore, the throttle valve can no longer regulate the incoming line pressure and throttle ................. now becomes equal to line pressure and passes into the kickdown circuit leading to the kickdown port at the 1-2 shift valve.{
+	=%100%pressure#
+}
+
+
+// question: 30748  name: HAQ2362 
+::HAQ2362::[html]As road speed rises ................. pressure will increase and since it is acting on the large differential area on the bottom land, will eventually become high enough to force the valve upwards and overcome kickdown pressure.{
+	=%100%governor#
+}
+
+
+

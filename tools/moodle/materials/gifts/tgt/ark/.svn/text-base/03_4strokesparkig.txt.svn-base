@@ -1,0 +1,43 @@
+//name:TQ1412
+::TQ1412::What are the five key events of an internal combustion engine?{
+	=Intake, Compression, Ignition, Power & Exhaust.#These 5 key events are common to all internal combustion engines.
+	~Intake, Combustion, Ignition, Power, & Exhaust.#These 5 key events are common to all internal combustion engines.
+	~Input, Power, Ignition, Compression, & Exhaust.#These 5 key events are common to all internal combustion engines.
+	~Intake, Compression, Ignition, Combustion & Exhaust.#These 5 key events are common to all internal combustion engines.
+}
+
+
+//name:TQ1413
+::TQ1413::Both intake and exhaust valves are closed during the compression and power strokes.{
+	=TRUE#The intake valve is only open during the intake stroke, and the exhaust valve is only open during the exhaust stroke.
+	~FALSE#The intake valve is only open during the intake stroke, and the exhaust valve is only open during the exhaust stroke.
+}
+
+
+//name:TQ1414
+::TQ1414::In one 4-stroke cycle, how many strokes produce energy to turn the crankshaft?{
+	=One stroke.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+	~Two strokes.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+	~Four strokes.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+	~Three strokes.#In a 4-stroke gasoline engine, the crankshaft does two revolutions in each engine cycle. Only one of its 4-strokes delivers energy to the crankshaft.
+}
+
+
+//name:TQ1415
+::TQ1415::A spark plug ignites the air-fuel mixture. This is called:{
+	=combustion.#The piston compresses the air-fuel mixture into a smaller volume before the spark plug ignites it.
+	~compression.#The piston compressions the air-ful mixture into a smaller volum before the spark plug ignites it.
+	~power.#The piston compressions the air-ful mixture into a smaller volum before the spark plug ignites it.
+	~intake.#The piston compressions the air-ful mixture into a smaller volum before the spark plug ignites it.
+}
+
+
+//name:TQ1416
+::TQ1416::The reciprocating action of the piston turns into the _______ motion of the crankshaft.{
+	=rotary#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+	~oscillating#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+	~repetitive#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+	~elliptical#The whole process is a cycle. A new mixture enters and is ignited. Combustion occurs, expanding gases drive the piston down and turn the crankshaft which pushes the piston back up the cylinder.
+}
+
+

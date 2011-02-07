@@ -1,0 +1,91 @@
+//name:TQ0435
+::TQ0435::Technician A says that scan tools can read ABS codes from the controller (control module).  Technician B says that some scan tools can send inputs to the controller (control module) to test outputs. Who is correct?{
+	~Technician A.#Both technicians are correct because a number of different functions can be performed depending on the particular scan tool used.
+	~Technician B.#Both technicians are correct because a number of different functions can be performed depending on the particular scan tool used.
+	=Both Technician A and Technician B.#Both technicians are correct because a number of different functions can be performed depending on the particular scan tool used.
+	~Neither Technician A nor Technician B.#Both technicians are correct because a number of different functions can be performed depending on the particular scan tool used.
+}
+
+
+//name:TQ0436
+::TQ0436::On-board diagnostic systems store a diagnostic trouble code in the computer's Keep Alive Memory or KAM. These codes remain in the vehicle's memory until the battery power is disconnected.  {
+	=TRUE#All KAM memory may be eliminated by disconnecting the battery, but this is not the preferred method since this method also eliminates the adaptive memory. The preferred method is by commanding KAM memory erasure using a scan tool.  
+	~FALSE#All KAM memory may be eliminated by disconnecting the battery, but this is not the preferred method since this method also eliminates the adaptive memory. The preferred method is by commanding KAM memory erasure using a scan tool.  
+}
+
+
+//name:TQ0437
+::TQ0437::The first part of a DTC code is a letter that identifies the location of the fault. What does the letter U indicate?{
+	=Communication system.#The letter code U indicates an undefined code.  Therefore, the most likely cause is a communication error.  
+P &#61; Powertrain
+B &#61; Body 
+C &#61; Chassis 
+U &#61; Undefined
+	~Powertrain.#The letter code U indicates an undefined code.  Therefore, the most likely cause is a communication error.  
+P &#61; Powertrain
+B &#61; Body 
+C &#61; Chassis 
+U &#61; Undefined
+	~Body.#The letter code U indicates an undefined code.  Therefore, the most likely cause is a communication error.  
+P &#61; Powertrain
+B &#61; Body 
+C &#61; Chassis 
+U &#61; Undefined
+	~Chassis controller.#The letter code U indicates an undefined code.  Therefore, the most likely cause is a communication error.  
+P &#61; Powertrain
+B &#61; Body 
+C &#61; Chassis 
+U &#61; Undefined
+}
+
+
+//name:TQ0438
+::TQ0438::In an OBDII continuous system check, potentially major emission causing faults such as 'engine misfire' and 'incorrect air/fuel mix' are continually monitored.{
+	=TRUE#OBDII is a hybrid engine monitoring system that constantly monitors major engine systems but also has the ability to regulate undesirable emission output to the environment.
+	~FALSE#OBDII is a hybrid engine monitoring system that constantly monitors major engine systems but also has the ability to regulate undesirable emission output to the environment.
+}
+
+
+//name:TQ0439
+::TQ0439::Under a non-continuous arrangement the system checks are made only once each warm up cycle.{
+	=TRUE#The non-continuous system does not constantly monitor engine functions. Rather, this system will sample the engine system only during a start up and warm up engine cycle.
+	~FALSE#The non-continuous system does not constantly monitor engine functions. Rather, this system will sample the engine system only during a start up and warm up engine cycle.
+}
+
+
+//name:TQ0440
+::TQ0440::Which OBD standard operates under a standard set by the Society of Automotive Engineers (SAE)?{
+	=OBDII#SAE develops standards and recommendations that vehicle manufacturers use to regulate their industry.  Since OBD is a standard, then both I and II are outcomes of SAE activity. 
+	~OBDI#SAE develops standards and recommendations that vehicle manufacturers use to regulate their industry.  Since OBD is a standard, then both I and II are outcomes of SAE activity. 
+	~Both#SAE develops standards and recommendations that vehicle manufacturers use to regulate their industry.  Since OBD is a standard, then both I and II are outcomes of SAE activity. 
+	~Neither#SAE develops standards and recommendations that vehicle manufacturers use to regulate their industry.  Since OBD is a standard, then both I and II are outcomes of SAE activity. 
+}
+
+
+//name:TQ0441
+::TQ0441::Technician A says a scan tool can only be used on OBDII vehicles to check for DTCs. Technician B says that a scan tool can only be used on OBDI vehicles to check for body control functions. Who is correct?{
+	~Technician A.#Neither technician is correct. Scan tools are designed to interrogate trouble codes on a variety of engine control systems.
+	~Technician B.#Neither technician is correct. Scan tools are designed to interrogate trouble codes on a variety of engine control systems.
+	~Both Technician A and Technician B.#Neither technician is correct. Scan tools are designed to interrogate trouble codes on a variety of engine control systems.
+	=Neither Technician A nor Technician B.#Neither technician is correct. Scan tools are designed to interrogate trouble codes on a variety of engine control systems.
+}
+
+
+//name:TQ0442
+::TQ0442::Technician A says that the main purpose of OBD computer controls is to improve performance.  Technician B says that one purpose of OBD is to control emissions. Who is correct?{
+	~Technician A.#Technician B is correct because the main reason for introducing computer control with OBD was initially to control vehicle emissions. By default, the control of emissions does affect performance but this is a secondary benefit not the main purpose.
+	=Technician B.#Technician B is correct because the main reason for introducing computer control with OBD was initially to control vehicle emissions. By default, the control of emissions does affect performance but this is a secondary benefit not the main purpose.
+	~Both Technician A & Technician B.#Technician B is correct because the main reason for introducing computer control with OBD was initially to control vehicle emissions. By default, the control of emissions does affect performance but this is a secondary benefit not the main purpose.
+	~Neither Technician A or Technician B.#Technician B is correct because the main reason for introducing computer control with OBD was initially to control vehicle emissions. By default, the control of emissions does affect performance but this is a secondary benefit not the main purpose.
+}
+
+
+//name:TQ0443
+::TQ0443::Technician A says that on vehicles operating on the OBDII standard you should clear the codes prior to repairing the fault. Technician B says that by clearing the codes prior to repairing the fault on vehicles operating on the OBDII standard, it helps to diagnose the fault. Who is correct?{
+	~Technician A.#Neither technician is correct. Clearing codes must not be done on a vehicle that has not been repaired per the diagnostic trouble code reference manual. Only clear codes after the reference manual instructs you to.
+	~Technician B.#Neither technician is correct. Clearing codes must not be done on a vehicle that has not been repaired per the diagnostic trouble code reference manual. Only clear codes after the reference manual instructs you to.
+	~Both Technician A and Technician B.#Neither technician is correct. Clearing codes must not be done on a vehicle that has not been repaired per the diagnostic trouble code reference manual. Only clear codes after the reference manual instructs you to.
+	=Neither Technician A nor Technician B.#Neither technician is correct. Clearing codes must not be done on a vehicle that has not been repaired per the diagnostic trouble code reference manual. Only clear codes after the reference manual instructs you to.
+}
+
+

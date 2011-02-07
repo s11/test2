@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/app/views/categories
+svn://curfew.jbpub.com/online
+
+
+
+2009-09-13T13:25:01.442093Z
+3394
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+show.html.haml
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+e4059f9d42e701eac7ce1adc61d8fb4f
+2009-09-13T13:25:01.442093Z
+3394
+johnm
+
+chain_select.rjs
+file
+
+
+
+
+2010-02-09T13:38:33.000000Z
+29a612d2dd4838eef9f15d555b9f185e
+2009-08-09T01:17:20.623340Z
+3056
+johnm
+

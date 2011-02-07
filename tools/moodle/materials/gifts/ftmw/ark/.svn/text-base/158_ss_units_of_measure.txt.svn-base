@@ -1,0 +1,244 @@
+// question: 33075  name: HAQ3165 
+::HAQ3165::[html]Factor: 1,000,000  Prefix: mega  Symbol: .................{
+	=%100%M#
+}
+
+
+// question: 33076  name: HAQ3166 
+::HAQ3166::[html]Factor: 100 Prefix: ................. Symbol: h.{
+	=%100%hecto#
+}
+
+
+// question: 33077  name: HAQ3167 
+::HAQ3167::[html]Factor: 0.0001 Prefix: ................. Symbol: &micro;.{
+	=%100%micro#
+}
+
+
+// question: 33078  name: HAQ3168 
+::HAQ3168::[html]1 km = ................. m.{
+	=%100%1000#
+	=%100%"1,000"#
+}
+
+
+// question: 33079  name: HAQ3169 
+::HAQ3169::[html]1 mi = ................. km.{
+	=%100%1.61#
+}
+
+
+// question: 33080  name: HAQ3170 
+::HAQ3170::[html]1" = ................. cm.{
+	=%100%2.54#
+}
+
+
+// question: 33081  name: HAQ3171 
+::HAQ3171::[html]Mass is a unit or system of units by which a degree of ................. is measured.{
+	=%100%heaviness#
+}
+
+
+// question: 33082  name: HAQ3172 
+::HAQ3172::[html]The Imperial system uses ................. (oz), pounds (lb) and tons (T).{
+	=%100%ounces#
+}
+
+
+// question: 33083  name: HAQ3173 
+::HAQ3173::[html]1 lb = ................. g.{
+	=%100%453#
+}
+
+
+// question: 33084  name: HAQ3174 
+::HAQ3174::[html]Time measurements are the same in both metric and Imperial systems. However, the metric system's ................. unit of time is the second (s).{
+	=%100%base#
+}
+
+
+// question: 33085  name: HAQ3175 
+::HAQ3175::[html]The Imperial system uses the ................. (min) as its base measurement.{
+	=%100%minute#
+}
+
+
+// question: 33086  name: HAQ3176 
+::HAQ3176::[html]................. s = 1 min.{
+	=%100%60#
+}
+
+
+// question: 33087  name: HAQ3177 
+::HAQ3177::[html]Velocity is used when checking speedometers, determining vehicle ................. performance.{
+	=%100%acceleration#
+}
+
+
+// question: 33088  name: HAQ3178 
+::HAQ3178::[html]Velocity is used when checking speedometers, and determining fuel .................{
+	=%100%consumption#
+}
+
+
+// question: 33089  name: HAQ3179 
+::HAQ3179::[html]1 m/s = ................. km/h.{
+	=%100%3.6#
+}
+
+
+// question: 33090  name: HAQ3180 
+::HAQ3180::[html]1 cubic foot = ................. US gallons.{
+	=%100%7.48#
+}
+
+
+// question: 33091  name: HAQ3181 
+::HAQ3181::[html]1 cubic foot = ................. UK gallons.{
+	=%100%6.22#
+}
+
+
+// question: 33092  name: HAQ3182 
+::HAQ3182::[html]1 liter = ................. US gallons.{
+	=%100%0.26#
+}
+
+
+// question: 33093  name: HAQ3183 
+::HAQ3183::[html]1 liter = ................. UK gallons.{
+	=%100%0.21#
+}
+
+
+// question: 33094  name: HAQ3184 
+::HAQ3184::[html]................. in2 = 1 ft2.{
+	=%100%144#
+}
+
+
+// question: 33095  name: HAQ3185 
+::HAQ3185::[html]1550 in2 = ................. m2.{
+	=%100%1#
+}
+
+
+// question: 33096  name: HAQ3186 
+::HAQ3186::[html]................. ft2 = 1 m2.{
+	=%100%10.7#
+}
+
+
+// question: 33097  name: HAQ3187 
+::HAQ3187::[html]You'll need to know basic electrical concepts to determine electric loads and measure ................. reactions and battery performance.{
+	=%100%galvanic#
+}
+
+
+// question: 33098  name: HAQ3188 
+::HAQ3188::[html]You'll need to know basic electrical concepts to determine electric loads and select the correct type of ................. and connections for vehicle electrical systems.{
+	=%100%wiring#
+}
+
+
+// question: 33099  name: HAQ3189 
+::HAQ3189::[html]................. Law states that current flow in a circuit varies in direct proportion to changes in voltage, and in inverse proportion to changes in resistance.{
+	=%100%Ohm's#
+	=%100%Ohms#
+}
+
+
+// question: 33100  name: HAQ3190 
+::HAQ3190::[html]The metric system uses ................. (kPa) and bar.{
+	=%100%kilopascals#
+}
+
+
+// question: 33101  name: HAQ3191 
+::HAQ3191::[html]The Imperial system uses pounds per square inch (PSI) and .................{
+	=%100%atmospheres#
+}
+
+
+// question: 33102  name: HAQ3192 
+::HAQ3192::[html]The Imperial system measures vacuum in inches of mercury (Hg) or inches of .................{
+	=%100%water#
+}
+
+
+// question: 33103  name: HAQ3193 
+::HAQ3193::[html]The metric system uses ................. (cal) Joules (J) or Kilojoules (kJ).{
+	=%100%Calories#
+	=%100%calories#
+}
+
+
+// question: 33104  name: HAQ3194 
+::HAQ3194::[html]These are also measurements of .................{
+	=%100%heat#
+}
+
+
+// question: 33105  name: HAQ3195 
+::HAQ3195::[html]The Imperial systems uses British ................. Units (Btu).{
+	=%100%Thermal#
+}
+
+
+// question: 33106  name: HAQ3196 
+::HAQ3196::[html]0&deg;R = .................&deg;F.{
+	=%100%-459#
+}
+
+
+// question: 33107  name: HAQ3197 
+::HAQ3197::[html]0&deg;C = .................&deg;K.{
+	=%100%273#
+}
+
+
+// question: 33108  name: HAQ3198 
+::HAQ3198::[html]100&deg;C = .................&deg;F.{
+	=%100%212#
+}
+
+
+// question: 33109  name: HAQ3199 
+::HAQ3199::[html]Torque is the ................. force applied to a shaft.{
+	=%100%twisting#
+}
+
+
+// question: 33110  name: HAQ3200 
+::HAQ3200::[html]Vehicle manufacturers specify torque settings for key ................. on the engine and wheels.{
+	=%100%fasteners#
+}
+
+
+// question: 33111  name: HAQ3201 
+::HAQ3201::[html]You'll need to follow the specifications or you could strip threads or break bolts. Torque is also an important concept when discussing engine .................{
+	=%100%performance#
+}
+
+
+// question: 33112  name: HAQ3202 
+::HAQ3202::[html]Power is the ability to do work. The ................. system uses Watts (W), kilowatts (kW) or Pferdestr&auml;rke (PS or metric horsepower).{
+	=%100%metric#
+}
+
+
+// question: 33113  name: HAQ3203 
+::HAQ3203::[html]1 hp = ................. kW.{
+	=%100%0.745#
+}
+
+
+// question: 33114  name: HAQ3204 
+::HAQ3204::[html]1 kW = ................. PS.{
+	=%100%1.36#
+}
+
+
+

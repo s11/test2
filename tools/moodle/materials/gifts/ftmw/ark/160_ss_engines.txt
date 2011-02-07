@@ -1,0 +1,37 @@
+// question: 33507  name: HAQ3383 
+::HAQ3383::[html]Engine displacement is defined as the total volume of air/fuel mixture an engine can draw in during one complete engine .................{
+	=%100%cycle#
+}
+
+
+// question: 33508  name: HAQ3384 
+::HAQ3384::[html]In a piston engine, this is the ................. that is swept as the pistons are moved from top dead center to bottom dead center.{
+	=%100%volume#
+}
+
+
+// question: 33509  name: HAQ3386 
+::HAQ3386::[html]Electrolysis is a ................. and electrical process.{
+	=%100%chemical#
+}
+
+
+// question: 33510  name: HAQ3387 
+::HAQ3387::[html]The source material is dissolved in an appropriate solvent, or melted, so that constituent ions are available in the solution. An electrical potential is applied across a pair of ................. immersed in the liquid.{
+	=%100%conductors#
+}
+
+
+// question: 33511  name: HAQ3388 
+::HAQ3388::[html]It is worth noting that the maximum theoretic efficiency of a fuel cell is the ................. of that of electrolysis.{
+	=%100%inverse#
+}
+
+
+// question: 33512  name: HAQ3389 
+::HAQ3389::[html]It is thus impossible to create a ................. motion machine by combining the two processes.{
+	=%100%perpetual#
+}
+
+
+

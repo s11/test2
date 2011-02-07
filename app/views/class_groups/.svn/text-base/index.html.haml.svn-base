@@ -1,0 +1,53 @@
+#tabs
+  %ul
+    - if collection.size > 0
+      %li= link_to "Class Group Setup", '#tab-listing'
+    %li= link_to "Create New Class Group", '#tab-new'
+    
+  #tab-listing
+    - information_box do
+      %p Create and edit class groups for students and instructors to manage task tracking, assessment and reporting.  
+      %p Select “Edit” to add or delete students from a class or group.  
+      %p You can copy existing groups to create new groups that contain the same or similar members to save time.  To do this create the first group and then copy that group and rename it as many times as necessary.
+      %p Note that the tasksheet tracking application can only be used for classes that contain students and instructors.
+
+    - if collection.size > 0
+      - form_tag(bulk_update_class_groups_path, :method => :put, :id => "bulk-update") do
+        #select-links== Select: #{link_to_function "All", "$('#listing input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('input:checkbox').attr('checked', false)"}
+
+        %table#listing{ :style => "width: auto"}
+          %thead.ui-widget-header
+            %tr
+              %th{ :width => '5%' } &nbsp;
+              %th{ :width => '*'}= order @search, :by => :name
+              %th{ :width => '10%'} Students
+              %th{ :width => '10%'} Instructors
+              %th{ :colspan => 2 }
+
+          %tbody
+            - collection.each do |resource|
+              %tr[resource, :row]{ :class => cycle(:odd, :even) }
+                %td.centre= check_box_tag "resource_ids[#{resource.id}]", true, false, :id => "resource_#{resource.id}"
+                %td&= resource.name
+                %td.centre&= resource.users.students.count
+                %td.centre&= resource.users.not_students.count
+                %th.centre{ :width => "5%" }= link_to "Edit", edit_class_group_path(resource)
+                %th.centre{ :width => "5%" }= link_to "Copy", copy_class_group_path(resource)
+
+        .centre
+          = will_paginate(collection)
+
+        %br
+        = submit_tag "Delete selected", :class => "ui-button ui-button-trash", :confirm => "Warning: Deleting groups cannot be reversed. While all results and task sheets associated with deleted groups will still be available, you will not be able to link these results to new groups. If you select Ok the class group/s you have selected will be deleted. Click Cancel if you do not want to delete."
+  
+  #tab-new
+    - form_for(resource) do |f|
+      = f.error_messages
+      %p
+        = f.label :name
+        = f.text_field :name
+
+      = create_button_tag "Create Group"
+
+- content_for(:onload) do
+  $('#tabs').tabs();

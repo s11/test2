@@ -1,0 +1,184 @@
+// question: 29759  name: HAQ1868 
+::HAQ1868::[html]A driver should not need to keep manipulating the steering wheel to maintain the vehicle in a straight-ahead position on straight, ................. roads.{
+	=%100%level#
+}
+
+
+// question: 29761  name: HAQ1870 
+::HAQ1870::[html]In forward motion, positive caster generates a self-centering force which helps return the wheels to the ................. position when the steering wheel is released.{
+	=%100%neutral#
+}
+
+
+// question: 29762  name: HAQ1871 
+::HAQ1871::[html]Seen from the side of the vehicle, the steering axis centerline is normally ................. from the vertical.{
+	=%100%tilted#
+}
+
+
+// question: 29763  name: HAQ1872 
+::HAQ1872::[html]................. tilt from the vertical is positive caster.{
+	=%100%Backward#
+}
+
+
+// question: 29764  name: HAQ1873 
+::HAQ1873::[html]................. tilt is negative caster.{
+	=%100%Forward#
+}
+
+
+// question: 29765  name: HAQ1874 
+::HAQ1874::[html]Camber is viewed from the ................. of the vehicle and it is the angle of tilt of the wheel from the vertical.{
+	=%100%front#
+}
+
+
+// question: 29766  name: HAQ1875 
+::HAQ1875::[html]A wheel that leans away from the vehicle at the top is said to have ................. camber.{
+	=%100%positive#
+}
+
+
+// question: 29767  name: HAQ1876 
+::HAQ1876::[html]A wheel that leans towards the vehicle is said to have ................. camber.{
+	=%100%negative#
+}
+
+
+// question: 29768  name: HAQ1877 
+::HAQ1877::[html]When a vehicle is in motion, zero camber is difficult to maintain. Changes in running camber can be caused by ................. irregularities, and load variations.{
+	=%100%road#
+}
+
+
+// question: 29769  name: HAQ1878 
+::HAQ1878::[html]Vehicles with a diagonal-split brake system have negative scrub radius built into the steering .................{
+	=%100%geometry#
+}
+
+
+// question: 29770  name: HAQ1879 
+::HAQ1879::[html]Scrub radius is also known as steering ................., and scrub geometry.{
+	=%100%offset#
+}
+
+
+// question: 29771  name: HAQ1880 
+::HAQ1880::[html]Scrub radius is the distance between 2 imaginary points on the road surface - the point of center contact between the road surface and the tire, and the point where the steering-axis center-line contacts the road surface. If they intersect ................. the road surface, scrub radius is positive.{
+	=%100%below#
+}
+
+
+// question: 29772  name: HAQ1881 
+::HAQ1881::[html]Scrub radius is the distance between 2 imaginary points on the road surface - the point of center contact between the road surface and the tire, and the point where the steering-axis center-line contacts the road surface.If they intersect ................. the road surface, scrub radius is negative.{
+	=%100%above#
+}
+
+
+// question: 29773  name: HAQ1882 
+::HAQ1882::[html]Negative scrub radius will cause the vehicle to veer away from the side of ................. effort.{
+	=%100%greatest#
+}
+
+
+// question: 29774  name: HAQ1883 
+::HAQ1883::[html]Steering axis is formed by drawing a line through the upper and lower pivot points of the suspension assembly. Seen from the front of the car, it is tilted .................{
+	=%100%inward#
+}
+
+
+// question: 29775  name: HAQ1884 
+::HAQ1884::[html]When the wheels are in the straight-ahead position, the ends of the stub axles are almost .................{
+	=%100%horizontal#
+}
+
+
+// question: 29776  name: HAQ1885 
+::HAQ1885::[html]The angle between the steering axis inclination and the camber line is called the ................. angle. It is a diagnostic angle.{
+	=%100%included#
+}
+
+
+// question: 29777  name: HAQ1886 
+::HAQ1886::[html]When the ................. of the wheels, as seen from above, are closer together than the rear of the wheels, it is called toe-in.{
+	=%100%fronts#
+}
+
+
+// question: 29778  name: HAQ1887 
+::HAQ1887::[html]The ................. toe setting is designed to compensate for slight wear in steering connections, which may cause the wheels to splay outwards, or inwards.{
+	=%100%static#
+}
+
+
+// question: 29779  name: HAQ1888 
+::HAQ1888::[html]To compensate for wear, the wheels will be ................. when the vehicle is in motion, which avoids tire scrub.{
+	=%100%parallel#
+}
+
+
+// question: 29780  name: HAQ1889 
+::HAQ1889::[html]To provide true rolling motion, the inner wheel must be turned through a ................. angle than the outer wheel. This allows the inner wheel to turn through a smaller turning radius than the outer wheel.{
+	=%100%greater#
+}
+
+
+// question: 29781  name: HAQ1890 
+::HAQ1890::[html]With the toe-out on turns configuration, the automatically correct alignment is obtained by use of the ................. principle and layout.{
+	=%100%Ackerman#
+	=%100%ackerman#
+}
+
+
+// question: 29782  name: HAQ1891 
+::HAQ1891::[html]The Ackerman angle is the angle the steering arms make with the ................., on the centerline of the vehicle, at or near the center of the rear axle.{
+	=%100%swivels#
+}
+
+
+// question: 29783  name: HAQ1892 
+::HAQ1892::[html]If the stops are incorrectly adjusted, they could allow too large a turning ................., and the steering box can be damaged.{
+	=%100%angle#
+}
+
+
+// question: 29784  name: HAQ1893 
+::HAQ1893::[html]Turning radius is a measure of how ................. a circle the vehicle can turn around in, when the steering wheel is turned to the limit.{
+	=%100%small#
+}
+
+
+// question: 29785  name: HAQ1894 
+::HAQ1894::[html]All vehicles have stops to limit how far the front wheels can turn. In some designs, these stops can be ................., as part of a wheel alignment.{
+	=%100%adjusted#
+}
+
+
+// question: 29786  name: HAQ1895 
+::HAQ1895::[html]Referencing the front steering geometry to the rear is very  important. A ................. procedure involves aligning all four wheels in relation to each other.{
+	=%100%Quadralignment#
+	=%100%quadraalignment#
+	=%100%quadra-alignment#
+}
+
+
+// question: 29787  name: HAQ1896 
+::HAQ1896::[html]An ideal situation is where the thrust and centerlines .................{
+	=%100%coincide#
+}
+
+
+// question: 29788  name: HAQ1897 
+::HAQ1897::[html]In extreme circumstances, the tracks the rear tires make are beside those of the front. This condition is known as '.................' or 'crabbing' and can cause diagonal tire pattern wear as well as vehicle instability in some driving conditions.{
+	=%100%dogtracking#
+	=%100%dog tracking#
+}
+
+
+// question: 29789  name: HAQ1898 
+::HAQ1898::[html]In extreme circumstances, the tracks the rear tires make are beside those of the front. This condition is known as 'crabbing' and can cause ................. tire pattern wear as well as vehicle instability in some driving conditions.{
+	=%100%diagonal#
+}
+
+

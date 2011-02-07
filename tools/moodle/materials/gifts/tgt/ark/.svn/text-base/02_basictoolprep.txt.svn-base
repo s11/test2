@@ -1,0 +1,50 @@
+//name:TQ0090
+::TQ0090::What happens to the properties of steel when the amount of carbon is varied? {
+	=Properties such as ductility, hardness and toughness are changed.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+	~Properties such as ductility, hardness and toughness remain the same.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+	~The more carbon that is added the softer the steel becomes.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+	~The more carbon that is added the tougher the steel becomes.#Different properties mean steel can be designed for different uses. For instance, low-carbon steels generally have more toughness - more resistance to fracture - whereas high-carbon steel is usually harder but more brittle. 
+}
+
+
+//name:TQ0091
+::TQ0091::Hardening and tempering is the process of changing the properties of a metal to provide better performance characteristics.{
+	=TRUE#Hardening through a tempering process reorganizes the metal structure at the atomic level thus creating a more durable characteristic that resists wear or is able to endure higher shock loads.
+	~FALSE#Hardening through a tempering process reorganizes the metal structure at the atomic level thus creating a more durable characteristic that resists wear or is able to endure higher shock loads.
+}
+
+
+//name:TQ0092
+::TQ0092::Heating and then cooling certain kinds of steel changes the way that the elements in the alloy are arranged. {
+	=TRUE#Heating and then swiftly cooling certain kinds of steel results in a harder material consisting of a mass of needle-shaped crystals.
+	~FALSE#Heating and then swiftly cooling certain kinds of steel results in a harder material consisting of a mass of needle-shaped crystals.
+}
+
+
+//name:TQ0093
+::TQ0093::How is the induction hardening process carried out?{
+	=Induction hardening is done by inducing a high current flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+	~Induction hardening is done by inducing a low current flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+	~Induction hardening is done by inducing a high voltage flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+	~Induction hardening is done by inducing a low voltage flow into the component that needs hardening.#After the induction current flow has sufficiently heated the steel, the material is usually quenched in oil. A flame hardening process uses water quenching.
+}
+
+
+//name:TQ0094
+::TQ0094::How is flame hardening different to induction hardening?{
+	=They both work in a similar fashion but in flame hardening, the material is water-quenched.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+	~They both work in a similar fashion but in flame hardening, the material is not quenched at all.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+	~They both work in a similar fashion but in flame hardening, the material is dry salt quenched.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+	~They both work in a similar fashion but in flame hardening, the material is immersed in an alkaline solution.#Rapid quenching of steel can make it harder but can also make it more brittle.  Flame hardening process uses water quenching, induction hardening usually uses oil-quenching.
+}
+
+
+//name:TQ0095
+::TQ0095::What should be your most important focus when working on a vehicle?{
+	=Your personal safety.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+	~Following the correct service procedure.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+	~Carrying out the task to industry quality standards.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+	~Correct use of tools and equipment.#Whenever using tools, always think safety first. There is nothing more important than your personal safety. Always follow equipment and workshop instructions, including the use of recommended personal protection equipment. 
+}
+
+

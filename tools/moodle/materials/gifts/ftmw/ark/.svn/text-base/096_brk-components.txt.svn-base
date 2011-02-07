@@ -1,0 +1,270 @@
+// question: 26802  name: HAQ1976 
+::HAQ1976::[html]Different lever designs can alter the effort the driver needs to make. This is achieved by the utilization of ................. advantage.{
+	=%100%mechanical#
+}
+
+
+// question: 26803  name: HAQ1977 
+::HAQ1977::[html]The pedal is solidly mounted to the ................., and works as a force-multiplying lever.{
+	=%100%firewall#
+}
+
+
+// question: 26804  name: HAQ1978 
+::HAQ1978::[html]Pedal height and ................. is important for comfort and safety.{
+	=%100%angle#
+}
+
+
+// question: 26805  name: HAQ1979 
+::HAQ1979::[html]Brake lines carry brake fluid from the master cylinder to the brakes. They are basically the same on all brake systems. For most of their length they are .................{
+	=%100%steel#
+}
+
+
+// question: 26806  name: HAQ1980 
+::HAQ1980::[html]Brake lines are attached to the body with clips or brackets to prevent damage from .................{
+	=%100%vibration#
+}
+
+
+// question: 26807  name: HAQ1981 
+::HAQ1981::[html]The brake fluid travels from the master cylinder to the wheels through a series of steel tubes and reinforced   rubber hoses. Rubber hoses are only used in places that require ................., such as at the front wheels, which move up and down as well as steer.{
+	=%100%flexibility#
+}
+
+
+// question: 26809  name: HAQ1983 
+::HAQ1983::[html]If the brake fluid should ................., it will cause the vehicle to experience a spongy pedal and the vehicles stopping ability will be compromised.{
+	=%100%boil#
+}
+
+
+// question: 26810  name: HAQ1984 
+::HAQ1984::[html]Brake fluid is ................., which means, it absorbs water over time.{
+	=%100%hygroscopic#
+}
+
+
+// question: 26811  name: HAQ1985 
+::HAQ1985::[html]Brake fluid must have the correct ................. for hot and cold conditions.{
+	=%100%viscosity#
+}
+
+
+// question: 26812  name: HAQ1986 
+::HAQ1986::[html]Brake fluid is used to transfer force under pressure from where it is created through hydraulic lines to the braking mechanism near the wheels. It works because liquids are not appreciably .................{
+	=%100%compressible#
+}
+
+
+// question: 26813  name: HAQ1987 
+::HAQ1987::[html]Bleeding means removing ................. from a hydraulic system.{
+	=%100%air#
+}
+
+
+// question: 26814  name: HAQ1988 
+::HAQ1988::[html]When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Pressure is transmitted without loss. Gases however are .................{
+	=%100%compressible#
+}
+
+
+// question: 26815  name: HAQ1989 
+::HAQ1989::[html]Pressure on the brake pedal will not be transmitted in full through the system to apply the brakes. The brakes will be .................{
+	=%100%spongy#
+}
+
+
+// question: 26816  name: HAQ1990 
+::HAQ1990::[html]Bleeding the brakes means removing this air, so that only ................. is left in the system.{
+	=%100%liquid#
+}
+
+
+// question: 26817  name: HAQ1991 
+::HAQ1991::[html]On the master cylinder, a ................. port connects the reservoir to the cylinder, ahead of the primary cup.{
+	=%100%compensating#
+}
+
+
+// question: 26818  name: HAQ1992 
+::HAQ1992::[html]Any fluid trapped in the master cylinder is then forced through a valve, called a ................. pressure valve, into the brake lines.{
+	=%100%residual#
+}
+
+
+// question: 26819  name: HAQ1993 
+::HAQ1993::[html]Brake fluid from the reservoir can pass through the inlet port and past the edge of the primary cup. This is called .................{
+	=%100%recuperation#
+}
+
+
+// question: 26820  name: HAQ1994 
+::HAQ1994::[html]Modern cars use ................. master cylinders to suit divided or dual line braking systems.{
+	=%100%tandem#
+}
+
+
+// question: 26821  name: HAQ1995 
+::HAQ1995::[html]A divided system is safer in the event of partial failure. Fluid loss in one half of the system still leaves the other half able to stop the vehicle, although with an increase in ................. distance.{
+	=%100%stopping#
+}
+
+
+// question: 26822  name: HAQ1996 
+::HAQ1996::[html]Front-engined, front-wheel-drive vehicles use a braking system split in a ................. or X.{
+	=%100%diagonal#
+}
+
+
+// question: 26823  name: HAQ1997 
+::HAQ1997::[html]Like 2 single-piston cylinders end-to-end, a tandem cylinder has a primary piston and a secondary piston. Each section of the cylinder has inlet and outlet ports, and ................. ports.{
+	=%100%compensating#
+}
+
+
+// question: 26824  name: HAQ1998 
+::HAQ1998::[html]Tandem master cylinder - If the primary circuit fails, no pressure is generated to move the secondary piston. So a ................. attached to the front of the primary piston will push the secondary piston directly so that it still operates.{
+	=%100%rod#
+}
+
+
+// question: 26825  name: HAQ1999 
+::HAQ1999::[html]The tandem master cylinder just like the single piston master cylinder can have problems with a low-pressure area developing when the piston returns quickly but the fluid lags. The tandem master cylinder overcomes this by using ................. in the side of the primary cup.{
+	=%100%grooves#
+}
+
+
+// question: 26826  name: HAQ2000 
+::HAQ2000::[html]The main reason for the use of a tandem braking master cylinder is for ................. reasons.{
+	=%100%safety#
+}
+
+
+// question: 26827  name: HAQ2001 
+::HAQ2001::[html]Vehicles with ................. engines cannot use manifold vacuum so they are fitted with an engine-driven vacuum pump.{
+	=%100%diesel#
+}
+
+
+// question: 26828  name: HAQ2002 
+::HAQ2002::[html]Power brakes are also referred to as 'power ................. brakes' and are designed to use the power from the engines and/or battery to increase the braking power of the vehicle.{
+	=%100%assisted#
+}
+
+
+// question: 26836  name: HAQ2004 
+::HAQ2004::[html]A ................. connects the intake manifold to a vacuum check valve on the power unit.{
+	=%100%hose#
+}
+
+
+// question: 26837  name: HAQ2005 
+::HAQ2005::[html]As the brakes are applied, the pedal pushrod and plunger move forward in the diaphragm plate. This brings the control valve into contact with the vacuum port .................{
+	=%100%seat#
+}
+
+
+// question: 26838  name: HAQ2006 
+::HAQ2006::[html]During brake application, the reaction force against the valve plunger works against the driver to close the ................. port.{
+	=%100%atmospheric#
+}
+
+
+// question: 26839  name: HAQ2007 
+::HAQ2007::[html]With the force on the brake pedal held ................., the valve returns to the holding position.{
+	=%100%constant#
+}
+
+
+// question: 26840  name: HAQ2008 
+::HAQ2008::[html]When the brakes are released, vacuum returns to both sides of the ................., so the spring releases the brakes.{
+	=%100%diaphragm#
+}
+
+
+// question: 26841  name: HAQ2009 
+::HAQ2009::[html]We must be able to ................. to the people driving behind our vehicle that we are slowing down or stopping.{
+	=%100%indicate#
+}
+
+
+// question: 26842  name: HAQ2010 
+::HAQ2010::[html]In most cases the stop light switch is mounted under the .................{
+	=%100%dash#
+}
+
+
+// question: 26843  name: HAQ2011 
+::HAQ2011::[html]As the driver depresses the ................. pedal, the stop light switch closes.{
+	=%100%brake#
+}
+
+
+// question: 26798  name: HAQ3752 
+::HAQ3752::[html]All vehicles must have at least two ................. braking systems.{
+	=%100%independent#
+}
+
+
+// question: 26799  name: HAQ3753 
+::HAQ3753::[html]The mechanical park brake is normally ................. operated by a brake handle located on the vehicle floor or under the dash.{
+	=%100%hand#
+}
+
+
+// question: 26800  name: HAQ3754 
+::HAQ3754::[html]On vehicles fitted with 4 wheel disc brakes, the park brake is applied at the ................. caliper by the cable-operated system.{
+	=%100%rear#
+}
+
+
+// question: 26801  name: HAQ3755 
+::HAQ3755::[html]As the driver applies the park brake, the cable will pull on this lever and force the brake shoes into contact with the brake .................{
+	=%100%drum#
+}
+
+
+// question: 26829  name: HAQ3756 
+::HAQ3756::[html]Although not as common as a conventional brake system fitted with a vacuum booster, many vehicles are now equipped with ................. assisted boosters for the brakes.{
+	=%100%hydraulically#
+}
+
+
+// question: 26830  name: HAQ3757 
+::HAQ3757::[html]The hydraulic pressure generated by the power steering pump is stored in an ................., which is then routed to the master cylinder by the hydraulic booster unit when the brake pedal is applied.{
+	=%100%accumulator#
+}
+
+
+// question: 26831  name: HAQ3758 
+::HAQ3758::[html]Operation problems can be caused by a number of things such as ................. inside the booster unit, by a worn power steering pump, slipping or broken pump drive belt, or hose connections.{
+	=%100%leaks#
+}
+
+
+// question: 26832  name: HAQ3759 
+::HAQ3759::[html]The leak-down in relation to the ................. of the accumulator can be checked by pumping the brakes several times whilst the engine is running and then shutting the engine down.{
+	=%100%capacity#
+}
+
+
+// question: 26833  name: HAQ3760 
+::HAQ3760::[html]Electrohydraulic Braking (EHB) gets rid of the ................. booster and replaces the current modulator with one that includes a high pressure accumulator.{
+	=%100%vacuum#
+}
+
+
+// question: 26834  name: HAQ3761 
+::HAQ3761::[html]Like the Hydro boost system it uses an ................. to provide the required pressure to activate the master cylinder, however, it uses electrical power to effectively 'charge' the accumulator and build sufficient pressure for efficient brake operation.{
+	=%100%accumulator#
+}
+
+
+// question: 26835  name: HAQ3762 
+::HAQ3762::[html]Less power is taken away from the engine during EHB operation as ................. power is used, and that there is no chance of problems caused by things such as a worn power steering pump, slipping or broken pump drive belt, or hose connections.{
+	=%100%battery#
+}
+
+

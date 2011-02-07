@@ -1,0 +1,73 @@
+// question: 30597  name: HAQ2677 
+::HAQ2677::[html]Lead-acid batteries represent the oldest design with one of the worst energy-to-.............................. ratios, although the power-to-weight ratio can be quite good.{
+	=%100%weight#
+}
+
+
+// question: 30598  name: HAQ2678 
+::HAQ2678::[html]Lead-acid car batteries consist of .............................. cells of 2 V nominal voltage.{
+	=%100%six#
+	=%100%6#
+}
+
+
+// question: 30599  name: HAQ2679 
+::HAQ2679::[html]Because of the open cells with liquid .............................. in most cheap car batteries, overcharging with excessive charging voltages will generate oxygen and hydrogen gas, forming an extremely explosive mix.{
+	=%100%electrolyte#
+}
+
+
+// question: 30600  name: HAQ2680 
+::HAQ2680::[html]The cell is connected to a DC source with electrical pressure higher than that of the cell, since it must act like an electron pump, forcing .............................. from the positive plates, to the negative plates.{
+	=%100%electrons#
+}
+
+
+// question: 30601  name: HAQ2681 
+::HAQ2681::[html]At the .............................. plate, sulphate from the electrolyte joins with lead to form lead sulphate.{
+	=%100%positive#
+}
+
+
+// question: 30602  name: HAQ2682 
+::HAQ2682::[html]The lead acid battery is made up of plates, lead, and lead oxide (various other elements are used to change density, hardness, porosity, etc.) with a 35% sulfuric acid and 65% water solution. This solution is called .............................. which causes a chemical reaction that produce electrons.{
+	=%100%electrolyte#
+}
+
+
+// question: 30603  name: HAQ2683 
+::HAQ2683::[html]The Galvanic cell consists of two metals connected by an electrolyte which forms a salt bridge between the metals. It is also known as a voltaic cell and an .............................. cell.{
+	=%100%electrochemical#
+}
+
+
+// question: 30605  name: HAQ2685 
+::HAQ2685::[html]Electrochemical cells transform chemical energy into .............................. energy.{
+	=%100%electrical#
+}
+
+
+// question: 30606  name: HAQ2686 
+::HAQ2686::[html]In a primary cell, this transformation is not reversible, and the cell is discarded at the end of its life. In the secondary cell, the transformation is reversible, and it can be ..............................{
+	=%100%re-charged#
+	=%100%recharged#
+}
+
+
+// question: 30607  name: HAQ2687 
+::HAQ2687::[html]In automotive use, the usual main-storage device is the wet cell of a lead acid battery. It has two plates of dissimilar materials immersed in an .............................. - a solution that conducts electricity by using ions.{
+	=%100%electrolyte#
+}
+
+
+// question: 30608  name: HAQ2688 
+::HAQ2688::[html]In a lead acid battery, the plates are assembled so there is always .............................. extra negative plate.{
+	=%100%1#
+	=%100%one#
+}
+
+
+// question: 30609  name: HAQ2689 
+::HAQ2689::[html]Cells connected in series make a battery, and the number of cells determines its nominal ..............................{
+	=%100%voltage#
+}

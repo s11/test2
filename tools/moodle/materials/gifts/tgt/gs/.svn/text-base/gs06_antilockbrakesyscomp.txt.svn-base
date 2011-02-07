@@ -1,0 +1,133 @@
+//name:TQ0715
+::TQ0715::Technician A says that the brake assembly for an ABS system is the not same as for a non-ABS system. Technician B says that the power booster assembly for an ABS system is not same as for a non-ABS system. Who is correct?{
+	~Technician A.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+	~Technician B.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+	~Both Technician A and Technician B.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+	=Neither Technician A nor Technician B.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+}
+
+
+//name:TQ0716
+::TQ0716::Technician A says the ABS electrical system can be affected by such things as faulty relays or problems with the charging system. Technician B says that some ABS systems do not need electrical inputs to operate. Who is correct?{
+	=Technician A.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+	~Technician B.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+	~Both Technician A & Technician B.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+	~Neither Technician A nor Technician B.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+}
+
+
+//name:TQ0717
+::TQ0717::Indicate the components that make up a basic ABS system: {
+	=All components listed make up an ABS system.#In this example all the components listed make up the ABS system.
+	~Electronic control unit.#In this example all the components listed make up the ABS system.
+	~Hydraulic control unit or modulator.#In this example all the components listed make up the ABS system.
+	~Wheel sensor unit.#In this example all the components listed make up the ABS system.
+	~Power booster and master cylinder assembly.#In this example all the components listed make up the ABS system.
+}
+
+
+//name:TQ0719
+::TQ0719::An ABS braking system controls wheel lock-up by:{
+	=controlling pressure to the locking wheel.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~changing pedal mechanical advantage.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~reducing volume in the master cylinder reservoir.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~building pressure in the master cylinder reservoir.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+}
+
+
+//name:TQ0720
+::TQ0720::In an ABS system what happens if a wheel starts to lock up under severe braking?{
+	=the electronic control unit operates the solenoid valves to reduce hydraulic pressure as required to maintain vehicle stability.#The modular applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~the electronic control unit operates the solenoid valves to completely release hydraulic pressure to the wheel that is locking up.#The modular applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~the electronic control unit operates the master cylinder valves to reduce hydraulic pressure appropriately.#The modular applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+}
+
+
+//name:TQ0721
+::TQ0721::What is the greatest advantage of anti-lock braking?{
+	=It prevents the brakes from locking during heavy braking.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+	~It will stop the car in a shorter distance on dry surfaces.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+	~It prevents the rear brakes from locking during heavy braking.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+	~It will stop the car in a shorter distance on ice.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+}
+
+
+//name:TQ0722
+::TQ0722::Technician A says accumulators holding over 20,000 psi are sometimes used in ABS hydraulic control units. Technician B says that under normal operating conditions the ABS controls application pressure to each wheel. Who is correct?{
+	~Technician A.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+	=Technician B.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+	~Both Technician A & Technician B.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+	~Neither Technician A nor Technician B.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+}
+
+
+//name:TQ0723
+::TQ0723::Technician A says ABS warning lights can be turned on by excessively worn front disc pads. Technician B says that this can only happen in cold weather conditions. Who is correct?{
+	~Technician A.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+	~Technician B.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+	~Both Technician A & Technician B.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+	=Neither Technician A nor Technician B.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+}
+
+
+//name:TQ0724
+::TQ0724::Technician A says some traction control systems use the ABS system to pulse the brakes onto slow spinning tires. Technician B says the ABS system prevents the wheels from locking up. Who is correct?{
+	~Technician A.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+	~Technician B.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+	=Both Technician A & Technician B.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+	~Neither Technician A nor Technician B.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+}
+
+
+//name:TQ0725
+::TQ0725::Technician A says that most ABS systems have self-diagnostic capabilities.  Technician B says that brake linings and pads are not interchangeable between ABS and non-ABS systems.  Who is correct?{
+	=Technician A.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+	~Technician B.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+	~Both Technician A and Technician B.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+	~Neither Technician A nor Technician B.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+}
+
+
+//name:TQ0726
+::TQ0726::A vehicle equipped with ABS has a pedal that pulsates on hard stops. Technician A says that this is normal operation. Technician B says that this could indicate that the brake drums are out of round. Who is correct?{
+	=Technician A.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+	~Technician B.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+	~Both Technician A and Technician.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+	~Neither Technician A nor Technician B.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+}
+
+
+//name:TQ0728
+::TQ0728::During an ABS application and the rapid changes in pressure, some systems allow:{
+	=pulsations to be felt at the brake pedal.#This is due the modulator pumping pressure being generated within the braking system.
+	~the brake pedal to creep down a little further.#This is due the modulator pumping pressure being generated within the braking system.
+	~the brake pedal to rise up slightly.#This is due the modulator pumping pressure being generated within the braking system.
+	~the system pressures to rise above normal braking pressures.#This is due the modulator pumping pressure being generated within the braking system.
+}
+
+
+//name:TQ0729
+::TQ0729::Rear wheel lock-up during heavy braking is controlled in ABS by:{
+	=reducing pressure to the rear brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+	~increasing pressure to the rear brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+	~reducing pressure to the front brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+	~increasing pressure to the front brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+}
+
+
+//name:TQ0730
+::TQ0730::The wheel sensors on an anti-lock braking system relay information to the control unit on:{
+	=wheel speed, deceleration, and percentage slip.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+	~vehicle retarding force.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+	~brake application force.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+	~vehicle stopping distance.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+}
+
+
+//name:TQ0731
+::TQ0731::Technician A says the brake pedal normally pulsates when the ABS is activated on most vehicles. Technician B says in a non brake-by-wire ABS/Traction control system the brake pedal sometimes remains hard and constant during ABS application. Who is correct?{
+	=Technician A.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+	~Technician B.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+	~Both Technician A & Technician B.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+	~Neither Technician A nor Technician B.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+}

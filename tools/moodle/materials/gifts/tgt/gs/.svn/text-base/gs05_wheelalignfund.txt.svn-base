@@ -1,0 +1,91 @@
+//name:TQ0613
+::TQ0613::Which of the following factors do NOT affect wheel alignment?{
+	=Tire width.#Alignment angels are SAI, caster, camber and toe.
+	~Camber.#Alignment angels are SAI, caster, camber and toe.
+	~Steering axis inclination.#Alignment angels are SAI, caster, camber and toe.
+	~Toe-in & toe-out.#Alignment angels are SAI, caster, camber and toe.
+}
+
+
+//name:TQ0614
+::TQ0614::Excessive wear on the outside of the tire could indicate:{
+	=excessive positive camber.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+	~excessive negative camber.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+	~high tire pressures.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+	~low tire pressures.#Excessive wheel camber can cause sloping wear on the outer edge of the tread on one shoulder of the tire.
+}
+
+
+//name:TQ0615
+::TQ0615::Negative camber can be increased by moving the upper ball joint inward toward the frame of the vehicle.{
+	=TRUE#Camber is viewed from the front of the vehicle and it is the angle of tilt of the wheel from the vertical. A wheel that leans towards the vehicle is said to have negative camber. 
+	~FALSE#Camber is viewed from the front of the vehicle and it is the angle of tilt of the wheel from the vertical. A wheel that leans towards the vehicle is said to have negative camber. 
+}
+
+
+//name:TQ0616
+::TQ0616::Positive caster can be increased by moving the upper ball joint toward the front of the vehicle.{
+	=FALSE#Caster is the angle between the steering axis centerline and a vertical line through the center of the wheel. Backward tilt from the vertical line is positive caster. Forward tilt is negative caster.
+	~TRUE#Caster is the angle between the steering axis centerline and a vertical line through the center of the wheel. Backward tilt from the vertical line is positive caster. Forward tilt is negative caster.
+}
+
+
+//name:TQ0617
+::TQ0617::Rim offset must stay the same if rims are replaced, otherwise the:{
+	=scrub radius will change.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+	~caster will decrease.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+	~camber settings will change.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+	~toe-in will increase.#Since the offset of the wheel rim determines where the centerline of the tire meets the road surface, it's important that the offset is not changed if wheels are being replaced.
+}
+
+
+//name:TQ0618
+::TQ0618::The included angle is a combination of:{
+	=camber and steering axis inclination.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+	~turning radius and Ackerman angle.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+	~caster and camber.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+	~toe-in and toe-out.#Included angle is the angle formed between the SAI and the camber. Included angle is not directly measurable. To determine the included angle you add the SAI to the camber.
+}
+
+
+//name:TQ0620
+::TQ0620::The toe-in adjustment is normally made after the camber and caster adjustments are made.{
+	=TRUE#The tie rod and drag link, as installed at the factory, are very close to parallel. Keeping these components parallel reduces bump steer. Toe is the turning out of the front wheels. The purpose of a toe specification is to ensure parallel rolling of the front wheels. Proper toe adjustment helps keep the vehicle going down the road in a straight line.  A slight amount of positive toe makes the vehicle feel more stable. 
+	~FALSE#The tie rod and drag link, as installed at the factory, are very close to parallel. Keeping these components parallel reduces bump steer. Toe is the turning out of the front wheels. The purpose of a toe specification is to ensure parallel rolling of the front wheels. Proper toe adjustment helps keep the vehicle going down the road in a straight line.  A slight amount of positive toe makes the vehicle feel more stable. 
+}
+
+
+//name:TQ0621
+::TQ0621::Toe is adjusted by adding or removing shims or by turning eccentrics on the steering arms.{
+	=FALSE#Toe is adjusted by turning the threaded sleeve or rod which adjusts the length of the tie rod. Variation from factory specs is usually caused by worn or bent suspension parts or changes in caster/camber settings. Toe angle can also be affected by body structure or frame damage.
+	~TRUE#Toe is adjusted by turning the threaded sleeve or rod which adjusts the length of the tie rod. Variation from factory specs is usually caused by worn or bent suspension parts or changes in caster/camber settings. Toe angle can also be affected by body structure or frame damage.
+}
+
+
+//name:TQ0622
+::TQ0622::What is toe-in?{
+	=When the front of the wheels are closer together than the rear of the wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+	~When the rear of the wheels are closer together than the front of the wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+	~When the front of the wheels have worn more than the rear of the wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+	~When the front wheels have worn more than the rear wheels.#One alignment factor is toe.  Toe-in refers to the front of the wheels being closer together than the rear of the wheels.
+}
+
+
+//name:TQ0623
+::TQ0623::Toe-out of the front wheels when turning corners:{
+	=reduces tire scrubbing.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+	~increases tire scrubbing.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+	~is caused by rim offset.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+	~is caused by excessive camber.#Toe-out on turns is the relative toe setting of the front wheels as they turn to left or right. When a vehicle makes a turn, each wheel should rotate with true rolling motion, that is free from tire scrub.
+}
+
+
+//name:TQ0624
+::TQ0624::What is the turning radius a measure of?{
+	=How small a circle the vehicle can turn around in.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+	~How much movement or turn there is in the steering wheel.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+	~The set wheel stops adjusted in manufacture.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+	~The set steering box limit.#The turning radius is the required space the vehicle requires to make a complete 180 degree turn.
+}
+
+

@@ -1,0 +1,25 @@
+.box.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  .ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all.ui-state-default
+    %h4{:style => "margin: 5px 10px"}
+      %span.ui-icon.ui-icon-mail-closed.fright &nbsp;
+      Unread Messages
+
+  .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - if @unread_messages_count > 0
+      %table#listing
+        %thead.ui-widget-header
+          %th From
+          %th Subject
+          %th &nbsp;
+
+        %tbody
+          - @unread_messages.each do |message|
+            %tr[message]{ :class => "#{message.state} #{cycle(:odd, :even)}" }
+              %td&= message.sender.try(:fullname) || 'Deleted'
+              %td&= truncate message.subject
+              %td.centre= link_to "View", message
+
+      .right= link_to "More...", inbox_path
+
+    - else
+      You have no new messages.

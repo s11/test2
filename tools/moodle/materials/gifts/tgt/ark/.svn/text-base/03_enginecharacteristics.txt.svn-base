@@ -1,0 +1,41 @@
+//name:TQ1475
+::TQ1475::Engine output has no reference to the torque and power produced by an engine.{
+	=FALSE#Output is always referenced back to either torque or horsepower. These are measurements about the power train effectiveness to do useful work.
+	~TRUE#Output is always referenced back to either torque or horsepower. These are measurements about the power train effectiveness to do useful work.
+}
+
+
+//name:TQ1476
+::TQ1476::Engine output refers to:{
+	=torque and power produced by an engine.#Torque is usually measured in newton-meters (Nm) or in foot-pounds (ft-lb).  Engine power is usually rated in kilowatts (kW) or horsepower (hp).
+	~power produced by an engine.#Torque is usually measured in newton-meters (Nm) or in foot-pounds (ft-lb).  Engine power is usually rated in kilowatts (kW) or horsepower (hp).
+	~torque produced by an engine.#Torque is usually measured in newton-meters (Nm) or in foot-pounds (ft-lb).  Engine power is usually rated in kilowatts (kW) or horsepower (hp).
+	~none of the other answers.#Torque is usually measured in newton-meters (Nm) or in foot-pounds (ft-lb).  Engine power is usually rated in kilowatts (kW) or horsepower (hp).
+}
+
+
+//name:TQ1477
+::TQ1477::Energy from an internal combustion engine comes from:{
+	=burning fuel.#Energy released by burning fuel and air in the cylinders produces a turning force or torque which drives the wheels.
+	~the battery.#Energy released by burning fuel and air in the cylinders produces a turning force or torque which drives the wheels.
+	~solar power.#Energy released by burning fuel and air in the cylinders produces a turning force or torque which drives the wheels.
+	~none of the other answers.#Energy released by burning fuel and air in the cylinders produces a turning force or torque which drives the wheels.
+}
+
+
+//name:TQ1478
+::TQ1478::One way to describe the power range of an engine is as a fraction called the Load Factor.{
+	=FALSE#Engine power is expressed as either torque of horsepower. It may also be rated as kilowatts, another way to express the ability to do work.
+	~TRUE#Engine power is expressed as either torque of horsepower. It may also be rated as kilowatts, another way to express the ability to do work.
+}
+
+
+//name:TQ1479
+::TQ1479::Most car engines have a load factor of:{
+	=20 - 30% #An engine required to operate at maximum power over ten hours is said to have a load factor of 100%. Using that as a standard, most car engines would operate at only about 20 to 30%.
+	~1#An engine required to operate at maximum power over ten hours is said to have a load factor of 100%. Using that as a standard, most car engines would operate at only about 20 to 30%.
+	~50 - 100%#An engine required to operate at maximum power over ten hours is said to have a load factor of 100%. Using that as a standard, most car engines would operate at only about 20 to 30%.
+	~0.5#An engine required to operate at maximum power over ten hours is said to have a load factor of 100%. Using that as a standard, most car engines would operate at only about 20 to 30%.
+}
+
+

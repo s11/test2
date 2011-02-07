@@ -1,0 +1,35 @@
+// question: 31223  name: HAQ2909 
+::HAQ2909::[html]Checking a starting system - Prepare the DVOM for testing voltage by inserting the black probe lead into the '..............................' input port, and the red probe lead into the 'Volt/Ohms' input port.{
+	=%100%common#
+}
+
+
+// question: 31224  name: HAQ2910 
+::HAQ2910::[html]Check meter function - Turn the rotary dial until you have selected the mode for '..............................'.{
+	=%100%Volts DC#
+}
+
+
+// question: 31225  name: HAQ2911 
+::HAQ2911::[html]Check the battery voltage - Place the Black probe onto the Negative terminal of the battery, which will be marked with a Minus sign, and place the .............................. probe onto the Positive terminal of the battery.{
+	=%100%red#
+}
+
+
+// question: 31227  name: HAQ2912 
+::HAQ2912::[html]Connect the other end of the negative lead to a good .............................. on the engine block or body of the vehicle with the discharged battery, and as far away as possible from the battery.{
+	=%100%ground#
+}
+
+
+// question: 31228  name: HAQ2913 
+::HAQ2913::[html]Disconnect jumper leads - Disconnect the leads in the .............................. order to connecting them.{
+	=%100%reverse#
+}
+
+
+// question: 31226  name: HAQ3830 
+::HAQ3830::[html]Connect the leads always in this order. First, connect the red, positive, lead to the .............................. terminal of the discharged battery in the vehicle you are trying to start.{
+	=%100%positive#
+	=%100%+ve#
+}

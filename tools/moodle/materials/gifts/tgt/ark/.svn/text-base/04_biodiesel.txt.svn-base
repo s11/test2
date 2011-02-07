@@ -1,0 +1,36 @@
+//name:TQ0110
+::TQ0110::At low temperatures, diesel fuel becomes a gel that cannot be pumped, what is this condition called? {
+	=pour point#The term 'pour point' is the temperature below which diesel fuel will not flow freely.
+	~flow point#The term 'pour point' is the temperature below which diesel fuel will not flow freely.
+	~gel point#The term 'pour point' is the temperature below which diesel fuel will not flow freely.
+	~freeze point#The term 'pour point' is the temperature below which diesel fuel will not flow freely.
+}
+
+
+//name:TQ0111
+::TQ0111::Biodiesel is said to have advantages when used, it can also cause disadvantages. Which of the following can be an effect of using biodiesel? {
+	=all of these#Biodiesel is a better solvent than petro-diesel, so it helps to clean the fuel system as it flows through it, and it can break down and flush out residue deposits in vehicles that have been running on petro-diesel. It is important to clean the lines before changing over to biodiesel fuel, or the solvent action of the fuel will quickly clog up fuel filters. The used of biodiesel also substantially improves the fuel's lubricity.
+	~increased fuel lubricity#Biodiesel is a better solvent than petro-diesel, so it helps to clean the fuel system as it flows through it, and it can break down and flush out residue deposits in vehicles that have been running on petro-diesel. It is important to clean the lines before changing over to biodiesel fuel, or the solvent action of the fuel will quickly clog up fuel filters. The used of biodiesel also substantially improves the fuel's lubricity.
+	~blocked filters#Biodiesel is a better solvent than petro-diesel, so it helps to clean the fuel system as it flows through it, and it can break down and flush out residue deposits in vehicles that have been running on petro-diesel. It is important to clean the lines before changing over to biodiesel fuel, or the solvent action of the fuel will quickly clog up fuel filters. The used of biodiesel also substantially improves the fuel's lubricity.
+	~cleaner lines#Biodiesel is a better solvent than petro-diesel, so it helps to clean the fuel system as it flows through it, and it can break down and flush out residue deposits in vehicles that have been running on petro-diesel. It is important to clean the lines before changing over to biodiesel fuel, or the solvent action of the fuel will quickly clog up fuel filters. The used of biodiesel also substantially improves the fuel's lubricity.
+}
+
+
+//name:TQ0112
+::TQ0112::What does the term B20 mean?{
+	=that the fuel contains 20 percent biodiesel and 80 percent petroleum diesel.#Commercial blends of biodiesel and petroleum diesel are designated with the letter 'B,' followed by the volumetric percentage of biodiesel in the blend: B20, the blend most commonly available, contains 20 percent biodiesel and 80 percent petroleum diesel. B100 is pure biodiesel.
+	~that the fuel contains 20 percent petroleum diesel and 80 percent biodiesel.#Commercial blends of biodiesel and petroleum diesel are designated with the letter 'B,' followed by the volumetric percentage of biodiesel in the blend: B20, the blend most commonly available, contains 20 percent biodiesel and 80 percent petroleum diesel. B100 is pure biodiesel.
+	~that there are 20 different types of vegetable matter in the fuel#Commercial blends of biodiesel and petroleum diesel are designated with the letter 'B,' followed by the volumetric percentage of biodiesel in the blend: B20, the blend most commonly available, contains 20 percent biodiesel and 80 percent petroleum diesel. B100 is pure biodiesel.
+	~that it is 20% hygroscopic in nature#Commercial blends of biodiesel and petroleum diesel are designated with the letter 'B,' followed by the volumetric percentage of biodiesel in the blend: B20, the blend most commonly available, contains 20 percent biodiesel and 80 percent petroleum diesel. B100 is pure biodiesel.
+}
+
+
+//name:TQ0113
+::TQ0113::When did commercial production of biodiesel using vegetable oil as a base for use in engines occur?{
+	=the 1990s#Vegetable oil as a base for fuel oil in diesel engines has been around for many years, however commercial production of biodiesel did not begin until the 1990s.
+	~the 1970s#Vegetable oil as a base for fuel oil in diesel engines has been around for many years, however commercial production of biodiesel did not begin until the 1990s.
+	~the 1980s#Vegetable oil as a base for fuel oil in diesel engines has been around for many years, however commercial production of biodiesel did not begin until the 1990s.
+	~the 2000s#Vegetable oil as a base for fuel oil in diesel engines has been around for many years, however commercial production of biodiesel did not begin until the 1990s.
+}
+
+

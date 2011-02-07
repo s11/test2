@@ -1,0 +1,124 @@
+//name:TQ0076
+::TQ0076::Before servicing a vehicle, you should refer to:{
+	=the appropriate workshop manual and update bulletins.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+	~the owner's handbook and auto club information.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+	~verbal advice from experienced people.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+	~motoring magazines and journals.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+}
+
+
+//name:TQ0077
+::TQ0077::The term 'track' refers to the measurement of:{
+	=the center of one tire tread to the center of the tire tread on the opposite side in relation to all axles on the vehicle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+	~the center of the front axle to the center of the rear axle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+	~the difference in measurement from one side of the vehicle to the other side of the vehicle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+	~one side to the other side of the vehicle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+}
+
+
+//name:TQ0078
+::TQ0078::The term 'wheelbase' refers to the measurement of:{
+	=the center of the front axle to the center of the rear axle.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+	~the difference in the measurements from one side of the vehicle to the other side of the vehicle.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+	~the side to side dimension of the vehicle.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+	~the center of the tire tread to the center of the tire tread on the opposite side.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+}
+
+
+//name:TQ0079
+::TQ0079::How often should a vehicle be checked for overall roadworthiness?{
+	=Once a month.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+	~Once every six months.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+	~Once a year.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+	~Whenever a fault is found.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+}
+
+
+//name:TQ0080
+::TQ0080::After completing an underbody inspection:{
+	=discuss the problems with your supervisor.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+	~discuss the problems with your customer.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+	~begin correcting the problems immediately.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+	~check all problems with a scan tool.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+}
+
+
+//name:TQ0081
+::TQ0081::Which statement about washer fluid is correct?{
+	=Some washer fluids are concentrated and need to be mixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+	~All washer fluids are concentrated and need to be mixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+	~Washer fluids do not need to be mixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+	~All washer fluids come premixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+}
+
+
+//name:TQ0082
+::TQ0082::The new wiper blade should be identical to the one you are replacing.{
+	=FALSE#New developments in blade design means that the profile of the new blade may not be identical to the original.
+	~TRUE#New developments in blade design means that the profile of the new blade may not be identical to the original.
+}
+
+
+//name:TQ0083
+::TQ0083::What is the primary cause of the transponder not opening or closing the vehicle doors?{
+	=The transponder battery needs replacing.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+	~The vehicle battery needs replacing.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+	~The security system is immobilized.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+	~The transponder is suffering from electronic interference.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+}
+
+
+//name:TQ0084
+::TQ0084::What has happened when a door is said to have 'dropped'?{
+	=There is excessive amount of movement up and down at its outer edge. This means the door hinges have worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+	~There is excessive amount of movement side to side at its outer edge. This means the door has worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+	~There is excessive amount of movement up and down at its inner edge. This means the door has worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+	~There is excessive amount of movement side to side at its inner edge. This means the door has worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+}
+
+
+//name:TQ0085
+::TQ0085::There are three anchor points on:{
+	='lap and sash' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+	~'lap' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+	~'sash' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+	~both 'lap and sash'  & 'lap' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+}
+
+
+//name:TQ0086
+::TQ0086::What tool should you use for removing an interior panel?{
+	=A special manufacturer's tool.#Most manufacturers have a special tool for removing the panel clips.
+	~A long handled blade screwdriver.#Most manufacturers have a special tool for removing the panel clips.
+	~a flat chisel.#Most manufacturers have a special tool for removing the panel clips.
+	~An offset screwdriver.#Most manufacturers have a special tool for removing the panel clips.
+}
+
+
+//name:TQ0087
+::TQ0087::If the driver's seat is damaged but still safe and structurally sound:{
+	=it may be possible to swap it with the front passenger seat.#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+	~it is safe to leave, driver comfort is of less importance than safety.#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+	~it must be removed, poor seat condition can be the subject of a safety defect,#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+	~it can be corrected with the use of a seat cover.#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+}
+
+
+//name:TQ0088
+::TQ0088::How should you remove hardened or baked-on dirt and grease from the paintwork when cleaning a vehicle?{
+	=Allow the degreaser to work on the paintwork for a minute before washing off and re-apply if necessary.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+	~Scratch off contaminant with a scraper.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+	~Allow the degreaser to work on the paintwork for a minute before washing off and re-apply, undiluted, if necessary.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+	~Allow the degreaser to work on the paintwork overnight before washing off.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+}
+
+
+//name:TQ0089
+::TQ0089::Which is not a manufacturer-recommended scheduled service type?{
+	=Pre-trip check.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+	~Pre-delivery service.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+	~Distance-based service.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+	~Time-based service.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+}
+
+

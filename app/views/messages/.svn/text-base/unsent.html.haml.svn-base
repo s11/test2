@@ -1,0 +1,40 @@
+#message-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  = render :partial => "messages/tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - if collection.size > 0
+      - form_tag(bulk_update_messages_path, :method => :put, :id => "bulk-update") do
+        #select-links
+          #select-links== Select: #{link_to_function "All", "$('input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('input:checkbox').attr('checked', false)"}
+
+        %table#listing
+          %thead
+            %tr
+              %th{ :width => '5%' } &nbsp;
+              %th{ :width => '20%'} To
+              %th{ :width => '*'  } Subject
+              %th{ :width => '15%'} Date Saved
+              %th{ :width => '5%' } &nbsp;
+
+          %tbody
+            - collection.each do |message|
+              %tr[message]{ :class => message.state }
+                %td.centre= check_box_tag "message_ids[#{message.id}]", true, false, :id => "message_#{message.id}"
+                %td.left= message.sender.fullname
+                %td= message.subject
+                %td.centre= message.created_at.to_s(:db)
+                %th.centre= link_to "Edit", edit_message_path(message)
+
+        .centre
+          = will_paginate(collection)
+
+        %br
+        = delete_button_tag "Delete selected"
+
+    - else
+      .ui-widget
+        .ui-state-highlight.ui-corner-all{ :style => "margin-top: 20px; padding: 0 .7em;" }
+          %p
+            %span.ui-icon.ui-icon-info{ :style => "float: left; margin-right: .3em;" }
+            There are no draft messages.
+        

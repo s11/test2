@@ -1,0 +1,50 @@
+#tabs
+  %ul
+    %li= link_to "Editing Class / Group: #{resource.name}", '#tab-edit'
+    
+  #tab-edit
+    #class_group
+      - form_for(resource) do |f|
+        %p
+          = f.label :name
+          = f.text_field :name
+
+        %p
+          = link_to "Back to Class Groups Setup", :class_groups, :class => "ui-button ui-button-carat-1-w", :style => "margin-bottom: 3px"
+          = update_button_tag
+
+        %fieldset
+          %legend== Member Students (Select: #{link_to_function "All", "$('.student').addClass('selected').find('input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('.student').removeClass('selected').find('input:checkbox').attr('checked', false)"})
+          - current_client.students.find_each do |student|
+            - exists = resource.students.exists?(student)
+            %span.ui-corner-all.user.student[student]{ :class => "#{'selected' if exists}"}
+              = check_box_tag "class_group[users][]", student.id, exists
+              &= student.fullname
+              
+
+        %fieldset
+          %legend== Member Instructors (Select: #{link_to_function "All", "$('.instructor').addClass('selected').find('input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('.instructor').removeClass('selected').find('input:checkbox').attr('checked', false)"})
+          - current_client.not_students.find_each do |instructor|
+            - exists = resource.instructors.exists?(instructor)
+            %span.ui-corner-all.user.instructor[instructor]{ :class => "#{'selected' if exists}"}
+              = check_box_tag "class_group[users][]", instructor.id, exists
+              &= instructor.fullname
+
+        = link_to "Back to Class Groups Setup", :class_groups, :class => "ui-button ui-button-carat-1-w", :style => "margin-bottom: 3px"
+        = update_button_tag
+
+- content_for(:onload) do
+  :plain
+    $('#tabs').tabs();
+
+    $('#class_group .user').click(function() {
+      var checkbox = $(this).find('input:checkbox');
+
+      if ($(this).hasClass('selected')) {
+        $(this).removeClass('selected');
+        checkbox.attr('checked', false)
+      } else {
+        $(this).addClass('selected');
+        checkbox.attr('checked', true)
+      }
+    });

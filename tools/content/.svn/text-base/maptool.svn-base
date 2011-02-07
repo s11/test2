@@ -1,0 +1,261 @@
+#!/usr/bin/env ruby
+#--
+#  csv2gift
+#  management
+#  
+#  Created by John Meredith on 2009-05-15.
+#  Copyright 2009 DVP Media Pty Ltd. All rights reserved.
+#++
+require File.dirname(__FILE__) + '/../../config/boot'
+
+
+# Make sure we have the correct environment. Default to 'development'.
+options = { :environment => (ENV['RAILS_ENV'] || "development").dup }
+ENV["RAILS_ENV"] = options[:environment]
+RAILS_ENV.replace(options[:environment]) if defined?(RAILS_ENV)
+require RAILS_ROOT + '/config/environment'
+
+require 'main'
+require 'fastercsv'
+
+Main do
+  author "John Meredith <johnm@dvpmedia.com.au>"
+  version "1.0"
+  description "CDX Online content map import tool"
+
+
+  mixin(:menu) do
+    keyword(:name) do
+      required
+      cast :string
+    end
+
+    keyword(:version) do
+      required
+      cast :integer
+    end
+
+    keyword(:moodle_course_category_id) do
+      cast :integer
+    end
+  end
+
+  mixin(:mapfile) do
+    mixin :menu
+
+    option(:force) do
+      description "Force overwriting the specified maps if it already exists"
+    end
+    
+    option(:custom_menu) do
+      argument_required
+      cast :boolean
+      default true
+    end
+
+    argument(:mapfile) do
+      required
+      description "The filename of the content map CSV file"
+      validate { |value| File.exists?(value) }
+    end
+  end
+
+
+  mode(:import) do
+    description "Will import all data in the given content map CSV file and associate it with the given map and version"
+
+    mixin :mapfile
+    
+    def puts_line
+      puts '-' * 72
+    end
+    
+    def run
+      menu_name    = params[:name].value
+      menu_version = params[:version].value
+
+      # Create the menu if not found and --force option supplied
+      menu = Menu.find_or_create_by_name(menu_name)
+      if menu.blank?
+        if params[:force].given?
+          menu = Menu.create(:name => menu_name, :custom => true, :client_locked => true)
+        else
+          puts "Menu doesn't exists. Please specify the '--force' to create."
+          exit
+        end
+      end
+
+      if menu.versions.exists?(:version => menu_version)
+        version = menu.versions.find_by_version!(menu_version)
+
+        # Only overwrite if the --force option
+        if params[:force].given?
+          # Hard delete of category items and version
+          CategoryItem.delete_all(:category_id => version.category_ids) if version.category_ids
+          version.delete
+
+          MenuVersion.delete_all("deleted_at IS NOT NULL")
+          Category.delete_all("deleted_at IS NOT NULL")
+          CategoryItem.delete_all("deleted_at IS NOT NULL")
+        else
+          puts "Will not overwrite an existing map. Please specify the '--force' option if you're absolutely sure you want to do this."
+          exit
+        end
+      end
+
+
+      # Create the new menu_version
+      version = menu.versions.create(:version => menu_version, :moodle_course_category_id => params[:moodle_course_category_id].value)
+      puts "Created new `#{menu_name}` version #{menu_version}"
+
+
+      # Process the named CSV file
+      FasterCSV.foreach(params[:mapfile].value, :headers => :first_row, :skip_blanks => true) do |row|
+        next if row['category'] == 'Info & Help'
+
+        kind = row['topictype'].downcase
+        kind = 'activity' if kind == 'tasksheet'
+
+        # cater to those maps with a 'level' column ie. IMI and Alberta
+        if row.headers.include?('level')
+          # Flag the version as having a multi-level sidebar menu
+          version.update_attributes!(:has_heirarchical_root => true) unless version.has_heirarchical_root?
+
+          # Create the root level
+          level = version.categories.find_or_create_by_name(row['level'], :kind => kind)
+          
+          # And the category
+          category_name = row['category'].gsub(/^\**\s*/, '')
+          if level.children.exists?(:name => category_name)
+            category = level.children.find_by_name!(category_name)
+          else
+            category = version.categories.create(:name => category_name, :kind => kind)
+            category.move_to_child_of(level)
+          end
+        else
+          category = version.categories.find_or_create_by_name(row['category'], :kind => kind)
+        end
+
+        # Now the topic area
+        topicarea_name = row['topicarea'].gsub(/^\**\s*/, '')
+        if category.children.exists?(:name => topicarea_name)
+          topicarea = category.children.find_by_name!(topicarea_name)
+        else
+          topicarea = version.categories.create(:name => topicarea_name, :kind => kind)
+          topicarea.move_to_child_of(category)
+        end
+        
+        # ..and finally the topic group
+        topicgroup_name = row['topicgroup'].gsub(/^\**\s*/, '')
+        if topicgroup_name.present?
+          if topicarea.children.exists?(:name => topicgroup_name, :parent_id => topicarea.id)
+            topicgroup = topicarea.children.find_by_name!(topicgroup_name)
+          else
+            topicgroup = version.categories.create(:name => topicgroup_name, :kind => kind)
+            topicgroup.move_to_child_of(topicarea)
+          end
+        else
+          topicgroup = topicarea
+        end
+        
+        
+        # Category items
+        if  row['topictype'].downcase == 'tasksheet'
+          tasksheet_number = row['htmlelement'].tr('.pdf', '')
+        
+          # Find the appropriate tasksheet and add it as an item
+          if (Tasksheet.exists?(:number => tasksheet_number))
+            topicgroup.tasksheets << Tasksheet.find_by_number!(tasksheet_number)
+          else
+            puts "[ERROR] Unable to find tasksheet: '#{row['topic']}'"
+          end
+        else
+          if Topic.exists?(:page_filename => row['htmlelement'])
+            topic = Topic.find_by_page_filename!(row['htmlelement'])
+        
+            topic.kind                              = row['topictype'].downcase
+            topic.name                              = row['topic']
+            topic.description                       = row['topicdescription']
+            topic.has_video                         = row['mpegelement'].present?
+            topic.page_filename                     = row['htmlelement']
+            topic.knowledge_check_filename          = row['kcelement']
+            topic.workshop_procedure_guide_filename = row['wselement']
+            topic.assessment_checklist_filename     = nil
+        
+            # Display changed attrs
+            if topic.changed?
+              puts_line
+              puts "Inconsistent topic entry for htmlelement: #{topic.page_filename}"
+              puts
+              topic.changes.each_pair do |key, val|
+                puts "  #{key} (before): #{val[0]}"
+                puts "  #{key} (after) : #{val[1]}"
+                puts
+              end
+            end
+        
+            # Allow save if the menu is ARK
+            topic.save! if menu.name == "CDX ARK"
+          else
+            # Find or create the topic and add it as an item
+            topic = Topic.create!(
+              :kind                              => row['topictype'].downcase,
+              :name                              => row['topic'],
+              :description                       => row['topicdescription'],
+              :has_video                         => row['mpegelement'].present?,
+              :page_filename                     => row['htmlelement'],
+              :knowledge_check_filename          => row['kcelement'],
+              :workshop_procedure_guide_filename => row['wselement'],
+              :assessment_checklist_filename     => nil
+            )
+          end
+        
+        
+          # Add the topic to the group
+          topicgroup.topics << topic
+        
+        
+          # Now find the CategoryItem
+          category_item = topicgroup.category_items.topics.find_by_item_id(topic.id)
+          category_item.update_attributes!(
+            :dvom_filename                   => row['dvomelement'],
+            :handout_activity_sheet_filename => row['haelement']
+          ) 
+        end
+      end
+    end
+  end
+
+
+
+  mode(:list) do
+    description "List all menus. You may also limit the results by specifying the --filter option eg. '#{File.basename($0)} list --filter=ase'"
+
+    option(:like) do
+      argument_required
+      description "a MySQL LIKE expression to filter the menu names against"
+    end
+
+    option(:version) do
+      argument_required
+      description "only list the menus with the given version"
+    end
+
+    def run
+      # Build the search
+      search = Menu.search
+      search.name_like(params[:like].value) if params[:like].given?
+      search.versions_version_equals(params[:version].value) if params[:version].given?
+
+      table = search.report_table(:all)
+      table.column_names = ["Name", "Custom Menu", "Version", "Moodle Course Category ID"]
+
+      grouping = Ruport::Data::Grouping.new(table, :by => "Version", :order => "Name")
+      puts grouping
+    end
+  end
+  
+  def run
+    print usage.to_s
+  end
+end

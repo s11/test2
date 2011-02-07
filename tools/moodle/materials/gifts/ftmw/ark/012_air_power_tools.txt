@@ -1,0 +1,92 @@
+// question: 23627  name: HAQ0072 
+::HAQ0072::[html]Air tools generally produce more ................. than electric tools, so wear ear protection when using air tools.{
+	=%100%noise#
+}
+
+
+// question: 23628  name: HAQ0073 
+::HAQ0073::[html]Unlike battery and electric powered drills, air drills do not require ................. to operate.{
+	=%100%electricity#
+}
+
+
+// question: 23629  name: HAQ0074 
+::HAQ0074::[html]An air drill is used in an environment where an electric drill would be unsafe to use. For example, where a spark may ignite flammable liquid. Because it relies on compressed air, it is not as ................. as an electric drill.{
+	=%100%powerful#
+}
+
+
+// question: 23630  name: HAQ0075 
+::HAQ0075::[html]When assembling an air drill, attach the workshop's air hose to the drill, and check the hose and fittings for any damage or .................{
+	=%100%obstruction#
+	=%100%obstructions#
+}
+
+
+// question: 23631  name: HAQ0076 
+::HAQ0076::[html]When finished, clean up the work area, then ................. the air drill and put the cleaned attachments away securely.{
+	=%100%dismantle#
+}
+
+
+// question: 23632  name: HAQ0077 
+::HAQ0077::[html]Air tools generally produce more ................. than electric tools, so wear ear protection when using air tools.{
+	=%100%noise#
+}
+
+
+// question: 23633  name: HAQ0078 
+::HAQ0078::[html]The best use of an air impact wrench is to remove wheel lug nuts. Do not use an impact wrench to ................. wheel lug nuts.{
+	=%100%tighten#
+}
+
+
+// question: 23634  name: HAQ0079 
+::HAQ0079::[html]Use the impact wrench, sometimes called the 'rattle gun', to loosen and remove the lug nuts on the wheels. The power and the vibration will loosen a tight nut, because of the ................. produced by the wrench.{
+	=%100%torque#
+}
+
+
+// question: 23635  name: HAQ0080 
+::HAQ0080::[html]Never fully tighten the wheel nuts. If you over tighten them, the bolts may fail and cause the wheel to ................. off the vehicle while it is moving. Always finish the job with a lug nut wrench.{
+	=%100%shear#
+}
+
+
+// question: 23636  name: HAQ0081 
+::HAQ0081::[html]A low pressure blowing action can help volatile materials to evaporate more quickly, but a high pressure air jet could ................. the liquid, allowing it to form a flammable mixture.{
+	=%100%atomise#
+	=%100%atomize#
+}
+
+
+// question: 23637  name: HAQ0082 
+::HAQ0082::[html]When using an air blowgun, pull the trigger gently and ................. the flow of air through the nozzle.{
+	=%100%modulate#
+}
+
+
+// question: 23638  name: HAQ0083 
+::HAQ0083::[html]Air chisels act in a similar manner to a jackhammer, however their size makes their cycling rate .................{
+	=%100%faster#
+}
+
+
+// question: 23639  name: HAQ0084 
+::HAQ0084::[html]Use the correct ................. for the task you are performing with an air chisel. Incorrect use can create a large amount of damage in a short time.{
+	=%100%attachment#
+}
+
+
+// question: 23640  name: HAQ0085 
+::HAQ0085::[html]If your workshop does not have an automatic oiler or if the automatic oiler is not operating, you will need to lubricate the air tools daily. Apply a few drops of oil to the inlet of the air tool ................. you use it.{
+	=%100%before#
+}
+
+
+// question: 23641  name: HAQ0086 
+::HAQ0086::[html]Position the chisel so it's pointing directly away from you and fits squarely on to the work piece. Be sure NOT to pull the trigger until the bit is .................. against the piece to be cut.{
+	=%100%pressed#
+}
+
+

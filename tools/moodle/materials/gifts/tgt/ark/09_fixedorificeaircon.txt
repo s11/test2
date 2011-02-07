@@ -1,0 +1,45 @@
+//name:TQ1211
+::TQ1211::The fixed orifice tube:{
+	=cannot alter the amount of refrigerant entering the evaporator.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+	~cannot alter the amount of refrigerant entering the condenser.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+	~can alter the amount of refrigerant entering the condenser.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+	~can alter the amount of refrigerant entering the evaporator.#The fixed orifice tube is fitted into the system just before the evaporator. As its name suggests it has a fixed sized orifice and cannot change in size. 
+}
+
+
+//name:TQ1212
+::TQ1212::What is the purpose of AC system control devices?{
+	=To ensure maximum efficiency in operation and to prevent system and component damage.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+	~To monitor system temperature.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+	~To monitor system pressure.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+	~To monitor system gas flow.#The AC system electronic control unit is connected to the sensors and actuators by a multi-plug, and through wiring to the main vehicle wiring harness.
+}
+
+
+//name:TQ1213
+::TQ1213::Where is the fixed orifice located?{
+	=Between the condenser and the evaporator.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+	~Between the compressor and the receiver dryer.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+	~Between the compressor  and the evaporator.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+	~Between the compressor  and the condenser.#The orifice tube is located between the condenser and the evaporator and provides the restriction to flow necessary for system operation. 
+}
+
+
+//name:TQ1214
+::TQ1214::What does the fixed orifice do?{
+	=It provides restriction to flow to ensure correct operation.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+	~It works like a poppet valve in the flow system.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+	~It aids fluid flow in the system.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+	~It shuts off refrigerant flow under specific conditions.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. 
+}
+
+
+//name:TQ1215
+::TQ1215::In a fixed orifice system what acts as a storage device?{
+	=An accumulator.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+	~A recovery tank.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+	~An orifice tube.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+	~A pressure tank.#In a fixed orifice system, the orifice tube controls the flow of refrigerant into the evaporator. An accumulator acts as a storage device and also contains filters and dessicants to remove moisture and impurities from the refrigerant.
+}
+
+

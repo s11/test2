@@ -1,0 +1,70 @@
+//name:TQ1151
+::TQ1151::1) What is bulb power measured in? and 2) What does this indicate?{
+	=1) Watts, 2) power consumption.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Volts, 2) EMF.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Volts, 2) current flow.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Watts, 2) brightness.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+}
+
+
+//name:TQ1152
+::TQ1152::A lamp filament does not burn out because air in the lamp is replaced with:{
+	=inert gas.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~oxygen.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~air.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~nitrogen.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+}
+
+
+//name:TQ1153
+::TQ1153::Bulb filaments are normally made from:{
+	=tungsten.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~aluminum.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~steel.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~copper.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+}
+
+
+//name:TQ1154
+::TQ1154::The power consumed by headlight bulbs is normally measured in:{
+	=watts.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~volts.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~amps.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~ohms.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+}
+
+
+//name:TQ1155
+::TQ1155::A 24V 21W bulb consumes more power than a 12 V 21W bulb.{
+	=FALSE#21 watt refers to the rate at which the bulb does work. Bulbs are designed to use energy as defined by their rated wattage at a certain voltage. Both bulbs are doing the same amount of work.
+	~TRUE#21 watt refers to the rate at which the bulb does work. Bulbs are designed to use energy as defined by their rated wattage at a certain voltage. Both bulbs are doing the same amount of work.
+}
+
+
+//name:TQ1156
+::TQ1156::What type of electronic device is an LED?{
+	=An LED is like a normal 'forward biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~An LED is like a normal 'reverse biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~An LED is like a normal 'forward biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+	~An LED is like a normal 'reverse biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+}
+
+
+//name:TQ1157
+::TQ1157::LED lights operate on the same principles as a:{
+	=normal 'forward biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~normal 'reverse biased' diode and only passes current flow in one direction.#The LED lights up only when it is connected in forward bias mode.
+	~normal 'forward biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+	~normal 'reverse biased' diode and passes current flow in either direction.#The LED lights up only when it is connected in forward bias mode.
+}
+
+
+//name:TQ1158
+::TQ1158::The emergency flasher system operates which lights on the vehicle?{
+	=Both front and rear turn signals at the same time.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+	~Stop lights.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+	~Headlamps.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+	~Front and rear fog lamps.#The emergency flasher, or hazard warning light system is designed to warn other road users of potential dangers.
+}
+
+

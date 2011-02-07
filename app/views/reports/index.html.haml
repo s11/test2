@@ -1,0 +1,19 @@
+#tabs
+  %ul
+    - if params[:assessment_type].present?
+      %li= link_to "#{params[:assessment_type].titleize} Assessment Report", "#tabs-report"
+    - else
+      %li= link_to "#{params[:type].titleize} Report", "#tabs-report"
+
+    -# %li= link_to "#{params[:type].titleize} Report",        "#tabs-report"
+    -# %li= link_to "Saved Reports", "#tabs-saved"
+
+  #tabs-report
+    = render :partial => 'assessment_instructions'
+    = render :partial => 'filter'
+    %br
+    = render :partial => 'result'
+
+- content_for(:onload) do
+  :plain
+    $('#tabs').tabs();

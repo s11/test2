@@ -1,0 +1,90 @@
+// question: 27890  name: HAQ1801 
+::HAQ1801::[html]The tire provides a cushion between the vehicle and the road to reduce the transmission of road shocks. It also provides ............................... to allow the vehicle perform its normal operations.{
+	=%100%friction#
+}
+
+
+// question: 27891  name: HAQ1802 
+::HAQ1802::[html]Modern tyres are manufactured from a range of materials. The rubber is mainly ...............................{
+	=%100%synthetic#
+}
+
+
+// question: 27892  name: HAQ1803 
+::HAQ1803::[html]Most passenger cars now use ............................... tires, as do most 4-wheel-drives and heavy vehicles.{
+	=%100%radial#
+}
+
+
+// question: 27893  name: HAQ1804 
+::HAQ1804::[html]Tires can be identified by markings on the ...............................{
+	=%100%sidewalls#
+	=%100%sidewall#
+}
+
+
+// question: 27894  name: HAQ1805 
+::HAQ1805::[html]Tire markings typically include the maker's name, the rim size, the type of tire construction, ............................... ratio, maximum load and speed, and, in some cases, intended use.{
+	=%100%aspect#
+}
+
+
+// question: 27895  name: HAQ1806 
+::HAQ1806::[html]Radial ply tires have much more flexible sidewalls due to their construction. They use 2 or more layers of ............................... plies, with the cord loops running radially from bead to bead.{
+	=%100%casing#
+}
+
+
+// question: 27896  name: HAQ1807 
+::HAQ1807::[html]The sidewalls are more ............................... because the casing cords do not cross over each other.{
+	=%100%flexible#
+}
+
+
+// question: 27897  name: HAQ1808 
+::HAQ1808::[html]The cords of the bracing layers may be of fabric, or of steel, and are placed at 12, to 15 degrees to the circumference line. This forms ............................... where the belt cords cross over the radial cords.{
+	=%100%triangles#
+}
+
+
+// question: 27898  name: HAQ1809 
+::HAQ1809::[html]The cord plies flex and deform only in the area above the road contact patch. There are no heavy plies to distort, and flexing of the thin casing generates little ..............................., which is easily dispersed.{
+	=%100%heat#
+}
+
+
+// question: 27899  name: HAQ1810 
+::HAQ1810::[html]A radial ply tire runs cooler than a comparable cross-ply tire, and this increases tread life. Also, a radial tire has less rolling ............................... as it moves over the road surface.{
+	=%100%resistance#
+}
+
+
+// question: 27900  name: HAQ1811 
+::HAQ1811::[html]Sidewalls of an under-inflated tire flex too far, which pushes the center section of the tread up and away from the road surface. This causes wear at the ............................... of the tire.{
+	=%100%shoulders#
+	=%100%shoulder#
+}
+
+
+// question: 27901  name: HAQ1812 
+::HAQ1812::[html]A tire and wheel assembly must be balanced. As the wheel rotates, ............................... force acts outwards.{
+	=%100%centrifugal#
+}
+
+
+// question: 27902  name: HAQ1813 
+::HAQ1813::[html]Any part of the wheel that is heavier than the rest will vibrate vertically, with the heavy area slapping the road surface with each turn of the wheel. This is called ............................... unbalance.{
+	=%100%static#
+}
+
+
+// question: 27903  name: HAQ1814 
+::HAQ1814::[html]............................... unbalance causes the wheel assembly to turn inwards, and then outwards, with each half revolution. As speed rises, rapid side movement of the front wheels causes a sideways-vibration, or wheel wobble effect, at the front of the vehicle.{
+	=%100%dynamic#
+}
+
+
+// question: 27904  name: HAQ1815 
+::HAQ1815::[html]............................... in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed, and for road adhesion to be maintained.{
+	=%100%grooves#
+}

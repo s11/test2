@@ -1,0 +1,87 @@
+#tasksheet-tabs.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  %ul.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all
+    = render :partial => "tabs"
+
+  #tabcontent.ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    = render :partial => params[:action]
+
+    = render :partial => 'filter'
+    %br
+    - if collection.blank?
+      - if current_user.role.student?
+        You do not have any #{params[:action]} tasksheets.
+      - else
+        There are currently no #{params[:action]} tasksheets.
+  
+    - else
+      - form_tag(bulk_update_tasksheet_submissions_path, :method => :put) do
+        #select-links== Select: #{link_to_function "All", "$('#listing input:checkbox').attr('checked', true)"}, #{link_to_function "None", "$('#listing input:checkbox').attr('checked', false)"}
+        %table#listing
+          %thead.ui-widget-header
+            %tr
+              - unless current_user.role.student?
+                %th= order @search, :by => :user_firstname,   :as => "First Name"
+                %th= order @search, :by => :user_lastname,    :as => "Last Name"
+                %th= order @search, :by => :user_student_id,  :as => "Student ID"
+
+              %th{ :width => '10%' }= order @search, :by => :tasksheet_number, :as => "Tasksheet Number"
+              
+              - if current_menu.name == "ASE"
+                %th= order @search, :by => :tasksheet_certifications_natef_reference, :as => "NATEF Reference"
+
+              %th= order @search, :by => :tasksheet_short_name, :as => "Description"
+              
+              - unless @search.conditions.has_key?(:class_group_id_equals)
+                %th= order @search, :by => :class_group_name, :as => "Class / Group"
+
+              %th{ :width => '5%' }= order @search, :by => :grade
+              %th{ :width => '10%' }= order @search, :by => :completed_on, :as => "Completed On"
+
+              - unless current_user.role.student?
+                %th{ :width => '5%' }= link_to_function 'Approve', "$('.radio-approve').attr('checked', true)"
+                %th{ :width => '5%' }= link_to_function 'Reject', "$('.radio-reject').attr('checked', true)"
+              
+
+          %tbody
+            - collection.each do |submission|
+              %tr{ :class => cycle(:odd, :even) }
+                - unless current_user.role.student?
+                  %td&= submission.user.firstname
+                  %td&= submission.user.lastname
+                  %td&= submission.user.student_id
+
+                %td.centre= submission.tasksheet.number
+
+                - if current_menu.name == "ASE"
+                  %td.centre=h submission.tasksheet.certifications.first.natef_reference
+
+                %td= submission.tasksheet.short_name
+
+                - unless @search.conditions.has_key?(:class_group_id_equals)
+                  %td.centre= submission.class_group.try(:name)
+
+                %td.centre= submission.grade
+                %td.centre=h submission.completed_on.to_date
+
+                - unless current_user.role.student?
+                  %td.centre= radio_button_tag "submissions[#{submission.id}]", 'approved', submission.state == 'approved', :class => "radio-approve"
+                  %td.centre= radio_button_tag "submissions[#{submission.id}]", 'rejected', submission.state == 'rejected', :class => "radio-reject"
+
+          - unless current_user.role.student?
+            %tfoot
+              %td.right{ :colspan => 9 + (current_menu.name == "ASE" ? 1 : 0) + (@search.conditions.has_key?(:class_group_id_equals) ? 0 : 1) }
+                = submit_tag "Save Changes", :class => "ui-button ui-button-disk", :confirm => "Are you sure you wish to save the changes?"
+
+      - if will_paginate(collection)
+        %br
+        .centre= will_paginate(collection)
+
+- content_for(:head) do
+  = javascript_include_tag 'daterangepicker'
+  = stylesheet_link_tag 'daterangepicker'
+
+- content_for(:onload) do
+  :plain
+    $('#search_tasksheet_name_search').form_prompt('Tasksheet search...');
+    $('#search_user_name_search').form_prompt('User search...');
+    $('.daterangepicker').daterangepicker({rangeSplitter:'to'});

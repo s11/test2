@@ -1,0 +1,62 @@
+//name:TQ0174
+::TQ0174::If the feeler gauge you are using is too thick you should:{
+	=use smaller gauges until one fits snugly.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+	~lubricate the gauge and try again.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+	~use a smaller gauge that slides easily under the part.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+	~measure a different section of the component.#Feeler gauges determine distance between two components. There should be a snug fit to determine that accurate clearance exists.
+}
+
+
+//name:TQ0175
+::TQ0175::When using a torque wrench with a rating plunger fitted to it, when the plunger 'clicks' out it indicates:{
+	=the set torque has been reached.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+	~you should turn the fastener slightly more.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+	~you should turn the fastener 90 degrees more.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+	~you have over torqued the fastening and it should be backed off one half turn.#Click-style torque wrenches are very handy since the audible click indicates that the torque setting has been met.
+}
+
+
+//name:TQ0176
+::TQ0176::How is a UNF bolt measured?{
+	=All of these.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+	~Length.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+	~Diameter.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+	~Threaded area.#A UNF bolt may measure 1.2" x 3" x 20. That is, the bolt is 3" long, has a shank diameter of 1.2" and the threaded area has 20 threads in every inch of thread.
+}
+
+
+//name:TQ0177
+::TQ0177::A vacuum gauge is used to measure the:{
+	=manifold pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+	~absolute pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+	~vacuum pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+	~atmospheric pressure.#A vacuum gauge is used to measure the manifold pressure. In naturally aspirated engines, this pressure is always below atmospheric pressure. It is referred to as a vacuum.
+}
+
+
+//name:TQ0178
+::TQ0178::At what angle should the dial indicator pointer be positioned in relation to the component being measured?{
+	=90 degrees#The dial indicator pointer should be positioned at 90 degrees to the face of the component to be measured.
+	~45 degrees#The dial indicator pointer should be positioned at 90 degrees to the face of the component to be measured.
+	~180 degrees#The dial indicator pointer should be positioned at 90 degrees to the face of the component to be measured.
+}
+
+
+//name:TQ0179
+::TQ0179::Why should you always hold a micrometer by the insulating block on the frame?{
+	=Because heat from your hand will cause the frame to expand and give an inaccurate reading.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+	~Because heat from your hand will cause the frame to expand and may cause the components to seize up.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+	~Because if held in any other way you will be unable to hold the micrometer and read the measurements accurately.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+	~Because it is the most comfortable position to hold the micrometer.#It is important that other factors do not affect a micrometer measurement. For example, if a micrometer is held in your hand, the heat from your fingers can cause the frame to expand and give an inaccurate reading. Always hold the micrometer by the insulating block on the frame. This will prevent the heat from your fingers reaching the micrometer.
+}
+
+
+//name:TQ0180
+::TQ0180::What are the most popular types of tire pressure gauges?{
+	=Pencil type and dial type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+	~Pencil type and valve type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+	~Dial type and valve type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+	~Pocket type and valve type.#The two most popular types of pocket tire pressure gauges are the pencil type and the dial type. The pencil type looks similar to a pencil and contains a graduated sliding extension that is forced out of the sleeve by air pressure when it is attached to the tire valve. The dial type has a similar fitting to the pencil type but includes a graduated gauge and needle.
+}
+
+

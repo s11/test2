@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/features/support
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-03T23:46:27.360582Z
+3476
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+paths.rb
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+19af9a64a8b222b43c8a32c10e197b7a
+2009-06-22T02:00:30.761788Z
+2697
+johnm
+
+env.rb
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+59faba3c54bc51204d2903be7a6cc9f2
+2009-10-03T23:46:27.360582Z
+3476
+johnm
+

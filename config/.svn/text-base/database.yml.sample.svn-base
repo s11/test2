@@ -1,0 +1,41 @@
+development: &defaults
+  adapter: mysql
+  encoding: utf8
+  reconnect: true
+  database: content_reporting_development
+  username: root
+  password: 24nokTurn11
+  pool: 5
+  socket: /var/lib/mysql/mysql.sock
+
+# Warning: The database defined as 'test' will be erased and
+# re-generated from your development database when you run 'rake'.
+# Do not set this db to the same as development or production.
+test:
+  <<: *defaults
+  database: content_reporting_test
+
+staging:
+  <<: *defaults
+  database: content_reporting
+
+production:
+  <<: *defaults
+  database: content_reporting
+
+
+# TODO: Possible to use the same connection instead of reconnecting for each client?
+cdx_moodle:
+  <<: *defaults
+  database: moodle_master2
+
+cdx_content:
+  <<: *defaults
+  database: content_50
+
+cdx_jbp:
+  adapter: sqlserver
+  mode: ODBC
+  dsn: yequel
+  username: CDXaccess
+  password: R4b9mhFntx

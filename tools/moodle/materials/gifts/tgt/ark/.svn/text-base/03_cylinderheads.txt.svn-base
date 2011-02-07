@@ -1,0 +1,72 @@
+//name:TQ1488
+::TQ1488::What advantages do alloy heads have over cast iron ones?{
+	=They are lighter and able to dissipate heat more easily.#Weight savings provide increased power to weight ratios and better performance/fuel economy.
+	~They do not warp as easily but are able to dissipate heat more easily.#Weight savings provide increased power to weight ratios and better performance/fuel economy.
+	~They are heavier but able to dissipate heat more easily.#Weight savings provide increased power to weight ratios and better performance/fuel economy.
+	~They are lighter but are not able to dissipate heat easily.#Weight savings provide increased power to weight ratios and better performance/fuel economy.
+}
+
+
+//name:TQ1489
+::TQ1489::What is the main design feature of the hemispherical combustion chamber?{
+	=The intake and exhaust valves are on opposite sides of the combustion chamber.#A hemispherical, or pent-roof combustion chamber has the intake valve on one side of the chamber and the exhaust valve on the other. This provides crossflow. Air-fuel mixture enters on one side, and exhaust gases exit on the other. Positioning the valves in this way leaves room for relatively large valves and ports, and that helps the engine breathe. Breathing refers to the engine taking in the air or air-fuel mixture.
+	~Only overhead camshafts can be used.#A hemispherical, or pent-roof combustion chamber has the intake valve on one side of the chamber and the exhaust valve on the other. This provides crossflow. Air-fuel mixture enters on one side, and exhaust gases exit on the other. Positioning the valves in this way leaves room for relatively large valves and ports, and that helps the engine breathe. Breathing refers to the engine taking in the air or air-fuel mixture.
+	~The valves are side by side and in line.#A hemispherical, or pent-roof combustion chamber has the intake valve on one side of the chamber and the exhaust valve on the other. This provides crossflow. Air-fuel mixture enters on one side, and exhaust gases exit on the other. Positioning the valves in this way leaves room for relatively large valves and ports, and that helps the engine breathe. Breathing refers to the engine taking in the air or air-fuel mixture.
+	~Only pushrods and rockers can be used.#A hemispherical, or pent-roof combustion chamber has the intake valve on one side of the chamber and the exhaust valve on the other. This provides crossflow. Air-fuel mixture enters on one side, and exhaust gases exit on the other. Positioning the valves in this way leaves room for relatively large valves and ports, and that helps the engine breathe. Breathing refers to the engine taking in the air or air-fuel mixture.
+}
+
+
+//name:TQ1490
+::TQ1490::In an indirect injection diesel engine fuel is injected into:{
+	=a separate chamber in the cylinder head.#The fuel is injected as a jet and atomized in a separate combustion chamber before it enters the cylinder and completes combustion.
+	~the engine cylinder.#The fuel is injected as a jet and atomized in a separate combustion chamber before it enters the cylinder and completes combustion.
+	~the inlet manifold.#The fuel is injected as a jet and atomized in a separate combustion chamber before it enters the cylinder and completes combustion.
+	~towards a glow plug for cold starting.#The fuel is injected as a jet and atomized in a separate combustion chamber before it enters the cylinder and completes combustion.
+}
+
+
+//name:TQ1491
+::TQ1491::The main reason for fitting a gasket between two surfaces is to:{
+	=form a seal between two mating parts.#Gaskets form a seal by being compressed between stationary parts where liquid or gas could pass. Most gaskets are made to be used only once.
+	~provide for large misalignment of parts.#Gaskets form a seal by being compressed between stationary parts where liquid or gas could pass. Most gaskets are made to be used only once.
+	~allow rapid heat transfer.#Gaskets form a seal by being compressed between stationary parts where liquid or gas could pass. Most gaskets are made to be used only once.
+	~prevent distortion of mating surfaces.#Gaskets form a seal by being compressed between stationary parts where liquid or gas could pass. Most gaskets are made to be used only once.
+}
+
+
+//name:TQ1492
+::TQ1492::The swirling motion to maximize the mixing of air and fuel as it enters the cylinder is referred to as:{
+	=turbulence.#Turbulence is used to decrease the particle size of the fuel and allow better vaporization.
+	~detonation.#Turbulence is used to decrease the particle size of the fuel and allow better vaporization.
+	~induction.#Turbulence is used to decrease the particle size of the fuel and allow better vaporization.
+	~rotary action.#Turbulence is used to decrease the particle size of the fuel and allow better vaporization.
+}
+
+
+//name:TQ1493
+::TQ1493::When all of the intake ports are on one side and all the exhaust ports are on the other, it is called a:{
+	=cross-flow head.#Smaller intake and exhaust passages and ports allow more torque at low engine speeds. At high speeds, smaller passages restrict airflow. Larger passages produce greater power at high engine speeds.
+	~counter-flow head.#Smaller intake and exhaust passages and ports allow more torque at low engine speeds. At high speeds, smaller passages restrict airflow. Larger passages produce greater power at high engine speeds.
+	~siamesed head.#Smaller intake and exhaust passages and ports allow more torque at low engine speeds. At high speeds, smaller passages restrict airflow. Larger passages produce greater power at high engine speeds.
+	~parallel head.#Smaller intake and exhaust passages and ports allow more torque at low engine speeds. At high speeds, smaller passages restrict airflow. Larger passages produce greater power at high engine speeds.
+}
+
+
+//name:TQ1494
+::TQ1494::Some modern high temperature head gaskets are called 'anisotropic' in nature.  What does that mean?{
+	=The gasket is designed to conduct heat laterally to transfer heat from the engine to the coolant faster.#Anisotropic gaskets are normally constructed with a steel core. Special facing materials are added to both sides of the gasket core to provide a comprehensive seal under varying torque conditions.
+	~The side layers of the gasket are designed to withstand temperatures up to 2100 degrees F or 1150 degrees C.#Anisotropic gaskets are normally constructed with a steel core. Special facing materials are added to both sides of the gasket core to provide a comprehensive seal under varying torque conditions.
+	~An added silicone based outer coating on both sides of the side material layers provides additional cold sealing ability during start-up and warm-up.#Anisotropic gaskets are normally constructed with a steel core. Special facing materials are added to both sides of the gasket core to provide a comprehensive seal under varying torque conditions.
+	~When oil  penetrates the edge of the gasket material, it is designed to swell by approximately 30% to increase sealing pressure.#Anisotropic gaskets are normally constructed with a steel core. Special facing materials are added to both sides of the gasket core to provide a comprehensive seal under varying torque conditions.
+}
+
+
+//name:TQ1495
+::TQ1495::Head gaskets provide a seal between:{
+	=the cylinder head and the engine block.#Some gasket materials are designed to allow the cylinder head and block, some of which have considerable distortion rates, to move slightly on the head gasket as they expand during engine warm-up.
+	~the lubrication passages in the cylinder head and the coolant passages in the block.#Some gasket materials are designed to allow the cylinder head and block, some of which have considerable distortion rates, to move slightly on the head gasket as they expand during engine warm-up.
+	~the cylinder head and the valve seats.#Some gasket materials are designed to allow the cylinder head and block, some of which have considerable distortion rates, to move slightly on the head gasket as they expand during engine warm-up.
+	~the cylinder head and the fuel injectors.#Some gasket materials are designed to allow the cylinder head and block, some of which have considerable distortion rates, to move slightly on the head gasket as they expand during engine warm-up.
+}
+
+

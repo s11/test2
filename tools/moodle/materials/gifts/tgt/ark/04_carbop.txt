@@ -1,0 +1,136 @@
+//name:TQ0283
+::TQ0283::The intake manifold on a carbureted engine carries:{
+	=air and fuel.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+	~fuel only.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+	~air only.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+	~fuel and water.#On many cars, the intake manifold has a mounting for the carburetor and a flange that bolts onto the cylinder head. It has a branch for each cylinder to carry air-fuel mixture into the combustion chamber. 
+}
+
+
+//name:TQ0284
+::TQ0284::Air flow through the venturi of a carburetor results in:  {
+	=increased air speed and lower pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+	~reduced air speed and pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+	~increased air speed and pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+	~reduced air speed and higher pressure.#The shape of the venturi constricts air flow and lowers pressure there. The pressure difference between the bowl and the venturi causes fuel to spray out of the fuel discharge nozzle. It mixes with the air, and the mixture passes the throttle valve and enters the intake manifold and the engine.  
+}
+
+
+//name:TQ0285
+::TQ0285::Breaking up liquid gasoline into fine droplets by spraying it is called:{
+	=atomization.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+	~vaporization.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+	~ionization.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+	~venturi effect.#Atomization is the process of breaking up a liquid into tiny particles or droplets. When a liquid is atomized, the droplets are all exposed individually to the air.  
+}
+
+
+//name:TQ0286
+::TQ0286::In a carburetor fuel system, the fuel in the float chamber is acted on by:{
+	=atmospheric pressure.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+	~fuel pump pressure.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+	~fuel line pressure.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+	~gravity.#To ensure a ready supply of fuel, the carburetor has a 'float chamber' (or 'bowl') that contains a quantity of fuel ready for use. It converts fuel from fuel pump pressure to atmospheric pressure. This works similarly to a cistern toilet tank, a float controls an inlet valve. If the float drops, the inlet is opened allowing the fuel to flow under the fuel pump's pressure.
+}
+
+
+//name:TQ0287
+::TQ0287::What is the correct ratio of air to gasoline fuel by volume?{
+	=11000:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+	~15:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+	~14.7:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+	~8:1#To ensure that all the fuel is burnt during combustion an excessive supply of fresh air must be available for each unit of gasoline.
+}
+
+
+//name:TQ0288
+::TQ0288::By volume, how much air is needed to consume 1 liter of gasoline?{
+	=11,000 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~11 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~110 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~1,100 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+	~110,000 liters.#For gasoline to burn properly it must be mixed with the right amount of air. For a gasoline engine, the air/fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline but lots of air.
+}
+
+
+//name:TQ0289
+::TQ0289::By weight, how much filtered air is needed by an average gasoline engine to consume one kilogram or 2.2 lbs of gasoline?{
+	=15 kgs or 33 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+	~5 kgs or 11 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+	~25 kgs or 55 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+	~30 kgs or 66 lbs.#An air fuel ratio of 14.7 : 1 would suggest that for every 2.2 pounds of fuel the engine will require &#126;33 pounds of air (2.2 * 14.7 &#61; 32.34).
+}
+
+
+//name:TQ0290
+::TQ0290::In a carbureted fuel system air and fuel are mixed in the correct ratio for all operating conditions by the:{
+	=carburetor.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+	~fuel filter.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+	~fuel pump.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+	~manifold.#The carburetor supplies the engine with the correct air fuel mixture to suit all operating conditions, from idling to high speed. This mixing of the fuel/air is done in the carburetor.
+}
+
+
+//name:TQ0291
+::TQ0291::The air pressure between the air cleaner and the float bowl are balanced when: {
+	=the float chamber is vented into the air horn.#A passage from the air horn to the float bowl balances air pressure between the air cleaner and the float bowl. The idle air passage and the main discharge nozzle are above the level of the fuel.  
+	~there is no float chamber vent.#A passage from the air horn to the float bowl balances air pressure between the air cleaner and the float bowl. The idle air passage and the main discharge nozzle are above the level of the fuel.  
+	~there are two venturis.#A passage from the air horn to the float bowl balances air pressure between the air cleaner and the float bowl. The idle air passage and the main discharge nozzle are above the level of the fuel.  
+	~the float chamber is vented externally.#A passage from the air horn to the float bowl balances air pressure between the air cleaner and the float bowl. The idle air passage and the main discharge nozzle are above the level of the fuel.  
+}
+
+
+//name:TQ0292
+::TQ0292::Air velocity through the venturi of a carburetor is at a minimum:{
+	=at idle speed.#When the butterfly valve is closed or nearly closed, the carburetor's idle circuit is in operation. The closed throttle means that a fairly significant vacuum occurs behind the closed butterfly valve. This manifold vacuum is sufficient to pull fuel and air through small openings placed after the butterfly valve - and in SU carburetors to pull the piston and metering rod up. Only a fairly small amount of air and fuel can pass through in this manner.
+	~when the throttle is opened suddenly.#When the butterfly valve is closed or nearly closed, the carburetor's idle circuit is in operation. The closed throttle means that a fairly significant vacuum occurs behind the closed butterfly valve. This manifold vacuum is sufficient to pull fuel and air through small openings placed after the butterfly valve - and in SU carburetors to pull the piston and metering rod up. Only a fairly small amount of air and fuel can pass through in this manner.
+	~at high speed.#When the butterfly valve is closed or nearly closed, the carburetor's idle circuit is in operation. The closed throttle means that a fairly significant vacuum occurs behind the closed butterfly valve. This manifold vacuum is sufficient to pull fuel and air through small openings placed after the butterfly valve - and in SU carburetors to pull the piston and metering rod up. Only a fairly small amount of air and fuel can pass through in this manner.
+	~when the power jet is operating.#When the butterfly valve is closed or nearly closed, the carburetor's idle circuit is in operation. The closed throttle means that a fairly significant vacuum occurs behind the closed butterfly valve. This manifold vacuum is sufficient to pull fuel and air through small openings placed after the butterfly valve - and in SU carburetors to pull the piston and metering rod up. Only a fairly small amount of air and fuel can pass through in this manner.
+}
+
+
+//name:TQ0293
+::TQ0293::In a carburetor fuel system, the fuel level in the float chamber is controlled by the:{
+	=float and needle valve.#Fuel level is critical for proper carburetor operation.  Therefore, fuel level within the float bowl is regulated through the action of a needle and seat assembly that is opened or closed through the direct action of the float raising or lowering in response to fuel bowl level.
+	~inlet and outlet valves.#Fuel level is critical for proper carburetor operation.  Therefore, fuel level within the float bowl is regulated through the action of a needle and seat assembly that is opened or closed through the direct action of the float raising or lowering in response to fuel bowl level.
+	~amount of fuel returned to the tank.#Fuel level is critical for proper carburetor operation.  Therefore, fuel level within the float bowl is regulated through the action of a needle and seat assembly that is opened or closed through the direct action of the float raising or lowering in response to fuel bowl level.
+	~fuel nozzle and venturi.#Fuel level is critical for proper carburetor operation.  Therefore, fuel level within the float bowl is regulated through the action of a needle and seat assembly that is opened or closed through the direct action of the float raising or lowering in response to fuel bowl level.
+}
+
+
+//name:TQ0294
+::TQ0294::In a carburetor fuel system, mixture correction at high speed is usually achieved by:{
+	=using an air bleed.#As the throttle opens and engine speed increases, the level in the jet well falls, exposing air bleed holes in the discharge tube. Air can now mix with the fuel and stop the mixture becoming too rich. As the throttle opens further, the fuel level falls too, exposing more air holes. More air bleeds in to maintain the correct mixture.
+	~using a smaller main jet.#As the throttle opens and engine speed increases, the level in the jet well falls, exposing air bleed holes in the discharge tube. Air can now mix with the fuel and stop the mixture becoming too rich. As the throttle opens further, the fuel level falls too, exposing more air holes. More air bleeds in to maintain the correct mixture.
+	~opening the choke valve.#As the throttle opens and engine speed increases, the level in the jet well falls, exposing air bleed holes in the discharge tube. Air can now mix with the fuel and stop the mixture becoming too rich. As the throttle opens further, the fuel level falls too, exposing more air holes. More air bleeds in to maintain the correct mixture.
+	~adjusting the idle mixture screw.#As the throttle opens and engine speed increases, the level in the jet well falls, exposing air bleed holes in the discharge tube. Air can now mix with the fuel and stop the mixture becoming too rich. As the throttle opens further, the fuel level falls too, exposing more air holes. More air bleeds in to maintain the correct mixture.
+}
+
+
+//name:TQ0295
+::TQ0295::What is the 'off-idle' circuit?{
+	=When additional small openings are revealed to compensate for the reduced vacuum in slightly open throttle.#As the rotating valve moves forward to a slightly open throttle position, the vacuum is reduced, so additional small openings are revealed to compensate for this. This is the 'off-idle' circuit.
+	~When additional small openings are revealed to compensate for the reduced vacuum in closed throttle.#As the rotating valve moves forward to a slightly open throttle position, the vacuum is reduced, so additional small openings are revealed to compensate for this. This is the 'off-idle' circuit.
+	~When additional small openings are closed to compensate for the reduced vacuum in slightly open throttle.#As the rotating valve moves forward to a slightly open throttle position, the vacuum is reduced, so additional small openings are revealed to compensate for this. This is the 'off-idle' circuit.
+	~When additional small openings are closed to compensate for the reduced vacuum in wide open throttle.#As the rotating valve moves forward to a slightly open throttle position, the vacuum is reduced, so additional small openings are revealed to compensate for this. This is the 'off-idle' circuit.
+}
+
+
+//name:TQ0296
+::TQ0296::How is additional fuel supplied during acceleration?{
+	=A duration spring extends the time for delivering the fuel.#Depressing the pedal compresses a duration spring that exerts a force on the plunger of a small plunger pump. This pressurizes fuel below the plunger and closes off the inlet valve. Fuel flows through a bypass jet and enters the air stream from a discharge nozzle above the venturi. The duration spring extends the time for delivering the fuel.
+	~Opening the throttle discharges an extra jet of fuel.#Depressing the pedal compresses a duration spring that exerts a force on the plunger of a small plunger pump. This pressurizes fuel below the plunger and closes off the inlet valve. Fuel flows through a bypass jet and enters the air stream from a discharge nozzle above the venturi. The duration spring extends the time for delivering the fuel.
+	~Depressing the pedal discharges an extra jet of fuel.#Depressing the pedal compresses a duration spring that exerts a force on the plunger of a small plunger pump. This pressurizes fuel below the plunger and closes off the inlet valve. Fuel flows through a bypass jet and enters the air stream from a discharge nozzle above the venturi. The duration spring extends the time for delivering the fuel.
+	~Releasing the pedal discharges an extra jet of fuel.#Depressing the pedal compresses a duration spring that exerts a force on the plunger of a small plunger pump. This pressurizes fuel below the plunger and closes off the inlet valve. Fuel flows through a bypass jet and enters the air stream from a discharge nozzle above the venturi. The duration spring extends the time for delivering the fuel.
+}
+
+
+//name:TQ0297
+::TQ0297::From idle to medium speeds which throttles are open in a two-stage carburetor?{
+	=Primary throttle only.#A two-stage carburetor has a primary throttle open only from idle to medium speeds. At higher speeds, the secondary throttle opens to admit more air-fuel mixture.
+	~Primary and secondary throttle.#A two-stage carburetor has a primary throttle open only from idle to medium speeds. At higher speeds, the secondary throttle opens to admit more air-fuel mixture.
+	~Secondary throttle only.#A two-stage carburetor has a primary throttle open only from idle to medium speeds. At higher speeds, the secondary throttle opens to admit more air-fuel mixture.
+	~Both throttles are closed.#A two-stage carburetor has a primary throttle open only from idle to medium speeds. At higher speeds, the secondary throttle opens to admit more air-fuel mixture.
+}
+
+

@@ -1,0 +1,45 @@
+//name:TQ0169
+::TQ0169::Name the material you place on the cutting thread of a thread tap to keep the tool sharp.{
+	=Thread cutting compound.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+	~Thread cutting grease.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+	~Thread cutting cement.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+	~Thread chassis grease.#Proper care of a tool can extend its life dramatically. Use the correct cutting compound while cutting threads.
+}
+
+
+//name:TQ0170
+::TQ0170::What is the most important consideration when choosing a gear puller?{
+	=It needs to be large enough for the component you are removing.#Correct sizing of the tool for the job at hand is an important consideration.
+	~The forcing screw needs to be lubricated.#Correct sizing of the tool for the job at hand is an important consideration.
+	~The jaws have to be loose fitting.#Correct sizing of the tool for the job at hand is an important consideration.
+	~The forcing screw needs to be dry.#Correct sizing of the tool for the job at hand is an important consideration.
+}
+
+
+//name:TQ0171
+::TQ0171::Make sure the die is _________ to the shaft of the stud or bolt at the start of the thread cutting process.{
+	=square#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+	~90 degrees#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+	~at right angles#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+	~aligned#When cutting or repairing a thread, once the die has started to cut, turn the die about a quarter of a turn then back off. Cut another quarter of the thread and back off again. Continue until the thread has been cut. This action clears the cutting teeth of any scrap and gives a better finish.
+}
+
+
+//name:TQ0172
+::TQ0172::When turning the 'drive' nut to remove a damaged stud, use the open-ended wrench to turn the bottom drive nut:{
+	=counter-clockwise.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+	~clockwise.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+	~towards the drive nut.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+	~tighter.#Use the open-end wrench to turn the bottom drive nut counter-clockwise. The drive nut applies the turning force to the stud and forces it to unscrew. Continue to rotate the drive nut until the stud comes out.
+}
+
+
+//name:TQ0173
+::TQ0173::When drilling a hole through the center of the bolt to be removed with a screw extractor:{
+	=drill only to the depth specified in the instructions.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+	~drill all the way through to the bottom of the bolt.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+	~drill exactly half way through the bolt.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+	~drill down the length of the srew extractor so the extractor can seat properly.#Study the instructions. Identify and select the correct size drill and screw extractor for the job. Drill a hole through the center of the bolt. Drill only to the depth specified in your screw extractor instructions.
+}
+
+

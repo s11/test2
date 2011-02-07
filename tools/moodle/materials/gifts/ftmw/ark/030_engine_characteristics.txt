@@ -1,0 +1,38 @@
+// question: 25404  name: HAQ0652 
+::HAQ0652::[html]Engine output refers to the torque and ................. produced by an engine.{
+	=%100%power#
+}
+
+
+// question: 25405  name: HAQ0653 
+::HAQ0653::[html]The purpose of the engine is to provide the energy to ................. the vehicle.{
+	=%100%drive#
+}
+
+
+// question: 25406  name: HAQ0654 
+::HAQ0654::[html]Energy released by burning fuel and air in the cylinders produces a turning force or ................. which drives the wheels.{
+	=%100%torque#
+}
+
+
+// question: 25407  name: HAQ0655 
+::HAQ0655::[html]A gasoline engine in a car may give good acceleration in short bursts, but it can ................. or fail if it's operated at maximum speed and power for too long.{
+	=%100%overheat#
+}
+
+
+// question: 25408  name: HAQ0656 
+::HAQ0656::[html]Many diesels will suffer if they are run on light loads or at ................. speeds for too long.{
+	=%100%low#
+}
+
+
+// question: 25409  name: HAQ0657 
+::HAQ0657::[html]One way to describe the power range of an engine is to give its load and speed as an average over a certain period. This is stated as a percentage, and is called .................{
+	=%100%Load Factor#
+	=%100%load factor#
+}
+
+
+

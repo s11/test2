@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/spec/helpers/api
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-11T05:26:34.421127Z
+3501
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+menu_versions_helper_spec.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+2d509c0982eb397174a603ed6cf13bbf
+2009-10-11T05:26:34.421127Z
+3501
+johnm
+

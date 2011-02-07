@@ -1,0 +1,177 @@
+// question: 29031  name: HAQ1619 
+::HAQ1619::[html]A  pressure relief valve prevents excessive pressures   developing when the steering is on ................., and held against its stops.{
+	=%100%full-lock#
+	=%100%full lock#
+}
+
+
+// question: 29032  name: HAQ1620 
+::HAQ1620::[html]During slow cornering, or when parking, pump speeds are  normally low. There is less demand for fluid flow, but to provide the required assistance, ................. pressure is needed.{
+	=%100%high#
+}
+
+
+// question: 29033  name: HAQ1621 
+::HAQ1621::[html]The power steering pump is normally a ................., with sufficient capacity for all operating conditions.{
+	=%100%vane-type#
+	=%100%vane type#
+}
+
+
+// question: 29034  name: HAQ1622 
+::HAQ1622::[html]Helical gearing gives smoother and ................. operation for the driver.{
+	=%100%quieter#
+}
+
+
+// question: 29035  name: HAQ1623 
+::HAQ1623::[html]................. joints at the end of the rack locate the tie-rods and allow movement in the steering and suspension.{
+	=%100%ball#
+}
+
+
+// question: 29036  name: HAQ1624 
+::HAQ1624::[html]Mechanical advantage is gained by the ................. ratio. The value of this ratio depends on the size of the pinion.{
+	=%100%reduction#
+}
+
+
+// question: 29037  name: HAQ1625 
+::HAQ1625::[html]Rotation of the cylinder causes a point on the helix to move, along the surface of the cylinder. The distance the point moves in one revolution of the cylinder is called the .................{
+	=%100%pitch#
+}
+
+
+// question: 29038  name: HAQ1626 
+::HAQ1626::[html]If an ................. plane is wrapped around a cylinder, the edge of the plane forms a shape called a helix.{
+	=%100%inclined#
+}
+
+
+// question: 29039  name: HAQ1627 
+::HAQ1627::[html]The helix shape is commonly used as a ................. on nuts and bolts, and also for teeth in steering gears, and transmissions.{
+	=%100%thread#
+}
+
+
+// question: 29040  name: HAQ1628 
+::HAQ1628::[html]A disadvantage of a fixed-ratio system is that towards the lock positions, more effort is needed by the driver. To overcome this, many rack-and-pinion systems use ................. ratio steering.{
+	=%100%variable#
+}
+
+
+// question: 29041  name: HAQ1629 
+::HAQ1629::[html]As the pinion turns, and moves on the rack, the gear contact point between the pinion, and the teeth on the rack, changes. This change in tooth contact changes the effective ................. of the pinion.{
+	=%100%diameter#
+}
+
+
+// question: 29042  name: HAQ1630 
+::HAQ1630::[html]For the same amount of steering wheel rotation, the rack moves a shorter distance near the ends of the rack than near the center. Effort needed to turn the wheels stays approximately ................. through the whole range of movement.{
+	=%100%the same#
+}
+
+
+// question: 29043  name: HAQ1631 
+::HAQ1631::[html]The steering box is a gearbox. It converts the rotary motion of the steering wheel to the ................. motion needed to control the wheels.{
+	=%100%linear#
+}
+
+
+// question: 29047  name: HAQ1632 
+::HAQ1632::[html]The ................. ball steering box is a popular development of the worm-and-nut, and worm-and-sector principle.{
+	=%100%recirculating#
+}
+
+
+// question: 29044  name: HAQ1633 
+::HAQ1633::[html]The steering box gear ratio increases output ................., and reduces the effort the driver has to apply.{
+	=%100%torque#
+}
+
+
+// question: 29045  name: HAQ1634 
+::HAQ1634::[html]The input, attached to the steering column, is called a worm shaft. It is meshed with a sector, or portion, of a gear, mounted on its own shaft, at ................. angles to the worm.{
+	=%100%right#
+}
+
+
+// question: 29046  name: HAQ1635 
+::HAQ1635::[html]The outer end of the sector shaft has a tapered spline which mates with an  internal spline on the ................. or drop arm.{
+	=%100%pitman#
+}
+
+
+// question: 29048  name: HAQ1636 
+::HAQ1636::[html]Power steering helps to reduce the additional effort needed. It's of most benefit during slow cornering, and when .................{
+	=%100%parking#
+}
+
+
+// question: 29049  name: HAQ1637 
+::HAQ1637::[html]Power steering is designed so that even if system ................. occurs, the vehicle can still be steered.{
+	=%100%failure#
+}
+
+
+// question: 29050  name: HAQ1638 
+::HAQ1638::[html]With the engine running, fluid flows ................. from the power steering pump, to the steering gear, and back to the pump.{
+	=%100%continuously#
+}
+
+
+// question: 29051  name: HAQ1639 
+::HAQ1639::[html]The rotary valve is located between the steering gear input shaft, and the pinion gear. It consists of an inner  member, which forms part of the input shaft, and a surrounding ................. member, fixed to the pinion gear.{
+	=%100%sleeve#
+}
+
+
+// question: 29052  name: HAQ1640 
+::HAQ1640::[html]The slight rotary displacement of the inner member and the sleeve member is allowed by a ................. bar, which is connected to the pinion gear at its bottom end, and the input shaft at its top end.{
+	=%100%torsion#
+}
+
+
+// question: 29053  name: HAQ1641 
+::HAQ1641::[html]At higher speeds, with no steering manoeuvres, fluid flow is .................{
+	=%100%increased#
+}
+
+
+// question: 29054  name: HAQ1643 
+::HAQ1643::[html]Electric steering is more ................. to run, and easier to  package and install than conventional hydraulic power steering systems.{
+	=%100%economical#
+}
+
+
+// question: 29055  name: HAQ1644 
+::HAQ1644::[html]Electrically Powered Hydraulic Steering, or EPHS, replaces the customary drive belts and pulleys with a ................. motor that drives a high efficiency hydraulic power steering pump in a conventional rack and pinion  steering system.{
+	=%100%brushless#
+}
+
+
+// question: 29056  name: HAQ1645 
+::HAQ1645::[html]An EPS Direct electric steering system uses an electric motor attached to the steering rack via a gear mechanism and torque .................{
+	=%100%sensor#
+}
+
+
+// question: 29059  name: HAQ1646 
+::HAQ1646::[html]If the steering wheel is turned and held in the full-lock position and steering assist reaches maximum, the control unit reduces current to the electric motor to prevent an ................. situation that might damage the motor.{
+	=%100%overload#
+}
+
+
+// question: 29057  name: HAQ1647 
+::HAQ1647::[html]A steering sensor is located on the ................. shaft where it is bolted to the gearbox housing.{
+	=%100%input#
+}
+
+
+// question: 29058  name: HAQ1648 
+::HAQ1648::[html]The steering sensor performs two different functions: Firstly as a torque sensor, it converts steering torque input and direction into voltage signals for the ECU to monitor and convert into a binary code, and secondly as a ................. sensor, which converts the rotation speed and direction into voltage signals for the ECU to monitor and convert into a binary code.{
+	=%100%rotation#
+}
+
+
+

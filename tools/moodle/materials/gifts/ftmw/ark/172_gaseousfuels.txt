@@ -1,0 +1,214 @@
+// question: 30010  name: HAQ30010 
+::HAQ30010::[html]Natural gas is primarily ................., but it can also include ethane, propane, butane, and other gases such as carbon dioxide, nitrogen, and helium.{
+	=%100%methane#
+}
+
+
+// question: 30011  name: HAQ30011 
+::HAQ30011::[html]Producer gas is a generic term that refers to a number of ................. gases such as wood gas, town gas, and syngas.{
+	=%100%manufactured#
+}
+
+
+// question: 30012  name: HAQ30012 
+::HAQ30012::[html]Wood gas is a hydrogen and methane gas created by a process of thermal ................. of wood or some other biomass. {
+	=%100%gasification#
+}
+
+
+// question: 30013  name: HAQ30013 
+::HAQ30013::[html]Town gas or Coal gas is mostly methane and it is made either by the carbonization or gasification of ..................{
+	=%100%coal#
+}
+
+
+// question: 30014  name: HAQ30014 
+::HAQ30014::[html]Almost all materials except the ................. are removed from Natural Gas during processing prior to its use as an automotive fuel.{
+	=%100%methane#
+}
+
+
+// question: 30015  name: HAQ30015 
+::HAQ30015::[html]In fuel ................., hydrogen can be used to generate electricity to power an electric motor, which in turn powers the vehicle.{
+	=%100%cells#
+}
+
+
+// question: 30016  name: HAQ30016 
+::HAQ30016::[html]LNG has around three and a half times the fuel density of Compressed Natural Gas and is significantly .................  in fuel storage mass.{
+	=%100%lighter#
+}
+
+
+// question: 30017  name: HAQ30017 
+::HAQ1091::[html]At normal operating temperatures and pressures, LPG will ..................{
+	=%100%evaporate#
+}
+
+
+// question: 30018  name: HAQ30018 
+::HAQ30018::[html]Fuel methanol is normally sold as a blend of 85% methanol and 15% unleaded premium gasoline/petrol, known as ..................{
+	=%100%M85#
+	=%100%m85#
+}
+
+
+// question: 30019  name: HAQ30019 
+::HAQ30019::[html]Ethanol, is also known as grain alcohol and is produced by fermenting ................., most commonly corn or sugar cane.{
+	=%100%biomass#
+}
+
+
+// question: 30020  name: HAQ30020 
+::HAQ30020::[html].................-fuel vehicles are capable of running on either gasoline/petrol or natural gas, though some modifications are required for them to run efficiently.{
+	=%100%Dual#
+	=%100%dual#
+}
+
+
+// question: 30021  name: HAQ30021 
+::HAQ30021::[html]In a Compressed Natural Gas vehicle the exhaust is frequently more visible because the exhaust is more ..................{
+	=%100%humid#
+}
+
+
+// question: 30022  name: HAQ30022 
+::HAQ30022::[html]Natural gas as a fuel causes ................. wear and tear on engine components than traditional gasoline/petrol.{
+	=%100%more#
+}
+
+
+// question: 30023  name: HAQ30023 
+::HAQ30023::[html]There are three types of CI engine systems that can use natural gas.  In a ................. CI system, the diesel injectors remain in place and the engine can still run on 100% diesel fuel if necessary.{
+	=%100%Dual Fuel#
+	=%100%dual fuel#
+	=%100%Dual fuel#
+}
+
+
+// question: 30024  name: HAQ30024 
+::HAQ30024::[html]There are three types of CI engine systems that can use natural gas.  In a ................. system, both diesel fuel and natural gas are injected directly into the combustion chamber, almost at the same time.{
+	=%100%High Pressure NG#
+	=%100%high pressure ng#
+	=%100%High-Pressure NG#
+	=%100%High-pressure NG#
+}
+
+
+// question: 30025  name: HAQ30025 
+::HAQ30025::[html]Using natural gas fuel in a High-Pressure NG system means that engine ................. is no longer a problem, and the compression ratios for the engine do not need to be altered.{
+	=%100%knock#
+}
+
+
+// question: 30026  name: HAQ30026 
+::HAQ30026::[html]When using natural gas in a CI engine, there are three main methods. In a ................. Fuel system, the diesel injectors are replaced with spark plugs, and the NG fuel remixed with air before intake occurs.{
+	=%100%single#
+}
+
+
+// question: 30027  name: HAQ30027
+::HAQ30027::[html]When using natural gas in a CI engine, there are three main methods. In a Dual-Fuel system, the more NG fuel used, the ................. likely the engine is to 'knock'.{
+	=%100%more#
+}
+
+
+// question: 30028  name: HAQ30028 
+::HAQ30028::[html]When using natural gas in a CI engine, there are three main methods. In a High-Pressure Natural Gas system, when some natural gas is used together with a smaller proportion of diesel, very little unburnt fuel enters the ................. system, and the gaseous emissions are greatly reduced.{
+	=%100%exhaust#
+}
+
+
+// question: 30029  name: HAQ30029 
+::HAQ30029::[html]All gases can be liquefied at extremely low temperatures. These liquid gases are commonly known as .................  fluids.{
+	=%100%cryogenic#
+}
+
+
+// question: 30030  name: HAQ30030 
+::HAQ1104::[html]LNG is ................. and not easily detectable.{
+	=%100%odorless#
+	=%100%odourless#
+}
+
+
+// question: 30031  name: HAQ30031 
+::HAQ1105::[html]The LNG fuel tanks and their supports are designed to withstand ................. g acceleration in all directions.{
+	=%100%8#
+	=%100%eight#
+}
+
+
+// question: 30032  name: HAQ30032 
+::HAQ30032::[html]The LNG storage unit is designed to hold static vacuum for many years, but if through damage or accident vacuum is lost, then the heat insulation will be lost and the outer shell will become significantly ................. than the ambient outside temperature.{
+	=%100%colder#
+}
+
+
+// question: 30033  name: HAQ30033 
+::HAQ30033::[html]................. fitted to the inner tank minimize the excessive movement of the liquidized gas while the vehicle is in motion.{
+	=%100%baffles#
+}
+
+
+// question: 30034  name: HAQ30034 
+::HAQ30034::[html]Liquefied Petroleum Gas, also known as LP gas or LPG, is a fuel made from varying proportions of several hydrocarbons, principally propane and .................. {
+	=%100%butane#
+}
+
+
+// question: 30035  name: HAQ30035 
+::HAQ1109::[html]LPG is stored at normal temperatures under moderate pressure as a ..................{
+	=%100%liquid#
+}
+
+
+// question: 30036  name: HAQ30036 
+::HAQ30037::[html]There are two types of LPG storage container, portable ................. cylinders, and permanently mounted tanks.{
+	=%100%universal#
+}
+
+
+// question: 30037  name: HAQ30037 
+::HAQ30037::[html]LPG tanks are normally made of a heavy gauge ................., as are the fuel lines and pressure safety valves used to supply the fuel to the vehicle system.{
+	=%100%steel#
+}
+
+
+// question: 30038  name: HAQ30038 
+::HAQ30038::[html]A ................. is fitted in an LPG system that lets fuel flow when the engine is running but shuts off the fuel supply as soon as the ignition is turned off.{
+	=%100%fuel lock#
+}
+
+
+// question: 30039  name: HAQ30039 
+::HAQ1113::[html]CNG has an energy density that is 25% lower than diesel fuel, and 42% lower than ..................{
+	=%100%LNG#
+}
+
+
+// question: 30040  name: HAQ30040 
+::HAQ1113::[html]A CNG pressure cell assembly includes a ................. activated pressure relief device, a manual safety shut-off valve, and a way of connecting the fuel storage system to a power source and a refueling adapter. {
+	=%100%thermally#
+}
+
+
+// question: 30041  name: HAQ30041 
+::HAQ30041::[html]A CNG tank ................. be mounted underneath a vehicle if the tank is then the lowest part of the vehicle when the suspension is fully depressed.  {
+	=%100%cannot#
+	=%100%can't#
+	=%100%should not#
+	=%100%shouldn't#
+}
+
+
+// question: 30042  name: HAQ30042 
+::HAQ30042::[html]The CNG tank should also be mounted so that the multi-turn valve is facing inboard away from any heat or ignition source, or is protected with a substantial ..................{
+	=%100%shield#
+}
+
+
+// question: 30043  name: HAQ30043 
+::HAQ30043::[html]There must also be an insulator such as nylon or ................. between the CNG tank and its mounting bracket to protect it from movement wear and corrosion.{
+	=%100%neoprene#
+}

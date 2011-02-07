@@ -1,0 +1,59 @@
+// question: 31245  name: HAQ2925 
+::HAQ2925::[html]Stop lights are red lights fitted to the .............................. of the vehicle.{
+	=%100%rear#
+}
+
+
+// question: 31246  name: HAQ2926 
+::HAQ2926::[html]When the operator of the vehicle depresses the brake pedal, a switch mounted on the pedal support is ..............................{
+	=%100%closed#
+}
+
+
+// question: 31247  name: HAQ2927 
+::HAQ2927::[html]When the driver releases the .............................., it returns to the rest position and open circuits the stoplight circuit.{
+	=%100%pedal#
+	=%100%brake pedal#
+}
+
+
+// question: 31248  name: HAQ2928 
+::HAQ2928::[html]The reversing lights are white lights fitted to the rear of a vehicle. They provide the driver with vision behind the vehicle at night, and also alert other drivers to the fact that the vehicle is to be ..............................{
+	=%100%reversed#
+}
+
+
+// question: 31249  name: HAQ2929 
+::HAQ2929::[html]When the ignition switch is on and the vehicle is placed in reverse gear current flows from the battery, through the ignition switch, to the closed reversing light switch on the ..............................{
+	=%100%transmission#
+}
+
+
+// question: 31250  name: HAQ2930 
+::HAQ2930::[html]A column mounted switch, operated by the driver, directs a pulsing .............................. to the indicator lights on one side of the vehicle or the other.{
+	=%100%current#
+}
+
+
+// question: 31251  name: HAQ2931 
+::HAQ2931::[html]Once activated, indicators continue until the switch is cancelled either by the operator or by a cancelling mechanism in the ..............................{
+	=%100%switch#
+}
+
+
+// question: 31252  name: HAQ2932 
+::HAQ2932::[html]If the indicator switch is turned on, the flasher unit uses a timing .............................. to pulse the current flowing out of the flasher unit 60 to 120 times per minute.{
+	=%100%circuit#
+}
+
+
+// question: 31253  name: HAQ2933 
+::HAQ2933::[html]Modern headlights are electrically operated, positioned in pairs, one or two on each side of the .............................. of a moving vehicle.{
+	=%100%front#
+}
+
+
+// question: 31254  name: HAQ2934 
+::HAQ2934::[html]A headlamp system is required to produce a low and a .............................. beam, which may be achieved either by an individual lamp for each function or by a single multifunction lamp.{
+	=%100%high#
+}

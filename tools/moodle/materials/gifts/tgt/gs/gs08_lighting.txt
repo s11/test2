@@ -1,0 +1,43 @@
+//name:TQ1151
+::TQ1151::1) What is bulb power measured in? and 2) What does this indicate?{
+	=1) Watts, 2) power consumption.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Volts, 2) EMF.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Volts, 2) current flow.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~1) Watts, 2) brightness.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+}
+
+
+//name:TQ1152
+::TQ1152::A lamp filament does not burn out because air in the lamp is replaced with:{
+	=inert gas.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~oxygen.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~air.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+	~nitrogen.#The inert gas ensures there is no atmosphere present to support the burning of the filament.
+}
+
+
+//name:TQ1153
+::TQ1153::Bulb filaments are normally made from:{
+	=tungsten.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~aluminum.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~steel.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+	~copper.#Inert gas in the bulb envelope ensures the tungsten filament does not burn out at high temperatures.
+}
+
+
+//name:TQ1154
+::TQ1154::The power consumed by headlight bulbs is normally measured in:{
+	=watts.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~volts.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~amps.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+	~ohms.#Power measured in watts is the rate of doing work. For bulbs this means the higher the wattage the more light given off by the bulb.
+}
+
+
+//name:TQ1155
+::TQ1155::A 24V 21W bulb consumes more power than a 12 V 21W bulb.{
+	=FALSE#21 watt refers to the rate at which the bulb does work. Bulbs are designed to use energy as defined by their rated wattage at a certain voltage. Both bulbs are doing the same amount of work.
+	~TRUE#21 watt refers to the rate at which the bulb does work. Bulbs are designed to use energy as defined by their rated wattage at a certain voltage. Both bulbs are doing the same amount of work.
+}
+
+

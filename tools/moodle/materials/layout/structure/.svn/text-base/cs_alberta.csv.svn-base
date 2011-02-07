@@ -1,0 +1,85 @@
+menu,cdx_menu_name,map,shortname,category,test_type,test_type_abbr,quiz,qn_category
+alb,Alberta,CDX Alberta 5.1 Quizzes & Tests,lv1modes,LV 1 - Modes & Mechanisms,Practice Exam,PE,LV 1 - Modes & Mechanisms,51LV1modesPE
+,,,,,Final Exam,FE,LV 1 - Modes & Mechanisms,51LV1modesFE
+,,,lv1toolsmaterials,LV 1 - Tools & Materials,Practice Exam,PE,LV 1 - Tools & Materials,51LV1toolsPE
+,,,,,Final Exam,FE,LV 1 - Tools & Materials,51LV1toolsPE
+,,,lv1vehicleservice,LV 1 - Vehicle Service,Practice Exam,PE,LV 1 - Vehicle Service,51LV1vehservicePE
+,,,,,Final Exam,FE,LV 1 - Vehicle Service,51LV1vehserviceFE
+,,,lv1enginefund,LV 1 - Engine Fundamentals,Practice Exam,PE,LV 1 - Engine Fundamentals,51LV1engfundPE
+,,,,,Final Exam,FE,LV 1 - Engine Fundamentals,51LV1engfundFE
+,,,lv1elecfund,LV 1 - Electrical Fundamentals,Practice Exam,PE,LV 1 - Electrical Fundamentals,51LV1elecfundPE
+,,,,,Final Exam,FE,LV 1 - Electrical Fundamentals,51LV1elecfundFE
+,,,lv1pneumatic,LV 1 - Pneumatics & Hydraulics,Practice Exam,PE,LV 1 - Pneumatics & Hydraulics,51LV1pneumaticPE
+,,,,,Final Exam,FE,LV 1 - Pneumatics & Hydraulics,51LV1pneumaticFE
+,,,lv1mechanical,LV 1 - Mechanical Systems,Practice Exam,PE,LV 1 - Mechanical Systems,51LV1mechanicalPE
+,,,,,Final Exam,FE,LV 1 - Mechanical Systems,51LV1mechanicalFE
+,,,lv1controlsys,LV 1 - Control Systems,Practice Exam,PE,LV 1 - Control Systems,51LV1controlsysPE
+,,,,,Final Exam,FE,LV 1 - Control Systems,51LV1controlsysFE
+,,,lv2maintenance,LV 2 - Vehicle Maintenance,Practice Exam,PE,LV 2 - Vehicle Maintenance,51LV2maintenancePE
+,,,,,Final Exam,FE,LV 2 - Vehicle Maintenance,51LV2maintenanceFE
+,,,lv2cooling,LV 2 - Lubrication & Cooling,Practice Exam,PE,LV 2 - Lubrication & Cooling,51LV2coolingPE
+,,,,,Final Exam,FE,LV 2 - Lubrication & Cooling,51LV2coolingFE
+,,,lv2fuelexhaust,LV 2 - Fuel & Exhaust Systems,Practice Exam,PE,LV 2 - Fuel & Exhaust Systems,51LV2fuelexhaustPE
+,,,,,Final Exam,FE,LV 2 - Fuel & Exhaust Systems,51LV2fuelexhaustFE
+,,,lv2altfuels,LV 2 - Alt Fuel Engines,Practice Exam,PE,LV 2 - Alt Fuel Engines,51LV2altfuelsPE
+,,,,,Final Exam,FE,LV 2 - Alt Fuel Engines,51LV2altfuelsFE
+,,,lv2ignition,LV 2 - Ignition Systems,Practice Exam,PE,LV 2 - Ignition Systems,51LV2ignitionPE
+,,,,,Final Exam,FE,LV 2 - Ignition Systems,51LV2ignitionFE
+,,,lv2eleccomp,LV 2 - Electrical Components,Practice Exam,PE,LV 2 - Electrical Components,51LV2eleccompPE
+,,,,,Final Exam,FE,LV 2 - Electrical Components,51LV2eleccompFE
+,,,lv2powerassist,LV 2 - Power Assist Accessories,Practice Exam,PE,LV 2 - Electrical Components,51LV2powerassisPE
+,,,,,Final Exam,FE,LV 2 - Electrical Components,51LV2powerassisFE
+,,,lv2brakes,LV 2 - Braking Systems,Practice Exam,PE,LV 2 - Braking Systems,51LV2brakesPE
+,,,,,Final Exam,FE,LV 2 - Braking Systems,51LV2brakesFE
+,,,lv2hydraulics,LV 2 - Hydraulic Accessories,Practice Exam,PE,LV 2 - Hydraulic Accessories,51LV2hydraulicPE
+,,,,,Final Exam,FE,LV 2 - Hydraulic Accessories,51LV2hydraulicFE
+,,,lv2driveline,LV 2 - Drive Line,Practice Exam,PE,LV 2 - Drive Line,51LV2drivelinePE
+,,,,,Final Exam,FE,LV 2 - Drive Line,51LV2drivelineFE
+,,,lv2trans,LV 2 - Trans/Transaxles,Practice Exam,PE,LV 2 - Trans/Transaxles,51LV2transPE
+,,,,,Final Exam,FE,LV 2 - Trans/Transaxles,51LV2transFE
+,,,lv2suspension,LV 2 - Suspension Systems,Practice Exam,PE,LV 2 - Suspension Systems,51LV2suspensionPE
+,,,,,Final Exam,FE,LV 2 - Suspension Systems,51LV2suspensionFE
+,,,lv2steering,LV 2 - Steering Systems,Practice Exam,PE,LV 2 - Steering Systems,51LV2steeringPE
+,,,,,Final Exam,FE,LV 2 - Steering Systems,51LV2steeringFE
+,,,lv2enginediag,LV 3 - Engine Diagnosis,Practice Exam,PE,LV 3 - Engine Diagnosis,51LV2enginediagPE
+,,,,,Final Exam,FE,LV 3 - Engine Diagnosis,51LV2enginediagFE
+,,,lv3enginetune,LV 3 - Engine Tune-Up,Practice Exam,PE,LV 3 - Engine Tune-Up,51LV3enginetunePE
+,,,,,Final Exam,FE,LV 3 - Engine Tune-Up,51LV3enginetuneFE
+,,,lv3enginereplace,LV 3 - Engine Replacement,Practice Exam,PE,LV 3 - Engine Replacement,51LV3enginereplacePE
+,,,,,Final Exam,FE,LV 3 - Engine Replacement,51LV3enginereplaceFE
+,,,lv3altenergy,LV 3 - Alternate Energy Systems,Practice Exam,PE,LV 3 - Alternate Energy Systems,51LV3altenergyPE
+,,,,,Final Exam,FE,LV 3 - Alternate Energy Systems,51LV3altenergyFE
+,,,lv3computer,LV 3 - Computer Systems,Practice Exam,PE,LV 3 - Computer Systems,51LV3computerPE
+,,,,,Final Exam,FE,LV 3 - Computer Systems,51LV3computerFE
+,,,lv3safety,LV 3 - Safety Systems,Practice Exam,PE,LV 3 - Safety Systems,51LV3safetyPE
+,,,,,Final Exam,FE,LV 3 - Safety Systems,51LV3safetyFE
+,,,lv3climate,LV 3 - Climate Control,Practice Exam,PE,LV 3 - Climate Control,51LV3climatePE
+,,,,,Final Exam,FE,LV 3 - Climate Control,51LV3climateFE
+,,,lv3powerassist,LV 3 - Power Assisting,Practice Exam,PE,LV 3 - Power Assisting,51LV3powerassistPE
+,,,,,Final Exam,FE,LV 3 - Power Assisting,51LV3powerassistFE
+,,,lv3automatic,LV 3 - Automatic Transmissions,Practice Exam,PE,LV 3 - Automatic Transmissions,51LV3automaticPE
+,,,,,Final Exam,FE,LV 3 - Automatic Transmissions,51LV3automaticFE
+,,,lv3driverepair,LV 3 - Drive Train Repair,Practice Exam,PE,LV 3 - Drive Train Repair,51LV3driverepairPE
+,,,,,Final Exam,FE,LV 3 - Drive Train Repair,51LV3driverepairFE
+,,,lv3wheelalign,LV 3 - Wheel Alignment,Practice Exam,PE,LV 3 - Wheel Alignment,51LV3wheelalignPE
+,,,,,Final Exam,FE,LV 3 - Wheel Alignment,51LV3wheelalignFE
+,,,lv4basictools,LV 4 - Basic Tools & Materials,Practice Exam,PE,LV 4 - Basic Tools & Materials,51LV4basictoolsPE
+,,,,,Final Exam,FE,LV 4 - Basic Tools & Materials,51LV4basictoolsFE
+,,,lv4elecfund,LV 4 - Electrical Fundamentals,Practice Exam,PE,LV 4 - Electrical Fundamentals,51LV4elecfundPE
+,,,,,Final Exam,FE,LV 4 - Electrical Fundamentals,51LV4elecfundFE
+,,,lv4elecdiag,LV 4 - Electrical Circuits & Diagnosis,Practice Exam,PE,LV 4 - Electrical Circuits & Diagnosis,51LV4elecdiagPE
+,,,,,Final Exam,FE,LV 4 - Electrical Circuits & Diagnosis,51LV4elecdiagFE
+,,,lv4frames,"LV 4 - Frames, Suspension & Steering Linkages",Practice Exam,PE,"LV 4 - Frames, Suspension & Steering Linkages",51LV4framesPE
+,,,,,Final Exam,FE,"LV 4 - Frames, Suspension & Steering Linkages",51LV4framesFE
+,,,lv4manualsteer,LV 4 - Manual & Power Steering,Practice Exam,PE,LV 4 - Manual & Power Steering,51LV4manualsteerPE
+,,,,,Final Exam,FE,LV 4 - Manual & Power Steering,51LV4manualsteerFE
+,,,lv4restraint,"LV 4 - Steer Angles, Col & Restraint",Practice Exam,PE,"LV 4 - Steer Angles, Col & Restraint",51LV4restraintPE
+,,,,,Final Exam,FE,"LV 4 - Steer Angles, Col & Restraint",51LV4restraintFE
+,,,lv4brakes1,LV 4 - Braking Systems I,Practice Exam,PE,LV 4 - Braking Systems I,51LV4brakes1PE
+,,,,,Final Exam,FE,LV 4 - Braking Systems I,51LV4brakes1FE
+,,,lv4brakes2,LV 4 - Braking System II,Practice Exam,PE,LV 4 - Braking System II,51LV4brakes2PE
+,,,,,Final Exam,FE,LV 4 - Braking System II,51LV4brakes2FE
+,,,lv4brakes3,LV 4 - Braking System III,Practice Exam,PE,LV 4 - Braking System III,51LV4brakes3PE
+,,,,,Final Exam,FE,LV 4 - Braking System III,51LV4brakes3FE
+,,,lv4driveline,LV 4 - Drivelines & Introduction to Welding,Practice Exam,PE,LV 4 - Drivelines & Introduction to Welding,51LV4drivelinePE
+,,,,,Final Exam,FE,LV 4 - Drivelines & Introduction to Welding,51LV4drivelineFE

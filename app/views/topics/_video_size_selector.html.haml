@@ -1,0 +1,14 @@
+-# We only want to display the selector if it's configured to display WMVs and size selection has been enabled
+- if !current_client.prefers_flash_video? && current_client.prefers_video_size_selection?
+  - remote_form_for(current_user, :url => update_video_size_profile_path, :html => { :id => :video_size_form }) do |f|
+    #videosize
+      = f.select :video_size, [["LAN", 1], ["Cable", 2], ["Dialup", 3]]
+
+- content_for(:head) do
+  = javascript_include_tag 'ui-selectmenu'
+  = stylesheet_link_tag 'ui-selectmenu'
+
+- content_for(:onload) do
+  :plain
+    $('#user_video_size').change(function() { $('#video_size_form').submit(); });
+    $('#user_video_size').selectmenu({ style:'dropdown', width:175 });

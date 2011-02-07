@@ -1,0 +1,229 @@
+// question: 26444  name: HAQ0883 
+::HAQ0883::[html]There are two correct level marks on the reservoir because the coolant in the system expands and contracts in volume depending on how hot it is. The coolant level should be at the ................. mark when the vehicle is cold.{
+	=%100%lower#
+}
+
+
+// question: 26445  name: HAQ0884 
+::HAQ0884::[html]The coolant level should be at the ................. mark when the coolant is hot.{
+	=%100%upper#
+}
+
+
+// question: 26446  name: HAQ0885 
+::HAQ0885::[html]Most modern vehicles have a coolant system that uses a transparent recovery tank as a coolant .................{
+	=%100%reservoir#
+}
+
+
+// question: 26447  name: HAQ0886 
+::HAQ0886::[html]Before adding new coolant, check the specific gravity of the coolant in the system with a coolant .................{
+	=%100%hydrometer#
+}
+
+
+// question: 26448  name: HAQ0887 
+::HAQ0887::[html]When adjusting the fluid level, use a funnel to add enough coolant to bring the level up to the appropriate mark. Replace the coolant reservoir .................{
+	=%100%cap#
+}
+
+
+// question: 26449  name: HAQ0888 
+::HAQ0888::[html]Some vehicles have drain plugs on the side of the engine .................{
+	=%100%block#
+}
+
+
+// question: 26450  name: HAQ0889 
+::HAQ0889::[html]Locate the cooling system drain plug or valve on the bottom tank of the .................{
+	=%100%radiator#
+}
+
+
+// question: 26451  name: HAQ0890 
+::HAQ0890::[html]Open the drain valve so that the coolant can drain into the pan below. When all the coolant has drained out, ................. the drain valve.{
+	=%100%close#
+}
+
+
+// question: 26452  name: HAQ0891 
+::HAQ0891::[html]Air can be trapped in the cooling system, so leave the radiator cap off to allow it to escape, and run the engine for a few minutes to allow the coolant to circulate and get rid of trapped .................{
+	=%100%air#
+}
+
+
+// question: 26453  name: HAQ0892 
+::HAQ0892::[html]Check the coolant level in the reservoir and top it up to the high or ................. engine mark.{
+	=%100%hot#
+}
+
+
+// question: 26454  name: HAQ0893 
+::HAQ0893::[html]Always ensure the engine is turned '.................' before attempting to check the radiator hoses.{
+	=%100%off#
+}
+
+
+// question: 26455  name: HAQ0894 
+::HAQ0894::[html]Locate both the hoses that carry coolant between the radiator and the engine. One is at the top and the other is at the bottom of the .................{
+	=%100%radiator#
+}
+
+
+// question: 26456  name: HAQ0895 
+::HAQ0895::[html]Drain the coolant from the system ................. removing either of the hoses. Remove the clamp using the appropriate tool.{
+	=%100%before#
+}
+
+
+// question: 26457  name: HAQ0896 
+::HAQ0896::[html]When replacing a coolant hose, obtain new hoses and compare them with the removed hoses to make sure they are the same length and .................{
+	=%100%diameter#
+}
+
+
+// question: 26458  name: HAQ0897 
+::HAQ0897::[html]Apply some ................. to the hose fittings and place the loosened clamps over the hose ends before sliding the hose into position on the block and radiator fittings.{
+	=%100%sealing compound#
+}
+
+
+// question: 26463  name: HAQ0898 
+::HAQ0898::[html]Place a drain pan below the radiator and remove the ................. Drain the coolant from the system.{
+	=%100%drain plug#
+}
+
+
+// question: 26464  name: HAQ0899 
+::HAQ0899::[html]Carefully remove any hoses that are attached to the ................. Unscrew any cowlings or covers from the radiator.{
+	=%100%radiator#
+}
+
+
+// question: 26465  name: HAQ0900 
+::HAQ0900::[html]Refit the cowlings or covers. Rotate the ................. and belts by hand to check the covers do not restrict movement.{
+	=%100%fan#
+}
+
+
+// question: 26466  name: HAQ0901 
+::HAQ0901::[html]Run the engine to circulate the coolant and remove any ................. trapped in the system.{
+	=%100%air#
+}
+
+
+// question: 26467  name: HAQ0902 
+::HAQ0902::[html]Check that the temperature indicator gauge shows the coolant temperature is in the normal operational range. Top up the radiator or ................. with coolant if necessary.{
+	=%100%reservoir#
+}
+
+
+// question: 26468  name: HAQ0903 
+::HAQ0903::[html]Coolant in the cooling system could be ................. its boiling point.{
+	=%100%above#
+}
+
+
+// question: 26469  name: HAQ0904 
+::HAQ0904::[html]Make sure the thermostat is fully seated in the groove and stays there before fitting the housing. Tighten the housing bolts to the correct .................{
+	=%100%torque#
+}
+
+
+// question: 26470  name: HAQ0905 
+::HAQ0905::[html]Remove the thermostat by unbolting the thermostat housing from the engine .................{
+	=%100%block#
+}
+
+
+// question: 26471  name: HAQ0906 
+::HAQ0906::[html]Fit the new thermostat, ensuring the air bleed hole is in the correct position. Check the thermostat is fully seated in its .................{
+	=%100%groove#
+}
+
+
+// question: 26472  name: HAQ0907 
+::HAQ0907::[html]Check that the temperature indicator gauge shows the coolant temperature is in the normal operational range. Top up the radiator or ................. with coolant if necessary.{
+	=%100%reservoir#
+}
+
+
+// question: 26473  name: HAQ0908 
+::HAQ0908::[html]Never try to inspect belts with the engine .................{
+	=%100%running#
+}
+
+
+// question: 26474  name: HAQ0909 
+::HAQ0909::[html]A V-type belt has a profile that looks like the photo below, and sits inside    a deep v-shaped groove in the ................. wheel.{
+	=%100%pulley#
+}
+
+
+// question: 26475  name: HAQ0910 
+::HAQ0910::[html]When a V-type belt becomes very worn, the bottom of the V-shape may contact the ................. of the  groove in the pulley, preventing the sides of the belt from making good contact with the sides of the pulley groove.{
+	=%100%bottom#
+}
+
+
+// question: 26476  name: HAQ0911 
+::HAQ0911::[html]Check the belt ................. by attaching the tension gauge to the longest belt span, and pulling it to measure the tension.{
+	=%100%tension#
+}
+
+
+// question: 26477  name: HAQ0912 
+::HAQ0912::[html]Select the correct wrench to loosen the tension adjustment fastener. This is usually on the ................. mounting or on a separate idler pulley wheel.{
+	=%100%alternator#
+}
+
+
+// question: 26478  name: HAQ0913 
+::HAQ0913::[html]Serpentine-type belts have a flat profile with a number of grooves running lengthwise along the belt. These grooves are the exact reverse of the grooves in the outer edge of the ................. wheels.{
+	=%100%pulley#
+}
+
+
+// question: 26479  name: HAQ0914 
+::HAQ0914::[html]Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic ................. tensioning system.{
+	=%100%spring#
+}
+
+
+// question: 26481  name: HAQ0916 
+::HAQ0916::[html]Tension the belt using a wrench and a pry bar, then check it with a ................. With automatic tension systems, gently allow this to apply the tension to the belt.{
+	=%100%tension gauge#
+}
+
+
+// question: 26482  name: HAQ0917 
+::HAQ0917::[html]Start the engine, and observe the belt to make sure that it is properly seated and operating correctly. Stop the engine again, and recheck the .................{
+	=%100%tension#
+}
+
+
+// question: 26459  name: HAQ3709 
+::HAQ3709::[html]When working around the cooling system, care must be taken particularly if the engine is at operating temperature, as the ................. may be hot enough to scald.{
+	=%100%coolant#
+}
+
+
+// question: 26460  name: HAQ3710 
+::HAQ3710::[html]To test the cooling system for both internal and external leaks, a pressure tester is normally used. These are often referred to as cooling system testers or .................{
+	=%100%analysers#
+	=%100%analyzers#
+}
+
+
+// question: 26461  name: HAQ3711 
+::HAQ3711::[html]If you need to replace a pressure cap, use only a cap with the correct recommended ................. If a cap with a lower pressure rating is fitted, it will lower the boiling point of the coolant.{
+	=%100%pressure#
+}
+
+
+// question: 26462  name: HAQ3712 
+::HAQ3712::[html]The outside of the radiator cap should be marked with its operating pressure. When this pressure is reached, the pressure relief valve in the cap will allow a discharge into the ................. system.{
+	=%100%overflow#
+}
+
+

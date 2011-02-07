@@ -1,0 +1,54 @@
+//name:TQ0886
+::TQ0886::Technician A says that an over-fill condition may result in fluid foaming and damage to the transmission clutch packs. Technician B says that an under-fill condition may result in fluid foaming and damage to the transmission clutch packs. Who is correct?{
+	=Technician A.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+	~Technician B.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+	~Both Technician A & Technician B.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+	~Neither Technician A or Technician B.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+}
+
+
+//name:TQ0887
+::TQ0887::Technician A says that the transmission fluid should be checked when the transmission is at ambient temperature.  Technician B says the transmission must be in the 'D' position.  Who is correct?{
+	=Technician A.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+	~Technician B.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+	~Both Technician A & Technician B.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+	~Neither Technician A or Technician B.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+}
+
+
+//name:TQ0888
+::TQ0888::When checking the transmission fluid level, it is necessary to move the transmission selector through all the gear selections.  What other action is necessary?{
+	=Apply the foot brake.#Apply the foot brake and move the transmission selector through all the gear selections.
+	~Hold the engine at 3000 RPM.#Apply the foot brake and move the transmission selector through all the gear selections.
+	~Make sure the engine is NOT running.#Apply the foot brake and move the transmission selector through all the gear selections.
+	~Turn the steering from lock to lock.#Apply the foot brake and move the transmission selector through all the gear selections.
+}
+
+
+//name:TQ0889
+::TQ0889::When changing the transmission fluid the relpacement fluid should be:{
+	=the correct specification and quantity as recommended by the manufacturer.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+	~heavy duty hydraulic fluid.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+	~the same viscosity as the engine oil.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+	~added after the engine is started.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+}
+
+
+//name:TQ0890
+::TQ0890::What is the procedure for draining the transmission fluid if there is no drain plug?{
+	=Loosen and remove all but 3 fasteners and let the fluid flow from the holes.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+	~Drill a drain hole with an electric drill so the fluid can drain from it.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+	~Remove the transmission and drain the fluid from the filler tube.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+	~Loosen all the pan bolts and lower the pan into the drain container.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+}
+
+
+//name:TQ0891
+::TQ0891::Technician A says that a small amount of metal components in then pan is normal.  Technician B says that metal filters can be cleaned and reused.  Who is correct?{
+	=Technician A.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+	~Technician B.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+	~Both Technician A & Technician B.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+	~Neither Technician A or Technician B.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+}
+
+

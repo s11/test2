@@ -1,0 +1,206 @@
+// question: 26072  name: HAQ3585 
+::HAQ3585::[html]It is very important to perform a temporary test build up of the ................. assembly.{
+	=%100%rotating#
+}
+
+
+// question: 26073  name: HAQ3586 
+::HAQ3586::[html]All of the crankshaft ................. should have been inspected and reground if necessary.{
+	=%100%journals#
+}
+
+
+// question: 26074  name: HAQ3587 
+::HAQ3587::[html]The cylinder ................. and all related valve train components should also be clean, refurbished or new.{
+	=%100%heads#
+}
+
+
+// question: 26075  name: HAQ3588 
+::HAQ3588::[html]In most cases its best to have the camshaft ................. installed by the machine shop.{
+	=%100%bearings#
+}
+
+
+// question: 26076  name: HAQ3589 
+::HAQ3589::[html]Make sure that all the oil holes in the bearings line up with the oil ................. holes in the block.{
+	=%100%feed#
+}
+
+
+// question: 26077  name: HAQ3590 
+::HAQ3590::[html]When you get to the last set of lobes, reach inside the block and steady the rear as the camshaft slides in. You can also reach in the hole in the back where the cam ................. was before.{
+	=%100%plug#
+}
+
+
+// question: 26078  name: HAQ3591 
+::HAQ3591::[html]If you see shiny areas or darker spots that look like metal was rubbing on metal, you'll have to scrape at those high points of the soft metal with a Bearing Scraper. After you scrape a little of it off, you'll have to reinstall the ................. and check it for smooth rotation.{
+	=%100%cam#
+}
+
+
+// question: 26079  name: HAQ3592 
+::HAQ3592::[html]Don't ................. on the bearings you should be able to press them all in by hand.{
+	=%100%hammer#
+}
+
+
+// question: 26080  name: HAQ3593 
+::HAQ3593::[html]Wipe out the ................. of the block and then press the bearings into place by hand.{
+	=%100%saddles#
+}
+
+
+// question: 26081  name: HAQ3594 
+::HAQ3594::[html]Every engine has one main journal that will have a ................. Bearing installed in it.{
+	=%100%thrust#
+}
+
+
+// question: 26082  name: HAQ3595 
+::HAQ3595::[html]Never directly hammer on a crankshaft, but put a hammer or block of wood against the crank ................. on the back and tap it with another hammer.{
+	=%100%flange#
+}
+
+
+// question: 26083  name: HAQ3596 
+::HAQ3596::[html]It's usually much easier to install the timing gear with the ................. upside down.{
+	=%100%block#
+}
+
+
+// question: 26084  name: HAQ3597 
+::HAQ3597::[html]If the timing set on your engine has a smaller gear that does not slide on and seat easily by hand, it needs to be pressed on. Use a brass ................. so it won't scar the face of the gear.{
+	=%100%punch#
+}
+
+
+// question: 26085  name: HAQ3598 
+::HAQ3598::[html]For ................. style timing sets, all three pieces will slide on together at once while the timing marks are lined up.{
+	=%100%slip-on#
+}
+
+
+// question: 26086  name: HAQ3599 
+::HAQ3599::[html]For test assembly don't install the piston .................{
+	=%100%rings#
+}
+
+
+// question: 26087  name: HAQ3600 
+::HAQ3600::[html]When preparing to test install the pistons, spin the crank so the furthest ................. rod journals are facing up, and disable the rotation of the crank.{
+	=%100%forward#
+}
+
+
+// question: 26088  name: HAQ3601 
+::HAQ3601::[html]Pinch the rear flange of the crank shaft with some vice grips and then tie or tape the pliers to the engine stand, or install the ................. or flexplate and disable its rotation in a similar way.{
+	=%100%flywheel#
+}
+
+
+// question: 26089  name: HAQ3602 
+::HAQ3602::[html]Don't forget to line up the ................. in the rod and the cap on the same side as each other.{
+	=%100%tangs#
+}
+
+
+// question: 26090  name: HAQ3603 
+::HAQ3603::[html]Look at the cam lobes as they rotate to make sure that none of the piston ................. interfere with the camshaft lobes.{
+	=%100%skirts#
+}
+
+
+// question: 26091  name: HAQ3604 
+::HAQ3604::[html]It's a good idea to get a brand new oil ................. for each rebuild.{
+	=%100%pump#
+}
+
+
+// question: 26092  name: HAQ3605 
+::HAQ3605::[html]Make sure the pickup tube is centered and the ................. is square against the lip on the tube.{
+	=%100%wrench#
+}
+
+
+// question: 26093  name: HAQ3606 
+::HAQ3606::[html]The manufacturers of press-on pumps usually say that it's acceptable to bang the pick-up into place with the pump installed and tightened on the block. They also don't generally recommend that you ................. the pick-up in place on the block.{
+	=%100%weld#
+}
+
+
+// question: 26094  name: HAQ3607 
+::HAQ3607::[html]If the engine has hydraulic lifters you will need to get a set of ................. lifters to perform a piston to valve clearance check.{
+	=%100%solid#
+}
+
+
+// question: 26095  name: HAQ3608 
+::HAQ3608::[html]If the camshaft has been changed in the rebuild, it is essential to perform a piston to valve clearance check. To do this, you need to assemble the valve train for the number one cylinder, so that you can check to make sure that the ................. isn't opening the valves too far.{
+	=%100%camshaft#
+}
+
+
+// question: 26096  name: HAQ3609 
+::HAQ3609::[html]Put the gaskets on dry with no ................. for the valve clearance check.{
+	=%100%sealer#
+}
+
+
+// question: 26097  name: HAQ3610 
+::HAQ3610::[html]Make two balls of modeling clay, one for each valve. Stick them to the piston in the upper valve reliefs that are cut into the top of the piston. Cover them with a little oil to keep the ................. from sticking to the clay when they make an imprint in it.{
+	=%100%valves#
+}
+
+
+// question: 26098  name: HAQ3611 
+::HAQ3611::[html]When you feel the point where the pushrod tightens up, you'll be at zero lash which means that all the slack has been taken out. Now adjust the ................. rocker arm in the same way.{
+	=%100%exhaust#
+}
+
+
+// question: 26099  name: HAQ3612 
+::HAQ3612::[html]Carefully check gaskets as you fit them for any ................. marks.{
+	=%100%orientation#
+}
+
+
+// question: 26100  name: HAQ3613 
+::HAQ3613::[html]Use extreme caution when you remove the ................., as it is very easy to scratch good new bearings.{
+	=%100%camshaft#
+}
+
+
+// question: 26101  name: HAQ3614 
+::HAQ3614::[html]Occasionally, while the motor is rotated upside down, the oil pump drive rod won't seat correctly. Rotate it until the ................. drops into place.{
+	=%100%distributor#
+}
+
+
+// question: 26102  name: HAQ3615 
+::HAQ3615::[html]Check the valve cover ................. to make sure that they also fit.{
+	=%100%gaskets#
+}
+
+
+// question: 26103  name: HAQ3616 
+::HAQ3616::[html]Ensure all holes are plugged or ................. to prevent paint from getting into the engine.{
+	=%100%masked#
+}
+
+
+// question: 26104  name: HAQ3617 
+::HAQ3617::[html]It is not necessary to coat any ................. parts of the engine as they resist corrosion well, but any pressed steel covers or cast iron pieces should have a coat of high temperature rated engine paint.{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 26105  name: HAQ3618 
+::HAQ3618::[html]When all the masking is done, wipe all the surfaces to be painted with ................. thinner to prep the surface and remove any grease residue.{
+	=%100%lacquer#
+}
+
+
+

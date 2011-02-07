@@ -1,0 +1,108 @@
+//name:TQ1056
+::TQ1056::A 4-stroke 4-cylinder engine runs at 2400 RPM. In one minute the distributor contacts will open and close:{
+	=4800 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+	~9600 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+	~2400 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+	~1200 times.#For each engine revolution two cylinders fire therefore at 2400 RPM the breakers open and close 4800 times.
+}
+
+
+//name:TQ1057
+::TQ1057::An excessive distributor dwell angle in contact breaker ignition systems can be corrected by:{
+	=increasing the contact gap.#This has the effect of reducing the time the points are closed.
+	~decreasing the contact gap.#This has the effect of reducing the time the points are closed.
+	~advancing the ignition timing.#This has the effect of reducing the time the points are closed.
+	~retarding the ignition timing.#This has the effect of reducing the time the points are closed.
+}
+
+
+//name:TQ1058
+::TQ1058::The dwell angle is the number of degrees of distributor rotation that the:{
+	=breaker points are closed.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~breaker points are open.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~rotor turns between sparks.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~engine cranks over before starting.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+}
+
+
+//name:TQ1059
+::TQ1059::Exciter diodes are used in some alternators to:{
+	=supply current from phase windings to rotor.#The rotor is the field winding so the exciter diodes provide field current.
+	~connect phase windings to rectifier diodes.#The rotor is the field winding so the exciter diodes provide field current.
+	~start alternator charging.#The rotor is the field winding so the exciter diodes provide field current.
+	~indicate the alternator is charging.#The rotor is the field winding so the exciter diodes provide field current.
+}
+
+
+//name:TQ1060
+::TQ1060::A magnetic field surrounds the coil when:{
+	=the ignition switch is on and the points are closed.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~the ignition switch is on and the points are open.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~the ignition switch is off and the points are open.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+	~the ignition switch is off and the points are closed.#Current flow through a winding produces a magnetic field surrounding the winding. In a vehicle ignition coil the period in which the points are closed and current flows is known as the dwell period.
+}
+
+
+//name:TQ1061
+::TQ1061::A spark occurs at the spark plug when the contact points:{
+	=open.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+	~close.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+	~ignition switch is turned on.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+	~ignition switch is turned off.#When the points open current flow through the coil stops causing the magnetic field around the coil to collapse which induces a high secondary voltage producing a spark.
+}
+
+
+//name:TQ1062
+::TQ1062::The capacitor in the ignition system assists in ensuring the spark is:{
+	=maintained for 2-3 Degrees of crankshaft rotation.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+	~maintained for 15-20 Degrees of crankshaft rotation.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+	~stopped quickly.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+	~extinguished.#When the points open the capacitor continually charges and discharges into the ignition coil. This cause the current flow to oscillate through the ignition coil ensuring the spark is maintained for 2 -3 degrees of crankshaft rotation.
+}
+
+
+//name:TQ1063
+::TQ1063::The voltage output of the secondary windings compared to the primary winding is approximately:{
+	=100 times more.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+	~1,000 times more.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+	~10 times more.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+	~the same.#This is approximately the same as the ratio between the number of turns of wire between the primary and secondary windings.
+}
+
+
+//name:TQ1064
+::TQ1064::A ballast resistor fitted to a coil ignition system is by-passed during engine cranking to ensure that:{
+	=maximum battery voltage is applied to the coil.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+	~maximum current is supplied to the starter motor.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+	~ignition timing is advanced to aid starting.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+	~it is not burned out by the high starter current.#This ensures higher secondary winding output is available to create a spark during cranking of the engine.
+}
+
+
+//name:TQ1065
+::TQ1065::The device which reduces voltage to the coil and assists the coil to produce a high output under adverse conditions is the:{
+	=ballast resistor.#When by-passed during startup the ballast resistor aids in engine cold starts.
+	~ignition switch.#When by-passed during startup the ballast resistor aids in engine cold starts.
+	~distributor cap.#When by-passed during startup the ballast resistor aids in engine cold starts.
+	~breaker points.#When by-passed during startup the ballast resistor aids in engine cold starts.
+}
+
+
+//name:TQ1066
+::TQ1066::The power flow through the primary circuit is from: {
+	=the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.#The power flow through the primary circuit in an ignition system is from:
+	~the positive terminal of the battery, ignition switch, negative terminal of the ignition coil, positive terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.#The power flow through the primary circuit is from the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.
+	~the negative terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.#The power flow through the primary circuit is from the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.
+	~the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker fixed contact point, the moving contact point, to ground.#The power flow through the primary circuit is from the positive terminal of the battery, ignition switch, positive terminal of the ignition coil, negative terminal of the ignition coil to the contact breaker moving contact point, the fixed contact point, to ground.
+}
+
+
+//name:TQ1067
+::TQ1067::Technician A says centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  Technician B says as engine speed increases there is more time for the mixture to be ignited.  Who is correct?{
+	=Technician A.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+	~Technician B.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+	~Both Technician A and Technician B.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+	~Neither Technician A or Technician B.#Technician A is correct. Centrifugal advance is the speed-sensitive mechanism of the distributor and vacuum advance is the load-sensitive mechanism.  As engine speed increases there is LESS time for the mixture to be ignited.
+}
+
+

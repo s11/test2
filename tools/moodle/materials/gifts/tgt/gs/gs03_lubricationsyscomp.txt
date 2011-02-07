@@ -1,0 +1,43 @@
+//name:TQ1679
+::TQ1679::Which is the most common oil filtering system employed on automotive vehicles?{
+	=Full flow.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~By-Pass.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~Half-pass.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+	~Treble-pass.#Most engines have an oil filtering system on the output side of the oil pump. The oil filter is normally of a full-flow type that is also fitted with a by-pass valve to ensure that if the filter becomes blocked an amount of lubricant can by-pass the filter and prevent oil starvation to the bearings. Failure to incorporate such a feature in the system would cause a catastrophic failure if the filter became clogged.
+}
+
+
+//name:TQ1680
+::TQ1680::The red oil light comes on during driving. This indicates:{
+	=the oil pressure is below normal.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+	~the oil pressure is too high.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+	~the oil pan is short of oil.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+	~the engine oil needs changing.#An oil warning light is designed to provide the driver with an indication if there is very low oil pressure when the engine is running. The lamp which normally illuminates when the ignition is switched on and goes out when the engine is started, should not normally come back on whilst the engine is running. If it does, then the engine should be switched off immediately and a process of diagnosis undertaken to ascertain the fault.
+}
+
+
+//name:TQ1685
+::TQ1685::Which component acts as a reservoir of oil for the engine?{
+	=The sump or oil pan.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+	~The rocker cover.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+	~The crankcase.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+	~The cylinder block.#The sump or oil pan is a reservoir, or storage container, for the engine lubricating oil, and a collector for oil returning from the engine lubricating system.
+}
+
+
+//name:TQ1686
+::TQ1686::One of the functions of the sump is to act as a:{
+	=reservoir of oil for the engine.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+	~the rocker cover.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+	~the crankcase.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+	~the cylinder block.#It is a reservoir, or storage container, for the engine lubricating oil and a collector for oil returning from the engine lubricating system.
+}
+
+
+//name:TQ1690
+::TQ1690::The job of the oil pump is to:{
+	=deliver oil under pressure to internal engine parts.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+	~create a vacuum in the oil sump.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+	~heat the lubricating oil.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+	~filter and clean the engine oil.#There are a number of differing types of oil pump design and drive configurations. The oil pump ensures adequate lubrication of moving parts of the engine.
+}

@@ -1,0 +1,108 @@
+// question: 25416  name: HAQ0658 
+::HAQ0658::[html]The cylinder block is the largest part of the engine. Its upper section carries the cylinders and .................{
+	=%100%pistons#
+}
+
+
+// question: 25417  name: HAQ0659 
+::HAQ0659::[html]The cylinder block can be cast in one piece from grey iron, or it can be alloyed with other metals like nickel or .................{
+	=%100%chromium#
+}
+
+
+// question: 25418  name: HAQ0660 
+::HAQ0660::[html]All cylinder blocks are made with ribs, webs and fillets to provide rigidity but also keep weight to a .................{
+	=%100%minimum#
+}
+
+
+// question: 25419  name: HAQ0661 
+::HAQ0661::[html]As more manufacturers try to make vehicles lighter and more fuel efficient, more and more engine blocks are being cast from .................{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 25420  name: HAQ0662 
+::HAQ0662::[html]Grooves on the outside of the liners form a key that stops any movement in the cylinder. They also increase surface ................. to assist heat transfer from the sleeve to the block.{
+	=%100%area#
+}
+
+
+// question: 25421  name: HAQ0663 
+::HAQ0663::[html]When the cylinders, block and crankcase are all cast together, it is called a ................. construction.{
+	=%100%monoblock#
+	=%100%mono block#
+	=%100%mono-block#
+}
+
+
+// question: 25422  name: HAQ0664 
+::HAQ0664::[html]A horizontally-opposed block has a split crankcase. The two engine blocks are joined together by the ................. of the crankcase.{
+	=%100%flanges#
+}
+
+
+// question: 25423  name: HAQ0665 
+::HAQ0665::[html]In air-cooled engines, the cylinders are usually made as separate parts, then bolted to the same ................. Each cylinder has cooling fins.{
+	=%100%crankcase#
+}
+
+
+// question: 25428  name: HAQ0666 
+::HAQ0666::[html]There are three main types of sleeves - dry, flanged dry, and .................{
+	=%100%wet#
+}
+
+
+// question: 25429  name: HAQ0667 
+::HAQ0667::[html]The dry sleeve can be cast in or pressed into a new block, or used to recondition badly-worn or damaged cylinders that can't easily be re-bored. It's a pressed fit in its bore in the cylinder .................{
+	=%100%blocks#
+}
+
+
+// question: 25430  name: HAQ0668 
+::HAQ0668::[html]With a wet sleeve, the outer surface is part of the ................. around the cylinder.{
+	=%100%waterjacket#
+	=%100%water jacket#
+	=%100%water-jacket#
+}
+
+
+// question: 25431  name: HAQ0669 
+::HAQ0669::[html]Grey iron is a cast iron that contains ................. in the form of graphite, plus silicon, manganese and phosphorus.{
+	=%100%carbon#
+}
+
+
+// question: 25432  name: HAQ0670 
+::HAQ0670::[html]The fractured surface of a cast iron with graphite appears ................., hence the name.{
+	=%100%grey#
+}
+
+
+// question: 25424  name: HAQ3464 
+::HAQ3464::[html]The cylinder block is the ................. part of the engine.{
+	=%100%largest#
+}
+
+
+// question: 25425  name: HAQ3465 
+::HAQ3465::[html]All cylinder blocks are made with ribs, webs and fillets to provide ................. but also keep weight to a minimum.{
+	=%100%rigidity#
+}
+
+
+// question: 25426  name: HAQ3466 
+::HAQ3466::[html]The piston itself, its rings, and the piston pin, also known as the ................. pin, are together called the piston assembly.{
+	=%100%gudgeon#
+}
+
+
+// question: 25427  name: HAQ3467 
+::HAQ3467::[html]The big end of the connecting rod has a detachable cap, and carries 2 halves of the big end bearing. The big end is attached to the crankshaft at the ................. journal.{
+	=%100%crankpin#
+}
+
+
+

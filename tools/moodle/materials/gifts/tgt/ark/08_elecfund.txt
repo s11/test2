@@ -1,0 +1,115 @@
+//name:TQ0944
+::TQ0944::A material with more free electrons is commonly referred to as:{
+	=a conductor.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+	~a resistor.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+	~an insulator.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+	~a semi-conductor.#When electrons can move easily between atoms in a material it's a good conductor. Generally all metals are good conductors.
+}
+
+
+//name:TQ0945
+::TQ0945::All matter is made up of:{
+	=atoms.#An atom is the smallest component of an element having the chemical properties of that element.
+	~electrons.#An atom is the smallest component of an element having the chemical properties of that element.
+	~protons.#An atom is the smallest component of an element having the chemical properties of that element.
+	~nucleus.#An atom is the smallest component of an element having the chemical properties of that element.
+}
+
+
+//name:TQ0946
+::TQ0946::When an atom has an equal number of protons and electrons it is said to:{
+	=have no overall charge.#This is because the positive and negative charges cancel each other.
+	~have minimal charge.#This is because the positive and negative charges cancel each other.
+	~be overcharged.#This is because the positive and negative charges cancel each other.
+	~be undercharged.#This is because the positive and negative charges cancel each other.
+}
+
+
+//name:TQ0947
+::TQ0947::An excess of electrons will give the atom a:{
+	=negative charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+	~positive charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+	~neutral charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+	~atomic charge.#Electrons are negatively charged therefore an excess of these will provide an overall negative charge.
+}
+
+
+//name:TQ0948
+::TQ0948::Conventional current flow is from:{
+	=positive to negative.#This is an old theory of current flow. Modern theory uses electron current flow.
+	~AC to DC.#This is an old theory of current flow. Modern theory uses electron current flow.
+	~DC to AC.#This is an old theory of current flow. Modern theory uses electron current flow.
+	~negative to positive.#This is an old theory of current flow. Modern theory uses electron current flow.
+}
+
+
+//name:TQ0949
+::TQ0949::For electrons to move in a circuit they need a complete pathway and:{
+	=a force to make them move.#The force is called Electromotive Force (EMF).
+	~a rise in temperature.#The force is called Electromotive Force (EMF).
+	~insulators to hold them in.#The force is called Electromotive Force (EMF).
+	~a switch.#The force is called Electromotive Force (EMF).
+}
+
+
+//name:TQ0950
+::TQ0950::Two factors affect the strength of current flowing in a circuit. They are:{
+	=EMF and resistance.#EMF is measured in volts.
+	~resistance and protons.#EMF is measured in volts.
+	~EMF and protons.#EMF is measured in volts.
+	~EMF and neutrons.#EMF is measured in volts.
+}
+
+
+//name:TQ0951
+::TQ0951::Electron current flow is from:{
+	=negative to positive.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+	~AC to DC.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+	~DC to AC.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+	~positive to negative.#Modern theory uses electron current flow. Conventional current flow however is said to flow positive to negative.
+}
+
+
+//name:TQ0952
+::TQ0952::By using the vehicle chassis as a ground, the weight of the vehicle can be reduced.{
+	=TRUE#Since the chassis is made of metal and a redundant ground wire is also made of metal, using the chassis to ground a circuit removes weight and complexity within the automotive electrical system.
+	~FALSE#Since the chassis is made of metal, and a redundant ground wire is also made of metal, using the chassis to ground a circuit removes weight and complexity within the automotive electrical system.
+}
+
+
+//name:TQ0953
+::TQ0953::Technician A says semi conductors are made from 'N' and 'P' material.  Technician B says the electrical resistance of semi conductors is higher than that of an insulator.  Who is correct?{
+	=Technician A#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+	~Technician B#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+	~Both Technician A & Technician B.#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+	~Neither Technician A or Technician B.#Semi conductors are made from 'N' and 'P' material.  The electrical resistance of semi conductors is lower than that of an insulator.
+}
+
+
+//name:TQ0954
+::TQ0954::When the 'P' region of a diode is connected to a negative pole of a battery, and the 'N' region to a positive pole, the negative pole:{
+	=the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+	~the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+	~the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+	~the depletion layer is enlarged so current cannot flow across it.#When the 'P' region of a diode is connected to a negative pole of a battery, and the n region to a positive pole, the negative pole the depletion layer is enlarged so current cannot flow across it.
+}
+
+
+//name:TQ0955
+::TQ0955::Find the value of R if the voltage applied to a circuit is 14 V and the current flow is 2 A.{
+	=7 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+	~14 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+	~12 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+	~28 Ohms#If the voltage applied to a circuit is 14 V and the current flow is 2 A, the value of R is 7 Ohms.
+}
+
+
+//name:TQ0956
+::TQ0956::Find the power output of a circuit if the current is 2 A and the resistance is 7 Ohms.{
+	=28 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+	~14 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+	~9 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+	~98 W#The power output of a circuit carrying 2 A of current and a resistance of 7 Ohms is 28 W.
+}
+
+

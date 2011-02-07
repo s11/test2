@@ -1,0 +1,47 @@
+// question: 27122  name: HAQ1652 
+::HAQ1652::[html]The steering linkage is a combination of rods, and ..............................., that transmit the movement of the steering gear to the front wheels.{
+	=%100%arms#
+}
+
+
+// question: 27123  name: HAQ1653 
+::HAQ1653::[html]The steering linkage must transmit this movement to the front wheels, while still allowing for any up-and down movement they may make, while the vehicle is in ...............................{
+	=%100%motion#
+}
+
+
+// question: 27124  name: HAQ1654 
+::HAQ1654::[html]When the linkage is behind, it is protected by the ............................... from possible damage, and the position of the steering box reduces the length of the steering column.{
+	=%100%cross-member#
+	=%100%cross member#
+}
+
+
+// question: 27125  name: HAQ1655 
+::HAQ1655::[html]Ball joints are swivel connections mounted in the outer ends of the front control ..............................., and on the steering track rods and tie-rods.{
+	=%100%arms#
+}
+
+
+// question: 27126  name: HAQ1656 
+::HAQ1656::[html]Ball joints allow the control arms to move up and down with suspension deflection, and also let the wheel and hub assembly ............................... for steering.{
+	=%100%turn#
+}
+
+
+// question: 27127  name: HAQ1657 
+::HAQ1657::[html]Grease nipples can allow for periodic lubrication but most joints to-day are ............................... for life, and no regular  maintenance is required.{
+	=%100%sealed#
+}
+
+
+// question: 27128  name: HAQ1658 
+::HAQ1658::[html]In commercial vehicles, metallic bushes are commonly used as shackle bushes for leaf springs. Any force applied to the bush acts through it to the body of the vehicle, which results in a ............................... ride.{
+	=%100%harsher#
+}
+
+
+// question: 27129  name: HAQ1659 
+::HAQ1659::[html]Rubber requires no ...............................{
+	=%100%lubrication#
+}

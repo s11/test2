@@ -1,0 +1,28 @@
+!!!
+%html{ html_attrs }
+  %head
+    %meta{ 'http-equiv' => 'Content-Type', :content => 'text/html;charset=utf-8'  }
+    %meta{ 'http-equiv' => 'Content-Script-Type', :content => 'text/javascript'   }
+
+    - if protect_against_forgery?
+      %meta{:name => 'authenticity_token', :content => form_authenticity_token}
+
+    %title= h(@title || "CDX Online")
+
+    = stylesheet_link_tag 'blueprint/screen', :media => 'screen, projection'
+    = stylesheet_link_tag 'blueprint/print', :media => 'print'
+    /[if IE]
+      = stylesheet_link_tag 'blueprint/ie', :media => 'screen, projection'
+    = stylesheet_link_tag 'cupertino'
+
+    = javascript_include_tag :defaults
+
+  %body
+    .container
+      = yield
+
+- if yield(:onload)
+  :javascript
+    jQuery(function($) { 
+      #{ yield(:onload) }
+    });

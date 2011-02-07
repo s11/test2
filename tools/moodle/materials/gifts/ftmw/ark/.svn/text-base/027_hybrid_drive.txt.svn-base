@@ -1,0 +1,188 @@
+// question: 25172  name: HAQ0568 
+::HAQ0568::[html]A hybrid car or hybrid electric vehicle is a vehicle which relies not only on batteries but also on an internal combustion engine which drives a ................. to provide the electricity and may also drive the wheels directly.{
+	=%100%generator#
+}
+
+
+// question: 25173  name: HAQ0569 
+::HAQ0569::[html]A gasoline engine produces most of its torque at higher rpm, whereas the electric motor can produce maximum ................. at very low speeds.{
+	=%100%torque#
+}
+
+
+// question: 25174  name: HAQ0570 
+::HAQ0570::[html]Instead of the engine solely charging the batteries, the motor acts as a generator during ................., using the momentum of the car to generate electricity.{
+	=%100%braking#
+}
+
+
+// question: 25175  name: HAQ0571 
+::HAQ0571::[html]The internal combustion engine only serves as an on-board generator to supply power to the electric motor which provide the sole driving force to the wheels. This is referred to as a '................. Hybrid' system.{
+	=%100%series#
+}
+
+
+// question: 25177  name: HAQ0573 
+::HAQ0573::[html]What may convince commuters to 'think green' and make the switch to EVs will be vehicles which meet their needs, conveniently located charging ................., off-peak electric utility rates and lucrative tax incentives to offset vehicle cost.{
+	=%100%stations#
+}
+
+
+// question: 25179  name: HAQ0575 
+::HAQ0575::[html]Charging also occurs during coasting and (regenerative) .................; drag of the motor-turned-generator slows the vehicle and helps extend vehicle range by as much as 15%-20%.{
+	=%100%braking#
+}
+
+
+// question: 25180  name: HAQ0576 
+::HAQ0576::[html]Hybrid electric vehicles (HEVs) are somewhat similar to today's conventional automobile except for their two 'engines' (sources of .................).{
+	=%100%power#
+}
+
+
+// question: 25181  name: HAQ0578 
+::HAQ0578::[html]The series-hybrid system uses a small fuel-burning engine to drive a ................. for electricity-sent to one or more electric motors which drive the wheels.{
+	=%100%generator#
+}
+
+
+// question: 25182  name: HAQ0579 
+::HAQ0579::[html]In the parallel-hybrid system there are two power paths. Either the fuel burning (heat) engine, the electric propulsion system, or both, power the .................{
+	=%100%wheels#
+}
+
+
+// question: 25183  name: HAQ0580 
+::HAQ0580::[html]Hybrid vehicles use '................. or more energy conversion technologies.'{
+	=%100%2#
+	=%100%two#
+}
+
+
+// question: 25184  name: HAQ0581 
+::HAQ0581::[html]Often, an internal combustion or 'heat' engine (ICE) using gasoline or diesel fuel develops ................. power for traction and driving the on-board generator.{
+	=%100%primary#
+}
+
+
+// question: 25186  name: HAQ0583 
+::HAQ0583::[html]Hybrid gasoline engines (ICEs) feature electronic throttle controls, variable ................. timing, lean burn combustion designs, and more, making them more complex, and challenging!{
+	=%100%valve#
+}
+
+
+// question: 25187  name: HAQ0584 
+::HAQ0584::[html]The power inverter changes the battery pack's high voltage ................. into 3-phase AC for the drive motor(s), and the motor controller supplies the motor varying amounts of AC and voltage (in both directions) to determine vehicle speed and direction as requested by the motorist.{
+	=%100%DC#
+}
+
+
+// question: 25188  name: HAQ0585 
+::HAQ0585::[html]................. monitor what's happening in all areas for load management and safety. Before servicing even non-high voltage related systems, technicians should follow OE procedures if shutting off the vehicle's high voltage components.{
+	=%100%sensors#
+}
+
+
+// question: 25189  name: HAQ0586 
+::HAQ0586::[html]In series hybrid an internal combustion engine drives an .................{
+	=%100%alternator#
+}
+
+
+// question: 25190  name: HAQ0587 
+::HAQ0587::[html]A parallel hybrid system uses an efficient internal combustion engine to drive a ................. conventionally, but it also drives a flywheel mounted motor/generator, which charges a storage battery when the engine is turning.{
+	=%100%transmission#
+}
+
+
+// question: 25191  name: HAQ0588 
+::HAQ0588::[html]It is called a parallel hybrid system because the power flows to the wheels in 'parallel'. This means that energy from the ................. can be released, when needed, and delivered to the motor/generator to assist the engine in driving the transmission.{
+	=%100%battery#
+}
+
+
+// question: 25192  name: HAQ0589 
+::HAQ0589::[html]The series-parallel system combines the ................. hybrid system with the parallel hybrid system in order to maximize the benefits of both systems.{
+	=%100%series#
+}
+
+
+// question: 25193  name: HAQ0590 
+::HAQ0590::[html]The series-parallel hybrid system uses an electric motor to drive the vehicle at low loads and low ................. and the gasoline engine when loads and speeds increase.{
+	=%100%speeds#
+}
+
+
+// question: 25194  name: HAQ0591 
+::HAQ0591::[html]The electric motor and the gasoline engine can work individually, or ................., depending on the power required to drive the vehicle.{
+	=%100%together#
+}
+
+
+// question: 25195  name: HAQ0592 
+::HAQ0592::[html]A control unit determines the best balance of ................. and electric power to achieve the most efficient vehicle operation.{
+	=%100%engine#
+}
+
+
+// question: 25196  name: HAQ0593 
+::HAQ0593::[html]The electric motor uses power from a high voltage battery, which is charged by the internal combustion engine, and by reclaiming the waste energy of decelerating or .................{
+	=%100%braking#
+}
+
+
+// question: 25197  name: HAQ0594 
+::HAQ0594::[html]The internal combustion engine in a hybrid vehicle is designed to operate only within its most efficient operating range, typically between 2000 and ................. rpm.{
+	=%100%4500#
+	=%100%"4,500"#
+}
+
+
+// question: 25199  name: HAQ0596 
+::HAQ0596::[html]Mounted between the engine and motor is an epicyclic power divider that also functions as a constantly variable .................{
+	=%100%transmission#
+}
+
+
+// question: 25200  name: HAQ0597 
+::HAQ0597::[html]A sealed nickel metal hydride 200-300 volt ................. provides higher power output and is lighter than other battery types.{
+	=%100%battery#
+}
+
+
+// question: 25201  name: HAQ0598 
+::HAQ0598::[html]A small permanent magnet brushless motor/generator replaces the engine ................. It functions as the engine's starter motor and battery charger.{
+	=%100%flywheel#
+}
+
+
+// question: 25202  name: HAQ0599 
+::HAQ0599::[html]When the vehicle is moving off from a stationary position, and when travelling at ................. to moderate speeds, the main electric motor/generator drives the vehicle.{
+	=%100%low#
+}
+
+
+// question: 25203  name: HAQ0600 
+::HAQ0600::[html]During normal driving, the combustion engine starts and drives the generator and the power divider. Power from the generator is used to drive the electric .................{
+	=%100%motor#
+}
+
+
+// question: 25204  name: HAQ0601 
+::HAQ0601::[html]When ................., as well as using power from the combustion engine, the control unit draws power from the battery and directs it to the electric motor/generator, providing more power to the wheels than the combustion engine could supply on its own.{
+	=%100%accelerating#
+}
+
+
+// question: 25205  name: HAQ0602 
+::HAQ0602::[html]During deceleration and ................. the combustion engine is turned off. Inertia from the wheels drives the electric motor/generator, using the current produced to charge the battery.{
+	=%100%braking#
+}
+
+
+// question: 25206  name: HAQ0603 
+::HAQ0603::[html]The braking effect is achieved by using the electric motor/generator as a ................., which converts the vehicles momentum into electrical energy to charge the battery.{
+	=%100%retarder#
+}
+
+

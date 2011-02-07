@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/config/deploy
+svn://curfew.jbpub.com/online
+
+
+
+2010-02-08T20:58:28.379488Z
+3755
+paulm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+production.rb
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+1986c5522da9f8fc8033a5fb250f7397
+2010-01-27T14:22:14.655453Z
+3722
+paulm
+
+staging.rb
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+0d2473bc47f01a42d6f9b60d14a5039b
+2010-02-08T20:58:28.379488Z
+3755
+paulm
+

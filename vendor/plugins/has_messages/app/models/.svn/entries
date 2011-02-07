@@ -1,0 +1,52 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/has_messages/app/models
+svn://curfew.jbpub.com/online
+
+
+
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+message.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+e996a34174e134fcfc8a457cf38e79ae
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+
+message_recipient.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+a85c8f91672e700229790a6ad0fc7d9d
+2009-07-25T15:48:45.938903Z
+2909
+johnm
+

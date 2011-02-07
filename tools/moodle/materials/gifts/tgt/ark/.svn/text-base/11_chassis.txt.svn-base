@@ -1,0 +1,108 @@
+//name:TQ1348
+::TQ1348::Technician A says that liquids transmit force. Technician B says that liquids increase force. Who is correct?{
+	=Technician A.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+	~Technician B.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+	~Both Technician A and Technician B.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+	~Neither Technician A nor Technician B.#Technician A is correct because Pascal's Law states that if pressure is applied to a non-flowing fluid in a container then that pressure is transmitted equally in all directions within the container. If the size of the container is changed then the pressure and movement will also change in proportion with the change in size. Force is not amplified by the liquid.
+}
+
+
+//name:TQ1349
+::TQ1349::Asbestos is a heat-resistant material that is no longer used to manufacture insulations and brake linings because:{
+	=it causes a very dangerous form of cancer.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+	~much cheaper alternatives have been invented.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+	~it aggravates skin and other allergies.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+	~reliable supplies are no longer readily available.#Asbestos fiber or powder inhalation is now known to cause some very serious respiratory diseases, such as a lung fibrosis called 'asbestosis', and a very aggressive form of cancer called 'mesothelioma'. As a result, the use of asbestos has been banned in many countries.
+}
+
+
+//name:TQ1350
+::TQ1350::In a hydraulic system, 'bleeding' means:{
+	=removing any air from the system.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+	~the system has a slow leak.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+	~removing a proportion of the hydraulic fluid.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+	~topping up the system until the excess fluid 'bleeds' out.#When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Gases however are compressible. That is why if air enters a hydraulic braking system, the brakes will be spongy.
+}
+
+
+//name:TQ1351
+::TQ1351::The coefficient of friction:{
+	=measures the friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+	~reduces friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+	~increases the friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+	~eliminates the friction between two surfaces.#Friction is always measured for pairs of surfaces, using what is called a coefficient of friction. A low coefficient of friction for a pair of surfaces means they can move easily over each other. A high coefficient of friction for a pair of surfaces means they cannot move easily over each other.
+}
+
+
+//name:TQ1352
+::TQ1352::Dampening:{
+	=reduces the bouncing effect of oscillation.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+	~extends the allowed travel distance in coil springs.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+	~prevents universal steering joints from drying out.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+	~is the effect produced by the rubber stops at the ends of coil springs.#In vehicle suspension, a shock absorber reduces oscillation in the spring.
+}
+
+
+//name:TQ1353
+::TQ1353::Electronic stability control senses when a driver is losing control, and:{
+	=reduces engine speed, and applies brakes.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+	~controls steering, applies brakes, and reduces engine speed.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+	~controls steering and applies brakes.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+	~reduces engine speed and adjusts steering and suspension.#ESC cannot prevent a crash if the vehicle exceeds its physical limits, but it helps to make sure that the driver does not lose control of the vehicle under extreme conditions. ESC has been recognized in numerous studies as a very effective safety development.
+}
+
+
+//name:TQ1354
+::TQ1354::The helix is a shape:{
+	=described by an inclined plane wrapped around a cylinder#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+	~created by the intersection of a circle with a parabola.#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+	~formed by a series of concentric circles.#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+	~made by intertwining two  spirals with similar dimensions.#The helix shape is commonly used as a thread on nuts and bolts, and also for teeth in steering gears and transmissions.
+}
+
+
+//name:TQ1355
+::TQ1355::When pressure is applied in a hydraulic system:{
+	=the force delivered can vary but without loss of pressure.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+	~the force is always delivered without variation or loss of pressure.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+	~the force is delivered without variation but with some pressure loss due to fluid compression.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+	~the force delivered can vary but with some pressure loss due to fluid compression.#Hydraulic pressure is transmitted through liquid. Since liquid is effectively incompressible, pressure applied to a liquid is transmitted without loss throughout the liquid, and the force transmitted can be increased or decreased. 
+}
+
+
+//name:TQ1356
+::TQ1356::A lever with the fulcrum between the load and the effort is known as a: {
+	=lever of the first order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+	~lever of the second order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+	~lever of the third order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+	~lever of the fourth order.#An example of this type of lever is a crowbar. Another is the seesaw.  The effort required to move any load depends on the relative distance of each from the fulcrum. The ratio of load and effort is called Mechanical Advantage. 
+}
+
+
+//name:TQ1357
+::TQ1357::The force that causes a vehicle to slow down when the brakes are applied is:{
+	=a combination of rolling fiction and sliding friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+	~rolling friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+	~static friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+	~a combination of static friction and rolling friction.#Rolling friction occurs between a rolling object and the surface it is rolling on. Rolling friction effect is lower than sliding friction, but is still significant in vehicle performance.
+}
+
+
+//name:TQ1358
+::TQ1358::Traction control is a feature that:{
+	=reduces wheel spin during acceleration and braking.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+	~increases the effective friction of tires by dynamically adjusting wheel alignment geometry.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+	~reduces rolling friction during acceleration.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+	~is only fitted to 4WD and SUV vehicles for off-road use.#Traction control is a safety feature designed to reduce wheel spin under acceleration. It works in tandem with antilock brakes and is particularly useful on loose, wet, or icy surfaces.
+}
+
+
+//name:TQ1359
+::TQ1359::Components that form part of the unsprung weight of the vehicle typically include:{
+	=wheels, brakes, tires.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+	~wheels, brakes, chassis, springs.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+	~steering system, suspension system, wheels.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+	~body, chassis, engine, transmission.#Most of a vehicle's weight is supported by its suspension system. It suspends the body and associated parts so that they are insulated from road shocks and vibrations that would otherwise be transmitted to the passengers and the vehicle itself.
+}
+
+

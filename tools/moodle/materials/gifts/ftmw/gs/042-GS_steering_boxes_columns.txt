@@ -1,0 +1,47 @@
+// question: 25388  name: HAQ1622 
+::HAQ1622::[html]Helical gearing gives smoother and .............................. operation for the driver.{
+	=%100%quieter#
+}
+
+
+// question: 25389  name: HAQ1623 
+::HAQ1623::[html].............................. joints at the end of the rack locate the tie-rods and allow movement in the steering and suspension.{
+	=%100%ball#
+}
+
+
+// question: 25390  name: HAQ1624 
+::HAQ1624::[html]Mechanical advantage is gained by the .............................. ratio. The value of this ratio depends on the size of the pinion.{
+	=%100%reduction#
+}
+
+
+// question: 25391  name: HAQ1636 
+::HAQ1636::[html]Power steering helps to reduce the additional effort needed. It's of most benefit during slow cornering, and when ..............................{
+	=%100%parking#
+}
+
+
+// question: 25392  name: HAQ1637 
+::HAQ1637::[html]Power steering is designed so that even if system .............................. occurs, the vehicle can still be steered.{
+	=%100%failure#
+}
+
+
+// question: 25393  name: HAQ1638 
+::HAQ1638::[html]With the engine running, fluid flows .............................. from the power steering pump, to the steering gear, and back to the pump.{
+	=%100%continuously#
+}
+
+
+// question: 25394  name: HAQ1641 
+::HAQ1641::[html]At higher speeds, with no steering manoeuvres, fluid flow is ..............................{
+	=%100%increased#
+}
+
+
+// question: 25395  name: HAQ1642 
+::HAQ1642::[html]The power steering fluid pump is normally a .............................., with sufficient capacity for all operating conditions.{
+	=%100%vane-type#
+	=%100%vane type#
+}

@@ -1,0 +1,283 @@
+// question: 28012  name: HAQ1333 
+::HAQ1333::[html]...............  ensure the pickup tube is always submerged in fuel.{
+	=%100%Baffles#
+	=%100%baffles#
+}
+
+
+// question: 28013  name: HAQ1334 
+::HAQ1334::[html]............... must never be used on a diesel fuel tank, because diesel fuel reacts with zinc to produce powdery flakes that can block fuel filters.{
+	=%100%galvanising#
+	=%100%galvanizing#
+}
+
+
+// question: 28014  name: HAQ1335 
+::HAQ1335::[html]A diesel fuel tank should be kept full, to prevent water ................. on tank surfaces and contaminating the fuel.{
+	=%100%condensing#
+}
+
+
+// question: 28015  name: HAQ1336 
+::HAQ1336::[html]Fuel lines are usually made of seamless steel tubing, coated with tin to prevent rust. Sometimes ................. is used instead of tin.{
+	=%100%cadmium#
+}
+
+
+// question: 28016  name: HAQ1337 
+::HAQ1337::[html]The most efficient filtering system uses the first filter to  remove ................. particles.{
+	=%100%larger#
+}
+
+
+// question: 28017  name: HAQ1338 
+::HAQ1338::[html]The most efficient filtering system uses subsequent filters to remove ................. particles.{
+	=%100%smaller#
+}
+
+
+// question: 28018  name: HAQ1339 
+::HAQ1339::[html]The most common type of filter material in light diesel vehicles is resin-impregnated paper, pleated to offer a large surface area to the fuel. These filters are also considered the most .................{
+	=%100%efficient#
+}
+
+
+// question: 28019  name: HAQ1340 
+::HAQ1340::[html]Once through the filter, the small water droplets combine into larger droplets, and form a ................. layer in the base of the filter.{
+	=%100%sediment#
+}
+
+
+// question: 28020  name: HAQ1341 
+::HAQ1341::[html]3 types of lift pump are common on light vehicle diesel engines - the .................-type pump, the plunger pump, and the vane pump.{
+	=%100%diaphragm#
+}
+
+
+// question: 28021  name: HAQ1342 
+::HAQ1342::[html]The diaphragm-type pump can be mounted on the engine, or on the injection pump. It is fitted with inlet and outlet valves, and an ................. on a camshaft acts on a 2-piece rocker arm connected to a diaphragm.{
+	=%100%eccentric#
+}
+
+
+// question: 28022  name: HAQ1343 
+::HAQ1343::[html]Rotating the eccentric causes the rocker arm to pivot on its pin, and pull the diaphragm down. This compresses the diaphragm return spring, and ................. the volume in the pumping chamber above the diaphragm.{
+	=%100%increases#
+}
+
+
+// question: 28023  name: HAQ1344 
+::HAQ1344::[html]................. pressure at the fuel tank forces fuel along the fuel line, to open the inlet valve.{
+	=%100%Atmospheric#
+	=%100%atmospheric#
+}
+
+
+// question: 28024  name: HAQ1345 
+::HAQ1345::[html]A second type of lift pump in light vehicle applications is the plunger pump. It is mounted on the in-line injection pump, and it's driven by a ................. inside the in-line injection pump housing.{
+	=%100%cam#
+}
+
+
+// question: 28025  name: HAQ1346 
+::HAQ1346::[html]A vane pump is used in distributor type injection pumps. It is also known as a ................. pump.{
+	=%100%transfer#
+}
+
+
+// question: 28026  name: HAQ1347 
+::HAQ1347::[html]The transfer pump is mounted on the input shaft in distributor type injection, and pumps fuel whenever the distributor pump is driven by the .................{
+	=%100%engine#
+}
+
+
+// question: 28027  name: HAQ1348 
+::HAQ1348::[html]Since the rotor is ................., as it turns further, the volume between the vanes reduces, and fuel is squeezed out of the pump.{
+	=%100%offset#
+}
+
+
+// question: 28028  name: HAQ1349 
+::HAQ1349::[html]All diesel engines in light vehicle applications have a priming lever on the lift pump, or a separate priming pump to allow for removing air from the fuel system. This is called ................., or priming.{
+	=%100%bleeding#
+}
+
+
+// question: 28029  name: HAQ1350 
+::HAQ1350::[html]Without a priming facility, the start motor would have to crank the engine over, to bleed and prime the system. Excessive use of the starter motor for this purpose would damage it, and it would soon ................. the battery.{
+	=%100%discharge#
+}
+
+
+// question: 28030  name: HAQ1351 
+::HAQ1351::[html]................. valves connect the priming pump housing to the filter.{
+	=%100%Reed#
+	=%100%reed#
+}
+
+
+// question: 28031  name: HAQ1352 
+::HAQ1352::[html]Pulling the primer  plunger increases chamber volume, which ................. the pressure in the chamber below that of atmospheric.{
+	=%100%decreases#
+}
+
+
+// question: 28032  name: HAQ1353 
+::HAQ1353::[html]Some diesel engines use in-line injection pumps to meter, and raise the pressure of the fuel. The basic principle is for a plunger to act on a column of fuel, to lift an ................. needle off its seat.{
+	=%100%injector#
+}
+
+
+// question: 28033  name: HAQ1354 
+::HAQ1354::[html]The upper end of the plunger has a vertical groove, extending from its top to an annular groove. The top edge of this annular groove is cut in a helix, also called the .................{
+	=%100%control edge#
+}
+
+
+// question: 28034  name: HAQ1355 
+::HAQ1355::[html]As the camshaft rotates, the plunger is pushed past the ports. The highly ................. surfaces cause a sealing effect, trapping the fuel above the plunger.{
+	=%100%polished#
+}
+
+
+// question: 28035  name: HAQ1356 
+::HAQ1356::[html]The delivery valve has a relief plunger, and a ................. face which is held against its matching seat by the delivery valve spring.{
+	=%100%conical#
+}
+
+
+// question: 28036  name: HAQ1357 
+::HAQ1357::[html]The plunger is rotated by a control sleeve, a rack, and a pinion. Moving the rack rotates the pinion, the control sleeve, and then the plunger. The rack's movement is controlled by the .................{
+	=%100%governor#
+}
+
+
+// question: 28037  name: HAQ1358 
+::HAQ1358::[html]A ................. governor uses rotating fly weights to control movement of the fuel control rack against a spring.{
+	=%100%mechanical#
+}
+
+
+// question: 28038  name: HAQ1359 
+::HAQ1359::[html]On a mechanical governor, ................. force pushes out the weights, which push a sleeve against the spring.{
+	=%100%Centrifugal#
+	=%100%centrifugal#
+}
+
+
+// question: 28039  name: HAQ1360 
+::HAQ1360::[html]During idling, the governor prevents the engine from stalling. It also stops it from over-.................{
+	=%100%speeding#
+}
+
+
+// question: 28040  name: HAQ1361 
+::HAQ1361::[html]A ................. governor has a manifold-mounted venturi unit, linked by tubing to a sealed, diaphragm assembly on the in-line injection pump housing.{
+	=%100%pneumatic#
+}
+
+
+// question: 28041  name: HAQ1362 
+::HAQ1362::[html]The distributor-type pump uses a .................-type transfer pump to fill the single pumping element.{
+	=%100%vane#
+}
+
+
+// question: 28042  name: HAQ1363 
+::HAQ1363::[html]A drive shaft driven from the engine, rotates a plunger, and a cam disc. Cams on the face of the disc have as many lobes as ................. in the engine.{
+	=%100%cylinders#
+}
+
+
+// question: 28043  name: HAQ1364 
+::HAQ1364::[html]The lobes on the cam disc move the plunger to-and-fro in its barrel, making it rotate, and ................., at the same time.{
+	=%100%reciprocate#
+}
+
+
+// question: 28044  name: HAQ1365 
+::HAQ1365::[html]The governor changes the position of the control sleeve to vary the quantity of fuel delivered, according to ................. position and load.{
+	=%100%throttle#
+}
+
+
+// question: 28045  name: HAQ1366 
+::HAQ1366::[html]The injector assembly has several main parts. The nozzle   assembly is made up of a needle and body. A pressure ................. and spindle hold the needle on the seat in the nozzle body.{
+	=%100%spring#
+}
+
+
+// question: 28046  name: HAQ1367 
+::HAQ1367::[html]The highly pressurized fuel enters the engine at a high velocity, in an ................. spray.{
+	=%100%atomised#
+	=%100%atomized#
+}
+
+
+// question: 28047  name: HAQ1368 
+::HAQ1368::[html]Some of the fuel is allowed to leak between the nozzle needle and the body, to cool and ................. the injector.{
+	=%100%lubricate#
+}
+
+
+// question: 28048  name: HAQ1369 
+::HAQ1369::[html]Pintle nozzles are used in ................. injection engines, where the fuel has a comparatively short distance to travel and the air is not as compressed as in the main chamber.{
+	=%100%indirect#
+}
+
+
+// question: 28049  name: HAQ1370 
+::HAQ1370::[html]In the tip of the glow plug is a coil of a resistive wire or a ................. which heats up when electricity is connected.{
+	=%100%filament#
+}
+
+
+// question: 28050  name: HAQ1371 
+::HAQ1371::[html]In cold weather, and when the engine block, engine oil and cooling water are cold, the heat  generated during the first revolutions of the engine is ................. away by the cold surroundings, preventing ignition.{
+	=%100%conducted#
+}
+
+
+// question: 28051  name: HAQ1372 
+::HAQ1372::[html]Indirect-injection diesel engines are less thermally ................. due to the greater surface area of their combustion chambers and so suffer more from cold-start problems.{
+	=%100%efficient#
+}
+
+
+// question: 28052  name: HAQ1373 
+::HAQ1373::[html]Glow plug filaments must be made of materials such as ................. and iridium.{
+	=%100%platinum#
+}
+
+
+// question: 28053  name: HAQ1374 
+::HAQ1374::[html]Platinum and iridium are resistant both to heat and to ................. and reduction by the burning mixture.{
+	=%100%oxidation#
+}
+
+
+// question: 28054  name: HAQ1375 
+::HAQ1375::[html]For both Cummins Pressure Time System and the Detroit Diesel System, actuation is a result of an extra lobe on the engine ................. for each cylinder.{
+	=%100%camshaft#
+}
+
+
+// question: 28055  name: HAQ1376 
+::HAQ1376::[html]Cummins Pressure Time system - The amount of fuel that is injected at any particular time is controlled by adjusting the fuel ................. in the system.{
+	=%100%pressure#
+}
+
+
+// question: 28056  name: HAQ1377 
+::HAQ1377::[html]In the Detroit Diesel System, the amount of fuel that is injected is controlled by a small control ................. in the unit injector.{
+	=%100%rack#
+}
+
+
+// question: 28057  name: HAQ1378 
+::HAQ1378::[html]In the Detroit Diesel System, the control system in the unit injector is connected to the ................. system via a common rod that links all the unit injectors together.{
+	=%100%throttle#
+}
+
+
+

@@ -1,0 +1,106 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/acts_as_state_machine
+svn://curfew.jbpub.com/online
+
+
+
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+bf4114a3b02bfd02cfb35103841a1744
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+TODO
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+c7cdaf69a6ca8d84735e94c04d3e9b00
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+init.rb
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+331a772e6bc93e8bcc0b9121c864b7ae
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+6724b4ffea59678592fbc77bc283f30d
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+MIT-LICENSE
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+918aa567713910d9ca412696e9c3a12e
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+README
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+396c3550ac041e62a283247d43a06087
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+

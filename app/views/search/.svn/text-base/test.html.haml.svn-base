@@ -1,0 +1,4 @@
+-if @search.present? && @search.andand.length >= 0
+  Search succeeded; length: #{@search.length}
+-else
+  Search failure! (either search var didn't exist or result set had a length of zero or nil)

@@ -1,0 +1,124 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/public
+svn://curfew.jbpub.com/online
+
+
+
+2010-01-14T20:49:43.652367Z
+3702
+paulm
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+swfs
+dir
+
+samples
+dir
+
+images
+dir
+
+robots.txt
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+be860f6d2760c884906a9180451d799f
+2008-01-17T03:18:12.825737Z
+89
+johnm
+
+dashboard
+dir
+
+500.html
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+afc07b9a1221e2a75775eb0cb5a2cd0c
+2008-01-17T03:18:12.825737Z
+89
+johnm
+
+print_support
+dir
+
+javascripts
+dir
+
+404.html
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+adc851c2e0698b5d05ef0380ed69f6b9
+2008-01-17T03:18:12.825737Z
+89
+johnm
+
+422.html
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+c6bd78379a0ad92caa6cbef7de676ce8
+2008-01-17T03:18:12.825737Z
+89
+johnm
+
+.htaccess
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+efabcc9c4d4c5abeea2e1a17ff578c64
+2008-11-03T03:55:27.182928Z
+1731
+roberto
+
+pdfs
+dir
+
+stylesheets
+dir
+
+favicon.ico
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-01-17T03:18:12.825737Z
+89
+johnm
+

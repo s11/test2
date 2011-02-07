@@ -1,0 +1,40 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/prawnto/tasks
+svn://curfew.jbpub.com/online
+
+
+
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+prawnto_tasks.rake
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+40a0fad25afb9783a2a5c3d408abc266
+2009-11-02T03:39:59.785615Z
+3559
+johnm
+

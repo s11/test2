@@ -1,0 +1,102 @@
+// question: 32413  name: HAQ2851 
+::HAQ2851::[html]The rotor is an electromagnet that comprises the center of the .................{
+	=%100%alternator#
+}
+
+
+// question: 32414  name: HAQ2852 
+::HAQ2852::[html]The ends of the rotor coil are connected to insulated slip rings mounted on the shaft and spring loaded brushes maintain contact with the ................. at all times.{
+	=%100%slip rings#
+	=%100%slip-rings#
+}
+
+
+// question: 32415  name: HAQ2853 
+::HAQ2853::[html]When a current is passed through the slip rings and the coil winding, it establishes a north and south pole at the ends of the iron core and the .................{
+	=%100%shaft#
+}
+
+
+// question: 32416  name: HAQ2854 
+::HAQ2854::[html]The stator is mounted between two end brackets. It consists of a cylindrical, laminated iron core, which carries the 3-phase windings in slots on the inside. The windings are insulated from each other and also from the iron core. They form a large number of conductor loops which are each subjected to the rotating ................. field.{
+	=%100%magnetic#
+}
+
+
+// question: 32417  name: HAQ2855 
+::HAQ2855::[html]The stator is the fixed part of a rotating machine. The rotating part of the machine, or ................. normally rotates inside the stator. Examples of such machines are pumps and motors.{
+	=%100%rotor#
+}
+
+
+// question: 32418  name: HAQ2856 
+::HAQ2856::[html]The stator provides the external magnetic field and remains stationary while it surrounds the armature and contributes to the .................{
+	=%100%torque#
+}
+
+
+// question: 32419  name: HAQ2857 
+::HAQ2857::[html]The two end frames are normally made from ................., and form housings to accept the bearings, which support the rotor at the drive end, and at the slip-ring end.{
+	=%100%aluminium#
+	=%100%aluminum#
+}
+
+
+// question: 32420  name: HAQ2858 
+::HAQ2858::[html]................. are normally used at each end of the alternator.{
+	=%100%Ball-bearings#
+	=%100%Ball bearings#
+	=%100%ball bearings#
+	=%100%Ball-bearings#
+}
+
+
+// question: 32421  name: HAQ2859 
+::HAQ2859::[html]Slip rings are normally copper bands, molded onto an insulating material, then pressed on the steel shaft of the .................{
+	=%100%rotor#
+}
+
+
+// question: 32422  name: HAQ2860 
+::HAQ2860::[html]The brushes are made of a combination of copper and carbon, and are carried in brush holders mounted in the .................{
+	=%100%end frame#
+}
+
+
+// question: 32424  name: HAQ2862 
+::HAQ2862::[html]The diodes for rectification are mounted on heat sinks, in packs of .................{
+	=%100%three#
+	=%100%3#
+}
+
+
+// question: 32425  name: HAQ2863 
+::HAQ2863::[html]The negative diode heat sink is connected to the ................., and this allows the return circuit, via the battery negative terminal to be completed.{
+	=%100%frame#
+}
+
+
+// question: 32426  name: HAQ2864 
+::HAQ2864::[html]The rectifier assembly consists of 6 ................. each of which works like a valve to electric current, letting it pass in one direction but not the other.{
+	=%100%diodes#
+}
+
+
+// question: 32427  name: HAQ2865 
+::HAQ2865::[html]The alternator's cooling fan is a powerful centrifugal type. It is mounted on the rotor shaft, and may be an integral part of the drive pulley or part of the .................{
+	=%100%rotor#
+}
+
+
+// question: 32428  name: HAQ2866 
+::HAQ2866::[html]To get the maximum cooling affect, the alternator fan must be driven in the correct .................{
+	=%100%direction#
+}
+
+
+// question: 32429  name: HAQ2867 
+::HAQ2867::[html]The fan at the front of the alternators is an ................. fan.{
+	=%100%exhaust#
+}
+
+

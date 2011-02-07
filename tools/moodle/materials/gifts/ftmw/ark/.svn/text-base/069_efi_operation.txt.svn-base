@@ -1,0 +1,265 @@
+// question: 28186  name: HAQ1392 
+::HAQ1392::[html]A mode of injection describes the ................., and the sequence, of injecting fuel.{
+	=%100%timing#
+}
+
+
+// question: 28187  name: HAQ1393 
+::HAQ1393::[html]During each engine cycle, the injectors open twice, and each time they deliver half the fuel needs of each cylinder. This happens regardless of the position of the ................. valve.{
+	=%100%intake#
+}
+
+
+// question: 28188  name: HAQ1394 
+::HAQ1394::[html]The injectors are triggered by the ................. system.{
+	=%100%ignition#
+}
+
+
+// question: 28189  name: HAQ1395 
+::HAQ1395::[html]Sequential injection means injection for each cylinder occurs once per engine cycle. It is timed to each individual cylinder in the ................. order.{
+	=%100%firing#
+}
+
+
+// question: 28194  name: HAQ1396 
+::HAQ1396::[html]Base engine idle speed may be set by adjusting a ................. on the throttle body.{
+	=%100%screw#
+}
+
+
+// question: 28195  name: HAQ1397 
+::HAQ1397::[html]If more load is put on the engine during idle, its idle speed may fall to a level where the engine stalls. Higher load can be caused by extra ................. resistance that occurs in a cold engine.{
+	=%100%frictional#
+}
+
+
+// question: 28196  name: HAQ1398 
+::HAQ1398::[html]Higher load can be caused by ................. loads from headlights or the cooling fan.{
+	=%100%electrical#
+}
+
+
+// question: 28197  name: HAQ1399 
+::HAQ1399::[html]The extra air needed for a cold engine can come from an  Auxiliary Air Device, which can have a connecting hose from the intake air side to its controlling passageway, and a return hose to the ................. chamber.{
+	=%100%plenum#
+}
+
+
+// question: 28198  name: HAQ1400 
+::HAQ1400::[html]The auxiliary air device bypasses the throttle plate when it is operation, to provide the extra air. The control unit reacts to this additional air by metering additional .................{
+	=%100%fuel#
+}
+
+
+// question: 28199  name: HAQ1402 
+::HAQ1402::[html]During engine operation, the 3 pollutants enter the catalytic converter. How efficiently they are converted, depends on the composition of the exhaust gases. And that depends on the air-fuel mixture sent into the ................. for combustion.{
+	=%100%cylinder#
+}
+
+
+// question: 28200  name: HAQ1403 
+::HAQ1403::[html]If the air-fuel ratio supplied to the engine is too ................., then the nitrogen oxides are converted efficiently, but the carbon  monoxide and the hydrocarbons are not.{
+	=%100%rich#
+}
+
+
+// question: 28201  name: HAQ1404 
+::HAQ1404::[html]If the air-fuel mixture supplied to the engine is too ................., the opposite occurs. Carbon monoxide and hydrocarbons in the exhaust gas are converted efficiently, but not the nitrogen oxides.{
+	=%100%lean#
+}
+
+
+// question: 28202  name: HAQ1405 
+::HAQ1405::[html]Highly efficient conversions of all 3 pollutants occur only in a narrow range of air-fuel ratios. This range occurs around the ideal air-fuel ratio by mass, of 14.7 parts of air, to 1 part of fuel. This is called the ................. Point.{
+	=%100%Stoichiometric#
+	=%100%stoichiometric#
+}
+
+
+// question: 28203  name: HAQ1406 
+::HAQ1406::[html]The lambda sensor obtains information about the composition of exhaust gases. It's located in the exhaust ................., and it's connected to the control unit.{
+	=%100%manifold#
+}
+
+
+// question: 28204  name: HAQ1407 
+::HAQ1407::[html]When a cold engine starts, some of the fuel injected by the main injectors ................. on the cold intake port, or the cylinder walls.{
+	=%100%condenses#
+}
+
+
+// question: 28205  name: HAQ1408 
+::HAQ1408::[html]In some cases, during engine cranking, extra injection pulses in each revolution can provide the extra fuel. It depends on  engine temperature, and there is a time limit to prevent .................{
+	=%100%flooding#
+}
+
+
+// question: 28206  name: HAQ1409 
+::HAQ1409::[html]The cold-start injector is supplied with fuel under pressure from the fuel rail, and only operates when the engine is cranking. A switch called a ................. switch, immersed in engine coolant, completes the electrical circuit.{
+	=%100%thermotime#
+}
+
+
+// question: 28207  name: HAQ1410 
+::HAQ1410::[html]The control unit can help cold-starting and provide cranking enrichment by increasing the ................. of the injectors.{
+	=%100%pulse width#
+	=%100%pulsewidth#
+	=%100%pulse-width#
+}
+
+
+// question: 28208  name: HAQ1411 
+::HAQ1411::[html]Measuring airflow allows for changes in an engine that can  affect ................. efficiency, such as wear, combustion  chamber deposits and valve clearance.{
+	=%100%volumetric#
+}
+
+
+// question: 28209  name: HAQ1412 
+::HAQ1412::[html]The .................-type air-flow sensor is located between the air filter and the intake manifold. All the air drawn in by the engine is measured by this sensor. It's the main measurable variable for fuel control and metering.{
+	=%100%vane#
+}
+
+
+// question: 28210  name: HAQ1413 
+::HAQ1413::[html]A ................. converts the angular position of this flap into a corresponding voltage. This voltage becomes a signal, and it is transmitted to a control unit.{
+	=%100%potentiometer#
+}
+
+
+// question: 28211  name: HAQ1414 
+::HAQ1414::[html]The engine's intake strokes can cause the air-flow sensor to oscillate. This is counter-acted by a ................. flap.{
+	=%100%compensation#
+}
+
+
+// question: 28212  name: HAQ1415 
+::HAQ1415::[html]The bypass passageway around the idle speed control valve is varied for cold starting, and if the engine has extra loads such as ................. or air-conditioning.{
+	=%100%headlights#
+}
+
+
+// question: 28213  name: HAQ1416 
+::HAQ1416::[html]Variable ................. manifolds can vary the effective manifold length in 2 or 3 stages, to extend the torque curve over a wider RPM range.{
+	=%100%inertia#
+}
+
+
+// question: 28214  name: HAQ1417 
+::HAQ1417::[html]Manifold design is usually a compromise in order to keep the air-fuel mixture .................{
+	=%100%vaporised#
+	=%100%vaporized#
+}
+
+
+// question: 28215  name: HAQ1418 
+::HAQ1418::[html]Manifold design tends to limit the  advantages of EFI compared to a carburetted system, but useful gains can still be achieved in power, and in reduced .................{
+	=%100%emissions#
+}
+
+
+// question: 28216  name: HAQ1419 
+::HAQ1419::[html]As in a multi-point system, air entering the engine must be measured. This, together with the engine speed signal, provides the ECU with the basic information needed, to determine the ................. of the injector.{
+	=%100%pulse width#
+	=%100%pulsewidth#
+	=%100%pulse-width#
+}
+
+
+// question: 28217  name: HAQ1420 
+::HAQ1420::[html]The air intake manifold for an EFI multipoint engine normally has long branches of equal length. The long branches increase the ................. effect of the airflow in each pipe, and help charge the cylinders.{
+	=%100%pulsing#
+}
+
+
+// question: 28218  name: HAQ1421 
+::HAQ1421::[html]The characteristic torque curve of a naturally ................. engine depends mainly on how the engine's mean pressure changes across the RPM band.{
+	=%100%aspirated#
+}
+
+
+// question: 28219  name: HAQ1422 
+::HAQ1422::[html]The design of the inlet system largely determines the mass of air that can be drawn into a cylinder at a given engine speed, so that means the inlet system largely determines the engine's torque .................{
+	=%100%curve#
+}
+
+
+// question: 28220  name: HAQ1423 
+::HAQ1423::[html]Manifolds that respond to changes in engine load and speed by changing their effective length, are called variable ................., or intake charging systems.{
+	=%100%inertia#
+}
+
+
+// question: 28221  name: HAQ1424 
+::HAQ1424::[html]The ECU is a small computer, programmed with the operating ................. of each individual application. This information is stored in its memory.{
+	=%100%characteristics#
+}
+
+
+// question: 28222  name: HAQ1425 
+::HAQ1425::[html]The control unit processes input   signals, to determine the amount of ................. required by the engine at that instant.{
+	=%100%fuel#
+}
+
+
+// question: 28223  name: HAQ1426 
+::HAQ1426::[html]A basic EFI system needs input signals on: ignition switch operation, engine cranking, the amount of air entering the engine, engine coolant temperature, throttle ................. and engine speed, and battery voltage.{
+	=%100%position#
+}
+
+
+// question: 28224  name: HAQ1427 
+::HAQ1427::[html]The varying signals in an EFI system can be supplied by variable resistors, by switch contacts, by voltage pulses from the ................. system, or by sensors.{
+	=%100%ignition#
+}
+
+
+// question: 28225  name: HAQ1428 
+::HAQ1428::[html]The battery is grounded to the vehicle frame at the negative terminal. Its positive terminal is connected to a ................. relay, and to the ignition switch.{
+	=%100%tachometric#
+}
+
+
+// question: 28226  name: HAQ1429 
+::HAQ1429::[html]The fuel pump circuit is completed by grounding the fuel pump negative terminal to the ................. of the vehicle.{
+	=%100%frame#
+}
+
+
+// question: 28227  name: HAQ1430 
+::HAQ1430::[html]When the fuel pump operates, current flows from the battery, to the pump. It flows through the pump to rotate the ................., and completes the circuit by flowing from the negative terminal, through the vehicle frame, to the battery negative terminal.{
+	=%100%armature#
+}
+
+
+// question: 28228  name: HAQ1431 
+::HAQ1431::[html]Positive connections are made to a number of components from the tachometric relay. The relay only operates when the engine is ................., or running, so no current flows in any connecting wires at other times.{
+	=%100%cranking#
+}
+
+
+// question: 28190  name: HAQ3731 
+::HAQ3731::[html]EFI systems use electronically controlled ................. to spray the fuel.{
+	=%100%injectors#
+}
+
+
+// question: 28191  name: HAQ3732 
+::HAQ3732::[html]There are 2 basic systems - .................-body injection, also called single-point injection. And multi-point injection.{
+	=%100%throttle#
+}
+
+
+// question: 28192  name: HAQ3733 
+::HAQ3733::[html]Throttle-body injection sprays fuel into the ................. as it passes through to the intake manifold.{
+	=%100%air#
+}
+
+
+// question: 28193  name: HAQ3734 
+::HAQ3734::[html]A multi-point system has a a plenum chamber, or ................. chamber, to dampen the flow of air.{
+	=%100%surge#
+}
+
+
+

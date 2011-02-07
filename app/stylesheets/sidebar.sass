@@ -1,0 +1,61 @@
+@import topic_navigation.sass
+@import colour_legend.sass
+
+#sidebar
+  :float left
+  :width 200px
+  :margin 0.5em 1em 0 -100%
+  :padding 5px
+
+  a
+    :color #06346d
+    :display block
+    :font-weight bold
+    :padding 0.25em 0
+    &:hover
+      :color #800000
+      :text-decoration none
+
+  ul
+    :margin 0
+    :padding 0
+    :list-style none
+
+  li
+    :display inline
+    :margin 0
+    :padding 0
+
+  .ui-widget
+    :padding 0.5em 1em
+
+    & + .ui-widget
+      :margin-top 1em
+
+
+  #search
+    :font-weight bold
+
+  #content-menu, #information
+    a
+      &:hover
+        :color #800000
+        :text-decoration none
+
+  #menu, #content-level-menu
+    :padding 0
+    :margin 1em 0 0 0
+
+    div
+      :padding 0.5em
+      :margin 0
+    
+    .not-linked
+      a
+        :color #f00
+    
+    h3
+      :padding-left 2em
+    
+    ul + ul
+      :border-top 1px solid #ccc

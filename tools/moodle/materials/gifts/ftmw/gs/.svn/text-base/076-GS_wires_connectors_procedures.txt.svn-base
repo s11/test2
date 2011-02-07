@@ -1,0 +1,53 @@
+// question: 30207  name: HAQ2595 
+::HAQ2595::[html]The purpose of a wire stripping tool is to allow you to remove the .............................. from around the copper core of a cable without damaging the cable or yourself.{
+	=%100%insulation#
+}
+
+
+// question: 30208  name: HAQ2596 
+::HAQ2596::[html]Using side cutters or pliers can also be dangerous; and these are also less effective as they often cut away some of the strands of wire as well. This is known as .............................. the wire, which effectively reduces the current carrying capacity of the wire.{
+	=%100%ringing#
+}
+
+
+// question: 30209  name: HAQ2597 
+::HAQ2597::[html]Wire strippers can remove the insulation from different gauges of cable, so select the hole in the stripper that is closest to the .............................. of the core in the cable to be stripped.{
+	=%100%diameter#
+}
+
+
+// question: 30210  name: HAQ2598 
+::HAQ2598::[html]Installing a solderless terminal - Remove an appropriate amount of the protective .............................. from the wire. Always use a proper stripping tool that is in good condition.{
+	=%100%insulation#
+}
+
+
+// question: 30211  name: HAQ2599 
+::HAQ2599::[html]Select the proper .............................. for the connector or terminal selected. These are usually color-coded so it is easy to match the terminal with the right size.{
+	=%100%anvil#
+}
+
+
+// question: 30212  name: HAQ2600 
+::HAQ2600::[html]Crimp the '..............................' section first.{
+	=%100%core#
+}
+
+
+// question: 30213  name: HAQ2601 
+::HAQ2601::[html]If there are impurities in the solder, and the wires are not directly touching each other, then although there may be a strong physical connection there may not be a good electrical connection. This is known as a '..............................'.{
+	=%100%dry joint#
+	=%100%dry-joint#
+}
+
+
+// question: 30214  name: HAQ2602 
+::HAQ2602::[html]When you have finished soldering, clean any excess .............................. from the joint with a rag and a little solvent.{
+	=%100%flux#
+}
+
+
+// question: 30215  name: HAQ2603 
+::HAQ2603::[html]Give the wires a thin preparatory coating of solder. This is called '..............................' the wires and helps to make the final connection.{
+	=%100%tinning#
+}

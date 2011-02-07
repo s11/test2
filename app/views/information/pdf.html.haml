@@ -1,0 +1,12 @@
+%iframe#frame{ :src => "#{controller.relative_url_root}/pdfs/help/#{params[:filename]}.pdf", :width => "99%", :height => "96%" }
+
+-# TODO: Investigate whether the following is x-browser compatible
+:javascript
+  function resizeIframe() {
+      var height = document.documentElement.clientHeight;
+      height -= document.getElementById('frame').offsetTop;
+      height -= 0;
+      document.getElementById('frame').style.height = height +"px";
+  };
+  document.getElementById('frame').onload = resizeIframe;
+  window.onresize = resizeIframe;

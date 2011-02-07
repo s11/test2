@@ -1,0 +1,100 @@
+//name:TQ0271
+::TQ0271::The density of air in the atmosphere changes at different temperatures and altitudes.{
+	=TRUE#Air density is directly related to temperature and pressure.
+	~FALSE#Air density is directly related to temperature and pressure.
+}
+
+
+//name:TQ0272
+::TQ0272::Why is gasoline or petrol an ideal automotive fuel?{
+	=Because it easily mixes with air to form vapor, and is a volatile fuel.#As gasoline or petrol becomes more scarce new methods of reducing fuel consumption or the development of alternative fuels will need to occur. To be successful they will need to be as convenient as petroleum products.
+	~Because it easily mixes with air to form vapor, and is a non-volatile fuel.#As gasoline or petrol becomes more scarce new methods of reducing fuel consumption or the development of alternative fuels will need to occur. To be successful they will need to be as convenient as petroleum products.
+	~Because it doesn't readily mix with air to form vapor, and is a volatile fuel.#As gasoline or petrol becomes more scarce new methods of reducing fuel consumption or the development of alternative fuels will need to occur. To be successful they will need to be as convenient as petroleum products.
+}
+
+
+//name:TQ0273
+::TQ0273::Atmospheric pressure varies with altitude, and atmospheric pressure at sea level is used as a reference pressure. If this is so, why does a pressure gauge used in automotive applications read zero when it is not in use?{
+	=This is because the gauge indicates pressure above atmospheric pressure only.#The zero set point of any pressure +/- gauge will always use atmospheric as its reference.
+	~This is because the gauge indicates pressure below atmospheric pressure only.#The zero set point of any pressure +/- gauge will always use atmospheric as its reference.
+	~This is because the gauge reads at atmospheric pressure only.#The zero set point of any pressure +/- gauge will always use atmospheric as its reference.
+}
+
+
+//name:TQ0274
+::TQ0274::Standard atmospheric pressure at sea level is:{
+	=101.3 kPa.#Sea level atmospheric reference point is 101.3 kPa.
+	~14.7 kPa.#Sea level atmospheric reference point is 101.3 kPa.
+	~15.0 kPa.#Sea level atmospheric reference point is 101.3 kPa.
+	~202.6 kPa.#Sea level atmospheric reference point is 101.3 kPa.
+}
+
+
+//name:TQ0275
+::TQ0275::Which throttle-plate position is more likely to cause very low manifold pressure?{
+	=Throttle plate closed.#Lowest pressure in the manifold occurs when the throttle is in the idle position. 
+	~Throttle plate open.#Lowest pressure in the manifold occurs when the throttle is in the idle position. 
+}
+
+
+//name:TQ0276
+::TQ0276::The chemically correct air/fuel ratio by mass for complete gasoline combustion is approximately:{
+	=14.7:1#The term stoichiometric ratio describes the chemically correct air/fuel ratio necessary to achieve complete combustion of the fuel. For a gasoline engine the optimal operational value of the air/fuel ratio is 14.7 parts of air to 1 part of fuel. By mass that's 14.7 kilograms/lbs of air to each kilogram/lb of fuel.
+	~9:1#The term stoichiometric ratio describes the chemically correct air/fuel ratio necessary to achieve complete combustion of the fuel. For a gasoline engine the optimal operational value of the air/fuel ratio is 14.7 parts of air to 1 part of fuel. By mass that's 14.7 kilograms/lbs of air to each kilogram/lb of fuel.
+	~12:1#The term stoichiometric ratio describes the chemically correct air/fuel ratio necessary to achieve complete combustion of the fuel. For a gasoline engine the optimal operational value of the air/fuel ratio is 14.7 parts of air to 1 part of fuel. By mass that's 14.7 kilograms/lbs of air to each kilogram/lb of fuel.
+	~18:1#The term stoichiometric ratio describes the chemically correct air/fuel ratio necessary to achieve complete combustion of the fuel. For a gasoline engine the optimal operational value of the air/fuel ratio is 14.7 parts of air to 1 part of fuel. By mass that's 14.7 kilograms/lbs of air to each kilogram/lb of fuel.
+}
+
+
+//name:TQ0277
+::TQ0277::The exhaust gas oxygen sensor is also sometimes called:{
+	=the lambda sensor.#An automotive oxygen sensor, also known as an O2 sensor, lambda probe, lambda sensor, or EGO (exhaust gas oxygen) sensor, is a small sensor inserted into the exhaust system of a gasoline engine to measure the concentration of oxygen remaining in the exhaust gas. This allows an electronic control unit (ECU) to control the efficiency of the combustion process in the engine.
+	~the beta sensor.#An automotive oxygen sensor, also known as an O2 sensor, lambda probe, lambda sensor, or EGO (exhaust gas oxygen) sensor, is a small sensor inserted into the exhaust system of a gasoline engine to measure the concentration of oxygen remaining in the exhaust gas. This allows an electronic control unit (ECU) to control the efficiency of the combustion process in the engine.
+	~the crankshaft sensor.#An automotive oxygen sensor, also known as an O2 sensor, lambda probe, lambda sensor, or EGO (exhaust gas oxygen) sensor, is a small sensor inserted into the exhaust system of a gasoline engine to measure the concentration of oxygen remaining in the exhaust gas. This allows an electronic control unit (ECU) to control the efficiency of the combustion process in the engine.
+	~the optical sensor.#An automotive oxygen sensor, also known as an O2 sensor, lambda probe, lambda sensor, or EGO (exhaust gas oxygen) sensor, is a small sensor inserted into the exhaust system of a gasoline engine to measure the concentration of oxygen remaining in the exhaust gas. This allows an electronic control unit (ECU) to control the efficiency of the combustion process in the engine.
+}
+
+
+//name:TQ0278
+::TQ0278::In a basic EFI system, the stoichiometric ratio of 14.7:1 is maintained under all engine operating conditions.{
+	=FALSE#This ratio represents how many parts of air and fuel are mixed together.  14.7 parts of air are mixed with 1 part of fuel.  This is the best compromise for power and cleaner exhaust for passenger cars that have to meet pollution standards. The more air you add to the fuel the 'leaner' the car's mixture becomes. Therefore, as the ratio gets larger, i.e. 15:1, the car runs leaner.  Running extremely lean mixtures causes the combustion chambers to heat up significantly (including the exhaust), and loss of valuable horsepower. It can also possibly cause disastrous engine damage.
+	~TRUE#This ratio represents how many parts of air and fuel are mixed together.  14.7 parts of air are mixed with 1 part of fuel.  This is the best compromise for power and cleaner exhaust for passenger cars that have to meet pollution standards. The more air you add to the fuel the 'leaner' the car's mixture becomes. Therefore, as the ratio gets larger, i.e. 15:1, the car runs leaner.  Running extremely lean mixtures causes the combustion chambers to heat up significantly (including the exhaust), and loss of valuable horsepower. It can also possibly cause disastrous engine damage.
+}
+
+
+//name:TQ0279
+::TQ0279::A 'lean' mixture is one that has:  {
+	=a high air to fuel ratio.#A lean air-fuel mixture has more air in proportion to the amount of fuel.  
+	~a low air to fuel ratio.#A lean air-fuel mixture has more air in proportion to the amount of fuel.  
+	~a ratio below 15 to 1#A lean air-fuel mixture has more air in proportion to the amount of fuel.  
+	~a ratio of approximately 12 to 1#A lean air-fuel mixture has more air in proportion to the amount of fuel.  
+}
+
+
+//name:TQ0280
+::TQ0280::What is another term for premature detonation?{
+	=Knocking.#If the fuel is able to ignite easily enough, the air-fuel mixture may spontaneously ignite before the spark plug is fired at the optimum ignition moment. This is called 'premature detonation', better known as 'knocking'.
+	~Detonating.#If the fuel is able to ignite easily enough, the air-fuel mixture may spontaneously ignite before the spark plug is fired at the optimum ignition moment. This is called 'premature detonation', better known as 'knocking'.
+	~Premature knock.#If the fuel is able to ignite easily enough, the air-fuel mixture may spontaneously ignite before the spark plug is fired at the optimum ignition moment. This is called 'premature detonation', better known as 'knocking'.
+	~Octane knock.#If the fuel is able to ignite easily enough, the air-fuel mixture may spontaneously ignite before the spark plug is fired at the optimum ignition moment. This is called 'premature detonation', better known as 'knocking'.
+}
+
+
+//name:TQ0281
+::TQ0281::What is the correct ratio for air and fuel in a spark ignition combustion engine?{
+	=15:1 by Mass.#For gasoline to burn properly, it must be mixed with the right amount of air. For a gasoline engine, the air-fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline, but lots of air.
+	~15:1 by Volume.#For gasoline to burn properly, it must be mixed with the right amount of air. For a gasoline engine, the air-fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline, but lots of air.
+	~15000:1 by Volume.#For gasoline to burn properly, it must be mixed with the right amount of air. For a gasoline engine, the air-fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline, but lots of air.
+	~11000:1 by Mass.#For gasoline to burn properly, it must be mixed with the right amount of air. For a gasoline engine, the air-fuel ratio by mass is about 15 to 1. By volume, it is about 11,000 to 1. Not much gasoline, but lots of air.
+}
+
+
+//name:TQ0282
+::TQ0282::The EFI system is a ________ system.{
+	=circulation#The EFI system is a circulation system. Fuel is drawn from the tank by a fuel pump, and delivered to solenoid-operated injection valves. Fuel pressure at the valves is maintained by a fuel pressure regulator, and excess fuel flows back to the tank through a return line.
+	~regulatory#The EFI system is a circulation system. Fuel is drawn from the tank by a fuel pump, and delivered to solenoid-operated injection valves. Fuel pressure at the valves is maintained by a fuel pressure regulator, and excess fuel flows back to the tank through a return line.
+	~directional#The EFI system is a circulation system. Fuel is drawn from the tank by a fuel pump, and delivered to solenoid-operated injection valves. Fuel pressure at the valves is maintained by a fuel pressure regulator, and excess fuel flows back to the tank through a return line.
+	~pumping#The EFI system is a circulation system. Fuel is drawn from the tank by a fuel pump, and delivered to solenoid-operated injection valves. Fuel pressure at the valves is maintained by a fuel pressure regulator, and excess fuel flows back to the tank through a return line.
+}
+
+

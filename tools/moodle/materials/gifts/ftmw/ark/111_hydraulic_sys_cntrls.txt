@@ -1,0 +1,91 @@
+// question: 30645  name: HAQ2309 
+::HAQ2309::[html]The crescent type gear pump is driven by ................. on the converter spout and is in operation whenever the engine is running.{
+	=%100%tangs#
+}
+
+
+// question: 30646  name: HAQ2310 
+::HAQ2310::[html]The governor is driven by the transmission output shaft and provides a varying hydraulic pressure according to vehicle .................{
+	=%100%speed#
+}
+
+
+// question: 30647  name: HAQ2311 
+::HAQ2311::[html]The face of each land on the valve is machined square and sharp to the land diameter and some valves may have a stem or extension on one end to locate a regulating or return ................. or to limit valve travel.{
+	=%100%spring#
+}
+
+
+// question: 30648  name: HAQ2312 
+::HAQ2312::[html]Spool valves can be positioned manually, or by springs, or by pressure, and in many applications have lands of different diameters. The different ................. result in a larger face areas on some lands than others.{
+	=%100%diameters#
+}
+
+
+// question: 30649  name: HAQ2313 
+::HAQ2313::[html]The land size difference is known as a differential area and when fluid under pressure enters a port between two different sized lands, this differential area creates a ................. force.{
+	=%100%differential#
+}
+
+
+// question: 30650  name: HAQ2314 
+::HAQ2314::[html]Once the valve has been subject to the differential force, it can only be moved back to its original position by introducing ................. pressure or fluid pressure on the opposite side of the larger land.{
+	=%100%spring#
+}
+
+
+// question: 30651  name: HAQ2315 
+::HAQ2315::[html]The valves can be divided into two groups. Pressure regulating valves, and those that direct ................. and pressure are flow control valves.{
+	=%100%flow#
+}
+
+
+// question: 30652  name: HAQ2316 
+::HAQ2316::[html]With the pressure regulating valve, the valve spring is compressed when the pump or supply pressure becomes high enough. The larger ................. then uncovers an exhaust port to maintain a regulated output pressure.{
+	=%100%land#
+}
+
+
+// question: 30653  name: HAQ2317 
+::HAQ2317::[html]Similarly with this regulating valve in a fluid circuit, the valve is forced downwards against its ................. until it begins to uncover a port leading to another part of the circuit.{
+	=%100%spring#
+}
+
+
+// question: 30654  name: HAQ2318 
+::HAQ2318::[html]Control valves are simple '.................' type valves which either open or close off a circuit with no alteration in pressure.{
+	=%100%gate#
+}
+
+
+// question: 30655  name: HAQ2319 
+::HAQ2319::[html]Control valves can also react to changes in .................{
+	=%100%pressure#
+}
+
+
+// question: 30656  name: HAQ2320 
+::HAQ2320::[html]As road speed falls and governor pressure diminishes, the spring moves the valve back to cut off the fluid supply and the transmission .................{
+	=%100%downshifts#
+}
+
+
+// question: 30657  name: HAQ2321 
+::HAQ2321::[html]The orifice is designed to prevent sudden or undue movement of a .................{
+	=%100%valve#
+}
+
+
+// question: 30658  name: HAQ2322 
+::HAQ2322::[html]The build up of line pressure from the pump acts via the orifice to move the valve against the ................. force.{
+	=%100%spring#
+}
+
+
+// question: 30659  name: HAQ2323 
+::HAQ2323::[html]The pressure is determined by the tension of the spring but pressure fluctuations are reduced since the ................. prevents the valve from reacting quickly and this stabilizes the regulated pressure.{
+	=%100%orifice#
+}
+
+
+

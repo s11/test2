@@ -1,0 +1,113 @@
+#menu
+  - if current_user.role.supervisor?
+    %h3= link_to "Account Details", '#'
+    %div{:style => "padding: 0.5em; margin: 0"}
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + 'Subscription Information', account_path(:anchor => "tabs-subscription")
+
+        - if Rails.env.staging?
+          %li= link_to image_tag("little_red_triangle.gif") + 'Default Menu Setup', account_path(:anchor => "tabs-menu")
+        - else
+          - if (current_menu.is_custom? || current_menu.is_client_locked?)
+            - if current_client.menu_version.has_later_version?
+              %li= link_to image_tag("little_red_triangle.gif") + 'Default Menu Setup (Custom)', account_path(:anchor => "tabs-menu")
+          - else
+            %li= link_to image_tag("little_red_triangle.gif") + 'Default Menu Setup', account_path(:anchor => "tabs-menu")
+
+        - if current_menu.id == 2
+          %li= link_to image_tag("little_red_triangle.gif") + 'NATEF Task Area Setup', account_path(:anchor => "tabs-natef")
+
+        - if current_client.prefers_videos?
+          %li= link_to image_tag("little_red_triangle.gif")+ 'Video Setup', account_path(:anchor => "tabs-video")
+
+  %h3= link_to "User Management", '#'
+  %div{:style => "padding: 0.5em; margin: 0"}
+    - if current_client.prefers_class_groups? && !current_user.role.student?
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + 'Class Group Setup', class_groups_path
+
+    - unless current_user.role.student?
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + 'Student Details', students_path
+
+        - if current_client.remaining_students > 0
+          %li= link_to image_tag("little_red_triangle.gif") + 'Add New Student', new_student_path
+
+        %li= link_to image_tag("little_red_triangle.gif") + 'Import Students', new_csv_file_path
+
+    - if current_user.role.supervisor?
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + 'Instructor Details', instructors_path
+        - if current_client.remaining_instructors > 0
+          %li= link_to image_tag("little_red_triangle.gif") + 'Add New Instructor', new_instructor_path
+
+    %ul
+      %li= link_to image_tag("little_red_triangle.gif") + 'Edit My Details', profile_path
+
+  - if current_client.prefers_tasksheet_tracking?
+    %h3= link_to "Tasksheet Management", '#'
+    %div{:style => "padding: 0.5em; margin: 0"}
+      %ul
+        - if current_user.role.student?
+          %li= link_to image_tag("little_red_triangle.gif") + "Submit Tasksheet", new_tasksheet_submission_path
+        - else
+          %li= link_to image_tag("little_red_triangle.gif") + "Bulk Tasksheet Submission",  bulk_new_tasksheet_submissions_path
+
+        %li= link_to image_tag("little_red_triangle.gif") + "Pending Tasksheets", pending_tasksheet_submissions_path
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + "Approved Tasksheets",  approved_tasksheet_submissions_path
+        %li= link_to image_tag("little_red_triangle.gif") + "Rejected Tasksheets",  rejected_tasksheet_submissions_path
+
+  
+  - if (current_menu_version.has_diagnostics? && current_client.prefers_diagnostics?) || current_client.prefers_assessments?
+    %h3= link_to "Assessments", '#'
+    %div{:style => "padding: 0.5em; margin: 0"}
+      %ul
+        - if current_menu_version.has_diagnostics? && current_client.prefers_diagnostics?
+          - category = current_menu_version.categories.roots.find_by_name('Diagnostics')
+          - unless category.nil?
+            - category = category.children.first if current_menu_version.has_heirarchical_root?
+            = link_to image_tag('little_red_triangle.gif') + category.name, category
+          
+        - if current_client.prefers_assessments?
+          %li
+          = link_to_function image_tag("little_red_triangle.gif") + 'Quizzes and Tests', "document.getElementById('moodle_login').submit()"
+          - category_id = current_user.menu_version.moodle_course_category_id
+          - form_tag("http://#{current_client.client_ole_url}/login/index.php", :method => :post, :id => 'moodle_login') do |form|
+            = hidden_field_tag 'username',            current_user.id
+            = hidden_field_tag 'password',            session[:moodle_password]
+            = hidden_field_tag 'moodle_category_id',  category_id
+            = hidden_field_tag 'returntouri',         root_url
+            = hidden_field_tag 'searchuri',           moodle_search_url
+            = hidden_field_tag 'access_agent',        access_agent.to_s
+
+  - if current_client.prefers_reports?
+    %h3= link_to "Reports", '#'
+    %div{:style => "padding: 0.5em; margin: 0"}
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + "Student Activity Report",      reports_path(:type => "activity")
+        %li= link_to image_tag("little_red_triangle.gif") + "Diagnostics Report",           reports_path(:type => "diagnostics")
+        %li= link_to image_tag("little_red_triangle.gif") + "Tasksheet Report",             reports_path(:type => "tasksheet")
+        %li= link_to image_tag("little_red_triangle.gif") + "Topic Group Tests Report",     reports_path(:type => "assessment", :assessment_type => :topic_group_tests             )
+        - if current_menu_version.version >= 50
+          %li= link_to image_tag("little_red_triangle.gif") + "Find-the-Missing-Word Report", reports_path(:type => "assessment", :assessment_type => :find_the_missing_word_quizzes )
+        %li= link_to image_tag("little_red_triangle.gif") + "Practice Exam Report",         reports_path(:type => "assessment", :assessment_type => :practice_exams                )
+        %li= link_to image_tag("little_red_triangle.gif") + "Final Exam Report",            reports_path(:type => "assessment", :assessment_type => :final_exams                   )
+
+  - if current_client.prefers_messaging?
+    %h3
+      - link_to '#' do
+        Messaging
+        - if current_user.received_messages.unread.count > 0
+          == (#{current_user.received_messages.unread.count} New)
+
+    %div{:style => "padding: 0.5em; margin: 0"}
+      %ul
+        %li= link_to image_tag("little_red_triangle.gif") + "Inbox",  inbox_path
+        %li= link_to image_tag("little_red_triangle.gif") + "New",    new_message_path
+        %li= link_to image_tag("little_red_triangle.gif") + "Drafts", draft_messages_path
+        %li= link_to image_tag("little_red_triangle.gif") + "Sent",   sent_messages_path
+
+- content_for(:onload) do
+  $("#menu").accordion({autoHeight: false, navigation: true, collapsible: true, active: false});
+

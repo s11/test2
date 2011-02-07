@@ -1,0 +1,108 @@
+//name:TQ0910
+::TQ0910::Driveshaft slip yokes in cars are generally lubricated:{
+	=by the transmission lubrication system.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+	~by hand with high temperature grease.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+	~with grease fittings.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+	~only during u-joint replacement.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+}
+
+
+//name:TQ0911
+::TQ0911::Technician A says the driveline slip yoke is designed to slip when overloaded. Technician B says the driveline slip yoke allows the shaft to change its effective length. Who is correct?{
+	=Technician A.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+	~Technician B.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+	~Both Technician A and Technician B.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+	~Neither Technician A nor Technician B.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+}
+
+
+//name:TQ0912
+::TQ0912::One purpose of the crown wheel and pinion in a conventional rear-wheel drive vehicle is to:{
+	=change the direction of drive through 90 degrees.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~allow the driving wheels to rotate independently.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~always turn the road wheels in a forward direction.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~rotate the drive wheels faster with increased torque.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+}
+
+
+//name:TQ0913
+::TQ0913::The collapsible sleeve between the rear axle pinion bearings controls:{
+	=pinion bearing preload.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~tooth contact pattern.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~pinion depth.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~backlash.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+}
+
+
+//name:TQ0914
+::TQ0914::The hypoid rear axle is designed to:{
+	=all of these.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+	~lower the body profile.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+	~provide quieter operation.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+	~provide more tooth contact.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+}
+
+
+//name:TQ0915
+::TQ0915::The type of gear used for most differential drive pinion and ring gears that mesh below the center line of the ring gear is normally a:{
+	=hypoid gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+	~idler gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+	~spur bevel gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+	~helical gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+}
+
+
+//name:TQ0916
+::TQ0916::One purpose of a hypoid rear-wheel drive vehicle is to:{
+	=allow for a lower body line.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~allow the driving wheels to rotate independently#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~always turn the road wheels in a forward direction#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~rotate the drive wheels faster with increased torque#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+}
+
+
+//name:TQ0917
+::TQ0917::Misalignment of the crown wheel and pinion will cause:{
+	=noisy operation.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+	~lack of drive.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+	~an incorrect reduction ratio.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+	~oil leaks.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+}
+
+
+//name:TQ0918
+::TQ0918::The ring gear and pinion gear contact position in a final drive assembly is maintained by setting:{
+	=bearing pre-load to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~pinion depth to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~backlash to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~end-float to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+}
+
+
+//name:TQ0920
+::TQ0920::An advantage of a constant-velocity joint is that it:{
+	=can drive through a comparatively large angle.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+	~eliminates the need for a sliding coupling.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+	~increases road wheel speed.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+	~reduces the overall gear ratio.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+}
+
+
+//name:TQ0921
+::TQ0921::The universal joints are essential in a driveline because:{
+	=they allow for changes in driveshaft angle.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+	~they regulate fluid pressure in the differential.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+	~the braking forces are more evenly distributed.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+	~they transmit power better than drive belts.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+}
+
+
+//name:TQ0922
+::TQ0922::Universal and Constant Velocity Joints allow drive to be transmitted:{
+	=through an angular change.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+	~around corners.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+	~to the rear wheels only.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+	~to the front wheels only.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+}
+
+

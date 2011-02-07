@@ -1,0 +1,309 @@
+// question: 30444  name: HAQ2615 
+::HAQ2615::[html]When the capacitor is charged, one surface is positively charged, the other is ..............................{
+	=%100%negative#
+}
+
+
+// question: 30445  name: HAQ2616 
+::HAQ2616::[html]A typical capacitor stores the charge on thin sheets of foil, with sheets of .............................. between them.{
+	=%100%insulation#
+}
+
+
+// question: 30446  name: HAQ2617 
+::HAQ2617::[html]Another figure of merit for capacitors is stability with respect to time and temperature, sometimes called ..............................{
+	=%100%drift#
+}
+
+
+// question: 30447  name: HAQ2618 
+::HAQ2618::[html]Every substance, even air, will conduct an electrical current if enough voltage is applied to it, but the word 'conductor' normally is used for materials that allow current flow with little ..............................{
+	=%100%resistance#
+}
+
+
+// question: 30448  name: HAQ2619 
+::HAQ2619::[html]The most common conductor is ..............................{
+	=%100%copper#
+}
+
+
+// question: 30449  name: HAQ2620 
+::HAQ2620::[html]Materials that don't conduct current easily are ..............................{
+	=%100%insulators#
+}
+
+
+// question: 30450  name: HAQ2621 
+::HAQ2621::[html]Under normal conditions, all materials offer some resistance to flowing charges, which generates ..............................{
+	=%100%heat#
+}
+
+
+// question: 30451  name: HAQ2622 
+::HAQ2622::[html]An Insulator is a material or object which resists the flow of heat (thermal insulators) or .............................. charge (electrical insulators).{
+	=%100%electric#
+}
+
+
+// question: 30464  name: HAQ2623 
+::HAQ2623::[html]Fuses and circuit-breakers are designed to break the circuit if .............................. flow is excessive.{
+	=%100%current#
+}
+
+
+// question: 30465  name: HAQ2624 
+::HAQ2624::[html]The most common kinds are fuses, fusible links, and circuit breakers. They are all rated in .............................. Their ratings are usually marked on them.{
+	=%100%amperes#
+}
+
+
+// question: 30466  name: HAQ2625 
+::HAQ2625::[html]In electronics and electrical engineering a fuse, short for '..............................', is a type of overcurrent protection device.{
+	=%100%fusible link#
+}
+
+
+// question: 30467  name: HAQ2626 
+::HAQ2626::[html]Circuit breakers are often implemented with a .............................. (electromagnet) whose strength increases as the current increases and eventually trips the circuit breaker.{
+	=%100%solenoid#
+}
+
+
+// question: 30468  name: HAQ2627 
+::HAQ2627::[html]A relay is an electrical switch that opens and closes under control of another electrical circuit. In the original form, the switch is operated by an .............................. to open or close one or many sets of contacts.{
+	=%100%electromagnet#
+}
+
+
+// question: 30469  name: HAQ2628 
+::HAQ2628::[html]Normally-open contacts connect the circuit when the relay is activated; the circuit is .............................. when the relay is inactive.{
+	=%100%disconnected#
+}
+
+
+// question: 30470  name: HAQ2629 
+::HAQ2629::[html]Normally-closed contacts disconnect the circuit when the relay is activated; the circuit is .............................. when the relay is inactive.{
+	=%100%connected#
+}
+
+
+// question: 30471  name: HAQ2630 
+::HAQ2630::[html]When a current flows through the coil, the resulting magnetic field attracts an armature that is mechanically linked to a moving contact. The movement either makes or breaks a connection with a fixed contact. When the current is switched off, the armature is usually returned by a .............................. to its resting position.{
+	=%100%spring#
+}
+
+
+// question: 30472  name: HAQ2631 
+::HAQ2631::[html]By analogy with the functions of the original electromagnetic device, a solid-state relay operates a thyristor or other solid-state switching device with a .............................. or light-emitting diode to trigger it.{
+	=%100%transformer#
+}
+
+
+// question: 30473  name: HAQ2632 
+::HAQ2632::[html]Modern vehicles use many different kinds and sizes of lamps. They all consist of 1 or more .............................. which heat up until they glow.{
+	=%100%filaments#
+}
+
+
+// question: 30474  name: HAQ2633 
+::HAQ2633::[html]The power in watts being consumed by the lamp is found by multiplying the voltage to the lamp, by the .............................. flowing through it.{
+	=%100%current#
+}
+
+
+// question: 30475  name: HAQ2634 
+::HAQ2634::[html]The incandescent light bulb (archaically known as the electric lamp) uses a glowing wire filament heated to white-hot by electrical .............................., to generate light (a process known as thermal radiation or incandescence).{
+	=%100%resistance#
+}
+
+
+// question: 30476  name: HAQ2648 
+::HAQ2648::[html]Putting a resistor in a circuit causes a drop in .............................. across the resistor, so resistors are commonly used to control the voltage that reaches various components.{
+	=%100%voltage#
+}
+
+
+// question: 30477  name: HAQ2649 
+::HAQ2649::[html]Resistors have a .............................. rating.{
+	=%100%wattage#
+}
+
+
+// question: 30478  name: HAQ2650 
+::HAQ2650::[html]The ratio of potential difference (also called voltage) to current is known as its electrical .............................. (or simply resistance).{
+	=%100%resistance#
+}
+
+
+// question: 30479  name: HAQ2651 
+::HAQ2651::[html]An .............................. is a network of two or more resistors (a voltage divider) used to reduce the voltage of a signal.{
+	=%100%attenuator#
+}
+
+
+// question: 30480  name: HAQ2652 
+::HAQ2652::[html]In an ideal resistor, the resistance remains constant regardless of the applied voltage or .............................. flowing through the device or the rate of change of the current.{
+	=%100%current#
+}
+
+
+// question: 30490  name: HAQ2653 
+::HAQ2653::[html]Thermistors are semiconductor resistors. Their electrical resistance varies according to ..............................{
+	=%100%temperature#
+}
+
+
+// question: 30491  name: HAQ2654 
+::HAQ2654::[html]Negative temperature coefficient resistors, also called .............................. resistors, conduct current more readily when they are hot than when they are cold.{
+	=%100%ntc#
+	=%100%NTC#
+}
+
+
+// question: 30492  name: HAQ2655 
+::HAQ2655::[html]A thermistor is a type of resistor used to measure temperature changes, relying on the change in its .............................. with changing temperature.{
+	=%100%resistance#
+}
+
+
+// question: 30493  name: HAQ2656 
+::HAQ2656::[html]The current is measured using an ..............................{
+	=%100%ammeter#
+}
+
+
+// question: 30452  name: HAQ3787 
+::HAQ3787::[html]Electric wires are used to conduct electric .............................. around the motor vehicle.{
+	=%100%current#
+}
+
+
+// question: 30453  name: HAQ3788 
+::HAQ3788::[html]The electric wire is commonly .............................. multi-stranded copper core wrapped with plastic insulation.{
+	=%100%braided#
+}
+
+
+// question: 30454  name: HAQ3789 
+::HAQ3789::[html].............................. cable is found inside computers and other electronic components. It is used for connecting between printed circuits.{
+	=%100%ribbon#
+}
+
+
+// question: 30455  name: HAQ3790 
+::HAQ3790::[html]In certain locations within a vehicle and in environments where strong .............................. interference is present, wiring harnesses are subject to a situation where unwanted electromagnetic induction occurs.{
+	=%100%electromagnetic#
+}
+
+
+// question: 30456  name: HAQ3791 
+::HAQ3791::[html]Twisted pair uses two wires delivering signals to a common component. The wires are uniformly twisted through the entire length of the harness. The twist has the effect of cancelling any .............................. that occurs in the wires.{
+	=%100%noise#
+}
+
+
+// question: 30457  name: HAQ3792 
+::HAQ3792::[html]A Drain line is a .............................. wire that is wrapped within a wiring harness.{
+	=%100%non-insulated#
+	=%100%noninsulated#
+}
+
+
+// question: 30458  name: HAQ3793 
+::HAQ3793::[html]There are two scales used to measure the sizes of wires: .............................. and AWG (American Wire Gauge).{
+	=%100%metric#
+}
+
+
+// question: 30459  name: HAQ3794 
+::HAQ3794::[html]The AWG system uses a rating number; the .............................. the rating number, the smaller the wire and the lower its current carrying capability.{
+	=%100%larger#
+}
+
+
+// question: 30460  name: HAQ3795 
+::HAQ3795::[html]There are .............................. different methods of describing a conductor within metric and AWG standards.{
+	=%100%two#
+	=%100%2#
+}
+
+
+// question: 30461  name: HAQ3796 
+::HAQ3796::[html]Copper is used to conduct electric current because of its .............................. resistance value.{
+	=%100%low#
+}
+
+
+// question: 30462  name: HAQ3797 
+::HAQ3797::[html]Copper does offer some resistance, and as the .............................. of the wire increases, so too does the resistance within the wire.{
+	=%100%length#
+}
+
+
+// question: 30463  name: HAQ3798 
+::HAQ3798::[html]To overcome the effect of resistance, the greater the length of the wire, the .............................. the cross-sectional area needs to be.{
+	=%100%larger#
+}
+
+
+// question: 30481  name: HAQ3799 
+::HAQ3799::[html]Resistors are used to control current flow in a circuit, and are rated by their resistance value and their .............................. rating.{
+	=%100%power#
+}
+
+
+// question: 30482  name: HAQ3800 
+::HAQ3800::[html]The resistor's power rating is determined by its ...............................{
+	=%100%size#
+}
+
+
+// question: 30483  name: HAQ3801 
+::HAQ3801::[html]To identify its value, each resistor is marked with four or five colored bands. The color bands are placed so that they are set close to each other and biased to the left. The last, or .............................. band, is spaced further apart.{
+	=%100%tolerance#
+}
+
+
+// question: 30484  name: HAQ3802 
+::HAQ3802::[html]If a resistor has four color bands, the first two bands indicate the first two numbers of the resistor's value. The third band represents the .............................. value and the fourth band indicates the tolerance.{
+	=%100%multiplier#
+}
+
+
+// question: 30485  name: HAQ3803 
+::HAQ3803::[html]Resistors found on circuit boards are normally .............................. in value.{
+	=%100%fixed#
+}
+
+
+// question: 30486  name: HAQ3804 
+::HAQ3804::[html]Variable resistors can be ..............................; meaning that their resistance value varies proportionally with movement or temperature change.{
+	=%100%linear#
+}
+
+
+// question: 30487  name: HAQ3805 
+::HAQ3805::[html]Variable resistors can be ..............................; where the resistance change is not proportional with movement.{
+	=%100%non-linear#
+	=%100%non linear#
+	=%100%nonlinear#
+}
+
+
+// question: 30488  name: HAQ3806 
+::HAQ3806::[html]Potentiometers are mechanical variable resistors with three connections, two fixed and one moveable. They act as voltage .............................. and as such alter the voltage in a circuit.{
+	=%100%dividers#
+}
+
+
+// question: 30489  name: HAQ3807 
+::HAQ3807::[html]Thermistors are conductors whose resistance value is affected by ...............................{
+	=%100%temperature#
+}
+
+
+// question: 30494  name: HAQ3808 
+::HAQ3808::[html]NTC thermistors can be used as inrush-current limiting devices in power supply circuits. They present a higher resistance initially which prevents large currents from flowing at turn-on, and then heat up and become much .............................. resistance to allow higher current flow during normal operation.{
+	=%100%lower#
+}

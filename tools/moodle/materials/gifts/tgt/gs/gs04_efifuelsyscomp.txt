@@ -1,0 +1,25 @@
+//name:TQ0327
+::TQ0327::Which of the following statements is correct?{
+	=The fuel filter is directional and must be fitted in the direction of fuel flow.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+	~The fuel filter can be fitted any way it will fit and direction of flow is unimportant.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+	~A fuel filter is not required with modern clean fuel technology.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+	~Fuel filters can be removed and cleaned out with compressed air.#Fuel filters are directional and attention must be paid when installing to ensure the correct direction of flow. A fuel filter will commonly only fit in the correct direction of flow due to differing fittings at each end.
+}
+
+
+//name:TQ0332
+::TQ0332::A tachometric relay was used on older vehicles in order for the instrument cluster to display:{
+	=engine RPM .#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+	~vehicle speed.#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+	~coolant temperature.#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+	~oil pressure.#Early vehicles used tachometric relays to measure engine RPM. Modern vehicles use the Crank Position Sensor (CKP) to send engine RPM to the control unit.
+}
+
+
+//name:TQ0334
+::TQ0334::What does the knock sensor use to produce its signal voltage?{
+	=A piezo crystal.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+	~A potentiometer.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+	~An inductive coil.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+	~Hall effect.#The knock sensor employs a piezo crystal that generates a small voltage when knock is detected.
+}

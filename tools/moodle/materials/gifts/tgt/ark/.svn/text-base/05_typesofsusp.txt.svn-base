@@ -1,0 +1,107 @@
+//name:TQ0518
+::TQ0518::What does the height sensor do?{
+	=The height sensor constantly monitors the distance between the vehicle's axle and its chassis.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+	~The height sensor constantly monitors the distance between the vehicle's body and the road.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+	~The height sensor constantly monitors the distance between the vehicle's chassis and the road.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+	~The height sensor constantly monitors the distance between the vehicle's axle and the road.#An automatic load adjustable suspension system controls the vehicle ride height automatically according to the load placed over the rear axle.
+}
+
+
+//name:TQ0519
+::TQ0519::What is adaptive air suspension?{
+	=It is an electronically controlled air suspension system which is located on all vehicle wheels with continuously adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+	~It is an hydraulically controlled air suspension system which is located on all vehicle wheels with continuously adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+	~It is a pneumatically controlled air suspension system which is located on all vehicle wheels with continuously adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+	~It is an electronically controlled air suspension system which is located on all vehicle wheels with variable adaptive damping.#Fully active suspensions use electronic monitoring of vehicle conditions coupled with the means to impact vehicle suspension and behavior in real time to directly control the motion of the car.
+}
+
+
+//name:TQ0520
+::TQ0520::Independent suspension:{
+	=isolates the movement of one wheel from affecting the others.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+	~makes the ride softer.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+	~transmits movement from one wheel to the other.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+	~increases body roll.#One of the main benefits claimed for independent suspension is that unsprung mass can be kept low. Also, if a wheel on one side hits a road irregularity, it won't upset the wheel on the other side on the same axle.
+}
+
+
+//name:TQ0521
+::TQ0521::Some manufacturers set the lower wishbone pivots points wide apart on front suspension layouts. The reason for this is:{
+	=as the front wheels do the most of the braking, they sustain the majority of the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+	~As the front wheels do some of the braking, they sustain the minority of the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+	~As the front wheels do part of the braking, they maintain braking alignment and absorb all the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+	~As the front wheels do the most of the braking, they maintain some of the braking alignment and absorb all the braking forces.#The control arms have flexible bushes at each connecting point to allow for suspension movement. The driving thrust and braking torque are transferred through the control arms and bushes to the frame. When a vehicle is in motion several forces operate to displace the wheel units: driving thrust, braking torque, and cornering force. These forces must be transferred to the frame of the vehicle, but while they act the wheel units must stay aligned with each other and with the frame.
+}
+
+
+//name:TQ0522
+::TQ0522::A basic suspension system consists of:{
+	=springs, axles, shock absorbers, rods, arms, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+	~springs, shock absorbers, rods, arms, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+	~springs, axles, shock absorbers, rods, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+	~springs, shock absorbers, axles, rod, and ball joints.#Most modern vehicles have independent suspension on the front wheels. An independent rear suspension (IRS), as the name implies, has the rear wheels independently sprung. A fully independent suspension has independent suspension on all wheels. Early independent systems used swing axles, but modern systems use Chapman or McPherson struts, trailing arms, multiple links, or wishbones.
+}
+
+
+//name:TQ0523
+::TQ0523::The basic types of springs used in a suspension system can include:{
+	=coil spring, leaf spring, and torsion bar.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+	~coil spring, strut, and McPherson strut.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+	~independent, McPherson strut, and SLA.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+	~torsion bar, McPherson strut, SLA, independent.#All suspension systems use springs to absorb impacts, the most common being: Coil spring, Leaf spring (also known as Hotchkiss, Cart, or semi-elliptical spring) and Torsion bar.
+}
+
+
+//name:TQ0524
+::TQ0524::A basic suspension system consists of:{
+	=springs, axles, shock absorbers, rods, arms and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+	~springs, shock absorbers, rod and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+	~springs, axles, shock absorbers, rods and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+	~springs, shock absorbers, rods, arms and ball joints.#A basic suspension system consists of 6 key components.  These include springs, axles, shock absorbers, rods, arms and ball joints.
+}
+
+
+//name:TQ0525
+::TQ0525::Oscillations of the suspension movement are reduced by the:{
+	=shock absorbers.#Shocks absorbers improve wear and tear characteristics and ride quality through the continued dampening of road to tire oscillations.
+	~suspension movement.#Shocks absorbers improve wear and tear characteristics and ride quality through the continued dampening of road to tire oscillations.
+	~strut assembly.#Shocks absorbers improve wear and tear characteristics and ride quality through the continued dampening of road to tire oscillations.
+}
+
+
+//name:TQ0526
+::TQ0526::Technician A says that shock absorbers help support the weight of the vehicle during operation. Technician B says that shock absorbers dampen spring oscillation during operation. Who is correct?{
+	~Technician A.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+	=Technician B.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+	~Both Technician A and Technician B.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+	~Neither Technician A nor Technician B.#Technician B is correct because shock absorbers are not designed to carry load, only to dampen oscillations.
+}
+
+
+//name:TQ0527
+::TQ0527::A solid axle that also drives the road wheels is referred to as a:{
+	=live axle.#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+	~dead axle.#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+	~living axle#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+	~dying axle#A solid axle that also drives the road wheels is referred to as a 'live axle'.
+}
+
+
+//name:TQ0528
+::TQ0528::A solid axle that doesn't drive the road wheels is referred to as a:{
+	=dead axle.#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+	~live axle.#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+	~living axle#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+	~dying axle#A solid axle that doesn't drive the road wheels is referred to as a 'dead axle'.
+}
+
+
+//name:TQ0529
+::TQ0529::Technician A says that independent rear suspension for a rear-wheel-drive vehicle is identical to independent suspension used in a front-wheel-drive vehicle.  Technician B says the axle shaft can be used as a suspension upper link. Who is correct?{
+	~Technician A.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+	=Technician B.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+	~Both Technician A and Technician B.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+	~Neither Technician A nor Technician B.#Technician B is correct. Independent rear suspension for a rear-wheel-drive vehicle is differs to independent suspension used in a front-wheel-drive vehicle as it has to accommodate the axle shafts.  The axle shaft can be used as a suspension upper link.
+}
+
+

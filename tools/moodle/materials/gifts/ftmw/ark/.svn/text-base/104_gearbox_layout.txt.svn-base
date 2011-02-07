@@ -1,0 +1,105 @@
+// question: 30173  name: HAQ2168 
+::HAQ2168::[html]In a manual transmission for a rear-wheel drive vehicle, the gear train is built up on ................. shafts.{
+	=%100%three#
+	=%100%3#
+}
+
+
+// question: 30174  name: HAQ2169 
+::HAQ2169::[html]The input shaft extends from the front of the ................. an external parallel-splined section engages with internal splines on the clutch-driven plate.{
+	=%100%transmission#
+}
+
+
+// question: 30175  name: HAQ2170 
+::HAQ2170::[html]Each mainshaft gear has an external toothed section on one side. The teeth face an internally-toothed engagement sleeve located on a central ................., which is itself splined to the mainshaft.{
+	=%100%hub#
+}
+
+
+// question: 30176  name: HAQ2171 
+::HAQ2171::[html]In trans-axle designs, the drive is transferred through the clutch unit to a ................. shaft.{
+	=%100%primary#
+}
+
+
+// question: 30177  name: HAQ2172 
+::HAQ2172::[html]An engagement sleeve and hub, with a synchromesh unit facing each gear, is on the ................. shaft between first and second. And similarly between third and fourth.{
+	=%100%secondary#
+}
+
+
+// question: 30178  name: HAQ2173 
+::HAQ2173::[html]A drive pinion gear fixed to the end of the secondary shaft is constantly in mesh with a final drive ring gear. The drive is transferred through these gears to the ................. unit.{
+	=%100%differential#
+}
+
+
+// question: 30179  name: HAQ2174 
+::HAQ2174::[html]The free gear has its own engagement sleeve and synchromesh unit beside it. Selecting fifth gear locks the gear to the .................{
+	=%100%shaft#
+}
+
+
+// question: 30180  name: HAQ2175 
+::HAQ2175::[html]The gear on the primary shaft is larger than the gear on the secondary, so an overdrive ratio is provided. The secondary shaft rotates ................. than the primary.{
+	=%100%faster#
+}
+
+
+// question: 30181  name: HAQ2176 
+::HAQ2176::[html]With engine rotation and the clutch engaged, the input shaft transfers its motion through the counter-shaft, to rotate the gears on the .................{
+	=%100%mainshaft#
+	=%100%main shaft#
+}
+
+
+// question: 30182  name: HAQ2177 
+::HAQ2177::[html]Depressing the clutch pedal removes the ................. load from the input.{
+	=%100%engine#
+}
+
+
+// question: 30183  name: HAQ2178 
+::HAQ2178::[html]The input and output shafts turn at the same speed and therefore there is no ................. multiplication.{
+	=%100%torque#
+}
+
+
+// question: 30184  name: HAQ2179 
+::HAQ2179::[html]When the synchronizer is assembled, the hub is splined to the main shaft, and the engagement sleeve is splined to the .................{
+	=%100%hub#
+}
+
+
+// question: 30185  name: HAQ2180 
+::HAQ2180::[html]Fine grooves are machined on the conical surface of the baulk ring, and the teeth on the outer edge are the same size as the dog teeth on the ................., and the spline on the sleeve.{
+	=%100%gear#
+}
+
+
+// question: 30186  name: HAQ2181 
+::HAQ2181::[html]The force exerted by the driver now presses the sleeve against the teeth of the ................., and forces the conical face against the cone of the selected gear, until the friction created, causes the two components to rotate at the same speed.{
+	=%100%baulk ring#
+}
+
+
+// question: 30187  name: HAQ2182 
+::HAQ2182::[html]In trans-axles, the synchromesh unit plays a similar role. It is located between the end of each engagement sleeve and the .................{
+	=%100%gear#
+}
+
+
+// question: 30188  name: HAQ2183 
+::HAQ2183::[html]When first gear is selected, the engagement sleeve locks the first gear to the secondary shaft. When the clutch is released, the drive is transferred through the fixed first gear on the ................. shaft, to the locked gear on the secondary shaft.{
+	=%100%primary#
+}
+
+
+// question: 30189  name: HAQ2184 
+::HAQ2184::[html]The fifth gear ratio is provided by transferring the drive through the fixed fifth gear on the primary shaft, to the engaged fifth gear on the ................. shaft.{
+	=%100%secondary#
+}
+
+
+

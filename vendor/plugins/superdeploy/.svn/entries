@@ -1,0 +1,79 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/superdeploy
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+README.rdoc
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+65abe7530ae08b81dccb12906f099ffa
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+deploy.rb.example
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+4e2fe37fa37282e29736b1dc8232ad36
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+install.rb
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+cbadce7f03f45ddbd3ccc08fe3dea709
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+MIT-LICENSE
+file
+
+
+
+
+2010-02-09T13:38:41.000000Z
+e2818073276d0c1fdc48446b1412b3f2
+2009-10-12T01:17:39.297600Z
+3504
+johnm
+
+recipes
+dir
+

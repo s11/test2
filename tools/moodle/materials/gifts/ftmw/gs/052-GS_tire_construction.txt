@@ -1,0 +1,76 @@
+// question: 27953  name: HAQ1843 
+::HAQ1843::[html]Modern tires are made from a range of materials. The rubber is mostly synthetic, with ............................... black added to increase strength and toughness. When used in the tread, this combination gives a long life.{
+	=%100%carbon#
+}
+
+
+// question: 27954  name: HAQ1844 
+::HAQ1844::[html]The plies are made from cords of fabric, coated with ...............................{
+	=%100%rubber#
+}
+
+
+// question: 27955  name: HAQ1845 
+::HAQ1845::[html]Natural rubber is weaker than the synthetic version. It's used mainly in ...............................{
+	=%100%sidewalls#
+}
+
+
+// question: 27956  name: HAQ1846 
+::HAQ1846::[html]Cords of synthetic fabric have high ............................... strength. They resist stretching, but are flexible under load.{
+	=%100%tensile#
+}
+
+
+// question: 27957  name: HAQ1847 
+::HAQ1847::[html]Newer cord materials use fewer plies. A modern steel-belted radial with a 6-ply rating may have just 2 plies in its sidewall. Having fewer plies makes the tire more ...............................{
+	=%100%flexible#
+}
+
+
+// question: 27958  name: HAQ1850 
+::HAQ1850::[html]The overall tire size must allow sufficient ............................... between the tire and the vehicle frame.{
+	=%100%clearance#
+}
+
+
+// question: 27959  name: HAQ1851 
+::HAQ1851::[html]All manufacturers mold information about the tire into its ...............................{
+	=%100%sidewall#
+}
+
+
+// question: 27960  name: HAQ1852 
+::HAQ1852::[html]The aspect ratio of a tire is the ratio of its height to its width. It is usually given as a ............................... The lower a tire's aspect ratio, the wider the tire is in relation to its height.{
+	=%100%percentage#
+}
+
+
+// question: 27961  name: HAQ1853 
+::HAQ1853::[html]The profile of cross-ply tires was reduced to between 78 and 82%, called a super low section. However the ............................... of cross-ply tires makes them unsuitable for further reduction in profile.{
+	=%100%stiffness#
+}
+
+
+// question: 27962  name: HAQ1854 
+::HAQ1854::[html]Information on tire aspect ratio is now included in the ............................... marking, together with the type of construction, and the speed rating.{
+	=%100%sidewall#
+}
+
+
+// question: 27963  name: HAQ1855 
+::HAQ1855::[html]The speed rating of the tire is given by the letter code, which indicates ............................... recommended speed for that tire.{
+	=%100%maximum#
+}
+
+
+// question: 27964  name: HAQ1856 
+::HAQ1856::[html]Totally metric types are also manufactured. For example: 190 is the section width in millimeters. The aspect ratio is 65%. The speed rating is H, for up to 210 kilometers per hour. R indicates ............................... ply construction.{
+	=%100%radial#
+}
+
+
+// question: 27965  name: HAQ1857 
+::HAQ1857::[html]Although tire markings may remain traditional, say, 255,45, Z-R 17, there is a worldwide move towards an I-S-O metric standard which uses letters: P for passenger, LT for light truck, C for ...............................{
+	=%100%commercial#
+}

@@ -1,0 +1,22 @@
+- if current_client.remaining_users(current_role) > 0
+  .ui-widget
+    - information_box do
+      == You have #{current_client.remaining_users(current_role)} available #{current_role} logons remaining.
+
+    #tab-edit
+      - form_for(build_resource) do |f|
+        = f.error_messages
+        = hidden_field_tag :role, current_role
+
+        %table{:cellspacing => 0}
+          %tbody
+            = render :partial => "form", :locals => { :f => f, :user => resource }
+
+        .centre
+          = reset_button_tag "Reset"
+          = create_button_tag "Create"
+
+- else
+  .ui-state-error.ui-corner-all{ :style => "padding: 0.5em 1em; font-weight: bold; color: #ff0; margin-bottom: 1em" }
+    %span.ui-icon.ui-icon-info.fleft{ :style => "margin-right: .3em;" }
+    == All of your #{current_client.maximum_users_by_role(current_role)} #{current_role} logons have been allocated. You have no more available #{current_role} logons. Please email info@cdxglobal.com or contact your account manager to order more logons.

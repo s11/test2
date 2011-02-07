@@ -1,0 +1,158 @@
+// question: 28272  name: HAQ1899 
+::HAQ1899::[html]............................... bar is equivalent to 100 kPa and 14.5 PSI.{
+	=%100%one#
+	=%100%1#
+}
+
+
+// question: 28273  name: HAQ1900 
+::HAQ1900::[html]The recommended maximum tire pressure is located on the tire ...............................{
+	=%100%sidewall#
+}
+
+
+// question: 28274  name: HAQ1901 
+::HAQ1901::[html]Check the ............................... markings on the tire for the maximum operating pressure.{
+	=%100%sidewall#
+}
+
+
+// question: 28275  name: HAQ1902 
+::HAQ1902::[html]Check the pressure when the tires are ...............................{
+	=%100%cold#
+}
+
+
+// question: 28276  name: HAQ1903 
+::HAQ1903::[html]If you need to add air, use ............................... bursts with the air hose so you don't over inflate the tire.{
+	=%100%short#
+}
+
+
+// question: 28277  name: HAQ1904 
+::HAQ1904::[html]Most tires have wear indicator bars incorporated into the tread ...............................{
+	=%100%pattern#
+}
+
+
+// question: 28278  name: HAQ1905 
+::HAQ1905::[html]Causes of uneven wear can include faulty shock absorbers, incorrect front alignment angles, and wheels out of ...............................{
+	=%100%balance#
+}
+
+
+// question: 28279  name: HAQ1906 
+::HAQ1906::[html]Inspect the ............................... of the tires for signs of cracking from impacts with blunt objects.{
+	=%100%sidewalls#
+}
+
+
+// question: 28280  name: HAQ1907 
+::HAQ1907::[html]Carefully examine the tread area for ............................... This is usually identified as bubbles under the tread area.{
+	=%100%separation#
+}
+
+
+// question: 28281  name: HAQ1908 
+::HAQ1908::[html]Check to see that radial tires are not mixed with bias tires on the vehicle. If there is a mixture, the bias tires should be installed on the ...............................{
+	=%100%front#
+}
+
+
+// question: 28282  name: HAQ1909 
+::HAQ1909::[html]Normally the wheels and tires are rotated by moving the front tires to the rear, and the rear to the front. However, in some arrangements, they are moved ............................... so the procedure should only be carried out in accordance with the vehicle's shop manual, owner's manual or the type of tire fitted.{
+	=%100%diagonally#
+}
+
+
+// question: 28283  name: HAQ1910 
+::HAQ1910::[html]Refit the wheels. Screw on the wheel nuts or studs. It is a good practice to put them on ............................... tight first before tightening further.{
+	=%100%finger#
+}
+
+
+// question: 28284  name: HAQ1911 
+::HAQ1911::[html]Do not put the nut or stud into the socket of an impact wrench and power them on directly. This practice can lead to the wheel nuts or studs going on ...............................{
+	=%100%cross-threaded#
+	=%100%cross threaded#
+}
+
+
+// question: 28285  name: HAQ1912 
+::HAQ1912::[html]Some tires are ...............................; they are designed to turn in one direction only.{
+	=%100%directional#
+}
+
+
+// question: 28286  name: HAQ1913 
+::HAQ1913::[html]Using the correct tool, remove the valve core, remembering that ............................... air inside the tire will escape with some force, so make sure the valve stem is pointing away from your face.{
+	=%100%compressed#
+}
+
+
+// question: 28287  name: HAQ1914 
+::HAQ1914::[html]Once all the air has expelled from the tire, locate the wheel in the bead breaker with the outside of the rim facing ............................... the blade.{
+	=%100%towards#
+}
+
+
+// question: 28288  name: HAQ1915 
+::HAQ1915::[html]Position the bead remover between the edge of the rim and the tire and apply some ............................... around the broken bead to assist in removal.{
+	=%100%lubricant#
+}
+
+
+// question: 28289  name: HAQ1916 
+::HAQ1916::[html]Some tires are asymmetric. Their tread pattern differs across the face. These tires have an inside and an  outside. This is indicated on the ...............................{
+	=%100%sidewall#
+}
+
+
+// question: 28290  name: HAQ1917 
+::HAQ1917::[html]Most tire changers remove and refit the tire by turning the turntable ...............................{
+	=%100%clockwise#
+}
+
+
+// question: 28291  name: HAQ1918 
+::HAQ1918::[html]Select the correct type of tubeless valve stem and insert it through the hole in the rim from the ...............................{
+	=%100%inside#
+}
+
+
+// question: 28292  name: HAQ1919 
+::HAQ1919::[html]As the turntable rotates, push the sidewall down, keeping your fingers clear of the rim, so that the tire bead is guided below the safety ridge into the rim well. This will prevent the bead and tire from ...............................{
+	=%100%tearing#
+}
+
+
+// question: 28293  name: HAQ1920 
+::HAQ1920::[html]If the beads do not seat, deflate the tire again, reposition it, add more ............................... to the tire and rim, and start the inflation procedure again.{
+	=%100%lubricant#
+}
+
+
+// question: 28294  name: HAQ1921 
+::HAQ1921::[html]Check and adjust the tire ............................... before balancing the wheel.{
+	=%100%pressure#
+}
+
+
+// question: 28295  name: HAQ1922 
+::HAQ1922::[html]Mount the wheel and tire on the balancer, putting the ............................... part of the tire on first. Secure the wheel with the hub nut assembly.{
+	=%100%inside#
+}
+
+
+// question: 28296  name: HAQ1923 
+::HAQ1923::[html]Measure the width of the rim with a rim ..............................., the location of the flange on the wheel with a gauge, and the diameter of the wheel.{
+	=%100%calliper#
+	=%100%caliper#
+}
+
+
+// question: 28297  name: HAQ1924 
+::HAQ1924::[html]Re-spin the wheel to check for accuracy of the balancing job and to confirm that balance has been achieved. A reading of ............................... on both sides of the wheel means the wheel is ready to reinstall on the vehicle.{
+	=%100%zero#
+	=%100%0#
+}

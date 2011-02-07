@@ -1,0 +1,58 @@
+// question: 24789  name: HAQ1498 
+::HAQ1498::[html]The term 'emission' normally refers to the .............................. produced by a light vehicle during normal use.{
+	=%100%pollution#
+}
+
+
+// question: 24790  name: HAQ1499 
+::HAQ1499::[html]Emission control systems are designed to limit the pollution caused by the harmful products of storing and .............................. fuel.{
+	=%100%burning#
+}
+
+
+// question: 24791  name: HAQ1500 
+::HAQ1500::[html]Emissions from a gasoline driven motor vehicle usually come from a number of sources:  the fuel .............................., the crankcase, and the exhaust system.{
+	=%100%tank#
+}
+
+
+// question: 24792  name: HAQ1501 
+::HAQ1501::[html]Emissions from a gasoline driven motor vehicle usually come from a number of sources: the carburetter or fuel .............................. system, the crankcase, and the exhaust system.{
+	=%100%injection#
+}
+
+
+// question: 24793  name: HAQ1502 
+::HAQ1502::[html]The fuel tank and carburetter allow fuel to evaporate and  escape to the atmosphere. These are called .............................. emissions.{
+	=%100%evaporative#
+}
+
+
+// question: 24794  name: HAQ1503 
+::HAQ1503::[html]In a compression-ignition engine, emissions originate from the engine, and escape to the atmosphere from the exhaust, and the crankcase ..............................{
+	=%100%breather#
+}
+
+
+// question: 24795  name: HAQ1504 
+::HAQ1504::[html]Approximately 60% of emissions from an uncontrolled vehicle engine come from the .............................. - a result of combustion of the fuel and the air.{
+	=%100%exhaust#
+}
+
+
+// question: 24796  name: HAQ1505 
+::HAQ1505::[html]Some vehicles use devices or systems that control the combustion process itself, while others treat the resulting exhaust ..............................{
+	=%100%gases#
+}
+
+
+// question: 24797  name: HAQ1506 
+::HAQ1506::[html]Both Fuel injected and Carbureted engines meet emission standards by maintaining accurate mixture control over a full range of engine conditions. To achieve this, most fuel systems require an air supply at .............................. temperature.{
+	=%100%constant#
+}
+
+
+// question: 24798  name: HAQ1507 
+::HAQ1507::[html]If a manifold is too cold, fuel condenses on its inner surfaces, which will create a lean mixture, and may cause incomplete combustion. Carbon monoxide and hydrocarbon emissions are .............................. from a cold engine.{
+	=%100%highest#
+}

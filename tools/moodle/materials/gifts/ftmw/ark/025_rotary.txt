@@ -1,0 +1,148 @@
+// question: 25114  name: HAQ0539 
+::HAQ0539::[html]A piston-engine is called ................. because the pistons move back and forth over the same path.{
+	=%100%reciprocating#
+}
+
+
+// question: 25115  name: HAQ0540 
+::HAQ0540::[html]A rotary engine has a rotor, not a piston, and it's called rotary because the rotor has a ................. motion. It does not reciprocate.{
+	=%100%planetary#
+}
+
+
+// question: 25116  name: HAQ0541 
+::HAQ0541::[html]The rotor is roughly ................. in shape and it turns inside a housing which is a particular geometric shape called an epitrochoid curve.{
+	=%100%triangular#
+}
+
+
+// question: 25117  name: HAQ0542 
+::HAQ0542::[html]The rotor is mounted in an oval-shaped housing. The housing is made of aluminium alloy, but the curved surface has hard ................. plating.{
+	=%100%chromium#
+}
+
+
+// question: 25118  name: HAQ0543 
+::HAQ0543::[html]The rotor has three ................. which have seals to seal between the rotor and the rotor housing.{
+	=%100%apexes#
+}
+
+
+// question: 25119  name: HAQ0544 
+::HAQ0544::[html]The combustion chamber is formed by hollows in the flanks of the rotor. These hollows are sometimes called .................{
+	=%100%bathtubs#
+}
+
+
+// question: 25120  name: HAQ0545 
+::HAQ0545::[html]If it is a two-rotor engine there is an ................. housing between the two rotors.{
+	=%100%intermediate#
+}
+
+
+// question: 25121  name: HAQ0546 
+::HAQ0546::[html]The rotor is attached to an eccentric shaft at points called rotor .................{
+	=%100%journals#
+}
+
+
+// question: 25122  name: HAQ0547 
+::HAQ0547::[html]The inlet port is uncovered and fuel-air mixture enters the working .................{
+	=%100%chamber#
+}
+
+
+// question: 25123  name: HAQ0548 
+::HAQ0548::[html]The rotor turns. The working chamber becomes smaller, ................. the mixture.{
+	=%100%compressing#
+}
+
+
+// question: 25124  name: HAQ0549 
+::HAQ0549::[html]The working chamber is smallest at the top of the compression phase. And that is when the air-fuel mixture is .................{
+	=%100%ignited#
+}
+
+
+// question: 25125  name: HAQ0550 
+::HAQ0550::[html]The ................. of the rotor uncovers the exhaust port, and exhaust gases are pushed out of the chamber.{
+	=%100%apex#
+}
+
+
+// question: 25126  name: HAQ0551 
+::HAQ0551::[html]There are 3 working chambers between the rotor and housing, and 3 lobes on the rotor. This means that for each complete rotation of the rotor, there are ................. power pulses.{
+	=%100%3#
+	=%100%three#
+}
+
+
+// question: 25127  name: HAQ0552 
+::HAQ0552::[html]Start near the end of an intake phase for working chamber A. Apex 1 is ................. the fresh fuel-air mixture as it approaches the plugs.{
+	=%100%compressing#
+}
+
+
+// question: 25128  name: HAQ0553 
+::HAQ0553::[html]Chamber A ................. The combustion produces a power phase for A. Chamber B keeps pushing out exhaust gases. Chamber C's inlet port is about to be closed after receiving more mixture.{
+	=%100%ignites#
+}
+
+
+// question: 25129  name: HAQ0554 
+::HAQ0554::[html]Chamber A moves on to push out ................. gases, B gets more fuel-air mixture, and C approaches ignition.{
+	=%100%exhaust#
+}
+
+
+// question: 25130  name: HAQ0555 
+::HAQ0555::[html]A finishes discharging exhaust gases and moves on for more fuel-air mixture, B is at ................., and C is pushing out its exhaust gases.{
+	=%100%ignition#
+}
+
+
+// question: 25131  name: HAQ0556 
+::HAQ0556::[html]Each ................. has 1 power pulse. So each rotor revolution produces 3 power pulses, which is similar to the output from a single cylinder 2 - stroke engine.{
+	=%100%chamber#
+}
+
+
+// question: 25132  name: HAQ0557 
+::HAQ0557::[html]Because of the ratio of the gears in the housings and rotor, the eccentric shaft makes ................. revolution for each power phase.{
+	=%100%1#
+	=%100%one#
+}
+
+
+// question: 25133  name: HAQ0558 
+::HAQ0558::[html]The Renesis engine is a further development of the '.................' rotary engine.{
+	=%100%wankel#
+	=%100%Wankel#
+}
+
+
+// question: 25134  name: HAQ0559 
+::HAQ0559::[html]The exhaust ports of the Renesis engine have been moved from the periphery of the combustion chamber to the ................. of the housing.{
+	=%100%side#
+}
+
+
+// question: 25135  name: HAQ0560 
+::HAQ0560::[html]The ports are enlarged when compared to the wankel engine. Their position allows them to open sooner improving power and ................. and extending engine efficiency over a wider engine speed range.{
+	=%100%torque#
+}
+
+
+// question: 25136  name: HAQ0561 
+::HAQ0561::[html]The intake manifold has primary, secondary and auxiliary ducts. The primary duct has no control valve, the secondary and auxiliary ducts are controlled by ................. valves.{
+	=%100%butterfly#
+}
+
+
+// question: 25137  name: HAQ0562 
+::HAQ0562::[html]On the ................. output engine at engine speeds above 6000 rpm the auxiliary duct opens allowing the engine to draw air in through all 6 ports, further increasing engine breathing.{
+	=%100%high#
+}
+
+
+

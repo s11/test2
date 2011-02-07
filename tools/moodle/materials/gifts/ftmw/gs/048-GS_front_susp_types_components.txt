@@ -1,0 +1,54 @@
+// question: 27630  name: HAQ1751 
+::HAQ1751::[html]The shock absorber is contained inside the strut, and is a direct acting ............................... type shock absorber.{
+	=%100%telescopic#
+}
+
+
+// question: 27631  name: HAQ1752 
+::HAQ1752::[html]For the front steerable suspension, the strut's upper mounting is bushed, or bearing-mounted, to allow for the ............................... movement.{
+	=%100%steering#
+}
+
+
+// question: 27632  name: HAQ1753 
+::HAQ1753::[html]The control arm mount is fixed (or 'held in place') in the  vehicle configuration, by ...............................{
+	=%100%bushes#
+}
+
+
+// question: 27633  name: HAQ1754 
+::HAQ1754::[html]The lower control arm is ............................... than the upper control arm.{
+	=%100%longer#
+}
+
+
+// question: 27634  name: HAQ1755 
+::HAQ1755::[html]The steering ............................... supports the brake station, wheel bearings and the road wheel.{
+	=%100%knuckle#
+}
+
+
+// question: 27635  name: HAQ1756 
+::HAQ1756::[html]The upper control arm pivots on bushes. These bushes ............................... on the upper control arm pin, which is bolted to the vehicle's cross-member.{
+	=%100%twist#
+}
+
+
+// question: 27636  name: HAQ1757 
+::HAQ1757::[html]The torsion bar supports the vehicle load and twists around its ............................... to provide the springing action.{
+	=%100%center#
+	=%100%centre#
+}
+
+
+// question: 27637  name: HAQ1758 
+::HAQ1758::[html]The spring rate depends upon the length of the bar. The shorter and thicker the bar, the ............................... its spring rate.{
+	=%100%stiffer#
+}
+
+
+// question: 27638  name: HAQ1759 
+::HAQ1759::[html]The lower control arm moves up and down to accommodate movement in the suspension. This particular design is sometimes referred to as a '............................... Control Arm'.{
+	=%100%wish-bone#
+	=%100%wishbone#
+}

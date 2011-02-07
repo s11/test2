@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+#--
+#  csv2gift
+#  management
+#  
+#  Created by John Meredith on 2009-05-15.
+#  Copyright 2009 DVP Media Pty Ltd. All rights reserved.
+#++
+require File.dirname(__FILE__) + '/../../config/boot'
+
+require 'script/csv2gift/cli'
+
+Moodle::Csv2gift::CLI.execute(STDOUT, ARGV)

@@ -1,0 +1,783 @@
+//name:TQ0001
+::TQ0001::In the case of a building fire the procedure will involve leaving a building and:{
+	=assembling at a mustering point.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+	~staying outside until the all clear is given.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+	~going home until the emergency is over.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+	~closing and locking all doors.#Ensuring that everyone is accounted for is of primary importance.  Emergency personnel should be informed if someone is not accounted for.
+}
+
+
+//name:TQ0002
+::TQ0002::The first rule in the case of an emergency is:{
+	=don't panic#Panicking usually results in decisions that result in more harm than good.
+	~wait for confirmation that it's a real emergency.#Panicking usually results in decisions that result in more harm than good.
+	~ignore the warning, it's probably a 'drill'.#Panicking usually results in decisions that result in more harm than good.
+	~run outside.#Panicking usually results in decisions that result in more harm than good.
+}
+
+
+//name:TQ0003
+::TQ0003::It is safe to repair a fuel tank yourself if you first ensure that all excess fuel has been safely drained.{
+	=FALSE#Fuel vapors are more deadly than liquid fuel in a confined space. Do not repair a fuel tank unless all fuel and fuel vapors have been purged and replaced with an inert gas.
+	~TRUE#Fuel vapors are more deadly than liquid fuel in a confined space. Do not repair a fuel tank unless all fuel and fuel vapors have been purged and replaced with an inert gas.
+}
+
+
+//name:TQ0004
+::TQ0004::The features of a 'caution' sign are: {
+	=yellow background, black text.#Caution is always expressed as yellow with black text.
+	~red background, black text.#Caution is always expressed as yellow with black text.
+	~orange background, black text.#Caution is always expressed as yellow with black text.
+	~green background, black text.#Caution is always expressed as yellow with black text.
+}
+
+
+//name:TQ0005
+::TQ0005::The features of a 'danger' sign are:{
+	=red background, white text.#Danger is always expressed as red with white text.
+	~yellow background, white text.#Danger is always expressed as red with white text.
+	~orange background, white text.#Danger is always expressed as red with white text.
+	~green background, white text.#Danger is always expressed as red with white text.
+}
+
+
+//name:TQ0006
+::TQ0006::The yellow painted lines on a workshop floor indicate:{
+	=a clear zone away from tools and equipment.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+	~where you can walk.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+	~where you should not walk.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+	~an emergency evacuation path.#Yellow, a symbol for caution, is painted on floors to denote safe walk zones.
+}
+
+
+//name:TQ0007
+::TQ0007::Technician A says if an asbestos containment system is not available, the brake assembly should be cleaned by spraying the assembly with brake cleaner while wearing a respirator.  Technician B says if an asbestos containment system is not available, the brake assembly should not be cleaned.  Who is correct?{
+	=Technician A.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+	~Technician B.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+	~Both Technician A & Technician B.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+	~Neither Technician A nor Technician B.#Technician A is correct because provided adequate safety procedures are used and technicians ensure that they are wearing appropriate safety apparel, including the wearing of a respirator when cleaning the brakes, containment equipment isn't necessarily required. 
+}
+
+
+//name:TQ0008
+::TQ0008::Engines with catalytic converters can safely be run indoors once the engine has warmed up.{
+	=FALSE#Whilst engines fitted with catalytic converters do emit reduced emissions, they cannot be run in confined spaces as they still emit carbon monoxide.
+	~TRUE#Whilst engines fitted with catalytic converters do emit reduced emissions, they cannot be run in confined spaces as they still emit carbon monoxide.
+}
+
+
+//name:TQ0009
+::TQ0009::Exhaust gases in workshops are a serious health hazard. The best way to get rid of these gases is:{
+	=with an exhaust extraction system.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+	~not to run vehicles in the workshop.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+	~face the exhaust towards the workshop doors.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+	~attach a pipe that vents the gases away from your work area.#Any vehicle that is brought into the shop should have an exhaust extraction tube placed over the tail pipe as a precaution.
+}
+
+
+//name:TQ0010
+::TQ0010::A fire involving gasoline is classed as a:{
+	=B class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~A class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~C class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~D class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+	~E class fire.#Gasoline fires are particularly dangerous. Always make sure that when using an extinguisher, it is of the correct type.
+}
+
+
+//name:TQ0011
+::TQ0011::A fire involving paper or wood is classed as a:{
+	=A class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~B class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~C class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~D class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+	~E class fire.#Most types of fire extinguishers maybe used for this type of fire. However, make sure you familiarize yourself with the instructions on how to operate the equipment.
+}
+
+
+//name:TQ0012
+::TQ0012::According to the Fire Triangle, which element do you need to remove to extinguish a fire?  {
+	=Fuel, heat or oxygen.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+	~Oxygen and heat.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+	~Heat and fuel.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+	~Fuel and oxygen.#All fires require all three elements for combustion to occur. The removal of any one will extinguish the fire.
+}
+
+
+//name:TQ0013
+::TQ0013::Material Safety Data Sheets provide information about:{
+	=handling, use and storage of chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+	~ground storage of old chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+	~the purchase requirements of chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+	~the purchase cost of chemicals.#MSDS describe all aspects including precautions and handling of potentially dangerous chemicals.
+}
+
+
+//name:TQ0014
+::TQ0014::The MSDS should always be:{
+	=clearly visible and located near where the product is stored.#The MSDS is an aid to safety that should be available for users.
+	~available from the supplier.#The MSDS is an aid to safety that should be available for users.
+	~available from the manufacturer.#The MSDS is an aid to safety that should be available for users.
+	~kept in the manager's office.#The MSDS is an aid to safety that should be available for users.
+}
+
+
+//name:TQ0015
+::TQ0015::Why should you disconnect the battery prior to cleaning a vehicle with solvents?{
+	=Because some solvents are highly volatile and can explode.#Sparks from vehicle component operation may cause a fire.  Disconnecting the battery will ensure a safer work place.
+	~Because solvents in contact with the battery can cause it to short out the electrical wiring of the vehicle.#Sparks from vehicle component operation may cause a fire.  Disconnecting the battery will ensure a safer work place.
+	~Because solvents can corrode the battery terminals.#Sparks from vehicle component operation may cause a fire.  Disconnecting the battery will ensure a safer work place.
+}
+
+
+//name:TQ0016
+::TQ0016::Your workplace would will be a much safer place if you:{
+	=know what to do in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+	~rely on the designated safety officer to tell you what to do in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+	~stop and document an unsafe situation in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+	~complete the procedure as quickly as possible in an emergency.#Accidents and injuries are avoidable. Just because it so commonplace, it is sometimes easy to overlook the many potential risks involved in vehicle servicing and repair.
+}
+
+
+//name:TQ0017
+::TQ0017::How often should maintenance tests usually be carried out on lifting equipment?{
+	=Every 6 months in the case of hoists and lifts.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+	~Every 12 months in the case of hoists and lifts.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+	~Every 2 years in the case of hoists and lifts.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+	~Whenever machinery shows signs of wear or damage.#If your lifting equipment is not required by law to be tested and certified, it is good practice anyway to carry out regular periodic checks on the serviceability of all of the lifting equipment in your workplace. Refer to the manufacturer's handbook to find out how often they recommend maintenance tests and make sure that these occur. It is usually every 6 months in the case of hoists and lifts, but may be longer for larger items of lifting equipment.
+}
+
+
+//name:TQ0018
+::TQ0018::Where should you keep keys for all vehicles when not in use?{
+	=Secure and away from the vehicle.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+	~With the vehicle at all times.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+	~With the technician at all times.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+	~In easy reach of the workplace for convenience.#Make sure that customers and visiting drivers to your workshop are aware of your rules for moving cars. Keep the keys for all vehicles secure and away from the vehicles when not in use.
+}
+
+
+//name:TQ0019
+::TQ0019::It is safe to be in prolonged, direct contact with engine oil when wearing protective clothing.{
+	=FALSE#Avoid direct contact as far as possible, by always using protective clothing, which is cleaned or replaced regularly, and by following safe work practices, which minimize the possibility of accidental spills. Used engine oil is a hazardous substance containing many impurities that can damage your skin.
+	~TRUE#Avoid direct contact as far as possible, by always using protective clothing, which is cleaned or replaced regularly, and by following safe work practices, which minimize the possibility of accidental spills. Used engine oil is a hazardous substance containing many impurities that can damage your skin.
+}
+
+
+//name:TQ0020
+::TQ0020::For safety reasons when using portable electrical equipment, you should:{
+	=choose 110-volt or lower voltage tools if they are available.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+	~choose 240-volt 'double-insulated' tools if they are available.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+	~choose 240-volt 'water-proof' tools if they are available.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+	~only use air-operated tools.#Portable electric tools and hand lamps, particularly those that operate at 240 volts, are often sources of serious shock and burn accidents. Choose to use 110-volt or lower voltage tools if they are available. If you have to use 240-volt tools, only use 'double-insulated' or 'all-insulated' tools.
+}
+
+
+//name:TQ0021
+::TQ0021::If a casualty has a 'stake' wound, you should:{
+	=Leave the object in position and apply a doughnut bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+	~Push the object all the way through, then apply a bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+	~Pull the object out, then apply a bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+	~Twist the object until it comes out, then apply a bandage.#The wound's blood flow may be controlled by the stake's presence.  Therefore, do not remove the stake, rather seek medical attention immediately.
+}
+
+
+//name:TQ0022
+::TQ0022::If an object is embedded in the eye, you should:{
+	=not attempt to remove it.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+	~remove it with surgical tweezers.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+	~flush the eye with hot water.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+	~do nothing. It will come out by itself.#The wound may be made worse by altering the object.  Therefore, do not remove it, rather seek medical attention immediately.
+}
+
+
+//name:TQ0023
+::TQ0023::When treating a burn, you should:{
+	=not apply any ointments or lotions.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+	~cover the burn with a tight dressing.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+	~puncture blisters to relieve pain.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+	~give alcohol to relieve pain.#The best course of action is to contact medical emergency assistance for the burn victim immediately.
+}
+
+
+//name:TQ0024
+::TQ0024::When you approach the scene of an accident or emergency, you should follow the:{
+	=DRABC plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+	~CPR plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+	~ABC plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+	~HVAC plan.#What you do when approaching the scene of an accident or emergency will determine the outcome of the event.
+}
+
+
+//name:TQ0025
+::TQ0025::When lifting heavy weights you should always try to keep the back straight and lift from the knees.{
+	=TRUE#Good lifting habits will prevent injuries to one's back.  Leg muscles are stronger than back muscles.
+	~FALSE#Good lifting habits will prevent injuries to one's back.  Leg muscles are stronger than back muscles.
+}
+
+
+//name:TQ0026
+::TQ0026::What personal protection should you use when working with corrosive chemicals?{
+	=Eye, hand and respiration protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+	~Eye and ear protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+	~Eye and respiration protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+	~Hand protection.#Corrosive chemicals can cause serious and sometimes irreversible injury and or death.  Protect your entire body from exposure.
+}
+
+
+//name:TQ0027
+::TQ0027::Before you begin a vehicle service, you notice a scratch in the fender paintwork. What should you do about it?{
+	=Make a note of the damage on the job sheet, and bring it to the
+attention of your supervisor or to the customer.#Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+	~You shouldn't do anything about it, because repairing body damage is not your responsibility; it is not part of the service procedure. #Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+	~Make sure it is covered by the fender cover while you work on the vehicle, so you don't make any paintwork damage worse.#Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+	~After the service, when you are cleaning the vehicle for return to the customer, use some rubbing compound to remove or at least improve visible scratches.#Check your customer's vehicle before you start to work on it. If there are any valuables in it, or any damage to the paintwork, note them on your job sheet and refer them to the customer or to your supervisor. Always use seat covers, floor mats and fender covers when working on a vehicle. 
+}
+
+
+//name:TQ0028
+::TQ0028::Decoding a VIN is normally straightforward as the structure of the sequence of numbers and letters meets an internationally agreed format.{
+	=TRUE#The Vehicle Identification Number was originally described in ISO Standard 3779 in February 1977 and last revised in 1983. The ISO-VIN was designed to identify motor vehicles, trailers, motorcycles and mopeds.
+	~FALSE#The Vehicle Identification Number was originally described in ISO Standard 3779 in February 1977 and last revised in 1983. The ISO-VIN was designed to identify motor vehicles, trailers, motorcycles and mopeds.
+}
+
+
+//name:TQ0029
+::TQ0029::Technician A says the VIN number tells you which country the vehicle was built in. Technician B says the VIN can tell you which assembly plant the vehicle was built in. Who is correct?{
+	~Technician A.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+	~Technician B.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+	=Both Technician A and Technician B.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+	~Neither Technician A nor Technician B.#Both technicians are correct. The VIN information will identify the plant and manufacturer information.
+}
+
+
+//name:TQ0030
+::TQ0030::Every modern vehicle constructed today has a special build number that provides specific information about the vehicle. What is this number commonly known as?{
+	=The Vehicle Identification Number or VIN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+	~The Vehicle Build Number or VBN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+	~The Vehicle Build Identification Number or VBIN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+	~The Vehicle Serial Number or VSN.#The Vehicle Identification Number or VIN is unique to every vehicle. It provides lots of information including country of manufacture, the model and series, and the engine type etc.
+}
+
+
+//name:TQ0031
+::TQ0031::The VIN is an abbreviation for:{
+	=Vehicle Identification Number.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+	~Very Important Number.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+	~Vehicle Importation Number.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+	~Verify Information Notation.#VIN information, or vehicle identification number is an important aspect of connecting the correct service procedures and service parts to the vehicle being serviced.
+}
+
+
+//name:TQ0032
+::TQ0032::VIN decoding information is usually located in the:{
+	=general information section of a manufacturer's parts or service manual.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+	~service manual index.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+	~labor guide.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+	~customer sales information.#The VIN decode provides the service technician with important reference points related to service.  Understanding how to decode the VIN assures an accurate match to the service information.
+}
+
+
+//name:TQ0033
+::TQ0033::Labor manuals contain information on:{
+	=times to perform service and repair tasks.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+	~vehicle components and their part numbers.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+	~vehicle specifications and their part numbers.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+	~vehicle components and their specifications.#The labor times reflected in the Labor Guide are the culmination of research and testing from actual field tests. They are continually updated and refined reflecting the labor costs and times with information from in-field estimations.
+}
+
+
+//name:TQ0034
+::TQ0034::Technician A says that labor manuals provide a guide to how much time a job will take. Technician B says that the labor manual specifies the time the job must take. Who is correct?{
+	=Technician A.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+	~Technician B.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+	~Both Technician A and Technician B.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+	~Neither Technician A nor Technician B.#Technician A is correct as labor time guides provide an estimated time guide for pricing labor and determining job repair time.
+}
+
+
+//name:TQ0035
+::TQ0035::Parts manuals contain information on:{
+	=vehicle components and their part numbers.#The parts manual is essential to identify vehicle components and the respective part number information.
+	~part numbers and labor times.#The parts manual is essential to identify vehicle components and the respective part number information.
+	~vehicle specifications and their part numbers.#The parts manual is essential to identify vehicle components and the respective part number information.
+	~vehicle components and their specifications.#The parts manual is essential to identify vehicle components and the respective part number information.
+}
+
+
+//name:TQ0036
+::TQ0036::An alternate method of finding specific vehicle information in a manual is to:{
+	=use the index at the rear of the manual.#When searching for information in a manual the index section is an excellent starting point.
+	~use the telephone and ask the local specific vehicle dealer where the information may be located.#When searching for information in a manual the index section is an excellent starting point.
+	~thumb through the book until you locate the information.#When searching for information in a manual the index section is an excellent starting point.
+	~use the manual from a similar vehicle and use those specifications.#When searching for information in a manual the index section is an excellent starting point.
+}
+
+
+//name:TQ0037
+::TQ0037::If the manufacturer's manual is not available, service information can be located in:{
+	=an aftermarket service manual.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+	~an oil company lubrication guide.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+	~the parts manual.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+	~a sales information booklet.#Aftermarket repair manuals are designed to replace the original manufacturer's unit. Aftermarket repair manuals provide model-specific coverage with simple step-by-step procedures for engine overhaul, chassis, electrical, drive train, suspension, steering and more. They include trouble codes and electronic engine controls.
+}
+
+
+//name:TQ0038
+::TQ0038::The section index of a service manual may also contain:{
+	=specifications and torque wrench settings.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+	~spare parts and pricing information.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+	~spare parts.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+	~pricing information.#The vehicle system-specific information is found within the service manual. Each publication is referenced as an index.
+}
+
+
+//name:TQ0039
+::TQ0039::Torque specifications for fasteners such as bolts are found in the:{
+	=repair manual.#The repair manual provides all required service information to ensure an accurate repair.
+	~owner's handbook.#The repair manual provides all required service information to ensure an accurate repair.
+	~parts manual.#The repair manual provides all required service information to ensure an accurate repair.
+	~vehicle identification booklet.#The repair manual provides all required service information to ensure an accurate repair.
+}
+
+
+//name:TQ0040
+::TQ0040::Up to date specifications and modifications can be located in:{
+	=technical service bulletins.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+	~parts manuals.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+	~service manuals.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+	~labor guides.#Technical service bulletins are published periodically by manufacturers and are referenced to the VIN information.
+}
+
+
+//name:TQ0041
+::TQ0041::A shop manual contains:{
+	=service procedures and specifications.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+	~illustrations and part numbers.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+	~information on how to operate the vehicle.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+	~service coupons.#Shop manuals cover features of the vehicle and its components such as: factory specifications, wiring diagrams, diagnostic charts, engine management diagnostic systems, tune-up information, all with detailed and easy-to-follow diagrams.
+}
+
+
+//name:TQ0042
+::TQ0042::Each separate section of a shop manual normally contains a further index. This includes:{
+	=the chapter contents.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+	~spare parts and pricing information.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+	~spare parts.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+	~pricing information.#To make the manuals more user friendly, publishers have broken the information down into major categories under specific chapters and headings which can explain the contents of the chapter.
+}
+
+
+//name:TQ0043
+::TQ0043::The publication used to obtain vehicle system-specific repair information is the:{
+	=vehicle shop manual.#The vehicle system-specific information is found within the shop manual.
+	~vehicle operator manual.#The vehicle system-specific information is found within the shop manual.
+	~owner's handbook.#The vehicle system-specific information is found within the shop manual.
+	~tire information manual.#The vehicle system-specific information is found within the shop manual.
+}
+
+
+//name:TQ0044
+::TQ0044::The table of contents in a shop manual contains an index that lists:{
+	=the various systems and vehicle components.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+	~service procedures and parts information.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+	~spare parts and pricing information.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+	~vehicle components and pricing information.#The vehicle system-specific information is found within the shop manual. Each publication is referenced with a table of contents.
+}
+
+
+//name:TQ0045
+::TQ0045::Information on correct oil specifications can be located in:{
+	=shop manuals and the owner's manual.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+	~parts manuals and owner's handbook.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+	~parts and service manuals.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+	~aftermarket and parts manuals.#Vehicle specifications are located in manufacturers' shop manuals, owner's manual and aftermarket repair manuals as well being available on the internet.
+}
+
+
+//name:TQ0046
+::TQ0046::The owner's manual can contain information such as:{
+	=lubrication and fuel tank capacities.#The owner's manual is limited to system operation, maintenance and general information.
+	~engine torque settings.#The owner's manual is limited to system operation, maintenance and general information.
+	~wheel alignment specifications.#The owner's manual is limited to system operation, maintenance and general information.
+	~service bulletins.#The owner's manual is limited to system operation, maintenance and general information.
+}
+
+
+//name:TQ0047
+::TQ0047::It may take several 'trips' for the code to reset, so:{
+	=with OBDII you must complete the diagnosis process first before clearing the codes.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~with OBDI you must complete the diagnosis process first before clearing the codes.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~with OBDII you must clear the codes before completing the diagnosis process.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+	~with OBDI you must clear the codes before completing the diagnosis process.#The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is repaired. Clearing the codes also clears all of the freeze frame data in the system that is useful for the diagnosis process.
+}
+
+
+//name:TQ0048
+::TQ0048::In the PC world, what is starting up often known as?{
+	='Booting' the computer.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+	~'Upping' the computer.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+	~'Networking' the computer.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+	~Logging in.#In the PC world, starting-up is often known as 'booting' the computer, which means, 'Turn the computer on and log in, if you are required to'. This step will depend on the type of PC that you are using and whether it is 'stand alone', on a local network or needs to be connected to the internet to operate the software.
+}
+
+
+//name:TQ0049
+::TQ0049::A vehicle designed to carry between 8 and 25 passengers is called a:{
+	=mini-bus.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+	~passenger car.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+	~passenger coach.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+	~body truck.#The mini-bus is popular for public transport on routes which have smaller passenger numbers.
+}
+
+
+//name:TQ0050
+::TQ0050::A coupe has a maximum of:{
+	=two doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+	~three doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+	~four doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+	~five doors.#Coupe design normally has two doors. These doors are usually larger than for a comparable four door vehicle, to allow better access to the rear seat.
+}
+
+
+//name:TQ0051
+::TQ0051::On many two door vehicles the doors are much wider than with a four door arrangement. Why is this?{
+	=To allow more room for passengers to get into the back seats.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats. 
+	~It doesn't matter as there are no back seats.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats. 
+	~This arrangement is only on sports cars.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats. 
+	~The vehicle is shorter in length.#Many two door vehicles have doors that are much wider than with a four door arrangement to allow better access for passengers to get into the back seats. 
+}
+
+
+//name:TQ0052
+::TQ0052::A fifth-wheel coupling is used to:{
+	=couple semi-trailers to prime movers.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+	~carry the spare wheel.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+	~couple the steering wheel to the steering box.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+	~couple wheels to the axles.#A fifth wheel coupling is used to connect semi-trailers to prime movers, and/or to link additional semi-trailers to form 'B' doubles.
+}
+
+
+//name:TQ0053
+::TQ0053::All heavy goods vehicles that have more than one trailer are know as 'B' Doubles.{
+	=FALSE#There are many vehicle combinations that can have more than one trailer, not just 'B' Doubles. 'B' Doubles are an example where there are two semi-trailers mounted behind the prime mover and an intermediary bogie. Other types have draw bars or semi-trailers connected to the back of the first semi-trailer, and typically have 3 to 5 trailers.  These are known as road trains.
+	~TRUE#There are many vehicle combinations that can have more than one trailer, not just 'B' Doubles. 'B' Doubles are an example where there are two semi-trailers mounted behind the prime mover and an intermediary bogie. Other types have draw bars or semi-trailers connected to the back of the first semi-trailer, and typically have 3 to 5 trailers.  These are known as road trains.
+}
+
+
+//name:TQ0054
+::TQ0054::Compared to a rigid vehicle, an articulated vehicle of the same length has:{
+	=greater maneuverability.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+	~better fuel economy.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+	~more driving axles.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+	~greater fuel capacity.#Compared to a rigid vehicle, an articulated vehicle of the same length has greater maneuverability as the fifth wheel coupling provides for axial movement of the vehicle. This makes it easier to turn corners in a forward direction. Reversing an articulated vehicle requires a high degree of skill as the fifth wheel coupling causes the semi-trailer to move in the opposite direction to the steering wheels of the prime mover when compared to the direction that would normally be expected with a rigid vehicle.
+}
+
+
+//name:TQ0055
+::TQ0055::Heavy goods vehicles with more than two semi trailers are known as road trains.{
+	=TRUE#Heavy goods vehicles with more than two semi trailers are known as road trains. A road train can typically have three to five trailers. However in certain parts of Australia, it is common to see road trains with up to 5 trailers.
+	~FALSE#Heavy goods vehicles with more than two semi trailers are known as road trains. A road train can typically have three to five trailers. However in certain parts of Australia, it is common to see road trains with up to 5 trailers.
+}
+
+
+//name:TQ0056
+::TQ0056::Many vans are constructed in a forward control arrangement. What does this indicate?{
+	=The driver position is either over or in front of the front axle (wheels) of the vehicle and describes the steering system linkage layout.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+	~The driver position is behind the front axle (wheels) of the vehicle.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+	~It describes the steering system linkage layout.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+	~It ensures that a rack and pinion steering system is used.#Many vans are constructed in a forward control arrangement. The arrangement maximizes the available goods volume and capacity.
+}
+
+
+//name:TQ0057
+::TQ0057::A hatchback can have:{
+	=three or five doors.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+	~three doors only.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+	~five doors only.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+	~must have a sun roof.#This type of vehicle can have a range of body configurations depending on the preference of the owner. It is probably the most versatile of all vehicle body configurations.
+}
+
+
+//name:TQ0058
+::TQ0058::A sedan or saloon has a maximum of:{
+	=four doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+	~two doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+	~three doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+	~five doors.#A sedan is a conventional vehicle configuration. Typically it also has a 'trunk', or 'boot', for carrying goods.
+}
+
+
+//name:TQ0059
+::TQ0059::A station wagon is also known by what other name in some countries?{
+	=An estate car.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+	~An estate wagon.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+	~A shooting brake.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+	~A country wagon.#Before the advent of SUVs and people movers, this type of vehicle with a large rear carrying capacity, was popular with families who carried prams and pets with them.
+}
+
+
+//name:TQ0060
+::TQ0060::A pick-up truck or utility can carry heavier loads and has stronger:{
+	=suspension.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+	~steering.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+	~gross vehicle mass.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+	~braking.#The pick-up, or utility, carries goods. Usually it has stronger chassis components and suspension than a sedan, to support greater gross vehicle mass.
+}
+
+
+//name:TQ0061
+::TQ0061::Light vehicle vans can be based on common ________ designs,{
+	=sedan or saloon#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+	~station wagon#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+	~coupe#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+	~general goods transport vehicle#Light vehicle vans can also be redesigned so that maximum cargo space is available.
+}
+
+
+//name:TQ0062
+::TQ0062::What type of vehicle can 'convert' from an enclosed top vehicle into an open top vehicle by means of a roof that can be removed or retracted or folded away?{
+	=A convertible.#A convertible is an automobile built with a folding, retracting, or removable roof.
+	~A station wagon.#A convertible is an automobile built with a folding, retracting, or removable roof.
+	~A coupe.#A convertible is an automobile built with a folding, retracting, or removable roof.
+	~A sedan.#A convertible is an automobile built with a folding, retracting, or removable roof.
+}
+
+
+//name:TQ0063
+::TQ0063::Most heavier trucks share a common construction. They comprise a:{
+	=chassis with a cab; axles, suspension and wheels; and an engine and a drivetrain.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+	~chassis with a cab; axles, suspension and wheels; and an engine.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+	~chassis with a cab; axles; and an engine and a drivetrain.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+	~chassis; axles, suspension and wheels; and an engine and a drivetrain.#Most heavier trucks shair a common construction. The body or coachwork is usually customized for the particular goods that it will carry.
+}
+
+
+//name:TQ0064
+::TQ0064::Vehicle openings have to be secured and may require a remote switch or lever to be activated. This is actuated by:{
+	=all of these.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+	~cable.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+	~electric solenold.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+	~vacuum solenoid.#A vehicle body contains many openings apart from the vehicle doors. They include engine compartment hoods, hatch and tailgate openings, fuel doors, and battery access covers.
+}
+
+
+//name:TQ0065
+::TQ0065::In a 4-wheel drive vehicle the driver can lock the front and rear axles together my moving a:{
+	=differential lock.#The driver can still lock the front and rear axles together by moving a separate lever as in a conventional 4-wheel-drive or by moving the main gear selector. This is called a differential lock.
+	~differential gear.#The driver can still lock the front and rear axles together by moving a separate lever as in a conventional 4-wheel-drive or by moving the main gear selector. This is called a differential lock.
+	~transaxle lock.#The driver can still lock the front and rear axles together by moving a separate lever as in a conventional 4-wheel-drive or by moving the main gear selector. This is called a differential lock.
+	~transaxle gear.#The driver can still lock the front and rear axles together by moving a separate lever as in a conventional 4-wheel-drive or by moving the main gear selector. This is called a differential lock.
+}
+
+
+//name:TQ0066
+::TQ0066::Some sedan vehicles have a rear engine, rear-wheel drive arrangement.{
+	=TRUE#Some sedan vehicles do have a rear engine, rear wheel drive arrangement. Often this is a design feature deliberately used by the manufacturer due to the body design of the vehicle.
+	~FALSE#Some sedan vehicles do have a rear engine, rear wheel drive arrangement. Often this is a design feature deliberately used by the manufacturer due to the body design of the vehicle.
+}
+
+
+//name:TQ0067
+::TQ0067::What type of vehicle would typically have a mid engine, rear-wheel drive arrangement?{
+	=A sports car.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+	~A sedan.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+	~A people mover.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+	~A hatchback.#A mid engine, rear wheel drive arrangement is commonly used in sports cars.
+}
+
+
+//name:TQ0068
+::TQ0068::A mid-engined vehicle has the engine:{
+	=in front of the rear wheels.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+	~behind the front wheels.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+	~in the middle of the vehicle.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+	~in the rear of the vehicle.#The engine can be transverse or longtudinal, and usually drives the rear wheels only.
+}
+
+
+//name:TQ0069
+::TQ0069::A front-wheel drive vehicle usually has a:{
+	=front-mounted engine driving the front wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+	~rear-mounted engine driving the front wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+	~front-mounted engine driving all 4 wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+	~front-mounted engine driving the rear wheels.#A front-mounted engine driving the front wheels can be provided in a variety of configurations, such as transverse, in-line, flat or Vee depending on the layout of transmission used.
+}
+
+
+//name:TQ0070
+::TQ0070::In a rear-wheel drive vehicle with the engine at the front of the vehicle, the torque from the engine is transmitted to the rear-mounted driving axle by:{
+	=a propeller or drive shaft.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+	~a propeller or transmission shaft.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+	~a propeller or flywheel.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+	~a propeller or crankshaft.#The torque from the engine is transmitted to the rear-mounted driving axle by propeller, or drive shaft. This spreads the weight of components throughout the vehicle.
+}
+
+
+//name:TQ0071
+::TQ0071::A vehicle starting from rest needs very little torque. Once it is moving it requires more and more torque.{
+	=FALSE#A vehicle starting from rest needs a lot of torque, but once it is moving, it can maintain speed with only a relatively small amount of torque. A higher gear ratio can then be selected, and engine speed reduced.
+	~TRUE#A vehicle starting from rest needs a lot of torque, but once it is moving, it can maintain speed with only a relatively small amount of torque. A higher gear ratio can then be selected, and engine speed reduced.
+}
+
+
+//name:TQ0072
+::TQ0072::A vehicle with 6 wheels - only 2 of which are driving wheels - is called a:{
+	=6x2.#A 6x2 layout is an appropriate choice where additional vehicle support for load distribution is important.
+	~4x2.#A 6x2 layout is an appropriate choice where additional vehicle support for load distribution is important.
+	~6x1.#A 6x2 layout is an appropriate choice where additional vehicle support for load distribution is important.
+	~6x4.#A 6x2 layout is an appropriate choice where additional vehicle support for load distribution is important.
+}
+
+
+//name:TQ0073
+::TQ0073::Vehicles are classified by their axles. Identify the correct statement.{
+	=6X2 has 6 sets of wheels on 3 axles but only 2 sets of wheels driving the vehicle.#Vehicles are classified by their axles. Normally the first figure refers to the number of wheels and axles so if each axle has two wheels then the figure 6 indicates 3 axles on the vehicle. The second figure indicates the number of driving wheels, so 2 indicates that there is only one driving axle.
+	~6X2 has 6 wheels on 3 axles and only 2 axles driving the vehicle.#Vehicles are classified by their axles. Normally the first figure refers to the number of wheels and axles so if each axle has two wheels then the figure 6 indicates 3 axles on the vehicle. The second figure indicates the number of driving wheels, so 2 indicates that there is only one driving axle.
+	~6X2 has 6 sets of wheels on 3 axles but only 2 sets of wheels on an axle at the rear are driving the vehicle.#Vehicles are classified by their axles. Normally the first figure refers to the number of wheels and axles so if each axle has two wheels then the figure 6 indicates 3 axles on the vehicle. The second figure indicates the number of driving wheels, so 2 indicates that there is only one driving axle.
+	~6X2 has 6 wheels on 3 axles and only 4 axles driving the vehicle.#Vehicles are classified by their axles. Normally the first figure refers to the number of wheels and axles so if each axle has two wheels then the figure 6 indicates 3 axles on the vehicle. The second figure indicates the number of driving wheels, so 2 indicates that there is only one driving axle.
+}
+
+
+//name:TQ0074
+::TQ0074::The spot-welded unit body process is known as: {
+	=unibody.#The spot-welded unit body process, known as 'unibody', is the predominant vehicle construction technology today.
+	~monocoque.#The spot-welded unit body process, known as 'unibody', is the predominant vehicle construction technology today.
+	~single body.#The spot-welded unit body process, known as 'unibody', is the predominant vehicle construction technology today.
+	~high performance chassis.#The spot-welded unit body process, known as 'unibody', is the predominant vehicle construction technology today.
+}
+
+
+//name:TQ0075
+::TQ0075::In automatic transmissions the selector is connected to the transmission by:{
+	=selector rods, or cables.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+	~selector rods.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+	~cables.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+	~selector rods, cables or steering column.#Inside the vehicle equipped with automatic transmission, a gear selector is provided to allow the various gear positions to be selected.  The selector is connected to the transmission by selector rods or, in some applications, by cables.
+}
+
+
+//name:TQ0076
+::TQ0076::Before servicing a vehicle, you should refer to:{
+	=the appropriate workshop manual and update bulletins.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+	~the owner's handbook and auto club information.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+	~verbal advice from experienced people.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+	~motoring magazines and journals.#Manufacturers supply update bulletins on any subject that requires new, additional or explanatory information.
+}
+
+
+//name:TQ0077
+::TQ0077::The term 'track' refers to the measurement of:{
+	=the center of one tire tread to the center of the tire tread on the opposite side in relation to all axles on the vehicle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+	~the center of the front axle to the center of the rear axle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+	~the difference in measurement from one side of the vehicle to the other side of the vehicle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+	~one side to the other side of the vehicle.#Track is an important alignment geometry characteristic that also serves to identify poor handling and tire wear concerns.
+}
+
+
+//name:TQ0078
+::TQ0078::The term 'wheelbase' refers to the measurement of:{
+	=the center of the front axle to the center of the rear axle.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+	~the difference in the measurements from one side of the vehicle to the other side of the vehicle.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+	~the side to side dimension of the vehicle.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+	~the center of the tire tread to the center of the tire tread on the opposite side.#Wheelbase is a reference point from the front axle centerline to the rear axle centerline.
+}
+
+
+//name:TQ0079
+::TQ0079::How often should a vehicle be checked for overall roadworthiness?{
+	=Once a month.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+	~Once every six months.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+	~Once a year.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+	~Whenever a fault is found.#Once a month or prior to any long trip, a vehicle should be checked for overall roadworthiness.
+}
+
+
+//name:TQ0080
+::TQ0080::After completing an underbody inspection:{
+	=discuss the problems with your supervisor.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+	~discuss the problems with your customer.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+	~begin correcting the problems immediately.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+	~check all problems with a scan tool.#After completing the inspection, discuss your list of problems with your supervisor to see what action can be taken to fix the problems.
+}
+
+
+//name:TQ0081
+::TQ0081::Which statement about washer fluid is correct?{
+	=Some washer fluids are concentrated and need to be mixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+	~All washer fluids are concentrated and need to be mixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+	~Washer fluids do not need to be mixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+	~All washer fluids come premixed with water.#Never use laundry-washing detergent to top up the reservoir, as the chemicals in the detergent can be detrimental to the vehicle paintwork. 
+}
+
+
+//name:TQ0082
+::TQ0082::The new wiper blade should be identical to the one you are replacing.{
+	=FALSE#New developments in blade design means that the profile of the new blade may not be identical to the original.
+	~TRUE
+}
+
+
+//name:TQ0083
+::TQ0083::What is the primary cause of the transponder not opening or closing the vehicle doors?{
+	=The transponder battery needs replacing.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+	~The vehicle battery needs replacing.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+	~The security system is immobilized.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+	~The transponder is suffering from electronic interference.#If the transponder is not working properly you might need to replace its battery. To do this, you will need to refer to the specific manufacturer's specifications for changing the battery to re-test the unit.
+}
+
+
+//name:TQ0084
+::TQ0084::What has happened when a door is said to have 'dropped'?{
+	=There is excessive amount of movement up and down at its outer edge. This means the door hinges have worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+	~There is excessive amount of movement side to side at its outer edge. This means the door has worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+	~There is excessive amount of movement up and down at its inner edge. This means the door has worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+	~There is excessive amount of movement side to side at its inner edge. This means the door has worn.#Some limited amount of wear is always present, and you will usually be able to move the door up and down a little at its outer edge. An excessive amount of movement means the door hinge is worn and has 'dropped'.
+}
+
+
+//name:TQ0085
+::TQ0085::There are three anchor points on:{
+	='lap and sash' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+	~'lap' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+	~'sash' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+	~both 'lap and sash'  & 'lap' type seatbelts.#There are three anchor points on 'lap and sash' type seatbelts and two on 'lap only' type seatbelts. Any seatbelt that has been involved in a severe impact may have been weakened and should be replaced.
+}
+
+
+//name:TQ0086
+::TQ0086::What tool should you use for removing an interior panel?{
+	=A special manufacturer's tool.#Most manufacturers have a special tool for removing the panel clips.
+	~A long handled blade screwdriver.#Most manufacturers have a special tool for removing the panel clips.
+	~a flat chisel.#Most manufacturers have a special tool for removing the panel clips.
+	~An offset screwdriver.#Most manufacturers have a special tool for removing the panel clips.
+}
+
+
+//name:TQ0087
+::TQ0087::If the driver's seat is damaged but still safe and structurally sound:{
+	=it may be possible to swap it with the front passenger seat.#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+	~it is safe to leave, driver comfort is of less importance than safety.#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+	~it must be removed, poor seat condition can be the subject of a safety defect,#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+	~it can be corrected with the use of a seat cover.#If the driver's seat is damaged but still safe and structurally sound, it may be possible to swap it with the front passenger seat, if that one is in better condition. The passenger's comfort is less of a potential driving hazard.
+}
+
+
+//name:TQ0088
+::TQ0088::How should you remove hardened or baked-on dirt and grease from the paintwork when cleaning a vehicle?{
+	=Allow the degreaser to work on the paintwork for a minute before washing off and re-apply if necessary.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+	~Scratch off contaminant with a scraper.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+	~Allow the degreaser to work on the paintwork for a minute before washing off and re-apply, undiluted, if necessary.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+	~Allow the degreaser to work on the paintwork overnight before washing off.#Spray the diluted degreaser all over the outside of the vehicle, including the road wheels and under the wheel arches. Let it work on the paintwork for a minute or so, to soften hardened or baked-on dirt and grease. Rinse the degreaser off with water using a pressure cleaner. If there are any signs of contaminants still on the paintwork, re-apply the degreaser, then wash it off again. You may need to carry out these steps a number of times until the contaminants soften and are rinsed away.
+}
+
+
+//name:TQ0089
+::TQ0089::Which is not a manufacturer-recommended scheduled service type?{
+	=Pre-trip check.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+	~Pre-delivery service.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+	~Distance-based service.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+	~Time-based service.#A pre-delivery service is performed on a new vehicle before it is delivered to the customer. Distance based services are used to maintain the vehicle at its optimum condition after a set amount of use. Time based services protect a vehicle from deterioration over time rather than from the amount of use, which is measured by the distance traveled.  A pre-trip check is an out of phase services and is performed on a vehicle prior to a long trip and can involve a check of components as well as the replacement of drive belts, hoses, tires etc.
+}
+
+

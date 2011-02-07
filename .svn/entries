@@ -1,0 +1,130 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1
+svn://curfew.jbpub.com/online
+
+
+
+2010-02-09T13:38:05.507395Z
+3758
+paulm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+5c29e1c5e019116b9edb17dacc962c76
+2009-07-26T16:25:55.320023Z
+2922
+johnm
+
+db
+dir
+
+TODO.mdown
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+e270a2d3e4cd3827fc825513ff0f58f2
+2009-07-08T04:33:46.880692Z
+2763
+johnm
+
+spec
+dir
+
+vendor
+dir
+
+README
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+d6c1fbcf028923cc0480fff4ab459a21
+2008-01-17T03:18:12.825737Z
+89
+johnm
+
+tmp
+dir
+
+tools
+dir
+
+files
+dir
+
+Capfile
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+d3c3576398a4876c920553b714bc177f
+2008-02-16T11:27:56.508067Z
+281
+johnm
+
+script
+dir
+
+doc
+dir
+
+config
+dir
+
+lib
+dir
+
+CHANGELOG.mdown
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+d4e38a50d30a5954d2d31116d3dbfc50
+2010-02-01T07:22:43.025036Z
+3727
+johnm
+
+features
+dir
+
+public
+dir
+

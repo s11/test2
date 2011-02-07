@@ -1,0 +1,79 @@
+// question: 24434  name: HAQ0238 
+::HAQ0238::[html]There are hoist models that are designed for use where the ................. height (e.g. Shorty lift) may be an issue.{
+	=%100%ceiling#
+}
+
+
+// question: 24433  name: HAQ0239 
+::HAQ0239::[html]Vehicle hoists are produced by a number of manufacturers globally. They come in a range of ................. and are designed to meet the particular needs of the workshop.{
+	=%100%configurations#
+}
+
+
+// question: 24435  name: HAQ0240 
+::HAQ0240::[html]All lifts used in automotive workshops must have a safety ................. device built into the design to ensure that the lift cannot collapse when it it raised with a vehicle on it.{
+	=%100%locking#
+}
+
+
+// question: 24436  name: HAQ0241 
+::HAQ0241::[html]It is essential that the locking device is engaged when the lift is raised ................. anyone is allowed to proceed with a task underneath the vehicle.{
+	=%100%before#
+}
+
+
+// question: 24437  name: HAQ0242 
+::HAQ0242::[html]Vehicle jacks must always be used in accordance with the manufacturers instructions and should be ................. on a regular basis to ensure that they are in full working order.{
+	=%100%inspected#
+}
+
+
+// question: 24438  name: HAQ0243 
+::HAQ0243::[html]Jacks are available in a range of configurations including: High lift (or farm) Jacks; Bottle jacks; ................. Lift Jacks.{
+	=%100%fork#
+}
+
+
+// question: 24439  name: HAQ0244 
+::HAQ0244::[html]Jacks are available in a range of configurations including: High lift (or farm) Jacks; Bottle jacks; Sliding ................. jacks; Tansmission jacks.{
+	=%100%bridge#
+}
+
+
+// question: 24440  name: HAQ0245 
+::HAQ0245::[html]All jacks should be regarded as a lifting tool and NOT a ................. tool, they should always be used with support of axle stands which are designed to take the weight of the vehicle when they are positioned correctly under the vehicle.{
+	=%100%supporting#
+}
+
+
+// question: 24441  name: HAQ0246 
+::HAQ0246::[html]Axle stands are types of weight supporting equipment, they are used with vehicle jacks and are designed to take the weight of the vehicle when they are positioned ................. under the vehicle.{
+	=%100%correctly#
+}
+
+
+// question: 24442  name: HAQ0247 
+::HAQ0247::[html]Stands normally come in ................. pairs and should be used in those pair whenever possible.{
+	=%100%matched#
+}
+
+
+// question: 24443  name: HAQ0248 
+::HAQ0248::[html]Stands are load rated, and should only be used for loads ................. than the rating indicated on the stand.{
+	=%100%less#
+}
+
+
+// question: 24444  name: HAQ0249 
+::HAQ0249::[html]Engine hoists are generally provided with ................. legs and arms and the position of these determines the safe load carrying capacity of the hoist.{
+	=%100%adjustable#
+}
+
+
+// question: 24445  name: HAQ0250 
+::HAQ0250::[html]Engine hoists are normally used with ................. and/or straps.{
+	=%100%chains#
+}
+
+
+

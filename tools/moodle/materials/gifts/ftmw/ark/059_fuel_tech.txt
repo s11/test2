@@ -1,0 +1,192 @@
+// question: 27368  name: HAQ1084 
+::HAQ1084::[html]Alternative fuel sources are used as a way of reducing the operating cost of vehicles, or to reduce ................. from vehicle emissions, or both.{
+	=%100%pollution#
+}
+
+
+// question: 27369  name: HAQ1085 
+::HAQ1085::[html]Some alternative fuels can be mixed with gasoline as a fuel ................. to reduce the total amount of gasoline used.{
+	=%100%additive#
+}
+
+
+// question: 27370  name: HAQ1086 
+::HAQ1086::[html]Other alternative fuels are a complete fuel ................. which may require some modifications to the vehicle.{
+	=%100%alternative#
+}
+
+
+// question: 27371  name: HAQ1087 
+::HAQ1087::[html]A fuel cell is an electro chemical device that combines hydrogen and oxygen to produce ................. and in the process it produces electricity and heat.{
+	=%100%water#
+}
+
+
+// question: 27372  name: HAQ1088 
+::HAQ1088::[html]There are four basic elements to a fuel cell, the anode, the cathode, the electrolyte and the catalyst. Pressurized ................. flows into the fuel cell anode.{
+	=%100%hydrogen#
+}
+
+
+// question: 27373  name: HAQ1089 
+::HAQ1089::[html]To address this problem in automotive applications, an additional device called a ................. is used.{
+	=%100%reformer#
+}
+
+
+// question: 27374  name: HAQ1090 
+::HAQ1090::[html]Because alcohol fuels provide ................. lubricity than gasoline, valves and/or seats, pistons, and other parts may be hardened, and special lubricants may be specified along with more frequent service intervals.{
+	=%100%less#
+}
+
+
+// question: 27375  name: HAQ1091 
+::HAQ1091::[html]Chrysler's FFV mini-van (with the 3.3 liter engine) relies on the O2 ................. to provide input to the PCM for fuel trim and timing adjustments.{
+	=%100%sensor#
+}
+
+
+// question: 27376  name: HAQ1092 
+::HAQ1092::[html]Alcohol fuels (unlike gasoline) easily absorb .................{
+	=%100%water#
+}
+
+
+// question: 27377  name: HAQ1093 
+::HAQ1093::[html]On the positive side, with ethanol and especially methanol's higher ................. ratings, vehicle operators are impressed with improved torque and horsepower over much of the engine speed range.{
+	=%100%octane#
+}
+
+
+// question: 27378  name: HAQ1094 
+::HAQ1094::[html]Compared to gasoline, NG contains considerably ................. thermal energy.{
+	=%100%less#
+}
+
+
+// question: 27380  name: HAQ1096 
+::HAQ1096::[html]A primary or multistage ................., located along the frame rail and/or under the hood, is usually warmed with engine 'coolant' to prevent freeze-up.{
+	=%100%regulator#
+}
+
+
+// question: 27381  name: HAQ1097 
+::HAQ1097::[html]Presently most over-the-road propane vehicles are ................. vehicles converted from gasoline.{
+	=%100%bi-fuel#
+}
+
+
+// question: 27382  name: HAQ1098 
+::HAQ1098::[html]Systems are used in conjunction with OE sensors, actuators and powertrain electronics, that allow vehicles to remain ................. compliant.{
+	=%100%OBD-II#
+	=%100%OBDII#
+	=%100%OBD II#
+	=%100%OBD 2#
+	=%100%OBD2#
+}
+
+
+// question: 27383  name: HAQ1099 
+::HAQ1099::[html]A fully charged propane tank will show a wide range of ................., typically from 50 psi when cool to 175 psi when warm.{
+	=%100%pressure#
+}
+
+
+// question: 27384  name: HAQ1100 
+::HAQ1100::[html]Hydrogen has  '71% less greenhouse gas emissions per unity energy over the whole fuel cycle relative to gasoline'. The fuel cell itself emits ................. pollutants.{
+	=%100%no#
+}
+
+
+// question: 27385  name: HAQ1101 
+::HAQ1101::[html]What's more, unlike petroleum, ................. is virtually unlimited in supply.{
+	=%100%hydrogen#
+}
+
+
+// question: 27386  name: HAQ1102 
+::HAQ1102::[html]Each individual cell generates electrical power by converting the chemical energy of a fuel continuously into electrical energy by way of an ................. reaction, silently, and without combustion.{
+	=%100%electrochemical#
+}
+
+
+// question: 27387  name: HAQ1103 
+::HAQ1103::[html]As with natural gas, gaseous hydrogen can be ................. and stored for fast-fill or timed-fill dispensing.{
+	=%100%compressed#
+}
+
+
+// question: 27388  name: HAQ1104 
+::HAQ1104::[html]Gasoline or diesel fuel could be used to produce ................. at refueling sites.{
+	=%100%hydrogen#
+}
+
+
+// question: 27389  name: HAQ1105 
+::HAQ1105::[html]Electrolyzing typically takes a lot of ................., so it's preferably done where sustainable electric power (from hydro, solar, or wind turbines etc.) is available.{
+	=%100%energy#
+}
+
+
+// question: 27390  name: HAQ1106 
+::HAQ1106::[html]Natural Gas (methane) is clean and plentiful (for now at least) and is certainly one of the winners among alternative fuel choices, thanks to a strong ................. (pipeline) infrastructure and strong trade support.{
+	=%100%distribution#
+}
+
+
+// question: 27391  name: HAQ1107 
+::HAQ1107::[html]Bio is a winning alternative fuel for diesel engines, although older engines may require fuel system ................., since bio could cause seals to deteriorate.{
+	=%100%modifications#
+}
+
+
+// question: 27392  name: HAQ1108 
+::HAQ1108::[html]Making things worse, advanced-battery problems like heating/cooling issues forced some OEs to revert to heavier ................. batteries, which adds more weight and reduces vehicle range further.{
+	=%100%leadacid#
+	=%100%lead acid#
+	=%100%lead-acid#
+}
+
+
+// question: 27395  name: HAQ1111 
+::HAQ1111::[html]Vehicles that include electric drive motors have many advantages over the traditional vehicle. Lower noise and gas ................. are among the major benefits.{
+	=%100%emissions#
+}
+
+
+// question: 27396  name: HAQ1112 
+::HAQ1112::[html]Power for the electric drive motor is obtained from either rechargeable storage batteries or a ................. via an electrical inverter/converter.{
+	=%100%generator#
+}
+
+
+// question: 27397  name: HAQ1113 
+::HAQ1113::[html]Brushless: Brushes and ................. are not used.{
+	=%100%commutators#
+}
+
+
+// question: 27398  name: HAQ3727 
+::HAQ3727::[html]Biodiesel refers to a diesel-equivalent, processed fuel derived from ................. sources.{
+	=%100%biological#
+}
+
+
+// question: 27399  name: HAQ3728 
+::HAQ3728::[html]Biodiesel is biodegradable and non-toxic, and has significantly fewer ................. than petroleum-based diesel when burned.{
+	=%100%emissions#
+}
+
+
+// question: 27400  name: HAQ3729 
+::HAQ3729::[html]Pure biodiesel is referred to as .................{
+	=%100%B100#
+}
+
+
+// question: 27401  name: HAQ3730 
+::HAQ3730::[html]Biodiesel is water-soluble and attracts ................., which may be introduced during processing or by condensation in the storage facility.{
+	=%100%moisture#
+}
+
+

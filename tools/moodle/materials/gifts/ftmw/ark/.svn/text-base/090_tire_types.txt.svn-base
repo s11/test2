@@ -1,0 +1,232 @@
+// question: 29611  name: HAQ1801 
+::HAQ1801::[html]The tire provides a cushion between the vehicle and the road to reduce the transmission of road shocks. It also provides ................. to allow the vehicle perform its normal operations.{
+	=%100%friction#
+}
+
+
+// question: 29612  name: HAQ1802 
+::HAQ1802::[html]Modern tyres are manufactured from a range of materials. The rubber is mainly .................{
+	=%100%synthetic#
+}
+
+
+// question: 29613  name: HAQ1803 
+::HAQ1803::[html]Most passenger cars now use ................. tires, as do most 4-wheel-drives and heavy vehicles.{
+	=%100%radial#
+}
+
+
+// question: 29614  name: HAQ1804 
+::HAQ1804::[html]Tires can be identified by markings on the .................{
+	=%100%sidewalls#
+	=%100%sidewall#
+	=%100%side-wall#
+}
+
+
+// question: 29615  name: HAQ1805 
+::HAQ1805::[html]Tire markings typically include the maker's name, the rim size, the type of tire construction, ................. ratio, maximum load and speed, and, in some cases, intended use.{
+	=%100%aspect#
+}
+
+
+// question: 29616  name: HAQ1806 
+::HAQ1806::[html]Radial ply tires have much more flexible sidewalls due to their construction. They use 2 or more layers of ................. plies, with the cord loops running radially from bead to bead.{
+	=%100%casing#
+}
+
+
+// question: 29617  name: HAQ1807 
+::HAQ1807::[html]The sidewalls are more ................. because the casing cords do not cross over each other.{
+	=%100%flexible#
+}
+
+
+// question: 29618  name: HAQ1808 
+::HAQ1808::[html]The cords of the bracing layers may be of fabric, or of steel, and are placed at 12, to 15 degrees to the circumference line. This forms ................. where the belt cords cross over the radial cords.{
+	=%100%triangles#
+}
+
+
+// question: 29619  name: HAQ1809 
+::HAQ1809::[html]The cord plies flex and deform only in the area above the road contact patch. There are no heavy plies to distort, and flexing of the thin casing generates little ................., which is easily dispersed.{
+	=%100%heat#
+}
+
+
+// question: 29620  name: HAQ1810 
+::HAQ1810::[html]A radial ply tire runs cooler than a comparable cross-ply tire, and this increases tread life. Also, a radial tire has less rolling ................. as it moves over the road surface.{
+	=%100%resistance#
+}
+
+
+// question: 29621  name: HAQ1811 
+::HAQ1811::[html]Sidewalls of an under-inflated tire flex too far, which pushes the center section of the tread up and away from the road surface. This causes wear at the ................. of the tire.{
+	=%100%shoulders#
+	=%100%shoulder#
+}
+
+
+// question: 29622  name: HAQ1812 
+::HAQ1812::[html]A tire and wheel assembly must be balanced. As the wheel rotates, ................. force acts outwards.{
+	=%100%centrifugal#
+}
+
+
+// question: 29623  name: HAQ1813 
+::HAQ1813::[html]Any part of the wheel that is heavier than the rest will vibrate vertically, with the heavy area slapping the road surface with each turn of the wheel. This is called ................. unbalance.{
+	=%100%static#
+}
+
+
+// question: 29624  name: HAQ1814 
+::HAQ1814::[html]................. unbalance causes the wheel assembly to turn inwards, and then outwards, with each half revolution. As speed rises, rapid side movement of the front wheels causes a sideways-vibration, or wheel wobble effect, at the front of the vehicle.{
+	=%100%dynamic#
+}
+
+
+// question: 29625  name: HAQ1815 
+::HAQ1815::[html]................. in the tread pattern clear water away from the contact patch area. This allows a relatively 'dry area' to be formed, and for road adhesion to be maintained.{
+	=%100%grooves#
+}
+
+
+// question: 29631  name: HAQ1816 
+::HAQ1816::[html]The major safety benefit of Run Flat technology or RFT is that it enables a driver to maintain control if a vehicle in motion suffers a rapid loss of tire .................{
+	=%100%pressure#
+}
+
+
+// question: 29632  name: HAQ1817 
+::HAQ1817::[html]In addition, RFT tires enable the driver to continue the journey within specified ................. and distance limits, avoiding the need to replace the wheel on the side of the road.{
+	=%100%speed#
+}
+
+
+// question: 29633  name: HAQ1818 
+::HAQ1818::[html]Because of their construction RFT's are generally between two to three times heavier than their conventional counterpart, which adds additional un-sprung weight to the vehicle, affects the suspension and can increase ................. consumption.{
+	=%100%fuel#
+}
+
+
+// question: 29634  name: HAQ1819 
+::HAQ1819::[html]Run Flat Technology design features generally focus on two aspects of operational use - ................. and heat resistance.{
+	=%100%rigidity#
+}
+
+
+// question: 29635  name: HAQ1820 
+::HAQ1820::[html]While the bead shape configuration of the tire itself is largely unchanged to enable compatibility with conventional rims, the bead wire is normally wider and ................. to ensure a secure fit on the rim even at zero pressure.{
+	=%100%reinforced#
+}
+
+
+// question: 29636  name: HAQ1821 
+::HAQ1821::[html]Space-saver spares are designed for ................. use only.{
+	=%100%emergency#
+}
+
+
+// question: 29637  name: HAQ1822 
+::HAQ1822::[html]Some cars are provided with miniature or ................. space-saver spare tires as spare wheels.{
+	=%100%collapsible#
+}
+
+
+// question: 29638  name: HAQ1823 
+::HAQ1823::[html]Miniature space-saver tires normally require a specially charged ................. for inflation when being installed.{
+	=%100%canister#
+}
+
+
+// question: 29639  name: HAQ1824 
+::HAQ1824::[html]Some cars have small, temporary spare tires that are inflated normally with a compressed air supply but to a much ................. pressure than normal road tires.{
+	=%100%higher#
+}
+
+
+// question: 29640  name: HAQ1825 
+::HAQ1825::[html]During cornering, ................. force acts on a vehicle to  produce a side force. This side force must be resisted by the interaction of the tire on the road surface.{
+	=%100%centrifugal#
+}
+
+
+// question: 29641  name: HAQ1826 
+::HAQ1826::[html]The greater the centrifugal force, the greater the opposing force must be. The ................. tire provides this opposing force by being able to distort while still gripping the road.{
+	=%100%pneumatic#
+}
+
+
+// question: 29642  name: HAQ1827 
+::HAQ1827::[html]The tire's sideways distortion makes the vehicle follow a path at an angle to the direction the road wheel is pointing.  As cornering force increases, so does ................. angle.{
+	=%100%slip#
+}
+
+
+// question: 29643  name: HAQ1828 
+::HAQ1828::[html]When a vehicle is being driven into a turn with ................. radius, both slip angle and cornering force increase, until a point is reached where the tire slides, and the only resistance comes from sliding friction across the road surface.{
+	=%100%decreasing#
+}
+
+
+// question: 29644  name: HAQ1829 
+::HAQ1829::[html]The center of gravity is the ................. point of the entire vehicle.{
+	=%100%balance#
+}
+
+
+// question: 29645  name: HAQ1830 
+::HAQ1830::[html]When a vehicle is cornering, this is the point through which all ................. force is assumed to act.{
+	=%100%centrifugal#
+}
+
+
+// question: 29646  name: HAQ1831 
+::HAQ1831::[html]During cornering, centrifugal force puts more weight on the ................. wheels.{
+	=%100%outside#
+}
+
+
+// question: 29647  name: HAQ1832 
+::HAQ1832::[html]Acceleration puts more weight on the ................. wheels.{
+	=%100%rear#
+}
+
+
+// question: 29648  name: HAQ1833 
+::HAQ1833::[html]With the center of gravity closer to the rear, the rear tires carry more of the weight, so they operate at a greater slip angle than the front tires. Larger side forces act on the rear tires, which causes greater tire distortion. This condition of higher slip angles at the rear causes .................{
+	=%100%oversteer#
+}
+
+
+// question: 29626  name: HAQ3743 
+::HAQ3743::[html]Automated Tire Pressure Monitoring Systems or ................. provide a means of reliable and continuous monitoring of the vehicle tire pressure and are designed to increase safety, decrease fuel consumption and improve vehicle performance.{
+	=%100%TPMS#
+}
+
+
+// question: 29627  name: HAQ3744 
+::HAQ3744::[html]There are two types of tire pressure monitoring; direct and .................{
+	=%100%indirect#
+}
+
+
+// question: 29628  name: HAQ3745 
+::HAQ3745::[html]The indirect system uses the vehicles wheel ................. sensors to determine if a tire is underinflated when compared to each of the other tires.{
+	=%100%speed#
+}
+
+
+// question: 29629  name: HAQ3746 
+::HAQ3746::[html]The tire is used to enclose the unit as protection from the outside environment. An on-board computer receives the radio messages from the ................., which are coded for individual wheel identification.{
+	=%100%sensors#
+}
+
+
+// question: 29630  name: HAQ3747 
+::HAQ3747::[html]The tire pressure sensors are activated by a ................. switch and transmit only when the vehicle is in motion.{
+	=%100%centrifugal#
+}
+
+
+

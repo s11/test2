@@ -1,0 +1,47 @@
+# 
+#  summary_report
+#  online
+#  
+#  Created by John Meredith on 2008-11-18.
+#  Copyright 2008 CDX Global. All rights reserved.
+# 
+IDS = {
+  :topic_group_tests             => AssessmentView.topic_group_tests.map(&:descendants).flatten.map(&:moodle_quiz_id).compact, 
+  :find_the_missing_word_quizzes => AssessmentView.find_the_missing_word_quizzes.map(&:descendants).flatten.map(&:moodle_quiz_id).compact, 
+  :practice_exams                => AssessmentView.practice_exams.map(&:descendants).flatten.map(&:moodle_quiz_id).compact, 
+  :final_exams                   => AssessmentView.final_exams.map(&:descendants).flatten.map(&:moodle_quiz_id).compact, 
+}
+
+# Truncate the summary report table
+SummaryReport.connection.execute("TRUNCATE #{SummaryReport.table_name}")
+
+# For each client and day, construct the summary report rows
+Client.paginated_each(:order => "client_id ASC") do |client|
+  begin
+    puts "Processing summary report data for `#{client.client_name}` [#{client.client_prefix}]"
+
+    # Ensure we're using the correct Moodle DB
+    Moodle::Base.setup_tables_by_database(client.client_database_name)
+
+    # Grab all the dates that we have quiz attempts for and enter those into the
+    # summary report table
+    dates = Moodle::QuizAttempt.find_by_sql("SELECT DATE(FROM_UNIXTIME(timefinish)) AS quiz_date FROM moodle_a591.cdx_quiz_attempts WHERE timestart < timefinish AND preview IS FALSE GROUP BY quiz_date ORDER BY quiz_date ASC").map(&:quiz_date)
+    dates.each do |date_s|
+      day          = Date.parse(date_s)
+      start_of_day = day.beginning_of_day
+      end_of_day   = day.end_of_day.to_i
+
+      entry = SummaryReport.new(:client_prefix => client.client_prefix, :summary_date => day)
+
+      # Log winded! *sigh*
+      entry.completed_topic_group_tests             = Moodle::QuizAttempt.completed.count( :conditions => ["quiz IN (:quiz_ids) AND (timestart >= :start_of_day AND timefinish <= :end_of_day)", { :quiz_ids => IDS[:topic_group_tests],              :start_of_day => start_of_day, :end_of_day => end_of_day }] )
+      entry.completed_find_the_missing_word_quizzes = Moodle::QuizAttempt.completed.count( :conditions => ["quiz IN (:quiz_ids) AND (timestart >= :start_of_day AND timefinish <= :end_of_day)", { :quiz_ids => IDS[:find_the_missing_word_quizzes],  :start_of_day => start_of_day, :end_of_day => end_of_day }] ) 
+      entry.completed_practice_exams                = Moodle::QuizAttempt.completed.count( :conditions => ["quiz IN (:quiz_ids) AND (timestart >= :start_of_day AND timefinish <= :end_of_day)", { :quiz_ids => IDS[:practice_exams],                 :start_of_day => start_of_day, :end_of_day => end_of_day }] ) 
+      entry.completed_final_exams                   = Moodle::QuizAttempt.completed.count( :conditions => ["quiz IN (:quiz_ids) AND (timestart >= :start_of_day AND timefinish <= :end_of_day)", { :quiz_ids => IDS[:final_exams],                    :start_of_day => start_of_day, :end_of_day => end_of_day }] ) 
+
+      entry.save
+    end
+  rescue ActiveRecord::StatementInvalid => e
+    puts "Error: #{e.message}"
+  end
+end

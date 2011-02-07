@@ -1,0 +1,402 @@
+// question: 33611  name: HAQ3852 
+::HAQ3852::[html]Surprisingly, if Henry had known more about ................., his day could have been better.{
+	=%100%communication#
+}
+
+
+// question: 33612  name: HAQ3853 
+::HAQ3853::[html]No doubt everyone already knows something about communication. We send and ................. messages every day.{
+	=%100%receive#
+}
+
+
+// question: 33613  name: HAQ3854 
+::HAQ3854::[html]Even if we've been communicating for all of our lives, most of us aren't aware of the ................. needed to be a good communicator.{
+	=%100%skills#
+}
+
+
+// question: 33614  name: HAQ3855 
+::HAQ3855::[html]Listening is a two-step process. The first step is to look and hear, the second step is to ................. and analyze.{
+	=%100%check#
+}
+
+
+// question: 33615  name: HAQ3856 
+::HAQ3856::[html]To be a good listener, we need to be aware of barriers that can disrupt the listening process. These barriers can be mental and .................{
+	=%100%physical#
+}
+
+
+// question: 33616  name: HAQ3857 
+::HAQ3857::[html]We need to be open minded, and stay open minded throughout the listening process. We should also set aside our own assumptions, ................. and prejudices, so we can absorb the whole message.{
+	=%100%emotions#
+}
+
+
+// question: 33617  name: HAQ3858 
+::HAQ3858::[html]In this topic we have learned that listening is a two-step process, which involves ................. and hear, and check and analyze.{
+	=%100%look#
+}
+
+
+// question: 33618  name: HAQ3859 
+::HAQ3859::[html]As a listener and active participant, we can encourage the flow of communication by ................. the speaker, letting them know that we understand their message, and acknowledging their feelings and concerns.{
+	=%100%welcoming#
+}
+
+
+// question: 33619  name: HAQ3860 
+::HAQ3860::[html]We also need to ................. with the speaker.{
+	=%100%empathize#
+}
+
+
+// question: 33620  name: HAQ3861 
+::HAQ3861::[html]We learn about mental and physical listening barriers. The most difficult barriers to overcome are ................. barriers.{
+	=%100%mental#
+}
+
+
+// question: 33621  name: HAQ3862 
+::HAQ3862::[html]In this topic we have learned that a listener is an ................. participant in the communication process.{
+	=%100%active#
+}
+
+
+// question: 33622  name: HAQ3863 
+::HAQ3863::[html]Speaking is a three-step process.  The first step is to think about a .................{
+	=%100%message#
+}
+
+
+// question: 33623  name: HAQ3864 
+::HAQ3864::[html]After thinking about what we want to say, and how to say it, we can then present a message using verbal and non-verbal language. When we say ................., we mean the actual words that are being spoken.{
+	=%100%verbal#
+}
+
+
+// question: 33624  name: HAQ3865 
+::HAQ3865::[html]Non-verbal language includes how we speak those words, like our tone of voice, and all of the other things that can affect the communication like ................., appearance and the environment.{
+	=%100%body#
+}
+
+
+// question: 33625  name: HAQ3866 
+::HAQ3866::[html]We learned about using non-verbal ................. when we are listening.{
+	=%100%feedback#
+}
+
+
+// question: 33626  name: HAQ3867 
+::HAQ3867::[html]Questioning is an important speaking skill. We speak to deliver a message, but sometimes we may want to: Gather ................., Learn something from someone, Find out their ideas or opinions, or confirm details.{
+	=%100%information#
+}
+
+
+// question: 33627  name: HAQ3868 
+::HAQ3868::[html]If we want to know more, we can use closed questions to establish ................. and details.{
+	=%100%facts#
+}
+
+
+// question: 33628  name: HAQ3869 
+::HAQ3869::[html]As you can see, ................. questions allow Sue to speak freely, so Henry can gather as much information as he can about her car's performance.{
+	=%100%open#
+}
+
+
+// question: 33629  name: HAQ3870 
+::HAQ3870::[html]Henry uses ................. questions to establish facts about the noise problems. He uses yes/no questions to confirm Sue's details.{
+	=%100%closed#
+}
+
+
+// question: 33630  name: HAQ3871 
+::HAQ3871::[html]Other non-verbal cues that we miss on the phone include body language, ................. and the environment.{
+	=%100%appearance#
+}
+
+
+// question: 33631  name: HAQ3872 
+::HAQ3872::[html]A phone communication consists of three parts: .................; Exchanging messages and; Finishing the call.{
+	=%100%greeting#
+}
+
+
+// question: 33632  name: HAQ3873 
+::HAQ3873::[html]We need both ................. and speaking skills to successfully exchange messages on the phone.{
+	=%100%listening#
+}
+
+
+// question: 33633  name: HAQ3874 
+::HAQ3874::[html]In listening and speaking skills, we've learned that we communicate by using verbal and ................. language.{
+	=%100%nonverbal#
+	=%100%non-verbal#
+}
+
+
+// question: 33634  name: HAQ3875 
+::HAQ3875::[html]If we send out ................. messages, people tend to believe our nonverbal message over the verbal one.{
+	=%100%conflicting#
+}
+
+
+// question: 33635  name: HAQ3876 
+::HAQ3876::[html]The tone of voice includes how high or low our voice is, how fast or slow we speak, how soft or loud, and most importantly, what our voice characteristics or ................. indications are.{
+	=%100%emotional#
+}
+
+
+// question: 33636  name: HAQ3877 
+::HAQ3877::[html]As they say, time is money. ................. is an important nonverbal message in a business environment.{
+	=%100%punctuality#
+}
+
+
+// question: 33637  name: HAQ3878 
+::HAQ3878::[html]Apart from familiarity, gender, status or role and ................. will determine the use of our personal space.{
+	=%100%culture#
+}
+
+
+// question: 33638  name: HAQ3879 
+::HAQ3879::[html]Being part of a team allows us to: Learn new things from other team members; Share ideas, ................. and resources; Complement each other's strengths and weaknesses; And feel a sense of belonging.{
+	=%100%knowledge#
+}
+
+
+// question: 33639  name: HAQ3880 
+::HAQ3880::[html]A good team player is a team member who ................. and contributes to the success of the team.{
+	=%100%commits#
+}
+
+
+// question: 33640  name: HAQ3881 
+::HAQ3881::[html]When receiving instructions, we should use active listening and listening ................., and speaking and questioning skill.{
+	=%100%feedback#
+}
+
+
+// question: 33641  name: HAQ3882 
+::HAQ3882::[html]To be able to provide good customer service, we'll need to: have good ................. skills and understand our customers' needs so we can serve them better.{
+	=%100%communication#
+}
+
+
+// question: 33642  name: HAQ3883 
+::HAQ3883::[html]First we need to know who our customers are. Customers are people who need our .................{
+	=%100%service#
+}
+
+
+// question: 33643  name: HAQ3884 
+::HAQ3884::[html]................. customers are as important as our external customers. We work together as a team. By helping our workmates with their jobs, it will ultimately help our external customers and our organization.{
+	=%100%internal#
+}
+
+
+// question: 33644  name: HAQ3885 
+::HAQ3885::[html]We can divide our customers' needs into three categories. Some customers want to get things done. Some customers are more concerned about getting things ................. And others just want to get along with people.{
+	=%100%right#
+}
+
+
+// question: 33645  name: HAQ3886 
+::HAQ3886::[html]Reading is a three step process. The first step is to ................. The second step is to choose. The last step is to read.{
+	=%100%know#
+}
+
+
+// question: 33646  name: HAQ3887 
+::HAQ3887::[html]Once we know our reading purpose, we can then choose the suitable reading method which can be: Selective; Comprehending and; .................{
+	=%100%absorbing#
+}
+
+
+// question: 33647  name: HAQ3888 
+::HAQ3888::[html]Reading, particularly comprehending and absorbing reading, requires good .................{
+	=%100%concentration#
+}
+
+
+// question: 33648  name: HAQ3889 
+::HAQ3889::[html]There are three steps to effective business correspondence writing. The first step is to think. The second step is to ................. The third step is to finalize.{
+	=%100%draft#
+}
+
+
+// question: 33649  name: HAQ3890 
+::HAQ3890::[html]We've learned that we need to ................. before we speak.{
+	=%100%think#
+}
+
+
+// question: 33650  name: HAQ3891 
+::HAQ3891::[html]Be courteous and ................. with the readers; espcially when writing a complaint letter or delivering bad news.{
+	=%100%empathise#
+	=%100%empathize#
+}
+
+
+// question: 33651  name: HAQ3892 
+::HAQ3892::[html]In this topic, we have learned that business correspondence writing can be divided into three steps. The first step is to think about what to write and what we want to achieve. The second step is to draft our rough ideas in point form. The third step is to ................. the document by organizing the content and putting it into the right format, which can then be sent by letter, facsimilie or email.{
+	=%100%finalize#
+}
+
+
+// question: 33652  name: HAQ3893 
+::HAQ3893::[html]A service invoice or work order is a key document which we use to communicate with both our customers and workmates. It's a legal ................. between us as the service provider, and our customer.{
+	=%100%contract#
+}
+
+
+// question: 33653  name: HAQ3894 
+::HAQ3894::[html]Some service invoices or work orders also contain ................. information so they can be used as invoices.{
+	=%100%accounting#
+}
+
+
+// question: 33654  name: HAQ3895 
+::HAQ3895::[html]To work out the total cost of the service we need to know: a ................. cost, which in this case is the sum of line 1; the cost of spare parts, which in this case is the sum of lines 4, 5 and 6; the tax amounts, and; the cost of gas and consumables we used to service the car.{
+	=%100%labour#
+	=%100%labor#
+}
+
+
+// question: 33655  name: HAQ3896 
+::HAQ3896::[html]When we inspect a vehicle, we need to check that all components and systems are operational, secured, and safe in accordance with the vehicle ................. recommendations.{
+	=%100%manufacturer#
+}
+
+
+// question: 33656  name: HAQ3897 
+::HAQ3897::[html]An inspection report is a useful guide when conducting a vehicle inspection. By following the checklist in the report, we can test all the components in a ................. way and ensure that they are operational or serviceable.{
+	=%100%systematic#
+}
+
+
+// question: 33657  name: HAQ3898 
+::HAQ3898::[html]In this topic, we have learned that we can use an inspection report as a ................. for a vehicle inspection.{
+	=%100%guideline#
+}
+
+
+// question: 33658  name: HAQ3899 
+::HAQ3899::[html]One way to ensure safety in our workshop is to conduct weekly or monthly equipment .............{
+	=%100%inspections#
+}
+
+
+// question: 33659  name: HAQ3900 
+::HAQ3900::[html]Whenever we come across any defective equipment, we should: ................. the defective items and put them in a secured area so no one else can use them by mistake.{
+	=%100%tag#
+}
+
+
+// question: 33660  name: HAQ3901 
+::HAQ3901::[html]Firstly we need to record the date when the defect is detected, the location of the defective equipment, the name of the equipment and if possible the serial number, the description of the defect, and the action we have taken. Then we need to sign our names as reporters. Finally, we need to notify our .................{
+	=%100%supervisor#
+}
+
+
+// question: 33661  name: HAQ3902 
+::HAQ3902::[html]................. is the most important issue in the workplace. We must make a conscious decision to work safely and act responsibly to protect others and ourselves.{
+	=%100%safety#
+}
+
+
+// question: 33662  name: HAQ3903 
+::HAQ3903::[html]To make sure that the information is ................. the accident report should be completed as soon as practically possible while we still remember the facts of the accident.{
+	=%100%accurate#
+}
+
+
+// question: 33663  name: HAQ3904 
+::HAQ3904::[html]We also need to note if the accident will be subject to, or covered by, any ................. claims.{
+	=%100%insurance#
+}
+
+
+// question: 33664  name: HAQ3905 
+::HAQ3905::[html]Researching is like conducting an .................{
+	=%100%investigation#
+}
+
+
+// question: 33665  name: HAQ3906 
+::HAQ3906::[html]When we define the problem, we should make sure that it's small and .................{
+	=%100%contained#
+}
+
+
+// question: 33666  name: HAQ3907 
+::HAQ3907::[html]We can obtain information from two sources, primary and .................{
+	=%100%secondary#
+}
+
+
+// question: 33667  name: HAQ3908 
+::HAQ3908::[html]Information from secondary sources, or secondhand information is compiled form a variety of sources. It's usually more reliable since its more generic and .................{
+	=%100%objective#
+}
+
+
+// question: 33668  name: HAQ3909 
+::HAQ3909::[html]We should use the ................. reading method to interpret and understand the information so we can work out what the answer or best solution is.{
+	=%100%comprehending#
+}
+
+
+// question: 33669  name: HAQ3910 
+::HAQ3910::[html]We're living in the ................. age.{
+	=%100%information#
+}
+
+
+// question: 33670  name: HAQ3911 
+::HAQ3911::[html]The first place to start looking for information about a vehicle, is in the .................{
+	=%100%workshop#
+}
+
+
+// question: 33671  name: HAQ3912 
+::HAQ3912::[html]For spare parts information, ................. manuals can give us a list of all components and part numbers in a vehicle.{
+	=%100%parts#
+}
+
+
+// question: 33672  name: HAQ3913 
+::HAQ3913::[html]For free to air information there are chat rooms and bulletin boards where we can post questions to other technicians online, although there is no guarantee of the ................. and avaiilability of the resources.{
+	=%100%accuracy#
+}
+
+
+// question: 33673  name: HAQ3914 
+::HAQ3914::[html]In this topic we've learned about the various ................. we can use to look up automotive related information.{
+	=%100%resources#
+}
+
+
+// question: 33674  name: HAQ3915 
+::HAQ3915::[html]The situation today is like the other day, but Henry uses different ................. approaches this time. As you can see, the outcomes are very different.{
+	=%100%communication#
+}
+
+
+// question: 33675  name: HAQ3916 
+::HAQ3916::[html]It doesn't require much more effort to be a good ................., but the outcome will definitely be well worth it.{
+	=%100%communicator#
+}
+
+
+// question: 33676  name: HAQ3917 
+::HAQ3917::[html]Remember, its a ................. learning process to perfect your communication skills.{
+	=%100%lifelong#
+	=%100%life long#
+	=%100%life-long#
+}
+
+
+

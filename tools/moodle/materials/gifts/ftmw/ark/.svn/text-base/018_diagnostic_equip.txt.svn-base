@@ -1,0 +1,157 @@
+// question: 24381  name: HAQ0213 
+::HAQ0213::[html]The engine analyzer provides data that indicate likely problems, probable cause and explanations, test recommendations, component repair/replacement and anticipated ................. improvements.{
+	=%100%performance#
+}
+
+
+// question: 24382  name: HAQ0214 
+::HAQ0214::[html]Most engine analyzers are designed to enable ................. and optional capabilities to be installed as service requirements change and grow.{
+	=%100%upgrades#
+}
+
+
+// question: 24383  name: HAQ0215 
+::HAQ0215::[html]An engine dynamometer is normally fixed in a special ................. that allows engines to be mounted on to it and can be directly coupled to the engine flywheel.{
+	=%100%frame#
+}
+
+
+// question: 24384  name: HAQ0216 
+::HAQ0216::[html]An engine dynamometer measures power and  torque directly from the engine's ................. (or flywheel), when the engine is removed from the vehicle.{
+	=%100%crankshaft#
+}
+
+
+// question: 24385  name: HAQ0217 
+::HAQ0217::[html]A chassis dynamometer measures power from the engine through the .................{
+	=%100%wheels#
+}
+
+
+// question: 24386  name: HAQ0218 
+::HAQ0218::[html]Modern dynamometers are normally connected to a ................. which uses math to calculate the output of the engine.{
+	=%100%computer#
+}
+
+
+// question: 24387  name: HAQ0219 
+::HAQ0219::[html]There are a range of pressure testers used in the automotive industry. Each of them are used to provide information about the potential ................. of various systems and components.{
+	=%100%condition#
+}
+
+
+// question: 24388  name: HAQ0220 
+::HAQ0220::[html]Vacuum gauges are not regarded by many as a pressure gauge, but in fact they are because the measure '.................' pressure below atmospheric pressure.{
+	=%100%negative#
+}
+
+
+// question: 24389  name: HAQ0221 
+::HAQ0221::[html]Compression gauges are used to measure the compression pressures inside an engine ................. and can identify over all condition and pressure leakage situations that could be caused by a range of engine faults.{
+	=%100%cylinder#
+}
+
+
+// question: 24390  name: HAQ0222 
+::HAQ0222::[html]Scan tools are basically an ................. device that is able to communicate with the on board control computer fitted in a vehicle.{
+	=%100%interface#
+}
+
+
+// question: 24391  name: HAQ0223 
+::HAQ0223::[html]A scan tool has a special connection that fits into the vehicle wiring ................. (or via an adapter plug on some vehicles).{
+	=%100%harness#
+}
+
+
+// question: 24392  name: HAQ0224 
+::HAQ0224::[html]The scan tool is used to run ................. tests on the various vehicle systems and on completion of the tests, information is provided to the technician in relation to the probable cause of the fault.{
+	=%100%diagnostic#
+}
+
+
+// question: 24393  name: HAQ0225 
+::HAQ0225::[html]The after market has produced several different of generic scan tools that when the appropriate software information is installed in the tool it is able to ................. the manufacturers specific scan tool.{
+	=%100%replicate#
+}
+
+
+// question: 24394  name: HAQ0226 
+::HAQ0226::[html]The DVOM is an electronic measuring instrument that combines several functions in one unit. The most basic instruments include an ammeter, voltmeter, and .................{
+	=%100%ohmmeter#
+}
+
+
+// question: 24395  name: HAQ0226 
+::HAQ0226::[html]Normally the DVOM has a central ................. selection switch which is used to select the electrical test function that the meter is going to be used for.{
+	=%100%ohmmeter#
+}
+
+
+// question: 24399  name: HAQ0227 
+::HAQ0227::[html]A test light is normally used as a basic ................. testing tool to ensure that the circuit is carrying a voltage to enable an electrical component to operate.{
+	=%100%circuit#
+}
+
+
+// question: 24396  name: HAQ0228 
+::HAQ0228::[html]One of the features that DVOM meters have is: A ................. tester that beeps when a circuit conducts.{
+	=%100%continuity#
+}
+
+
+// question: 24397  name: HAQ0229 
+::HAQ0229::[html]One of the features that DVOM meters have is: An amplifier to sense small voltages, currents and high .................{
+	=%100%resistances#
+}
+
+
+// question: 24398  name: HAQ0230 
+::HAQ0230::[html]One of the features that DVOM meters have is: Tests of diodes and .................{
+	=%100%transistors#
+}
+
+
+// question: 24400  name: HAQ0231 
+::HAQ0231::[html]A test light is normally constructed in such a way that the tester is ................. from the user and has a small bulb in the circuit.{
+	=%100%insulated#
+}
+
+
+// question: 24401  name: HAQ0232 
+::HAQ0232::[html]One end of the test light has a '.................' probe hat is able to pierce the insulation of cables.{
+	=%100%spike#
+}
+
+
+// question: 24402  name: HAQ0233 
+::HAQ0233::[html]The other end of a test light has a small clip that is able to be clamped to a suitable return point for ................. of the circuit.{
+	=%100%completion#
+}
+
+
+// question: 24403  name: HAQ0234 
+::HAQ0234::[html]A hydrometer is an instrument used for determining the specific ................. of liquids.{
+	=%100%gravity#
+}
+
+
+// question: 24404  name: HAQ0235 
+::HAQ0235::[html]Hydrometers usually contain a ................. scale inside the stem, so that the specific gravity (or density) can be read directly in grams per cubic centimeter.{
+	=%100%paper#
+}
+
+
+// question: 24405  name: HAQ0236 
+::HAQ0236::[html]The function of the hydrometer is based on Archimedes principle that a solid suspended in a liquid will be buoyed up by a force equal to the ................. of the liquid displaced.{
+	=%100%weight#
+}
+
+
+// question: 24406  name: HAQ0237 
+::HAQ0237::[html]For each application, the hydrometer is different because it has a particular ................. on the float to suit the particular application.{
+	=%100%scale#
+}
+
+
+

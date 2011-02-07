@@ -1,0 +1,44 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/rails_plugins/net_suite/lib/net_suite
+svn://curfew.jbpub.com/online
+
+
+
+2008-12-08T23:11:34.839048Z
+1933
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+soap
+dir
+
+filters.rb
+file
+
+
+
+
+2010-02-09T13:38:45.000000Z
+db063ad3b58973611a5e07fe8a336749
+2008-11-25T01:45:39.833102Z
+1828
+johnm
+has-props
+

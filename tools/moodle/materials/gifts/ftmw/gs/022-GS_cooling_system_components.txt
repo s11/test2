@@ -1,0 +1,197 @@
+// question: 24236  name: HAQ0842 
+::HAQ0842::[html]A .............................. tank can be mounted away from the radiator, where it provides a coolant supply, stored above the engine.{
+	=%100%header#
+}
+
+
+// question: 24237  name: HAQ0843 
+::HAQ0843::[html]The core consists of a number of tubes that carry coolant between the 2 tanks. The tubes can be in a vertical .............................. pattern.{
+	=%100%down-flow#
+	=%100%down flow#
+}
+
+
+// question: 24239  name: HAQ0845 
+::HAQ0845::[html]In the core, small, thin, cooling fins are in contact with the tubes. The shape of the fins increases the .............................. exposed to the air.{
+	=%100%surface area#
+}
+
+
+// question: 24240  name: HAQ0846 
+::HAQ0846::[html]Liquid emerges cooler at the bottom of the radiator. It travels through the lower radiator hose to the .............................. inlet, then through the engine again.{
+	=%100%water-pump#
+	=%100%water pump#
+}
+
+
+// question: 24241  name: HAQ0847 
+::HAQ0847::[html]Coolant is transferred throughout the cooling system by ...............................{
+	=%100%hoses#
+}
+
+
+// question: 24242  name: HAQ0848 
+::HAQ0848::[html]Coolant hoses vary in diameter depending on the volume of coolant that passes through them. Heater hoses carry a .............................. volume.{
+	=%100%smaller#
+}
+
+
+// question: 24243  name: HAQ0849 
+::HAQ0849::[html]Most hoses are made of .............................., and since they are subject to pressure, they are reinforced with a layer of fabric.{
+	=%100%rubber#
+}
+
+
+// question: 24244  name: HAQ0850 
+::HAQ0850::[html]The water pump is usually in front of the cylinder block, belt-driven from a pulley, on the front of the ...............................{
+	=%100%crankshaft#
+}
+
+
+// question: 24245  name: HAQ0851 
+::HAQ0851::[html]A water pump has fan-like blades on a rotor or ...............................{
+	=%100%impeller#
+}
+
+
+// question: 24246  name: HAQ0852 
+::HAQ0852::[html].............................. are passages in the engine block and cylinder head that surround the cylinders, valves and ports.{
+	=%100%water-jackets#
+	=%100%water jackets#
+	=%100%water jacket#
+	=%100%water-jacket#
+}
+
+
+// question: 24247  name: HAQ0853 
+::HAQ0853::[html]A thermostat is a .............................. that operates according to coolant temperature.{
+	=%100%valve#
+}
+
+
+// question: 24248  name: HAQ0854 
+::HAQ0854::[html]When coolant is cold, a .............................. holds the valve closed.{
+	=%100%spring#
+}
+
+
+// question: 24249  name: HAQ0855 
+::HAQ0855::[html]Thermostats have a small hole or valve to let out air that was trapped in the engine ...............................{
+	=%100%block#
+}
+
+
+// question: 24250  name: HAQ0856 
+::HAQ0856::[html]In a vehicle moving at high speed, airflow through the radiator cools the coolant, but at low speed or when the engine is idling, extra airflow comes from a ...............................{
+	=%100%fan#
+}
+
+
+// question: 24251  name: HAQ0857 
+::HAQ0857::[html]Fans can be driven in different ways. More and more modern vehicles now use an .............................. fan.{
+	=%100%electric#
+}
+
+
+// question: 24252  name: HAQ0858 
+::HAQ0858::[html]When an engine is mounted longitudinally, its fan is usually mounted on the .............................. shaft.{
+	=%100%water-pump#
+	=%100%water pump#
+}
+
+
+// question: 24253  name: HAQ0859 
+::HAQ0859::[html]Fan blades can be rigid or ...............................{
+	=%100%flexible#
+}
+
+
+// question: 24254  name: HAQ0860 
+::HAQ0860::[html]A heat-sensitive switch in contact with the coolant can work like a .............................., and turn the fan on and off according to coolant temperature.{
+	=%100%thermostat#
+}
+
+
+// question: 24255  name: HAQ0861 
+::HAQ0861::[html]A device that's sensitive to engine temperature sends readings to a .............................. gauge or a warning lamp.{
+	=%100%temperature#
+}
+
+
+// question: 24256  name: HAQ0862 
+::HAQ0862::[html]To give an accurate reading this sensor must always be immersed in ...............................{
+	=%100%liquid#
+}
+
+
+// question: 24257  name: HAQ0863 
+::HAQ0863::[html]If a coolant boils, it can be as serious for an engine as having it freeze. Boiling coolant in the waterjacket becomes a ...............................{
+	=%100%vapour#
+	=%100%vapor#
+}
+
+
+// question: 24258  name: HAQ0864 
+::HAQ0864::[html]One way to prevent this is with a radiator-pressure cap that uses pressure to change the .............................. at which water boils.{
+	=%100%temperature#
+}
+
+
+// question: 24259  name: HAQ0865 
+::HAQ0865::[html]Pressure builds against a spring-loaded .............................. in the radiator cap until at a preset pressure, the valve opens.{
+	=%100%valve#
+}
+
+
+// question: 24260  name: HAQ0866 
+::HAQ0866::[html]Atmospheric pressure in the overflow container then opens a second valve, a vacuum vent valve, and overflow coolant flows back into the ...............................{
+	=%100%radiator#
+}
+
+
+// question: 24261  name: HAQ0867 
+::HAQ0867::[html]A recovery system maintains coolant in the system at all times. As engine temperature rises, coolant ...............................{
+	=%100%expands#
+}
+
+
+// question: 24262  name: HAQ0868 
+::HAQ0868::[html]As the engine cools, coolant .............................. and pressure in the radiator drops.{
+	=%100%contracts#
+}
+
+
+// question: 24263  name: HAQ0869 
+::HAQ0869::[html]Atmospheric pressure in the overflow container opens a second .............................., and overflow coolant flows back into the radiator.{
+	=%100%valve#
+}
+
+
+// question: 24231  name: HAQ3703 
+::HAQ3703::[html]The primary components in a vehicle cooling system are: Radiator; Thermostat & Housing; Water Pump; Cooling Fan; Radiator ..............................; Heater Hoses.{
+	=%100%hoses#
+}
+
+
+// question: 24232  name: HAQ3704 
+::HAQ3704::[html]The radiator consists of top and bottom tanks, and a ...............................{
+	=%100%core#
+}
+
+
+// question: 24233  name: HAQ3705 
+::HAQ3705::[html]The majority of thermostat housings used today are made from an aluminum alloy, and will corrode away instead of the engine or cylinder head. This is known as a '.............................. component'.{
+	=%100%sacrificial#
+}
+
+
+// question: 24234  name: HAQ3706 
+::HAQ3706::[html]The cooling fan can be located on the water pump shaft, or it may be attached directly to the engine ...............................{
+	=%100%crankshaft#
+}
+
+
+// question: 24235  name: HAQ3708 
+::HAQ3708::[html]The hot coolant comes in through the hose attached to the .............................. circuit, and as it sheds some of its heat into the vehicle, it cools down and returns to the engine via the water pump inlet.{
+	=%100%thermostat#
+}

@@ -1,0 +1,13 @@
+- if @report_table.size > 0
+  .left
+    %strong== Download: #{link_to "PDF", url_for(params.except(:page).merge(:format => :pdf))}, #{link_to "CSV", url_for(params.except(:page).merge(:format => :csv))}
+
+  -# Distinguish between individual and users reports
+  - if params[:owner_ids].present?
+    = render :partial => "reports/individual/#{resource.type.demodulize.tableize.singularize}"
+  - else
+    = render :partial => "list"
+
+- else
+  - information_box do
+    No results were found. Please try and broaden your search criteria.

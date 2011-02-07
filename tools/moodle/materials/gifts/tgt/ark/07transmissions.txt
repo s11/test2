@@ -1,0 +1,1756 @@
+//name:TQ0746
+::TQ0746::Drive, in a light vehicle, is transmitted from the engine to a manual transmission by a:{
+	=friction clutch.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+	~multi-plate wet clutch.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+	~torque converter.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+	~drive shaft with joints.#A friction clutch is provided as a means of separating the drive from the engine to the input of the transmission. This allows different gear ratios (and direction) to be selected by the driver depending on road and driving conditions.
+}
+
+
+//name:TQ0747
+::TQ0747::Increasing the diameter of a single-plate clutch increases the maximum:{
+	=torque the clutch can transmit.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+	~centrifugal force the clutch can withstand.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+	~power the clutch can transmit.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+	~engine speed before clutch slip.#Increasing the diameter of a clutch increases its torque capacity, as does increasing the spring force.
+}
+
+
+//name:TQ0748
+::TQ0748::The purpose of the clutch is to:{
+	=transmit torque from the engine to the transmission.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+	~transmit power from the transmission input shaft to the engine.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+	~transmit power from the engine to the transmission.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+	~transmit torque from the transmission input shaft to the engine.#An automobile clutch transmits torque from the engine to the transmission. The driver uses a release mechanism to control the flow of the torque between them.
+}
+
+
+//name:TQ0749
+::TQ0749::The driving force path is:{
+	=flywheel, friction disc, central hub, transmission input.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+	~friction disc, flywheel, transmission input, central hub.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+	~flywheel, friction disc, transmission input, central hub.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+	~ friction disc, flywheel, central hub, transmission input.#Engine power is transmitted from the flywheel, friction disc, central hub and transmission input.
+}
+
+
+//name:TQ0750
+::TQ0750::Adding plates to form a multi-plate clutch will:{
+	=increase its torque capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+	~increase its power capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+	~decrease its speed capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+	~decrease its torque capacity.#Adding plates to a clutch unit to form a multi-plate clutch will increase its torque capacity without needing to increase spring strength or clutch diameter.
+}
+
+
+//name:TQ0751
+::TQ0751::In a multi-plate clutch assembly the clutch plates are separated by a:{
+	=cast-iron separator plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+	~cast-aluminum spacer plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+	~cast-aluminum separator plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+	~cast-iron spacer plate.#A cast-iron separator plate fits between each disc. The separator plate locates on driving pins on the flywheel.
+}
+
+
+//name:TQ0752
+::TQ0752::A clutch safety switch is fitted to some vehicles to prevent:{
+	=the vehicle being started in gear with the clutch engaged.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+	~erratic clutch disengagement.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+	~erratic clutch engagement.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+	~the driver from selecting the wrong gear.#This is a safety feature that many manufacturers are now fitting to manual transmission vehicles. This ensures the driver is aware of the gear position before starting the vehicle. This prevents the possibility of the vehicle taking off uncontrollably if accidentally started in gear.
+}
+
+
+//name:TQ0753
+::TQ0753::The clutch pedal operates the master cylinder in an hydraulic system. This in turn operates the:{
+	=slave cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+	~clutch cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+	~wheel cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+	~pushrod cylinder.#In an hydraulic clutch control, the pedal acts on a master cylinder connected by a hydraulic pipe and flexible hose to a slave cylinder mounted on the clutch housing.
+}
+
+
+//name:TQ0754
+::TQ0754::The purpose of an adjuster in the clutch operating mechanism (when one is provided) is to ensure:{
+	=a clearance can be set in the operating mechanism.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+	~the release bearing engages the release levers at all times.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+	~the release fork contacts the release bearing at all times.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+	~pedal height can be varied to suit the driver.#An adjustment on the clutch provides for a minimum amount of free play to be maintained between the release bearing and the pressure plate fingers when the pedal is in the released position.
+}
+
+
+//name:TQ0755
+::TQ0755::The three common types of clutch operating systems are:{
+	=cable, linkage and hydraulic.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+	~cable, hydraulic and electric.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+	~cable, linkage and electric.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+	~electric, linkage and hydraulic.#Three common clutch operating systems are used. These are the cable, hydraulic and linkage systems.
+}
+
+
+//name:TQ0756
+::TQ0756::The center spline on the clutch disc is attached to the:{
+	=transmission input shaft.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+	~flywheel.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+	~pressure plate.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+	~throw out bearing.#The transmission input shaft passes through the center of the pressure plate. Its parallel splines engage with the internal splines of the central hub on the friction disc.
+}
+
+
+//name:TQ0757
+::TQ0757::The driving member of a clutch assembly is the:{
+	=face of the flywheel.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+	~pressure plate cover.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+	~clutch disc.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+	~transmission input shaft.#The flywheel is the clutch driving member. The clutch unit is mounted on the flywheel's machined rear face so that the unit rotates with the flywheel.
+}
+
+
+//name:TQ0758
+::TQ0758::The transmission input shaft is disconnected from the engine when the:{
+	=clutch pressure plate is moved towards the flywheel.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+	~pressure plate is moved away from the flywheel.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+	~diaphragm segments are released.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+	~driver's foot is removed from the clutch pedal.#Depressing the pedal retracts the pressure plate against the force of its springs and frees the friction disc from its clamping action.
+}
+
+
+//name:TQ0759
+::TQ0759::When the clutch is disengaged the diaphragm spring is made to:{
+	=flatten.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+	~expand.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+	~contract.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+	~dish inwards.#The center bearing applies force to the inner portion of the diaphragm thus flattening the disc and releasing the clutch pressure plate from the friction disc.
+}
+
+
+//name:TQ0760
+::TQ0760::Technician A says that the splines on the forward end of the input shaft connect to the pressure plate. Technician B says that the splines on the forward end of the input shaft connect to the center plate when the clutch pedal is depressed. Who is correct?{
+	=Technician A.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+	~Technician B.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+	~Both Technician A & Technician B.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+	~Neither Technician A or Technician B.#Neither technician is correct as the forward ends of the splines are connected to the friction disc center hub.
+}
+
+
+//name:TQ0761
+::TQ0761::The function of the dual-mass flywheel on a diesel engine is to:{
+	=isolate crankshaft torsional vibrations.#The function of the dual mass flywheels is to isolate torsion crankshaft spikes created by diesel engines with high compression ratios.
+	~increase crankshaft torsional vibrations.#The function of the dual mass flywheels is to isolate torsion crankshaft spikes created by diesel engines with high compression ratios.
+	~reduce clutch pedal effort.#The function of the dual mass flywheels is to isolate torsion crankshaft spikes created by diesel engines with high compression ratios.
+	~allow the torque converter clutch to engage smoothly.#The function of the dual mass flywheels is to isolate torsion crankshaft spikes created by diesel engines with high compression ratios.
+}
+
+
+//name:TQ0762
+::TQ0762::The driven member of a clutch assembly is the:{
+	=clutch disc.#The driven center-plate is also called a clutch disc or friction disc.
+	~transmission input shaft.#The driven center-plate is also called a clutch disc or friction disc.
+	~pressure plate cover.#The driven center-plate is also called a clutch disc or friction disc.
+	~face of the flywheel.#The driven center-plate is also called a clutch disc or friction disc.
+}
+
+
+//name:TQ0763
+::TQ0763::The linings of a clutch plate when disengaged are held slightly apart by spring steel segments. This is to:{
+	=assist in a smooth take-up of the drive.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~allow the linings to rotate on engagement.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~prevent the clutch from slipping at high speeds.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~circulate air through the linings at all times.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+}
+
+
+//name:TQ0764
+::TQ0764::The spring hub arrangement on the clutch center plate is designed to:{
+	=absorb torsional vibrations and shock loads.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+	~supplement clamping force during violent engagement.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+	~prevent clutch slip at high speed.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+	~ensure positive clutch engagement.#Clutch disc torsion springs, also termed damping springs, absorb some of the vibration and shock produced by clutch engagement.
+}
+
+
+//name:TQ0765
+::TQ0765::The two linings of a clutch plate are held apart by a spring steel segment to which they are riveted. This is so that:{
+	=the clutch can engage smoothly.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~the clutch is prevented from slipping under light loads.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~air can circulate through the linings when the clutch is engaged.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~the linings can rotate when the clutch is engaged.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+}
+
+
+//name:TQ0766
+::TQ0766::What is the purpose of the spring steel segments in the clutch center plate?{
+	=To provide a cushioning effect during engagement of the clutch.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~To act as a link between the two center plate surfaces.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~To hold the two center plate surfaces apart.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+	~To provide a cushioning effect during disengagement of the clutch.#Clutch disc facing springs, also called the cushioning springs, are flat metal springs located under the friction lining of the disc. These springs have a slight wave or curve, allowing the lining to flex inward slightly during initial engagement. This also allows for smooth engagement.
+}
+
+
+//name:TQ0767
+::TQ0767::In a typical clutch disc torsional vibration is absorbed by heavy:{
+	=coil springs in the center plate.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+	~cushion bolts.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+	~waved pads.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+	~friction pads.#Torsional engine vibration is dampened through the spring action of the clutch disc center plate. 
+}
+
+
+//name:TQ0768
+::TQ0768::The pressure plate is connected to the cover by:{
+	=spring steel drive straps.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+	~2 fulcrum rings attached to the diaphragm.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+	~rivets attached through the diaphragm.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+	~the bolts that attach the cover to the flywheel.#The pressure plate is connected to the cover by the spring steel drive straps, riveted to the cover at one end, and to projecting lugs on the plate at the other.
+}
+
+
+//name:TQ0769
+::TQ0769::The throw-out bearing is moved against the presure plate by movement of the:{
+	=clutch fork.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+	~clutch pedal spring.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+	~center support hub.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+	~clutch knife.#Moving the fork brings the bearing thrust face into contact with the pressure plate fingers.
+}
+
+
+//name:TQ0770
+::TQ0770::Bearings used in manual transmissions are normally designed to cater for:{
+	=radial loads and thrust loads.#Radial loads try to force the gears and shafts apart. The bearing therefore carries the load along its radius. Thrust loads are applied along the length of the components, so the bearing must cater for side thrusts.
+	~radial loads only.#Radial loads try to force the gears and shafts apart. The bearing therefore carries the load along its radius. Thrust loads are applied along the length of the components, so the bearing must cater for side thrusts.
+	~thrust loads only.#Radial loads try to force the gears and shafts apart. The bearing therefore carries the load along its radius. Thrust loads are applied along the length of the components, so the bearing must cater for side thrusts.
+}
+
+
+//name:TQ0771
+::TQ0771::Taper roller bearings fitted in pairs are able to sustain:{
+	=both radial and thrust loads.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+	~dynamic loads only.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+	~thrust loads only.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+	~radial loads only.#Taper roller bearings are normally used in pairs and can sustain heavy radial and thrust loads in either direction.
+}
+
+
+//name:TQ0772
+::TQ0772::What is the overall gear ratio if the transmission ratio is 2.4:1 and the final drive ratio is 3.5:1?{
+	=8.4:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1.46:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~5.9:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1:1#Automobile drive trains generally have two or more areas where gearing is used. One is in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds. Another is at the differential which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+}
+
+
+//name:TQ0773
+::TQ0773::Compared to a gear ratio of 1:1, when a gear ratio of 0.8:1 is selected at a given engine speed the output shaft speed is:{
+	=increased and the torque is decreased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+	~decreased and the torque is increased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+	~increased and the torque is increased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+	~decreased and the torque is decreased.#Fourth gear is normally a ratio of 1 to 1. The input and output shafts turn at the same speed. There is no torque multiplication. A fifth gear is normally an overdrive ratio typically with a value of .87 to 1 with less torque being available.
+}
+
+
+//name:TQ0774
+::TQ0774::The effect of changing to a lower gear ratio at a given engine speed is to rotate the driving wheels:{
+	=slower with increased torque.#A manual transmission allows the driver to directly vary the gear ratio between the engine and the driving road wheels. This allows engine torque to be varied to suit load and speed requirements.
+	~slower with decreased torque.#A manual transmission allows the driver to directly vary the gear ratio, between the engine and the driving road wheels. This allows engine torque to be varied, to suit load and speed requirements.
+	~faster with decreased torque.#A manual transmission allows the driver to directly vary the gear ratio, between the engine and the driving road wheels. This allows engine torque to be varied, to suit load and speed requirements.
+	~faster with increased torque.#A manual transmission allows the driver to directly vary the gear ratio, between the engine and the driving road wheels. This allows engine torque to be varied, to suit load and speed requirements.
+}
+
+
+//name:TQ0775
+::TQ0775::The gear ratio of a particular gear set can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.{
+	=TRUE#This ratio of DRIVEN over DRIVER at the input - 2 to 1 - is then multiplied by the output ratio which has a DRIVEN to DRIVER ratio of 3 to 1. 
+	~FALSE#This ratio of DRIVEN over DRIVER at the input - 2 to 1 - is then multiplied by the output ratio which has a DRIVEN to DRIVER ratio of 3 to 1. 
+}
+
+
+//name:TQ0776
+::TQ0776::The lower the gear selected in the transmission system the greater the torque multiplication available to the road wheels.{
+	=TRUE#The lower the gear ratio, the lower the speed. This in turn produces higher torque.
+	~FALSE#The lower the gear ratio, the lower the speed. This in turn produces higher torque.
+}
+
+
+//name:TQ0777
+::TQ0777::What is the overall gear ratio if the transmission ratio is 2.5:1 and the final drive ratio is 3.5:1?{
+	=8.75:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~6:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1.4:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+	~1:1#Automobile drive trains generally have two or more areas where gearing is used.  One in the transmission which contains a number of different sets of gearing that can be changed to allow a wide range of vehicle speeds, and another at the differential, which contains one additional set of gearing that provides further mechanical advantage at the wheels.
+}
+
+
+//name:TQ0778
+::TQ0778::What is the ratio of a differential that has a 39 tooth ring gear and an 11 tooth drive pinion gear?{
+	=3.54:1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+	~3.78: 1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+	~4.11 :1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+	~3.91 :1#The gear ratio can be calculated by dividing the number of teeth on the driven gear by the number of teeth on the driver gear.
+}
+
+
+//name:TQ0779
+::TQ0779::Selecting a higher gear:{
+	=reduces engine speed:#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+	~increases engine speed.#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+	~reduces engine power.#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+	~increases engine power.#High gear ranges are designed for cruising where engine power is low and efficiency is desired.
+}
+
+
+//name:TQ0780
+::TQ0780::Selecting a lower gearbox ratio increases the transmitted:{
+	=torque.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+	~speed.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+	~power.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+	~drive.#Low gear ranges are designed for acceleration where engine torque is multiplied to do work.
+}
+
+
+//name:TQ0781
+::TQ0781::The function of an interlocking device in a transmission is to:{
+	=prevent selection of more than one gear at any one time.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+	~lock the gear selector shaft in the selected position.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+	~prevent reverse engagement when the vehicle is moving.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+	~lock the gear to the main shaft when a gear is selected.#When a gear is changed or selected an interlock mechanism prevents more than one gear being engaged at the same time.
+}
+
+
+//name:TQ0782
+::TQ0782::Some lip type oil seals used in transmissions can be hydro-dynamic by design. What does this mean?{
+	=The flutes in the oil seal allow the seal to create a pumping action as the shaft rotates to retain the oil more efficiently.#Seals can be hydro-dynamic type seals with helical flutes molded into the sealing lip. The flutes create a pumping action as the shaft rotates, so any oil at the sealing edge is drawn back inside the casing. Since the flutes are molded in one direction during manufacture, care must be taken to ensure they are correctly applied by considering the direction of shaft rotation.
+	~The flutes in the oil seal allow the seal to stop the natural pumping action of the seal as the shaft rotates to retain the oil more efficiently.#Seals can be hydro-dynamic type seals with helical flutes molded into the sealing lip. The flutes create a pumping action as the shaft rotates, so any oil at the sealing edge is drawn back inside the casing. Since the flutes are molded in one direction during manufacture, care must be taken to ensure they are correctly applied by considering the direction of shaft rotation.
+	~The flutes in the oil seal are simply there as an identification mark.#Seals can be hydro-dynamic type seals with helical flutes molded into the sealing lip. The flutes create a pumping action as the shaft rotates, so any oil at the sealing edge is drawn back inside the casing. Since the flutes are molded in one direction during manufacture, care must be taken to ensure they are correctly applied by considering the direction of shaft rotation.
+}
+
+
+//name:TQ0783
+::TQ0783::The function of the reverse idler in a transmission is to:{
+	=change the direction of rotation of the mainshaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+	~decrease the speed of the output shaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+	~change the direction of rotation of the idler shaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+	~increase the speed of the output shaft.#When reverse is selected the reverse idler connects with mating gears on the countershaft and main shaft. The reverse idler rotates on a plain shaft fixed in the casing. It transfers the drive from one shaft to the other and reverses the direction of rotation of the main shaft.
+}
+
+
+//name:TQ0784
+::TQ0784::The gearbox for a rear-wheel drive vehicle is built up on:{
+	=3 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+	~2 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+	~4 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+	~5 shafts.#Three shafts comprise the common front engine gear box. These include the input, counter and output shafts.
+}
+
+
+//name:TQ0785
+::TQ0785::The three shafts of a manual gearbox are:{
+	=input, counter and main.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+	~input, reverse and main.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+	~input, counter and reverse.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+	~input, reverse and output.#Three shafts comprise the common front engine gear box. These include the input, counter and main shafts.
+}
+
+
+//name:TQ0786
+::TQ0786::The type of gearing normally used for the constant mesh gears in manual transmissions is:{
+	=helical.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+	~bevel.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+	~epicyclic.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+	~spur.#The gears constantly in mesh have their teeth cut on a helix at an angle to the gear center line.
+}
+
+
+//name:TQ0787
+::TQ0787::Helical cut gears:{
+	=reduce gear noise and distribute load evenly.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+	~increase efficiency and distribute load evenly.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+	~increase gear load and reduce gear noise.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+	~reduce gear load and increase efficiency.#Helical gears offer a refinement over spur gears. The teeth are cut at an angle allowing for more gradual hence smoother meshing between gear wheels. This eliminates the whine characteristic of straight-cut gears.
+}
+
+
+//name:TQ0788
+::TQ0788::In transaxle designs, the drive is transferred through the clutch unit to a:{
+	=primary shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+	~secondary shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+	~transaxle shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+	~drive shaft.#In transaxle designs, the drive is transferred through the clutch unit to a primary shaft. The primary shaft carries gears of different sizes which mesh with gears on a secondary shaft.
+}
+
+
+//name:TQ0789
+::TQ0789::What is the purpose of the reverse idler in a manual gearbox?{
+	=To provide a reverse gear.#The reverse idler gear changes the direction of the main shaft rotation opposite of the input gear direction.
+	~To reverse the rotation of the gearbox at all times.#The reverse idler gear changes the direction of the main shaft rotation opposite of the input gear direction.
+	~To reverse the rotation of the gearbox in forward gears.#The reverse idler gear changes the direction of the main shaft rotation opposite of the input gear direction.
+	~To provide a neutral gear.#The reverse idler gear changes the direction of the main shaft rotation opposite of the input gear direction.
+}
+
+
+//name:TQ0790
+::TQ0790::In a rear wheel drive transmission, first gear: {
+	=is the smallest gear on the countershaft, and meshes with the largest gear on the mainshaft.#First gear provides the greatest gear reduction.  The smallest gear on the countershaft drives the largest gear on the mainshaft. 
+	~ss the smallest gear on the countershaft and meshes with the smallest gear on the mainshaft.#First gear provides the greatest gear reduction.  The smallest gear on the countershaft drives the largest gear on the mainshaft. 
+	~is the largest gear on the countershaft and meshes with the largest gear on the mainshaft.#First gear provides the greatest gear reduction.  The smallest gear on the countershaft drives the largest gear on the mainshaft. 
+	~is the largest gear on the countershaft and meshes with the smallest gear on the mainshaft.#First gear provides the greatest gear reduction.  The smallest gear on the countershaft drives the largest gear on the mainshaft. 
+}
+
+
+//name:TQ0791
+::TQ0791::In the synchromesh unit, the baulk ring is located at either end of the:{
+	=synchronizer hub.#The baulk ring, with recesses to accommodate the ends of the inserts, is located in each end of the hub, and a conical inner surface faces a matching steel cone on the gear.
+	~selector sleeve.#The baulk ring, with recesses to accommodate the ends of the inserts, is located in each end of the hub, and a conical inner surface faces a matching steel cone on the gear.
+	~main shaft.#The baulk ring, with recesses to accommodate the ends of the inserts, is located in each end of the hub, and a conical inner surface faces a matching steel cone on the gear.
+	~countershaft.#The baulk ring, with recesses to accommodate the ends of the inserts, is located in each end of the hub, and a conical inner surface faces a matching steel cone on the gear.
+}
+
+
+//name:TQ0792
+::TQ0792::A worn clutch is more likely to slip when the vehicle is:{
+	=under load and acceleration.#Slipping will be most noticeable when the engine is under load such as when the vehicle is lugging at low speed in a high gear; when driving up a hill; when accelerating to pass another vehicle or when towing a trailer.
+	~idle.#Slipping will be most noticeable when the engine is under load, as when the vehicle is lugging at low speed in a high gear, when driving up a hill, when accelerating to pass another vehicle or when towing a trailer.
+	~changing gears.#Slipping will be most noticeable when the engine is under load, as when the vehicle is lugging at low speed in a high gear, when driving up a hill, when accelerating to pass another vehicle or when towing a trailer.
+	~traveling down hills.#Slipping will be most noticeable when the engine is under load, as when the vehicle is lugging at low speed in a high gear, when driving up a hill, when accelerating to pass another vehicle or when towing a trailer.
+}
+
+
+//name:TQ0793
+::TQ0793::In the absence of a manufacturer's specification for clutch pedal free play, you should lightly push down on the pedal until resistance is felt. Correctly adjusted, this distance is about:{
+	=25 mm or 1 inch.#Average clutch pedal free play is about 25 mm or 1 inch.
+	~13 mm or 1/2 inch.#Average clutch pedal free play is about 25 mm or 1 inch.
+	~32 mm or 1 1/4 inches.#Average clutch pedal free play is about 25 mm or 1 inch.
+	~50 mm or 2 inches.#Average clutch pedal free play is about 25 mm or 1 inch.
+}
+
+
+//name:TQ0794
+::TQ0794::The oil level in a manual transmission without a dipstick is correct when:{
+	=fluid leaks slowly from the filler plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+	~the oil flows freely from the filler plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+	~the oil flows freely from the drain plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+	~fluid leaks slowly from the drain plug opening.#Oil level is verified by filling the transmission until oil begins to flow from the fill plug opening.
+}
+
+
+//name:TQ0795
+::TQ0795::When replacing the filler plug it should be tightened:{
+	=to manufacturer's specifications.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+	~as tight as possible.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+	~finger tight.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+	~with an adjustable wrench.#Most fasteners and vehicle components have torque specifications to avoid damage to the component. Observe torque recommendations.
+}
+
+
+//name:TQ0796
+::TQ0796::What will be the adverse effect of a transmission oil level that is too high?{
+	=The fluid will churn and aerate.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+	~There will be no adverse effect.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+	~There will be improved lubrication.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+	~The oil seals will last longer.#The fluid will churn and aerate and form air bubbles that can trap heat and allow the fluid to run hotter. This can lead to early failure of bearings or gears.
+}
+
+
+//name:TQ0797
+::TQ0797::The oil flow that occurs in a torque converter during torque multiplication is known as:{
+	=vortex flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+	~direct flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+	~spiral flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+	~rotary flow.#Rotary flow, vortex flow and spiral flow are terms which describe fluid flow paths in the torque converter. These paths are dependent on operating conditions.
+}
+
+
+//name:TQ0798
+::TQ0798::The oil flow through a torque converter during acceleration is from:{
+	=impeller to turbine to stator.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+	~impeller to stator to turbine.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+	~stator to turbine to impeller.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+	~turbine to impeller to stator.#During torque multiplication the shape of the converter case makes the fluid flow in a circular motion through the impeller, turbine and stator.
+}
+
+
+//name:TQ0799
+::TQ0799::Engaging the lock-up clutch in a lock-up torque converter locks the:{
+	=turbine to the impeller.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+	~turbine to the input shaft.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+	~turbine to the stator.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+	~stator to the impeller.#In a lock-up converter, the impeller and turbine are locked together when conditions are suitable to provide a 1 to 1 drive from the engine to the transmission input shaft.
+}
+
+
+//name:TQ0800
+::TQ0800::Fluid velocity is increased in a torque converter by:{
+	=the shape of the turbine blades.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~decreasing fluid pressure.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~the action of the stator.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+	~increasing fluid pressure.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes which absorbs energy in the fluid, causing the turbine to rotate and transferring the drive to the transmission. The fluid, still at high velocity, now flows between the turbine vanes leaving the turbine in a direction opposite to impeller rotation.
+}
+
+
+//name:TQ0801
+::TQ0801::The torque converter has three components. They are:{
+	=turbine, impeller and stator.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbine, propeller and clutch.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbo, impeller and clutch.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+	~turbo, propeller and stator.#In its simplest form a single stage torque converter has three elements: the impeller, the turbine and stator.   
+}
+
+
+//name:TQ0802
+::TQ0802::The torque converter impeller turns:{
+	=with the engine.#The impeller is driven by the engine and turns at crankshaft speed.
+	~with the gearbox.#The impeller is driven by the engine and turns at crankshaft speed.
+	~the gearbox.#The impeller is driven by the engine and turns at crankshaft speed.
+	~the engine.#The impeller is driven by the engine and turns at crankshaft speed.
+}
+
+
+//name:TQ0803
+::TQ0803::The torque converter stator sits on a central hub that is attached to a:{
+	=one way clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~two way clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~reversing clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+	~reversible clutch.#The fluid strikes the forward face of the stator blades with a backward force which locks the stator on the one way clutch.
+}
+
+
+//name:TQ0804
+::TQ0804::The torque converter turbine turns:{
+	=the gearbox.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~with the gearbox.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~with the engine.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+	~the engine.#Fluid exits the impeller at high velocity and enters the turbine at its outer edge. This exerts a turning effort against the back of the turbine vanes, which absorbs energy in the fluid causing the turbine to rotate and transferring the drive to the transmission.
+}
+
+
+//name:TQ0805
+::TQ0805::A vehicle starting from rest needs a lot of torque. Once it is moving it needs:{
+	=less torque.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+	~more power.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+	~more torque.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+	~less power.#In an automatic transmission, at coupling point the vortex flow of fluid is slight and there is no torque multiplication. This provides less torque once the vehicle is moving.
+}
+
+
+//name:TQ0806
+::TQ0806::At what point does torque multiplication reach its zero multiplication point or coupling point?{
+	=When the turbine speed reaches approximately 90% of impeller speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+	~When the impeller speed reaches approximately 90% of turbine speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+	~When the turbine speed reaches 50% of impeller speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+	~When the impeller speed reaches 50% of turbine speed.#When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1.
+}
+
+
+//name:TQ0807
+::TQ0807::Torque multiplication occurs because the stator directs fluid onto the:{
+	=impeller blades in the same direction as impeller rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+	~turbine blades in the same direction as impeller rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+	~impeller blades in the opposite direction to impeller rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+	~impeller blades in the opposite direction to turbine rotation.#Torque multiplication occurs because the stator directs fluid onto the back of the impeller blades, in the same direction as rotation, increasing the force applied to the imput shaft.
+}
+
+
+//name:TQ0808
+::TQ0808::The order of fluid flow through the transmission heat exchanger is from the:{
+	=pump, converter, heat exchanger, transmission.#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+	~pump, heat exchanger, converter, transmission.#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+	~pump, transmission, converter, heat exchanger .#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+	~pump, heat exchanger, transmission, converter.#Fluid flows from the pump to the converter, then through the heat exchanger before returning to the transmission.
+}
+
+
+//name:TQ0809
+::TQ0809::Technician A says the torque converter stator uses a sprag type one-way-clutch to prevent it from turning against converter rotation.  Technician B says the roller type one-way clutch uses the wedging action of rollers and wedges to allow the stator to lock with converter rotation.  Who is correct? {
+	=Technician A.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+	~Technician B.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+	~Both Technician A and Technician B.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+	~Neither Technician A or Technician B.#Technician A is correct.  The purpose of the one-way-clutch is to prevent the stator from turning backwards against converter rotation.
+}
+
+
+//name:TQ0810
+::TQ0810::The compound gear set is used in an automatic transmission instead of the simple gear set because the:{
+	=compound gear set provides more ratios.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~compound gear set is stronger.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~simple gear set is not as strong.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+	~compound gear set is easier to use.#The Ravigneaux and Simpson gear sets are examples of compound planetary gear sets which are used in automatic transmissions.
+}
+
+
+//name:TQ0811
+::TQ0811::The Ravigneaux gear set consists of:{
+	=2 sun gears, 2 pinion sets and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~1 sun gear, 2 pinion sets and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~2 sun gears, 2 pinion sets and 2 ring gears.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+	~1 sun gear, 1 pinion set and 1 ring gear.#The Ravigneaux gear set has two simple gear sets with only one ring gear.
+}
+
+
+//name:TQ0812
+::TQ0812::The Simpson gear set consists of:{
+	=1 common sun gear, 2 pinion sets and 2 ring gears.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~2 sun gears, 2 pinion sets and 2 ring gears.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~2 sun gears, 2 pinion sets and 1 ring gear.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+	~1 sun gear, 1 pinion set and 1 ring gear.#A Simpson gear set has two simple gear sets connected by a long sun gear common to both gear sets.
+}
+
+
+//name:TQ0813
+::TQ0813::In some automatic transmissions the steel clutch plates in the clutch packs are dished. This is designed to:{
+	=apply the clutch smoothly.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+	~prevent clutch squeal.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+	~apply the clutch quickly.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+	~assist in draining fluid from the plates.#The steel plates may be dished or waved with alternate high and low segments. This design promotes smooth engagement.
+}
+
+
+//name:TQ0814
+::TQ0814::The lining material on some bands and clutches is grooved to:{
+	=dissipate oil on application.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+	~withstand higher temperatures.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+	~retain oil for lubrication.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+	~withstand higher pressures.#The friction material can be of treated paper or fiber and may have a grooved surface to assist in wiping oil from between the plates when the clutch engages.
+}
+
+
+//name:TQ0815
+::TQ0815::In reference to planetary gears the term idling indicates that the:{
+	=planet gears are turning and their carrier is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~sun gear is turning and the ring gear is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~ring gear is turning and the sun gear is stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+	~planet carrier is turning and the planet gears are stationary.#'Idling' refers to the rotation of the planet gears on their pins whenever the planet carrier is stationary.
+}
+
+
+//name:TQ0816
+::TQ0816::When a relief valve is fitted in a clutch operating piston or cylinder it is designed to:{
+	=prevent clutch engagement after the fluid is released.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+	~assist with clutch application.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+	~prevent clutch slip under load.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+	~act as a timing device for clutch application.#A centrifugal relief valve in the clutch piston releases fluid trapped in the cylinder when the clutch is released. This prevents partial application of the clutch which may be caused by centrifugal force acting on the fluid at high speed.
+}
+
+
+//name:TQ0817
+::TQ0817::The simple planetary gear set consists of:{
+	=sun, planet and ring gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, moon and star gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, star and universal gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+	~sun, planet and universal gears.#The basic planetary gear set consists of a sun gear, a ring gear and two or more planet gears, all remaining in constant mesh.  The planet gears are connected to each other through a common carrier which allows the gears to spin on shafts called 'pinions' which are attached to the carrier.
+}
+
+
+//name:TQ0818
+::TQ0818::The brake band is released by:{
+	=applying hydraulic pressure to the opposite side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+	~applying spring pressure to the opposite side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+	~applying hydraulic pressure to the apply side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+	~applying spring pressure to the apply side of the piston. #The brake band is released by applying hydraulic pressure to the opposite side of the piston.  In this way the release can be controlled. 
+}
+
+
+//name:TQ0819
+::TQ0819::How does the 'Downhill Gradient' function operate?{
+	=By a combination of inhibiting up shifts and allowing a single downshift when the throttle pedal is released and when the brake pedal is applied.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+	~By a combination of inhibiting up shifts and allowing a single downshift when the throttle pedal is depressed and when the brake pedal is released.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+	~By inhibiting up shifts and downshifts when the brake pedal is rapidly released and when the lateral acceleration is exceeded.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+	~By inhibiting up shifts and downshifts when the brake pedal is rapidly released and when the lateral acceleration is rapidly reduced.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+}
+
+
+//name:TQ0820
+::TQ0820::What two signals are critical to the successful operation of a fully hydraulic controlled automatic transmission?{
+	=Engine load and vehicle speed.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+	~Engine speed and vehicle load.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+	~Engine mass and vehicle load.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+	~Engine speed and vehicle mass.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+}
+
+
+//name:TQ0821
+::TQ0821::Electronically controlled automatic transmissions have a much better control of driving pattern variation than a fully hydraulically controlled transmission.{
+	=TRUE#In fully hydraulically controlled transmissions, the driving pattern, that is the timing of up shifts and downshifts, is designed into the transmission and cannot be readily altered. In the electronically-controlled transmission, the ECU can store different driving patterns.
+	~FALSE#In fully hydraulically controlled transmissions, the driving pattern, that is the timing of up shifts and downshifts, is designed into the transmission and cannot be readily altered. In the electronically-controlled transmission, the ECU can store different driving patterns.
+}
+
+
+//name:TQ0822
+::TQ0822::Some vehicles have the ability to identify different driving styles and adapt the transmission change patterns accordingly.{
+	=TRUE#Some vehicles can identify and adapt to a driver's individual style and to environmental conditions.
+	~FALSE#Some vehicles can identify and adapt to a driver's individual style and to environmental conditions.
+}
+
+
+//name:TQ0823
+::TQ0823::How does the 'fast-off' function operate?{
+	=By inhibiting up shifts when the throttle pedal is rapidly released.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+	~By inhibiting up shifts when the throttle pedal is rapidly depressed.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+	~By inhibiting up shifts when the brake pedal is rapidly released.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+	~By inhibiting up shifts when the brake pedal is rapidly depressed.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+}
+
+
+//name:TQ0824
+::TQ0824::Which of the following special driving circumstances are catered for in an electronically controlled automatic transmission?{
+	=Fast-off.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+	~Corner.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+	~Downhill.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+	~Stop and go.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+}
+
+
+//name:TQ0825
+::TQ0825::What is the difference between a steptronic transmission and a manual transmission?{
+	=A steptronic transmission is an automatic transmission that has the ability to be driven manually whereas a manual transmission can only be driven manually.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+	~A steptronic transmission is a manual transmission that has the ability to be driven as an automatic whereas a manual transmission can only be driven manually.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+	~A steptronic transmission is an automatic transmission that has the ability to be driven as a manual under special circumstances and in off road conditions only whereas a manual transmission can only be driven manually at all times.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+	~A steptronic transmission is a semi-automatic transmission that has the ability to be driven as an automatic under special circumstances and in off road conditions only whereas a manual transmission can only be driven manually at all times.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+}
+
+
+//name:TQ0826
+::TQ0826::Under what circumstances does the 'Stop and Go' function operate?{
+	=When the throttle opening angle and load speed remain below pre-set operational limits.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+	~When the throttle pedal is rapidly released and when the lateral acceleration is rapidly reduced, the system inhibits up shifts and downshifts.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+	~When the throttle opening speed and load angle remain below preset operational limits.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+	~When the brake pedal is rapidly released and when the lateral acceleration is rapidly reduced, the system inhibits up shifts and downshifts.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+}
+
+
+//name:TQ0827
+::TQ0827::Technician A says a fully hydraulically controlled transmission cannot change its driving pattern.  Technician B says 'Normal' mode in an electronically controlled transmission is suitable for highway driving.  Who is correct?{
+	=Technician A.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+	~Technician B.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+}
+
+
+//name:TQ0828
+::TQ0828::What is the function of 'Environment Identification'?{
+	=To identify if the vehicle is operating in unusual ambient conditions.#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+	~To inform the driver of outside temperature.#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+	~To warn the driver of imminent snow#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+	~To warn the driver of imminent rain.#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+}
+
+
+//name:TQ0829
+::TQ0829::What are the special functions of 'Driving Situation Identification'? {
+	=Fast-off, Downhill Gradient, Corner and Stop-go Identification.#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+	~Transmission lock, Manual and Snow Mode.#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+	~Downhill  and Cornering upshifts#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+	~Normal, Sport and Economy Modes#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+}
+
+
+//name:TQ0830
+::TQ0830::In 'Cornering Identification' the sensors used to determine lateral acceleration are the:{
+	=front wheel speed sensors and the road speed sensor.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+	~rear wheel speed sensors.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+	~lateral acceleration sensor.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+	~the yaw sensor.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+}
+
+
+//name:TQ0831
+::TQ0831::Kick-down changes are useful when short bursts of acceleration are required.{
+	=TRUE#As road speed rises governor pressure will increase and since it is acting on the large differential area on the bottom land it will eventually become high enough to force the valve upwards and overcome kick-down pressure. This keeps engine RPM within safe limits in the automatic range.
+	~FALSE#As road speed rises governor pressure will increase and since it is acting on the large differential area on the bottom land it will eventually become high enough to force the valve upwards and overcome kick-down pressure. This keeps engine RPM within safe limits in the automatic range.
+}
+
+
+//name:TQ0832
+::TQ0832::What does the selection of 'D' indicate in an automatic gear change selection?{
+	=The vehicle will operate in a fully automatic mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+	~The vehicle will operate in a partially automatic mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+	~The vehicle will operate in forward 2nd gear only mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+	~The vehicle will operate in forward 3rd gear only mode.#With the shift lever at D or DR, the vehicle moves forward as the driver depresses the accelerator.
+}
+
+
+//name:TQ0833
+::TQ0833::In a Borg Warner 35 transmission the two components engaged to provide second gear are the:{
+	=front clutch and front band.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+	~front clutch and rear clutch.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+	~rear clutch and rear band.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+	~rear clutch and front band.#In selector lever position D and also in selector position 2, the front clutch and the front band are applied to obtain second gear.
+}
+
+
+//name:TQ0834
+::TQ0834::In a Borg Warner 35 type automatic transmission when the front band is applied the gear member that is held stationary is the:{
+	=secondary sun gear.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+	~ring gear.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+	~planet carrier.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+	~primary sun gear.#For low gear a brake band, anchored to the transmission case, is placed around the ring gear. Applying this holds the ring gear stationary.  When the sun gear rotates the planet gears can no longer idle. They must walk around the inside of the stationary ring gear.
+}
+
+
+//name:TQ0835
+::TQ0835::In a Borg Warner 35 type transmission the one-way clutch holds effectively in:{
+	=drive range first gear.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+	~reverse gear.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+	~drive range second gear.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+	~first gear - 1 selected.#If the one-way clutch doesn't hold effecfively, the planet carrier will freewheel when it should be locked up and no drive will be transmitted in 'D' range 1st gear.
+}
+
+
+//name:TQ0836
+::TQ0836::Locking the sun gears together in a gear set containing two sun gears would produce:{
+	=direct drive.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+	~low ratio.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+	~reverse ratio.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+	~transmission lock-up.#A direct-drive or top-gear condition with a 1 to 1 ratio is obtained by locking together any 2 members of the gear set.
+}
+
+
+//name:TQ0837
+::TQ0837::When is the front clutch of a Borg Warner 35 type transmission activated?{
+	=in all forward gear ratios.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+	~In reverse gear ratio only.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+	~In 1 and 2 forward gear ratios only.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+	~In 1 and reverse gear ratios only.#When 'D' is selected the front clutch is engaged and the one way clutch acts as the reaction member holding the planet carrier stationary and preventing its rotation in the opposite direction to the input shaft.
+}
+
+
+//name:TQ0838
+::TQ0838::If the transmission selector is moved to the 1st gear position when the vehicle is cruising:{
+	=an immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. #An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+	~an immediate down change to 1st gear will occur. #An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+	~1st gear will be selected only after the vehicle stops.#An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+	~nothing will happen until the throttle is depressed.#An immediate down change to 2nd gear will occur with a further down change to 1st when road speed is low enough. 
+}
+
+
+//name:TQ0839
+::TQ0839::How many major components are there in a Ravigneaux gear set?{
+	=There are 5, consisting of 2 sun gears, 2 pinion sets and 1 ring gear. #A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+	~There are 4 consisting of 2 sun gears, 1 pinion set and 1 ring gear #A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+	~There are 3 consisting of 1 sun gear, 1 pinion sets and 1 ring gear.#A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+	~There are 6 consisting of 2 sun gears, 2 pinion sets and 2 ring gears.#A Ravigneaux gear set consists of 5 major components, 2 sun gears, 2 pinion sets and 1 ring gear. 
+}
+
+
+//name:TQ0840
+::TQ0840::In a Borg Warner 35 type transmission in selector lever position 1:{
+	=the front clutch and the rear band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+	~the front clutch and the front band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+	~the rear clutch and the front band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+	~the rear clutch and the rear band are applied.#In selector lever position 1 the front clutch and the rear band are applied. This provides low-gear drive to the vehicle.
+}
+
+
+//name:TQ0841
+::TQ0841::Two sets of plates make up the clutch pack. How are they different?{
+	=The outer driving plates are flat and have external splines that locate in mating splines in the clutch drum.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+	~One set are conical driving plates and the other are flat driven plates.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+	~One set are flat driving plates and the other are conical driven plates.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+	~The inner driving plates are flat and have internal splines that locate in mating splines in the clutch drum.#The number of plates installed determines the torque capacity of the clutch. Installing more plates increases the torque capacity. 
+}
+
+
+//name:TQ0842
+::TQ0842::The front servo in a Borg Warner 35 automatic transmission is a pressure apply/pressure release type with equal piston areas.{
+	=FALSE#The apply force from the piston is transferred through its central stem and is multiplied by the rocker arm, which has a leverage ratio of approximately 3:1. 
+	~TRUE#The apply force from the piston is transferred through its central stem and is multiplied by the rocker arm, which has a leverage ratio of approximately 3:1. 
+}
+
+
+//name:TQ0843
+::TQ0843::In a Borg Warner 35 type automatic transmission the front clutch piston is returned to the off position by:{
+	=a diaphragm spring.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+	~A coil spring.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+	~Hydraulic pressure.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+	~A waved cushion spring.#A diaphragm-type spring contacts a fulcrum ring on the piston at its inner circumference while its outer circumference rests against a snap ring located in a groove in the drum.
+}
+
+
+//name:TQ0844
+::TQ0844::The one-way clutch which locks the planet carrier to the center support is a:{
+	=sprag type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+	~multiplate type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+	~diaphragm type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+	~cone type.#The sprag type one-way clutch locks the planet carrier to the center support whenever the carrier tends to turn in the opposite direction to the transmission input shaft.
+}
+
+
+//name:TQ0845
+::TQ0845::When the rear clutch is engaged together with the front clutch, it provides for an overdrive drive condition through the transmission. {
+	=FALSE#The rear clutch is engaged in third gear together with the front clutch, and in reverse gear together with the rear band.
+	~TRUE#The rear clutch is engaged in third gear together with the front clutch, and in reverse gear together with the rear band.
+}
+
+
+//name:TQ0846
+::TQ0846::The function of hydraulic servos in a transmission is to:{
+	=apply and release a brake band.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~pump fluid around the transmission.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~apply and release gear set components.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~turn transmission clutches.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+}
+
+
+//name:TQ0847
+::TQ0847::The purpose of an automatic transmission servo unit is to:{
+	=convert hydraulic pressure into a mechanical force.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~act as a timing device during downshifts.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~provide a housing for the clutch pack.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~act as a timing device during up shifts.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+}
+
+
+//name:TQ0848
+::TQ0848::What is the name of the piston-like device that is used to tighten a brake band around a drum?{
+	=Servo.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~Governor.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~Planetary gear set.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+	~Turbine.#Servos are used in automatic transmissions to convert the hydraulic pressure acting on a piston to a mechanical force which is then applied to a brake band.
+}
+
+
+//name:TQ0849
+::TQ0849::What does the rear servo apply force to?{
+	=The rear band.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+	~The rear planet carrier.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+	~The rear clutch.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+	~The rear pinion.#The rear servo is a pressure apply/spring release type and is engaged together with the rear clutch to transfer the apply force to the rear band. 
+}
+
+
+//name:TQ0850
+::TQ0850::The manual valve located in an automatic transmission is normally a:{
+	=control valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+	~pressure regulating valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+	~timing valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+	~check valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+}
+
+
+//name:TQ0851
+::TQ0851::What sort of valves are control valves?{
+	=Simple gate valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+	~Complex gate valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+	~Proportioning valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+	~Non return valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+}
+
+
+//name:TQ0852
+::TQ0852::The lands of a spool valve have sharp edges so that they:{
+	=have a self-cleaning action.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+	~prevent fluid leakage.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+	~fit flush against the retainer.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+	~prevent pressure surges.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+}
+
+
+//name:TQ0853
+::TQ0853::Which of the following does NOT comprise part of the hydraulic system?{
+	=Brake band. #A crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+	~Crescent type gear pump.#A crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+	~Centrifugally operated hydraulic governor.#A crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+	~Control valve body assembly.#The a crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+}
+
+
+//name:TQ0854
+::TQ0854::The governor provides a varying hydraulic pressure according to engine RPM.{
+	=FALSE#The governor is driven by the transmission output shaft and provides a varying hydraulic pressure according to vehicle speed.
+	~TRUE#The governor is driven by the transmission output shaft and provides a varying hydraulic pressure according to vehicle speed.
+}
+
+
+//name:TQ0855
+::TQ0855::In a Borg Warner 35 type of automatic transmission the control valves can be divided into two groups:{
+	=pressure regulating valves and flow control valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+	~pressure actuating valves and flow control valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+	~pressure regulating valves and flow return valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+	~pressure control valves and flow regulating valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+}
+
+
+//name:TQ0856
+::TQ0856::Spool valves can be divided into two groups. They are:{
+	=pressure regulating valves and flow control valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+	~pressure regulating valves and pressure control valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+	~flow control valves and flow regulating valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+	~spring compression valves and supply pressure valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+}
+
+
+//name:TQ0857
+::TQ0857::Technician A says that spool valves can be positioned manually by springs or by pressure.  Technician B says differential force will move the spool valve.  Who is correct?{
+	=Technician A.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+	~Technician B.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+}
+
+
+//name:TQ0858
+::TQ0858::Technician A says that 'orifices' are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. Technician B says the orifice is designed to alllow sudden or undue movement of a valve.  Who is correct{
+	=Technician A.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+	~Technician B.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+	~Both Technician A and Technician B.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+	~Neither Technician A or Technician B.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+}
+
+
+//name:TQ0859
+::TQ0859::What is the purpose of the primary regulating valve in an automatic transmission?{
+	=To maintain line pressure in the system.#The primary regulating valve maintains line pressure in the system.
+	~To determine the pressure in the converter.#The primary regulating valve maintains line pressure in the system.
+	~To direct line pressure to the shift valves.#The primary regulating valve maintains line pressure in the system.
+	~To direct line pressure to the bands.#The primary regulating valve maintains line pressure in the system.
+}
+
+
+//name:TQ0860
+::TQ0860::The secondary regulating valve determines the pressure in the converter and in the ________ circuits.{
+	=lubricating#The manual valve directs line pressure to the shift valves and to the governor valve.
+	~primary#The manual valve directs line pressure to the shift valves and to the governor valve.
+	~secondary#The manual valve directs line pressure to the shift valves and to the governor valve.
+	~regulating#The manual valve directs line pressure to the shift valves and to the governor valve.
+}
+
+
+//name:TQ0861
+::TQ0861::The primary regulator valve increases line pressure when it is subjected to an increase in:{
+	=throttle pressure.#The primary regulating valve maintains line pressure in the system. Line pressure is directed to the manual valve and to the throttle valve at all times.
+	~governor pressure.#The primary regulating valve maintains line pressure in the system. Line pressure is directed to the manual valve and to the throttle valve at all times.
+	~modulator pressure.#The primary regulating valve maintains line pressure in the system. Line pressure is directed to the manual valve and to the throttle valve at all times.
+	~detent pressure.#The primary regulating valve maintains line pressure in the system. Line pressure is directed to the manual valve and to the throttle valve at all times.
+}
+
+
+//name:TQ0862
+::TQ0862::What is the highest pressure in the transmission?{
+	=Line pressure.#Line pressure is the highest pressure in the transmission and all other pressures are derived from line pressure.
+	~Transmission pressure.#Line pressure is the highest pressure in the transmission and all other pressures are derived from line pressure.
+	~Regulator pressure.#Line pressure is the highest pressure in the transmission and all other pressures are derived from line pressure.
+	~Control pressure.#Line pressure is the highest pressure in the transmission and all other pressures are derived from line pressure.
+}
+
+
+//name:TQ0863
+::TQ0863::The force required to move the shift valve during up shifts is generated by:{
+	=governor pressure.#The shift valves are control valves supplied with line pressure which is varied by the governor valve depending on road speed. Low speed equals low pressure; high speed equals high pressure.
+	~spring pressure.#The shift valves are control valves supplied with line pressure which is varied by the governor valve depending on road speed. Low speed equals low pressure; high speed equals high pressure.
+	~throttle pressure.#The shift valves are control valves supplied with line pressure which is varied by the governor valve depending on road speed. Low speed equals low pressure; high speed equals high pressure.
+	~modulator pressure.#The shift valves are control valves supplied with line pressure which is varied by the governor valve depending on road speed. Low speed equals low pressure; high speed equals high pressure.
+}
+
+
+//name:TQ0864
+::TQ0864::The governor pressure acts on the end of the transmission 1-2 shift valve and as road speed increases it can become high enough to overcome the opposing forces of spring and throttle pressure.{
+	=TRUE#When vehicle speed is low, governor pressure is low.  When vehicle speed is high, governor pressure is high. That pressure is directed to the end of the shift valve, which produces upshifts relative to vehicle speed.
+	~FALSE#When vehicle speed is low, governor pressure is low.  When vehicle speed is high, governor pressure is high. That pressure is directed to the end of the shift valve, which produces upshifts relative to vehicle speed.
+}
+
+
+//name:TQ0865
+::TQ0865::Under what conditions does the transmission 'kick-down' function operate?{
+	=Kick-down pressure is supplied to the spring end of the 1-2 shift valve to force a 2-1 downshift under 'kick-down' conditions.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+	~Kick-down pressure is supplied to the spring end of the 2-3 shift valve to force a 2-3 downshift under 'kick-down' conditions.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+	~Kick-down only operates under light load conditions.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+	~New transmissions do not have a 'kick-down' function fitted.#Most automatic transmissions have a switch that forces the transmission to downshift into the next lower ratio if the throttle is fully engaged, but this is controlled to prevent a downshift that would over-rev the engine.
+}
+
+
+//name:TQ0866
+::TQ0866::The modulator valve in an automatic transmission assembly consists of a modulator valve and a modulator plug and spring.{
+	=TRUE#The modulator valve is operated by throttle pressure but is also subjected to governor pressure, so that its output is sensitive both to accelerator position and to vehicle speed.
+	~FALSE#The modulator valve is operated by throttle pressure but is also subjected to governor pressure, so that its output is sensitive both to accelerator position and to vehicle speed.
+}
+
+
+//name:TQ0867
+::TQ0867::How does the governor operate?{
+	=It operates by centrifugal force in two stages. #The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+	~It operates by centrifugal force in three stages.#The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+	~It operates by hydraulic pressure in three stages.#The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+	~It operates by hydraulic pressure in two stages.#The governor is in two sections comprising the governor valve and its spring, and a bob-weight retained by a 'C' clip.
+}
+
+
+//name:TQ0868
+::TQ0868::In a primary regulating valve what does the larger land provide?{
+	=A differential area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+	~A regulating area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+	~A modulating area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+	~A line pressure area.#The primary regulating valve regulates the value of line pressure in the transmission. The lands on the valve assist in this process.
+}
+
+
+//name:TQ0869
+::TQ0869::The primary regulator valve maintains an idle speed pressure of:{
+	=450kPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+	~45kPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+	~450MPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+	~45MPa.#The primary regulating valve regulates the value of line pressure in the transmission.
+}
+
+
+//name:TQ0870
+::TQ0870::Technician A says that applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Technician B says that applying modulator pressure to the opposite end reduces it. Who is correct?{
+	=Technician A.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+	~Technician B.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. Applying throttle pressure to the spring end of the primary regulating valve lifts line pressure.  Applying modulator pressure to the opposite end reduces it.
+}
+
+
+//name:TQ0871
+::TQ0871::How many sections does a 1-2 shift valve have?{
+	=Two. Upper and lower sections.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+	~Three. Center section plus upper and lower extensions.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+	~One. The valve is a single sealed unit.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+	~Four. Two springs, a valve, and a plunger.#The 1-2 shift valve is in two sections. The shift valve itself is the lower section and this is held in its downmost position by a combination of the differential force and by the upper section plunger and spring.
+}
+
+
+//name:TQ0872
+::TQ0872::Which of these is a component of a 2-3 shift valve assembly?{
+	=Throttle pressure regulating plug.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+	~Servo pressure valve adjuster.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+	~Compensating pressure booster.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+	~Center band release circuit.#With the vehicle in motion in 2nd gear and at higher throttle openings, higher throttle pressure moves the plug down towards the shift valve and this re-regulates the throttle pressure into a lower value so that it can act on the top land of the shift valve.
+}
+
+
+//name:TQ0873
+::TQ0873::What determines whether a 3-2 kickdown shift can be made?{
+	=Governor pressure.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+	~The force of the kickdown on the accelerator/gas pedal.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+	~Proportioning valve pressure.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+	~A combination of road speed and air intake volume.#When a 3-2 kickdown downshift is required, the fully depressed throttle prevents the throttle valve from regulating the incoming line pressure and throttle pressure becomes equal to line pressure.  Fluid at line pressure passes through the kickdown valve and acts on the top land of the 2-3 shift valve.
+}
+
+
+//name:TQ0874
+::TQ0874::The manual valve directs fluid at what pressure when gear position 1 is selected?{
+	=Line pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+	~Boosted pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+	~Reduced pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+	~Atmospheric pressure.#When gear lever position 1 is selected, the manual valve directs fluid at line pressure to the front clutch and to the rear band servo.
+}
+
+
+//name:TQ0875
+::TQ0875::In a Borg Warner 35 type transmission during a 2-3 up shift, the timing of the front band release and rear clutch application is controlled by the:{
+	=servo orifice control valve.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+	~size of the front servo spring.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+	~modulator valve and regulating plug.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+	~2-3 shift valve regulating plug.#The servo orifice control valve acts as a timing device to prevent engine flare at wide throttle openings on a 2-3 up shift and conversely to prevent the transmission becoming 'tied-up' or being momentarily in two gears during a 3-2 downshift.
+}
+
+
+//name:TQ0876
+::TQ0876::What kind of valve is a servo orifice control valve?{
+	=A shuttle valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+	~A butterfly valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+	~A ball valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+	~A needle valve.#The shuttle valve can be positioned at rest by a spring to allow unrestricted fluid flow, or can be moved by governor pressure to insert a restricting orifice in the front band servo release circuit.
+}
+
+
+//name:TQ0877
+::TQ0877::Technician A says when gear position 1 is selected the rear band is applied.  Technician B says that engine braking can be achieved on overrun.  Who is correct? {
+	=Technician A.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+	~Technician B.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct because when gear position 1 is selected the rear band is applied and engine braking can be achieved on overrun. 
+}
+
+
+//name:TQ0878
+::TQ0878::The 1-2 shift valve is influenced by:{
+	=throttle and spring pressure vs governor pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+	~governor and spring pressure vs throttle pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+	~throttle and governor pressure vs spring pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+	~throttle pressure vs governor pressure.#The 1-2 shift valve is influenced by throttle and spring pressure vs governor pressure.
+}
+
+
+//name:TQ0879
+::TQ0879::The 2-3 shift valve is influenced by:{
+	=throttle and spring pressure vs governor pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+	~governor and spring pressure vs throttle pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+	~throttle and governor pressure vs spring pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+	~throttle pressure vs governor pressure.#The 2-3 shift valve is Influenced by throttle and spring pressure vs governor pressure.
+}
+
+
+//name:TQ0880
+::TQ0880::A 3-2 kickdown will occur if:{
+	=throttle and spring pressure overcome governor pressure.#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+	~governor pressure overcome throttle and spring pressure .#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+	~governor and spring pressure overcome throttle pressure.#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+	~spring pressure overcomes throttle pressure.#A 3-2 kickdown will occur if throttle and spring pressure overcome governor pressure.
+}
+
+
+//name:TQ0881
+::TQ0881::In a continuously variable transmission the gear ratio is varied by a:{
+	=belt and pulley system.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+	~planetary gear set.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+	~magnetic powder clutch.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+	~hyvo chain and sprockets.#A steel vee belt connects the primary pulley to the secondary. The pulleys are split to allow their contact radius or groove width to be varied.
+}
+
+
+//name:TQ0882
+::TQ0882::In a CVT transmission what happens when 'drive' is selected?{
+	=A synchronizer assembly connects the magnetic clutch directly to the primary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+	~A synchronizer assembly connects directly to the secondary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+	~The magnetic clutch connects directly to the secondary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+	~The hydraulic clutch connects directly to the primary pulley of the transmission.#In reverse, the drive is transmitted through a reverse idler. It changes the direction of rotation of the primary pulley and the transmission.
+}
+
+
+//name:TQ0883
+::TQ0883::What is the secondary pulley shaft connected to?{
+	=The secondary pulley shaft is splined to a helical reduction drive gear.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+	~The secondary pulley shaft is splined to a helical incremental increase drive gear.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+	~The secondary pulley shaft is connected to a helical reduction drive gear by a toothed nylon belt.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+	~The secondary pulley shaft is connected to a spiral drive gear.#The drive gear meshes with a similar reduction driven gear, splined to the final-drive pinion shaft. The final-drive pinion meshes with the final-drive ring gear to transmit the drive to the differential case.
+}
+
+
+//name:TQ0884
+::TQ0884::In a CVT transmission how do the steel blocks in the drive belt operate?{
+	=The blocks are in compression on the drive side, and float loosely along the laminated bands on the return side.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+	~The blocks float loosely on the drive side, and are in compression along the laminated bands on the return side.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+	~The blocks float loosely along the nylon pulleys on the return side.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+	~The blocks are in constant compression during operation.#Drive is transmitted by compressing the block elements rather than relying on tension in the band. Each block leaving the primary pulley pushes the blocks ahead of it to the secondary pulley, where the bands keep the blocks in contact with the pulley faces. 
+}
+
+
+//name:TQ0885
+::TQ0885::How is the steel belt constructed?{
+	=The belt consists of hardened steel V-blocks, held together by two endless laminated steel bands.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+	~The belt consists of hard nylon V-blocks, held together by two endless laminated steel bands.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+	~The belt consists of hardened steel V-blocks, held together by two endless rubberized bands.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+	~The toothed steel belt is made from nylon reinforced rubber.#These strips fit closely together in a very strong and flexible ring. The blocks are guided by the bands but not attached to them. 
+}
+
+
+//name:TQ0886
+::TQ0886::Technician A says that an over-fill condition may result in fluid foaming and damage to the transmission clutch packs. Technician B says that an under-fill condition may result in fluid foaming and damage to the transmission clutch packs. Who is correct?{
+	=Technician A.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+	~Technician B.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+	~Both Technician A & Technician B.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+	~Neither Technician A or Technician B.#Both technicians are correct as a fluid over-fill or under-fill condition may result in fluid foaming and damage to the transmission clutch packs.
+}
+
+
+//name:TQ0887
+::TQ0887::Technician A says that the transmission fluid should be checked when the transmission is at ambient temperature.  Technician B says the transmission must be in the 'D' position.  Who is correct?{
+	=Technician A.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+	~Technician B.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+	~Both Technician A & Technician B.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+	~Neither Technician A or Technician B.#Neither Technician is correct.  Always refer to the shop manual to see what temperature and gear position are recommended, as different manufacturers specify different temperatures and gear positions.
+}
+
+
+//name:TQ0888
+::TQ0888::When checking the transmission fluid level, it is necessary to move the transmission selector through all the gear selections.  What other action is necessary?{
+	=Apply the foot brake.#Apply the foot brake and move the transmission selector through all the gear selections.
+	~Hold the engine at 3000 RPM.#Apply the foot brake and move the transmission selector through all the gear selections.
+	~Make sure the engine is NOT running.#Apply the foot brake and move the transmission selector through all the gear selections.
+	~Turn the steering from lock to lock.#Apply the foot brake and move the transmission selector through all the gear selections.
+}
+
+
+//name:TQ0889
+::TQ0889::When changing the transmission fluid the relpacement fluid should be:{
+	=the correct specification and quantity as recommended by the manufacturer.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+	~heavy duty hydraulic fluid.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+	~the same viscosity as the engine oil.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+	~added after the engine is started.#The transmission fluid relpacement should be the correct specification and quantity as recommended by the manufacturer.
+}
+
+
+//name:TQ0890
+::TQ0890::What is the procedure for draining the transmission fluid if there is no drain plug?{
+	=Loosen and remove all but 3 fasteners and let the fluid flow from the holes.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+	~Drill a drain hole with an electric drill so the fluid can drain from it.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+	~Remove the transmission and drain the fluid from the filler tube.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+	~Loosen all the pan bolts and lower the pan into the drain container.#Loosen and remove all but 3 fasteners and let the fluid flow from the holes. Once the fluid has drained, remove the remaining fasteners and remove the pan.
+}
+
+
+//name:TQ0891
+::TQ0891::Technician A says that a small amount of metal components in then pan is normal.  Technician B says that metal filters can be cleaned and reused.  Who is correct?{
+	=Technician A.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+	~Technician B.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+	~Both Technician A & Technician B.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+	~Neither Technician A or Technician B.#Both Technicians A and B are correct. A small amount of metal components in then pan is normal.  Metal filters can be cleaned and reused.
+}
+
+
+//name:TQ0892
+::TQ0892::Four-wheel drive vehicles normally have a two-wheel drive arrangement for sealed road use and a selectable four-wheel drive arrangement for off road use, whereas all-wheel drives use permanent four-wheel drive in all operational conditions.{
+	=TRUE#Four-wheel drive vehicles are designed to normally have a two-wheel drive arrangement for sealed road use and a selectable four-wheel drive arrangement for off road use, whereas all-wheel drives uses a permanent four-wheel drive arrangement in all operational conditions. 
+	~FALSE#Four-wheel drive vehicles are designed to normally have a two-wheel drive arrangement for sealed road use and a selectable four-wheel drive arrangement for off road use, whereas all-wheel drives uses a permanent four-wheel drive arrangement in all operational conditions. 
+}
+
+
+//name:TQ0893
+::TQ0893::What is the difference between four-wheel drive and all-wheel drive?{
+	=All-wheel drive drives all wheels at all times.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+	~There is no difference.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+	~Four-wheel drive drives all wheels at all times.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+	~All-wheel drive is only useful off road.#All-wheel drive vehicles are configured to apply torque to all wheels during all conditions.
+}
+
+
+//name:TQ0894
+::TQ0894::What is the main difference between conventional four-wheel drive and all-wheel drive? {
+	=In all-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels, and through the front final drive to the front wheels at all times.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+	~In all-wheel drive vehicles, drive is automatically transmitted through the rear final drive to the rear wheels on demand.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+	~In all-wheel drive vehicles, drive is automatically transmitted through the front final drive to the front wheels on demand.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+	~They are the same.#The final drive gears are normally a hypoid bevel crown wheel and pinion type. The same gear ratio is used for both front and rear units. 
+}
+
+
+//name:TQ0895
+::TQ0895::Technician A says that certain drive shaft configurations use constant velocity joints and not simple cross and rollers. Technician B says that certain vehicle applications use axle shafts that resemble short drive shafts. Who is correct?{
+	=Technician A.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+	~Technician B.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+	~Both Technician A & Technician B.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+	~Neither Technician A or Technician B.#Both technicians are correct as drive shafts come in many shapes, sizes and configurations. 
+}
+
+
+//name:TQ0896
+::TQ0896::Changes in length between the transmission and the final drive are catered for by:{
+	=a sliding spline.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+	~a rubber tripod coupling.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+	~flexible engine mounts.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+	~a cross and roller assembly.#A splined slip yoke is included in the system and is designed to allow longitudinal movement and to vary the shaft length with suspension movement.
+}
+
+
+//name:TQ0897
+::TQ0897::Vehicles with independent rear suspension transfer the drive to each driving road wheel through:{
+	=external drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+	~internal drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+	~solid drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+	~flexible drive shafts.#On rear-wheel-drive vehicles with independent suspension the final drive unit is fixed to the vehicle frame. Drive is transmitted to each wheel by external drive shafts.
+}
+
+
+//name:TQ0898
+::TQ0898::Technician A says that the tail shaft bushing supports the rear of the drive shaft. Technician B says that the center bearing supports the front of the drive shaft. Who is correct?{
+	=Technician A.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+	~Technician B.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+	~Both Technician A & Technician B.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+	~Neither Technician A or Technician B.#Neither technician is correct as the tail shaft bushing supports the front of the drive shaft. Center bearings support the center of the drive shaft system.
+}
+
+
+//name:TQ0899
+::TQ0899::Any difference in speed between front and rear axles in full-time 4WD vehicles is catered for by:{
+	=a third differential between front and rear axles.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+	~the front and rear axle differentials.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+	~engaging neutral.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+	~engaging low range.#When high-range is engaged for driving on firm road surfaces differences in speed between the front and rear wheels are catered for by the third differential gears in the transfer case output.
+}
+
+
+//name:TQ0900
+::TQ0900::Technician A says a transfer case is necessary so front drive can be disconnected.  Technician B says the transfer case provides high and low range.  Who is correct?{
+	=Technician A.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+	~Technician B.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+	~Both Technician A & Technician B.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+	~Neither Technician A or Technician B.#Both Technicians A and B are correct. A transfer case provides high and low range and allows front drive to be disconnected.
+}
+
+
+//name:TQ0901
+::TQ0901::The universal joint is designed to allow for changes in:{
+	=shaft length and horizontal angle.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+	~angular change but not shaft length.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+	~angular change and shaft length.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+	~shaft length and angular change.#Universal joints let the shaft keep rotating while allowing for changes due to suspension movement such as shaft length, horizontal angle and shaft angle as the steering turns.
+}
+
+
+//name:TQ0902
+::TQ0902::The inner universal can be a:{
+	=plunge or tripod type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+	~ball and cage type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+	~plunge and cage type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+	~ball and tripod type.#The inner universal can be a plunge or tripod type joint. The tripod is splined to the intermediate shaft and held by a circlip.
+}
+
+
+//name:TQ0903
+::TQ0903::The outer CV joint is designed to allow for changes in:{
+	=angular change but not shaft length.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~angular change and shaft length.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~shaft length and angular change.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~shaft length and horizontal angle.#The outer universal joint allows greater angular changes but not changes in shaft length. It's normally a ball and cage type with an inner race splined to the intermediate shaft.
+}
+
+
+//name:TQ0904
+::TQ0904::The outer universal can be a:{
+	=ball and cage type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~plunge and cage type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~plunge or tripod type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+	~ball and tripod type.#The outer universal joint allows greater angular changes but not changes in shaft length. It is normally a ball and cage type with an inner race splined to the intermediate shaft.
+}
+
+
+//name:TQ0905
+::TQ0905::Shafts for independent suspension designs do not need to allow for changes in shaft length.{
+	=FALSE#Independent suspensions require shaft designs that allow for angle changes.
+	~TRUE#Independent suspensions require shaft designs that allow for angle changes.
+}
+
+
+//name:TQ0906
+::TQ0906::Changes in length between the transmission and the final drive in a transaxle arrangement are catered for by:{
+	=nothing. There is no need for any arrangement as the distance between the components is constant in all conditions.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+	~a rubber tripod coupling.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+	~a sliding spline.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+	~a cross and roller assembly.#In front-wheel drive vehicles, the final drive gears are incorporated in the transaxle assembly.
+}
+
+
+//name:TQ0907
+::TQ0907::The purpose of the differential in a front-wheel-drive vehicle is:{
+	=to allow the drive wheels to turn at different speeds when cornering while still providing drive.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+	~to allow the drive wheels to turn at the same speeds when cornering while still providing drive.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+	~to provide a variable steering ratio.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+	~to provide a variable final drive ratio.#The purpose of the differential in a front-wheel-drive vehicle is to allow the drive wheels to turn at different speeds when cornering while still providing drive.
+}
+
+
+//name:TQ0908
+::TQ0908::When a vehicle turns a right-hand corner what does the differential allow?{
+	=the left-hand axle shaft to rotate faster than the right.#Rotation of the pinion gears makes the outer side gear and its road wheel speed up by an equivalent amount. The outer side gear then turns faster than the case.
+	~the right-hand axle to rotate faster than the left.#Rotation of the pinion gears makes the outer side gear and its road wheel speed up by an equivalent amount. The outer side gear then turns faster than the case.
+	~axles to turn at the same speed.#Rotation of the pinion gears makes the outer side gear and its road wheel speed up by an equivalent amount. The outer side gear then turns faster than the case.
+	~the left-hand axle to rotate slower than the right.#Rotation of the pinion gears makes the outer side gear and its road wheel speed up by an equivalent amount. The outer side gear then turns faster than the case.
+}
+
+
+//name:TQ0909
+::TQ0909::A plate-type limited slip differential provides drive to both wheels in abnormal driving conditions by:{
+	=locking the differential side gears to the case.#Resistance at the road wheels forces the pinion shafts up the incline formed by the wedges in the case. This forces the shafts apart so that the pinion gears exert a greater force on the side gears and on the clutch packs. This locks the side gears to the case preventing any sudden spinning of either wheel.
+	~locking the differential pinion shafts to the case.#Resistance at the road wheels forces the pinion shafts up the incline formed by the wedges in the case. This forces the shafts apart so that the pinion gears exert a greater force on the side gears and on the clutch packs. This locks the side gears to the case preventing any sudden spinning of either wheel.
+	~increasing differential case bearing pre-load.#Resistance at the road wheels forces the pinion shafts up the incline formed by the wedges in the case. This forces the shafts apart so that the pinion gears exert a greater force on the side gears and on the clutch packs. This locks the side gears to the case preventing any sudden spinning of either wheel.
+	~reducing slip between the ring gear and pinion.#Resistance at the road wheels forces the pinion shafts up the incline formed by the wedges in the case. This forces the shafts apart so that the pinion gears exert a greater force on the side gears and on the clutch packs. This locks the side gears to the case preventing any sudden spinning of either wheel.
+}
+
+
+//name:TQ0910
+::TQ0910::Driveshaft slip yokes in cars are generally lubricated:{
+	=by the transmission lubrication system.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+	~by hand with high temperature grease.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+	~with grease fittings.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+	~only during u-joint replacement.#Drive shafts should be carefully inspected and lubricated at recommended original equipment vehicle manufacturers' service intervals. Some components and even some entire drive shafts are non-serviceable and cannot be re-greased.
+}
+
+
+//name:TQ0911
+::TQ0911::Technician A says the driveline slip yoke is designed to slip when overloaded. Technician B says the driveline slip yoke allows the shaft to change its effective length. Who is correct?{
+	=Technician A.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+	~Technician B.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+	~Both Technician A and Technician B.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+	~Neither Technician A nor Technician B.#Technician B is correct as the slip yoke is designed to move longitudinally and to allow the shaft length to vary with suspension movement.
+}
+
+
+//name:TQ0912
+::TQ0912::One purpose of the crown wheel and pinion in a conventional rear-wheel drive vehicle is to:{
+	=change the direction of drive through 90 degrees.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~allow the driving wheels to rotate independently.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~always turn the road wheels in a forward direction.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~rotate the drive wheels faster with increased torque.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+}
+
+
+//name:TQ0913
+::TQ0913::The collapsible sleeve between the rear axle pinion bearings controls:{
+	=pinion bearing preload.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~tooth contact pattern.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~pinion depth.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~backlash.#A collapsible spacer is used between the bearings and allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+}
+
+
+//name:TQ0914
+::TQ0914::The hypoid rear axle is designed to:{
+	=all of these.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+	~lower the body profile.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+	~provide quieter operation.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+	~provide more tooth contact.#Hypoid gears are a special design of spiral bevel gear with the center line of the pinion below the center line of the crown wheel. This reduces the height of the propeller shaft tunnel to give a flatter floor pan. The tooth shape provides a greater area of tooth contact and therefore greater strength.
+}
+
+
+//name:TQ0915
+::TQ0915::The type of gear used for most differential drive pinion and ring gears that mesh below the center line of the ring gear is normally a:{
+	=hypoid gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+	~idler gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+	~spur bevel gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+	~helical gear arrangement.#Hypoid gears are a special design of spiral bevel gears with the center line of the pinion below the center line of the crown wheel.
+}
+
+
+//name:TQ0916
+::TQ0916::One purpose of a hypoid rear-wheel drive vehicle is to:{
+	=allow for a lower body line.#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~allow the driving wheels to rotate independently#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~always turn the road wheels in a forward direction#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+	~rotate the drive wheels faster with increased torque#A crown wheel and pinion transfers the drive through ninety degrees and provides a final gear reduction to the driving road wheels.
+}
+
+
+//name:TQ0917
+::TQ0917::Misalignment of the crown wheel and pinion will cause:{
+	=noisy operation.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+	~lack of drive.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+	~an incorrect reduction ratio.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+	~oil leaks.#The teeth on the crown wheel and pinion are cut in a spiral bevel pattern to reduce the noise as the teeth mesh at high speed. It is misalignment and subsequent wear of these parts that cause a whining noise.
+}
+
+
+//name:TQ0918
+::TQ0918::The ring gear and pinion gear contact position in a final drive assembly is maintained by setting:{
+	=bearing pre-load to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~pinion depth to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~backlash to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+	~end-float to specifications.#A collapsible spacer is placed between the bearings allows a specified pre-load to be set. Mesh shims position the pinion in relation to the crown wheel.
+}
+
+
+//name:TQ0919
+::TQ0919::The lubricant necessary for hypoid type final drive gears is:{
+	=extreme pressure gear oil.#Hypoid bevel gears require special lubricants able to withstand extreme pressure to protect against the high loads between the teeth.
+	~worm drive gear oil.#Hypoid bevel gears require special lubricants able to withstand extreme pressure to protect against the high loads between the teeth.
+	~multi-purpose grease.#Hypoid bevel gears require special lubricants able to withstand extreme pressure to protect against the high loads between the teeth.
+	~multi-grade engine oil.#Hypoid bevel gears require special lubricants able to withstand extreme pressure to protect against the high loads between the teeth.
+}
+
+
+//name:TQ0920
+::TQ0920::An advantage of a constant-velocity joint is that it:{
+	=can drive through a comparatively large angle.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+	~eliminates the need for a sliding coupling.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+	~increases road wheel speed.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+	~reduces the overall gear ratio.#Constant-velocity universal joints are normally used to transfer power smoothly between the components.
+}
+
+
+//name:TQ0921
+::TQ0921::The universal joints are essential in a driveline because:{
+	=they allow for changes in driveshaft angle.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+	~they regulate fluid pressure in the differential.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+	~the braking forces are more evenly distributed.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+	~they transmit power better than drive belts.#The joints allow for changes in the angular velocity as the angle between the driving and driven shafts changes with suspension movement. 
+}
+
+
+//name:TQ0922
+::TQ0922::Universal and Constant Velocity Joints allow drive to be transmitted:{
+	=through an angular change.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+	~around corners.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+	~to the rear wheels only.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+	~to the front wheels only.#The angular velocity constantly changes as does the angle between the driving and driven shafts during operation.
+}
+
+
+//name:TQ0923
+::TQ0923::The purpose of a power take-off on a four-wheel drive vehicle is to provide:{
+	=power to external accessories.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+	~improved power output.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+	~simpler gear changing.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+	~extra acceleration.#A power take-off (PTO) on a four-wheel drive can be used to supply the power for many auxiliary devices or accessories.
+}
+
+
+//name:TQ0924
+::TQ0924::A fully floating type of rear axle hub is normally supported on the axle housing by:{
+	=a pair of taper roller bearings.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+	~two ball thrust bearings.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+	~a deep grove roller bearing.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+	~a single taper roller bearing.#Fully floating axles are supported by bearings located on the housing and thereby carry most of the weight of the vehicle.
+}
+
+
+//name:TQ0925
+::TQ0925::In a conventional 4-wheel drive a fully floating hub is normally used. Why is this?{
+	=This reduces the load stresses on the axle shaft.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+	~To absorb vertical thrust forces from the wheel housing.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+	~This reduces the torsional stresses on the drive shaft.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+	~This transfers load directly from the wheel to the driveshaft.#The rear hub, which is a fully floating type, is mounted directly onto the outside of the axle housing and is independent of the axle shaft.
+}
+
+
+//name:TQ0926
+::TQ0926::Engaging low range in the transfer case in a part-time 4WD vehicle transmits drive to:{
+	=all four wheels.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+	~the rear wheels only.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+	~the front wheels only.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+	~the power take-off.#For four-wheel drive in low-range the transfer case engagement sleeve engages the larger output pinion. At the same time the four-wheel drive engagement sleeve locks into position.
+}
+
+
+//name:TQ0927
+::TQ0927::In an all-wheel drive vehicle fitted with a transfer case, the drive allows:{
+	=the vehicle to be operated in high range or low range, or in a neutral condition for a power take-off.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+	~the vehicle to be operated in high range or low range on the front wheels only.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+	~the vehicle to be operated in high range or low range on the rear wheels only.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+	~the vehicle to be operated in high range or low range the same as a conventional 4-wheel drive vehicle.#Drive is transferred from the transmission output shaft to an internally splined helical gear on the transfer case input shaft.
+}
+
+
+//name:TQ0928
+::TQ0928::What does the transfer case allow for in a driving condition in a conventional part-time 4-wheel drive vehicle?{
+	=The transfer case allows the vehicle to be operated in high range in 2-wheel drive or 4-wheel drive, in low range in 4-wheel drive only and in a neutral condition for a power take-off.#In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+	~The transfer case allows the vehicle to be operated in high range in 2-wheel drive or 4-wheel drive and in a neutral condition for a power take-off.#In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+	~The transfer case allows the vehicle to be operated in 4-wheel drive low range and 4-wheel drive high range and in a neutral condition for a power take-off.#In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+	~The transfer case allows the vehicle to be operated in low range in 2-wheel drive or 4-wheel drive, and in high range in 4-wheel drive only. #In part-time four-wheel drive vehicles, drive is transmitted through the rear final drive to the rear wheels in all drive ranges. Drive is only transmitted through the front axle final drive when a four-wheel drive range is selected.
+}
+
+
+//name:TQ0929
+::TQ0929::In part-time 4-wheel drive the final gear ratio reduction must be:{
+	=the same in both front and rear axles.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+	~greater in the rear axles for better traction.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+	~greater in the front axles for better steering.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+	~variable depending on driving conditions.#The final gear ratio reduction must be the same in both front and rear axles, so that when four wheel drive is engaged, the driving wheels rotate at the same speed.
+}
+
+
+//name:TQ0930
+::TQ0930::On part-time 4-wheel-drives, the front wheels and axle drive shafts are splined together through:{
+	=differential side gears.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+	~axle shafts.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+	~free wheeling hubs.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+	~front axle gears.#On part-time 4-wheel drive vehicles, free-wheeling hubs can be installed on the front hubs to disconnect the hubs from the axle shafts, and prevent rotation of the front axle components.
+}
+
+
+//name:TQ0931
+::TQ0931::How many differentials are there in a part-time 4-wheel drive drive-train?{
+	=2#There are 2 differentials.  One for each drive axle.
+	~1#There are 2 differentials.  One for each drive axle.
+	~3#There are 2 differentials.  One for each drive axle.
+	~4#There are 2 differentials.  One for each drive axle.
+}
+
+
+//name:TQ0932
+::TQ0932::In an all-wheel drive vehicle, the differences in the rotational speeds of the front and rear propeller shafts is catered for by using:{
+	=a third differential in the transfer case.  #The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+	~a viscous coupling in the transfer case.#The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+	~special high/low gearsets in the transfer case.#The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+	~special rubber transfer belts in the transfer case.#The third differential operation means that if a front wheel spins on a slippery surface, no drive is transmitted to the rear.  To reduce this action of the third differential operation, a viscous coupling unit between the differential case and the rear output shaft acts as a limited slip differential.
+}
+
+
+//name:TQ0933
+::TQ0933::What does the viscous coupling do?{
+	=Torque is transferred through the coupling by the high viscosity of the silicone fluid sealed in the unit.  #The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+	~Torque is transferred through the coupling by locking the gears inside the coupling together.#The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+	~Torque is transferred through the coupling by the low viscosity of the silicone fluid sealed in the unit. #The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+	~Torque is transferred through the coupling by locking the transfer belts inside the coupling together.#The outer plates of the viscous coupling are splined to the differential case and the inner plates are splined to the output shaft.  As the fluid expands when it is heated, the unit is only filled to about 80% of its capacity. 
+}
+
+
+//name:TQ0934
+::TQ0934::In a vehicle with full-time 4-wheel drive, drive is transmitted to:{
+	=all four wheels, all the time.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+	~the front wheels all the time, the rear wheels part time.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+	~the rear wheels all the time, the front wheels part time.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+	~the rear wheels only.#A full-time 4-wheel drive vehicle has drive transmitted to all four wheels, all the time.
+}
+
+
+//name:TQ0935
+::TQ0935::The final drive gears in a full-time 4-wheel-drive vehicle are:{
+	=hypoid bevel crown wheel and pinion type.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+	~hypoid bevel worm and gear type.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+	~double hypoid herringbone type.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+	~straight cut bevel gears.#The final drive gears in a full-time 4-wheel-drive vehicle are hypoid bevel crown wheel and pinion type.
+}
+
+
+//name:TQ0936
+::TQ0936::A full-time 4-wheel-drive transfer case is different from a part-time four-wheel-drive transfer case in that it includes a: {
+	=center differential.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+	~High range.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+	~Power take-off.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+	~Low range.#A full-time 4-wheel-drive transfer case is different from a part-time 4-wheel-drive transfer case in that it includes a center differential. 
+}
+
+
+//name:TQ0937
+::TQ0937::In a full-time 4-wheel-drive transfer case, engaging low range also:{
+	=locks out all center differential action.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+	~engages the power take-off.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+	~engages the free-wheeling hubs.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+	~lowers the vehicle ride height.#In a full-time 4-wheel-drive transfer case, engaging low range also locks out all center differential action.
+}
+
+
+//name:TQ0938
+::TQ0938::A worn constant velocity joint is evident by a clicking noise when the vehicle is driven:{
+	=with the wheels at full lock and the vehicle moving.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+	~with the wheels in the straight ahead position only.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+	~in reverse.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+	~slowly.#Constant velocity joint wear may be determined by placing the vehicle in a sharp turn steering condition and driving a vehicle while listening for audible clicking.
+}
+
+
+//name:TQ0939
+::TQ0939::A small amount of wear in a drive shaft joint:{
+	=will cause imbalance and possibly vibration.#A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+	~is allowable.#A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+	~should be noted and rechecked in 6 months time.#A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+	~is an indication of a faulty transmission. #A small amount of wear will cause an imbalance which will lead to a vibration, creating more wear.
+}
+
+
+//name:TQ0940
+::TQ0940::When taking free-play measurements:{
+	=make sure the dial indicator is firmly attached to a solid component.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+	~estimate the amount of wear visually.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+	~measure the amount of wear with a vernier calliper.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+	~measure the amount of wear with a micrometer.#When taking free-play measurements make sure the dial indicator is firmly attached to a solid component to ensure an accurate reading is obtained.
+}
+
+
+//name:TQ0941
+::TQ0941::To measure free-play, hold the road wheel by putting one hand on it, and then:{
+	=put your other hand around the drive shaft, so you can twist it back and forth.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+	~turn it backward and forward.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+	~put your other hand on the other wheel, so you can turn it back and forth.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+	~put your other hand around the drive shaft, and pull it in and out of the final drive housing.#The appropriate way is normally to put your other hand around the drive shaft, so you can twist it back and forth.
+}
+
+
+//name:TQ0942
+::TQ0942::The manual transaxle fluid level is correct when the fluid:{
+	=is at the same level as the bottom of the filler plug.#The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~flows freely when the filler plug is removed.#The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~does not flow from the opening when the filler plug is removed. #The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~level is 1 inch/ 25 mm below the filler opening.#The manual transaxle fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+}
+
+
+//name:TQ0943
+::TQ0943::The final drive fluid level is correct when the fluid:{
+	=is at the same level as the bottom of the filler plug.#The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~flows freely when the filler plug is removed.#The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~does not flow from the opening when the filler plug is removed. #The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+	~level is 1 inch/ 25 mm below the filler opening.#The final drive fluid level is correct when the fluid is at the same level as the bottom of the filler plug.
+}
+
+

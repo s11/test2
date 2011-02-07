@@ -1,0 +1,10 @@
+.box.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  .ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all.ui-state-default
+    %h4{:style => "margin: 5px 10px"}
+      %span.ui-icon.ui-icon-lightbulb.fright &nbsp;
+      Did you know...?
+
+  .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    %p= @random_category_item.item.summary
+    .right
+      %strong= link_to "More...", [@random_category_item.category, @random_category_item.item]

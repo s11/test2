@@ -1,0 +1,55 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/content/trunk/diagnostics/51/scenarios
+svn://curfew.jbpub.com/online
+
+
+
+2009-09-12T05:45:10.211012Z
+3373
+roberto
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+automatic_transmission
+dir
+
+hvac
+dir
+
+engine_performance
+dir
+
+manual_transmission
+dir
+
+suspension_steering
+dir
+
+brakes
+dir
+
+engine_repair
+dir
+
+practice
+dir
+
+electrical_electronic
+dir
+

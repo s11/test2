@@ -1,0 +1,160 @@
+// question: 23499  name: HAQ0010 
+::HAQ0010::[html]Lockout/tagout is specific set safety related practices and procedures which reduce the risk of harm from the unexpected ................. of machinery or energisation of electrical systems during maintenance activities.{
+	=%100%activation#
+}
+
+
+// question: 23501  name: HAQ0012 
+::HAQ0012::[html]Lock or tag the systems to prevent them from being reactivated by other workers who are ................. of the maintenance.{
+	=%100%unaware#
+}
+
+
+// question: 23504  name: HAQ0013 
+::HAQ0013::[html]Wipe off any oil or grease on the floor jack and check for ................. leaks. If you find any, top up the hydraulic fluid.{
+	=%100%fluid#
+}
+
+
+// question: 23505  name: HAQ0014 
+::HAQ0014::[html]Apply a few drops of oil into the inlet of your air tools every day. Although these tools have no ................., they do need regular lubrication of the internal parts to prevent wear.{
+	=%100%motor#
+}
+
+
+// question: 23506  name: HAQ0015 
+::HAQ0015::[html]Make sure you tag the tool as faulty or broken and do not use it until you buy a ................. Then discard the tool.{
+	=%100%replacement#
+}
+
+
+// question: 23507  name: HAQ0016 
+::HAQ0016::[html]................. tags are also used on disabled vehicles or vehicles undergoing a repair.{
+	=%100%Isolation#
+}
+
+
+// question: 23508  name: HAQ0017 
+::HAQ0017::[html]To fill out a disabled vehicle warning notice, write the registration number of the vehicle. Then the nature of the defect. Write your name. Then the ................. and time you completed the notice.{
+	=%100%date#
+}
+
+
+// question: 23509  name: HAQ0018 
+::HAQ0018::[html]Store the keys: ................. the keys, if necessary, and lock the vehicle. Attach a tag to the keys that identifies the vehicle they belong to.Store the keys in a key cupboard and notify your supervisor.{
+	=%100%remove#
+}
+
+
+// question: 23510  name: HAQ0019 
+::HAQ0019::[html]Compressed air is quite capable of ................. ordinary work clothes as well as your skin, so always handle air equipment carefully and with respect.{
+	=%100%penetrating#
+}
+
+
+// question: 23511  name: HAQ0020 
+::HAQ0020::[html]Compressed air equipment is sometimes used to supply breathing air to .................{
+	=%100%respirators#
+}
+
+
+// question: 23512  name: HAQ0021 
+::HAQ0021::[html]If air, or paint, or any other substance, is injected into someone's body, it is not always easy to tell how much damage has been done, so always seek ................. advice if any kind of penetration injury occurs.{
+	=%100%medical#
+}
+
+
+// question: 23513  name: HAQ0022 
+::HAQ0022::[html]A rolling road should always be ................. before making adjustments to the vehicle.{
+	=%100%stationary#
+}
+
+
+// question: 23514  name: HAQ0023 
+::HAQ0023::[html]Access to the area where brake testing is carried out should be ................. during testing.{
+	=%100%restricted#
+}
+
+
+// question: 23515  name: HAQ0024 
+::HAQ0024::[html]'................. man's controls' should be fitted to rolling roads and functional during testing.{
+	=%100%dead#
+}
+
+
+// question: 23516  name: HAQ0025 
+::HAQ0025::[html]Always remove your hand or wrist jewelry before working with batteries. If it comes into contact with the battery terminals it can cause a .................{
+	=%100%short circuit#
+}
+
+
+// question: 23518  name: HAQ0027 
+::HAQ0027::[html]Do not try to charge a battery ................. than the battery manufacturer recommends, and you should never use a battery discharge tester immediately after charging a battery.{
+	=%100%faster#
+}
+
+
+// question: 23519  name: HAQ0028 
+::HAQ0028::[html]Charging and rapidly discharging a battery both generate heat, and if you do not wait for a battery to cool down after charging it before discharge testing it you will increase the risk of ................. the plates inside the battery, as well as increase the risk of explosion.{
+	=%100%distorting#
+}
+
+
+// question: 23520  name: HAQ0029 
+::HAQ0029::[html]Fuel, paints, and solvents can all give off ................. vapors that are heavier than air.{
+	=%100%flammable#
+}
+
+
+// question: 23521  name: HAQ0030 
+::HAQ0030::[html]Unless bulkier and more expensive explosion-protected power tools are available in your workshop, the only safe power tools to use in an inspection pit are the ................. type which will not cause sparks that could ignite flammable gases.{
+	=%100%air-powered#
+	=%100%air powered#
+}
+
+
+// question: 23522  name: HAQ0031 
+::HAQ0031::[html]Even low voltage hand lamps can still set off an explosion, so, where possible use an explosion-protected lamp that will not break even if it is ................. two meters.{
+	=%100%dropped#
+}
+
+
+// question: 23523  name: HAQ0032 
+::HAQ0032::[html]If you have to leave a pit unguarded, do so for the shortest possible time, leave the ................. on so that it is more likely to be noticed, and restrict general access to that work area.{
+	=%100%pit lights#
+	=%100%pit light#
+	=%100%pit-lights#
+	=%100%pit-light#
+}
+
+
+// question: 23524  name: HAQ0033 
+::HAQ0033::[html]Always fully ................. the tire before performing any repair tasks, by removing the valve core.{
+	=%100%deflate#
+}
+
+
+// question: 23525  name: HAQ0034 
+::HAQ0034::[html]When the tire is being ................., use an inflator that allows you to stand clear of the tire.{
+	=%100%inflated#
+}
+
+
+// question: 23526  name: HAQ0035 
+::HAQ0035::[html]Do not come into contact with the ................. wheel during balancing. This can result in friction burns or more serious injuries.{
+	=%100%rotating#
+}
+
+
+// question: 23502  name: HAQ0066 
+::HAQ0066::[html]Some cleaning agents are toxic. Refer to the ................. on any cleaning agent and follow any recommendations before using it.{
+	=%100%MSDS#
+}
+
+
+// question: 23503  name: HAQ0067 
+::HAQ0067::[html]When cleaning products lose their effectiveness they will need to be .................{
+	=%100%replaced#
+}
+
+

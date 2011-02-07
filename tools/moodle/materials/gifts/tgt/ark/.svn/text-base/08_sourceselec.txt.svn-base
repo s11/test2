@@ -1,0 +1,79 @@
+//name:TQ0957
+::TQ0957::Electrochemical energy in a vehicle is produced by the:{
+	=battery.#The battery in a vehicle is a source of Electromotive Force (EMF).
+	~thermocouple.#The battery in a vehicle is a source of Electromotive Force (EMF).
+	~coil pack.#The battery in a vehicle is a source of Electromotive Force (EMF).
+	~alternator.#The battery in a vehicle is a source of Electromotive Force (EMF).
+}
+
+
+//name:TQ0958
+::TQ0958::What is the popular name for an electrochemical cell?{
+	=A battery.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+	~A galvanometer.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+	~A fuel cell.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+	~A catalytic cell.#In automotive use, the main electrical storage device is a lead acid battery. It has two plates of dissimilar materials immersed in an electrolyte.
+}
+
+
+//name:TQ0959
+::TQ0959::Static electricity can be induced by rubbing together two:{
+	=insulators.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+	~conductors.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+	~resistors.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+	~semiconductors.#An example would be rubbing together a plastic rod and a woolen cloth. The static charge can be evidence by the discharge spark or by small pieces of paper being attracted to the plastic rod.
+}
+
+
+//name:TQ0960
+::TQ0960::Photo-voltaic cells generate electricity from:{
+	=light.#A solar cell is an example of a photo-voltaic cell.
+	~magnetism.#A solar cell is an example of a photo-voltaic cell.
+	~heat.#A solar cell is an example of a photo-voltaic cell.
+	~pressure.#A solar cell is an example of a photo-voltaic cell.
+}
+
+
+//name:TQ0961
+::TQ0961::A piezo-electric device generates electricity when:{
+	=pressure is applied.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+	~it's heated.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+	~light strikes it.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+	~it's in a magnetic field.#An example of a piezo-electric device is a knock sensor in a vehicle engine.
+}
+
+
+//name:TQ0962
+::TQ0962::Technician A says that in an electromagnetic device electricity is produced by heat. Technician B says that in a piezo-electric device electricity is produced by pressure. Who is correct?{
+	~Technician A.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+	=Technician B.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+	~Both Technician A & Technician B.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+	~Neither Technician A or Technician B.#Technician B is correct because piezo-electricity is the ability of certain crystals to generate a voltage in response to applied mechanical stress. Electromagnetic devices do not use heat to produce electricity.
+}
+
+
+//name:TQ0963
+::TQ0963::A thermocouple produces electrical energy when it is:{
+	=heated.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+	~cooled.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+	~rubbed.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+	~magnetized.#The electrical energy produced by the thermocouple is proportional to the amount of heat applied.
+}
+
+
+//name:TQ0964
+::TQ0964::Technician A says moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Technician B says that alternators produce alternating current.  Who is correct?{
+	~Technician A.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+	~Technician B.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+	=Both Technician A & Technician B.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+	~Neither Technician A or Technician B.#Moving a wire inside a magnetic field produces a current flow. Similarly, moving a magnet inside a stationary coil of wire, produces the same effect.  Alternators produce alternating current, it is rectified into direct current.
+}
+
+
+//name:TQ0965
+::TQ0965::Which of the following statements is correct?{
+	=A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+	~A relay uses a magnetic field created by a small current to control a larger current whereas a solenoid uses a magnetic field created by a small voltage to control a large voltage.#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+	~A relay uses the magnetic field created by a large current to control a small current and a solenoid uses electromagnetic induction to create lateral movement#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+	~A solenoid uses electromagnetic induction to operate a switch whereas a relay uses electromagnetic induction to create lateral movement.#A relay uses electromagnetic induction to operate a switch whereas a solenoid uses electromagnetic induction to create lateral movement.
+}

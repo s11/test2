@@ -1,0 +1,14 @@
+.box.ui-tabs.ui-widget.ui-widget-content.ui-corner-all
+  .ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all.ui-state-default
+    %h4{:style => "margin: 5px 10px"}
+      %span.ui-icon.ui-icon-document.fright &nbsp;
+      Recently Viewed
+
+  .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+    - if @recent_content_items.size > 0
+      %ul
+        - @recent_content_items.each do |category_item|
+          %li= link_to category_item.item.name, [category_item.category, category_item.item]
+
+    - else
+      You have not yet viewed any content

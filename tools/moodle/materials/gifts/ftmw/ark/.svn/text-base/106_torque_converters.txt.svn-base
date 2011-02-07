@@ -1,0 +1,151 @@
+// question: 30243  name: HAQ2194 
+::HAQ2194::[html]The purpose of a light vehicle transmission is to transmit engine ................. to the driving wheels.{
+	=%100%torque#
+}
+
+
+// question: 30244  name: HAQ2195 
+::HAQ2195::[html]The torque converter is a fluid coupling, with the fluid acting as the ................. medium, since none of the converter components are physically connected to the others.{
+	=%100%driving#
+}
+
+
+// question: 30245  name: HAQ2196 
+::HAQ2196::[html]In its simplest form, a single-stage torque converter has three elements: The Impeller, the Turbine and .................{
+	=%100%stator#
+}
+
+
+// question: 30246  name: HAQ2197 
+::HAQ2197::[html]Both the impeller and the turbine are fitted with a torus or ................. ring.{
+	=%100%guide#
+}
+
+
+// question: 30247  name: HAQ2198 
+::HAQ2198::[html]The stator has a small set of curved blades attached to a central ................. and is positioned between the impeller and the turbine.{
+	=%100%hub#
+}
+
+
+// question: 30248  name: HAQ2199 
+::HAQ2199::[html]When the engine starts, and idles, the transmission ................. rapidly fills and pressurizes the converter.{
+	=%100%pump#
+}
+
+
+// question: 30249  name: HAQ2200 
+::HAQ2200::[html]Fluid exits the impeller at high velocity and enters the ................. at its outer edge.{
+	=%100%turbine#
+}
+
+
+// question: 30250  name: HAQ2201 
+::HAQ2201::[html]The fluid strikes the forward face of the stator blades with a backward force, which locks the ................. on the one-way clutch.{
+	=%100%stator#
+}
+
+
+// question: 30251  name: HAQ2202 
+::HAQ2202::[html]Torque multiplication exists only when there is a difference in speed between the impeller and the .................{
+	=%100%turbine#
+}
+
+
+// question: 30252  name: HAQ2203 
+::HAQ2203::[html]At an engine speed of 2100 RPM, and torque at that speed of 100 Newton metres, the torque input to the transmission will be 2.2 times that value - 220 Newton metres. This multiplication tapers off as the turbine commences to turn and ................. in speed.{
+	=%100%increases#
+}
+
+
+// question: 30253  name: HAQ2204 
+::HAQ2204::[html]When turbine speed reaches around 90% of impeller speed, torque multiplication falls to zero. Torque transfer from impeller to turbine is then about 1 to 1. This is known as the ................. point.{
+	=%100%coupling#
+}
+
+
+// question: 30254  name: HAQ2205 
+::HAQ2205::[html]The revolving impeller carries the fluid with it, inside the converter casing. The fluid is rotating around the axis of the converter. This is known as the ................. flow.{
+	=%100%rotary#
+}
+
+
+// question: 30255  name: HAQ2206 
+::HAQ2206::[html]During torque multiplication, the shape of the converter case makes the fluid flow in a circular motion, through the impeller, turbine and stator. This is known as the ................. flow.{
+	=%100%vortex#
+}
+
+
+// question: 30256  name: HAQ2207 
+::HAQ2207::[html]In a stalled converter, fluid flows at high velocity from the revolving impeller through the stationary turbine and .................{
+	=%100%stator#
+}
+
+
+// question: 30257  name: HAQ2208 
+::HAQ2208::[html]At stall, a lot of engine output is converted into ................. and this brings the oil operating temperature closer to its boiling point.{
+	=%100%heat#
+}
+
+
+// question: 30258  name: HAQ2209 
+::HAQ2209::[html]Some converters use external fins on the case to circulate air through the housing, onto the .................{
+	=%100%converter#
+}
+
+
+// question: 30259  name: HAQ2210 
+::HAQ2210::[html]Most automatic transmission vehicles use a heat exchanger in the ................. tank of the radiator.{
+	=%100%lower#
+}
+
+
+// question: 30260  name: HAQ2211 
+::HAQ2211::[html]In a lock-up converter, the impeller and turbine are locked together when conditions are suitable, to provide a 1 to 1 drive from the engine to the ................. input shaft.{
+	=%100%transmission#
+}
+
+
+// question: 30261  name: HAQ2212 
+::HAQ2212::[html]Torsional damper springs are built into the turbine/ piston assembly. When the ................. is engaged, these springs dampen drive-line, and torsional vibrations.{
+	=%100%clutch#
+}
+
+
+// question: 30262  name: HAQ2213 
+::HAQ2213::[html]When the clutch facing on the piston comes in contact with the internal machined surface on the wall of the ................. housing, lock-up occurs.{
+	=%100%converter#
+}
+
+
+// question: 30263  name: HAQ2214 
+::HAQ2214::[html]In the sprag-type one-way clutch, the inner race has a central spline. The outer race is part of the stator .................{
+	=%100%hub#
+}
+
+
+// question: 30264  name: HAQ2215 
+::HAQ2215::[html]Equally-spaced sprags between the two races produce a ................. action to stop the stator rotating in reverse.{
+	=%100%wedging#
+}
+
+
+// question: 30265  name: HAQ2216 
+::HAQ2216::[html]In the roller type one-way clutch, the outer race has wedge-shaped segments which retain the rollers. In each segment, a waved compression ................. pushes each roller towards the narrow end of the wedge.{
+	=%100%spring#
+}
+
+
+// question: 30266  name: HAQ2217 
+::HAQ2217::[html]The measurement of ................. is also important in automotive engineering, being concerned with the transmission of power from the engine through the drive train to the wheels of a vehicle.{
+	=%100%torque#
+}
+
+
+// question: 30267  name: HAQ2218 
+::HAQ2218::[html]Torque (and power output) can be measured with a .................{
+	=%100%dynamometer#
+}
+
+
+

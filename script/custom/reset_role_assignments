@@ -1,0 +1,67 @@
+# 
+# reset_role_assignments
+# online
+# 
+# Created by John Meredith on 2008-10-23.
+# Copyright 2008 CDX Global. All rights reserved.
+# 
+# A script to reset enrolment of all users in a clients instance. Takes a list
+# of client prefixes as it's options.
+# 
+# Run the script from the RAILS_ROOT with: 
+# 
+#   ./script/runner script/runner/custom/reset_role_assignments4 <FLAs>
+# 
+require 'optparse'
+
+opts   = OptionParser.new
+result = opts.parse(ARGV)
+
+# Exit if no client prefixes are specified
+if result.size == 0
+  print "Error: You must include at least one client prefix\n"
+  exit
+end
+
+if result.include?("all")
+  result = Client.all(:conditions => "client_prefix NOT IN ('dev1', 'cdx2', 'olda', 'dev9', 'atp0', 'auto', 'dre2')", :order => "client_prefix ASC").map(&:client_prefix)
+end
+
+# Update the enrolments for the each client_prefix
+result.each do |client_prefix|
+  begin
+    # Load the client record and switch to it's Moodle database
+    client = Client.find(client_prefix)
+    Moodle::Base.setup_tables_by_database(client.client_database_name)
+
+    print "===================================================================\n"
+    print "Client: #{client.client_name} [#{client_prefix}]\n"
+    print "-------------------------------------------------------------------\n"
+
+    # Truncate the cdx_role_assignments table (which resets the auto-increment
+    # count)
+    Moodle::RoleAssignment.connection.execute("TRUNCATE #{Moodle::RoleAssignment.table_name}")
+    
+    # ...and copy the default perms from the moodle_master2 database. This
+    # includes the supervisor.
+    Moodle::RoleAssignment.connection.execute("INSERT INTO #{Moodle::RoleAssignment.table_name} SELECT * FROM `moodle_master2`.`cdx_role_assignments`")
+
+    # Update all instructors enrolments
+    client.instructors.each do |user|
+      user.save if user.moodle_user.blank?
+      user.moodle_user.enrol_into_all_courses unless user.moodle_user.blank?
+    end
+    print "Instructors: #{client.instructors.map(&:username) * ', '}\n"
+
+    # Update all student enrolments
+    client.students.each do |user|
+      user.save if user.moodle_user.blank?
+      user.moodle_user.enrol_into_all_courses unless user.moodle_user.blank?
+    end
+    print "Students: #{client.students.map(&:username) * ', '}\n\n\n"
+  rescue ActiveRecord::RecordNotFound => e
+    print "Error: Could not find a client record with the client_prefix of `#{client_prefix}`\n"
+  rescue Exception => e
+    print "Error: #{e.message}\n"
+  end
+end

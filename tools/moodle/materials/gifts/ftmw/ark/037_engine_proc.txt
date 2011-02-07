@@ -1,0 +1,164 @@
+// question: 25745  name: HAQ0793 
+::HAQ0793::[html]Before performing a compression test, disable the ................. to prevent electrical shock.{
+	=%100%ignition system#
+}
+
+
+// question: 25746  name: HAQ0794 
+::HAQ0794::[html]Make sure the compression tester will safely handle the compression of the engine you are testing. Diesel (CI) engines operate at much ................. compression pressures than Gasoline (SI) engines.{
+	=%100%higher#
+}
+
+
+// question: 25747  name: HAQ0795 
+::HAQ0795::[html]Select the proper adapter for the engine you are testing. Make sure it matches the '.................' of the spark plugs.{
+	=%100%reach#
+}
+
+
+// question: 25748  name: HAQ0796 
+::HAQ0796::[html]Locate the specified testing procedure for the vehicle you are working on, and check the engine is at ................. operating temperature.{
+	=%100%normal#
+}
+
+
+// question: 25749  name: HAQ0797 
+::HAQ0797::[html]Attach the compression tester to the first cylinder and have an assistant crank the engine at ................. throttle. Note your findings.{
+	=%100%full#
+}
+
+
+// question: 25750  name: HAQ0798 
+::HAQ0798::[html]Checking the idle speed can only be done with a ................., which measures the engine revolutions per minute (rpm).{
+	=%100%tachometer#
+}
+
+
+// question: 25751  name: HAQ0799 
+::HAQ0799::[html]'Kicking' gives you an accurate reading of the normal ................. speed.{
+	=%100%idle#
+}
+
+
+// question: 25752  name: HAQ0800 
+::HAQ0800::[html]Switch on the ignition and start the engine from ................. Without revving the engine, note the rpm reading from the tachometer once it has stabilized and is running smoothly.{
+	=%100%cold#
+}
+
+
+// question: 25753  name: HAQ0801 
+::HAQ0801::[html]The standard procedure for diagnosing an OBD II vehicle is different as it requires that the codes should NOT be cleared until the vehicle is .................{
+	=%100%repaired#
+}
+
+
+// question: 25754  name: HAQ0802 
+::HAQ0802::[html]Locate the scan tool access point and connect the scan tool using the appropriate ................. for the vehicle.{
+	=%100%connector#
+}
+
+
+// question: 25755  name: HAQ0803 
+::HAQ0803::[html]Any fault indicated by the diagnostic trouble codes will need to be corrected ................. you clear the codes.{
+	=%100%before#
+}
+
+
+// question: 25756  name: HAQ0804 
+::HAQ0804::[html]Turn on the vehicle ignition. Run the scan tool diagnostic program and navigate through each system again to check the codes do not .................{
+	=%100%reactivate#
+}
+
+
+// question: 25757  name: HAQ0805 
+::HAQ0805::[html]Never perform any service tasks on the engine while it is .................{
+	=%100%running#
+}
+
+
+// question: 25758  name: HAQ0806 
+::HAQ0806::[html]Cam belts are primarily used on ................. camshaft engines .{
+	=%100%overhead#
+}
+
+
+// question: 25759  name: HAQ0807 
+::HAQ0807::[html]When removing the drive belts, turn the engine by hand to ................. dead center for number 1 cylinder firing.{
+	=%100%top#
+}
+
+
+// question: 25760  name: HAQ0808 
+::HAQ0808::[html]Place the belt over the pulleys and position it correctly. Make sure that the crankshaft is still at top dead center and the ................. aligning marks are correctly aligned.{
+	=%100%camshaft#
+}
+
+
+// question: 25761  name: HAQ0809 
+::HAQ0809::[html]Turn the engine by hand in the direction of normal rotation for at least ................. complete turns to allow the tensioner to find its correct tension.{
+	=%100%two#
+	=%100%2#
+}
+
+
+// question: 25762  name: HAQ0810 
+::HAQ0810::[html]Never try to inspect belts with the engine .................{
+	=%100%running#
+}
+
+
+// question: 25763  name: HAQ0811 
+::HAQ0811::[html]A V-type belt has a profile that looks like the photo below, and sits inside a deep v-shaped groove in the ................. wheel.{
+	=%100%pulley#
+}
+
+
+// question: 25764  name: HAQ0812 
+::HAQ0812::[html]When a V-type belt becomes very worn, the bottom of the V-shape may contact the ................. of the groove in the pulley, preventing the sides of the belt from    making good contact with the sides of the pulley groove.{
+	=%100%bottom#
+}
+
+
+// question: 25765  name: HAQ0813 
+::HAQ0813::[html]Check the belt ................. by attaching the tension gauge to the longest belt span, and pulling it to measure the tension.{
+	=%100%tension#
+}
+
+
+// question: 25766  name: HAQ0814 
+::HAQ0814::[html]Select the correct wrench to loosen the tension adjustment fastener. This is usually on the ................. mounting or on a separate idler pulley wheel.{
+	=%100%alternator#
+}
+
+
+// question: 25767  name: HAQ0815 
+::HAQ0815::[html]Serpentine-type belts have a flat profile with a number of grooves running lengthwise along the belt. These grooves are the exact reverse of the grooves in the outer edge of the ................. wheels.{
+	=%100%pulley#
+}
+
+
+// question: 25768  name: HAQ0816 
+::HAQ0816::[html]Many vehicles require the technician to manually adjust the tension on the belt. Other vehicles have an automatic ................. tensioning system.{
+	=%100%spring#
+}
+
+
+// question: 25769  name: HAQ0817 
+::HAQ0817::[html]Locate the ................. fastener and loosen it. This is usually on the alternator mounting or on a separate pulley wheel.{
+	=%100%adjustment#
+}
+
+
+// question: 25770  name: HAQ0818 
+::HAQ0818::[html]Tension the belt using a wrench and a pry bar, then check it with a ................. With automatic tension systems, gently allow this to apply the tension to the belt.{
+	=%100%tension gauge#
+}
+
+
+// question: 25771  name: HAQ0819 
+::HAQ0819::[html]Start the engine, and observe the belt to make sure that it is properly seated and operating correctly. Stop the engine again, and recheck the .................{
+	=%100%tension#
+}
+
+
+

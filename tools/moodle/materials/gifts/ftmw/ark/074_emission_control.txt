@@ -1,0 +1,225 @@
+// question: 28677  name: HAQ1546 
+::HAQ1546::[html]Early vehicles vented the fuel tank through the ................. cap into the atmosphere.{
+	=%100%filler#
+}
+
+
+// question: 28678  name: HAQ1547 
+::HAQ1547::[html]A vacuum relief valve can relieve low pressure in the tank when the temperature drops. This will also stop the tank from ................. if its internal pressure falls below atmospheric pressure.{
+	=%100%collapsing#
+}
+
+
+// question: 28679  name: HAQ1548 
+::HAQ1548::[html]If the tank's internal pressure exceeds the set value of the relief valve, it can stop the tank from .................{
+	=%100%rupturing#
+}
+
+
+// question: 28680  name: HAQ1549 
+::HAQ1549::[html]A liquid vapor-................. may be connected to the tank by a number of tubes.{
+	=%100%separator#
+}
+
+
+// question: 28681  name: HAQ1550 
+::HAQ1550::[html]A storage device is used to store the fuel vapors. The fuel tank breathes through this storage device. Some vehicles use the engine .................{
+	=%100%crankcase#
+}
+
+
+// question: 28682  name: HAQ1551 
+::HAQ1551::[html]Older catalytic converters converted hydrocarbons and carbon monoxide into water and carbon dioxide, but were not able to convert the oxides of .................{
+	=%100%nitrogen#
+}
+
+
+// question: 28683  name: HAQ1552 
+::HAQ1552::[html]The converter uses two different types of catalysts to reduce the pollutants: a ................. catalyst and an oxidation catalyst.{
+	=%100%reduction#
+}
+
+
+// question: 28684  name: HAQ1553 
+::HAQ1553::[html]The term 'three-way' is in relation to the three ................. emissions the converter is designed to reduce: carbon monoxide, hydrocarbons or volatile organic compounds, known as VOCs, produced from evaporated unburned fuel, and nitrogen oxides.{
+	=%100%regulated#
+}
+
+
+// question: 28685  name: HAQ1554 
+::HAQ1554::[html]The exhaust gases first pass over the reduction catalyst in the converter. The platinum and ................. coating helps to reduce the oxides of nitrogen, together known as 'NOX' emissions.{
+	=%100%rhodium#
+}
+
+
+// question: 28686  name: HAQ1555 
+::HAQ1555::[html]The exhaust gases flow over the oxidation catalyst in the converter. This has the effect of reducing any  unburned hydrocarbons and carbon monoxide by oxidizing them over the platinum and ................. coating.{
+	=%100%palladium#
+}
+
+
+// question: 28687  name: HAQ1556 
+::HAQ1556::[html]A closed loop is usually part of what is called a ................. system.{
+	=%100%feedback#
+}
+
+
+// question: 28688  name: HAQ1557 
+::HAQ1557::[html]A vehicle can have a ................. control unit to help it maintain a set speed. When it falls below it, a computer sends a signal that moves the throttle linkage and increases the fuel reaching the engine, and speed.{
+	=%100%cruise#
+}
+
+
+// question: 28689  name: HAQ1558 
+::HAQ1558::[html]A closed loop system in an engine exhaust system can monitor the amount of ................. in exhaust gases, to maintain a constant air-fuel ratio.{
+	=%100%oxygen#
+}
+
+
+// question: 28690  name: HAQ1559 
+::HAQ1559::[html]A primary air contaminant, such as carbon ................. gas, or particles of unburned fuel, is added to the atmosphere as a by-product of burning gasoline in an internal combustion engine.{
+	=%100%monoxide#
+}
+
+
+// question: 28691  name: HAQ1560 
+::HAQ1560::[html]Secondary emissions are emitted as gases and can combine with other ................. substances to form particles once in the atmosphere.{
+	=%100%airborne#
+}
+
+
+// question: 28692  name: HAQ1561 
+::HAQ1561::[html]The primary pollutant gases from vehicles include: carbon monoxide, ................. oxides, hydrocarbons, and sulfur dioxide.{
+	=%100%nitrogen#
+}
+
+
+// question: 28693  name: HAQ1562 
+::HAQ1562::[html]Particulates, often referred to as Particulate Matter, or PM, are tiny particles of solid or liquid ................. in the air.{
+	=%100%suspended#
+}
+
+
+// question: 28694  name: HAQ1563 
+::HAQ1563::[html]Due to the global effects of pollution, many countries have either introduced emission control standards and/or are signatories to international protocols to limit and control global pollution through .................{
+	=%100%emissions#
+}
+
+
+// question: 28695  name: HAQ1564 
+::HAQ1564::[html]While the engine is running, some gases from combustion leak between the piston rings and the cylinder walls, down into the crankcase. This leakage is called .................{
+	=%100%blow-by#
+	=%100%blow by#
+}
+
+
+// question: 28696  name: HAQ1565 
+::HAQ1565::[html]To prevent pressure build-up, the crankcase must be .................{
+	=%100%ventilated#
+}
+
+
+// question: 28697  name: HAQ1566 
+::HAQ1566::[html]The crankcase ventilation system is designed to remove more air than just blow-by, so there's a fresh air intake, usually at the air ................., to direct filtered air to the crankcase.{
+	=%100%cleaner#
+}
+
+
+// question: 28698  name: HAQ1567 
+::HAQ1567::[html]Fresh air intake is usually as far as possible from the ................. valve.{
+	=%100%PCV#
+}
+
+
+// question: 28699  name: HAQ1568 
+::HAQ1568::[html]Gases that can't be handled through the vacuum system, are  directed back through the inlet connection to the air cleaner, where they join the carburetter intake air, and are drawn into the cylinders for .................{
+	=%100%burning#
+}
+
+
+// question: 28700  name: HAQ1569 
+::HAQ1569::[html]If valve overlap is maintained, or even increased, oxides of  nitrogen can be reduced by an exhaust gas ................., or EGR, valve, connected between the exhaust port, or manifold, and the intake system.{
+	=%100%recirculation#
+}
+
+
+// question: 28701  name: HAQ1570 
+::HAQ1570::[html]Oxides of nitrogen can also be reduced by ................. ignition timing.{
+	=%100%retarding#
+}
+
+
+// question: 28702  name: HAQ1571 
+::HAQ1571::[html]Retarding the ignition timing lowers the maximum ................. reached during combustion.{
+	=%100%temperature#
+}
+
+
+// question: 28703  name: HAQ1572 
+::HAQ1572::[html]The maximum ignition-advance setting is then said to be 'emission-limited'. However, it also lowers engine output, and increases fuel .................{
+	=%100%consumption#
+}
+
+
+// question: 28704  name: HAQ1573 
+::HAQ1573::[html]The pulse air method uses the pulsations of the exhaust gas to open and close a ................. valve.{
+	=%100%reed#
+}
+
+
+// question: 28705  name: HAQ1574 
+::HAQ1574::[html]The pulse air method suits engines with 4 cylinders, or less, because their exhaust pulsations are .................{
+	=%100%further apart#
+}
+
+
+// question: 28706  name: HAQ1575 
+::HAQ1575::[html]Larger capacity engines may use an air pump to supply a larger volume of air. The pump is normally driven by a V-belt, from the engine ................., and forces air into the exhaust ports.{
+	=%100%crankshaft#
+}
+
+
+// question: 28707  name: HAQ1576 
+::HAQ1576::[html]Most systems use a sensor in the exhaust manifold to gauge the amount of ................. in the exhaust gases leaving the engine.{
+	=%100%oxygen#
+}
+
+
+// question: 28708  name: HAQ1577 
+::HAQ1577::[html]By mass, 14.7 parts of air to 1 of fuel, is known as the ................. ratio.{
+	=%100%stoichiometric#
+	=%100%Stoichiometric#
+}
+
+
+// question: 28709  name: HAQ1578 
+::HAQ1578::[html]Another kind of storage device is a canister of activated  charcoal. 'Activated' means the charcoal is ................., with a large surface area.{
+	=%100%porous#
+}
+
+
+// question: 28710  name: HAQ1579 
+::HAQ1579::[html]The charcoal canister has connections for the fuel tank vent line and the purge line, which carries the vapors to the intake .................{
+	=%100%manifold#
+}
+
+
+// question: 28711  name: HAQ1580 
+::HAQ1580::[html]The purge valve is designed to operate only at speeds well above .................{
+	=%100%idle#
+}
+
+
+// question: 28712  name: HAQ1581 
+::HAQ1581::[html]The rates of evaporation are higher with gasoline than diesel, because gasoline is more .................{
+	=%100%volatile#
+}
+
+
+// question: 28713  name: HAQ1582 
+::HAQ1582::[html]The evaporation of automotive fuel is a major source of ................. emissions.{
+	=%100%hydrocarbon#
+}
+
+
+

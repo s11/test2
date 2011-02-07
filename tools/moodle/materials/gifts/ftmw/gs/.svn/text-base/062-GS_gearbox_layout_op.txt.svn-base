@@ -1,0 +1,47 @@
+// question: 29189  name: HAQ2168 
+::HAQ2168::[html]In a manual transmission for a rear-wheel drive vehicle, the gear train is built up on .............................. shafts.{
+	=%100%three#
+	=%100%3#
+}
+
+
+// question: 29190  name: HAQ2169 
+::HAQ2169::[html]The input shaft extends from the front of the .............................. an external parallel-splined section engages with internal splines on the clutch-driven plate.{
+	=%100%transmission#
+}
+
+
+// question: 29191  name: HAQ2170 
+::HAQ2170::[html]Each mainshaft gear has an external toothed section on one side. The teeth face an internally-toothed engagement sleeve located on a central .............................., which is itself splined to the mainshaft.{
+	=%100%hub#
+}
+
+
+// question: 29192  name: HAQ2171 
+::HAQ2171::[html]In trans-axle designs, the drive is transferred through the clutch unit to a .............................. shaft.{
+	=%100%primary#
+}
+
+
+// question: 29193  name: HAQ2172 
+::HAQ2172::[html]An engagement sleeve and hub, with a synchromesh unit facing each gear, is on the .............................. shaft between first and second. And similarly between third and fourth.{
+	=%100%secondary#
+}
+
+
+// question: 29194  name: HAQ2173 
+::HAQ2173::[html]A drive pinion gear fixed to the end of the secondary shaft is constantly in mesh with a final drive ring gear. The drive is transferred through these gears to the .............................. unit.{
+	=%100%differential#
+}
+
+
+// question: 29195  name: HAQ2174 
+::HAQ2174::[html]The free gear has its own engagement sleeve and synchromesh unit beside it. Selecting fifth gear locks the gear to the ..............................{
+	=%100%shaft#
+}
+
+
+// question: 29196  name: HAQ2175 
+::HAQ2175::[html]The gear on the primary shaft is larger than the gear on the secondary, so an overdrive ratio is provided. The secondary shaft rotates .............................. than the primary.{
+	=%100%faster#
+}

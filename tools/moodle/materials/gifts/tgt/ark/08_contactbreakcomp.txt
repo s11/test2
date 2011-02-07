@@ -1,0 +1,124 @@
+//name:TQ1068
+::TQ1068::High tension ignition leads are heavily insulated to prevent:{
+	=high voltage leakage.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+	~water corroding the metal conductor core.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+	~damage from vibration.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+	~interference with radio & television reception.#They should be checked to ensure the insulation is in good condition and kept free of moisture or contaminants like oil, dirt and grease to prevent the high tension voltage leaking through the insulation.
+}
+
+
+//name:TQ1069
+::TQ1069::These days the center cores of all spark plug leads are made from copper wire.{
+	=FALSE#The electrodes of spark plugs need to withstand high temperatures and harsh conditions. They are made of high strength precious metals like platinum and iridium.
+	~TRUE#The electrodes of spark plugs need to withstand high temperatures and harsh conditions. They are made of high strength precious metals like platinum and iridium.
+}
+
+
+//name:TQ1070
+::TQ1070::The ignition coil has a primary and secondary winding of how many turns?{
+	=300 and 30,000.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+	~30 and 3,000.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+	~3,000 and 30.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+	~3 and 300.#The ratio between the number of turns of wire in the primary and secondary windings determines the maximum potential voltage produced in the secondary winding.
+}
+
+
+//name:TQ1071
+::TQ1071::The names of the windings in the ignition coil are the:{
+	=primary and secondary.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+	~big and small.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+	~large and small.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+	~high-tension and low-tension.#The primary winding is connected to the low tension ignition circuit and the secondary winding to the high tension circuit.
+}
+
+
+//name:TQ1072
+::TQ1072::What component does the battery act in conjunction with to supply current to the ignition system?{
+	=The alternator.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+	~The starter motor.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+	~The distributor.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+	~The ignition switch.#The battery acts in conjunction with the alternator to supply current to the ignition system.
+}
+
+
+//name:TQ1073
+::TQ1073::During cranking, the ballast resistor:{
+	=is bypassed.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+	~is saturated.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+	~becomes more conductive.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+	~boosts cranking voltage.#The ballast resistor helps the engine to fire more easily by being bypassed during cranking, and then lowering the voltage when it is inserted into the circuit after the engine has started to minimize wear on ignition components.
+}
+
+
+//name:TQ1074
+::TQ1074::When the ignition switch is in the 'OFF' position:{
+	=all non-essential circuits are deactivared but the steering column lock is disabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+	~all non-essential circuits are deactivared and the steering column lock is enabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+	~all non-essential circuits are activared but the steering column lock is disabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+	~all non-essential circuits are activared and the steering column lock is enabled. #When the ignition switch is in the 'OFF' position all non-essential circuits are deactivared but the steering column lock is disabled. 
+}
+
+
+//name:TQ1075
+::TQ1075::The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  {
+	=They are opened and closed by the distributor cam with the rotation of the engine.#How are the contact breakers operated?
+	~They are opened and closed by the distributor cam with the rotation of the starter motor.#The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  They are opened and closed by the distributor cam with the rotation of the engine.
+	~They are opened and closed by the engine cam with the rotation of the engine.#The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  They are opened and closed by the distributor cam with the rotation of the engine.
+	~They are opened and closed by the engine cam with the rotation of the starter motor.#The contact breaker is a mechanically operated electrical switch which is fixed to the distributor base plate.  They are opened and closed by the distributor cam with the rotation of the engine.
+}
+
+
+//name:TQ1076
+::TQ1076::Technician A says a capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper.  Technician B says the waxed paper is called a diode.  Who is correct?{
+	=Technician A.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+	~Technician B.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+	~Both Technician A and Technician B.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+	~Neither Technician A or Technician B.#A capacitor is made up of two 'plates' constructed from narrow strips of aluminum foil which are insulated from each other by a special waxed paper called a di-electric.
+}
+
+
+//name:TQ1077
+::TQ1077::Technician A says the purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  Technician B says the number of cam lobes on the distributor cam corresponds to the half the number of engine cylinders as the distributor turns at half engine speed.  Who is correct?{
+	=Technician A.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+	~Technician B.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+	~Both Technician A and Technician B.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+	~Neither Technician A or Technician B.#The purpose of the distributor is to distribute the high tension voltage surges to the individual spark plugs in the correct sequence, and at the correct instant in time in the engine cycle.  The number of cam lobes on the distributor cam corresponds to the number of engine cylinders.
+}
+
+
+//name:TQ1078
+::TQ1078::Technician A says the induction type distributor uses magnetic fields to control the ignition circuit.  Technician B says engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.  Who is correct?{
+	~Technician A.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+	~Technician B.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+	=Both Technician A and Technician B.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. Induction type distributor uses magnetic fields to control the ignition circuit.  Engines operating with a computerized engine management system, the ignition advance function is controlled by an ECU.
+}
+
+
+//name:TQ1079
+::TQ1079::Technician A says that spark plugs should operate within a temperature range of 40-80 degrees C.  Technician B says the temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.  Who is correct?{
+	~Technician A.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+	=Technician B.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+	~Both Technician A and Technician B.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+	~Neither Technician A or Technician B.#Technician B is correct. Spark plugs should operate within a temperature range of 400 - 800 degrees C.  The temperature that a spark plug will reach depends on the distance the heat must travel from the insulator to reach the outer shell of the plug.
+}
+
+
+//name:TQ1080
+::TQ1080::The spark plug insulator is made from:{
+	=aluminium oxide ceramic.#The spark plug insulator is made from aluminium oxide ceramic.
+	~nickel oxide ceramic.#The spark plug insulator is made from aluminium oxide ceramic.
+	~platinum oxide ceramic.#The spark plug insulator is made from aluminium oxide ceramic.
+	~natural rubber.#The spark plug insulator is made from aluminium oxide ceramic.
+}
+
+
+//name:TQ1081
+::TQ1081::In a distributorless system, the optimum timing for ignition is determined by the:{
+	=electronic control unit.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+	~centrifugal advance mechanism.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+	~vacuum advance mechanism.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+	~both the centrifugal and vacuum advance mechanisms.#In a distributorless system, the optimum timing for ignition is determined by the electronic control unit.
+}
+
+

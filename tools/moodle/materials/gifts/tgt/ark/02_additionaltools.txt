@@ -1,0 +1,45 @@
+//name:TQ0164
+::TQ0164::What punch is designed to mark metal immediately prior to drilling?{
+	=A center punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+	~A prick punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+	~A drill point punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+	~A starter drift pin punch.#There is a range of punches available dependent on the job to be done. Center punches are normally used to mark a job before drilling takes place. The punch-mark has the effect of preventing the edge of the drill bit slipping when it first comes into contact with the job.  
+}
+
+
+//name:TQ0165
+::TQ0165::A center punch is mainly used as a preparation for:{
+	=drilling.#Center punching allows the drill bit to have a start point and avoid wandering.
+	~sawing.#Center punching allows the drill bit to have a start point and avoid wandering.
+	~filing.#Center punching allows the drill bit to have a start point and avoid wandering.
+	~soldering.#Center punching allows the drill bit to have a start point and avoid wandering.
+}
+
+
+//name:TQ0166
+::TQ0166::There are a number of different types of punch. Of the following, which is NOT the name of a type of punch?{
+	=Chisel#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+	~Center#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+	~Wad#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+	~Pin#There is no such thing as a 'chisel punch'.  A chisel is a cutting tool.
+}
+
+
+//name:TQ0167
+::TQ0167::A punch makes an accurate blow at exactly one point. From the following, select the type that would be best for making a hole in fabric.{
+	=A Wad punch#Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+	~A Center punch. #Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+	~A Starter drift punch. #Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+	~A Number or Letter punch.#Another name for a Wad Punch is a hollow punch, and it is ideal for making holes in fabric and leather.
+}
+
+
+//name:TQ0168
+::TQ0168::Why is a 'pop' type rivet also known as a 'blind' rivet?{
+	=It's also known as a 'blind' rivet because there's no need to see or reach the other side of the hole in which the rivet goes to complete the join.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+	~It's also known as a 'blind' rivet because you have to be able to see or reach the other side of the hole in which the rivet goes to complete the join.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+	~It's also known as a 'blind' rivet because it can be used in blind holes.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+	~The statement is incorrect as it is not also known as a blind rivet.#A typical 'pop' or blind rivet has a body which will form the finished rivet, and a mandrel which is discarded when the riveting's completed.
+}
+
+

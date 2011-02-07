@@ -1,0 +1,5 @@
+en:
+  flash:
+    actions:
+      destroy:
+        notice: "{{resource_name}} was successfully deleted."

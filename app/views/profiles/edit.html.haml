@@ -1,0 +1,28 @@
+- form_for(resource, :url => resource_path) do |f|
+  #tabs
+    %ul
+      %li
+        - link_to "#tabs-profile" do
+          %span.ui-icon.ui-icon-person{:style => "float: right"}
+          Your Profile
+
+    - if current_client.class_groups.andand.empty?
+      .ui-tabs-panel.ui-widget-content.ui-corner-bottom
+        - information_box do
+          == If you are unable to update your class group please contact your Supervisor. Class groups must be set up by your Supervisor.
+    
+    #tabs-profile
+      = f.error_messages
+
+      %table{:cellspacing => 0}
+        %tbody
+          = render :partial => "users/form", :locals => { :f => f, :user => resource }
+
+      %br
+
+      .centre
+        = reset_button_tag
+        = update_button_tag
+
+- content_for(:onload) do
+  $('#tabs').tabs();

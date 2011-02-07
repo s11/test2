@@ -1,0 +1,103 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/validates_timeliness/spec
+svn://curfew.jbpub.com/online
+
+
+
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+validator_spec.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+ae1a0f82cadddfc70741eddb3e6407b3
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+ginger_scenarios.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+5fdff91ceb2e54781d1d3ead7c9f730c
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+action_view
+dir
+
+formats_spec.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+9baf421e2d33bcfd451b1c1701feec84
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+parser_spec.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+95d68dcf7c680abffccac90e55aac91b
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+
+active_record
+dir
+
+resources
+dir
+
+spec
+dir
+
+time_travel
+dir
+
+spec_helper.rb
+file
+
+
+
+
+2010-02-09T13:38:40.000000Z
+2b5f15cbf119b7fe24b6b731f21af202
+2009-10-29T07:00:13.051634Z
+3552
+johnm
+

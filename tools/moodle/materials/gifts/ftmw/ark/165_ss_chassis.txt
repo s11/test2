@@ -1,0 +1,292 @@
+// question: 33315  name: HAQ3288 
+::HAQ3288::[html]Asbestos was once used in brake shoes and ................. for its heat resistance.{
+	=%100%gaskets#
+}
+
+
+// question: 33316  name: HAQ3289 
+::HAQ3289::[html]................. has been found to be a suitable substitute for thermal insulation and woven ceramic fiber performs as well or better as an insulator of high-temperature electrical conductors.{
+	=%100%Fiberglass#
+	=%100%Fibreglass#
+	=%100%fiberglass#
+	=%100%fibreglass#
+}
+
+
+// question: 33317  name: HAQ3290 
+::HAQ3290::[html]Fibers ultimately form because when these minerals originally cooled and crystallized, they formed by the polymeric molecules lining up ................. with each other and forming oriented crystal lattices.{
+	=%100%parallel#
+}
+
+
+// question: 33318  name: HAQ3291 
+::HAQ3291::[html]Electronic Stability Control (ESC) is the generic term for systems designed to improve a vehicle's ................., particularly at the limits where the driver might loose control of the vehicle.{
+	=%100%handling#
+}
+
+
+// question: 33319  name: HAQ3292 
+::HAQ3292::[html]ESC also integrates all-speed traction control, which senses drive-wheel slip under ................. and individually brakes the slipping wheel or wheels, and/or reduces excess engine power, until control is regained.{
+	=%100%acceleration#
+}
+
+
+// question: 33320  name: HAQ3293 
+::HAQ3293::[html]ESC cannot override a car's ................. limits.{
+	=%100%physical#
+}
+
+
+// question: 33321  name: HAQ3294 
+::HAQ3294::[html]ESC combines anti-lock brakes, ................. control and yaw control (yaw is spin around a vertical axis).{
+	=%100%traction#
+}
+
+
+// question: 33322  name: HAQ3295 
+::HAQ3295::[html]Fluid friction is the friction between a solid object and a fluid (a liquid or gas) it is ................. through.{
+	=%100%moving#
+}
+
+
+// question: 33323  name: HAQ3296 
+::HAQ3296::[html]The ................. of air on an airplane or of water on a swimmer are two examples of fluid friction.{
+	=%100%drag#
+}
+
+
+// question: 33324  name: HAQ3298 
+::HAQ3298::[html]The handbrake turn is a driving technique used to deliberately slide a car ................., either for the purpose of negotiating a very tight bend quickly, or for turning around well within the vehicle's own turning circle.{
+	=%100%sideways#
+}
+
+
+// question: 33325  name: HAQ3299 
+::HAQ3299::[html]The driver starts by using steering input to transfer weight to the ................. tires.{
+	=%100%outside#
+}
+
+
+// question: 33326  name: HAQ3300 
+::HAQ3300::[html]The handbrake is then used to lock the rear wheels, thus upsetting the ................. between the tires and the road surface.{
+	=%100%adhesion#
+}
+
+
+// question: 33327  name: HAQ3301 
+::HAQ3301::[html]With practice, the car can be placed accurately by releasing the handbrake and ................. the vehicle.{
+	=%100%accelerating#
+}
+
+
+// question: 33328  name: HAQ3302 
+::HAQ3302::[html]Rolling friction is the friction that occurs when an object (e.g a wheel or tire) rolls. It is much ................. than sliding friction except for special cases like ice skating.{
+	=%100%smaller#
+}
+
+
+// question: 33329  name: HAQ3303 
+::HAQ3303::[html]A vehicle rolling will ................. slow down due to rolling friction - but a train running on a steel rail will roll much further than a car or truck on rubber tires.{
+	=%100%gradually#
+}
+
+
+// question: 33330  name: HAQ3304 
+::HAQ3304::[html]The actual force applied in braking (for example, clamps applied to disc brakes) is internal, and by Newton's First Law cannot cause a change in the vehicle's .................{
+	=%100%motion#
+}
+
+
+// question: 33331  name: HAQ3305 
+::HAQ3305::[html]Material - Tires with ................. sulfur content tend to have a lower rolling friction. This is one strategy that most hybrid car vendors use to improve fuel efficiency.{
+	=%100%higher#
+}
+
+
+// question: 33332  name: HAQ3306 
+::HAQ3306::[html]Sliding friction is when two objects are ................. against each other.{
+	=%100%rubbing#
+}
+
+
+// question: 33333  name: HAQ3307 
+::HAQ3307::[html]Putting a book flat on a desk and moving it around is an example of ................. friction.{
+	=%100%sliding#
+}
+
+
+// question: 33334  name: HAQ3308 
+::HAQ3308::[html]Traction control and Vehicle Stability Control systems, on current production vehicles, are typically (but not necessarily) electro-................. systems designed to prevent loss of control when excessive throttle or steering is applied by the driver.{
+	=%100%hydraulic#
+}
+
+
+// question: 33336  name: HAQ3310 
+::HAQ3310::[html]Traction Control is usually considered as a performance enhancement, allowing maximum traction under acceleration without ................. spin.{
+	=%100%wheel#
+}
+
+
+// question: 33337  name: HAQ3311 
+::HAQ3311::[html]Rotation of the cylinder causes a point on the helix to move, along the surface of the cylinder. The distance the point moves in one revolution of the cylinder is called the .................{
+	=%100%pitch#
+}
+
+
+// question: 33356  name: HAQ3312 
+::HAQ3312::[html]Since liquid is effectively ................., pressure applied to a liquid is transmitted without loss throughout the liquid.{
+	=%100%incompressible#
+}
+
+
+// question: 33338  name: HAQ3313 
+::HAQ3313::[html]The helix shape is commonly used as a ................. on nuts and bolts, and also for teeth in steering gears, and transmissions.{
+	=%100%thread#
+}
+
+
+// question: 33339  name: HAQ3314 
+::HAQ3314::[html]Most of a vehicle's ................. is supported by its suspension system.{
+	=%100%weight#
+}
+
+
+// question: 33340  name: HAQ3315 
+::HAQ3315::[html]However, other parts of a vehicle are not supported by the  suspension system, such as the wheels, tires, brakes and steering and suspension parts not supported by .................{
+	=%100%springs#
+}
+
+
+// question: 33341  name: HAQ3316 
+::HAQ3316::[html]Generally,  unsprung weight should be kept as ................. as possible.{
+	=%100%low#
+}
+
+
+// question: 33342  name: HAQ3317 
+::HAQ3317::[html]Different materials have different levels of elasticity. Up to a certain point, they can be ................. and released, and they will try to return to their original condition.{
+	=%100%deformed#
+}
+
+
+// question: 33343  name: HAQ3318 
+::HAQ3318::[html]Preventing or reducing oscillation is called .................{
+	=%100%dampening#
+}
+
+
+// question: 33344  name: HAQ3319 
+::HAQ3319::[html]With some materials, if it returns to its original state too  quickly, it can produce a bouncing effect called an .................{
+	=%100%oscillation#
+}
+
+
+// question: 33345  name: HAQ3320 
+::HAQ3320::[html]In vehicle suspension, a ................. reduces oscillation in the spring.{
+	=%100%shock absorber#
+}
+
+
+// question: 33346  name: HAQ3321 
+::HAQ3321::[html]Low coefficient of friction for a pair of surfaces means they ................. move easily over each other.{
+	=%100%can#
+}
+
+
+// question: 33347  name: HAQ3322 
+::HAQ3322::[html]High coefficient of friction for a pair of surfaces means they ................. move easily over each other.{
+	=%100%cannot#
+}
+
+
+// question: 33348  name: HAQ3323 
+::HAQ3323::[html]If you make them very flat and smooth, and remove all surface contaminants in a vacuum, the smooth flat surfaces will actually adhere to each other, making what is called a '.................'.{
+	=%100%cold weld#
+	=%100%cold-weld#
+}
+
+
+// question: 33349  name: HAQ3324 
+::HAQ3324::[html]A common way to reduce friction is by using a ................. such as oil that is placed between the two surfaces, often dramatically lessening the coefficient of friction.{
+	=%100%lubricant#
+}
+
+
+// question: 33350  name: HAQ3325 
+::HAQ3325::[html]The science of friction and lubrication is called .................{
+	=%100%tribology#
+}
+
+
+// question: 33351  name: HAQ3326 
+::HAQ3326::[html]In physics, a lever (from Old French levier, the agent noun to lever 'to raise', c. f. levant) is a rigid object that is used with an appropriate fulcrum or ................. point to multiply the mechanical force that can be applied to another object.{
+	=%100%pivot#
+}
+
+
+// question: 33352  name: HAQ3327 
+::HAQ3327::[html]This is also termed ................. advantage, and is one example of the principle of moments.{
+	=%100%mechanical#
+}
+
+
+// question: 33353  name: HAQ3328 
+::HAQ3328::[html]The force applied (at end points of the lever) is ................. to the ratio of the length of the lever arm measured  between the fulcrum and application point of the force applied at each end of the lever.{
+	=%100%proportional#
+}
+
+
+// question: 33354  name: HAQ3329 
+::HAQ3329::[html]Pulleys change the ................. of a tension force on a flexible material, e.g. a rope or cable.{
+	=%100%direction#
+}
+
+
+// question: 33355  name: HAQ3330 
+::HAQ3330::[html]Most automobiles use hydraulics in the ................. systems.{
+	=%100%braking#
+}
+
+
+// question: 33357  name: HAQ3331 
+::HAQ3331::[html]Hydraulic pressure can transmit increased force. Since pressure is force per ................., the same pressure applied over different areas can produce different forces - larger and smaller.{
+	=%100%unit area#
+}
+
+
+// question: 33358  name: HAQ3332 
+::HAQ3332::[html]Pressure is sometimes measured not as an absolute pressure, but relative to ................. pressure; such measurements are sometimes called gauge pressure.{
+	=%100%atmospheric#
+}
+
+
+// question: 33359  name: HAQ3333 
+::HAQ3333::[html]At the surface of a gas, the pressure force acts ................. to the surface.{
+	=%100%perpendicular#
+}
+
+
+// question: 33360  name: HAQ3334 
+::HAQ3334::[html]Bleeding means removing ................. from a hydraulic system.{
+	=%100%air#
+}
+
+
+// question: 33361  name: HAQ3335 
+::HAQ3335::[html]When pressure is applied to liquid in a hydraulic system, the liquid does not compress into a smaller volume. Pressure is transmitted without loss. Gases however are .................{
+	=%100%compressible#
+}
+
+
+// question: 33362  name: HAQ3336 
+::HAQ3336::[html]Pressure on the brake pedal will not be transmitted in full through the system to apply the brakes. The brakes will be .................{
+	=%100%spongy#
+}
+
+
+// question: 33363  name: HAQ3337 
+::HAQ3337::[html]Bleeding the brakes means removing this air, so that only ................. is left in the system.{
+	=%100%liquid#
+}
+
+

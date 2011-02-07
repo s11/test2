@@ -1,0 +1,9 @@
+- if current_client.prefers_search?
+  #search.ui-widget.ui-widget-content.ui-corner-all
+    - form_tag(search_path, :method => :get) do
+      %button.ui-button.ui-widget.ui-state-default.ui-button-size-normal.ui-button-orientation-l.ui-corner-all.ui-button-tiny.fright{:type => "submit", :style => "padding: 0.25em"} Go
+      = text_field_tag :query, nil, :size => 18, :style => "border: 1px solid #888"
+    .center{ :style => "margin-top: 5px; font-size: 10px" } Use quote marks for phrases e.g. "clutch plate"
+
+- content_for(:onload) do
+  $('#search input').form_prompt('Enter search words');

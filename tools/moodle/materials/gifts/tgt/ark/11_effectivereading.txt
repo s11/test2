@@ -1,0 +1,72 @@
+//name:TQ1387
+::TQ1387::What are the steps in a reading process?{
+	=Step 1 - Know, Step 2 - Choose, Step 3 - Read.#The three steps in reading include Know, Choose, Read.
+	~Step 1 - Know, Step 2 - Check, Step 3 - Choose.#The three steps in reading include Know, Choose, Read.
+	~Step 1 - Choose, Step 2 - Check, Step 3 -  Know.#The three steps in reading include Know, Choose, Read.
+	~Step 1 - Know, Step 2 - Check, Step 3 - Read.#The three steps in reading include Know, Choose, Read.
+}
+
+
+//name:TQ1388
+::TQ1388::What will contribute to a good reading environment?{
+	=All of these aspects.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+	~A roomy desk and an ergonomically-designed chair.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+	~Good lighting.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+	~Quiet area.#Good reading environments include a roomy desk, comfortable chair, good lighting and a quiet area.
+}
+
+
+//name:TQ1389
+::TQ1389::Reading is a three step process. Which of these has the correct steps in the correct order?{
+	=The first step is to know. The second step is to choose. The last step is to read.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~The first step is to choose. The second step is to know. The last step is to read.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~The first step is to read. The second step is to choose. The last step is to know.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~The first step is to choose. The second step is to know. The last step is to read.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+}
+
+
+//name:TQ1390
+::TQ1390::Of the following, what are possible reasons for the purpose of reading?{
+	=All of the other answers.#How we intend to use the information changes what we choose to read and how we read it.
+	~To use the information quickly .#How we intend to use the information changes what we choose to read and how we read it.
+	~To understand the information.#How we intend to use the information changes what we choose to read and how we read it.
+	~To remember the information.#How we intend to use the information changes what we choose to read and how we read it.
+}
+
+
+//name:TQ1391
+::TQ1391::To use an absorbing reading method, which of the following do we  need to be able to do:{
+	=Review the information regularly.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+	~Look for a particular piece of information.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+	~Read through a table of contents.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+	~All of the other answers.#Reviewing information as you read it helps you to absorb it, which means to understand and remember it.
+}
+
+
+//name:TQ1392
+::TQ1392::What is not a reading process?{
+	=To convey the information.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~To use the information quickly.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~To understand the information.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+	~To remember the information.#Before we start reading, we need to know our reading purpose or what we intend to do with the information.
+}
+
+
+//name:TQ1393
+::TQ1393::If Debbie reads only the parts she needs to know, what reading method is this?{
+	=Selective reading#Selective reading is useful when we are looking for a particular piece of information.
+	~Comprehending reading#Selective reading is useful when we are looking for a particular piece of information.
+	~Absorbing reading#Selective reading is useful when we are looking for a particular piece of information.
+	~Inspection reading#Selective reading is useful when we are looking for a particular piece of information.
+}
+
+
+//name:TQ1394
+::TQ1394::If Chuck can remember an article he read in the newspaper, what reading method did he use?{
+	=Absorbing reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+	~Selective reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+	~Comprehending reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+	~Inspection reading#To use an absorbing reading method, we need to interpret and understand the information; absorb it into our memory; and review the information regularly.
+}
+
+

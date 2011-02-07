@@ -1,0 +1,14 @@
+%h2 Available Systems
+
+%ul
+  - @systems.each do |system|
+    %li
+      = system.name
+      %ul
+        - system.scenarios.each do |scenario|
+          %li
+            = scenario.name
+            = "(#{scenario.sc_revision})"
+            [
+            = link_to 'Test', start_diagnostics_scenario_exams_path(scenario.id)
+            ]

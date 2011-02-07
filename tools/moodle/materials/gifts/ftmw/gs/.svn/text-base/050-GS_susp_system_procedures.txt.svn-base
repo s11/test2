@@ -1,0 +1,69 @@
+// question: 27752  name: HAQ1779 
+::HAQ1779::[html]Some shock absorbers contain ............................... gas. To prevent personal injury, do not puncture or incinerate these shock absorbers.{
+	=%100%pressurised#
+	=%100%pressurized#
+}
+
+
+// question: 27753  name: HAQ1780 
+::HAQ1780::[html]The simplest form of suspension test is known as a '...............................' test.{
+	=%100%bounce#
+}
+
+
+// question: 27754  name: HAQ1781 
+::HAQ1781::[html]Visually inspect the shock absorber mounting points for security and corrosion and note any wet looking patches on the sides of the shock absorbers. This is a common indicator that the strut or shock absorber needs replacing because of a fluid ...............................{
+	=%100%leak#
+}
+
+
+// question: 27755  name: HAQ1782 
+::HAQ1782::[html]Shock absorbers are rated for '...............................'{
+	=%100%bump#
+}
+
+
+// question: 27756  name: HAQ1783 
+::HAQ1783::[html]Bump is the rate at which shock absorbers compress and '...............................'{
+	=%100%Rebound#
+	=%100%rebound#
+}
+
+
+// question: 27757  name: HAQ1784 
+::HAQ1784::[html]Shock absorbers operate by forcing oil through small orifices, or valves. This converts the movement of the shock absorber into heat. Too much heat will cause the oil to thin reducing the effectiveness of its operation. This is referred to as '...............................'{
+	=%100%Fade#
+	=%100%fade#
+}
+
+
+// question: 27758  name: HAQ1785 
+::HAQ1785::[html]The manual will indicate which components have a lube fitting or if an ............................... lube nipple has to be temporarily fitted for the function.{
+	=%100%auxiliary#
+}
+
+
+// question: 27759  name: HAQ1786 
+::HAQ1786::[html]Now that you have cleaned the fitting and nozzle, push the lube gun nozzle over the fitting. The nozzle must completely cover the fitting, to ensure the pressure of the gun forces the grease through the fitting into the ...............................{
+	=%100%joint#
+}
+
+
+// question: 27760  name: HAQ1787 
+::HAQ1787::[html]After you have completed lubricating all the appropriate joints and cleaned off any excess grease, it is appropriate to attach a sticker to the ...............................{
+	=%100%windshield#
+	=%100%windscreen#
+}
+
+
+// question: 27761  name: HAQ1788 
+::HAQ1788::[html]Check the upper mounting point of the ............................... strut for tightness.{
+	=%100%McPherson#
+	=%100%mcpherson#
+}
+
+
+// question: 27762  name: HAQ1789 
+::HAQ1789::[html]Inspect the bushes or rubber mountings for any signs of deterioration, swelling or crushing. Check the tightness of the bolts. Report any loose mounting bolts or retainers to your supervisor. These joints can also be a source of body ............................... that can be difficult to diagnose.{
+	=%100%noise#
+}

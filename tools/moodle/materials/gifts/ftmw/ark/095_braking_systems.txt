@@ -1,0 +1,144 @@
+// question: 26744  name: HAQ1949 
+::HAQ1949::[html]Drum brakes have a drum attached to the wheel hub, and braking occurs by means of brake shoes, ................. against the inside of the drum.{
+	=%100%expanding#
+}
+
+
+// question: 26746  name: HAQ1951 
+::HAQ1951::[html]When the ECU senses that one or more wheel is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the ................. on the braking circuit, effectively reducing the braking force on that wheel.{
+	=%100%pressure#
+}
+
+
+// question: 26747  name: HAQ1952 
+::HAQ1952::[html]Disc brakes are also more reliable than drum brakes due to the simplicity of their mechanics, the low number of parts compared to the drum brake, and ease of .................{
+	=%100%adjustment#
+}
+
+
+// question: 26748  name: HAQ1953 
+::HAQ1953::[html]Self adjusting brakes operate by a ................. mechanism engaged as the hand brakes is applied.{
+	=%100%ratchet#
+}
+
+
+// question: 26749  name: HAQ1954 
+::HAQ1954::[html]Another type of drum brake is where a ................. belt is wrapped around the outside of the drum and tightened.{
+	=%100%friction#
+}
+
+
+// question: 26750  name: HAQ1955 
+::HAQ1955::[html]Drum brakes are still used in some modern cars owing to ................. and cost advantages.{
+	=%100%weight#
+}
+
+
+// question: 26751  name: HAQ1956 
+::HAQ1956::[html]When the ECU senses that one or more wheel is rotating ................. than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel.{
+	=%100%slower#
+}
+
+
+// question: 26752  name: HAQ1957 
+::HAQ1957::[html]Use of a ................. gear to obtain engine braking will reduce the brake loading.{
+	=%100%lower#
+}
+
+
+// question: 26753  name: HAQ1958 
+::HAQ1958::[html]Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter ................., provides the large forces at the brake assembly that are needed.{
+	=%100%diaphragms#
+}
+
+
+// question: 26754  name: HAQ1959 
+::HAQ1959::[html]On ................. vehicles, any delays in applying the trailer brakes should be minimized.{
+	=%100%articulated#
+}
+
+
+// question: 26755  name: HAQ1960 
+::HAQ1960::[html]This is achieved using a relay valve, and a separate reservoir on the trailer. This arrangement also applies the brakes if the trailer becomes ................. from the prime-mover.{
+	=%100%disconnected#
+}
+
+
+// question: 26756  name: HAQ1961 
+::HAQ1961::[html]An exhaust brake works by restricting the flow of exhaust gases through the engine. It achieves this by closing a ................. valve located in the exhaust manifold.{
+	=%100%butterfly#
+}
+
+
+// question: 26757  name: HAQ1962 
+::HAQ1962::[html]The amount of negative torque generated is usually ................. proportional to the back pressure of the engine.{
+	=%100%directly#
+}
+
+
+// question: 26758  name: HAQ1963 
+::HAQ1963::[html]Braking power is generally measured in ................., and hovers around 60%-80% of the engine's maximum power output.{
+	=%100%horsepower#
+}
+
+
+// question: 26759  name: HAQ1964 
+::HAQ1964::[html]................. brakes should not be confused with engine brake, which work by holding the exhaust valves closed, although the basic principle of operation is similar.{
+	=%100%exhaust#
+}
+
+
+// question: 26760  name: HAQ1965 
+::HAQ1965::[html]In some instances electric brakes could cause a problem when used in conjunction with boating trailers, particularly using the wet launch boat trailer application, particularly in ................. water launching.{
+	=%100%salt#
+}
+
+
+// question: 26761  name: HAQ1966 
+::HAQ1966::[html]The control unit sends an appropriate current to the trailer brake actuators, to operate the trailer brakes, at the level selected. This should be appropriate for the ................. conditions of the trailer and the relative speed.{
+	=%100%loaded#
+}
+
+
+// question: 26762  name: HAQ1967 
+::HAQ1967::[html]As the wheel and drum turn during highway travel, this attraction of the magnet to the flat drum face pulls the lever arm of the brake actuating cam, ................. the cam and forcing the brake shoes out to contact the drum braking surface.{
+	=%100%rotating#
+}
+
+
+// question: 26764  name: HAQ1969 
+::HAQ1969::[html]Car emergency brakes have a ................. locking mechanism that will keep them engaged until a release button is pressed.{
+	=%100%ratchet#
+}
+
+
+// question: 26765  name: HAQ1970 
+::HAQ1970::[html]Parking brake on disc brake system - some vehicles use a single drum brake on the rear of the gearbox as a hand-brake. It's sometimes called a ................. brake.{
+	=%100%transmission#
+}
+
+
+// question: 26766  name: HAQ1971 
+::HAQ1971::[html]Parking brake on disc brake system - Some incorporate a drum brake for the hand-brake, in the center of the rear disc brake. Others use a ................. linkage to operate the disc brake from the hand brake system, or separate hand-brake calipers with their own pads.{
+	=%100%mechanical#
+}
+
+
+// question: 26768  name: HAQ1973 
+::HAQ1973::[html]Placing a vehicle in a ................. gear causes the engine to have more leverage (mechanical advantage) on the road and the road to have has less leverage on the engine.{
+	=%100%low#
+}
+
+
+// question: 26769  name: HAQ1974 
+::HAQ1974::[html]Engine braking passively reduces wear on brakes and helps a driver maintain control of the car.  It is always active when the foot is lifted off the accelerator, the transmission is not in ................. and the clutch is  engaged.{
+	=%100%neutral#
+}
+
+
+// question: 26770  name: HAQ1975 
+::HAQ1975::[html]Compression braking (jake brake), a form of engine brakeing, produces extreme amounts of ................. pollution if there is no muffler on the exhaust system of the engine.{
+	=%100%noise#
+}
+
+

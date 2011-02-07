@@ -1,0 +1,82 @@
+8
+
+dir
+3758
+svn://curfew.jbpub.com/online/management/tags/5.1.0.57.1/vendor/plugins/limerick_rake
+svn://curfew.jbpub.com/online
+
+
+
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3b871657-35ac-dc11-be7f-001b210ace29
+
+Rakefile
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+ddad1ca78e9c16dc56b84d9fd5039d06
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+limerick_rake.gemspec
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+7616132df9e4aa5cb2d2c9084a8bb3af
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+tasks
+dir
+
+lib
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+151cd9ce010a1658162f364254057c2d
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+
+README.textile
+file
+
+
+
+
+2010-02-09T13:38:39.000000Z
+181381cf5d64c65383d5d67fd233f149
+2009-06-27T06:09:28.239166Z
+2713
+johnm
+

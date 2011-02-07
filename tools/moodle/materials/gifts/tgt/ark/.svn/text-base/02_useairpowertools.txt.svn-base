@@ -1,0 +1,50 @@
+//name:TQ0119
+::TQ0119::The air gun is a safe and easy way of cleaning disc brakes.{
+	=FALSE#Do not use the air blowgun to clean brake dust from brake components. It will disperse the dust through the workshop.
+	~TRUE#Do not use the air blowgun to clean brake dust from brake components. It will disperse the dust through the workshop.
+}
+
+
+//name:TQ0120
+::TQ0120::An air chisel operates on the same principle as a 'jack hammer'.{
+	=TRUE#The principle is that of an air cylinder applying and releasing pressure on the tool bit.
+	~FALSE#The principle is that of an air cylinder applying and releasing pressure on the tool bit.
+}
+
+
+//name:TQ0121
+::TQ0121::What safety precaution must be taken before pulling on the air chisel trigger?{
+	=Press the chisel bit against the metal piece to be removed.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+	~Connect the air supply.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+	~Regulate the air pressure.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+	~Make sure you are wearing gloves.#Press the chisel bit against the metal piece is a good practice.  But gloves and eye protection are important too.
+}
+
+
+//name:TQ0122
+::TQ0122::Which special socket should be used with an air impact wrench?{
+	=A strengthened single six-point type.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~A deep wall socket.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~A balanced high-speed socket.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+	~A heavy-duty multi-hexagon socket.#Sockets come in many forms and sizes. It is important however to make sure that the socket that is used for a particular task is able to perform that task. For instance normal chrome vanadium sockets are unsuitable for use with air operated impact tools. In such cases only special strengthened single hexagon types should be used. They are easily recognizable and normally black in color. 
+}
+
+
+//name:TQ0123
+::TQ0123::Technician A says when tightening lug or wheel nuts a torque wrench must be used. Technician B says that an air wrench can be used but the final tightening should be done with a torque wrench. Who is correct?{
+	~Technician A.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+	~Technician B.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+	=Both Technician A and Technician B.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+	~Neither Technician A nor Technician B.#Both technicians are correct. The correct torque of a wheel nut is important.  The correct procedure is to lightly seat all nuts with an air tool and then torque the wheel nut with an appropriate torque wrench.
+}
+
+
+//name:TQ0124
+::TQ0124::Technician A says air drills are not as powerful as electric drills. Technician B says air drills can cause electric sparks if used where flammable materials are present. Who is correct?{
+	=Technician A.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+	~Technician B.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+	~Both Technician A and Technician B.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+	~Neither Technician A nor Technician B.#Technician A is correct. Unlike battery and electric powered drills, air drills do not require electricity to operate. They are safer in an environment where flammable materials are present. Air drills are smaller and turn at slower speeds than electric drills. Their power can be compared to a battery-powered drill.
+}
+
+

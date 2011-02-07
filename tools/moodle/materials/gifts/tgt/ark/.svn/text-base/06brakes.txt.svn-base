@@ -1,0 +1,982 @@
+//name:TQ0636
+::TQ0636::Do automotive engines rely on a high or low coefficient of friction for effective performance?{
+	=Low.#The purpose of any lubricating oil is to reduce the coefficient of friction between two moving surfaces. In automotive engines a low coefficient of friction assists in attaining effective performance.
+	~High.#The purpose of any lubricating oil is to reduce the coefficient of friction between two moving surfaces. In automotive engines a low coefficient of friction assists in attaining effective performance.
+	~Both high & low.#The purpose of any lubricating oil is to reduce the coefficient of friction between two moving surfaces. In automotive engines a low coefficient of friction assists in attaining effective performance.
+}
+
+
+//name:TQ0637
+::TQ0637::Compared to drum brakes, disc brakes need:{
+	=much higher pressures to operate efficiently.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~less pressure to operate efficiently.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~the same operating pressure as drum brakes.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+	~excessive amounts of air circulation for cooling purposes.#Disc brakes work on the clamping principle instead of the wrapping action of drum brakes, therefore they need higher pressures to operate efficiently.
+}
+
+
+//name:TQ0638
+::TQ0638::When pressure is applied to liquid in a hydraulic system, the liquid cannot compress into a smaller volume.{
+	=TRUE#Liquid is not compressible, therefore it will not change volume but will increase in pressure as force is applied.
+	~FALSE#Liquid is not compressible, therefore it will not change volume but will increase in pressure as force is applied.
+}
+
+
+//name:TQ0639
+::TQ0639::There are four types or orders of lever.{
+	=FALSE#There are three types or orders of levers representing variations in the location of the fulcrum and the input and output forces.
+	~TRUE#There are three types or orders of levers representing variations in the location of the fulcrum and the input and output forces.
+}
+
+
+//name:TQ0640
+::TQ0640::Hydraulic brake systems:{
+	=increase the applied force.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~reduce brake system pressures.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~increase stopping distance.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+	~use mechanical linkages.#To ensure the vehicle stops within the manufacturer's recommendations the hydraulic pressure created at the master cylinder must be multiplied significantly to allow for effective braking.
+}
+
+
+//name:TQ0641
+::TQ0641::Several factors can influence vehicle braking, these can include:{
+	=road surface, road conditions, the weight of the vehicle, load on the vehicle during stopping, and the tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the condition of the vehicle, load on the vehicle during stopping, and the type of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the weight of the vehicle, load on the vehicle during stopping, and the brand of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+	~road surface, road conditions, the unsprung mass of the vehicle, load on the vehicle during stopping, and the brand of tires.#A number of factors influence a vehicle's braking capabilities but the brand of tires does not play a factor in this situation.
+}
+
+
+//name:TQ0642
+::TQ0642::Technician A says the automotive brake system slows the car by converting its dynamic (kinetic) energy into frictional heat and passing that heat to the surrounding air. Technician B says the automotive brake system slows the car by converting its static energy into frictional heat and passing that heat to the surrounding air. Who is correct?{
+	=Technician A.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Both Technician A & Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+	~Neither Technician A nor Technician B.#Technician A is correct because when the brakes are applied they absorb the dynamic kinetic rotating energy from the drums/discs. The braking material heats up as energy transferred becomes frictional heat. The frictional heat (energy) is then transferred to the air.
+}
+
+
+//name:TQ0643
+::TQ0643::Brake fade is the reduction of stopping power in brakes due to:{
+	=buildup of heat in the braking surfaces.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+	~slow leakage of hydraulic pressure.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+	~worn pads or linings.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+	~surface scoring of brake rotors.#Continuous light application of the brakes when going down long hills can be particularly destructive in both wear and adding heat to the brake system.  Brake fade can be reduced by using lower gears to slow the vehicle and by using an intermittent braking technique.
+}
+
+
+//name:TQ0644
+::TQ0644::When going down a long incline: {
+	=change down into a lower gear, and periodically apply and then release the brakes.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+	~apply light but steady brake pressure all the way down the incline.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+	~pull the handbrake on about halfway, while holding the foot brake on with light pressure.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+	~pump the brakes with a continuous pulsing action as well as use light pressure from the handbrake.#Excessive heat causes brakes to reduce their effectiveness.  Keeping the speed down by using lower gears, and releasing the brakes periodically to let them cool down reduces heat buildup.
+}
+
+
+//name:TQ0645
+::TQ0645::A coefficient of friction is a measure of:{
+	=how easily two surfaces slide against each other.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how easily any surface slides against ice.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how rough and gripping a surface is.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+	~how slippery a surface is compared to another surface.#Ice and metal have a low coefficient of friction, so metal ice skates slide easily on ice.  Rubber tires and dry road surfaces have a high coefficient of friction, so they tend to grip each other. 
+}
+
+
+//name:TQ0646
+::TQ0646::Which of these statements is true?{
+	=Disc brakes clamp a flat disc between two pads, assisted by a brake booster.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~In a vehicle with both drum and disc brakes, the drum brakes would usually be fitted to the front wheels and the disc brakes to the rear wheels.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~In drum brakes, the brake shoes and linings are clamped between two hydraulically operated calipers.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+	~Disc brakes are hydraulically operated to increase the force of the brake pads, whereas drum brakes are larger and are operated by mechanical linkages.#Drum brakes have a brake shoe that expands against the inside of a drum, and are usually fitted only to rear wheels, if at all.  Disc brakes clamp a flat disc between two pads, and are commonly fitted to all four wheels. They are both hydraulically driven.
+}
+
+
+//name:TQ0647
+::TQ0647::A given amount of force applied to a master cylinder will exert:{
+	=increased force in a larger cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+	~decreased force in a larger cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+	~increased force in a smaller cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+	~uniform force in any sized cylinder.#Pressure from a master cyclinder will move a smaller cylinder a greater distance with less force, or a larger cylinder a shorter distance but with greater force.
+}
+
+
+//name:TQ0648
+::TQ0648::In a lever of the first type, or first order:{
+	=the fulcrum is between the effort and the load.#An example of a lever of the first type is a crowbar.  Another is a seesaw.
+	~the load is between the effort and the fulcrum.#An example of a lever of the first type is a crowbar.  Another is a seesaw.
+	~the effort is between the fulcrum and the load.#An example of a lever of the first type is a crowbar.  Another is a seesaw.
+}
+
+
+//name:TQ0649
+::TQ0649::When the distance between the load and the fulcrum is less than the distance between the effort and the fulcrum, then the lever is said to have:{
+	=positive mechanical advantage.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+	~negative mechanical advantage.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+	~mechanical disadvantage.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+	~mechanical equilibrium.#Positive or negative mechanical advantage depends on the relative distance of the fulcrum from both the load and the effort.  The closer the load and the further away the effort, the greater the positive mechanical advantage.
+}
+
+
+//name:TQ0650
+::TQ0650::With a regenerative braking system:{
+	=the vehicle is more energy efficient.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+	~the brake pads are self-adjusting.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+	~you don't need such a heavy flywheel.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+	~the handbrake becomes redundant.#Regenerative braking systems can use a number of different ways to capture and store for re-use energy that would normally be lost in braking.
+}
+
+
+//name:TQ0651
+::TQ0651::Converting kinetic energy normally lost in braking to stored energy is known as:{
+	=regenerative braking.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+	~brake energy recycling.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+	~adaptive brake system.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+	~restorative braking.#Regenerative braking is often used  in electric or hybrid vehicles, because a motor that normally converts electricity into motion can be switched to convert motion into electricity and therefore charge a battery.
+}
+
+
+//name:TQ0652
+::TQ0652::Parking brakes are:{
+	=mechanically operated.#Manufacturers still install mechanically activated park brakes.
+	~hydraulically operated.#Manufacturers still install mechanically activated park brakes.
+	~both mechanically and hydraulically operated.#Manufacturers still install mechanically activated park brakes.
+	~electrically operated.#Manufacturers still install mechanically activated park brakes.
+}
+
+
+//name:TQ0653
+::TQ0653::Air operated brakes are predominantly used on:{
+	=heavy commercial vehicles.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+	~light commercial vehicles.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+	~four wheel drive vehicles.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+	~passenger cars towing a trailer.#Air-operated braking systems are used on heavy vehicles. Compressed air, operating on large-diameter diaphragms, provides the large forces that are needed at the brake assembly.
+}
+
+
+//name:TQ0654
+::TQ0654::Heavy goods carrying vehicles require extra braking in situations where friction brakes tend to absorb greater heat. Some manufacturers have overcome this situation by:{
+	=fitting an exhaust brake.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+	~increasing the applied air pressure.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+	~increasing the size of the brake chambers.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+	~fitting cooling fins to the brake stations.#The exhaust brake is operated by using a 'flap' in the exhaust system which restricts the flow of exhaust gases from the engine. This causes exhaust backpressure to build up on top of the pistons and slows the speed of the engine. Because the engine is directly coupled to the rear wheels through the transmission, braking or retardation of the vehicle occurs.
+}
+
+
+//name:TQ0655
+::TQ0655::One benefit of using an exhaust or engine brake is:{
+	=increased brake life.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+	~increased friction-brake temperatures.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+	~decreased brake life.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+	~lower fuel consumption.#One benefit of using an exhaust or engine brake is to increase brake lining life. However, exhaust or engine brakes are noisy in operation and in many built-up areas their use is restricted by law because of the noise generated when the brakes are applied.
+}
+
+
+//name:TQ0656
+::TQ0656::All passenger vehicles must have at least:{
+	=two independent braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~one independent braking system.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~two combined braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+	~three independent braking systems.#Modern vehicles must have at least two independent circuits to ensure that the vehicle can be stopped in the event of one circuit failure.
+}
+
+
+//name:TQ0657
+::TQ0657::A vehicle is kept in motion by:{
+	=kinetic energy.#Kinetic energy is the energy of motion.
+	~potential energy.#Kinetic energy is the energy of motion.
+	~friction.#Kinetic energy is the energy of motion.
+	~retardation energy.#Kinetic energy is the energy of motion.
+}
+
+
+//name:TQ0658
+::TQ0658::Air brakes are normally used on heavy vehicles because: {
+	=the compressed air can provide the heavy braking forces needed.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+	~the compressed airflow keeps the braking surfaces cool.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+	~the compressed air keeps dust and dirt away from truck brakes.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+	~the compressed air is safer because it is not flammable.#An air compressor pumps air to storage tanks.  Driver-controlled valves then direct the compressed air to different wheel units to operate the friction brakes. 
+}
+
+
+//name:TQ0659
+::TQ0659::Which of these statements is true?{
+	=Disc brakes need more force to operate them than drum brakes.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+	~Drum brake shoes press inwards against a rotating disc.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+	~ABS brakes lock the  wheels to prevent them from turning under heavy braking loads.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+	~Disc brake linings expand against the inside of the wheel.#With disc brakes, a brake booster assists the driver by increasing the force applied to the master cylinder when the brake is operated. 
+}
+
+
+//name:TQ0660
+::TQ0660::A braking system that uses wheel speed sensors and an electronic control unit is called:{
+	=an anti-lock brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+	~a servo-assisted drum brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+	~an electronic disc brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+	~an automatic emergency brake system.#The ABS electronic unit constantly monitors the rotation speed of each wheel.  When it senses that one or more wheels is rotating slower than the others (a condition that will bring it to lock) it moves the valves to decrease the pressure on the braking circuit, effectively reducing the braking force on that wheel. 
+}
+
+
+//name:TQ0661
+::TQ0661::The electrically-activated brakes in a trailer are usually which type of brake?{
+	=Drum-type friction brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+	~Disc-type hydraulic brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+	~Anti-lock brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+	~Electronic transmission brakes.#Trailers and caravans towed by light vehicles must have a braking system if the trailer gross mass exceeds a certain value.  An electric braking system is commonly used to activate the drum-type friction brakes on the trailer. 
+}
+
+
+//name:TQ0662
+::TQ0662::How do trailer brakes cope with the varying load weights that might be carried?{
+	=There is a driver controllable manual overide that can be adjusted to suit the load.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+	~The brakes are self-adjusting, based on mass sensors in the suspension.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+	~Trailer brakes apply consistent pressure across the minimum and maximum load range the trailer is designed to carry.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+	~Heavy loads cause a secondary friction brake to be automatically operated as well.#This manual override can be used in certain driving conditions to dampen a trailer's tendency to sway. 
+}
+
+
+//name:TQ0663
+::TQ0663::Why is engine braking also known as compression braking?{
+	=It uses the resistance of the engine during the  compression stroke to slow momentum.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+	~It uses engine power to compress the hydraulic fluid in the braking system and increase brake force.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+	~It uses a compressed air brake booster connected to an engine-driven compressor.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+	~Because it can only be used with diesel, or compression ignition engines.#When a vehicle is in gear, the crankshaft of the engine and the wheels are mechanically connected.  When turning force is applied to the crankshaft by the engine, the transmission applies that force to the wheels.  Conversely, if force is applied to the wheels, the transmission applies that force to the crankshaft and through that to the engine. 
+}
+
+
+//name:TQ0664
+::TQ0664::Push-starting a car uses the same basic principle as:{
+	=Compression braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+	~Electronic braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+	~Anti-lock braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+	~Regenerative braking.#Force is applied to the wheels by pushing the vehicle; when the vehicle has some momentum, engaging a gear turns over the engine, enabling it to start without the assistance of a battery or starter motor. 
+}
+
+
+//name:TQ0665
+::TQ0665::Which of these statements is true?{
+	=Some parking brakes are connected to the transmisssion system not the wheels.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Parking brakes always operate on the rear wheels.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Hybrid vehicles don't have a parking brake at all.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+	~Some vehicles have a transmission brake instead of a parking brake.#All vehicles must have a foot brake and a handbrake or parking brake, but there are many different types of parking brake.
+}
+
+
+//name:TQ0666
+::TQ0666::The brake pedal is used to transfer the effort from the driver's foot to the master cylinder. This effort is increased by the use of:{
+	=mechanical advantage.#The force applied at end points of a lever is proportional to the ratio of the length of the lever arm measured between the fulcrum and application point of the force applied at each end of the lever.  Mathematically, this is expressed by M  &#61; Fd.
+	~height advantage.#The force applied at end points of a lever is proportional to the ratio of the length of the lever arm measured between the fulcrum and application point of the force applied at each end of the lever.  Mathematically, this is expressed by M  &#61; Fd.
+	~pneumatic advantage.#The force applied at end points of a lever is proportional to the ratio of the length of the lever arm measured between the fulcrum and application point of the force applied at each end of the lever.  Mathematically, this is expressed by M  &#61; Fd.
+	~hydraulic advantage.#The force applied at end points of a lever is proportional to the ratio of the length of the lever arm measured between the fulcrum and application point of the force applied at each end of the lever.  Mathematically, this is expressed by M  &#61; Fd.
+}
+
+
+//name:TQ0667
+::TQ0667::The power brake control valve is operated by the:{
+	=brake pedal.#As the brake pedal is depressed it opens the valve that allows vacuum to act on the inner side of the diaphragm.
+	~manifold vacuum.#As the brake pedal is depressed it opens the valve that allows vacuum to act on the inner side of the diaphragm.
+	~vacuum valve.#As the brake pedal is depressed it opens the valve that allows vacuum to act on the inner side of the diaphragm.
+	~master cylinder.#As the brake pedal is depressed it opens the valve that allows vacuum to act on the inner side of the diaphragm.
+}
+
+
+//name:TQ0668
+::TQ0668::Which of the following statements about a power brake system is true?{
+	=The booster has a vacuum check valve.#The check valve ensures vacuum is maintained in the system for a predetermined period of time after the engine has been shut down.
+	~A power brake increases the pressure in the lines.#The check valve ensures vacuum is maintained in the system for a predetermined period of time after the engine has been shut down.
+}
+
+
+//name:TQ0669
+::TQ0669::A vehicle fitted with disc brakes requires a brake fluid with a:{
+	=high boiling point.#Disc brakes generate higher braking temperatures than those generated by a drum brake system.
+	~low boiling point.#Disc brakes generate higher braking temperatures than those generated by a drum brake system.
+	~high freezing point.#Disc brakes generate higher braking temperatures than those generated by a drum brake system.
+	~mineral oil base.#Disc brakes generate higher braking temperatures than those generated by a drum brake system.
+}
+
+
+//name:TQ0670
+::TQ0670::Hydraulic brake fluid containers must not be left open to the atmosphere as the fluid will:{
+	=evaporate or become contaminated.#The majority of brake fluids used are hygroscopic. That is, they readily absorb moisture from the atmosphere. This has the effect of lowering its boiling point.
+	~smell.#The majority of brake fluids used are hygroscopic. That is, they readily absorb moisture from the atmosphere. This has the effect of lowering its boiling point.
+	~absorb carbon dioxide.#The majority of brake fluids used are hygroscopic. That is, they readily absorb moisture from the atmosphere. This has the effect of lowering its boiling point.
+	~discolor.#The majority of brake fluids used are hygroscopic. That is, they readily absorb moisture from the atmosphere. This has the effect of lowering its boiling point.
+}
+
+
+//name:TQ0671
+::TQ0671::Brake lines are used on vehicles to direct the fluid under pressure to a brake assembly. They can be flexible or solid. The solid brake lines:{
+	=are usually made of steel.#Steel is used instead of copper. Copper can fail under certain operating conditions that are not conducive to effective and efficient braking requirements.
+	~can be made of copper.#Steel is used instead of copper. Copper can fail under certain operating conditions that are not conducive to effective and efficient braking requirements.
+	~often use high-pressure, high-density plastic tubing for the hard or difficult installations.#Steel is used instead of copper. Copper can fail under certain operating conditions that are not conducive to effective and efficient braking requirements.
+	~must always be protected from environmental contaminations.#Steel is used instead of copper. Copper can fail under certain operating conditions that are not conducive to effective and efficient braking requirements.
+}
+
+
+//name:TQ0672
+::TQ0672::The brake pedal face has a:{
+	=non-slip surface such as a replaceable rubber pad.#To ensure the driver can apply the brake in the most appropriate manner and not have their foot slip off the pedal, a non-slip surface must be part of the pedal design/function.
+	~smooth metal surface.#To ensure the driver can apply the brake in the most appropriate manner and not have their foot slip off the pedal, a non-slip surface must be part of the pedal design/function.
+	~non-grip surface to allow a faster brake application.#To ensure the driver can apply the brake in the most appropriate manner and not have their foot slip off the pedal, a non-slip surface must be part of the pedal design/function.
+	~non-ferrous metal surface.#To ensure the driver can apply the brake in the most appropriate manner and not have their foot slip off the pedal, a non-slip surface must be part of the pedal design/function.
+}
+
+
+//name:TQ0673
+::TQ0673::A dual proportioning valve is used on a braking system with a:{
+	=split diagonal system layout.#This is required to allow the braking system to apportion the brake pressure on the braking stations that are subjected to greater braking requirements.
+	~hydro-boost unit.#This is required to allow the braking system to apportion the brake pressure on the braking stations that are subjected to greater braking requirements.
+	~single piston master cylinder.#This is required to allow the braking system to apportion the brake pressure on the braking stations that are subjected to greater braking requirements.
+	~rear wheel antilock system.#This is required to allow the braking system to apportion the brake pressure on the braking stations that are subjected to greater braking requirements.
+}
+
+
+//name:TQ0674
+::TQ0674::Front-engine/front-wheel drive vehicles normally use a braking system that is:{
+	=split diagonally.#This ensures that one front brake and opposite rear brake can function to allow the vehicle to pull up in a straight line if a system fails.
+	~split front and rear.#This ensures that one front brake and opposite rear brake can function to allow the vehicle to pull up in a straight line if a system fails.
+	~split left and right.#This ensures that one front brake and opposite rear brake can function to allow the vehicle to pull up in a straight line if a system fails.
+	~split into primary and secondary stages.#This ensures that one front brake and opposite rear brake can function to allow the vehicle to pull up in a straight line if a system fails.
+}
+
+
+//name:TQ0675
+::TQ0675::Technician A says some power-assisted brake systems use hydraulic pressure from the engine lubrication system to aid the driver in increasing master cylinder apply pressure.  Technician B says some power-assisted brake systems use hydraulic pressure from the engine cooling system to aid the driver in increasing master cylinder apply pressure. Who is correct?{
+	~Technician A.#Neither technician is correct because some vehicles use an engine driven hydraulic pump to charge inert gas filled accumulators (bladders) or a 'Hydro-Boost' system which uses power steering pump pressure to 'assist' brake application NOT hydraulic pressure from the lubrication or cooling systems.
+	~Technician B.#Neither technician is correct because some vehicles use an engine driven hydraulic pump to charge inert gas filled accumulators (bladders) or a 'Hydro-Boost' system which uses power steering pump pressure to 'assist' brake application NOT hydraulic pressure from the lubrication or cooling systems.
+	~Both Technician A & Technician B.#Neither technician is correct because some vehicles use an engine driven hydraulic pump to charge inert gas filled accumulators (bladders) or a 'Hydro-Boost' system which uses power steering pump pressure to 'assist' brake application NOT hydraulic pressure from the lubrication or cooling systems.
+	=Neither Technician A nor Technician B.#Neither technician is correct because some vehicles use an engine driven hydraulic pump to charge inert gas filled accumulators (bladders) or a 'Hydro-Boost' system which uses power steering pump pressure to 'assist' brake application NOT hydraulic pressure from the lubrication or cooling systems.
+}
+
+
+//name:TQ0676
+::TQ0676::If the compensating port of a master cylinder is blocked the brakes will:{
+	=drag when the brake fluid expands.#A blocked compensating port effectively slows down the return of brake fluid back into the reservoir, thus holding the generated pressure longer than intended in the brake lines.
+	~lose pressure when applied.#A blocked compensating port effectively slows down the return of brake fluid back into the reservoir, thus holding the generated pressure longer than intended in the brake lines.
+	~have increased pedal reserve.#A blocked compensating port effectively slows down the return of brake fluid back into the reservoir, thus holding the generated pressure longer than intended in the brake lines.
+	~require higher pedal forces.#A blocked compensating port effectively slows down the return of brake fluid back into the reservoir, thus holding the generated pressure longer than intended in the brake lines.
+}
+
+
+//name:TQ0677
+::TQ0677::In drum brake systems the residual line pressure valve:{
+	=holds the pressure in the lines above atmospheric pressure.#This assists in preventing fluid loss via the wheel cylinder cups.
+	~limits the rear braking effort.#This assists in preventing fluid loss via the wheel cylinder cups.
+	~maintains the rear braking effort.#This assists in preventing fluid loss via the wheel cylinder cups.
+	~proportions the rear braking effort.#This assists in preventing fluid loss via the wheel cylinder cups.
+}
+
+
+//name:TQ0678
+::TQ0678::Technician A says the seal in a master cylinder that prevents fluid from leaking out past the end of the piston is known as the secondary cup. Technician B says this seal is known in some systems as the primary cup. Who is correct?{
+	=Technician A.#Technician A is correct because the seal often referred to as the secondary cup prevents fluid from leaking out the back of the cylinder and onto the firewall. 
+	~Technician B.#Technician A is correct because the seal often referred to as the secondary cup prevents fluid from leaking out the back of the cylinder and onto the firewall.  
+	~Both Technician A & Technician B.#Technician A is correct because the seal often referred to as the secondary cup prevents fluid from leaking out the back of the cylinder and onto the firewall. 
+	~Neither Technician A nor Technician B.#Technician A is correct because the seal often referred to as the secondary cup prevents fluid from leaking out the back of the cylinder and onto the firewall. 
+}
+
+
+//name:TQ0679
+::TQ0679::The advantage of fitting a power brake booster to a brake system is to:{
+	=create a greater braking force.#Creating a greater braking force reduces the driver's effort at the brake pedal in applying the brakes to achieve the same braking capacity.
+	~allow a tandem master cylinder to be fitted.#Creating a greater braking force reduces the driver's effort at the brake pedal in applying the brakes to achieve the same braking capacity.
+	~provide a greater braking force to the front brakes.#Creating a greater braking force reduces the driver's effort at the brake pedal in applying the brakes to achieve the same braking capacity.
+	~allow a disc brake system to be used.#Creating a greater braking force reduces the driver's effort at the brake pedal in applying the brakes to achieve the same braking capacity.
+}
+
+
+//name:TQ0680
+::TQ0680::The power booster assembly is normally attached to the vehicle:{
+	=firewall.#In the majority of cases this is the most convenient place to locate the booster assembly.
+	~passenger compartment.#In the majority of cases this is the most convenient place to locate the booster assembly.
+	~engine compartment.#In the majority of cases this is the most convenient place to locate the booster assembly.
+	~chassis.#In the majority of cases this is the most convenient place to locate the booster assembly.
+}
+
+
+//name:TQ0681
+::TQ0681::The vacuum brake power booster on an EFI powered passenger car normally gets it power assistance from the:{
+	=engine intake manifold.#An easily-accessible source of power from an internal combustion engine is partial vacuum available by tapping the inlet manifold. The piston engine is fundamentally an air pump, and it produces suction and partial manifold vacuum on the inlet side. This can be used to power accessories or advance the ignition system spark timing. Inlet manifold vacuum varies depending on engine load and throttle position. 
+	~engine driven vacuum pump.#An easily-accessible source of power from an internal combustion engine is partial vacuum available by tapping the inlet manifold. The piston engine is fundamentally an air pump, and it produces suction and partial manifold vacuum on the inlet side. This can be used to power accessories or advance the ignition system spark timing. Inlet manifold vacuum varies depending on engine load and throttle position. 
+	~engine exhaust manifold.#An easily-accessible source of power from an internal combustion engine is partial vacuum available by tapping the inlet manifold. The piston engine is fundamentally an air pump, and it produces suction and partial manifold vacuum on the inlet side. This can be used to power accessories or advance the ignition system spark timing. Inlet manifold vacuum varies depending on engine load and throttle position. 
+	~engine driven air pump.#An easily-accessible source of power from an internal combustion engine is partial vacuum available by tapping the inlet manifold. The piston engine is fundamentally an air pump, and it produces suction and partial manifold vacuum on the inlet side. This can be used to power accessories or advance the ignition system spark timing. Inlet manifold vacuum varies depending on engine load and throttle position. 
+}
+
+
+//name:TQ0682
+::TQ0682::Technician A says most power brake boosters use accumulated brake hydraulic pressure to assist the driver in applying more force to the master cylinder pistons. Technician B says that accumulated brake hydraulic pressure systems are only used on the rear brakes. Who is correct?{
+	~Technician A.#Neither technician is correct because conventional power brake boosters operate by using a combination of vacuum and atmospheric air pressure to provide the assistance, NOT hydraulic pressure.
+	~Technician B.#Neither technician is correct because conventional power brake boosters operate by using a combination of vacuum and atmospheric air pressure to provide the assistance, NOT hydraulic pressure.
+	~Both Technician A & Technician B.#Neither technician is correct because conventional power brake boosters operate by using a combination of vacuum and atmospheric air pressure to provide the assistance, NOT hydraulic pressure.
+	=Neither Technician A nor Technician B.#Neither technician is correct because conventional power brake boosters operate by using a combination of vacuum and atmospheric air pressure to provide the assistance, NOT hydraulic pressure.
+}
+
+
+//name:TQ0683
+::TQ0683::A dual or divided brake system is safer in the event of a partial failure. This is achieved by using a:{
+	=tandem master cylinder.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+	~fail safe valve in the proportioning valve.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+	~fail safe valve in the master cylinder.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+	~single master cylinder.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+}
+
+
+//name:TQ0684
+::TQ0684::Most disc brake systems use a tandem master cylinder so that:{
+	=if one circuit fails, braking can be done on the remaining circuit.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+	~if one circuit fails, the master cylinder changes over to the backup master cylinder circuit.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+	~the braking system complies with the law.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+	~greater braking forces can be applied to the front wheels.#This has the advantage of having two separate systems operating in the one housing. It allows for greater efficiency and safer operation of the braking system.
+}
+
+
+//name:TQ0685
+::TQ0685::Technician A says that tandem brake systems can be split from front to rear. Technician B says that tandem brake systems can be split diagonally. Who is correct?{
+	~Technician A.#Both technicians are correct as this is dependent on the type of braking system, the manufacturer and when the vehicle was built. These factors will determine what type of brake system split is implemented.
+	~Technician B.#Both technicians are correct as this is dependent on the type of braking system, the manufacturer and when the vehicle was built. These factors will determine what type of brake system split is implemented.
+	=Both Technician A and Technician B.#Both technicians are correct as this is dependent on the type of braking system, the manufacturer and when the vehicle was built. These factors will determine what type of brake system split is implemented.
+	~Neither Technician A nor Technician B.#Both technicians are correct as this is dependent on the type of braking system, the manufacturer and when the vehicle was built. These factors will determine what type of brake system split is implemented.
+}
+
+
+//name:TQ0686
+::TQ0686::When you are bleeding a hydraulic system, you are:{
+	=removing air trapped in the system.#Pressure applied to air changes its volume, and some pressure is lost.  That is why if air enters a hydraulic braking system, it can be dangerous.
+	~letting some air into the system.#Pressure applied to air changes its volume, and some pressure is lost.  That is why if air enters a hydraulic braking system, it can be dangerous.
+	~releasing some of the fluid pressure.#Pressure applied to air changes its volume, and some pressure is lost.  That is why if air enters a hydraulic braking system, it can be dangerous.
+	~emptying the fluid from the system.#Pressure applied to air changes its volume, and some pressure is lost.  That is why if air enters a hydraulic braking system, it can be dangerous.
+}
+
+
+//name:TQ0687
+::TQ0687::Brake fluid is hygroscopic.  That means:{
+	=it absorbs water from the atmosphere.#As it absorbs water this will gradually reduce its boiling point, so the fluid should be changed periodically to remove water and other contaminants and to ensure the continued effectiveness of the braking system. 
+	~it has adaptive viscosity.#As it absorbs water this will gradually reduce its boiling point, so the fluid should be changed periodically to remove water and other contaminants and to ensure the continued effectiveness of the braking system. 
+	~it won't oxidise if left open to the air.#As it absorbs water this will gradually reduce its boiling point, so the fluid should be changed periodically to remove water and other contaminants and to ensure the continued effectiveness of the braking system. 
+	~it retains moisture to stop the brake lines from drying out.#As it absorbs water this will gradually reduce its boiling point, so the fluid should be changed periodically to remove water and other contaminants and to ensure the continued effectiveness of the braking system. 
+}
+
+
+//name:TQ0688
+::TQ0688::When the engine is switched off or stops for any reason, no vacuum is available to the brake power booster.  What happens then?{
+	=The vacuum held will apply the brakes with power boost until the available vacuum is depleted, then the brakes will still operate, but without power assistance.#The vacuum remaining in the booster, held by the non-return valve, will provide for at least one power-boosted application.  After this, the brakes will still operate, but without power assistance, therefore they require more effort from the driver. 
+	~The remaining retained booster power is routed to the front brakes only.#The vacuum remaining in the booster, held by the non-return valve, will provide for at least one power-boosted application.  After this, the brakes will still operate, but without power assistance, therefore they require more effort from the driver. 
+	~The booster power slowly dissipates, so that over time the brakes gradually require more effort to operate them.#The vacuum remaining in the booster, held by the non-return valve, will provide for at least one power-boosted application.  After this, the brakes will still operate, but without power assistance, therefore they require more effort from the driver. 
+	~The brakes will only operate once more using the retained vacuum,  then can no longer be operated.#The vacuum remaining in the booster, held by the non-return valve, will provide for at least one power-boosted application.  After this, the brakes will still operate, but without power assistance, therefore they require more effort from the driver. 
+}
+
+
+//name:TQ0689
+::TQ0689::What causes the brake lights to come on?{
+	=Usually, a switch is operated when the brake pedal is depressed.#As the driver depresses the brake pedal, the stop light switch operates. This allows current to flow through the circuit and illuminate the stop light bulbs at the rear of the vehicle. 
+	~The brake lights are activated when a sensor in the brake pads makes contact with the rotor.#As the driver depresses the brake pedal, the stop light switch operates. This allows current to flow through the circuit and illuminate the stop light bulbs at the rear of the vehicle. 
+	~In most cases, when the brake pedal is depressed, a signal is sent to the lighting ECU.#As the driver depresses the brake pedal, the stop light switch operates. This allows current to flow through the circuit and illuminate the stop light bulbs at the rear of the vehicle. 
+	~A decellerometer detects when the wheels are being slowed by the brakes, and activates the lights.#As the driver depresses the brake pedal, the stop light switch operates. This allows current to flow through the circuit and illuminate the stop light bulbs at the rear of the vehicle. 
+}
+
+
+//name:TQ0690
+::TQ0690::How do brake lines from the master cylinder accommodate the fact that the wheel can move in relation to the body?{
+	=A short section of flexible reinforced hose connects the metal brake lines between the suspension and the body.#The brake lines must be able to transmit considerable hydraulic pressure, so they are mostly made of steel. However, a flexible section must be included between the body and suspension to allow for steering and suspension movement. 
+	~Brake lines are made of a springy steel alloy that is flexible enough to bend with the suspension.#The brake lines must be able to transmit considerable hydraulic pressure, so they are mostly made of steel. However, a flexible section must be included between the body and suspension to allow for steering and suspension movement. 
+	~Brake lines are all  made of reinforced flexible synthetic rubber hose material.#The brake lines must be able to transmit considerable hydraulic pressure, so they are mostly made of steel. However, a flexible section must be included between the body and suspension to allow for steering and suspension movement. 
+	~Between the suspension and the body is a telescopic metal section than can extend and contract as the wheels move.#The brake lines must be able to transmit considerable hydraulic pressure, so they are mostly made of steel. However, a flexible section must be included between the body and suspension to allow for steering and suspension movement. 
+}
+
+
+//name:TQ0691
+::TQ0691::Pulsations felt through the brake pedal when braking heavily would usually indicate:{
+	=the anti-lock braking system has been activated.#When ABS brakes are activated during heavy braking, the pulsations of the system can be felt by the driver through the pedal and this is normal. However, a pulsating feel during normal or light braking can also be an indicator of a potential braking system problem. 
+	~the brake pads are dangerously worn down.#When ABS brakes are activated during heavy braking, the pulsations of the system can be felt by the driver through the pedal and this is normal. However, a pulsating feel during normal or light braking can also be an indicator of a potential braking system problem. 
+	~the mechanical linkage to the brake pedal is about to fail.#When ABS brakes are activated during heavy braking, the pulsations of the system can be felt by the driver through the pedal and this is normal. However, a pulsating feel during normal or light braking can also be an indicator of a potential braking system problem. 
+	~the front wheels are out of alignment.#When ABS brakes are activated during heavy braking, the pulsations of the system can be felt by the driver through the pedal and this is normal. However, a pulsating feel during normal or light braking can also be an indicator of a potential braking system problem. 
+}
+
+
+//name:TQ0692
+::TQ0692::Electrohydraulic braking (EHB) uses a high pressure accumulator.  How is this pressurised?{
+	=The accumulator is charged by the vehicle's electrical system.#The EHB system means that less power is taken away from the engine during operation as battery power is used. Also, there is no chance of problems caused by things such as a worn power steering pump.
+	~By the steering pump.#The EHB system means that less power is taken away from the engine during operation as battery power is used. Also, there is no chance of problems caused by things such as a worn power steering pump.
+	~From a drive belt on the crankshaft.#The EHB system means that less power is taken away from the engine during operation as battery power is used. Also, there is no chance of problems caused by things such as a worn power steering pump.
+	~With the vacuum booster.#The EHB system means that less power is taken away from the engine during operation as battery power is used. Also, there is no chance of problems caused by things such as a worn power steering pump.
+}
+
+
+//name:TQ0693
+::TQ0693::In an hydraulic brake booster system, what componet generates system pressure? {
+	=The power steering pump.#The booster system uses hydraulic pressure generated by the power steering pump rather than engine vacuum to provide the power assistance required in a conventional system.  This application is particularly suitable to vehicles with diesel engines.
+	~The cooling system pump.#The booster system uses hydraulic pressure generated by the power steering pump rather than engine vacuum to provide the power assistance required in a conventional system.  This application is particularly suitable to vehicles with diesel engines.
+	~The turbo charger.#The booster system uses hydraulic pressure generated by the power steering pump rather than engine vacuum to provide the power assistance required in a conventional system.  This application is particularly suitable to vehicles with diesel engines.
+	~The air conditioning compressor.#The booster system uses hydraulic pressure generated by the power steering pump rather than engine vacuum to provide the power assistance required in a conventional system.  This application is particularly suitable to vehicles with diesel engines.
+}
+
+
+//name:TQ0694
+::TQ0694::On vehicles with four disc brakes, how is the parking brake usually applied?{
+	=At the rear caliper or internal rotor drum arrangement and is applied by cable.#The mechanical park brake is normally hand or foot operated. It can be either a caliper activated or an internal rotor drum (banksia) arrangement.
+	~Via an auxiliary front disc brake.#The mechanical park brake is normally hand or foot operated. It can be either a caliper activated or an internal rotor drum (banksia) arrangement.
+	~At the rear caliper by a supplementary hydraulic line.#The mechanical park brake is normally hand or foot operated. It can be either a caliper activated or an internal rotor drum (banksia) arrangement.
+	~At the front caliper by a supplementary hydraulic line.#The mechanical park brake is normally hand or foot operated. It can be either a caliper activated or an internal rotor drum (banksia) arrangement.
+}
+
+
+//name:TQ0695
+::TQ0695::One advantage of duo-servo brakes is that they:{
+	=work well in both directions.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+	~can be used with a booster.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+	~wear faster.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+	~resist brake dissolve.#In a duo-servo drum brake system the self-energizing drum brake has servo action when traveling either forwards or backwards.
+}
+
+
+//name:TQ0696
+::TQ0696::The backing plate supports the:{
+	=brake shoes and linings, wheel cylinder, brake adjustment mechanism and in some instances, the parking brake mechanism.#All of the brake unit components except the brake drum are mounted on a backing plate bolted to the vehicle axle housing or suspension. The brake drum is not supported by the backing plate.
+	~brake shoes, wheel cylinder, brake drum and in some instances, the parking brake mechanism.#All of the brake unit components except the brake drum are mounted on a backing plate bolted to the vehicle axle housing or suspension. The brake drum is not supported by the backing plate.
+	~Brake shoes and linings, wheel cylinder, brake drum, brake adjustment mechanism and in some instances, the parking brake mechanism.#All of the brake unit components except the brake drum are mounted on a backing plate bolted to the vehicle axle housing or suspension. The brake drum is not supported by the backing plate.
+}
+
+
+//name:TQ0697
+::TQ0697::What brake unit components are mounted on the backing blate?{
+	=All brake unit components except the brake drum.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+	~All brake unit components.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+	~Wheel cylinder and brake drum.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+	~Wheel cylinder and brake shoes.#All of the brake unit components, except the brake drum, are mounted on a backing plate bolted to the vehicle axle housing or suspension.
+}
+
+
+//name:TQ0698
+::TQ0698::Compressed air must never be used to 'dust off' brake assemblies as the dust:{
+	=can be dangerous to health.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+	~is flammable.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+	~will discolor the paint of the car.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+	~will damage the wheel cylinder seals.#Compressed air can circulate the contaminated brake dust into the environment. The technician can then breath the contaminated air which can be a health hazard.
+}
+
+
+//name:TQ0699
+::TQ0699::The composition of the friction material on drum brakes affects brake operation. Linings which provide good braking with low pedal pressures:{
+	=tend to lose efficiency when they get hot.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+	~tend to lose efficiency when they cool down.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+	~tend to lose efficiency over time.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+	~tend to gain efficiency when they get hot.#Linings which maintain a stable friction co-efficient over a wide temperature range generally require higher pedal pressures to provide efficient braking, and may need the use of a booster.
+}
+
+
+//name:TQ0700
+::TQ0700::The main advantage claimed for drum brakes is that the shoe mounting can be designed to assist its own operation. This is called:{
+	=self-energization.#The primary function of the brake drum assembly is to force the brake shoes against the rotating drum to provide the braking action. When the brake shoes are forced against the rotating drum they are pulled away from their pivot point by friction.  This movement, called self-energizing action, draws the shoes tighter against the drum.
+	~forward energization.#The primary function of the brake drum assembly is to force the brake shoes against the rotating drum to provide the braking action. When the brake shoes are forced against the rotating drum they are pulled away from their pivot point by friction.  This movement, called self-energizing action, draws the shoes tighter against the drum.
+	~assisted energization.#The primary function of the brake drum assembly is to force the brake shoes against the rotating drum to provide the braking action. When the brake shoes are forced against the rotating drum they are pulled away from their pivot point by friction.  This movement, called self-energizing action, draws the shoes tighter against the drum.
+	~forward wrapping energization.#The primary function of the brake drum assembly is to force the brake shoes against the rotating drum to provide the braking action. When the brake shoes are forced against the rotating drum they are pulled away from their pivot point by friction.  This movement, called self-energizing action, draws the shoes tighter against the drum.
+}
+
+
+//name:TQ0701
+::TQ0701::The hydraulic actuator is called the:{
+	=wheel cylinder.#Each brake design uses the wedging or self-energizing action of the brake shoe to assist the lining to grip the rotating drum when the brakes are applied. The twin-leading shoe has an actuator for each brake shoe. The actuator can be mechanical, however a hydraulic actuator is popular on light vehicles.
+	~duo-servo.#Each brake design uses the wedging or self-energizing action of the brake shoe to assist the lining to grip the rotating drum when the brakes are applied. The twin-leading shoe has an actuator for each brake shoe. The actuator can be mechanical, however a hydraulic actuator is popular on light vehicles.
+	~twin-leading shoe.#Each brake design uses the wedging or self-energizing action of the brake shoe to assist the lining to grip the rotating drum when the brakes are applied. The twin-leading shoe has an actuator for each brake shoe. The actuator can be mechanical, however a hydraulic actuator is popular on light vehicles.
+	~drum brake.#Each brake design uses the wedging or self-energizing action of the brake shoe to assist the lining to grip the rotating drum when the brakes are applied. The twin-leading shoe has an actuator for each brake shoe. The actuator can be mechanical, however a hydraulic actuator is popular on light vehicles.
+}
+
+
+//name:TQ0702
+::TQ0702::A drum brake shoe is made of:{
+	=steel.#Steel is a good conductor of heat and has excellent wearing qualities.
+	~fiberglass.#Steel is a good conductor of heat and has excellent wearing qualities.
+	~cast iron.#Steel is a good conductor of heat and has excellent wearing qualities.
+	~aluminum.#Steel is a good conductor of heat and has excellent wearing qualities.
+}
+
+
+//name:TQ0703
+::TQ0703::What is the wheel cylinder attached to?{
+	=The backing plate.#Wheel cylinders are bolted to the backing plate.
+	~The brake drum.#Wheel cylinders are bolted to the backing plate.
+	~The brake linings.#Wheel cylinders are bolted to the backing plate.
+	~The brake pedal.#Wheel cylinders are bolted to the backing plate.
+}
+
+
+//name:TQ0704
+::TQ0704::Technician A says that the disc brake rotor must be checked for parallelism. Technician B says that the disc brake rotor must be checked for run-out. Who is correct?{
+	~Technician A.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+	~Technician B.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+	=Both Technician A and Technician B.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+	~Neither Technician A nor Technician B.#Both technicians are correct because to ensure a disc brake station is effective and efficient, the brake rotor must have parallel faces and be free from run-out.
+}
+
+
+//name:TQ0705
+::TQ0705::There are two main types of disc brake caliper:{
+	=fixed and sliding.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+	~fixed and stationary.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+	~stationary and sliding.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+	~disc and drum.#There are 2 main types of disc brake caliper, fixed and sliding. In either, the assembly is bolted to the vehicle axle housing or suspension.
+}
+
+
+//name:TQ0706
+::TQ0706::Some manufacturers fit audible warning sensors to their disc brake linings. The purpose of this sensor is to:{
+	=warn the driver that the disc brake linings are worn down and need replacing before they damage the rotor.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+	~warn the driver that the disc brake linings are worn down to the rotor.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+	~warn the driver that the disc brake linings are worn down to the stator.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+	~indicate to the driver that the brakes are being applied.#This sensor is a soft metal tab attached to the edge of the pad backing plate that emits a high-pitched squeal when it contacts the rotating rotor face. If the lining wears down to the metal brake shoe then you will have a 'metal to metal' condition where the shoe rubs directly against the rotor causing severe damage and loss of braking efficiency.
+}
+
+
+//name:TQ0707
+::TQ0707::The coefficient of friction between the brake pad and its disc depends on the:{
+	=materials of the pad and disc.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+	~speed of the disc.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+	~pressure between pad and disc.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+	~area of the pad.#The coefficient of friction (also known as the frictional coefficient or the friction coefficient) is a scalar value used to calculate the force of friction between two bodies. The coefficient of friction depends on the materials used. For example, ice on metal has a very low coefficient of friction (they rub together very easily), while rubber on pavement has a very high coefficient of friction (they do not rub together easily). It is interesting to note that contrary to common belief, the force of friction is invariant to the size of the contact area between the two objects. This means that friction does not depend on the size of the objects.
+}
+
+
+//name:TQ0708
+::TQ0708::Disc brake rotors are usually made of:{
+	=cast iron.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+	~aluminum.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+	~stainless steel.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+	~grey iron.#Disc brake rotors are usually made of cast iron because it's hard-wearing and can resist high temperatures.
+}
+
+
+//name:TQ0709
+::TQ0709::The major components of a disc brake assembly are:{
+	=rotor, caliper and disc pads.#The major components of the disc brake station are the rotor, caliper and disc pads.
+	~stator, wheel cylinder and brake lining.#The major components of the disc brake station are the rotor, caliper and disc pads.
+	~rotator, wheel cylinder and brake lining.#The major components of the disc brake station are the rotor, caliper and disc pads.
+	~brake drum, caliper and disc pads.#The major components of the disc brake station are the rotor, caliper and disc pads.
+}
+
+
+//name:TQ0710
+::TQ0710::The proportioning valve is designed to:{
+	=decrease braking at the rear wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+	~increase braking at the front wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+	~increase braking at the rear wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+	~decrease braking at the front wheels.#The proportioning valve reduces the pressure to the rear brakes. Regardless of what type of brakes a car has the rear brakes require less force than the front brakes. The amount of brake force that can be applied to a wheel without locking it depends on the amount of weight on the wheel. More weight means more brake force can be applied.
+}
+
+
+//name:TQ0711
+::TQ0711::Potential rear wheel lock-up on heavy braking can be controlled by:{
+	=a proportioning valve.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+	~a residual pressure valve.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+	~a pressure differential switch.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+	~bleeding at regular intervals.#This allows the front brakes to have a greater braking force than the rear and assists in maintaining vehicle stability.
+}
+
+
+//name:TQ0712
+::TQ0712::The function of the proportioning valve is to distribute the braking effort between:{
+	=the front and rear brakes under heavy braking application according to how the load is distributed across the vehicle.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+	~the rear brakes under heavy braking application according to how the load is distributed across the vehicle.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+	~the front and rear brakes under heavy braking application.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+	~Disc brake systems and drum brake systems.#These valves are mounted between the master cylinder and the rear wheels. They are designed to adjust the pressure between the front and rear brakes depending on how hard you are stopping.
+}
+
+
+//name:TQ0713
+::TQ0713::Fill in the gap: Brakes need to have an ability to absorb and disperse large amounts of ______ without their braking performance being adversely affected. {
+	=heat#As the heat in brake pads and linings builds up, the friction capability of the material - and consequently its stopping power - reduces. This is called brake fade, and minimizing or overcoming fade is a major factor in the design of brakes and the development of brake friction materials.
+	~moisture#As the heat in brake pads and linings builds up, the friction capability of the material - and consequently its stopping power - reduces. This is called brake fade, and minimizing or overcoming fade is a major factor in the design of brakes and the development of brake friction materials.
+	~energy#As the heat in brake pads and linings builds up, the friction capability of the material - and consequently its stopping power - reduces. This is called brake fade, and minimizing or overcoming fade is a major factor in the design of brakes and the development of brake friction materials.
+	~friction#As the heat in brake pads and linings builds up, the friction capability of the material - and consequently its stopping power - reduces. This is called brake fade, and minimizing or overcoming fade is a major factor in the design of brakes and the development of brake friction materials.
+}
+
+
+//name:TQ0714
+::TQ0714::Which of these statements is true?{
+	=Disc brakes generate more heat, but brake fade is less likely than with drum brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+	~Disc brakes generate more heat, so brake fade is more likely than with drum brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+	~Drum brakes have a larger surface area so they generate more heat than disc brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+	~Drum brakes have a larger surface area, so they need greater clamping force than disc brakes.#Applying brakes can absorb a lot of vehicle energy so friction between braking surfaces generates great heat.  Most of the friction area of a disc is exposed to air so although more heat is generated, cooling is far more rapid than for a drum brake. Unlike with drum brakes, brake fade is rare. 
+}
+
+
+//name:TQ0715
+::TQ0715::Technician A says that the brake assembly for an ABS system is the not same as for a non-ABS system. Technician B says that the power booster assembly for an ABS system is not same as for a non-ABS system. Who is correct?{
+	~Technician A.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+	~Technician B.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+	~Both Technician A and Technician B.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+	=Neither Technician A nor Technician B.#Neither technician is correct as the ABS master cylinder is similar to the tandem master cylinder used in divided systems. It has a primary piston and a secondary piston.   The secondary piston incorporates a center valve. This controls the opening and closing of a supply port drilling in the piston. At rest, the supply port is open and connects the reservoir with the front brake circuits. The primary piston still has an inlet port and a compensating port.
+}
+
+
+//name:TQ0716
+::TQ0716::Technician A says the ABS electrical system can be affected by such things as faulty relays or problems with the charging system. Technician B says that some ABS systems do not need electrical inputs to operate. Who is correct?{
+	=Technician A.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+	~Technician B.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+	~Both Technician A & Technician B.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+	~Neither Technician A nor Technician B.#Technician A is correct because the ABS electrical system relies on a constant available controlled voltage to operate correctly.
+}
+
+
+//name:TQ0717
+::TQ0717::Indicate the components that make up a basic ABS system: {
+	=All components listed make up an ABS system.#In this example all the components listed make up the ABS system.
+	~Electronic control unit.#In this example all the components listed make up the ABS system.
+	~Hydraulic control unit or modulator.#In this example all the components listed make up the ABS system.
+	~Wheel sensor unit.#In this example all the components listed make up the ABS system.
+	~Power booster and master cylinder assembly.#In this example all the components listed make up the ABS system.
+	~
+}
+
+
+//name:TQ0718
+::TQ0718::Technician A says that the wheel brake assembly used in an ABS system is the same as for the brake assembly in a non ABS system. Technician B says that an ABS system does not need to be connected to a brake monitoring control unit. Who is correct?{
+	~Technician A.#Neither technician is correct as in an ABS brake system a wheel speed sensor and toothed wheel must be fitted to ensure the ABS modulator can monitor the wheel speed and control any potential wheel/brake lock-up from occurring.
+	~Technician B.#Neither technician is correct as in an ABS brake system a wheel speed sensor and toothed wheel must be fitted to ensure the ABS modulator can monitor the wheel speed and control any potential wheel/brake lock-up from occurring.
+	~Both Technician A and Technician B.#Neither technician is correct as in an ABS brake system a wheel speed sensor and toothed wheel must be fitted to ensure the ABS modulator can monitor the wheel speed and control any potential wheel/brake lock-up from occurring.
+	=Neither Technician A nor Technician B.#Neither technician is correct as in an ABS brake system a wheel speed sensor and toothed wheel must be fitted to ensure the ABS modulator can monitor the wheel speed and control any potential wheel/brake lock-up from occurring.
+}
+
+
+//name:TQ0719
+::TQ0719::An ABS braking system controls wheel lock-up by:{
+	=controlling pressure to the locking wheel.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~changing pedal mechanical advantage.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~reducing volume in the master cylinder reservoir.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~building pressure in the master cylinder reservoir.#The module applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+}
+
+
+//name:TQ0720
+::TQ0720::In an ABS system what happens if a wheel starts to lock up under severe braking?{
+	=the electronic control unit operates the solenoid valves to reduce hydraulic pressure as required to maintain vehicle stability.#The modular applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~the electronic control unit operates the solenoid valves to completely release hydraulic pressure to the wheel that is locking up.#The modular applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+	~the electronic control unit operates the master cylinder valves to reduce hydraulic pressure appropriately.#The modular applies and releases the brakes in accordance with the electrical impulses that it receives from the wheel sensor.
+}
+
+
+//name:TQ0721
+::TQ0721::What is the greatest advantage of anti-lock braking?{
+	=It prevents the brakes from locking during heavy braking.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+	~It will stop the car in a shorter distance on dry surfaces.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+	~It prevents the rear brakes from locking during heavy braking.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+	~It will stop the car in a shorter distance on ice.#ABS brakes were designed to combat the problem of tire lock up and uncontrolled spins. Since brakes are most effective at slowing the car at a point just before wheel lock up, a system that provides for wheel braking while preventing wheel lock up is very desirable.
+}
+
+
+//name:TQ0722
+::TQ0722::Technician A says accumulators holding over 20,000 psi are sometimes used in ABS hydraulic control units. Technician B says that under normal operating conditions the ABS controls application pressure to each wheel. Who is correct?{
+	~Technician A.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+	=Technician B.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+	~Both Technician A & Technician B.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+	~Neither Technician A nor Technician B.#Technician B is correct because the principal feature of the ABS is to control the brake pressure applied to each wheel by reducing it NOT increasing it.
+}
+
+
+//name:TQ0723
+::TQ0723::Technician A says ABS warning lights can be turned on by excessively worn front disc pads. Technician B says that this can only happen in cold weather conditions. Who is correct?{
+	~Technician A.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+	~Technician B.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+	~Both Technician A & Technician B.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+	=Neither Technician A nor Technician B.#Neither technician is correct because the ABS warning lights are to provide information to the driver about the condition of the ABS, NOT the condition of the brake pads. This part of the system would normally have a separate warning light to indicate such a condition.
+}
+
+
+//name:TQ0724
+::TQ0724::Technician A says some traction control systems use the ABS system to pulse the brakes onto slow spinning tires. Technician B says the ABS system prevents the wheels from locking up. Who is correct?{
+	~Technician A.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+	~Technician B.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+	=Both Technician A & Technician B.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+	~Neither Technician A nor Technician B.#Both technicians are correct because the ABS systems can assist in maintaining vehicle stability in both of these ways.
+}
+
+
+//name:TQ0725
+::TQ0725::Technician A says that most ABS systems have self-diagnostic capabilities.  Technician B says that brake linings and pads are not interchangeable between ABS and non-ABS systems.  Who is correct?{
+	=Technician A.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+	~Technician B.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+	~Both Technician A and Technician B.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+	~Neither Technician A nor Technician B.#Technician A is correct because the system runs through a number of self-checks prior to operation. The brake pads and shoes have nothing to do with ABS operation. In many cases particular brake pads do fit both ABS and non ABS systems.
+}
+
+
+//name:TQ0726
+::TQ0726::A vehicle equipped with ABS has a pedal that pulsates on hard stops. Technician A says that this is normal operation. Technician B says that this could indicate that the brake drums are out of round. Who is correct?{
+	=Technician A.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+	~Technician B.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+	~Both Technician A and Technician.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+	~Neither Technician A nor Technician B.#Technician A is correct because as the ABS operates the triggering of the 'on-off-on' of the wheel units can be felt through the system at the pedal on hard application. ABS is not generally used on drum brakes.
+}
+
+
+//name:TQ0727
+::TQ0727::Technician A says faulty ABS hydraulic control units can be replaced with a partly overhauled OEM unit. Technician B says kits are available to service faulty ABS solenoids. Who is correct?{
+	~Technician A.#Technician B is correct because like most brake components the hydraulic control unit is a serviceable item.
+	=Technician B.#Technician B is correct because like most brake components the hydraulic control unit is a serviceable item.
+	~Both Technician A & Technician B.#Technician B is correct because like most brake components the hydraulic control unit is a serviceable item.
+	~Neither Technician A nor Technician B.#Technician B is correct because like most brake components the hydraulic control unit is a serviceable item.
+}
+
+
+//name:TQ0728
+::TQ0728::During an ABS application and the rapid changes in pressure, some systems allow:{
+	=pulsations to be felt at the brake pedal.#This is due the modulator pumping pressure being generated within the braking system.
+	~the brake pedal to creep down a little further.#This is due the modulator pumping pressure being generated within the braking system.
+	~the brake pedal to rise up slightly.#This is due the modulator pumping pressure being generated within the braking system.
+	~the system pressures to rise above normal braking pressures.#This is due the modulator pumping pressure being generated within the braking system.
+}
+
+
+//name:TQ0729
+::TQ0729::Rear wheel lock-up during heavy braking is controlled in ABS by:{
+	=reducing pressure to the rear brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+	~increasing pressure to the rear brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+	~reducing pressure to the front brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+	~increasing pressure to the front brakes.#If the wheels are about to lock up the ECU activates the hydraulic modulator also known as the hydraulic control unit which reduces pressure to the brake/s that are about to lock up. It maintains the braking ratio as established by the vehicle manufacturer.
+}
+
+
+//name:TQ0730
+::TQ0730::The wheel sensors on an anti-lock braking system relay information to the control unit on:{
+	=wheel speed, deceleration, and percentage slip.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+	~vehicle retarding force.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+	~brake application force.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+	~vehicle stopping distance.#Anti-lock braking systems (ABS), and traction and stability control systems take command when circumstances such as poor driving decisions or poor road conditions are detected.
+}
+
+
+//name:TQ0731
+::TQ0731::Technician A says the brake pedal normally pulsates when the ABS is activated on most vehicles. Technician B says in a non brake-by-wire ABS/Traction control system the brake pedal sometimes remains hard and constant during ABS application. Who is correct?{
+	=Technician A.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+	~Technician B.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+	~Both Technician A & Technician B.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+	~Neither Technician A nor Technician B.#Technician A is correct because as the ABS applies and releases pressure to any wheel there is a resultant effect on brake line pressure that can be felt at the brake pedal by the driver as pulsations.
+}
+
+
+//name:TQ0732
+::TQ0732::Technician A says some ABS speed sensors can be located on the input shaft of the transmission. Technician B says some ABS speed sensors can be located on the differential unit. Who is correct?{
+	~Technician  A.#Technician B is correct because, although the sensors are commonly located at the wheels, in a single channel two-wheel system a single sensor can be located on the ring gear of the differential.  Technician A is wrong because ABS speed sensors on the input shaft would have no effect and be unable to operate correctly in this location.
+	=Technician B.#Technician B is correct because, although the sensors are commonly located at the wheels, in a single channel two-wheel system a single sensor can be located on the ring gear of the differential.  Technician A is wrong because ABS speed sensors on the input shaft would have no effect and be unable to operate correctly in this location.
+	~Both Technician A & Technician B.#Technician B is correct because, although the sensors are commonly located at the wheels, in a single channel two-wheel system a single sensor can be located on the ring gear of the differential.  Technician A is wrong because ABS speed sensors on the input shaft would have no effect and be unable to operate correctly in this location.
+	~Neither Technician A nor Technician B.#Technician B is correct because, although the sensors are commonly located at the wheels, in a single channel two-wheel system a single sensor can be located on the ring gear of the differential.  Technician A is wrong because ABS speed sensors on the input shaft would have no effect and be unable to operate correctly in this location.
+}
+
+
+//name:TQ0733
+::TQ0733::When the ABS Electronic Control Unit senses that the wheels are about to lock up, what does it do?{
+	=The ECU operates solenoid valves to relieve hydraulic pressure to the brakes at individual wheels as appropriate.#The ECU receives signals from various sources. The brake pedal, the ignition system, and wheel speed sensors control the hydraulic control unit and anticipate wheel lock. 
+	~The ECU momentarily disconnects and reconnects the brake pedal to relieve pressure, which is why the driver feels brake pulsations through the pedal.#The ECU receives signals from various sources. The brake pedal, the ignition system, and wheel speed sensors control the hydraulic control unit and anticipate wheel lock. 
+	~The ECU tells the ABS master hydraulic unit to vary the pressures available in the brake lines to different wheels.#The ECU receives signals from various sources. The brake pedal, the ignition system, and wheel speed sensors control the hydraulic control unit and anticipate wheel lock. 
+	~The ECU pumps brake fluid to  auxiliary ABS brake cylinders, which counteract the pedal forces exerted by the driver and prevent the wheels from locking.#The ECU receives signals from various sources. The brake pedal, the ignition system, and wheel speed sensors control the hydraulic control unit and anticipate wheel lock. 
+}
+
+
+//name:TQ0734
+::TQ0734::Technician A says that checking the fluid level in an ABS system is the same as checking the fluid in a regular brake system. Technician B says that some ABS systems cannot use silicone brake fluid. Who is correct?{
+	~Technician A.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+	~Technician B.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+	=Both Technician A and Technician B.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+	~Neither Technician A nor Technician B.#Both technicians are correct because the procedure is the same and the system must be topped up using the fluid specified by the system manufacturer.
+}
+
+
+//name:TQ0735
+::TQ0735::In some vehicle applications another name for an emergency brake is the:{
+	=park brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+	~holding brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+	~rear circuit brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+	~stationary holding brake.#In addition to an emergency application function this brake is designed to hold the vehicle stationary on various gradients when parked.
+}
+
+
+//name:TQ0736
+::TQ0736::The hand brake should be adjusted:{
+	=after adjusting the service brakes.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+	~when it won't hold the car.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+	~before adjusting the service brakes.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+	~with a special tool.#Service brakes must be correctly adjusted before the hand brake is adjusted.
+}
+
+
+//name:TQ0737
+::TQ0737::When filling the master cylinder with brake fluid you must:{
+	=make sure that the correct grade or D.O.T. type of fresh fluid is used.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+	~make sure you wipe off any brake fluid that you may have spilled on the paintwork.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+	~only use the brand recommended by the vehicle manufacturer.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+	~make sure only clean brake fluid is used.#If the wrong type of brake fluid is used it can have an adverse affect on the operation of the braking system.
+}
+
+
+//name:TQ0738
+::TQ0738::After bleeding a brake system Technician A says that fluid can be reused if it is clean.  Technician B says brake fluid is hygroscopic. Who is right?{
+	~Technician A.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+	=Technician B.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+	~Both Technician A and Technician B.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+	~Neither Technician A nor Technician B.#Technician B is correct because brake fluid is hygroscopic and may have absorbed moisture. It needs replacing at regular intervals and cannot be reused.
+}
+
+
+//name:TQ0739
+::TQ0739::Brake shoes should be replaced when the linings are:{
+	=all of these.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+	~contaminated with oil or grease.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+	~worn to within 1/32' or 1mm of the rivets.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+	~contaminated with brake fluid.#When the linings are worn down to the minimum thickness or if the linings have become contaminated by grease or oil, then the braking capabilities will be compromised.
+}
+
+
+//name:TQ0740
+::TQ0740::In a carburetor fuel system, a power valve is usually opened by:{
+	=a decrease in manifold vacuum.#A power valve in the carburetor opens during acceleration to increase fuel flow. 
+	~an increase in fuel pressure.#A power valve in the carburetor opens during acceleration to increase fuel flow. 
+	~an increase in manifold vacuum.#A power valve in the carburetor opens during acceleration to increase fuel flow. 
+	~a mechanical link and duration spring.#A power valve in the carburetor opens during acceleration to increase fuel flow. 
+}
+
+
+//name:TQ0741
+::TQ0741::On some master cylinder reservoirs there are two fluid level marks. These indicate:{
+	=the minimum and maximum brake fluid levels.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+	~the lower mark indicates the minimum fluid level for the brake fluid.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+	~the lower mark indicates the maximum fluid level for hot brake fluid.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+	~the lower mark indicates the minimum fluid level for cold brake fluid.#For the brake system to function correctly, the fluid level cannot be too high or too low. Either situation can be detrimental to effective brake operation.
+}
+
+
+//name:TQ0742
+::TQ0742::Unless otherwise recommended by the manufacturer, brake pads need to be replaced when:{
+	=the pad is worn down to the same thickness as the backing plate.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+	~the pad is worn down to the level of the backing plate.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+	~the pad is worn down to the marker groove indicating minimum level.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+	~the pad is worn down to approximately 1mm from the backing plate.#Make sure the calipers are cool to the touch if the vehicle has been recently driven.  If the linings have worn so much that they are running on the pads backing plates, the disc may have to be reground or replaced.
+}
+
+
+//name:TQ0743
+::TQ0743::Unless otherwise specified by the manufacturer, when should drum brake linings be checked?{
+	=Approximately every 15,000 kilometers or 10,000 miles.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+	~Whenever the vehicle has a major service.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+	~Approximately every 25,000 kilometers or 15,000 miles.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+	~Approximately every 40,000 kilometers or 25,000 miles.#Consult the shop manual for the allowable minimum lining thickness.  If the brake shoe linings are covered in oil or grease they must be replaced. Any large score marks mean that the drum will also have to be machined or replaced.
+}
+
+
+//name:TQ0744
+::TQ0744::If you are installing a new rotor:{
+	=clean it thoroughly in a component washer.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+	~make sure it has an even coating of light machine oil.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+	~buff the surface with some rubbing down compound.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+	~lightly machine the surface to ensure correct runout.#Before working on a vehicle's brakes, attach an appropriate label to the vehicle to prevent accidental actuation of the brake caliper while it is removed from the hub.
+}
+
+
+//name:TQ0745
+::TQ0745::What must you do before you retract the caliper piston back into its housing?{
+	=Check to see if there is sufficient fluid space in the master cylinder reservoir. If not, remove some brake fluid from the reservoir .#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+	~Make sure that the handbrake is on.#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+	~Perform a runout test on the disc rotors.#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+	~Make sure the new pads are exactly the same as the ones being replaced.#Using a siphon, remove enough fluid to cause the reservoir level to drop well below the fill mark. This allows the fluid in the lines to return to the reservoir without overflowing when you retract the caliper pistons for the new pads.
+}
+
+

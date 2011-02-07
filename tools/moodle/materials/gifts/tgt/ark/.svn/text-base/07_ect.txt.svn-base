@@ -1,0 +1,104 @@
+//name:TQ0819
+::TQ0819::How does the 'Downhill Gradient' function operate?{
+	=By a combination of inhibiting up shifts and allowing a single downshift when the throttle pedal is released and when the brake pedal is applied.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+	~By a combination of inhibiting up shifts and allowing a single downshift when the throttle pedal is depressed and when the brake pedal is released.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+	~By inhibiting up shifts and downshifts when the brake pedal is rapidly released and when the lateral acceleration is exceeded.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+	~By inhibiting up shifts and downshifts when the brake pedal is rapidly released and when the lateral acceleration is rapidly reduced.#On a downhill gradient, if an up shift occurs when the accelerator is released there is no engine braking. To stop the driver would need to apply greater force to the brakes.
+}
+
+
+//name:TQ0820
+::TQ0820::What two signals are critical to the successful operation of a fully hydraulic controlled automatic transmission?{
+	=Engine load and vehicle speed.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+	~Engine speed and vehicle load.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+	~Engine mass and vehicle load.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+	~Engine speed and vehicle mass.#A fully hydraulically controlled transmission controls the shift points by a hydraulic control unit or valve body. Fluid for transmission operation and lubrication is supplied by the pump. Pressure control valves determine the pressures in the system according to operating conditions. These conditions are signaled to the control valves and two inputs are critical: engine load and vehicle speed.
+}
+
+
+//name:TQ0821
+::TQ0821::Electronically controlled automatic transmissions have a much better control of driving pattern variation than a fully hydraulically controlled transmission.{
+	=TRUE#In fully hydraulically controlled transmissions, the driving pattern, that is the timing of up shifts and downshifts, is designed into the transmission and cannot be readily altered. In the electronically-controlled transmission, the ECU can store different driving patterns.
+	~FALSE#In fully hydraulically controlled transmissions, the driving pattern, that is the timing of up shifts and downshifts, is designed into the transmission and cannot be readily altered. In the electronically-controlled transmission, the ECU can store different driving patterns.
+}
+
+
+//name:TQ0822
+::TQ0822::Some vehicles have the ability to identify different driving styles and adapt the transmission change patterns accordingly.{
+	=TRUE#Some vehicles can identify and adapt to a driver's individual style and to environmental conditions.
+	~FALSE#Some vehicles can identify and adapt to a driver's individual style and to environmental conditions.
+}
+
+
+//name:TQ0823
+::TQ0823::How does the 'fast-off' function operate?{
+	=By inhibiting up shifts when the throttle pedal is rapidly released.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+	~By inhibiting up shifts when the throttle pedal is rapidly depressed.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+	~By inhibiting up shifts when the brake pedal is rapidly released.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+	~By inhibiting up shifts when the brake pedal is rapidly depressed.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the fast-off identification function.
+}
+
+
+//name:TQ0824
+::TQ0824::Which of the following special driving circumstances are catered for in an electronically controlled automatic transmission?{
+	=Fast-off.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+	~Corner.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+	~Downhill.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+	~Stop and go.#In a higher gear the engine contributes less to the braking process and when the accelerator is depressed again a downshift usually takes place. These unnecessary shifts can be prevented by the Fast-off identification function.
+}
+
+
+//name:TQ0825
+::TQ0825::What is the difference between a steptronic transmission and a manual transmission?{
+	=A steptronic transmission is an automatic transmission that has the ability to be driven manually whereas a manual transmission can only be driven manually.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+	~A steptronic transmission is a manual transmission that has the ability to be driven as an automatic whereas a manual transmission can only be driven manually.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+	~A steptronic transmission is an automatic transmission that has the ability to be driven as a manual under special circumstances and in off road conditions only whereas a manual transmission can only be driven manually at all times.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+	~A steptronic transmission is a semi-automatic transmission that has the ability to be driven as an automatic under special circumstances and in off road conditions only whereas a manual transmission can only be driven manually at all times.#In steptronic applications the manual program is available by moving the selector lever to the left of the 'D' position.
+}
+
+
+//name:TQ0826
+::TQ0826::Under what circumstances does the 'Stop and Go' function operate?{
+	=When the throttle opening angle and load speed remain below pre-set operational limits.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+	~When the throttle pedal is rapidly released and when the lateral acceleration is rapidly reduced, the system inhibits up shifts and downshifts.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+	~When the throttle opening speed and load angle remain below preset operational limits.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+	~When the brake pedal is rapidly released and when the lateral acceleration is rapidly reduced, the system inhibits up shifts and downshifts.#A 'Stop and Go' situation is identified if the throttle opening angle and the road speed remain below preset limits for a given period of time.
+}
+
+
+//name:TQ0827
+::TQ0827::Technician A says a fully hydraulically controlled transmission cannot change its driving pattern.  Technician B says 'Normal' mode in an electronically controlled transmission is suitable for highway driving.  Who is correct?{
+	=Technician A.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+	~Technician B.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. A fully hydraulically controlled transmission cannot change its driving pattern.  'Normal' mode is suitable for highway driving.
+}
+
+
+//name:TQ0828
+::TQ0828::What is the function of 'Environment Identification'?{
+	=To identify if the vehicle is operating in unusual ambient conditions.#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+	~To inform the driver of outside temperature.#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+	~To warn the driver of imminent snow#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+	~To warn the driver of imminent rain.#Environment identification determines if ambient conditions require alterations to the transmission driving pattern. 
+}
+
+
+//name:TQ0829
+::TQ0829::What are the special functions of 'Driving Situation Identification'? {
+	=Fast-off, Downhill Gradient, Corner and Stop-go Identification.#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+	~Transmission lock, Manual and Snow Mode.#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+	~Downhill  and Cornering upshifts#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+	~Normal, Sport and Economy Modes#The four functions of 'Driving Situation Identification' are Fast-off, Downhill Gradient, Corner and Stop-go Identification.
+}
+
+
+//name:TQ0830
+::TQ0830::In 'Cornering Identification' the sensors used to determine lateral acceleration are the:{
+	=front wheel speed sensors and the road speed sensor.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+	~rear wheel speed sensors.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+	~lateral acceleration sensor.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+	~the yaw sensor.#Data from the front wheel speed sensors and the road speed sensor provide an accurate estimate of lateral acceleration.
+}
+
+

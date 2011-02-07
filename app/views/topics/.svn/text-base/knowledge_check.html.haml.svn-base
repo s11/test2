@@ -1,0 +1,5 @@
+- cache([resource, "knowledge-check"]) do
+  #topic
+    = render :partial => "navigation"
+
+    %iframe{ :frameborder => '0', :align => 'left', :width => '100%', :height => '800px', :src => "#{controller.relative_url_root}/assets/KC/#{resource.knowledge_check_filename}" }

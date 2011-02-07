@@ -1,0 +1,5 @@
+#breadcrumb
+  %ul
+    - @breadcrumbs[0..-2].each do |txt, path|
+      %li== #{link_to_unless_current(txt, path)}&nbsp;&gt;
+    %li= link_to_unless_current(@breadcrumbs.last[0], @breadcrumbs.last[1])

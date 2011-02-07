@@ -1,0 +1,14 @@
+Thank you for registering for a 14 day CDX Online trial access login.
+
+To use CDX Online you must first download the CDX Online Launcher which
+you can download by visiting the following page:
+
+  http://www.cdxglobal.com/launcher/index.html
+
+Here are your trial site login details:
+
+   Access Code: atp1
+        UserID: <%= @recipient.username %>
+  PIN/Password: <%= @recipient.unencrypted_password %>
+
+Please note that your trial access will expire on <%= @recipient.deleted_at.to_s(:long) %>

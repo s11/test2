@@ -1,0 +1,79 @@
+//name:TQ0850
+::TQ0850::The manual valve located in an automatic transmission is normally a:{
+	=control valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+	~pressure regulating valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+	~timing valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+	~check valve.#In a regulating valve from a fluid circuit the valve is forced downwards against its spring until it begins to uncover a port leading to another part of the circuit. Since the port is not fully uncovered, there is a restriction to flow and this causes a pressure drop across it. The pressure of the fluid in this part of the circuit is now less than the pressure of the fluid being supplied. If the port was fully uncovered then pressures on both sides of the valve would become equal.
+}
+
+
+//name:TQ0851
+::TQ0851::What sort of valves are control valves?{
+	=Simple gate valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+	~Complex gate valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+	~Proportioning valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+	~Non return valves.#Control valves are simple 'gate' type valves which either open or close off a circuit with no alteration in pressure.
+}
+
+
+//name:TQ0852
+::TQ0852::The lands of a spool valve have sharp edges so that they:{
+	=have a self-cleaning action.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+	~prevent fluid leakage.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+	~fit flush against the retainer.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+	~prevent pressure surges.#Spool-type valves are more suitable for pressure regulation in automatic transmissions as variable pressures must be provided. Due to the design of the spool valve the land area has a self-cleaning action during operation.
+}
+
+
+//name:TQ0853
+::TQ0853::Which of the following does NOT comprise part of the hydraulic system?{
+	=Brake band. #A crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+	~Crescent type gear pump.#A crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+	~Centrifugally operated hydraulic governor.#A crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+	~Control valve body assembly.#The a crescent type gear pump, a centrifugally operated hydraulic governor and a control valve body assembly are all components of a hydraulic system.
+}
+
+
+//name:TQ0854
+::TQ0854::The governor provides a varying hydraulic pressure according to engine RPM.{
+	=FALSE#The governor is driven by the transmission output shaft and provides a varying hydraulic pressure according to vehicle speed.
+	~TRUE#The governor is driven by the transmission output shaft and provides a varying hydraulic pressure according to vehicle speed.
+}
+
+
+//name:TQ0855
+::TQ0855::In a Borg Warner 35 type of automatic transmission the control valves can be divided into two groups:{
+	=pressure regulating valves and flow control valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+	~pressure actuating valves and flow control valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+	~pressure regulating valves and flow return valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+	~pressure control valves and flow regulating valves.#The valves can be divided into two groups. Pressure regulating valves and those that direct flow and pressure, collectively called flow control valves.
+}
+
+
+//name:TQ0856
+::TQ0856::Spool valves can be divided into two groups. They are:{
+	=pressure regulating valves and flow control valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+	~pressure regulating valves and pressure control valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+	~flow control valves and flow regulating valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+	~spring compression valves and supply pressure valves.#Spool valves can be regulating valves or flow control valves. Regulating valves regulate fluid pressure in the system.
+}
+
+
+//name:TQ0857
+::TQ0857::Technician A says that spool valves can be positioned manually by springs or by pressure.  Technician B says differential force will move the spool valve.  Who is correct?{
+	=Technician A.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+	~Technician B.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+	~Both Technician A and Technician B.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+	~Neither Technician A or Technician B.#Both Technician A and Technician B are correct. Spool valves can be positioned manually by springs or by pressure.  Differential force will move the spool valve.
+}
+
+
+//name:TQ0858
+::TQ0858::Technician A says that 'orifices' are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. Technician B says the orifice is designed to alllow sudden or undue movement of a valve.  Who is correct?{
+	=Technician A.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+	~Technician B.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+	~Both Technician A and Technician B.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+	~Neither Technician A or Technician B.#Technician A is correct. Orifices are used to restrict fluid flow for timing purposes or to prevent valve fluctuations. The orifice is designed to prevent sudden or undue movement of a valve.
+}
+
+

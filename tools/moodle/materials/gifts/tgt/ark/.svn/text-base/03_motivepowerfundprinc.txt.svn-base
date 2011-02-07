@@ -1,0 +1,40 @@
+//name:TQ1407
+::TQ1407::The pressure and temperature of a gas are linked. Which of the following is true?{
+	=As pressure goes up, temperature goes up.#Temperature is a measure of the average energy of the particles (atoms or molecules) of a substance. This energy occurs as the translational motion of a particle or as internal energy of a particle, such as a molecular vibration or the excitation of an electron energy level. When gas pressure increases so will the temperature of the gas.
+	~As pressure goes up, temperature goes down.#Temperature is a measure of the average energy of the particles (atoms or molecules) of a substance. This energy occurs as the translational motion of a particle or as internal energy of a particle, such as a molecular vibration or the excitation of an electron energy level. When gas pressure increases so will the temperature of the gas.
+	~As pressure goes down, temperature goes up.#Temperature is a measure of the average energy of the particles (atoms or molecules) of a substance. This energy occurs as the translational motion of a particle or as internal energy of a particle, such as a molecular vibration or the excitation of an electron energy level. When gas pressure increases so will the temperature of the gas.
+	~As pressure goes up and down, temperature remains the same.#Temperature is a measure of the average energy of the particles (atoms or molecules) of a substance. This energy occurs as the translational motion of a particle or as internal energy of a particle, such as a molecular vibration or the excitation of an electron energy level. When gas pressure increases so will the temperature of the gas.
+}
+
+
+//name:TQ1408
+::TQ1408::As a plunger is pushed in, the air inside a cylinder is forced into a smaller volume. What is the effect on the pressure inside the cylinder?{
+	=An increase in pressure.#As a cylinder volume decreases, the contents are squeezed into a smaller space creating increased pressure.
+	~A decrease in pressure.#As a cylinder volume decreases, the contents are squeezed into a smaller space creating increased pressure.
+	~The pressure remains the same.#As a cylinder volume decreases, the contents are squeezed into a smaller space creating increased pressure.
+}
+
+
+//name:TQ1409
+::TQ1409::The temperature of a gas is a measure of how much energy it has. The more energy it has, the more work it can do.{
+	=TRUE#Temperature is a physical property of a system that underlies the common notions of hot and cold; something that is hotter has the greater temperature. Temperature is one of the principal parameters of thermodynamics. The temperature of a system is related to the average energy of microscopic motions in the system.
+	~FALSE#Temperature is a physical property of a system that underlies the common notions of hot and cold; something that is hotter has the greater temperature. Temperature is one of the principal parameters of thermodynamics. The temperature of a system is related to the average energy of microscopic motions in the system.
+}
+
+
+//name:TQ1410
+::TQ1410::The rotational force applied to the crankshaft by the piston and connecting rod is called torque.{
+	=TRUE#The rotational force called torque is measured in newton-meters or foot-pounds.
+	~FALSE#The rotational force called torque is measured in newton-meters or foot-pounds.
+}
+
+
+//name:TQ1411
+::TQ1411::When a piston is forced down the cylinder durng the power stroke it applies the force to the:{
+	=connecting rod.#The connecting rod then causes the crankshaft to turn. The rotational force applied to the crankshaft is called torque.
+	~crankshaft.#The connecting rod then causes the crankshaft to turn. The rotational force applied to the crankshaft is called torque.
+	~camshaft.#The connecting rod then causes the crankshaft to turn. The rotational force applied to the crankshaft is called torque.
+	~crankshaft bearing.#The connecting rod then causes the crankshaft to turn. The rotational force applied to the crankshaft is called torque.
+}
+
+

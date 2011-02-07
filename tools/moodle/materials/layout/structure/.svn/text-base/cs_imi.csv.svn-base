@@ -1,0 +1,394 @@
+menu,cdx_menu_name,map,shortname,category,test_type,test_type_abbr,quiz,qn_category
+imi,IMI (UK),CDX IMI 5.1 Quizzes & Tests,lv1foundation,LV1-Foundation Studies,Topic Group Test,TGT,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,perspropsafety
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Automotive tools,autotools
+,,,,,,,Additional tools,additionaltools
+,,,,,,,Lifting equipment,liftingequip
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Information & tools,infotools
+,,,,,,,Units of measure,unitsofmeasure
+,,,,,,,Chassis,chassis
+,,,,,,,Active listening,activelisten
+,,,,,,,Art of speaking,artspeaking
+,,,,,,,People skills,peopleskills
+,,,,,,,Effective reading,effectiveread
+,,,,,,,Researching,researching
+,,,,,Find-The-Missing Word,FTMW,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,perspropsafety
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Use electric power tools,useelecpowertools
+,,,,,,,Use air power tools,useairpowertools
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Automotive tools,autotools
+,,,,,,,Additional tools,additionaltools
+,,,,,,,Using measuring tools,usemeasuretools
+,,,,,,,Lifting equipment,liftingequip
+,,,,,,,Body designs,bodydesigns
+,,,,,,,Information procedures,infoproc
+,,,,,,,Information & tools,infotools
+,,,,,,,Units of measure,unitsofmeasure
+,,,,,,,Chassis,chassis
+,,,,,,,Communication,communication
+,,,,,Practice Exam,PE,IMI LV1-Foundation Studies,51imilv1foundationPE
+,,,,,Final Exam,FE,IMI LV1-Foundation Studies,51imilv1foundationFE
+,,,lv1chassis,LV1-Chassis Technology,Topic Group Test,TGT,Body designs,bodydesigns
+,,,,,,,Engine layouts,enginelayouts
+,,,,,,,Drive configurations ,driveconfig
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Safety systems,safetysys
+,,,,,,,Steering principles,steeringprinc
+,,,,,,,Steering arms & components,steeringarms
+,,,,,,,Suspension fundamental principles,suspfundas
+,,,,,,,Types of suspension,susptypes
+,,,,,,,Types of springs,springtypes
+,,,,,,,Shock absorber types ,shocktypes
+,,,,,,,Tire types & characteristics ,tiretypes
+,,,,,,,Tire construction,tireconstruction
+,,,,,,,Wheel alignment fundamentals,wheelalign
+,,,,,,,Braking fundamentals ,brakingfundas
+,,,,,,,Drum brakes & components ,drumbrakes
+,,,,,,,Disc brakes & components ,discbrakes
+,,,,,,,Chassis,chassis
+,,,,,,,Engine layouts,enginelayouts
+,,,,,Find-The-Missing Word,FTMW,Body designs,bodydesigns
+,,,,,,,Engine layouts,enginelayouts
+,,,,,,,Drive configurations ,driveconfig
+,,,,,,,Vehicle inspection procedures,vehinspectproc
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Safety systems,safetysys
+,,,,,,,Steering principles,steeringprinc
+,,,,,,,Steering arms & components,steeringarms
+,,,,,,,Steering system procedures,steersysproc
+,,,,,,,Suspension fundamental principles,suspfundas
+,,,,,,,Types of suspension,susptypes
+,,,,,,,Types of springs,springtypes
+,,,,,,,Shock absorber types ,shocktypes
+,,,,,,,Suspension system procedures,suspsysproc
+,,,,,,,Tire types & characteristics ,tiretypes
+,,,,,,,Tire construction,tireconstruction
+,,,,,,,Wheel alignment fundamentals,wheelalign
+,,,,,,,Wheels & tires procedures,wheelstiresproc
+,,,,,,,Braking fundamentals ,brakingfundas
+,,,,,,,Drum brakes & components ,drumbrakes
+,,,,,,,Disc brakes & components ,discbrakes
+,,,,,,,Brakes procedures,brakesproc
+,,,,,,,Chassis,chassis
+,,,,,,,Writing at work,writing
+,,,,,Practice Exam,PE,IMI LV1-Chassis Technology,51imilv1chassisPE
+,,,,,Final Exam,FE,IMI LV1-Chassis Technology,51imilv1chassisFE
+,,,lv1enginetech,LV1-Engine Technology,Topic Group Test,TGT,Engine layouts,enginelayouts
+,,,,,,,Motive power fundamental principles,motivepowerfundas
+,,,,,,,4-stroke spark-ignition engines,4stroke
+,,,,,,,2-stroke spark-ignition engines,2stroke
+,,,,,,,Spark-ignition engine components,sparkignitioncomp
+,,,,,,,Cooling fundamentals,coolingfundamentals
+,,,,,,,Cooling systems,coolingsystems
+,,,,,,,Cooling system components ,coolingsyscomp
+,,,,,,,Lubrication systems,lubesys
+,,,,,,,Lubrication system components ,lubesyscomp
+,,,,,,,Petrol fuel system principles,petrolfuel
+,,,,,,,Carburetor operation,carbop
+,,,,,,,Carbureted system components,carbsyscomp
+,,,,,,,EFI fuel supply system - principles,efiprinciples
+,,,,,,,EFI fuel supply system - components,eficomp
+,,,,,,,Diesel fuel systems,dieselfuelsys
+,,,,,,,Ignition systems,ignitionsys
+,,,,,,,Contact breaker ignition,contactbreakerignition
+,,,,,,,Contact breaker components,contactbreakcomp
+,,,,,,,Electronic systems & components,electronicsyscomp
+,,,,,,,Engine cycles,enginecycles
+,,,,,,,Engine cooling ,enginecooling
+,,,,,,,Engines,engines
+,,,,,Find-The-Missing Word,FTMW,Engine layouts,enginelayouts
+,,,,,,,Motive power fundamental principles,motivepowerfundas
+,,,,,,,4-stroke spark-ignition engines,4stroke
+,,,,,,,2-stroke spark-ignition engines,2stroke
+,,,,,,,Spark-ignition engine components,sparkignitioncomp
+,,,,,,,Engine component procedures,enginecompproc
+,,,,,,,Cooling fundamentals,coolingfundamentals
+,,,,,,,Cooling systems,coolingsystems
+,,,,,,,Cooling system components ,coolingsyscomp
+,,,,,,,Cooling system procedures,coolingsysproc
+,,,,,,,Lubrication systems,lubesys
+,,,,,,,Lubrication system components ,lubesyscomp
+,,,,,,,Lubrication procedures,lubeproc
+,,,,,,,Petrol fuel system principles,petrolfuel
+,,,,,,,Carburetor operation,carbop
+,,,,,,,Carbureted system components,carbsyscomp
+,,,,,,,EFI fuel supply system - principles,efiprinciples
+,,,,,,,EFI fuel supply system - components,eficomp
+,,,,,,,Diesel fuel systems,dieselfuelsys
+,,,,,,,Ignition systems,ignitionsys
+,,,,,,,Contact breaker ignition,contactbreakerignition
+,,,,,,,Contact breaker components,contactbreakcomp
+,,,,,,,Electronic systems & components,electronicsyscomp
+,,,,,,,Ignition procedures,ignitionproc
+,,,,,,,Engine cycles,enginecycles
+,,,,,,,Engine cooling ,enginecooling
+,,,,,,,Engines,engines
+,,,,,Practice Exam,PE,IMI LV1-Engine Technology,51imilv1enginePE
+,,,,,Final Exam,FE,IMI LV1-Engine Technology,51imilv1engineFE
+,,,lv1trans,LV1-Transmission Technology,Topic Group Test,TGT,Clutches,clutches
+,,,,,,,Manual transmissions,manualtrans
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Front-wheel drive,frontwheeldrive
+,,,,,,,Rear-wheel drive,rearwheeldrive
+,,,,,Find-The-Missing Word,FTMW,Clutches,clutches
+,,,,,,,Manual transmissions,manualtrans
+,,,,,,,Basic layouts,basiclayouts
+,,,,,,,Front-wheel drive,frontwheeldrive
+,,,,,,,Rear-wheel drive,rearwheeldrive
+,,,,,Practice Exam,PE,IMI LV1-Transmission Technology,51imilv1transPE
+,,,,,Final Exam,FE,IMI LV1-Transmission Technology,51imilv1transFE
+,,,lv1elec,LV1-Electrical & Electronic,Topic Group Test,TGT,Electrical fundamentals,electricalfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Batteries,batteries
+,,,,,,,Charging,charging
+,,,,,,,Starting,starting
+,,,,,,,Types of lights,typesoflights
+,,,,,,,Electrics,electrics
+,,,,,Find-The-Missing Word,FTMW,Electrical fundamentals,electricalfundas
+,,,,,,,Sources of electricity,sourceselec
+,,,,,,,Effects of electricity,effectselec
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Wires & connectors procedures ,wiresproc
+,,,,,,,Batteries,batteries
+,,,,,,,Battery maintenance procedures,batteryproc
+,,,,,,,Charging,charging
+,,,,,,,Charging procedures ,chargingproc
+,,,,,,,Starting,starting
+,,,,,,,Types of lights,typesoflights
+,,,,,,,Lighting procedures,lightingproc
+,,,,,,,Electrics,electrics
+,,,,,Practice Exam,PE,IMI LV1-Electrical & Electronic,51imilv1elecPE
+,,,,,Final Exam,FE,IMI LV1-Electrical & Electronic,51imilv1elecFE
+,,,lv2gen,LV2-General Aspects,Topic Group Test,TGT,Hazards & emergencies ,hazemerg
+,,,,,,,Personal & property safety,perspropsafety
+,,,,,,,Basic tool preparation,basictoolprep
+,,,,,,,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Automotive tools,autotools
+,,,,,,,Additional tools,additionaltools
+,,,,,,,Diagnostic equipment,diagnosticequip
+,,,,,,,Lifting equipment,liftingequip
+,,,,,,,Information procedures,infoproc
+,,,,,Find-The-Missing Word,FTMW,Basic tool preparation,basictoolprep
+,,,,,,,Tools & equipment fundamentals,toolsequipfundas
+,,,,,,,Power tools,powertools
+,,,,,,,Using electric power tools,useelecpowertools
+,,,,,,,Using air power tools,useairpowertools
+,,,,,,,Common workshop tools ,commonworkshoptools
+,,,,,,,Automotive tools,autotools
+,,,,,,,Additional tools,additionaltools
+,,,,,,,Using non-powered tools,usenonpoweredtools
+,,,,,,,Using measuring tools,usemeasuretools
+,,,,,,,Diagnostic equipment,diagnosticequip
+,,,,,,,Lifting equipment,liftingequip
+,,,,,,,Using workshop equipment,useworkshopequip
+,,,,,,,Information procedures,infoproc
+,,,,,Practice Exam,PE,IMI LV2-General Aspects,51imilv2genPE
+,,,,,Final Exam,FE,IMI LV2-General Aspects,51imilv2genFE
+,,,lv2chassis,LV2-Chassis Technology,Topic Group Test,TGT,Diagnostic equipment,diagnosticequip
+,,,,,,,Steering boxes & columns,steeringboxes
+,,,,,,,Types of suspension,typesofsusp
+,,,,,,,Shock absorber types ,shocktypes
+,,,,,,,Front suspension types & components,frontsusptypescomp
+,,,,,,,Rear suspension types & components,rearsusptypescomp
+,,,,,,,Suspension system layouts,suspsyslayouts
+,,,,,,,Wheel types & sizes ,wheeltypes
+,,,,,,,Tire types & characteristics ,tiretypes
+,,,,,,,Tire construction,tireconstruction
+,,,,,,,Braking systems ,brakingsys
+,,,,,,,Braking system components,brakingsyscomp
+,,,,,,,Drum brakes & components ,drumbrakes
+,,,,,,,Disc brakes & components ,discbrakes
+,,,,,Find-The-Missing Word,FTMW,Diagnostic equipment,diagnosticequip
+,,,,,,,Steering boxes & columns,steeringboxes
+,,,,,,,Steering system procedures,steersysproc
+,,,,,,,Types of suspension,typesofsusp
+,,,,,,,Shock absorber types ,shocktypes
+,,,,,,,Front suspension types & components,fronsusptypescomp
+,,,,,,,Suspension system layouts,suspsyslayouts
+,,,,,,,Suspension system procedures,suspsysproc
+,,,,,,,Wheel types & sizes ,wheeltypes
+,,,,,,,Tire types & characteristics ,tiretypes
+,,,,,,,Tire construction,tireconstruction
+,,,,,,,Wheels & tires procedures,wheelstiresproc
+,,,,,,,Braking systems ,brakingsys
+,,,,,,,Braking system components,brakingsyscomp
+,,,,,,,Drum brakes & components ,drumbrakes
+,,,,,,,Disc brakes & components ,discbrakes
+,,,,,,,Brakes procedures,brakesproc
+,,,,,Practice Exam,PE,IMI LV2-Chassis Technology,51imilv2chassisPE
+,,,,,Final Exam,FE,IMI LV2-Chassis Technology,51imilv2chassisFE
+,,,lv2engine,LV2-Engine Technology,Topic Group Test,TGT,Rotary spark-ignition engine & components,rotarycomp
+,,,,,,,Alternative engine cycles ,altenginecyles
+,,,,,,,Hybrid drive systems,hybridsystems
+,,,,,,,Compression-ignition engines,compressionignition
+,,,,,,,Compression-ignition engine components,compressionignitioncomp
+,,,,,,,Engine characteristics,enginecharacteristics
+,,,,,,,Cylinder blocks,cylinderblocks
+,,,,,,,Cylinder heads,cylinderheads
+,,,,,,,Valves & valve trains,valvetrains
+,,,,,,,Camshafts & drives,camshafts
+,,,,,,,Pistons,pistons
+,,,,,,,Crankshaft assemblies ,crankshaftassemblies
+,,,,,,,Oil,oil
+,,,,,,,Intake & exhaust systems,intakeexhaustsys
+,,,,,,,Intake system components,intakesyscomp
+,,,,,,,Exhaust system components,exhaustsyscomp
+,,,,,,,Alternate fuels introduction,altfuelsintro
+,,,,,,,Biodiesel ,biodiesel
+,,,,,,,Gaseous fuels,gaseousfuels
+,,,,,,,Alternate fuels developments,altfuelsdev
+,,,,,,,Fuel system procedures,fuelsysproc
+,,,,,,,Diesel fuel system components ,dieselfuelsyscomp
+,,,,,,,Diesel electronic control,dieseleleccontrol
+,,,,,,,EFI operation,efioperation
+,,,,,,,Electronic control unit - ECU,ecu
+,,,,,,,EFI sensors,efisensors
+,,,,,,,Creation of emissions,creationemissions
+,,,,,,,Types of emissions,typesemissions
+,,,,,,,Emission control,emissioncontrol
+,,,,,,,Distributorless systems ,distributorless
+,,,,,,,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Climate control,climatecontrol
+,,,,,,,Engine components,enginecomp
+,,,,,,,Fuel systems,fuelsystems
+,,,,,Find-The-Missing Word,FTMW,Rotary spark-ignition engine & components,rotarycomp
+,,,,,,,Alternative engine cycles ,altenginecyles
+,,,,,,,Hybrid drive systems,hybridsystems
+,,,,,,,Compression-ignition engines,compressionignition
+,,,,,,,Compression-ignition engine components,compressionignitioncomp
+,,,,,,,Engine characteristics,enginecharacteristics
+,,,,,,,Cylinder blocks,cylinderblocks
+,,,,,,,Cylinder heads,cylinderheads
+,,,,,,,Valves & valve trains,valvetrains
+,,,,,,,Camshafts & drives,camshafts
+,,,,,,,Pistons,pistons
+,,,,,,,Crankshaft assemblies ,crankshaftassemblies
+,,,,,,,Engine component procedures,enginecompproc
+,,,,,,,Oil,oil
+,,,,,,,Intake & exhaust systems,intakeexhaustsys
+,,,,,,,Intake system components,intakesyscomp
+,,,,,,,Exhaust system components,exhaustsyscomp
+,,,,,,,Intake system procedure,intaksysproc
+,,,,,,,Alternate fuels introduction,altfuelsintro
+,,,,,,,Biodiesel ,biodiesel
+,,,,,,,Gaseous fuels,gaseousfuels
+,,,,,,,Alternate fuels developments,altfuelsdev
+,,,,,,,Fuel system procedures,fuelsysproc
+,,,,,,,Diesel fuel system components ,dieselfuelsyscomp
+,,,,,,,Diesel electronic control,dieseleleccontrol
+,,,,,,,EFI operation,efioperation
+,,,,,,,Electronic control unit - ECU,ecu
+,,,,,,,EFI sensors,efisensors
+,,,,,,,Creation of emissions,creationemissions
+,,,,,,,Types of emissions,typesemissions
+,,,,,,,Emission control,emissioncontrol
+,,,,,,,Distributorless systems ,distributorless
+,,,,,,,Ignition procedures,ignitionproc
+,,,,,,,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Climate control,climatecontrol
+,,,,,,,Engine components,enginecomp
+,,,,,,,Fuel systems,fuelsystems
+,,,,,Practice Exam,PE,IMI LV2-Engine Technology,51imilv2enginePE
+,,,,,Final Exam,FE,IMI LV2-Engine Technology,51imilv2engineFE
+,,,lv2trans,LV2-Transmission Technology,Topic Group Test,TGT,Clutch components,clutchcomp
+,,,,,,,Gearbox layout & operation ,gearboxlayoutop
+,,,,,,,Four-wheel drive (part-time),fourwheeldrive
+,,,,,,,All-wheel drive,allwheeldrive
+,,,,,Find-The-Missing Word,FTMW,Clutch components,clutchcomp
+,,,,,,,Gearbox layout & operation ,gearboxlayoutop
+,,,,,,,Four-wheel drive (part-time),fourwheeldrive
+,,,,,,,All-wheel drive,allwheeldrive
+,,,,,,,Final drives procedures,finaldriveproc
+,,,,,,,Automatic transmission procedures,autotransproc
+,,,,,Practice Exam,PE,IMI LV2-Transmission Technology,51imilv2transPE
+,,,,,Final Exam,FE,IMI LV2-Transmission Technology,51imilv2transFE
+,,,lv2elec,LV2-Electrical & Electronic,Topic Group Test,TGT,Diagnostic equipment,diagnosticequip
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Electrical components,electricalcomp
+,,,,,,,Electronic components,electroniccomp
+,,,,,,,Alternator construction,alternatorcomp
+,,,,,,,Starting,starting
+,,,,,,,Lighting,lighting
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Security systems,securitysys
+,,,,,,,Entertainment & peripheral systems,entertainment
+,,,,,,,Electronics,electronics
+,,,,,Find-The-Missing Word,FTMW,Diagnostic equipment,diagnosticequip
+,,,,,,,Circuits & measurement,circuitsmeasure
+,,,,,,,Electrical testing procedures ,electestproc
+,,,,,,,Electrical components,electricalcomp
+,,,,,,,Electronic components,electroniccomp
+,,,,,,,Alternator construction,alternatorcomp
+,,,,,,,Charging procedures ,chargingproc
+,,,,,,,Starting,starting
+,,,,,,,Starting procedures ,startingproc
+,,,,,,,Lighting,lighting
+,,,,,,,Lighting circuits,lightingcircuits
+,,,,,,,Lighting procedures,lightingproc
+,,,,,,,Security systems,securitysys
+,,,,,,,Entertainment & peripheral systems,entertainment
+,,,,,,,Electronics,electronics
+,,,,,Practice Exam,PE,IMI LV2-Electrical & Electronic,51imilv2elecPE
+,,,,,Final Exam,FE,IMI LV2-Electrical & Electronic,51imilv2elecFE
+,,,lv2advanced,LV2-Advanced Studies,Topic Group Test,TGT,Antilock braking system & components,antilockbrakes
+,,,,,,,On-board diagnostics,onboarddiag
+,,,,,,,Torque converters,torqueconverters
+,,,,,,,Planetary gearing,planetarygearing
+,,,,,,,Electronic control transmission,eleccontroltrans
+,,,,,,,Layout & operation,layoutop
+,,,,,,,Servos & clutches,servosclutches
+,,,,,,,Hydraulic system & controls,hydraulicsyscontrols
+,,,,,,,Valve types & functions,valvetypes
+,,,,,,,Pressure regulation,pressureregulation
+,,,,,,,Flow control,flowcontrol
+,,,,,,,Continuously variable transmission (C.V.T.),cvt
+,,,,,,,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Fixed orifice tube air-conditioning system ,fixedorifice
+,,,,,,,Thermal expansion valve air-conditioning system,thermalexpansion
+,,,,,,,Air-conditioning components,airconcomp
+,,,,,,,Climate control,climatecontrol
+,,,,,,,Satellite assisted systems,satellitesys
+,,,,,Find-The-Missing Word,FTMW,Antilock braking system & components,antilockbrakes
+,,,,,,,Introduction to engine rebuilding,rebuildintro
+,,,,,,,Removing the engine,removeengine
+,,,,,,,Engine disassembly,engindisassembly
+,,,,,,,Engine machining,enginemachining
+,,,,,,,Engine pre-assembly,enginepreassembly
+,,,,,,,Engine final assembly,enginefinalassembly
+,,,,,,,Engine re-installing,enginereinstalling
+,,,,,,,Engine start-up,enginestartup
+,,,,,,,On-board diagnostics,onboarddiag
+,,,,,,,Emissions procedures,emissionsproc
+,,,,,,,Torque converters,torqueconverters
+,,,,,,,Planetary gearing,planetarygearing
+,,,,,,,Electronic control transmission,eleccontroltrans
+,,,,,,,Layout & operation,layoutop
+,,,,,,,Servos & clutches,servosclutches
+,,,,,,,Hydraulic system & controls,hydraulicsyscontrols
+,,,,,,,Valve types & functions,valvetypes
+,,,,,,,Pressure regulation,pressureregulation
+,,,,,,,Flow control,flowcontrol
+,,,,,,,Continuously variable transmission (C.V.T.),cvt
+,,,,,,,Automatic transmission procedures,autotransproc
+,,,,,,,HVAC basic principles ,hvacbasicprinc
+,,,,,,,Fixed orifice tube air-conditioning system ,fixedorifice
+,,,,,,,Thermal expansion valve air-conditioning system,thermalexpansion
+,,,,,,,Air-conditioning components,airconcomp
+,,,,,,,Climate control,climatecontrol
+,,,,,,,HVAC procedures,hvacproc
+,,,,,,,Satellite assisted systems,satellitesys
+,,,,,Practice Exam,PE,IMI LV2-Advanced Studies,51introskillsPE
+,,,,,Final Exam,FE,IMI LV2-Advanced Studies,51introskillsFE
